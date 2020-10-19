@@ -1,0 +1,1510 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+   <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+      <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+      <title>404 | Fox News</title>
+      <meta name="robots" content="noarchive,noodp"/>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta http-equiv="content-language" content="en"/>
+      <meta http-equiv="x-dns-prefetch-control" content="on"/>
+      <meta name="description" content="FoxNews.com"/>
+      <meta name="dc.title" lang="en" content="FoxNews.com - Breaking News | Latest News | Current News"/>
+      <meta name="dc.creator" content="Fox News Digital"/>
+      <meta name="dc.description" content="Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."/>
+      <meta name="dcterms.abstract" content="Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."/>
+      <meta name="dc.source" content="FoxNews.com"/>
+      <meta name="dc.type" scheme="dcterms.DCMIType" content="Collection"/>
+      <meta name="prism.genre" content="errorPage"/>
+      <meta name="prism.aggregationType" content="front"/>
+      <meta name="prism.channel" content="fnc"/>
+      <meta name="prism.section" content="error"/>
+      <meta name="prism.subsection1" content=""/>
+      <meta name="prism.subsection2" content=""/>
+      <meta name="prism.subsection3" content=""/>
+      <meta name="prism.subsection4" content=""/>
+      <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US"/>
+      <meta name="dc.publisher" content="FOX News"/>
+      <meta name="pagetype" content="404"/>
+      <!-- Favicons -->
+      <link rel="shortcut icon" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" type="image/x-icon"/>
+      <link rel="apple-touch-icon" sizes="57x57" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-180x180.png">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-16x16.png" sizes="16x16">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-32x32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-96x96.png" sizes="96x96">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/android-chrome-192x192.png" sizes="192x192">
+      <link rel="mask-icon" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/safari-pinned-tab.svg" color="#003366">
+      <meta name="msapplication-square70x70logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png" />
+      <meta name="msapplication-square150x150logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png" />
+      <meta name="msapplication-square310x310logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png" />
+      <meta name="msapplication-wide310x150logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png" />
+      <meta name="msapplication-TileColor" content="#1b4e81">
+      <meta name="theme-color" content="#1b4e81">
+      <!-- most pages get custom CSS - these all have querystrings added via in year month day hh:mm:ss - PHP '?cb='.date('Ymdhis'); format-->
+      <link href="//static.foxnews.com/static/orion/styles/css/fox-news/page.rs.css" rel="stylesheet" type="text/css" media="all" />
+      <link data-n-head="true" href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&amp;display=swap" rel="stylesheet" type="text/css">
+      <!-- core JS files all pages - these all have querystrings added via in year month day hh:mm:ss - PHP '?cb='.date('Ymdhis'); format-->
+      <script src="//static.foxnews.com/static/orion/scripts/core/ag.core.js"></script>
+      <script src="//global.fncstatic.com/static/isa/core.js"></script>
+      <!-- page specific JS (should be a single file) -->
+      <script src="//static.foxnews.com/static/orion/scripts/core/pages/misc/loader.js"></script>
+
+      <script>
+      (function() {
+         // Boomerang Loader Snippet version 14
+         if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+            return;
+         }
+      
+         window.BOOMR = window.BOOMR || {};
+         window.BOOMR.snippetStart = new Date().getTime();
+         window.BOOMR.snippetExecuted = true;
+         window.BOOMR.snippetVersion = 14;
+      
+         window.BOOMR.url = "https://s.go-mpulse.net/boomerang/" +
+            "5GX6Z-TSK3U-2BF75-P7PTZ-QMLZM";
+      
+         var // document.currentScript is supported in all browsers other than IE
+            where = document.currentScript || document.getElementsByTagName("script")[0],
+            // Parent element of the script we inject
+            parentNode = where.parentNode,
+            // Whether or not Preload method has worked
+            promoted = false,
+            // How long to wait for Preload to work before falling back to iframe method
+            LOADER_TIMEOUT = 3000;
+      
+         // Tells the browser to execute the Preloaded script by adding it to the DOM
+         function promote() {
+            if (promoted) {
+                  return;
+            }
+      
+            var script = document.createElement("script");
+            script.id = "boomr-scr-as";
+            script.src = window.BOOMR.url;
+      
+            // Not really needed since dynamic scripts are async by default and the script is already in cache at this point,
+            // but some naive parsers will see a missing async attribute and think we're not async
+            script.async = true;
+      
+            parentNode.appendChild(script);
+      
+            promoted = true;
+         }
+      
+         // Non-blocking iframe loader (fallback for non-Preload scenarios) for all recent browsers.
+         // For IE 6/7, falls back to dynamic script node.
+         function iframeLoader(wasFallback) {
+            promoted = true;
+      
+            var dom, doc = document, bootstrap, iframe, iframeStyle, win = window;
+      
+            window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+      
+            // Adds Boomerang within the iframe
+            bootstrap = function(parent, scriptId) {
+                  var script = doc.createElement("script");
+                  script.id = scriptId || "boomr-if-as";
+                  script.src = window.BOOMR.url;
+      
+                  BOOMR_lstart = new Date().getTime();
+      
+                  parent = parent || doc.body;
+                  parent.appendChild(script);
+            };
+      
+            // For IE 6/7, we'll just load the script in the current frame, as those browsers don't support 'about:blank'
+            // for an iframe src (it triggers warnings on secure sites).  This means loading on IE 6/7 may cause SPoF.
+            if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]\./)) {
+                  window.BOOMR.snippetMethod = "s";
+      
+                  bootstrap(parentNode, "boomr-async");
+                  return;
+            }
+      
+            // The rest of this function is IE8+ and other browsers that don't support Preload hints but will work with CSP & iframes
+            iframe = document.createElement("IFRAME");
+      
+            // An empty frame
+            iframe.src = "about:blank";
+      
+            // We set title and role appropriately to play nicely with screen readers and other assistive technologies
+            iframe.title = "";
+            iframe.role = "presentation";
+      
+            // Ensure we're not loaded lazily
+            iframe.loading = "eager";
+      
+            // Hide the iframe
+            iframeStyle = (iframe.frameElement || iframe).style;
+            iframeStyle.width = 0;
+            iframeStyle.height = 0;
+            iframeStyle.border = 0;
+            iframeStyle.display = "none";
+      
+            // Append to the end of the current block
+            parentNode.appendChild(iframe);
+      
+            // Try to get the iframe's document object
+            try {
+                  win = iframe.contentWindow;
+                  doc = win.document.open();
+            }
+            catch (e) {
+                  // document.domain has been changed and we're on an old version of IE, so we got an access denied.
+                  // Note: the only browsers that have this problem also do not have CSP support.
+      
+                  // Get document.domain of the parent window
+                  dom = document.domain;
+      
+                  // Set the src of the iframe to a JavaScript URL that will immediately set its document.domain to match the parent.
+                  // This lets us access the iframe document long enough to inject our script.
+                  // Our script may need to do more domain massaging later.
+                  iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void 0;";
+                  win = iframe.contentWindow;
+      
+                  doc = win.document.open();
+            }
+      
+            if (dom) {
+                  // Unsafe version for IE8 compatibility. If document.domain has changed, we can't use win, but we can use doc.
+                  doc._boomrl = function() {
+                     this.domain = dom;
+                     bootstrap();
+                  };
+      
+                  // Run our function at load.
+                  // Split the string so HTML code injectors don't get confused and add code here.
+                  doc.write("<bo" + "dy onload='document._boomrl();'>");
+            }
+            else {
+                  // document.domain hasn't changed, regular method should be OK
+                  win._boomrl = function() {
+                     bootstrap();
+                  };
+      
+                  if (win.addEventListener) {
+                     win.addEventListener("load", win._boomrl, false);
+                  }
+                  else if (win.attachEvent) {
+                     win.attachEvent("onload", win._boomrl);
+                  }
+            }
+      
+            // Finish the document
+            doc.close();
+         }
+      
+         // See if Preload is supported or not
+         var link = document.createElement("link");
+      
+         if (link.relList &&
+            typeof link.relList.supports === "function" &&
+            link.relList.supports("preload") &&
+            ("as" in link)) {
+            window.BOOMR.snippetMethod = "p";
+      
+            // Set attributes to trigger a Preload
+            link.href = window.BOOMR.url;
+            link.rel  = "preload";
+            link.as   = "script";
+      
+            // Add our script tag if successful, fallback to iframe if not
+            link.addEventListener("load", promote);
+            link.addEventListener("error", function() {
+                  iframeLoader(true);
+            });
+      
+            // Have a fallback in case Preload does nothing or is slow
+            setTimeout(function() {
+                  if (!promoted) {
+                     iframeLoader(true);
+               }
+            }, LOADER_TIMEOUT);
+      
+            // Note the timestamp we started trying to Preload
+            BOOMR_lstart = new Date().getTime();
+      
+            // Append our link tag
+            parentNode.appendChild(link);
+         }
+         else {
+            // No Preload support, use iframe loader
+            iframeLoader(false);
+         }
+      
+         // Save when the onload event happened, in case this is a non-NavigationTiming browser
+         function boomerangSaveLoadTime(e) {
+            window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+         }
+      
+         if (window.addEventListener) {
+            window.addEventListener("load", boomerangSaveLoadTime, false);
+         }
+         else if (window.attachEvent) {
+            window.attachEvent("onload", boomerangSaveLoadTime);
+         }
+      })();
+      </script>
+
+
+   </head>
+   <body class="fn page-404">
+      <div id="wrapper" class="wrapper">
+        <header class="site-header">
+           <div class="branding">
+              <a href="/" class="logo">Fox News</a>
+              <div class="current-time"><span class="time"></span><span class="zone"></span></div>
+           </div>
+           <div class="nav-row nav-row-upper">
+              <div class="inner">
+                 <div class="primary-nav tablet-desktop">
+                    <nav id="main-nav" aria-label="main navigation">
+                      <ul>
+                        <li class="menu-news"><a href="/us">U.S.</a></li>
+                        <li class="menu-news"><a href="/world">World</a></li>
+                        <li class="menu-opinion"><a href="/opinion">Opinion</a></li>
+                        <li class="menu-politics"><a href="/politics">Politics</a></li>
+                        <li class="menu-entertainment"><a href="/entertainment">Entertainment</a></li>
+                        <li class="menu-business"><a href="//www.foxbusiness.com">Business</a></li>
+                        <li class="menu-lifestyle"><a href="/lifestyle">Lifestyle</a></li>
+                        <li class="menu-tv"><a href="/shows">TV</a></li>
+                        <li class="menu-fox-nation"><a href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                        <li class="menu-radio"><a href="//radio.foxnews.com/podcast">Listen</a></li>
+                        <li class="menu-more"><a href="#" class="js-menu-toggle">More</a></li>
+                      </ul>
+                    </nav>
+                 </div>
+                 <div class="meta">
+                    <div class="search-toggle tablet-desktop"><a href="#" class="js-focus-search">Expand / Collapse search</a></div>
+                    <div id="account" class="network-access logged-out logged-in">
+                       <div class="user-profile user-login button"><a href="#" data-omtr-intcmp="hp1navlg" class="login">Login</a></div>
+                    </div>
+                    <div class="button watch"><a href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch TV</a></div>
+                    <div class="menu mobile"><a aria-label="Mobile Menu" href="#" class="js-menu-toggle">Menu</a></div>
+                 </div>
+              </div>
+           </div>
+           <div class="nav-row nav-row-lower tablet-desktop">
+              <div class="inner">
+                 <div class="secondary-nav">
+                    <nav aria-label="hot topics" class="hot-topics">
+                       <span class="subnav-title">Hot Topics</span>
+                       <ul class="rotate-items"></ul>
+                    </nav>
+                 </div>
+              </div>
+           </div>
+           <div class="expandable-nav">
+              <div class="inner">
+                 <div class="search">
+                    <div class="search-wrap">
+                       <form action="/search-results/search" method="get">
+                          <fieldset><input type="text" placeholder="Search foxnews.com" name="q" autocomplete="off" class="resp_site_search"><input type="submit" value="Search" class="resp_site_submit"></fieldset>
+                       </form>
+                    </div>
+                 </div>
+              </div>
+              <div class="section-nav">
+                 <div class="inner">
+                    <nav aria-label="U.S.">
+                       <h6 class="nav-title"><a aria-label="U.S." href="/us">U.S.</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="U.S. - Crime" href="/category/us/crime">Crime</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Military" href="/category/us/military">Military</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Education" href="/category/us/education">Education</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Terror" href="/category/us/terror">Terror</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Immigration" href="/category/us/immigration">Immigration</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Economy" href="/category/us/economy">Economy</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Personal Freedoms" href="/category/us/personal-freedoms">Personal Freedoms</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Fox News Investigates" href="/category/news-events/fox-news-investigates">Fox News Investigates</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="World">
+                       <h6 class="nav-title"><a aria-label="World" href="/world">World</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="World - U.N." href="/category/world/united-nations">U.N.</a></li>
+                          <li class="nav-item"><a aria-label="World - Conflicts" href="/category/world/conflicts">Conflicts</a></li>
+                          <li class="nav-item"><a aria-label="World - Terrorism" href="/category/world/terrorism">Terrorism</a></li>
+                          <li class="nav-item"><a aria-label="World - Disasters" href="/category/world/disasters">Disasters</a></li>
+                          <li class="nav-item"><a aria-label="World - Global Economy" href="/category/world/global-economy">Global Economy</a></li>
+                          <li class="nav-item"><a aria-label="World - Environment" href="/category/world/environment">Environment</a></li>
+                          <li class="nav-item"><a aria-label="World - Religion" href="/category/world/world-religion">Religion</a></li>
+                          <li class="nav-item"><a aria-label="World - Scandals" href="/category/world/scandals">Scandals</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Opinion" class="mobile">
+                       <h6 class="nav-title"><a aria-label="Opinion" href="/opinion">Opinion</a></h6>
+                       <ul></ul>
+                    </nav>
+                    <nav aria-label="Politics">
+                       <h6 class="nav-title"><a aria-label="Politics" href="/politics">Politics</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Politics - Executive" href="/category/politics/executive">Executive</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Senate" href="/category/politics/senate">Senate</a></li>
+                          <li class="nav-item"><a aria-label="Politics - House" href="/category/politics/house-of-representatives">House</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Judiciary" href="/category/politics/judiciary">Judiciary</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Foreign Policy" href="/category/politics/foreign-policy">Foreign Policy</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Polls" href="/official-polls">Polls</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Elections" href="/category/politics/elections">Elections</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Entertainment">
+                       <h6 class="nav-title"><a aria-label="Entertainment" href="/entertainment">Entertainment</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Entertainment - Celebrity News" href="/category/entertainment/celebrity-news">Celebrity News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Movies" href="/category/entertainment/movies">Movies</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - TV News" href="/category/entertainment/tv">TV News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Music News" href="/category/entertainment/music">Music News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Style News" href="/category/entertainment/style">Style News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Entertainment Video" href="//video.foxnews.com/playlist/entertainment-latest-entertainment/">Entertainment Video</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Business">
+                       <h6 class="nav-title"><a aria-label="Business" href="//www.foxbusiness.com/">Business</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Business - Markets" href="//www.foxbusiness.com/markets">Markets</a></li>
+                          <li class="nav-item"><a aria-label="Business - Politics" href="//www.foxbusiness.com/politics">Politics</a></li>
+                          <li class="nav-item"><a aria-label="Business - Technology" href="//www.foxbusiness.com/category/technology">Technology</a></li>
+                          <li class="nav-item"><a aria-label="Business - Features" href="//www.foxbusiness.com/features">Features</a></li>
+                          <li class="nav-item"><a aria-label="Business - Business Leaders" href="//www.foxbusiness.com/category/business-leaders">Business Leaders</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Lifestyle">
+                       <h6 class="nav-title"><a aria-label="Lifestyle" href="/lifestyle">Lifestyle</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Lifestyle - Food + Drink" href="/food-drink">Food + Drink</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Cars + Trucks" href="/auto">Cars + Trucks</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Travel + Outdoors" href="/travel">Travel + Outdoors</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - House + Home" href="/category/real-estate">House + Home</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Fitness + Well-being" href="/category/fitness-and-wellbeing">Fitness + Well-being</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Style + Beauty" href="/category/style-and-beauty">Style + Beauty</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Family" href="/family">Family</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Science">
+                       <h6 class="nav-title"><a aria-label="Science" href="/science">Science</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Science - Archaeology" href="/category/science/archaeology">Archaeology</a></li>
+                          <li class="nav-item"><a aria-label="Science - Air &amp; Space" href="/category/science/air-and-space">Air &amp; Space</a></li>
+                          <li class="nav-item"><a aria-label="Science - Planet Earth" href="/category/science/planet-earth">Planet Earth</a></li>
+                          <li class="nav-item"><a aria-label="Science - Wild Nature" href="/category/science/wild-nature">Wild Nature</a></li>
+                          <li class="nav-item"><a aria-label="Science - Natural Science" href="/category/science/natural-science">Natural Science</a></li>
+                          <li class="nav-item"><a aria-label="Science - Dinosaurs" href="/category/science/archaeology/dinosaurs">Dinosaurs</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Tech">
+                       <h6 class="nav-title"><a aria-label="Tech" href="/tech">Tech</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Tech - Security" href="/category/tech/topics/security">Security</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Innovation" href="/category/tech/topics/innovation">Innovation</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Drones" href="/category/tech/technologies/drones">Drones</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Computers" href="/category/tech/topics/computers">Computers</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Video Games" href="/category/tech/topics/video-games">Video Games</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Military Tech" href="/category/tech/topics/military-tech">Military Tech</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Health">
+                       <h6 class="nav-title"><a aria-label="Health" href="/health">Health</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Health - Healthy Living" href="/category/health/healthy-living">Healthy Living</a></li>
+                          <li class="nav-item"><a aria-label="Health - Medical Research" href="/category/health/medical-research">Medical Research</a></li>
+                          <li class="nav-item"><a aria-label="Health - Mental Health" href="/category/health/mental-health">Mental Health</a></li>
+                          <li class="nav-item"><a aria-label="Health - Cancer" href="/category/health/cancer">Cancer</a></li>
+                          <li class="nav-item"><a aria-label="Health - Heart Health" href="/category/health/heart-health">Heart Health</a></li>
+                          <li class="nav-item"><a aria-label="Health - Children's Health" href="/category/health/healthy-living/childrens-health">Children's Health</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="TV">
+                       <h6 class="nav-title"><a aria-label="TV" href="/shows">TV</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="TV - Shows" href="/shows">Shows</a></li>
+                          <li class="nav-item"><a aria-label="TV - Personalities" href="/person/personalities">Personalities</a></li>
+                          <li class="nav-item"><a aria-label="TV - Watch Live" href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch Live</a></li>
+                          <li class="nav-item"><a aria-label="TV - Full Episodes" href="//video.foxnews.com/playlist/episodic-most-recent-episodes/">Full Episodes</a></li>
+                          <li class="nav-item"><a aria-label="TV - Show Clips" href="//video.foxnews.com/#sp=show-clips">Show Clips</a></li>
+                          <li class="nav-item"><a aria-label="TV - News Clips" href="//video.foxnews.com/#sp=news-clips">News Clips</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="About">
+                       <h6 class="nav-title">
+                          About
+                       </h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="About - Contact Us" href="//www.foxnews.com/contact">Contact Us</a></li>
+                          <li class="nav-item"><a aria-label="About - Careers" href="//foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers">Careers</a></li>
+                          <li class="nav-item"><a aria-label="About - Fox Around the World" href="/foxaroundtheworld/">Fox Around the World</a></li>
+                          <li class="nav-item"><a aria-label="About - Advertise With Us" href="mailto:adsales@foxnews.com?subject=Advertising%20Inquiry">Advertise With Us</a></li>
+                          <li class="nav-item"><a aria-label="About - Media Relations" href="//press.foxnews.com/media-contacts/">Media Relations</a></li>
+                          <li class="nav-item"><a aria-label="About - Corporate Information" href="//press.foxnews.com/">Corporate Information</a></li>
+                          <li class="nav-item"><a aria-label="About - Compliance" href="/compliance">Compliance</a></li>
+                          <li class="nav-item"><a aria-label="About - Supplier Diversity" href="https://supplierdiversity.foxnews.com/">Supplier Diversity</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Other">
+                       <h6 class="nav-title">
+                          Other
+                       </h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Other - Fox Nation" href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Shop" href="//shop.foxnews.com">Fox News Shop</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Go" href="/go">Fox News Go</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Radio" href="//radio.foxnews.com/">Fox News Radio</a></li>
+                          <li class="nav-item"><a aria-label="Other - Newsletters" href="/alerts/subscribe">Newsletters</a></li>
+                          <li class="nav-item"><a aria-label="Other - Alerts" href="/newsletter-signup/alerts">Alerts</a></li>
+                          <li class="nav-item"><a aria-label="Other - Podcasts" href="//radio.foxnews.com/podcast">Podcasts</a></li>
+                          <li class="nav-item"><a aria-label="Other - Apps &amp; Products" href="/apps-products">Apps &amp; Products</a></li>
+                       </ul>
+                    </nav>
+                 </div>
+              </div>
+              <div class="header-lower">
+                 <div>
+                    <div class="branding"><a href="//www.foxnews.com" class="logo">Fox News</a></div>
+                    <div class="legal">
+                       <ul>
+                          <li><a href="/terms-of-use">New Terms of Use</a></li>
+                          <li><a href="/privacy-policy">Updated Privacy Policy</a></li>
+                          <li><a href="/donotsell">Do Not Sell my Personal Information</a></li>
+                          <li><a href="/closed-captioning">Closed Captioning Policy</a></li>
+                          <li><a href="//help.foxnews.com">Help</a></li>
+                          <li><a href="/contact">Contact Us</a></li>
+                       </ul>
+                       <p class="copyright">
+                          This material may not be published, broadcast, rewritten,
+                          or redistributed. Â©2020 FOX News Network, LLC. All rights reserved.
+                          Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by&nbsp;<a href="https://www.factset.com/">Factset</a>. Powered and implemented by&nbsp;<a href="https://www.factset.com/solutions/business-needs/digital-solutions">FactSet Digital Solutions</a>.&nbsp;<a href="https://www.factset.com/privacy">Legal Statement</a>. Mutual Fund and ETF data provided by&nbsp;<a href="https://lipperalpha.refinitiv.com/">Refinitiv Lipper</a>.
+                       </p>
+                    </div>
+                    <div class="social-icons">
+                       <ul>
+                          <li class="fb"><a href="//www.facebook.com/FoxNews">Facebook</a></li>
+                          <li class="tw"><a href="//twitter.com/foxnews">Twitter</a></li>
+                          <li class="gp"><a href="//www.google.com/+FoxNews">Google+</a></li>
+                          <li class="ig"><a href="//www.instagram.com/foxnews">Instagram</a></li>
+                          <li class="rss"><a href="/about/rss/">RSS</a></li>
+                          <li class="email"><a href="/alerts/subscribe">Email</a></li>
+                       </ul>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </header>
+        <div class="page">
+         <div class="pre-content">
+            <div class="ad-container desktop">
+               <div class="ad gpt ad-h-66" data-ad-pos="desktop"	data-ad-size="970x250,970x66,728x90">
+               </div>
+            </div>
+         </div>
+         <div class="page-content">
+            <main class="main-content">
+               <section class="not-found">
+                  <header class="page-heading">
+                     <h1 class="title">Something has gone wrongâ¦</h1>
+                     <p class="sub-title">It seems you clicked on a bad link and stumbled upon our 404 page</p>
+                     <div class="search-wrap">
+                        <form action="/search-results/search" method="get">
+                           <fieldset><input type="text" aria-label="search" placeholder="" name="q" onblur onfocus autocomplete="off" class="resp_site_search"><input type="submit" value="Search" class="resp_site_submit"></fieldset>
+                        </form>
+                     </div>
+                  </header>
+                  <div class="content">
+                     <div class="ad-container desktop">
+                        <div data-ad-pos="desktop" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <section class="content-section suggested-content">
+                        <header class="heading">
+                           <h2 class="title">Here's what we think you might be looking for:</h2>
+                        </header>
+                        <div class="content"></div>
+                     </section>
+                     <div class="ad-container mobile">
+                        <div data-ad-pos="mobile" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <div class="ad-container tablet">
+                        <div data-ad-pos="tablet" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <section class="content-section">
+                        <header class="heading">
+                           <h3 class="title">How did I get here?</h3>
+                        </header>
+                        <div class="content">
+                           <ol>
+                              <li>The story, page, or video you were trying to get to might have been moved</li>
+                              <li>It's possible there was a typo in the URL (Internet Address) you were trying to visit</li>
+                           </ol>
+                        </div>
+                     </section>
+                     <section class="content-section">
+                        <header class="heading">
+                           <h3 class="title">What should I do now?</h3>
+                        </header>
+                        <div class="content">
+                           <ol>
+                              <li>Click the <a href="#" onclick="window.history.back();return false;">back button</a> on your browser</li>
+                              <li>Head to our <a href="/">Homepage</a></li>
+                              <li>Report this page as <a href="//help.foxnews.com/hc/en-us/articles/233194108">missing</a></li>
+                              <li>Use the <a href="#" class="js-focus-search">search box</a> to find what you're looking for</li>
+                           </ol>
+                        </div>
+                     </section>
+                  </div>
+               </section>
+            </main>
+         </div>
+         <footer class="site-footer">
+            <div class="footer-upper">
+               <div class="section-nav">
+                  <div class="inner">
+                     <nav aria-label="U.S.">
+                        <h6 class="nav-title"><a aria-label="U.S." href="/us">U.S.</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="U.S. - Crime" href="/category/us/crime">Crime</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Military" href="/category/us/military">Military</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Education" href="/category/us/education">Education</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Terror" href="/category/us/terror">Terror</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Immigration" href="/category/us/immigration">Immigration</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Economy" href="/category/us/economy">Economy</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Personal Freedoms" href="/category/us/personal-freedoms">Personal Freedoms</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Fox News Investigates" href="/category/news-events/fox-news-investigates">Fox News Investigates</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="World">
+                        <h6 class="nav-title"><a aria-label="World" href="/world">World</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="World - U.N." href="/category/world/united-nations">U.N.</a></li>
+                           <li class="nav-item"><a aria-label="World - Conflicts" href="/category/world/conflicts">Conflicts</a></li>
+                           <li class="nav-item"><a aria-label="World - Terrorism" href="/category/world/terrorism">Terrorism</a></li>
+                           <li class="nav-item"><a aria-label="World - Disasters" href="/category/world/disasters">Disasters</a></li>
+                           <li class="nav-item"><a aria-label="World - Global Economy" href="/category/world/global-economy">Global Economy</a></li>
+                           <li class="nav-item"><a aria-label="World - Environment" href="/category/world/environment">Environment</a></li>
+                           <li class="nav-item"><a aria-label="World - Religion" href="/category/world/world-religion">Religion</a></li>
+                           <li class="nav-item"><a aria-label="World - Scandals" href="/category/world/scandals">Scandals</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Opinion" class="mobile">
+                        <h6 class="nav-title"><a aria-label="Opinion" href="/opinion">Opinion</a></h6>
+                        <ul></ul>
+                     </nav>
+                     <nav aria-label="Politics">
+                        <h6 class="nav-title"><a aria-label="Politics" href="/politics">Politics</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Politics - Executive" href="/category/politics/executive">Executive</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Senate" href="/category/politics/senate">Senate</a></li>
+                           <li class="nav-item"><a aria-label="Politics - House" href="/category/politics/house-of-representatives">House</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Judiciary" href="/category/politics/judiciary">Judiciary</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Foreign Policy" href="/category/politics/foreign-policy">Foreign Policy</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Polls" href="/official-polls">Polls</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Elections" href="/category/politics/elections">Elections</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Entertainment">
+                        <h6 class="nav-title"><a aria-label="Entertainment" href="/entertainment">Entertainment</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Entertainment - Celebrity News" href="/category/entertainment/celebrity-news">Celebrity News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Movies" href="/category/entertainment/movies">Movies</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - TV News" href="/category/entertainment/tv">TV News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Music News" href="/category/entertainment/music">Music News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Style News" href="/category/entertainment/style">Style News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Entertainment Video" href="//video.foxnews.com/playlist/entertainment-latest-entertainment/">Entertainment Video</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Business">
+                        <h6 class="nav-title"><a aria-label="Business" href="//www.foxbusiness.com/">Business</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Business - Markets" href="//www.foxbusiness.com/markets">Markets</a></li>
+                           <li class="nav-item"><a aria-label="Business - Politics" href="//www.foxbusiness.com/politics">Politics</a></li>
+                           <li class="nav-item"><a aria-label="Business - Technology" href="//www.foxbusiness.com/category/technology">Technology</a></li>
+                           <li class="nav-item"><a aria-label="Business - Features" href="//www.foxbusiness.com/features">Features</a></li>
+                           <li class="nav-item"><a aria-label="Business - Business Leaders" href="//www.foxbusiness.com/category/business-leaders">Business Leaders</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Lifestyle">
+                        <h6 class="nav-title"><a aria-label="Lifestyle" href="/lifestyle">Lifestyle</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Lifestyle - Food + Drink" href="/food-drink">Food + Drink</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Cars + Trucks" href="/auto">Cars + Trucks</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Travel + Outdoors" href="/travel">Travel + Outdoors</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - House + Home" href="/category/real-estate">House + Home</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Fitness + Well-being" href="/category/fitness-and-wellbeing">Fitness + Well-being</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Style + Beauty" href="/category/style-and-beauty">Style + Beauty</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Family" href="/family">Family</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Science">
+                        <h6 class="nav-title"><a aria-label="Science" href="/science">Science</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Science - Archaeology" href="/category/science/archaeology">Archaeology</a></li>
+                           <li class="nav-item"><a aria-label="Science - Air &amp; Space" href="/category/science/air-and-space">Air &amp; Space</a></li>
+                           <li class="nav-item"><a aria-label="Science - Planet Earth" href="/category/science/planet-earth">Planet Earth</a></li>
+                           <li class="nav-item"><a aria-label="Science - Wild Nature" href="/category/science/wild-nature">Wild Nature</a></li>
+                           <li class="nav-item"><a aria-label="Science - Natural Science" href="/category/science/natural-science">Natural Science</a></li>
+                           <li class="nav-item"><a aria-label="Science - Dinosaurs" href="/category/science/archaeology/dinosaurs">Dinosaurs</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Tech">
+                        <h6 class="nav-title"><a aria-label="Tech" href="/tech">Tech</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Tech - Security" href="/category/tech/topics/security">Security</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Innovation" href="/category/tech/topics/innovation">Innovation</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Drones" href="/category/tech/technologies/drones">Drones</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Computers" href="/category/tech/topics/computers">Computers</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Video Games" href="/category/tech/topics/video-games">Video Games</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Military Tech" href="/category/tech/topics/military-tech">Military Tech</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Health">
+                        <h6 class="nav-title"><a aria-label="Health" href="/health">Health</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Health - Healthy Living" href="/category/health/healthy-living">Healthy Living</a></li>
+                           <li class="nav-item"><a aria-label="Health - Medical Research" href="/category/health/medical-research">Medical Research</a></li>
+                           <li class="nav-item"><a aria-label="Health - Mental Health" href="/category/health/mental-health">Mental Health</a></li>
+                           <li class="nav-item"><a aria-label="Health - Cancer" href="/category/health/cancer">Cancer</a></li>
+                           <li class="nav-item"><a aria-label="Health - Heart Health" href="/category/health/heart-health">Heart Health</a></li>
+                           <li class="nav-item"><a aria-label="Health - Children's Health" href="/category/health/healthy-living/childrens-health">Children's Health</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="TV">
+                        <h6 class="nav-title"><a aria-label="TV" href="/shows">TV</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="TV - Shows" href="/shows">Shows</a></li>
+                           <li class="nav-item"><a aria-label="TV - Personalities" href="/person/personalities">Personalities</a></li>
+                           <li class="nav-item"><a aria-label="TV - Watch Live" href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch Live</a></li>
+                           <li class="nav-item"><a aria-label="TV - Full Episodes" href="//video.foxnews.com/playlist/episodic-most-recent-episodes/">Full Episodes</a></li>
+                           <li class="nav-item"><a aria-label="TV - Show Clips" href="//video.foxnews.com/#sp=show-clips">Show Clips</a></li>
+                           <li class="nav-item"><a aria-label="TV - News Clips" href="//video.foxnews.com/#sp=news-clips">News Clips</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="About">
+                        <h6 class="nav-title">
+                           About
+                        </h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="About - Contact Us" href="//www.foxnews.com/contact">Contact Us</a></li>
+                           <li class="nav-item"><a aria-label="About - Careers" href="//foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers">Careers</a></li>
+                           <li class="nav-item"><a aria-label="About - Fox Around the World" href="/foxaroundtheworld/">Fox Around the World</a></li>
+                           <li class="nav-item"><a aria-label="About - Advertise With Us" href="mailto:adsales@foxnews.com?subject=Advertising%20Inquiry">Advertise With Us</a></li>
+                           <li class="nav-item"><a aria-label="About - Media Relations" href="//press.foxnews.com/media-contacts/">Media Relations</a></li>
+                           <li class="nav-item"><a aria-label="About - Corporate Information" href="//press.foxnews.com/">Corporate Information</a></li>
+                           <li class="nav-item"><a aria-label="About - Compliance" href="/compliance">Compliance</a></li>
+                           <li class="nav-item"><a aria-label="About - Supplier Diversity" href="https://supplierdiversity.foxnews.com/">Supplier Diversity</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Other">
+                        <h6 class="nav-title">
+                           Other
+                        </h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Other - Fox Nation" href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Shop" href="//shop.foxnews.com">Fox News Shop</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Go" href="/go">Fox News Go</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Radio" href="//radio.foxnews.com/">Fox News Radio</a></li>
+                           <li class="nav-item"><a aria-label="Other - Newsletters" href="/alerts/subscribe">Newsletters</a></li>
+                           <li class="nav-item"><a aria-label="Other - Alerts" href="/newsletter-signup/alerts">Alerts</a></li>
+                           <li class="nav-item"><a aria-label="Other - Podcasts" href="//radio.foxnews.com/podcast">Podcasts</a></li>
+                           <li class="nav-item"><a aria-label="Other - Apps &amp; Products" href="/apps-products">Apps &amp; Products</a></li>
+                        </ul>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+            <div class="footer-lower">
+               <div class="social-icons">
+                  <ul>
+                     <li class="fb"><a href="//www.facebook.com/FoxNews">Facebook</a></li>
+                     <li class="tw"><a href="//twitter.com/foxnews">Twitter</a></li>
+                     <li class="flipboard"><a href="https://flipboard.com/@FoxNews">Flipboard</a></li>
+                     <li class="gp"><a href="//www.google.com/+FoxNews">Google+</a></li>
+                     <li class="ig"><a href="//www.instagram.com/foxnews">Instagram</a></li>
+                     <li class="rss"><a href="//www.foxnews.com/rss/index.html">RSS</a></li>
+                     <li class="email"><a href="//www.foxnews.com/alerts/subscribe.html">Email</a></li>
+                  </ul>
+               </div>
+               <div class="branding"><a href="//www.foxnews.com" class="logo">Fox News</a></div>
+               <div class="legal">
+                  <ul>
+                     <li><a href="/terms-of-use">New Terms of Use</a></li>
+                     <li><a href="/privacy-policy">Updated Privacy Policy</a></li>
+                     <li><a href="/donotsell">Do Not Sell my Personal Information</a></li>
+                     <li><a href="/closed-captioning">Closed Captioning Policy</a></li>
+                     <li><a href="//help.foxnews.com">Help</a></li>
+                     <li><a href="/contact">Contact Us</a></li>
+                     <li><a href="/accessibility-statement">Accessibility Statement</a></li>
+                  </ul>
+                  <p class="copyright">This material may not be published, broadcast, rewritten, or redistributed. Â©2020 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by&nbsp;<a href="https://www.factset.com/">Factset</a>. Powered and implemented by&nbsp;<a href="https://www.factset.com/solutions/business-needs/digital-solutions">FactSet Digital Solutions</a>.&nbsp;<a href="https://www.factset.com/privacy">Legal Statement</a>. Mutual Fund and ETF data provided by&nbsp;<a href="https://lipperalpha.refinitiv.com/">Refinitiv Lipper</a>.</p>
+               </div>
+            </div>
+         </footer>
+      </div>
+      <script type="text/javascript"> (function(FNC){ if (FNC.Loader) { FNC.Loader.init(); } }(window.FNC || {})); </script>
+   </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" >
+   <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+      <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+      <title>404 | Fox News</title>
+      <meta name="robots" content="noarchive,noodp"/>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <meta http-equiv="content-language" content="en"/>
+      <meta http-equiv="x-dns-prefetch-control" content="on"/>
+      <meta name="description" content="FoxNews.com"/>
+      <meta name="dc.title" lang="en" content="FoxNews.com - Breaking News | Latest News | Current News"/>
+      <meta name="dc.creator" content="Fox News Digital"/>
+      <meta name="dc.description" content="Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."/>
+      <meta name="dcterms.abstract" content="Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports."/>
+      <meta name="dc.source" content="FoxNews.com"/>
+      <meta name="dc.type" scheme="dcterms.DCMIType" content="Collection"/>
+      <meta name="prism.genre" content="errorPage"/>
+      <meta name="prism.aggregationType" content="front"/>
+      <meta name="prism.channel" content="fnc"/>
+      <meta name="prism.section" content="error"/>
+      <meta name="prism.subsection1" content=""/>
+      <meta name="prism.subsection2" content=""/>
+      <meta name="prism.subsection3" content=""/>
+      <meta name="prism.subsection4" content=""/>
+      <meta name="dc.language" scheme="dcterms.RFC4646" content="en-US"/>
+      <meta name="dc.publisher" content="FOX News"/>
+      <meta name="pagetype" content="404"/>
+      <!-- Favicons -->
+      <link rel="shortcut icon" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico" type="image/x-icon"/>
+      <link rel="apple-touch-icon" sizes="57x57" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-180x180.png">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-16x16.png" sizes="16x16">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-32x32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon-96x96.png" sizes="96x96">
+      <link rel="icon" type="image/png" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/android-chrome-192x192.png" sizes="192x192">
+      <link rel="mask-icon" href="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/safari-pinned-tab.svg" color="#003366">
+      <meta name="msapplication-square70x70logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png" />
+      <meta name="msapplication-square150x150logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png" />
+      <meta name="msapplication-square310x310logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png" />
+      <meta name="msapplication-wide310x150logo" content="//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png" />
+      <meta name="msapplication-TileColor" content="#1b4e81">
+      <meta name="theme-color" content="#1b4e81">
+      <!-- most pages get custom CSS - these all have querystrings added via in year month day hh:mm:ss - PHP '?cb='.date('Ymdhis'); format-->
+      <link href="//static.foxnews.com/static/orion/styles/css/fox-news/page.rs.css" rel="stylesheet" type="text/css" media="all" />
+      <link data-n-head="true" href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&amp;display=swap" rel="stylesheet" type="text/css">
+      <!-- core JS files all pages - these all have querystrings added via in year month day hh:mm:ss - PHP '?cb='.date('Ymdhis'); format-->
+      <script src="//static.foxnews.com/static/orion/scripts/core/ag.core.js"></script>
+      <script src="//global.fncstatic.com/static/isa/core.js"></script>
+      <!-- page specific JS (should be a single file) -->
+      <script src="//static.foxnews.com/static/orion/scripts/core/pages/misc/loader.js"></script>
+
+      <script>
+      (function() {
+         // Boomerang Loader Snippet version 14
+         if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+            return;
+         }
+      
+         window.BOOMR = window.BOOMR || {};
+         window.BOOMR.snippetStart = new Date().getTime();
+         window.BOOMR.snippetExecuted = true;
+         window.BOOMR.snippetVersion = 14;
+      
+         window.BOOMR.url = "https://s.go-mpulse.net/boomerang/" +
+            "5GX6Z-TSK3U-2BF75-P7PTZ-QMLZM";
+      
+         var // document.currentScript is supported in all browsers other than IE
+            where = document.currentScript || document.getElementsByTagName("script")[0],
+            // Parent element of the script we inject
+            parentNode = where.parentNode,
+            // Whether or not Preload method has worked
+            promoted = false,
+            // How long to wait for Preload to work before falling back to iframe method
+            LOADER_TIMEOUT = 3000;
+      
+         // Tells the browser to execute the Preloaded script by adding it to the DOM
+         function promote() {
+            if (promoted) {
+                  return;
+            }
+      
+            var script = document.createElement("script");
+            script.id = "boomr-scr-as";
+            script.src = window.BOOMR.url;
+      
+            // Not really needed since dynamic scripts are async by default and the script is already in cache at this point,
+            // but some naive parsers will see a missing async attribute and think we're not async
+            script.async = true;
+      
+            parentNode.appendChild(script);
+      
+            promoted = true;
+         }
+      
+         // Non-blocking iframe loader (fallback for non-Preload scenarios) for all recent browsers.
+         // For IE 6/7, falls back to dynamic script node.
+         function iframeLoader(wasFallback) {
+            promoted = true;
+      
+            var dom, doc = document, bootstrap, iframe, iframeStyle, win = window;
+      
+            window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+      
+            // Adds Boomerang within the iframe
+            bootstrap = function(parent, scriptId) {
+                  var script = doc.createElement("script");
+                  script.id = scriptId || "boomr-if-as";
+                  script.src = window.BOOMR.url;
+      
+                  BOOMR_lstart = new Date().getTime();
+      
+                  parent = parent || doc.body;
+                  parent.appendChild(script);
+            };
+      
+            // For IE 6/7, we'll just load the script in the current frame, as those browsers don't support 'about:blank'
+            // for an iframe src (it triggers warnings on secure sites).  This means loading on IE 6/7 may cause SPoF.
+            if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]\./)) {
+                  window.BOOMR.snippetMethod = "s";
+      
+                  bootstrap(parentNode, "boomr-async");
+                  return;
+            }
+      
+            // The rest of this function is IE8+ and other browsers that don't support Preload hints but will work with CSP & iframes
+            iframe = document.createElement("IFRAME");
+      
+            // An empty frame
+            iframe.src = "about:blank";
+      
+            // We set title and role appropriately to play nicely with screen readers and other assistive technologies
+            iframe.title = "";
+            iframe.role = "presentation";
+      
+            // Ensure we're not loaded lazily
+            iframe.loading = "eager";
+      
+            // Hide the iframe
+            iframeStyle = (iframe.frameElement || iframe).style;
+            iframeStyle.width = 0;
+            iframeStyle.height = 0;
+            iframeStyle.border = 0;
+            iframeStyle.display = "none";
+      
+            // Append to the end of the current block
+            parentNode.appendChild(iframe);
+      
+            // Try to get the iframe's document object
+            try {
+                  win = iframe.contentWindow;
+                  doc = win.document.open();
+            }
+            catch (e) {
+                  // document.domain has been changed and we're on an old version of IE, so we got an access denied.
+                  // Note: the only browsers that have this problem also do not have CSP support.
+      
+                  // Get document.domain of the parent window
+                  dom = document.domain;
+      
+                  // Set the src of the iframe to a JavaScript URL that will immediately set its document.domain to match the parent.
+                  // This lets us access the iframe document long enough to inject our script.
+                  // Our script may need to do more domain massaging later.
+                  iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void 0;";
+                  win = iframe.contentWindow;
+      
+                  doc = win.document.open();
+            }
+      
+            if (dom) {
+                  // Unsafe version for IE8 compatibility. If document.domain has changed, we can't use win, but we can use doc.
+                  doc._boomrl = function() {
+                     this.domain = dom;
+                     bootstrap();
+                  };
+      
+                  // Run our function at load.
+                  // Split the string so HTML code injectors don't get confused and add code here.
+                  doc.write("<bo" + "dy onload='document._boomrl();'>");
+            }
+            else {
+                  // document.domain hasn't changed, regular method should be OK
+                  win._boomrl = function() {
+                     bootstrap();
+                  };
+      
+                  if (win.addEventListener) {
+                     win.addEventListener("load", win._boomrl, false);
+                  }
+                  else if (win.attachEvent) {
+                     win.attachEvent("onload", win._boomrl);
+                  }
+            }
+      
+            // Finish the document
+            doc.close();
+         }
+      
+         // See if Preload is supported or not
+         var link = document.createElement("link");
+      
+         if (link.relList &&
+            typeof link.relList.supports === "function" &&
+            link.relList.supports("preload") &&
+            ("as" in link)) {
+            window.BOOMR.snippetMethod = "p";
+      
+            // Set attributes to trigger a Preload
+            link.href = window.BOOMR.url;
+            link.rel  = "preload";
+            link.as   = "script";
+      
+            // Add our script tag if successful, fallback to iframe if not
+            link.addEventListener("load", promote);
+            link.addEventListener("error", function() {
+                  iframeLoader(true);
+            });
+      
+            // Have a fallback in case Preload does nothing or is slow
+            setTimeout(function() {
+                  if (!promoted) {
+                     iframeLoader(true);
+               }
+            }, LOADER_TIMEOUT);
+      
+            // Note the timestamp we started trying to Preload
+            BOOMR_lstart = new Date().getTime();
+      
+            // Append our link tag
+            parentNode.appendChild(link);
+         }
+         else {
+            // No Preload support, use iframe loader
+            iframeLoader(false);
+         }
+      
+         // Save when the onload event happened, in case this is a non-NavigationTiming browser
+         function boomerangSaveLoadTime(e) {
+            window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+         }
+      
+         if (window.addEventListener) {
+            window.addEventListener("load", boomerangSaveLoadTime, false);
+         }
+         else if (window.attachEvent) {
+            window.attachEvent("onload", boomerangSaveLoadTime);
+         }
+      })();
+      </script>
+
+
+   </head>
+   <body class="fn page-404">
+      <div id="wrapper" class="wrapper">
+        <header class="site-header">
+           <div class="branding">
+              <a href="/" class="logo">Fox News</a>
+              <div class="current-time"><span class="time"></span><span class="zone"></span></div>
+           </div>
+           <div class="nav-row nav-row-upper">
+              <div class="inner">
+                 <div class="primary-nav tablet-desktop">
+                    <nav id="main-nav" aria-label="main navigation">
+                      <ul>
+                        <li class="menu-news"><a href="/us">U.S.</a></li>
+                        <li class="menu-news"><a href="/world">World</a></li>
+                        <li class="menu-opinion"><a href="/opinion">Opinion</a></li>
+                        <li class="menu-politics"><a href="/politics">Politics</a></li>
+                        <li class="menu-entertainment"><a href="/entertainment">Entertainment</a></li>
+                        <li class="menu-business"><a href="//www.foxbusiness.com">Business</a></li>
+                        <li class="menu-lifestyle"><a href="/lifestyle">Lifestyle</a></li>
+                        <li class="menu-tv"><a href="/shows">TV</a></li>
+                        <li class="menu-fox-nation"><a href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                        <li class="menu-radio"><a href="//radio.foxnews.com/podcast">Listen</a></li>
+                        <li class="menu-more"><a href="#" class="js-menu-toggle">More</a></li>
+                      </ul>
+                    </nav>
+                 </div>
+                 <div class="meta">
+                    <div class="search-toggle tablet-desktop"><a href="#" class="js-focus-search">Expand / Collapse search</a></div>
+                    <div id="account" class="network-access logged-out logged-in">
+                       <div class="user-profile user-login button"><a href="#" data-omtr-intcmp="hp1navlg" class="login">Login</a></div>
+                    </div>
+                    <div class="button watch"><a href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch TV</a></div>
+                    <div class="menu mobile"><a aria-label="Mobile Menu" href="#" class="js-menu-toggle">Menu</a></div>
+                 </div>
+              </div>
+           </div>
+           <div class="nav-row nav-row-lower tablet-desktop">
+              <div class="inner">
+                 <div class="secondary-nav">
+                    <nav aria-label="hot topics" class="hot-topics">
+                       <span class="subnav-title">Hot Topics</span>
+                       <ul class="rotate-items"></ul>
+                    </nav>
+                 </div>
+              </div>
+           </div>
+           <div class="expandable-nav">
+              <div class="inner">
+                 <div class="search">
+                    <div class="search-wrap">
+                       <form action="/search-results/search" method="get">
+                          <fieldset><input type="text" placeholder="Search foxnews.com" name="q" autocomplete="off" class="resp_site_search"><input type="submit" value="Search" class="resp_site_submit"></fieldset>
+                       </form>
+                    </div>
+                 </div>
+              </div>
+              <div class="section-nav">
+                 <div class="inner">
+                    <nav aria-label="U.S.">
+                       <h6 class="nav-title"><a aria-label="U.S." href="/us">U.S.</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="U.S. - Crime" href="/category/us/crime">Crime</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Military" href="/category/us/military">Military</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Education" href="/category/us/education">Education</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Terror" href="/category/us/terror">Terror</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Immigration" href="/category/us/immigration">Immigration</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Economy" href="/category/us/economy">Economy</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Personal Freedoms" href="/category/us/personal-freedoms">Personal Freedoms</a></li>
+                          <li class="nav-item"><a aria-label="U.S. - Fox News Investigates" href="/category/news-events/fox-news-investigates">Fox News Investigates</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="World">
+                       <h6 class="nav-title"><a aria-label="World" href="/world">World</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="World - U.N." href="/category/world/united-nations">U.N.</a></li>
+                          <li class="nav-item"><a aria-label="World - Conflicts" href="/category/world/conflicts">Conflicts</a></li>
+                          <li class="nav-item"><a aria-label="World - Terrorism" href="/category/world/terrorism">Terrorism</a></li>
+                          <li class="nav-item"><a aria-label="World - Disasters" href="/category/world/disasters">Disasters</a></li>
+                          <li class="nav-item"><a aria-label="World - Global Economy" href="/category/world/global-economy">Global Economy</a></li>
+                          <li class="nav-item"><a aria-label="World - Environment" href="/category/world/environment">Environment</a></li>
+                          <li class="nav-item"><a aria-label="World - Religion" href="/category/world/world-religion">Religion</a></li>
+                          <li class="nav-item"><a aria-label="World - Scandals" href="/category/world/scandals">Scandals</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Opinion" class="mobile">
+                       <h6 class="nav-title"><a aria-label="Opinion" href="/opinion">Opinion</a></h6>
+                       <ul></ul>
+                    </nav>
+                    <nav aria-label="Politics">
+                       <h6 class="nav-title"><a aria-label="Politics" href="/politics">Politics</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Politics - Executive" href="/category/politics/executive">Executive</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Senate" href="/category/politics/senate">Senate</a></li>
+                          <li class="nav-item"><a aria-label="Politics - House" href="/category/politics/house-of-representatives">House</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Judiciary" href="/category/politics/judiciary">Judiciary</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Foreign Policy" href="/category/politics/foreign-policy">Foreign Policy</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Polls" href="/official-polls">Polls</a></li>
+                          <li class="nav-item"><a aria-label="Politics - Elections" href="/category/politics/elections">Elections</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Entertainment">
+                       <h6 class="nav-title"><a aria-label="Entertainment" href="/entertainment">Entertainment</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Entertainment - Celebrity News" href="/category/entertainment/celebrity-news">Celebrity News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Movies" href="/category/entertainment/movies">Movies</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - TV News" href="/category/entertainment/tv">TV News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Music News" href="/category/entertainment/music">Music News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Style News" href="/category/entertainment/style">Style News</a></li>
+                          <li class="nav-item"><a aria-label="Entertainment - Entertainment Video" href="//video.foxnews.com/playlist/entertainment-latest-entertainment/">Entertainment Video</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Business">
+                       <h6 class="nav-title"><a aria-label="Business" href="//www.foxbusiness.com/">Business</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Business - Markets" href="//www.foxbusiness.com/markets">Markets</a></li>
+                          <li class="nav-item"><a aria-label="Business - Politics" href="//www.foxbusiness.com/politics">Politics</a></li>
+                          <li class="nav-item"><a aria-label="Business - Technology" href="//www.foxbusiness.com/category/technology">Technology</a></li>
+                          <li class="nav-item"><a aria-label="Business - Features" href="//www.foxbusiness.com/features">Features</a></li>
+                          <li class="nav-item"><a aria-label="Business - Business Leaders" href="//www.foxbusiness.com/category/business-leaders">Business Leaders</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Lifestyle">
+                       <h6 class="nav-title"><a aria-label="Lifestyle" href="/lifestyle">Lifestyle</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Lifestyle - Food + Drink" href="/food-drink">Food + Drink</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Cars + Trucks" href="/auto">Cars + Trucks</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Travel + Outdoors" href="/travel">Travel + Outdoors</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - House + Home" href="/category/real-estate">House + Home</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Fitness + Well-being" href="/category/fitness-and-wellbeing">Fitness + Well-being</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Style + Beauty" href="/category/style-and-beauty">Style + Beauty</a></li>
+                          <li class="nav-item"><a aria-label="Lifestyle - Family" href="/family">Family</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Science">
+                       <h6 class="nav-title"><a aria-label="Science" href="/science">Science</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Science - Archaeology" href="/category/science/archaeology">Archaeology</a></li>
+                          <li class="nav-item"><a aria-label="Science - Air &amp; Space" href="/category/science/air-and-space">Air &amp; Space</a></li>
+                          <li class="nav-item"><a aria-label="Science - Planet Earth" href="/category/science/planet-earth">Planet Earth</a></li>
+                          <li class="nav-item"><a aria-label="Science - Wild Nature" href="/category/science/wild-nature">Wild Nature</a></li>
+                          <li class="nav-item"><a aria-label="Science - Natural Science" href="/category/science/natural-science">Natural Science</a></li>
+                          <li class="nav-item"><a aria-label="Science - Dinosaurs" href="/category/science/archaeology/dinosaurs">Dinosaurs</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Tech">
+                       <h6 class="nav-title"><a aria-label="Tech" href="/tech">Tech</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Tech - Security" href="/category/tech/topics/security">Security</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Innovation" href="/category/tech/topics/innovation">Innovation</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Drones" href="/category/tech/technologies/drones">Drones</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Computers" href="/category/tech/topics/computers">Computers</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Video Games" href="/category/tech/topics/video-games">Video Games</a></li>
+                          <li class="nav-item"><a aria-label="Tech - Military Tech" href="/category/tech/topics/military-tech">Military Tech</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Health">
+                       <h6 class="nav-title"><a aria-label="Health" href="/health">Health</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Health - Healthy Living" href="/category/health/healthy-living">Healthy Living</a></li>
+                          <li class="nav-item"><a aria-label="Health - Medical Research" href="/category/health/medical-research">Medical Research</a></li>
+                          <li class="nav-item"><a aria-label="Health - Mental Health" href="/category/health/mental-health">Mental Health</a></li>
+                          <li class="nav-item"><a aria-label="Health - Cancer" href="/category/health/cancer">Cancer</a></li>
+                          <li class="nav-item"><a aria-label="Health - Heart Health" href="/category/health/heart-health">Heart Health</a></li>
+                          <li class="nav-item"><a aria-label="Health - Children's Health" href="/category/health/healthy-living/childrens-health">Children's Health</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="TV">
+                       <h6 class="nav-title"><a aria-label="TV" href="/shows">TV</a></h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="TV - Shows" href="/shows">Shows</a></li>
+                          <li class="nav-item"><a aria-label="TV - Personalities" href="/person/personalities">Personalities</a></li>
+                          <li class="nav-item"><a aria-label="TV - Watch Live" href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch Live</a></li>
+                          <li class="nav-item"><a aria-label="TV - Full Episodes" href="//video.foxnews.com/playlist/episodic-most-recent-episodes/">Full Episodes</a></li>
+                          <li class="nav-item"><a aria-label="TV - Show Clips" href="//video.foxnews.com/#sp=show-clips">Show Clips</a></li>
+                          <li class="nav-item"><a aria-label="TV - News Clips" href="//video.foxnews.com/#sp=news-clips">News Clips</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="About">
+                       <h6 class="nav-title">
+                          About
+                       </h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="About - Contact Us" href="//www.foxnews.com/contact">Contact Us</a></li>
+                          <li class="nav-item"><a aria-label="About - Careers" href="//foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers">Careers</a></li>
+                          <li class="nav-item"><a aria-label="About - Fox Around the World" href="/foxaroundtheworld/">Fox Around the World</a></li>
+                          <li class="nav-item"><a aria-label="About - Advertise With Us" href="mailto:adsales@foxnews.com?subject=Advertising%20Inquiry">Advertise With Us</a></li>
+                          <li class="nav-item"><a aria-label="About - Media Relations" href="//press.foxnews.com/media-contacts/">Media Relations</a></li>
+                          <li class="nav-item"><a aria-label="About - Corporate Information" href="//press.foxnews.com/">Corporate Information</a></li>
+                          <li class="nav-item"><a aria-label="About - Compliance" href="/compliance">Compliance</a></li>
+                          <li class="nav-item"><a aria-label="About - Supplier Diversity" href="https://supplierdiversity.foxnews.com/">Supplier Diversity</a></li>
+                       </ul>
+                    </nav>
+                    <nav aria-label="Other">
+                       <h6 class="nav-title">
+                          Other
+                       </h6>
+                       <ul>
+                          <li class="nav-item"><a aria-label="Other - Fox Nation" href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Shop" href="//shop.foxnews.com">Fox News Shop</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Go" href="/go">Fox News Go</a></li>
+                          <li class="nav-item"><a aria-label="Other - Fox News Radio" href="//radio.foxnews.com/">Fox News Radio</a></li>
+                          <li class="nav-item"><a aria-label="Other - Newsletters" href="/alerts/subscribe">Newsletters</a></li>
+                          <li class="nav-item"><a aria-label="Other - Alerts" href="/newsletter-signup/alerts">Alerts</a></li>
+                          <li class="nav-item"><a aria-label="Other - Podcasts" href="//radio.foxnews.com/podcast">Podcasts</a></li>
+                          <li class="nav-item"><a aria-label="Other - Apps &amp; Products" href="/apps-products">Apps &amp; Products</a></li>
+                       </ul>
+                    </nav>
+                 </div>
+              </div>
+              <div class="header-lower">
+                 <div>
+                    <div class="branding"><a href="//www.foxnews.com" class="logo">Fox News</a></div>
+                    <div class="legal">
+                       <ul>
+                          <li><a href="/terms-of-use">New Terms of Use</a></li>
+                          <li><a href="/privacy-policy">Updated Privacy Policy</a></li>
+                          <li><a href="/donotsell">Do Not Sell my Personal Information</a></li>
+                          <li><a href="/closed-captioning">Closed Captioning Policy</a></li>
+                          <li><a href="//help.foxnews.com">Help</a></li>
+                          <li><a href="/contact">Contact Us</a></li>
+                       </ul>
+                       <p class="copyright">
+                          This material may not be published, broadcast, rewritten,
+                          or redistributed. Â©2020 FOX News Network, LLC. All rights reserved.
+                          Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by&nbsp;<a href="https://www.factset.com/">Factset</a>. Powered and implemented by&nbsp;<a href="https://www.factset.com/solutions/business-needs/digital-solutions">FactSet Digital Solutions</a>.&nbsp;<a href="https://www.factset.com/privacy">Legal Statement</a>. Mutual Fund and ETF data provided by&nbsp;<a href="https://lipperalpha.refinitiv.com/">Refinitiv Lipper</a>.
+                       </p>
+                    </div>
+                    <div class="social-icons">
+                       <ul>
+                          <li class="fb"><a href="//www.facebook.com/FoxNews">Facebook</a></li>
+                          <li class="tw"><a href="//twitter.com/foxnews">Twitter</a></li>
+                          <li class="gp"><a href="//www.google.com/+FoxNews">Google+</a></li>
+                          <li class="ig"><a href="//www.instagram.com/foxnews">Instagram</a></li>
+                          <li class="rss"><a href="/about/rss/">RSS</a></li>
+                          <li class="email"><a href="/alerts/subscribe">Email</a></li>
+                       </ul>
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </header>
+        <div class="page">
+         <div class="pre-content">
+            <div class="ad-container desktop">
+               <div class="ad gpt ad-h-66" data-ad-pos="desktop"	data-ad-size="970x250,970x66,728x90">
+               </div>
+            </div>
+         </div>
+         <div class="page-content">
+            <main class="main-content">
+               <section class="not-found">
+                  <header class="page-heading">
+                     <h1 class="title">Something has gone wrongâ¦</h1>
+                     <p class="sub-title">It seems you clicked on a bad link and stumbled upon our 404 page</p>
+                     <div class="search-wrap">
+                        <form action="/search-results/search" method="get">
+                           <fieldset><input type="text" aria-label="search" placeholder="" name="q" onblur onfocus autocomplete="off" class="resp_site_search"><input type="submit" value="Search" class="resp_site_submit"></fieldset>
+                        </form>
+                     </div>
+                  </header>
+                  <div class="content">
+                     <div class="ad-container desktop">
+                        <div data-ad-pos="desktop" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <section class="content-section suggested-content">
+                        <header class="heading">
+                           <h2 class="title">Here's what we think you might be looking for:</h2>
+                        </header>
+                        <div class="content"></div>
+                     </section>
+                     <div class="ad-container mobile">
+                        <div data-ad-pos="mobile" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <div class="ad-container tablet">
+                        <div data-ad-pos="tablet" data-ad-size="300x250" data-ad-lz="" class="ad gpt "></div>
+                        <span class="advert-txt">Advertisement</span>
+                     </div>
+                     <section class="content-section">
+                        <header class="heading">
+                           <h3 class="title">How did I get here?</h3>
+                        </header>
+                        <div class="content">
+                           <ol>
+                              <li>The story, page, or video you were trying to get to might have been moved</li>
+                              <li>It's possible there was a typo in the URL (Internet Address) you were trying to visit</li>
+                           </ol>
+                        </div>
+                     </section>
+                     <section class="content-section">
+                        <header class="heading">
+                           <h3 class="title">What should I do now?</h3>
+                        </header>
+                        <div class="content">
+                           <ol>
+                              <li>Click the <a href="#" onclick="window.history.back();return false;">back button</a> on your browser</li>
+                              <li>Head to our <a href="/">Homepage</a></li>
+                              <li>Report this page as <a href="//help.foxnews.com/hc/en-us/articles/233194108">missing</a></li>
+                              <li>Use the <a href="#" class="js-focus-search">search box</a> to find what you're looking for</li>
+                           </ol>
+                        </div>
+                     </section>
+                  </div>
+               </section>
+            </main>
+         </div>
+         <footer class="site-footer">
+            <div class="footer-upper">
+               <div class="section-nav">
+                  <div class="inner">
+                     <nav aria-label="U.S.">
+                        <h6 class="nav-title"><a aria-label="U.S." href="/us">U.S.</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="U.S. - Crime" href="/category/us/crime">Crime</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Military" href="/category/us/military">Military</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Education" href="/category/us/education">Education</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Terror" href="/category/us/terror">Terror</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Immigration" href="/category/us/immigration">Immigration</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Economy" href="/category/us/economy">Economy</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Personal Freedoms" href="/category/us/personal-freedoms">Personal Freedoms</a></li>
+                           <li class="nav-item"><a aria-label="U.S. - Fox News Investigates" href="/category/news-events/fox-news-investigates">Fox News Investigates</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="World">
+                        <h6 class="nav-title"><a aria-label="World" href="/world">World</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="World - U.N." href="/category/world/united-nations">U.N.</a></li>
+                           <li class="nav-item"><a aria-label="World - Conflicts" href="/category/world/conflicts">Conflicts</a></li>
+                           <li class="nav-item"><a aria-label="World - Terrorism" href="/category/world/terrorism">Terrorism</a></li>
+                           <li class="nav-item"><a aria-label="World - Disasters" href="/category/world/disasters">Disasters</a></li>
+                           <li class="nav-item"><a aria-label="World - Global Economy" href="/category/world/global-economy">Global Economy</a></li>
+                           <li class="nav-item"><a aria-label="World - Environment" href="/category/world/environment">Environment</a></li>
+                           <li class="nav-item"><a aria-label="World - Religion" href="/category/world/world-religion">Religion</a></li>
+                           <li class="nav-item"><a aria-label="World - Scandals" href="/category/world/scandals">Scandals</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Opinion" class="mobile">
+                        <h6 class="nav-title"><a aria-label="Opinion" href="/opinion">Opinion</a></h6>
+                        <ul></ul>
+                     </nav>
+                     <nav aria-label="Politics">
+                        <h6 class="nav-title"><a aria-label="Politics" href="/politics">Politics</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Politics - Executive" href="/category/politics/executive">Executive</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Senate" href="/category/politics/senate">Senate</a></li>
+                           <li class="nav-item"><a aria-label="Politics - House" href="/category/politics/house-of-representatives">House</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Judiciary" href="/category/politics/judiciary">Judiciary</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Foreign Policy" href="/category/politics/foreign-policy">Foreign Policy</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Polls" href="/official-polls">Polls</a></li>
+                           <li class="nav-item"><a aria-label="Politics - Elections" href="/category/politics/elections">Elections</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Entertainment">
+                        <h6 class="nav-title"><a aria-label="Entertainment" href="/entertainment">Entertainment</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Entertainment - Celebrity News" href="/category/entertainment/celebrity-news">Celebrity News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Movies" href="/category/entertainment/movies">Movies</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - TV News" href="/category/entertainment/tv">TV News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Music News" href="/category/entertainment/music">Music News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Style News" href="/category/entertainment/style">Style News</a></li>
+                           <li class="nav-item"><a aria-label="Entertainment - Entertainment Video" href="//video.foxnews.com/playlist/entertainment-latest-entertainment/">Entertainment Video</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Business">
+                        <h6 class="nav-title"><a aria-label="Business" href="//www.foxbusiness.com/">Business</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Business - Markets" href="//www.foxbusiness.com/markets">Markets</a></li>
+                           <li class="nav-item"><a aria-label="Business - Politics" href="//www.foxbusiness.com/politics">Politics</a></li>
+                           <li class="nav-item"><a aria-label="Business - Technology" href="//www.foxbusiness.com/category/technology">Technology</a></li>
+                           <li class="nav-item"><a aria-label="Business - Features" href="//www.foxbusiness.com/features">Features</a></li>
+                           <li class="nav-item"><a aria-label="Business - Business Leaders" href="//www.foxbusiness.com/category/business-leaders">Business Leaders</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Lifestyle">
+                        <h6 class="nav-title"><a aria-label="Lifestyle" href="/lifestyle">Lifestyle</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Lifestyle - Food + Drink" href="/food-drink">Food + Drink</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Cars + Trucks" href="/auto">Cars + Trucks</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Travel + Outdoors" href="/travel">Travel + Outdoors</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - House + Home" href="/category/real-estate">House + Home</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Fitness + Well-being" href="/category/fitness-and-wellbeing">Fitness + Well-being</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Style + Beauty" href="/category/style-and-beauty">Style + Beauty</a></li>
+                           <li class="nav-item"><a aria-label="Lifestyle - Family" href="/family">Family</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Science">
+                        <h6 class="nav-title"><a aria-label="Science" href="/science">Science</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Science - Archaeology" href="/category/science/archaeology">Archaeology</a></li>
+                           <li class="nav-item"><a aria-label="Science - Air &amp; Space" href="/category/science/air-and-space">Air &amp; Space</a></li>
+                           <li class="nav-item"><a aria-label="Science - Planet Earth" href="/category/science/planet-earth">Planet Earth</a></li>
+                           <li class="nav-item"><a aria-label="Science - Wild Nature" href="/category/science/wild-nature">Wild Nature</a></li>
+                           <li class="nav-item"><a aria-label="Science - Natural Science" href="/category/science/natural-science">Natural Science</a></li>
+                           <li class="nav-item"><a aria-label="Science - Dinosaurs" href="/category/science/archaeology/dinosaurs">Dinosaurs</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Tech">
+                        <h6 class="nav-title"><a aria-label="Tech" href="/tech">Tech</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Tech - Security" href="/category/tech/topics/security">Security</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Innovation" href="/category/tech/topics/innovation">Innovation</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Drones" href="/category/tech/technologies/drones">Drones</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Computers" href="/category/tech/topics/computers">Computers</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Video Games" href="/category/tech/topics/video-games">Video Games</a></li>
+                           <li class="nav-item"><a aria-label="Tech - Military Tech" href="/category/tech/topics/military-tech">Military Tech</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Health">
+                        <h6 class="nav-title"><a aria-label="Health" href="/health">Health</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Health - Healthy Living" href="/category/health/healthy-living">Healthy Living</a></li>
+                           <li class="nav-item"><a aria-label="Health - Medical Research" href="/category/health/medical-research">Medical Research</a></li>
+                           <li class="nav-item"><a aria-label="Health - Mental Health" href="/category/health/mental-health">Mental Health</a></li>
+                           <li class="nav-item"><a aria-label="Health - Cancer" href="/category/health/cancer">Cancer</a></li>
+                           <li class="nav-item"><a aria-label="Health - Heart Health" href="/category/health/heart-health">Heart Health</a></li>
+                           <li class="nav-item"><a aria-label="Health - Children's Health" href="/category/health/healthy-living/childrens-health">Children's Health</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="TV">
+                        <h6 class="nav-title"><a aria-label="TV" href="/shows">TV</a></h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="TV - Shows" href="/shows">Shows</a></li>
+                           <li class="nav-item"><a aria-label="TV - Personalities" href="/person/personalities">Personalities</a></li>
+                           <li class="nav-item"><a aria-label="TV - Watch Live" href="//video.foxnews.com/v/5614615980001/?#sp=watch-live">Watch Live</a></li>
+                           <li class="nav-item"><a aria-label="TV - Full Episodes" href="//video.foxnews.com/playlist/episodic-most-recent-episodes/">Full Episodes</a></li>
+                           <li class="nav-item"><a aria-label="TV - Show Clips" href="//video.foxnews.com/#sp=show-clips">Show Clips</a></li>
+                           <li class="nav-item"><a aria-label="TV - News Clips" href="//video.foxnews.com/#sp=news-clips">News Clips</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="About">
+                        <h6 class="nav-title">
+                           About
+                        </h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="About - Contact Us" href="//www.foxnews.com/contact">Contact Us</a></li>
+                           <li class="nav-item"><a aria-label="About - Careers" href="//foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers">Careers</a></li>
+                           <li class="nav-item"><a aria-label="About - Fox Around the World" href="/foxaroundtheworld/">Fox Around the World</a></li>
+                           <li class="nav-item"><a aria-label="About - Advertise With Us" href="mailto:adsales@foxnews.com?subject=Advertising%20Inquiry">Advertise With Us</a></li>
+                           <li class="nav-item"><a aria-label="About - Media Relations" href="//press.foxnews.com/media-contacts/">Media Relations</a></li>
+                           <li class="nav-item"><a aria-label="About - Corporate Information" href="//press.foxnews.com/">Corporate Information</a></li>
+                           <li class="nav-item"><a aria-label="About - Compliance" href="/compliance">Compliance</a></li>
+                           <li class="nav-item"><a aria-label="About - Supplier Diversity" href="https://supplierdiversity.foxnews.com/">Supplier Diversity</a></li>
+                        </ul>
+                     </nav>
+                     <nav aria-label="Other">
+                        <h6 class="nav-title">
+                           Other
+                        </h6>
+                        <ul>
+                           <li class="nav-item"><a aria-label="Other - Fox Nation" href="//www.foxnews.com/shows/fox-nation">Fox Nation</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Shop" href="//shop.foxnews.com">Fox News Shop</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Go" href="/go">Fox News Go</a></li>
+                           <li class="nav-item"><a aria-label="Other - Fox News Radio" href="//radio.foxnews.com/">Fox News Radio</a></li>
+                           <li class="nav-item"><a aria-label="Other - Newsletters" href="/alerts/subscribe">Newsletters</a></li>
+                           <li class="nav-item"><a aria-label="Other - Alerts" href="/newsletter-signup/alerts">Alerts</a></li>
+                           <li class="nav-item"><a aria-label="Other - Podcasts" href="//radio.foxnews.com/podcast">Podcasts</a></li>
+                           <li class="nav-item"><a aria-label="Other - Apps &amp; Products" href="/apps-products">Apps &amp; Products</a></li>
+                        </ul>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+            <div class="footer-lower">
+               <div class="social-icons">
+                  <ul>
+                     <li class="fb"><a href="//www.facebook.com/FoxNews">Facebook</a></li>
+                     <li class="tw"><a href="//twitter.com/foxnews">Twitter</a></li>
+                     <li class="flipboard"><a href="https://flipboard.com/@FoxNews">Flipboard</a></li>
+                     <li class="gp"><a href="//www.google.com/+FoxNews">Google+</a></li>
+                     <li class="ig"><a href="//www.instagram.com/foxnews">Instagram</a></li>
+                     <li class="rss"><a href="//www.foxnews.com/rss/index.html">RSS</a></li>
+                     <li class="email"><a href="//www.foxnews.com/alerts/subscribe.html">Email</a></li>
+                  </ul>
+               </div>
+               <div class="branding"><a href="//www.foxnews.com" class="logo">Fox News</a></div>
+               <div class="legal">
+                  <ul>
+                     <li><a href="/terms-of-use">New Terms of Use</a></li>
+                     <li><a href="/privacy-policy">Updated Privacy Policy</a></li>
+                     <li><a href="/donotsell">Do Not Sell my Personal Information</a></li>
+                     <li><a href="/closed-captioning">Closed Captioning Policy</a></li>
+                     <li><a href="//help.foxnews.com">Help</a></li>
+                     <li><a href="/contact">Contact Us</a></li>
+                     <li><a href="/accessibility-statement">Accessibility Statement</a></li>
+                  </ul>
+                  <p class="copyright">This material may not be published, broadcast, rewritten, or redistributed. Â©2020 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by&nbsp;<a href="https://www.factset.com/">Factset</a>. Powered and implemented by&nbsp;<a href="https://www.factset.com/solutions/business-needs/digital-solutions">FactSet Digital Solutions</a>.&nbsp;<a href="https://www.factset.com/privacy">Legal Statement</a>. Mutual Fund and ETF data provided by&nbsp;<a href="https://lipperalpha.refinitiv.com/">Refinitiv Lipper</a>.</p>
+               </div>
+            </div>
+         </footer>
+      </div>
+      <script type="text/javascript"> (function(FNC){ if (FNC.Loader) { FNC.Loader.init(); } }(window.FNC || {})); </script>
+   </body>
+</html>

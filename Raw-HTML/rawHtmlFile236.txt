@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Microsite made with Simplebooklet.com -->
+  <meta charset="utf-8"/>
+
+  
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="FOP Update - October 12">
+    <link rel="apple-touch-icon" sizes="180x180" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-180.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-167.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-152.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-120.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-192.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-512.png">
+
+    <link rel='manifest' href='/pwa/pwa/workpad_manifest/WOiVDjWpxHYJQZlw16Cb9J/manifest.webmanifest'>
+    <meta property="fb:app_id" content="341981852533773"/>
+    <meta property="fb:admins" content="578736414,569826520"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://national.fop.net/fop_update_10122020"/>
+    <meta property="og:title" content="FOP Update - October 12"/>
+    <meta property="og:image" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764"/>
+    <meta property="og:image:secure_url" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764"/>
+    <meta property="og:site_name" content="national.fop.net"/>
+    <meta property="og:description" content="FOP Update - October 12"/>
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@simplebooklet">
+    <meta name="twitter:title" content="FOP Update - October 12">
+    <meta name="twitter:description"
+          content="FOP Update - October 12">
+    <meta name="twitter:image" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764">
+    <meta name="twitter:domain" content="national.fop.net">
+  
+  <meta name="description" content="FOP Update - October 12">
+
+  
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  
+  <title>FOP Update - October 12</title>
+
+  <link rel="canonical" href="https://national.fop.net/fop_update_10122020"/>
+
+      <link id="favicon" rel="shortcut icon" href="/userFiles/a/4/1/0/5/6/6/logo_image.png?1602983417"/>
+  
+  <link rel='preload' href='froala_editor/css/froala_style.min.css?_cbt=1554312273' as='style' >
+<link href='froala_editor/css/froala_style.min.css?_cbt=1554312273' type='text/css' rel='stylesheet' />
+<link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css' type='text/css' rel='stylesheet' />
+<link href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/material.css?_cbt=1602868243' as='style' >
+<link href='/css/material.css?_cbt=1602868243' type='text/css' rel='stylesheet' />
+<link href='https://fonts.googleapis.com/icon?family=Material+Icons' type='text/css' rel='stylesheet' />
+<link href='https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Ultra&family=Elsie+Swash+Caps:wght@400;900&family=Fauna+One&family=Ubuntu:wght@400;700' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/material/css/gallery-material.css?_cbt=1576797069' as='style' >
+<link href='/material/css/gallery-material.css?_cbt=1576797069' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/interface.css?_cbt=1602868242' as='style' >
+<link href='/css/interface.css?_cbt=1602868242' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/newfonts/stylesheet.css?_cbt=1588183721' as='style' >
+<link href='/newfonts/stylesheet.css?_cbt=1588183721' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/booklet.css?_cbt=1602868239' as='style' >
+<link href='/css/booklet.css?_cbt=1602868239' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/rdp_styles.css?_cbt=1602868244' as='style' >
+<link href='/css/rdp_styles.css?_cbt=1602868244' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/foundation_custom.css?_cbt=1602868241' as='style' >
+<link href='/css/foundation_custom.css?_cbt=1602868241' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/guideddesign.css?_cbt=1602868241' as='style' >
+<link href='/css/guideddesign.css?_cbt=1602868241' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/cloudconvert/css/base.min.css?_cbt=1474066817' as='style' >
+<link href='/cloudconvert/css/base.min.css?_cbt=1474066817' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/pageturn.css?_cbt=1602868243' as='style' >
+<link href='/css/pageturn.css?_cbt=1602868243' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/fontawesome/css/all.min.css?_cbt=1586885301' as='style' >
+<link href='/fontawesome/css/all.min.css?_cbt=1586885301' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/chrome.css?_cbt=1602868240' as='style' >
+<link href='/css/chrome.css?_cbt=1602868240' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/cardflip.css?_cbt=1602868239' as='style' >
+<link href='/css/cardflip.css?_cbt=1602868239' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/workpad_search.css?_cbt=1602868255' as='style' >
+<link href='/css/workpad_search.css?_cbt=1602868255' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/instagram.css?_cbt=1602868242' as='style' >
+<link href='/css/instagram.css?_cbt=1602868242' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/recaptcha.css?_cbt=1602868244' as='style' >
+<link href='/css/recaptcha.css?_cbt=1602868244' type='text/css' rel='stylesheet' />
+<link href='../userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/WOiVDjWpxHYJQZlw16Cb9J.css?_cbt=1602893096' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/global_utils.js.php?t=1602983417.0745' as='script' >
+<script src='/global_utils.js.php?t=1602983417.0745'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+<link rel='preload' href='/js/jquery.form.min.js?_cbt=1590797210' as='script' >
+<script src='/js/jquery.form.min.js?_cbt=1590797210'></script>
+<link rel='preload' href='/js/jquery.mobile.custom.1.5.min.js?_cbt=1522191425' as='script' >
+<script src='/js/jquery.mobile.custom.1.5.min.js?_cbt=1522191425'></script>
+<link rel='preload' href='/js/jquery.tabSlideOut.v1.3.kk.js?_cbt=1602868263' as='script' >
+<script src='/js/jquery.tabSlideOut.v1.3.kk.js?_cbt=1602868263'></script>
+<link rel='preload' href='/rdp_utils.php?_cbt=1570510192' as='script' >
+<script src='/rdp_utils.php?_cbt=1570510192'></script>
+<link rel='preload' href='/js/rdp_handheld.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp_handheld.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/rdp.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/rdp_pf5.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp_pf5.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/material.min.js?_cbt=1601678722' as='script' >
+<script src='/js/material.min.js?_cbt=1601678722'></script>
+<link rel='preload' href='/js/workpad_search.js?_cbt=1602868269' as='script' >
+<script src='/js/workpad_search.js?_cbt=1602868269'></script>
+<link rel='preload' href='/js/shopify.js?_cbt=1602868267' as='script' >
+<script src='/js/shopify.js?_cbt=1602868267'></script>
+<link rel='preload' href='/js/etsy_cart.js?_cbt=1602868259' as='script' >
+<script src='/js/etsy_cart.js?_cbt=1602868259'></script>
+<link rel='preload' href='/js/3dcart_cart.js?_cbt=1602868256' as='script' >
+<script src='/js/3dcart_cart.js?_cbt=1602868256'></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<link rel='preload' href='/js/recaptcha_v2_util.js?_cbt=1602868266' as='script' >
+<script src='/js/recaptcha_v2_util.js?_cbt=1602868266'></script>
+
+  </head>
+
+<body class='publish logo-background  chrome-button-show-1 chrome-button-icon-chevron chrome-button-location-middle chrome-button-color-white chrome-button-shape-square chrome-button-size-medium chrome-button-opacity-100 chrome-button-embed-show-1 state-chrome-toc-off state-chrome-bizcard-off state-chrome-gallery-off state-chrome-thumbnails-off state-chrome-tb_fullscreen-off state-chrome-viewcount-off state-chrome-tosprivacy-off state-chrome-icons-off state-chrome-plaintext-off state-chrome-messaging-off state-chrome-push-subscribe-off state-chrome-buyurl-off ' style="height: 100vh;">
+<script>
+  var workpadName = 'FOP Update - October 12';
+  var loaderIcon = '/userFiles/a/4/1/0/5/6/6/logo_image.png';
+  var hideImgLoaded = false;
+  var bookletLoadingMessage = workpadName ? workpadName + " loading..." : "loading... ";
+  var imagesToLoad = 1;
+
+      showLoading(bookletLoadingMessage, null, 0, loaderIcon);
+    var loaderProgress = 0;
+    var loaderInterval = setInterval(function(){
+      loaderProgress += loaderProgress < 50 ? 5 : 0;
+      showLoading(bookletLoadingMessage, null, loaderProgress, loaderIcon);
+          }, 1000);
+    setTimeout(function(){
+      if (!hideImgLoaded){
+        imgLoadedComplete();
+      }
+    }, 30000);
+  </script>
+
+  <img style='position:fixed;left: 10px; top: 60px; width: 160px; background: transparent; z-index: 0;'
+       src='/userFiles/a/4/1/0/5/6/6/logo_image.png'/>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '341981852533773', //'341981852533773',
+      cookie: true, // This is important, it's not enabled by default
+      //version    : 'v2.7'
+      version: 'v2.10'
+    });
+  };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+  <img style='position:absolute; left: -98765px;' src='https://simplebooklet.com/thumbs/WOiVDjWpxHYJQZlw16Cb9J.jpg' alt='simplebooklet thumbnail'/>
+
+<p style='position:absolute; left: -98765px;'>FOP Update - October 12</p>
+
+<div class="booklet-page-nav top-only" style="font-family: roboto; color: #000000; background: rgba(255,255,255,0.5);">
+
+  <div style="width: 100%;">
+
+    <div class="mdl-grid--layout toolbar-header-style">
+
+      <div class="mdl-grid--layout-row">
+
+        
+          <div class="action-chrome_biz_card-hide event" data-event-type="NAV_LOGO"
+       style="display: inline;">
+    <img class="logo-image" src='/userFiles/a/4/1/0/5/6/6/logo_image.png' style="height: 36px;vertical-align:middle; margin-right: 6px;">
+  </div>
+
+        <div class="state-chrome-toc">
+  <a class='mdl-navigation--link tooltipped" data-position='right' data-delay='50' data-tooltip='Table Of Contents' onclick="displayPopupRefresh('tableofcontents');" style="margin-right: 6px;">
+  <i class='far fa-bars' style='font-size:1.6rem;'></i>
+  </a>
+</div>
+
+        <div class="mdl-layout--spacer"></div>
+
+        <a href="#" onclick="firstPage(true); return false;"
+   class="state-chrome-home action-chrome_tb_page_first-hide nav-button nav-button-home mdl-navigation--link event tooltipped" data-position='bottom' data-delay='50' data-tooltip='First Page'
+   data-event-type="NAV_HOME">
+  <i class="fad fa-home-lg"></i>
+</a>
+
+        <div class="state-chrome-search">
+  <a class="mdl-navigation--link waves-effect waves-darken action-chrome_tb_search-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Search' data-event-type="NAV_SEARCH"
+     onclick="displayPopupRefresh('microsite-search');">
+    <i class="fad fa-search hide-in-more-menu"></i>
+    <span class="show-in-more-menu">Search</span>
+  </a>
+</div>
+        
+        <a onclick="displayPopupRefresh('microsite-about');" class="state-chrome-about mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='About' data-event-type="NAV_ABOUT">
+  <i class="fad fa-info-circle"></i>
+  <span>About</span>
+</a>
+
+        <a onclick="displayPopupRefresh('microsite-contactus',false,false,clearVCF());"
+   class="state-chrome-bizcard mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Contact Us' data-event-type="NAV_CONTACT">
+  <i class="fad fa-address-card"></i>
+  <span>Contact</span>
+</a>
+
+        <a onclick="displayPopupRefresh('microsite-gallery');"
+   class="state-chrome-gallery mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Open Collection' data-event-type="NAV_GALLERY">
+<i class="fad fa-grip-vertical"></i>
+  <span>Open Collection</span>
+</a>
+
+        <a href="" target="_blank"
+   class="state-chrome-buyurl action-buyurl-label mdl-navigation--link event" data-event-type="NAV_BUY">
+  Buy</a>
+
+        <a onclick="displayPopupRefresh('microsite-install');"   class="state-chrome-install mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Install As App' data-event-type="NAV_INSTALL" >
+  <i class="fad fa-phone-laptop hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Install</span>
+</a>
+
+        <a class="state-chrome-sharing mdl-navigation--link waves-effect waves-darken action-chrome_tb_share-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Share' data-event-type="NAV_SHARE"
+   onclick="displayPopupRefresh('microsite-share');">
+<i class="fad fa-share-alt hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Share</span>
+</a>
+
+        <a onclick="DisplayDIV('downloadoptions');"
+   class="state-chrome-download mdl-navigation--link action-chrome_tb_download-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Download PDF' data-event-type="NAV_DOWNLOAD">
+  <i class="fad fa-download hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Download</span>
+</a>
+
+        <a id="push-subscription-button"
+   class="state-chrome-push-subscribe mdl-navigation--link chrome-icon event tooltipped action-push-subscribe"
+   data-position='bottom'
+   data-delay='50'
+   data-tooltip='Subscribe'
+   data-event-type="NAV_PUSH_SUBSCRIBE" >
+  <div class="hide-in-more-menu">
+    <span class="state disabled"><i class="fad fa-bell-on"></i></span>
+    <span class="state enabled"><i class="fad fa-bell-slash"></i></span>
+    <span class="state computing"><i class="fad fa-bell-exclamation"></i></span>
+  </div>
+  <div class="show-in-more-menu">
+    <span class="state disabled">Notification</span>
+    <span class="state enabled">Notification</span>
+    <span class="state computing">Loading...</span>
+  </div>
+</a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+<link rel='preload' href='/js/pwa_utils.js?_cbt=1597269067' as='script' >
+<script src='/js/pwa_utils.js?_cbt=1597269067'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.js'></script>
+<link rel='preload' href='/material/js/sb-custom.js?_cbt=1525299111' as='script' >
+<script src='/material/js/sb-custom.js?_cbt=1525299111'></script>
+<div class="booklet-page-nav bottom-only" style="font-family: roboto; color: #000000; background: rgba(255,255,255,0.5);">
+
+  <div class="mdl-grid--layout toolbar-footer-style">
+
+    <div class="mdl-grid--layout-row footer-nav">
+
+      <div class="state-chrome-title mdl-grid mdl-grid--no-spacing">
+  <div class="mdl-cell mdl-cell--middle mdl-cell--12-col" style="height: 12px;">
+    <span class="landingpage-title">FOP Update - October 12</span>
+  </div>
+  <div class="mdl-cell mdl-cell--middle mdl-cell--12-col">
+    <span class="landingpage-author">National FOP Legislative Office</span>
+  </div>
+</div>
+      <div
+  class="state-chrome-pagenumbers pagenumbers lato action-chrome_tb_page_select-hide">
+  <input type="number" maxlength="3" size="3" title="current page number"
+         class="currentPageNumber action-page-goto browser-default" value="0" />
+  / <span class="totalPageNumber">0</span>
+</div>
+
+      <div class="state-chrome-zooms" style="white-space: nowrap;">
+  <a id='decreaseScale'
+     class="mdl-button mdl-button--icon mdl-button--icon-small mdl-button--noradius action-chrome_tb_zoom-hide tooltipped" data-position='top' data-delay='50' data-tooltip='Shrink'>
+    <i class="far fa-minus-square" style="margin-top: 3px;"></i>
+  </a>
+
+  <a id='increaseScale'
+     class="mdl-button mdl-button--icon mdl-button--icon-small mdl-button--noradius action-chrome_tb_zoom-hide tooltipped" data-position='top' data-delay='50' data-tooltip='Magnify'>
+    <i class="far fa-plus-square" style="margin-top: 3px;"></i>
+  </a>
+</div>
+
+      <a target="_blank"
+   class="state-chrome-tb_fullscreen nav-button mdl-navigation--link event"
+   onclick="toggleFullscreen('https://national.fop.net/fop_update_10122020')"
+   data-event-type="NAV_FULLSCREEN">
+  <i class="fal fa-expand fa-lg"></i>
+</a>
+
+      <div class="state-chrome-thumbnails">
+  <a class="btn-flat grey-text text-darken-3 btn-small"
+     onclick="DisplayDIV('bookletpages')">
+    <i class="far fa-book-open"></i>
+  </a>
+</div>
+
+      <div class="state-chrome-page-narration narration-controls">
+  <audio id="simplebooklet-narration-player" controls class="narration-toolbar-controls">
+    Audio Not Supported
+  </audio>
+</div>
+
+
+      <div class="mdl-layout--spacer"></div>
+
+      <a class="state-chrome-plaintext mdl-navigation--link chrome-icon chrome-plaintext event" data-event-type="PLAINTEXT"
+   href="https://national.fop.net/fop_update_10122020?textonly=1" target="_blank">
+  <i class="fad fa-universal-access"></i>
+  <span>Plaintext</span>
+</a>
+
+      <a href="#"
+   class="state-chrome-viewcount mdl-navigation--link action-chrome_tb_views-hide landingpage-tos-privacy">
+  447  <i class="far fa-eye" style=""></i>
+</a>
+
+      <a class="state-chrome-tosprivacy action-tos-url mdl-navigation--link landingpage-tos-privacy chrome-icon chrome-terms-of-service event" data-event-type="NAV_TERMS"
+   href="javascript:DisplayDIV('microsite-tos');" target="_blank">
+  <i class="fab fa-creative-commons"></i>
+  <span>Terms Of Service</span>
+</a>
+
+      <a class="state-chrome-tosprivacy action-privacy-url mdl-navigation--link landingpage-tos-privacy chrome-icon event" data-event-type="NAV_PRIVACY"
+   href="javascript:DisplayDIV('microsite-privacy');" target="_blank" >
+  <i class="far fa-user-lock"></i>
+  <span>Privacy</span>
+</a>
+
+    </div>
+
+  </div>
+
+</div>
+<script>
+  var workpad_key = 'WOiVDjWpxHYJQZlw16Cb9J';
+
+  $(function () {
+    if (MOBILE) {
+      setMobile();
+    } else {
+      setPublish();
+    }
+    initRdp(null, 'WOiVDjWpxHYJQZlw16Cb9J');
+    setSocialTools('https://national.fop.net/fop_update_10122020');
+    if (!MOBILE) {
+      initPageflip5({"workpad_key":"WOiVDjWpxHYJQZlw16Cb9J","width":"918","height":"1188","singlePageMode":"true","hardPage":"false","hardCover":"false","marginTop":5,"marginBottom":5,"borderShadow":"true","transitionDirection":null,"scale":"fit","hasForm":"0"});
+    }
+
+  });
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMGS6F9');</script>
+<script defer='defer' src='https://www.dwin1.com/18426.js'></script>
+  <script>
+    $(document).ready(function () {
+      var pwaPreLoadModals = [
+        'microsite-about',
+        'microsite-contactus',
+        'microsite-share',
+        'tableofcontents'
+      ];
+      if (navigator && navigator.onLine) {
+        pwaPreLoadModals.forEach(function (popupId) {
+          loadPopup(popupId, {workpad_id: 1397118});
+        });
+      }
+    });
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Microsite made with Simplebooklet.com -->
+  <meta charset="utf-8"/>
+
+  
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="FOP Update - October 12">
+    <link rel="apple-touch-icon" sizes="180x180" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-180.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-167.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-152.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-120.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-192.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="/userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/logo_pwa/manifest-icon-512.png">
+
+    <link rel='manifest' href='/pwa/pwa/workpad_manifest/WOiVDjWpxHYJQZlw16Cb9J/manifest.webmanifest'>
+    <meta property="fb:app_id" content="341981852533773"/>
+    <meta property="fb:admins" content="578736414,569826520"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://national.fop.net/fop_update_10122020"/>
+    <meta property="og:title" content="FOP Update - October 12"/>
+    <meta property="og:image" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764"/>
+    <meta property="og:image:secure_url" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764"/>
+    <meta property="og:site_name" content="national.fop.net"/>
+    <meta property="og:description" content="FOP Update - October 12"/>
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@simplebooklet">
+    <meta name="twitter:title" content="FOP Update - October 12">
+    <meta name="twitter:description"
+          content="FOP Update - October 12">
+    <meta name="twitter:image" content="https://simplebooklet.com/thumbs/og_image/WOiVDjWpxHYJQZlw16Cb9J.jpg?ts=1602878764">
+    <meta name="twitter:domain" content="national.fop.net">
+  
+  <meta name="description" content="FOP Update - October 12">
+
+  
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  
+  <title>FOP Update - October 12</title>
+
+  <link rel="canonical" href="https://national.fop.net/fop_update_10122020"/>
+
+      <link id="favicon" rel="shortcut icon" href="/userFiles/a/4/1/0/5/6/6/logo_image.png?1602984851"/>
+  
+  <link rel='preload' href='froala_editor/css/froala_style.min.css?_cbt=1554312273' as='style' >
+<link href='froala_editor/css/froala_style.min.css?_cbt=1554312273' type='text/css' rel='stylesheet' />
+<link href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css' type='text/css' rel='stylesheet' />
+<link href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/material.css?_cbt=1602868243' as='style' >
+<link href='/css/material.css?_cbt=1602868243' type='text/css' rel='stylesheet' />
+<link href='https://fonts.googleapis.com/icon?family=Material+Icons' type='text/css' rel='stylesheet' />
+<link href='https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Ultra&family=Elsie+Swash+Caps:wght@400;900&family=Fauna+One&family=Ubuntu:wght@400;700' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/material/css/gallery-material.css?_cbt=1576797069' as='style' >
+<link href='/material/css/gallery-material.css?_cbt=1576797069' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/interface.css?_cbt=1602868242' as='style' >
+<link href='/css/interface.css?_cbt=1602868242' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/newfonts/stylesheet.css?_cbt=1588183721' as='style' >
+<link href='/newfonts/stylesheet.css?_cbt=1588183721' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/booklet.css?_cbt=1602868239' as='style' >
+<link href='/css/booklet.css?_cbt=1602868239' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/rdp_styles.css?_cbt=1602868244' as='style' >
+<link href='/css/rdp_styles.css?_cbt=1602868244' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/foundation_custom.css?_cbt=1602868241' as='style' >
+<link href='/css/foundation_custom.css?_cbt=1602868241' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/guideddesign.css?_cbt=1602868241' as='style' >
+<link href='/css/guideddesign.css?_cbt=1602868241' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/cloudconvert/css/base.min.css?_cbt=1474066817' as='style' >
+<link href='/cloudconvert/css/base.min.css?_cbt=1474066817' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/pageturn.css?_cbt=1602868243' as='style' >
+<link href='/css/pageturn.css?_cbt=1602868243' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/fontawesome/css/all.min.css?_cbt=1586885301' as='style' >
+<link href='/fontawesome/css/all.min.css?_cbt=1586885301' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/chrome.css?_cbt=1602868240' as='style' >
+<link href='/css/chrome.css?_cbt=1602868240' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/cardflip.css?_cbt=1602868239' as='style' >
+<link href='/css/cardflip.css?_cbt=1602868239' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/workpad_search.css?_cbt=1602868255' as='style' >
+<link href='/css/workpad_search.css?_cbt=1602868255' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/instagram.css?_cbt=1602868242' as='style' >
+<link href='/css/instagram.css?_cbt=1602868242' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/css/recaptcha.css?_cbt=1602868244' as='style' >
+<link href='/css/recaptcha.css?_cbt=1602868244' type='text/css' rel='stylesheet' />
+<link href='../userFiles/a/4/1/0/5/6/6/WOiVDjWpxHYJQZlw16Cb9J/WOiVDjWpxHYJQZlw16Cb9J.css?_cbt=1602893096' type='text/css' rel='stylesheet' />
+<link rel='preload' href='/global_utils.js.php?t=1602984851.2517' as='script' >
+<script src='/global_utils.js.php?t=1602984851.2517'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+<link rel='preload' href='/js/jquery.form.min.js?_cbt=1590797210' as='script' >
+<script src='/js/jquery.form.min.js?_cbt=1590797210'></script>
+<link rel='preload' href='/js/jquery.mobile.custom.1.5.min.js?_cbt=1522191425' as='script' >
+<script src='/js/jquery.mobile.custom.1.5.min.js?_cbt=1522191425'></script>
+<link rel='preload' href='/js/jquery.tabSlideOut.v1.3.kk.js?_cbt=1602868263' as='script' >
+<script src='/js/jquery.tabSlideOut.v1.3.kk.js?_cbt=1602868263'></script>
+<link rel='preload' href='/rdp_utils.php?_cbt=1570510192' as='script' >
+<script src='/rdp_utils.php?_cbt=1570510192'></script>
+<link rel='preload' href='/js/rdp_handheld.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp_handheld.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/rdp.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/rdp_pf5.js?_cbt=1602868266' as='script' >
+<script src='/js/rdp_pf5.js?_cbt=1602868266'></script>
+<link rel='preload' href='/js/material.min.js?_cbt=1601678722' as='script' >
+<script src='/js/material.min.js?_cbt=1601678722'></script>
+<link rel='preload' href='/js/workpad_search.js?_cbt=1602868269' as='script' >
+<script src='/js/workpad_search.js?_cbt=1602868269'></script>
+<link rel='preload' href='/js/shopify.js?_cbt=1602868267' as='script' >
+<script src='/js/shopify.js?_cbt=1602868267'></script>
+<link rel='preload' href='/js/etsy_cart.js?_cbt=1602868259' as='script' >
+<script src='/js/etsy_cart.js?_cbt=1602868259'></script>
+<link rel='preload' href='/js/3dcart_cart.js?_cbt=1602868256' as='script' >
+<script src='/js/3dcart_cart.js?_cbt=1602868256'></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<link rel='preload' href='/js/recaptcha_v2_util.js?_cbt=1602868266' as='script' >
+<script src='/js/recaptcha_v2_util.js?_cbt=1602868266'></script>
+
+  </head>
+
+<body class='publish logo-background  chrome-button-show-1 chrome-button-icon-chevron chrome-button-location-middle chrome-button-color-white chrome-button-shape-square chrome-button-size-medium chrome-button-opacity-100 chrome-button-embed-show-1 state-chrome-toc-off state-chrome-bizcard-off state-chrome-gallery-off state-chrome-thumbnails-off state-chrome-tb_fullscreen-off state-chrome-viewcount-off state-chrome-tosprivacy-off state-chrome-icons-off state-chrome-plaintext-off state-chrome-messaging-off state-chrome-push-subscribe-off state-chrome-buyurl-off ' style="height: 100vh;">
+<script>
+  var workpadName = 'FOP Update - October 12';
+  var loaderIcon = '/userFiles/a/4/1/0/5/6/6/logo_image.png';
+  var hideImgLoaded = false;
+  var bookletLoadingMessage = workpadName ? workpadName + " loading..." : "loading... ";
+  var imagesToLoad = 1;
+
+      showLoading(bookletLoadingMessage, null, 0, loaderIcon);
+    var loaderProgress = 0;
+    var loaderInterval = setInterval(function(){
+      loaderProgress += loaderProgress < 50 ? 5 : 0;
+      showLoading(bookletLoadingMessage, null, loaderProgress, loaderIcon);
+          }, 1000);
+    setTimeout(function(){
+      if (!hideImgLoaded){
+        imgLoadedComplete();
+      }
+    }, 30000);
+  </script>
+
+  <img style='position:fixed;left: 10px; top: 60px; width: 160px; background: transparent; z-index: 0;'
+       src='/userFiles/a/4/1/0/5/6/6/logo_image.png'/>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '341981852533773', //'341981852533773',
+      cookie: true, // This is important, it's not enabled by default
+      //version    : 'v2.7'
+      version: 'v2.10'
+    });
+  };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+  <img style='position:absolute; left: -98765px;' src='https://simplebooklet.com/thumbs/WOiVDjWpxHYJQZlw16Cb9J.jpg' alt='simplebooklet thumbnail'/>
+
+<p style='position:absolute; left: -98765px;'>FOP Update - October 12</p>
+
+<div class="booklet-page-nav top-only" style="font-family: roboto; color: #000000; background: rgba(255,255,255,0.5);">
+
+  <div style="width: 100%;">
+
+    <div class="mdl-grid--layout toolbar-header-style">
+
+      <div class="mdl-grid--layout-row">
+
+        
+          <div class="action-chrome_biz_card-hide event" data-event-type="NAV_LOGO"
+       style="display: inline;">
+    <img class="logo-image" src='/userFiles/a/4/1/0/5/6/6/logo_image.png' style="height: 36px;vertical-align:middle; margin-right: 6px;">
+  </div>
+
+        <div class="state-chrome-toc">
+  <a class='mdl-navigation--link tooltipped" data-position='right' data-delay='50' data-tooltip='Table Of Contents' onclick="displayPopupRefresh('tableofcontents');" style="margin-right: 6px;">
+  <i class='far fa-bars' style='font-size:1.6rem;'></i>
+  </a>
+</div>
+
+        <div class="mdl-layout--spacer"></div>
+
+        <a href="#" onclick="firstPage(true); return false;"
+   class="state-chrome-home action-chrome_tb_page_first-hide nav-button nav-button-home mdl-navigation--link event tooltipped" data-position='bottom' data-delay='50' data-tooltip='First Page'
+   data-event-type="NAV_HOME">
+  <i class="fad fa-home-lg"></i>
+</a>
+
+        <div class="state-chrome-search">
+  <a class="mdl-navigation--link waves-effect waves-darken action-chrome_tb_search-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Search' data-event-type="NAV_SEARCH"
+     onclick="displayPopupRefresh('microsite-search');">
+    <i class="fad fa-search hide-in-more-menu"></i>
+    <span class="show-in-more-menu">Search</span>
+  </a>
+</div>
+        
+        <a onclick="displayPopupRefresh('microsite-about');" class="state-chrome-about mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='About' data-event-type="NAV_ABOUT">
+  <i class="fad fa-info-circle"></i>
+  <span>About</span>
+</a>
+
+        <a onclick="displayPopupRefresh('microsite-contactus',false,false,clearVCF());"
+   class="state-chrome-bizcard mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Contact Us' data-event-type="NAV_CONTACT">
+  <i class="fad fa-address-card"></i>
+  <span>Contact</span>
+</a>
+
+        <a onclick="displayPopupRefresh('microsite-gallery');"
+   class="state-chrome-gallery mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Open Collection' data-event-type="NAV_GALLERY">
+<i class="fad fa-grip-vertical"></i>
+  <span>Open Collection</span>
+</a>
+
+        <a href="" target="_blank"
+   class="state-chrome-buyurl action-buyurl-label mdl-navigation--link event" data-event-type="NAV_BUY">
+  Buy</a>
+
+        <a onclick="displayPopupRefresh('microsite-install');"   class="state-chrome-install mdl-navigation--link chrome-icon event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Install As App' data-event-type="NAV_INSTALL" >
+  <i class="fad fa-phone-laptop hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Install</span>
+</a>
+
+        <a class="state-chrome-sharing mdl-navigation--link waves-effect waves-darken action-chrome_tb_share-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Share' data-event-type="NAV_SHARE"
+   onclick="displayPopupRefresh('microsite-share');">
+<i class="fad fa-share-alt hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Share</span>
+</a>
+
+        <a onclick="DisplayDIV('downloadoptions');"
+   class="state-chrome-download mdl-navigation--link action-chrome_tb_download-hide event tooltipped" data-position='bottom' data-delay='50' data-tooltip='Download PDF' data-event-type="NAV_DOWNLOAD">
+  <i class="fad fa-download hide-in-more-menu"></i>
+  <span class="show-in-more-menu">Download</span>
+</a>
+
+        <a id="push-subscription-button"
+   class="state-chrome-push-subscribe mdl-navigation--link chrome-icon event tooltipped action-push-subscribe"
+   data-position='bottom'
+   data-delay='50'
+   data-tooltip='Subscribe'
+   data-event-type="NAV_PUSH_SUBSCRIBE" >
+  <div class="hide-in-more-menu">
+    <span class="state disabled"><i class="fad fa-bell-on"></i></span>
+    <span class="state enabled"><i class="fad fa-bell-slash"></i></span>
+    <span class="state computing"><i class="fad fa-bell-exclamation"></i></span>
+  </div>
+  <div class="show-in-more-menu">
+    <span class="state disabled">Notification</span>
+    <span class="state enabled">Notification</span>
+    <span class="state computing">Loading...</span>
+  </div>
+</a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+<link rel='preload' href='/js/pwa_utils.js?_cbt=1597269067' as='script' >
+<script src='/js/pwa_utils.js?_cbt=1597269067'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.js'></script>
+<link rel='preload' href='/material/js/sb-custom.js?_cbt=1525299111' as='script' >
+<script src='/material/js/sb-custom.js?_cbt=1525299111'></script>
+<div class="booklet-page-nav bottom-only" style="font-family: roboto; color: #000000; background: rgba(255,255,255,0.5);">
+
+  <div class="mdl-grid--layout toolbar-footer-style">
+
+    <div class="mdl-grid--layout-row footer-nav">
+
+      <div class="state-chrome-title mdl-grid mdl-grid--no-spacing">
+  <div class="mdl-cell mdl-cell--middle mdl-cell--12-col" style="height: 12px;">
+    <span class="landingpage-title">FOP Update - October 12</span>
+  </div>
+  <div class="mdl-cell mdl-cell--middle mdl-cell--12-col">
+    <span class="landingpage-author">National FOP Legislative Office</span>
+  </div>
+</div>
+      <div
+  class="state-chrome-pagenumbers pagenumbers lato action-chrome_tb_page_select-hide">
+  <input type="number" maxlength="3" size="3" title="current page number"
+         class="currentPageNumber action-page-goto browser-default" value="0" />
+  / <span class="totalPageNumber">0</span>
+</div>
+
+      <div class="state-chrome-zooms" style="white-space: nowrap;">
+  <a id='decreaseScale'
+     class="mdl-button mdl-button--icon mdl-button--icon-small mdl-button--noradius action-chrome_tb_zoom-hide tooltipped" data-position='top' data-delay='50' data-tooltip='Shrink'>
+    <i class="far fa-minus-square" style="margin-top: 3px;"></i>
+  </a>
+
+  <a id='increaseScale'
+     class="mdl-button mdl-button--icon mdl-button--icon-small mdl-button--noradius action-chrome_tb_zoom-hide tooltipped" data-position='top' data-delay='50' data-tooltip='Magnify'>
+    <i class="far fa-plus-square" style="margin-top: 3px;"></i>
+  </a>
+</div>
+
+      <a target="_blank"
+   class="state-chrome-tb_fullscreen nav-button mdl-navigation--link event"
+   onclick="toggleFullscreen('https://national.fop.net/fop_update_10122020')"
+   data-event-type="NAV_FULLSCREEN">
+  <i class="fal fa-expand fa-lg"></i>
+</a>
+
+      <div class="state-chrome-thumbnails">
+  <a class="btn-flat grey-text text-darken-3 btn-small"
+     onclick="DisplayDIV('bookletpages')">
+    <i class="far fa-book-open"></i>
+  </a>
+</div>
+
+      <div class="state-chrome-page-narration narration-controls">
+  <audio id="simplebooklet-narration-player" controls class="narration-toolbar-controls">
+    Audio Not Supported
+  </audio>
+</div>
+
+
+      <div class="mdl-layout--spacer"></div>
+
+      <a class="state-chrome-plaintext mdl-navigation--link chrome-icon chrome-plaintext event" data-event-type="PLAINTEXT"
+   href="https://national.fop.net/fop_update_10122020?textonly=1" target="_blank">
+  <i class="fad fa-universal-access"></i>
+  <span>Plaintext</span>
+</a>
+
+      <a href="#"
+   class="state-chrome-viewcount mdl-navigation--link action-chrome_tb_views-hide landingpage-tos-privacy">
+  466  <i class="far fa-eye" style=""></i>
+</a>
+
+      <a class="state-chrome-tosprivacy action-tos-url mdl-navigation--link landingpage-tos-privacy chrome-icon chrome-terms-of-service event" data-event-type="NAV_TERMS"
+   href="javascript:DisplayDIV('microsite-tos');" target="_blank">
+  <i class="fab fa-creative-commons"></i>
+  <span>Terms Of Service</span>
+</a>
+
+      <a class="state-chrome-tosprivacy action-privacy-url mdl-navigation--link landingpage-tos-privacy chrome-icon event" data-event-type="NAV_PRIVACY"
+   href="javascript:DisplayDIV('microsite-privacy');" target="_blank" >
+  <i class="far fa-user-lock"></i>
+  <span>Privacy</span>
+</a>
+
+    </div>
+
+  </div>
+
+</div>
+<script>
+  var workpad_key = 'WOiVDjWpxHYJQZlw16Cb9J';
+
+  $(function () {
+    if (MOBILE) {
+      setMobile();
+    } else {
+      setPublish();
+    }
+    initRdp(null, 'WOiVDjWpxHYJQZlw16Cb9J');
+    setSocialTools('https://national.fop.net/fop_update_10122020');
+    if (!MOBILE) {
+      initPageflip5({"workpad_key":"WOiVDjWpxHYJQZlw16Cb9J","width":"918","height":"1188","singlePageMode":"true","hardPage":"false","hardCover":"false","marginTop":5,"marginBottom":5,"borderShadow":"true","transitionDirection":null,"scale":"fit","hasForm":"0"});
+    }
+
+  });
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMGS6F9');</script>
+<script defer='defer' src='https://www.dwin1.com/18426.js'></script>
+  <script>
+    $(document).ready(function () {
+      var pwaPreLoadModals = [
+        'microsite-about',
+        'microsite-contactus',
+        'microsite-share',
+        'tableofcontents'
+      ];
+      if (navigator && navigator.onLine) {
+        pwaPreLoadModals.forEach(function (popupId) {
+          loadPopup(popupId, {workpad_id: 1397118});
+        });
+      }
+    });
+  </script>
+</body>
+</html>

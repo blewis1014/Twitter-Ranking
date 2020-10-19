@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>We got lost</title>
+<link href="https://fonts.googleapis.com/css?family=Lato:400" rel="stylesheet" type="text/css">
+<style>
+    html, body {
+        height: 100%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        color: #333333;
+        display: table;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .container {
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .content {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .title {
+        font-size: 72px;
+        margin: 40px 30px;
+    }
+
+    .c-button {
+        position: relative;
+        display: inline-block;
+        padding: 0.75rem 1.25rem;
+        color: #424a4e;
+        font-size: 0.85rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        background-color: #dee2e3;
+        -webkit-transition: background-color 125ms linear, color 125ms linear, border 125ms linear;
+        transition: background-color 125ms linear, color 125ms linear, border 125ms linear;
+        cursor: pointer;
+    }
+
+    .c-button--primary {
+        color: #fff;
+        background-color: #00a3df;
+        border: 1px solid #0090c6;
+    }
+
+    a {
+        text-decoration: none;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="content">
+<a href="/"><img src="/images/common/petition-logo.png" alt="logo" /></a>
+<div class="title">We can't seem to find that page.</div>
+<p>
+<a class="c-button c-button--primary" href="/">Return to home page</a>
+</p>
+</div>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>We got lost</title>
+<link href="https://fonts.googleapis.com/css?family=Lato:400" rel="stylesheet" type="text/css">
+<style>
+    html, body {
+        height: 100%;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        color: #333333;
+        display: table;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .container {
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .content {
+        text-align: center;
+        display: inline-block;
+    }
+
+    .title {
+        font-size: 72px;
+        margin: 40px 30px;
+    }
+
+    .c-button {
+        position: relative;
+        display: inline-block;
+        padding: 0.75rem 1.25rem;
+        color: #424a4e;
+        font-size: 0.85rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        background-color: #dee2e3;
+        -webkit-transition: background-color 125ms linear, color 125ms linear, border 125ms linear;
+        transition: background-color 125ms linear, color 125ms linear, border 125ms linear;
+        cursor: pointer;
+    }
+
+    .c-button--primary {
+        color: #fff;
+        background-color: #00a3df;
+        border: 1px solid #0090c6;
+    }
+
+    a {
+        text-decoration: none;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="content">
+<a href="/"><img src="/images/common/petition-logo.png" alt="logo" /></a>
+<div class="title">We can't seem to find that page.</div>
+<p>
+<a class="c-button c-button--primary" href="/">Return to home page</a>
+</p>
+</div>
+</div>
+</body>
+</html>

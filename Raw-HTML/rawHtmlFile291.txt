@@ -1,0 +1,2129 @@
+<!doctype html>
+<html lang=en>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><meta name=viewport content="width=device-width,initial-scale=1"><title>Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate</title><link rel=canonical href=https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html><link rel=dns-prefetch href=https://connect.facebook.net><link rel=dns-prefetch href=https://www.facebook.com><link rel=dns-prefetch href=https://imasdk.googleapis.com><link rel=preconnect href=https://www.google-analytics.com><link rel=preconnect href=https://www.googletagservices.com crossorigin><link rel=preconnect href=https://www.googletagmanager.com crossorigin><link rel=preconnect href=https://i.rmbl.ws><style>html{
+	background: #f3f3f7;
+	color:#333;
+	font: normal 14px/1.15 sans-serif;
+	-webkit-text-size-adjust: 100%;
+}
+body, a, button, input, textarea, select, option, h1, h2, h3, address, ul, ol { margin: 0; padding: 0; color: inherit; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; }
+button, input[type=button], input[type=submit] { -webkit-appearance: button; cursor: pointer; background-color: transparent; border-style: none; outline-style: none; } 
+ul, ol { list-style: none; }
+label { cursor: pointer; }
+a:hover{ text-decoration: underline; }
+button{
+	white-space:nowrap;
+}
+.h1 {
+	font-size:2rem;
+	line-height: 1;
+	font-weight:normal;
+	margin:0 0 1rem;
+ 	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+small {
+	font-size: 0.9rem;
+	color: #666;
+}
+
+/* modifiers */
+.content{
+	background:#fff;
+	padding:1rem;
+}
+
+.container{
+	box-shadow:0 0 3px rgba(0,0,0,0.1);
+	border-top:1px solid #e4e4e4;
+	border-bottom:1px solid #e4e4e4;
+	background:#fff;
+}
+
+.flex {
+	display: flex;
+}
+
+.clear{
+	clear:both;
+}
+.round-button{
+	display:inline-flex;
+	padding:0.5rem 0.7rem;
+	border-radius:10rem;
+	box-shadow:0 1px 2px rgba(0,0,0,0.2);
+	font-weight:bold;
+	margin-left:0.35rem;
+	margin-right:0.35rem;
+	font-size:1rem;
+	text-transform:uppercase;
+	opacity:1;
+	align-items:center;
+}
+.round-button:hover{
+	text-decoration:none;
+	box-shadow:none;
+	opacity:0.85;
+}
+.bg-green{
+	background:#567D31;
+	color:#fff;
+}
+.bg-blue{
+	background: #37c;
+	color:#fff;
+}
+.bg-grey{
+	background:#999;
+	color:#fff;
+}
+.bg-white{
+	background:#fff;
+	color:#000;
+}
+
+/* layout columns */
+.thirds{
+	margin-left:-1rem;
+	margin-right:-1rem;
+}
+.two-thirds, .one-thirds{
+	width:100%;
+	padding: 1.5rem 0;
+	box-sizing:border-box;
+}main{
+	padding:2rem 0;
+}
+.constrained{
+	box-sizing:border-box;
+	padding-left:1rem;
+	padding-right:1rem;
+}.media-under-title{
+	display:flex;
+	align-items:center;
+	margin-bottom:1rem;
+}
+.mediaList-list.related{
+	max-width:500px;
+	margin:0 auto;
+}
+.media-content,.media-sidebar{
+	margin:0 -1rem;
+}
+.play-count{
+	float: right;
+	margin-top: 12px;
+	font-size: 12px;
+	margin-left:6px;
+}i.user-image--img { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: white; background-position: center; background-repeat: no-repeat; background-size: cover; }i.user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 { background-image: url(https://i.rmbl.ws/z8/x/G/g/b/xGgba.baa-DineshDsouza-qhjg9j.jpg); }.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.media-by{
+	float:left;
+	position:relative;
+	display:flex;
+	height:3rem;
+	align-items: center;
+	font-size:1rem;
+}
+.media-by--a:hover { text-decoration: none; }
+.media-by--a:hover .media-heading-name { text-decoration: underline; }
+.media-by-wrap{
+	margin-left:3.8rem;
+	margin-top:5px;
+}
+.media-heading-name{
+	font-weight:bold;
+	margin:0;
+	display:inline-block;
+}
+.media-heading-published{
+	display:block;
+}
+.media-heading-title,.media-earnings{
+	display:none;
+}.subscribe-button-count { margin-left: 0.5rem; font-weight:normal; color:rgba(255,255,255,0.85) }.media-icon-share{
+	margin: -5px -1px -5px 4px;
+	fill: #fff;
+}
+.media-engage{
+	margin-left:auto;
+	display: flex;
+	z-index:5;
+	text-transform: uppercase;
+}.rumbles-vote{
+	display:flex;
+	align-items:center;
+	font-size:1rem;
+	color:#666;
+}
+.rumbles-vote-up,.rumbles-vote-down{
+	float:left;
+	display:inline-block;
+	padding:5px 8px;
+	border:1px solid #ddd;
+	background:#fff;
+	line-height:0;
+	border-radius:1rem 0 0 1rem;
+	color:#999;
+}
+.rumbles-vote-up:hover,.rumbles-vote-down:hover{
+	opacity:0.9;
+	background:#eee;
+}
+.rumbles-vote-up.active,.rumbles-vote-down.active{
+	background:#7a4;
+	color:#fff;
+}
+.rumbles-vote-down{
+	border-radius:0 1rem 1rem 0;
+	margin-right:0.7rem;
+	border-left:0;
+}
+.icon-rumbles-up,.icon-rumbles-down{
+	stroke:currentColor;
+	height:100%;
+	width:auto;
+}
+.rumbles-unit{
+	display:none;
+}.media-video-action{
+	background:#fff;
+	font-weight:normal;
+	align-items:center;
+	display:inline-flex;
+}
+.media-icon-license, .media-icon-embed{
+	margin:-5px -4px -5px 4px;
+	stroke:#444;
+	stroke-width:1.3px;
+}
+.media-icon-license{
+	margin-left:6px;
+}.video-footer-buttons{
+	justify-content:space-between;
+	display:flex;
+	align-items:center;
+	margin:1rem;
+}.media-description-break{
+	margin:1rem 0;
+	text-align:center;
+	height:90px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}.breadcrumbs{
+	font-weight:bold;
+}
+p.media-description{
+	font-size:1.3rem;
+	line-height:2rem;
+	margin:1rem 0;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+div.media-description{
+	padding-top:0;
+	padding-bottom:0;
+}.media-related-break{
+	margin-bottom:1.5rem;
+	height:280px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}.mediaList-link-more {
+	display: flex;
+	justify-content: center;
+	margin: auto 0 -2.2rem;
+	padding-top: 1rem;
+}
+
+.mediaList-link-more a {
+	display: block;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	text-align: center;
+	padding: 0.35rem 1.35rem;
+	border-radius: 10rem;
+	text-transform: lowercase;
+	background: #fff;
+	color: #666;
+}
+
+.mediaList-link-more a:hover {
+	background: #74a642;
+	border-color: #74a642;
+	color: #fff;
+}.singleMedia.content{
+	margin-top: -3.5rem;
+	padding:0;
+	border-top: none;
+}
+.mediaList-info.singleMedia{
+	padding: 1rem 0;
+}.mediaList-item{
+	padding: 1rem 0;
+	border-bottom: 1px solid #e4e4e4;
+}
+.mediaList-link {
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+}
+.mediaList-link:hover{
+	text-decoration:none;
+}
+.mediaList-item.first-item{
+	padding-top: 0;
+}
+.without-show-more-link .mediaList-item.last-item{
+	padding-bottom: 0;
+	border-bottom: none;
+}
+.mediaList-link.size-large,
+.mediaList-link.size-xlarge {
+	flex-direction: column;
+	align-items: flex-start;
+}
+.mediaList-image-div{
+	width: 50%;
+	flex-shrink: 0;
+	margin-right: 10px;
+	position:relative;
+	line-height: 0;
+}
+.mediaList-image-div.size-large,
+.mediaList-image-div.size-xlarge{
+	width: 100%;
+	margin-right: 0;
+}
+.mediaList-image-div.size-small{
+	width:35%;
+}
+.mediaList-image{
+	width:100%;
+}
+.mediaList-heading{
+	font-size:1rem;
+	font-weight: bold;
+	margin: 0 0 0.5rem;
+	line-height: 1.2rem;
+	max-height: 2.4rem;
+	overflow: hidden;
+}
+.mediaList-heading.size-xlarge{
+	font-weight: normal;
+	font-size:2rem;
+	line-height: 2.2rem;
+	max-height: 2.2rem;
+	white-space: nowrap; overflow: hidden; display: block; text-overflow: ellipsis;
+	margin-bottom: 1.5rem;
+}
+.mediaList-heading.size-large{
+	margin-top:7px;
+	font-size:1.2rem;
+	line-height: 1.5rem;
+	max-height: 1.5rem;
+	white-space: nowrap; overflow: hidden; display: block; text-overflow: ellipsis;
+}
+.mediaList-heading.size-medium, .mediaList-heading.size-small {
+	max-height: 2.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}
+.mediaList-by{
+	position:relative;
+	display: flex;
+	align-items: center;
+}
+.mediaList-by-image{
+	font-size: 2rem; width: 2rem; height: 2rem;
+	left:0;
+	flex-shrink: 0;
+	margin-right: 7px;
+}
+.mediaList-by-heading{
+	font-weight:normal;
+	margin:0;
+	font-size:0.9rem;
+	color: #666;
+	display: inline;
+}
+.mediaList-rumbles,
+.mediaList-earnings{
+	display: block;
+	color:#587F33;
+}
+.mediaList-by.size-large .mediaList-earnings,
+.mediaList-by.size-xlarge .mediaList-earnings {
+	display: inline;
+}
+.mediaList-timestamp::before,
+.mediaList-plays::before,
+.mediaList-by.size-large .mediaList-earnings::before,
+.mediaList-by.size-xlarge .mediaList-earnings::before {
+	content: ' • ';
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #666;
+}
+.mediaList-duration{
+	position:absolute;
+	bottom:7px;
+	right:7px;
+	color:#ddd;
+	background:rgba(0,0,0,0.5);
+	padding:1px 5px;
+	font-size:0.8rem;
+	line-height: initial;
+}
+.mediaList-info { width: 100%; box-sizing: border-box; }i.user-image--img--id-64dc1cddd1aed0dca54b293442601185 { background-image: url(https://i.rmbl.ws/z0/1/P/r/n/1Prna.asF-BonginoReport-qhducb.jpg); }i.user-image--letter { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: #37c; }
+i.user-image--letter:after { display: block; text-align: center; margin-top: 50%; transform: translateY(-50%); font-style: normal; content: attr(data-letter); text-transform: capitalize; font-weight: bold; color: white; font-size: 75%; line-height: 1; }i.user-image--img--id-3736c2cf723f201e039241120a8187d1 { background-image: url(https://i.rmbl.ws/z8/J/H/X/a/JHXaa.baa-JustTheNews-qeaq9w.png); }i.user-image--img--id-95b7bbcec6858ba84e04f2fc070cb820 { background-image: url(https://i.rmbl.ws/z8/R/p/e/b/Rpeba.baa-JoePagsMonologues-qh48cr.jpg); }i.user-image--img--id-c7571c6535e1b52f4bfc6816296fcadc { background-image: url(https://i.rmbl.ws/z8/o/Q/O/a/oQOaa.baa-WochitNews-pq41vy.jpg); }i.user-image--img--id-231cff7851f79bdb599cd6d6cd28f48a { background-image: url(https://i.rmbl.ws/z0/f/q/n/l/fqnla.asF-Spy225-qidgif.png); }i.user-image--img--id-7f56ea46012bb57f62e02db6596ee3b0 { background-image: url(https://i.rmbl.ws/z8/Z/p/g/b/Zpgba.baa-CBJRealNews-qhclxa.jpg); }i.user-image--img--id-2d74b78828ee4930786715cfc5bbf385 { background-image: url(https://i.rmbl.ws/z0/s/s/p/n/sspna.asF.2-TheConservativeLatino-qhd903.jpg); }.header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	color:#ddd;
+	background:#000;
+	height: 4rem;
+	padding:0;
+	box-shadow:0 0 25px 0 rgba(0,0,0,0.5);
+	z-index:200;
+}
+.header-div{
+	display:flex;
+	color:#fff;
+	height:100%;
+	padding:1.2rem;
+	align-items:center;
+	position:relative;
+}
+.main-menu-toggle{
+	display: flex;
+	align-items: center;
+	height:2.6rem;
+}
+.main-menu-close,.main-menu-open{
+	stroke:#aaa;
+	stroke-width:2px
+}
+.main-menu-close{
+	display:none;
+	stroke-width:3px
+}
+.pop-show>.main-menu-close{display:inline-block}
+.pop-show>.main-menu-open{display:none}
+.header-logo{
+	width:8rem;
+	margin-left: 1rem;
+	margin-right: 0.2rem;
+	display: flex;
+	flex-shrink:0;
+	align-items: center;
+}
+.header-logo img {
+	width: 100%;
+	height: auto;
+}
+.header-upload{
+	border-radius:10rem;
+	padding:0.35rem;
+	background: #74a642;
+	height:2.6rem;
+	width:2.6rem;
+	margin:0 1rem;
+	flex-shrink: 0;
+	stroke:#fff;
+}
+main {
+	display: block;
+	margin-top: 4rem;
+}.header-search{
+	display:flex;
+	margin-left: auto;
+	align-items:center;
+	border-radius:10rem;
+	background:#222;
+}
+.header-search-select, .header-search-field{
+	border:0;
+	height:100%;
+	background:none;
+	font-size:1.1rem;
+	color:#fff;
+	padding:0 0.7rem;
+	outline:0;
+}
+.header-search-select {
+	/* Hide dropdown arrow in Firefox */
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+}
+.header-search-select option {
+	color: #333;
+}
+.header-search-select{
+	width: 7rem;
+	flex-shrink: 0;
+}
+.header-search-field{
+	-webkit-appearance: textfield;
+	outline-offset: -2px;
+	border-left:1px solid #333;
+	width:100%;
+}
+.header-search-field::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+.header-search-field::placeholder{
+	color:#ddd;
+}
+.header-search-submit{
+	height:2.9rem;
+	width:2.9rem;
+	padding:0.6rem;
+	flex-shrink:0;
+}
+.header-search-select,.header-search-field{display:none}
+.header-search-select.pop-show,.header-search-field.pop-show{
+	display:block;
+}
+.header-search.pop-show{
+	position:absolute;
+	left: 3.5rem;
+	right: 1.5rem;
+	z-index:100;
+}
+.header-search-icon{
+	stroke:#fff;
+}.header-user-info{display:none;}
+.header-user{
+	text-align:left;
+}
+.header-user-img{
+	flex-shrink: 0;
+	font-size: 2.6rem; width: 2.6rem; height: 2.6rem; 
+	padding:0.35rem;
+}svg.user-image--icon { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background:#f3f3f7; stroke:#333; }.navs{
+	position:fixed;
+	top:4rem;
+	width:100%;
+	z-index:10;
+}
+.hover-menu{
+	position:absolute;
+	color:#ddd;
+	background:#222;
+	box-shadow:0 0 20px 0 rgba(0,0,0,0.8);
+	width:16rem;
+	padding:1rem;
+	font-size:1.15rem;
+	box-sizing: border-box;
+	max-height: calc(100vh - 4rem);
+	overflow: auto;
+}
+#main-menu{
+	display:none;
+}
+#main-menu.pop-show{
+	display:block;
+	left: 0;
+}.main-menu-item{
+	display:block;
+	margin:0 0 0.8rem;
+}
+.main-menu-item-important{
+	color:#f99;
+}
+.main-menu-item:hover{
+	opacity:0.7;
+	text-decoration:none;
+}
+.main-menu-signout{
+	border-top:1px solid #666;
+	padding:0.6rem 0 0 2.1rem;
+	margin-bottom:0;
+}
+.main-menu-heading{
+	font-size:1rem;
+	font-weight:bold;
+	text-transform: uppercase;
+	border-top:1px solid #666;
+	padding:1.2rem 0 0.3rem;
+	margin:2.4rem 0 1.5rem 0;
+}
+.main-menu-icon{
+	width:1.8rem;
+	height:1.8rem;
+	margin:0 0.5rem -0.5rem 0;
+	stroke:#fff;
+	stroke-width:2px;
+}.footer{
+	clear: both;
+	background: #111;
+	color:#ddd;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.footer-nav{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+}
+.footer-nav-link,
+.footer-terms-link {
+	margin-right: 1rem;
+	margin-bottom: 0.5rem;
+	display: block;
+	color:#ddd;
+}
+.footer-nav-link:hover,
+.footer-terms-link:hover {
+	color: #74a642;
+	text-decoration: none;
+}
+.footer-terms-copyright {
+	align-items: center;
+}
+.footer-terms{
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-copyright {
+	margin-top: 2rem;
+	margin-bottom: 0;
+	color: #aaa;
+}@media(max-width:699px){.desktop-only{
+	display:none
+}.mediaList-heading.size-xlarge {
+	max-height: 4.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}}@media(min-width:460px){.rumbles-unit{
+	display:inline;
+}}@media(min-width:700px){.mobile-only{
+	display:none
+}.h1 {
+	font-size:2.6rem;
+	line-height: 1.25;
+	margin:1rem 0 1.8rem;
+}
+.thirds{
+	display: flex;
+	flex-wrap: wrap;
+}
+.two-thirds, .one-thirds{
+	display: flex;
+	flex-direction: column;
+	width:33.333333333%;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.two-thirds{
+	width:66.666666667%;
+}
+.container{
+	border-left:1px solid #e4e4e4;
+	border-right:1px solid #e4e4e4;
+}
+.round-button{
+	padding:0.85rem 1.3rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	font-size:1rem;
+}.media-under-title{
+	margin-bottom:2rem;
+}.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+}
+.media-by{
+	font-size:1.2rem;
+	height:3.4rem;
+}
+.media-heading-title,.media-heading-info{
+	display:inline-block;
+}
+.media-by-wrap{
+	margin-top:0
+}
+.media-heading-info:before{
+	content:"\00B7";
+	padding:0 8px 0 2px;
+	font-weight:bold;
+	color:#aaa;
+	display:inline-block;
+}
+.media-earnings{
+	color:#7a4;
+	font-weight:bold;
+	clear:left;
+	display:block;
+}.media-video-action{
+	font-size:1.1rem;
+}.video-footer-buttons{
+	margin:1rem 0;
+}.media-related-break{
+	margin-bottom:2rem;
+}.mediaList-list.top-earners {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}.singleMedia.content{
+	margin-top: 0;
+	height: 100%;
+}.header-upload{
+	margin-left: auto;
+	margin-right: 1.2rem;
+}.header-search-select,.header-search-field{display:block}
+.header-search,.header-search.pop-show{
+	position:static;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	width: 40%;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}.header-user{
+	width:9rem;
+	display: flex;
+	align-items: center;
+}
+.header-user-name,.header-user-stat{
+	display:block;
+	color:#aaa;
+}
+.header-user-name{
+	color:#fff;
+	padding:0.1rem 0 0.1rem;
+}
+.header-user-info{
+	display:inline-block;
+	margin-left:0.5rem;
+}.footer {
+	padding-top: 2rem;
+	padding-bottom: 4rem;
+}
+.footer-nav-link{
+	margin-right: 3rem;
+	margin-bottom: 0;
+}
+.footer-terms-link {
+	margin-right: 0;
+	margin-bottom: 0;
+}
+.footer-terms-copyright {
+	display: flex;
+}
+.footer-terms{
+	order: 2;
+}
+.footer-terms-link.divider::after{
+	content: ' | ';
+	display:inline-block;
+	color: #666;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.footer-copyright {
+	margin-top: 0;
+	margin-right: 3rem;
+}}@media(min-width:900px){.media-content,.media-sidebar{
+	float:left;
+	margin:0;
+}
+.media-content{
+	width:calc(100% - 350px);
+	padding-right:14px;
+}
+.media-sidebar{
+	width:336px;
+}}@media(min-width:1200px){.constrained{
+	max-width:1200px;
+	width:100%;
+	margin:0 auto;
+}.singleMedia .mediaList-image {
+	height: 28rem;
+	object-fit: cover;
+}}</style><script>var $$={};!function(f,d){function a(){return(new Date).getTime()/1e3}var r,t,o,n,i,u,e="Rumble",l={F:0};(d=f[e]=f[e]||function(){d._.push(arguments)})._=d._||[],l.f={},l.b={};if(!l.k){function s(t,e){return t.opts||(t.opts=[]),l.D(e,function(e,r){t[r]="opts"!=r?e:t[r].concat(e)}),t}var p,g="https://rumble.com",b="/embedJS/u3";l.l=a(),f.RumbleErrorHandler||(u=0,f.RumbleErrorHandler=function(e){var r,t,o,n,i=e.message,d=e.filename,a=e.lineno,c=e.colno,s=j(d);d==s||i.match(/^Script error\./)||3<++u||(t=document.location+"",r=[j(t),u,i,s,a,c],e.error&&e.error.stack&&r.push(e.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(r)),t==r[0]&&(o=g+o),(n=document.createElement("img")).src=o,n.width=n.height=1,n.onload=n.onerror=function(){n.onload=null,n.onerror=null})},f.addEventListener("error",f.RumbleErrorHandler)),l.E=function(e){return e.split("?")[0]},l.B=function(e){var r=e.split("?"),t={};return r&&r[1]&&(r=r[1],new URLSearchParams(r).forEach(function(e,r){t[r]=e})),t},l.C=function(e){var t="";return l.D(e,function(e,r){t+=(t?"&":"")+encodeURIComponent(r)+"="+encodeURIComponent(e)}),t},l.D=function(e,r){var t;for(var o in e)if(e.hasOwnProperty(o)&&void 0!==(t=r(e[o],o)))return t},l.r=function(){function d(r,t){return function(e){n.a([r],t,e)}}var a={},c={},n={b:function(e,r,t){var o;if("object"!=typeof e){if(a[e]&&!t)return!1;if(r=r||1,a[e]=r,c[e])for(;o=c[e].pop();)o(e,r);return!0}for(o in e)n.b(o,e[o],t)},a:function(e,r,t){var o,n,i;for(t=t||{},o=0;i=e[o];o++)a[i]?t[i]=a[i]:(n&&(r=d(n[0],n[1])),n=[i,r]);n?(c[n[0]]||(c[n[0]]=[]),c[n[0]].push(function(e,r){t[e]=r,n[1](t)})):r(t)}};return n},n=l.r(),i={},l.s=function(e,r){var t,o,n=0;i[e]||(i[e]=1,(t=document.createElement("script")).type="text/javascript",t.src=e,r&&(o=function(e){if(n||r())return n=1;e&&setTimeout(o,50)},t.addEventListener("load",o,!1),o(1)),document.head.appendChild(t))},l.q=function(e,r){var t,o;for(o=0;o<e.length;o++)if("ima3"==e[o])l.s("https://imasdk.googleapis.com/js/sdkloader/ima3.js",function(){return!("undefined"==typeof google||!google||!google.ima)&&(n.b("ima3"),!0)});else if("custom_ui"!=e[o]){t=e[o];l.s(d.s.rd+"/j/p/"+t+".r2.js?_v=20",r)}},l.c=function(e,r,t){n.a(e,r),t||l.q(e)},d.rl=function(e,r){n.b(e)&&r&&r(l)};function h(e){return v.hasOwnProperty(e)?v[e]:e}var v=[0,1,"position","absolute","relative","fixed","normal","none","auto","width","height","margin","padding","border","display","#FFF","#000","100%","background","opacity"],m=function(t,e,o){var n,r;if(!t.style&&t.length)for(r=0;r<t.length;r++)m(t[r],e,o);else l.D(e,function(e,r){n=h(r),o&&""!==t.style[n]||(t.style[n]=h(e))})};l.w=m,l.y=function(e){var t={};return l.D(e,function(e,r){t[h(r)]=h(e)}),t},l.t=function(e,r,t,o,n,i,d){return o||(o=e,n=r),i=i?" RumbleSVG-"+i:"",d=d||"",0<t.indexOf("stroke")&&(d+="stroke:currentColor;"),[e,r,'<svg style="'+d+'" class="RumbleElm'+i+'" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+e+'px" height="'+r+'px" viewBox="0 0 '+o+" "+n+'">'+t+"</svg>"]},l.j=l.r(),l.j.c=function(r,t,o,n){l.j.a([t],function(e){n&&(r=r.querySelectorAll(n)[0]),l.z(r,e[t][2]),o&&("string"==typeof o?r.style.display=o:o.apply(r))})};var S='<path stroke-width="3" stroke-linejoin="round" d="M19 11L3.2 1.5v19z"/>';l.j.b({bplay:l.t(25,25,S,22,22,"bplay"),play:l.t(22,22,S,0,0,"play","height:100%;"),loader:l.t(80,10,function(){var e,r,t="<g>";for(e=0;e<21;e++)((r=e-6)<1||5<r)&&(r=1),t+='<circle cx="'+(10*e+5)+'" cy="5" r="'+r+'" />';return t+"</g>"}(),80,10)});function _(){var e=P;P={},l.D(e,function(e,r){"handler"!=r&&"function"==typeof e&&e()})}var y=f.requestAnimationFrame?1:0,P={};l.a=function(e,r){if(!P[e]&&"function"==typeof r&&(P[e]=r,!P.handler)){if(P.handler=_,!y)return setTimeout(P.handler,1e3/24);f.requestAnimationFrame(P.handler)}},l.i=function(e){var r=l.u("div",0,0,e);return 1<r.childNodes.length?r.childNodes:r.firstChild},l.u=function(e,r,t,o){var n=document.createElement(e);return o&&(n.innerHTML=o),r&&(n.className=r),t&&(n.id=t),C(n),n},l.z=function(e,r){e.innerHTML=r,x(e)};var w=l.y({font:"12px Helvetica,Arial,sans-serif",fontWeight:6,lineHeight:6,boxSizing:"content-box",webkitBoxSizing:"content-box",19:1,18:7,11:0,12:0,border:7,9:8,10:8,visibility:"visible",textSizeAdjust:8,textDecoration:7}),C=function(e){var r;(r=e.tagName)&&"path"!=(r=r.toLowerCase())&&"video"!=r&&(m(e,w,!0),"svg"!=r?(m(e,{color:15},!0),x(e)):m(e,{fill:"currentColor"},!0))},x=function(e){var r,t;if(r=e.childNodes)for(t=0;t<r.length;t++)C(r[t])};l.x=function(e,r,t,o){var n="__playerHover";(o=o||e)[n]||(e.addEventListener("mouseout",function(){m(o,o[n][0])}),e.addEventListener("mouseover",function(){m(o,o[n][1])})),o[n]=[t,r],m(o,t)};function H(e){var d,n={play:"#fff",scrubber:"#75a642",hover:"#fff",background:"#303030",hoverBackground:"#699c39"},a=this;l.D(e,function(e,r){a[r]=e}),a.hasima=1,a.hasInit=0,a.rpcl=(a.id?a.id+"-":"")+"Rumble-cls",a.rpcls="."+a.rpcl;var c={};a.addEvent=function(e,r,t){c[t=t||1]||(c[t]={}),c[t][e]||(c[t][e]=[]),c[t][e].indexOf(r)<0&&c[t][e].push(r)},a.removeEvent=function(e,r,t){if(c[t=t||1][e])if(t&&!r)c[t][e]=[];else{var o=c[t][e].indexOf(r);c[t][e].splice(o,1)}},a.hasEventListener=function(t){return l.D(c,function(e,r){if(e[t]&&0<e[t].length)return!0})},a.j=function(t,o,n){var i,d,a=[];return l.D(c,function(e,r){if(e[t]&&(n&&n==r||!n))for(d=e[t],i=0;i<d.length;i++)"function"==typeof o&&(o=o()),a.push(d[i](o))}),a},a.triggerError=function(e,r){a.j("error",{code:e,message:r})},a.l1=function(e,r,t){},a.getSetting=function(e,r){var t,o=!1;return a.vid&&a.vid.player&&a.vid.player[e]&&(t=a.vid.player[e],r&&t[r]&&(o=t[r]),r||(o=t)),!o&&n[r]&&(o=n[r]),o},a.loadVideoStyles=function(e){var r="vid_"+a.vid.id;a.rpcls;if(a.p.id=r,a.vars.opts.title&&a.vid.title&&(d.innerHTML=a.vid.title,d.href=a.vid.l,l.w(d,{outline:0,display:"block",18:"linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0))",textShadow:"rgba(0,0,0,0.5) 0px 0px 2px",padding:"9px",fontSize:"18px",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",position:"absolute",top:0,left:0,right:0}),l.x(d,{textDecoration:"underline"},{textDecoration:"none"})),a.bp){var t=a.getSetting("colors","play"),o=a.getSetting("colors","hover"),n=a.getSetting("colors","background"),i=a.getSetting("colors","hoverBackground");l.x(a.bp,{color:o,background:i,borderColor:i},{color:t,background:n,borderColor:n},a.bp_svg),a.bp.style.opacity=1}};var o=-1;a.trackBandwidth=function(e){e!=(0<o?1:0)&&(o=e,a.ui&&a.ui.changeStream(0,0))},a.pbcheck=function(e){var r=l.B(e),t=l.E(e);return o<0&&a.vid&&a.vid.a&&(o=a.vid.a.b?1:0),r.u=a.vid.a.u||0,r.b=0<o?1:0,t+"?"+l.C(r)},a.loadVideo=function(e,r){var t,o;if("object"!=typeof e&&(e={id:e}),o=e.id,l.b[o]&&(a.vars.playlist||(a.vars.playlist=l.b[o]),o=l.b[o][0]),a.hasInit||(a.hasInit=1,l.c(["ui","custom_ui"],function(){for(var e=0;e<l.d.length;e++)l.d[e](a.id)})),!r)return l.e(o,function(){a.loadVideo(e,1)},{ad_count:a.ad_count||null});if(l.f[o].loaded<9){if(a.triggerError("load","Unable to load video "+o),r)throw"Unable to load video "+o;return 2}if(l.f[o].cfg=e,l.f[o].plays=0,(t=l.f[o]).restrict&&!i(t.restrict)&&(a.triggerError("restricted","Video is restricted"),l.f[o].restricted=!0,a.j("restricted",o),l.f[o].ua=0),t.id=o,(a.vid=t).u&&!t.restricted&&(a.v.src=a.pbcheck(t.u),a.loadVideoStyles()),l.g(a.id),a.j("loadVideo",t),l.h(a.id,1),t.restricted&&r)throw"Video "+o+" is restricted"};var r,i=function(e){var r,t,o,n,i=document,d=!1;if(!e||e[0]<=-3)return!0;t=e[0],o=e[1];try{r=parent!==f?i.referrer||parent.location.href:i.location.href}catch(e){}if(!r)return parent===f;if(r=r.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i))for(r=r[1].split(".");2<=r.length&&!d;)n=r.join("."),-1<o.indexOf(n)&&(d=!0),r.shift();return t!=d},t=a.rpcl,s="metadata";(a.vars.opts.minimal||a.vars.opts.nopreload)&&(s="none"),r=l.i('<div class="'+t+'" allowfullscreen><video muted playsinline hidefocus="hidefocus" style="width:100% !important;height:100% !important;display:block" preload="'+s+'"'+(a.vars.opts.cc?' crossorigin="anonymous"':"")+'></video><div style="display:flex;opacity:0" class="bigPlayUI ctp"><a style="display:none" target=_blank rel=noopener></a><div class="bigPlayUIInner ctp" style="display:none"></div></div></div>'),l.w(r,{2:4,9:17,10:17,18:16,clear:"both"}),l.j.c(r,"bplay","block",".bigPlayUIInner"),a.d.appendChild(a.p=r),a.v=r.firstChild,l.A||(l.A=function(e){var r,t="canPlayType",o='video/mp4; codecs="avc1.42E01E',n=[o+'"',o+', mp4a.40.2"','video/webm; codecs="vp9, vorbis"',"application/vnd.apple.mpegurl"],i=[];if(!e||!e[t])return 0;for(r=0;r<n.length;r++)i[r]=e[t](n[r]);return i}(a.v)),a.rsz=[0,0],a.vpt=!l.A[0]&&l.A[1]?1:0,a.bp=r.childNodes[1],a.bp_svg=a.bp.childNodes[1],a.hasStyle={},d=a.bp.childNodes[0],l.w(a.bp_svg,{fill:"currentColor",9:8,12:"14px 22px",cursor:"pointer",borderRadius:"8px"}),l.w(a.bp,{display:"flex",opacity:0,position:"absolute",top:0,left:0,width:"100%",height:"100%",cursor:"pointer",alignItems:"center",justifyContent:"center",overflow:"hidden"}),a.v.addEventListener("contextmenu",function(e){return e.preventDefault(),!1}),a.loadVideoStyles()}l.d=[];d.s={rd:g,ru:b,ds:[],rp:g+b+"/?request="};l.k={},d.gdpr=2,l.m=function(e,r,t,o){var n=new XMLHttpRequest;n.onreadystatechange=function(){4==n.readyState&&200==n.status&&r(JSON.parse(n.responseText))},n.open("GET",(o?"":d.s.rp)+e),n.send()},l.e=function(e,r,t){var o,n,i,d=[];for("object"!=typeof e&&(e=[e]),o=0;o<e.length;o++)n=e[o],(!l.f[n]||1<l.f[n].loaded&&l.f[n].loaded+(1==e.length?900:1800)<a())&&(l.f[n]={loaded:0,wait:[]}),0==(i=l.f[n]).loaded&&(d.push(n),i.loaded=1),r&&i.loaded<9&&i.wait.push(r);return 0<d.length?(t=t?"&ext="+encodeURIComponent(JSON.stringify(t)):"",l.m("video&v="+d[0]+t,function(e){var r,t,o=[],n={};for(e.loaded||!e?n[d[0]]=e:n=e,l.D(n,function(e,r){for(;t=l.f[r].wait.pop();)o.indexOf(t)<0&&o.push(t);e&&(l.f[r]=e,l.f[r].loaded=a())}),r=0;r<o.length;r++)o[r]()}),1):(r&&r(),0)},d.resize=function(){l.D(l.k,function(e){l.h(e)})},l.h=function(e,r){var t=l.k[e];if(t){var o,n,i=!t.rsz,d=[t.p.clientWidth,t.p.clientHeight],a=f.innerHeight,c=t.vars;c.resize||(c.resize=function(){try{return f.self!==f.top}catch(e){return!0}}()?"full":"auto");(!i&&(t.rsz[0]!=d[0]||t.rsz[1]!=d[1])||d[1]>a||r)&&(n=c.resize,c.ia&&(n="ia"),t.ui&&t.ui.isFloating&&(n="auto"),o=Math.floor(d[0]/16*9),"ia"==n?screen&&screen.height<o&&(o=screen.height):"full"==n?o=0:"window"==n?o=a:("ctpauto"==n&&t.ui&&t.ui.ctp&&(c.resize="auto"),(a<o||t.ui&&t.ui.getFullScreen())&&(o=0)),"window"!=n&&"ctpauto"!=n&&"auto16:9"!=n&&"full"!=n&&(t.vid&&t.vid.a&&t.vid.a.aden&&t.vid.a.aden[2])&&o<360&&0!=o&&!c.float&&(o=360),t.rsz[0]!=d[0]&&(i=1),d[1]!=o&&(i=1,t.p.style.height=0<o?(d[1]=o)+"px":"100%")),t.rsz&&!i||(t.rsz=d),i&&(l.g(e),t.j("resize"))}},l.g=function(e){var r=l.k[e];if(!(!r.vid||r.ui&&r.ui.hasPlayed)){var t,o,n,i,d=r.vid.i,a=r.vid.t,c=-1,s=r.rsz[0],f=r.rsz[1],u=s/f;if(a)for(t=0;t<a.length;t++)o=u<(i=(n=a[t]).w/n.h)?(f-s/i)*s:(s-f*i)*f,(c<0||o<c)&&(c=o,d=n.i);r.v.poster!=d&&(r.v.poster=d)}},d.$play=function(e,r){var t,o,n=JSON.parse(JSON.stringify(d.s.ds)),i={};if((n=s(n,e)).opts&&(l.D(n.opts,function(e){i[e]=1}),n.opts=i),void 0===n.gdpr?n.gdpr=2:n.gdpr=n.gdpr?1:0,2!=n.gdpr&&(d.gdpr=n.gdpr),l.n=-1==n.analytics||n.opts.minimal?1:0,l.o=n.opts.skip_ga_load?1:0,l.p=n.opts.force_ga_load?1:0,!n.div){if(!p)throw"No div was defined for the player";n.div=p}if(p=o=n.div,l.k[o]&&((t=l.k[o]).d.parentNode||(t=0)),n.macros||(n.macros={}),!t){if(!(t=document.getElementById(o))){if(2<r)throw o+" div not found";f.addEventListener("DOMContentLoaded",function(){d.$play(e,3)})}l.k[o]||l.F++,l.k[o]=t=new H({d:t,vid:0,id:o,vars:n})}t.loadVideo(n.video),l.h(o)};d.rl("custom_ui");d.$playSettings=function(e){d.s.ds=s(d.s.ds,e)},f.addEventListener("resize",function(){l.a("resize",d.resize)}),f.addEventListener("orientationchange",function(){setTimeout(function(){d.resize()},500)});var G,k,z,E=f.Rumble;for(E._=G=E._||[],G.push=function(e){var r=G.slice.call(e),t=E["$"+r.shift()];"function"==typeof t?t.apply(E,r):r.push.call(G,e)},k=-1,z=G.length;++k<z;)G.push(G.shift())}function j(e){if(0,!e)return e;var r=e.match(new RegExp("http[s]?://[^/]*rumble.com(/.*)$"));return r?r[1]:e}}(window);
+
+</script><script type=application/ld+json>[{"@context":"http://schema.org","@type":"VideoObject","name":"Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate","playerType":"HTML5","description":"The got CRAZY fast... What happened to the town hall?","thumbnailUrl":"https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg","uploadDate":"2020-10-16T00:50:28+00:00","duration":"PT00H06M15S","url":"https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"http://schema.org/WatchAction"},"userInteractionCount":330951},"width":1280,"height":720,"videoQuality":"Full HD"},{"@context":"http://schema.org","@type":"WebSite","url":"https://rumble.com/","potentialAction":{"@type":"SearchAction","target":"https://rumble.com/search/video?q={search}","query-input":"required name=search"}},{"@context":"http://schema.org","@type":"Organization","name":"Rumble","url":"https://rumble.com/","logo":"https://rumble.com/i/rumble_logo_back.png","sameAs":["https://www.facebook.com/rumblevideo/","https://twitter.com/rumblevideo"]}]</script><meta name=description content="The got CRAZY fast... What happened to the town hall?"><meta property=og:site_name content=Rumble><meta property=og:type content=video.other><meta property=og:title content="Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate"><meta property=og:url content=https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html><meta property=og:description content="The got CRAZY fast... What happened to the town hall?"><meta property=og:image content=https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg><meta property=og:video:tag content="dinesh d'souza"><meta name=twitter:card content=summary_large_image><meta name=twitter:image content=https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg><meta name=twitter:title content="Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate"><meta name=twitter:description content="The got CRAZY fast... What happened to the town hall?"><meta property=fb:app_id content=155223717937973><meta name=twitter:site content=@rumblevideo><link rel="shortcut icon" href=/i/favicon.png><link rel=apple-touch-icon href=/i/favicon.png><link rel="manifest" href="/manifest.json"></head>		<body>
+				<main>
+			<div class="constrained">
+				<article><h1 class="h1">Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate</h1><div class="media-under-title">		<div class="media-by">
+			<div class="media-by-wrap">
+				<a class="media-by--a" href="/c/DineshDsouza" rel=author>
+					<i class='user-image user-image--img user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 media-user-image'></i>					<span class="media-heading-name">Dinesh D'Souza</span>
+				</a>
+				<span class="media-heading-info media-heading-published"><span class="media-heading-title">Published </span> October 15, 2020</span>
+									<span class="media-heading-info">330,951 Views</span>
+											</div>
+		</div>
+				<div class="media-engage">
+					<button data-title="DineshDsouza" data-slug="DineshDsouza" data-type="channel" data-action="subscribe" class="round-button media-subscribe bg-green">
+			<span class="subscribe-button-label">Subscribe</span>
+			<span class="subscribe-button-count"> 19K</span>		</button>
+					<button class="round-button media-engage-share desktop-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+		</div>
+		</div>		<div class="media-content">
+			<div class="video-player" id="videoPlayer"></div><div class="video-footer-buttons">		<div class="rumbles-vote" data-type="1" data-id="13560741">
+			<button data-vote="1" class="rumbles-vote-up" aria-label="Rumbles up vote"><svg class=icon-rumbles-up width=16 height=16><path stroke-width="3" d="M1.5 8l13 0m-6.5-6.5l0 13" /></svg></button>
+			<button data-vote="-1" class="rumbles-vote-down" aria-label="Rumbles down vote"><svg class=icon-rumbles-down width=16 height=16 viewBox="0 0 16 16"><path stroke-width="3" d="M1.5 8l13 0" /></svg></button>
+			<span class="rumbles-count">1265</span>&nbsp;<span class="rumbles-unit">rumbles</span>
+		</div>
+				<div style="display: flex">
+				<button class="round-button media-video-action media-video-action-embed">Embed<svg class=media-icon-embed width=20 height=20 viewBox="0 0 20 20"><path fill="none" d="M16.2 7h-2c-6 0-10.9 4.6-10.9 10.3m9.1-6.3l4-4-4-3.9"/></svg></button>
+						<button class="round-button media-engage-share mobile-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+					</div>
+		</div><div class="media-description-break a-break" data-section="description"></div>
+<div class="container content media-description"><p class="media-description">			<span class="breadcrumbs">
+			<span property="itemListElement" typeof="ListItem">
+				<a href="/" property="item" typeof="WebPage">Rumble</a>
+			</span> — </span>The got CRAZY fast... What happened to the town hall?</p>
+</div>			<button
+				id="login-to-see-comments"
+				class="round-button bg-green"
+				style="text-align:center; margin: 2em auto 1em auto; min-width: 50%; display: block"
+			>
+									Sign in to see 33 comments							</button>
+			<div style="text-align: center; font-size: 1.2rem; margin-bottom: 2em">... and disable advertisements! No kidding :)</div>
+					</div>
+		<aside class="media-sidebar">
+			<div class="media-related-break a-break" data-section="related"></div><ul class="mediaList-list container content related without-show-more-link"><li class="mediaList-item first-item">	<a class="mediaList-link size-medium" href="/vaook3-dems-squirm-as-first-blind-scotus-clerk-shares-incredible-story-about-acbs-.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/1/t/X/D/e/tXDeb.Ukob-small-Dems-Squirm-as-First-Blind-.jpg" alt="Dems Squirm as First Blind SCOTUS Clerk Shares Incredible Story About ACB's Character">
+							<small class="mediaList-duration">5m12s</small>
+					</div>
+		<div class="mediaList-info first-item">
+			<h3 class="mediaList-heading size-medium">Dems Squirm as First Blind SCOTUS Clerk Shares Incredible Story About ACB's Character</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Dinesh D'Souza</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaou75-unhinged-nbc-moderator-turns-town-hall-into-heated-debate-with-trump.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/H/J/F/e/HJFeb.0kob.1.jpg" alt='Unhinged NBC "Moderator" Turns Town Hall Into Heated Debate With Trump'>
+							<small class="mediaList-duration">2m15s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Unhinged NBC "Moderator" Turns Town Hall Into Heated Debate With Trump</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-64dc1cddd1aed0dca54b293442601185 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">BonginoReport</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaoqxd-president-trump-arrives-in-miami-for-nbc-town-hall.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/r/H/E/e/rHEeb.0kob-small-President-Trump-arrives-in-.jpg" alt="President Trump arrives in Miami for NBC town hall">
+							<small class="mediaList-duration">1m48s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">President Trump arrives in Miami for NBC town hall</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--letter mediaList-by-image' data-letter=W></i>				<div>
+					<h4 class="mediaList-by-heading">WPTV</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaodwh-trump-to-participate-in-tv-town-hall-thursday-night-of-canceled-debate-with.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/H/z/A/e/HzAeb.0kob.1.jpg" alt="Trump to participate in TV town hall Thursday, night of canceled debate with Biden">
+							<small class="mediaList-duration">26s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump to participate in TV town hall Thursday, night of canceled debate with Biden</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-3736c2cf723f201e039241120a8187d1 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Just The News</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaolbz-president-trump-and-joe-biden-town-hall.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/_/V/C/e/_VCeb.0kob-small-President-Trump-and-Joe-Bid.jpg" alt="President Trump and Joe Biden town hall">
+							<small class="mediaList-duration">21s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">President Trump and Joe Biden town hall</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--letter mediaList-by-image' data-letter=W></i>				<div>
+					<h4 class="mediaList-by-heading">WFTX</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakcy5-trump-biden-debate.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/n/I/S/d/nISdb.0kob-small-Trump-Biden-Debate.jpg" alt="Trump Biden Debate">
+							<small class="mediaList-duration">2m35s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump Biden Debate</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-95b7bbcec6858ba84e04f2fc070cb820 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Joe Pags Monologues</h4>
+																										<small class="mediaList-earnings">$5.63 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakblt-trump-and-biden-debate-tonight.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/b/h/S/d/bhSdb.0kob-small-Trump-And-Biden-Debate-Toni.jpg" alt="Trump And Biden Debate Tonight">
+							<small class="mediaList-duration">29s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump And Biden Debate Tonight</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-c7571c6535e1b52f4bfc6816296fcadc mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Wochit News</h4>
+																										<small class="mediaList-earnings">$7.17 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakmnl-trump-vs-biden-1st-debate.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/X/M/V/d/XMVdb.0kob.3.jpg" alt="Trump vs Biden 1st Debate">
+							<small class="mediaList-duration">1m51s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump vs Biden 1st Debate</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-231cff7851f79bdb599cd6d6cd28f48a mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Spy225</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaju11-trump-versus-biden-debate-smackdown.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/f/J/M/d/fJMdb.0kob-small-Trump-Versus-Biden-Debate-S.jpg" alt="Trump Versus Biden Debate Smackdown">
+							<small class="mediaList-duration">32s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump Versus Biden Debate Smackdown</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-7f56ea46012bb57f62e02db6596ee3b0 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">The Conservative Business Journal Podcast</h4>
+																										<small class="mediaList-earnings">$0.57 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item last-item">	<a class="mediaList-link size-medium" href="/vakhn2-trump-vs-biden-debate-1.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/o/b/U/d/obUdb.0kob.3.jpg" alt="Trump vs Biden debate 1">
+							<small class="mediaList-duration">2m08s</small>
+					</div>
+		<div class="mediaList-info last-item">
+			<h3 class="mediaList-heading size-medium">Trump vs Biden debate 1</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-2d74b78828ee4930786715cfc5bbf385 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">TheConservativeLatino</h4>
+																										<small class="mediaList-earnings">$0.10 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li></ul>		</aside>
+		<div style="height:20px;clear:both"></div>
+		</article>			</div>
+		</main>
+				<header class="header">
+			<div class="header-div constrained">
+				<button class="main-menu-toggle" aria-label="main menu">
+					<svg class=main-menu-open width=20 height=16><path d="M0 1h20M0 8h20M0 15h20" /></svg>					<svg class=main-menu-close width=20 height=16><path d="M2.5.5 l15 15 m0-15 l-15 15" /></svg>				</button>
+				<a href="/" class="header-logo"><img src="/img/rumble.svg" alt="Rumble"></a>
+						<form class="header-search">
+						<select class="header-search-select">
+									<option>Videos</option>
+									<option>Channels</option>
+							</select>
+			<input type=search class="header-search-field" name="query" placeholder="Search" value="">
+			<button class="header-search-submit" aria-label="search Rumble">
+				<svg class=header-search-icon viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-width="2" d="M17.6 17.6l6.3 6.3M2.2 11.2a9 9 0 1 0 18 0 9 9 0 1 0-18 0"/></svg>			</button>
+		</form>
+						<button class="header-upload" title=Upload aria-label=Upload>
+					<svg viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.2 17.5s-2.7-3.1-1.9-7.1C3 6.8 5.9 3.9 9.9 3.9c3.5 0 5.1 1.6 6.2 2.7 1.1 1.1 1.4 3.5 1.4 3.5s2.7-.7 4.4.7 2.4 3.8 1.8 5.6-2.6 3.1-2.6 3.1M9 17.1l4.1-3.8 4.2 3.8m-4.2 5.4v-9.2"/></svg>				</button>
+						<button class="header-user" aria-label="sign in">
+			<svg class="user-image user-image--icon header-user-img"><path fill="none" stroke-linecap="round" stroke-width="2" d="M8 6.8a5 5 0 1 0 10 0 5 5 0 1 0-10 0m14.8 16.7v-3.7a4 4 0 0 0-4-4H7.2a4 4 0 0 0-4 4v3.7"/></svg>				<span class="header-user-info">
+					<span class="header-user-name">Sign In</span>
+					<span class="header-user-stat">0 Rumbles</span>
+				</span>
+					</button>
+					</div>
+		</header>
+				<nav class="navs">
+			<div class="constrained" style="position:relative">
+				<div id="main-menu" class="hover-menu main-menu-nav">
+					<a class="main-menu-item" href="/videos"><svg class=main-menu-icon><path fill="none" d="M5 13a8 8 0 1 0 16 0 8 8 0 1 0-16 0M2.9 8.6C4.1 6 6.2 3.9 8.7 2.8m14.5 14.7a11.5 11.5 0 0 1-5.8 5.7M13 6.9V13h4.2"/></svg>Latest</a>		<a class="main-menu-item" href="/editor-picks"><svg class=main-menu-icon width=26 height=27 viewBox="0 0 26 27"><path fill="none" d="M4 8a6.5 7 0 1 0 13 0A6.5 7 0 1 0 4 8m15 13.5C15.6 11 1.1 13.9 1 25m13-2.4l3.9 4.4 7.1-8"/></svg>Editor Picks</a>
+		<a class="main-menu-item" href="/videos?sort=views&date=this-week"><svg class=main-menu-icon width=25 height=34 viewBox="0 0 25 26"><path fill="none" d="M0 19c10-.6 18.1-9 16.9-18M11 7l5.9-6L23 7"/></svg>Trending</a>
+		<a class="main-menu-item" href="/content-contributions"><svg class=main-menu-icon width=26 height=26 viewBox="0 0 26 26"><path fill="none" d="M2.7 12.9a10.3 10.3 0 1 0 20.6 0 10.3 10.3 0 1 0-20.6 0M13 6.4v13.4m-3.9-2.6h6.8v-4.3h-5.8V8.6h6.7"/></svg>Write Articles</a>
+		<a class="main-menu-item" href="/license-videos"><svg class=main-menu-icon width=26 height=26 viewBox="0 0 26 26"><path fill="none" d="M19.1 20H2.3V6h11.8M24.3 20h-5.5s-.9-1.5-1.4-2c-.5-.5-1-1.3-1.9-1.7-.4-.2-2.2-1.6-2.3-2.5 0-1.7 1.1-1.4 2.3-1 1.2.5 3.6 1.6 3.6 1.6l-.9-6.7S12.9 6.2 13 5.9c.1-.3 5.8-1.9 7.2-.2s2 4.5 2.8 5.1c.8.6 1.5.6 1.5.6 M6.8,11.1a1.8,1.8 0 1,0 3.6,0a1.8,1.8 0 1,0 -3.6,0 M5.8 16.6c0-1.5 1.2-2.7 2.7-2.7s2.7 1.2 2.7 2.7"/></svg>License Videos</a>
+		<a class="main-menu-item" href="//community.rumble.com"><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path fill="none" stroke-linecap="round" stroke-width="2" d="M5 7a4 4 0 1 0 8 0 4 4 0 1 0-8 0m10.9-3.9c4 1 4 6.8 0 7.8m1.2 10.7v-2.7a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v2.7m21.9 0c0-2.6.2-5.8-3.1-6.6"/></svg>Community</a>
+		<h3 class="main-menu-heading">Featured Channels</h3><a class="main-menu-item" href="/user/JoePags">Joe Pags</a><a class="main-menu-item" href="/user/ViralHog">Viral Hog</a><a class="main-menu-item" href="/user/afv">AFV</a><a class="main-menu-item" href="/c/DiamondandSilk">Diamond & Silk</a><a class="main-menu-item" href="/c/TheBuckSextonShow">The Buck Sexton Show</a><a class="main-menu-item" href="/c/DineshDsouza">Dinesh Dsouza</a><a class="main-menu-item" href="/c/c-285751">JamesArnoldTaylor</a><a class="main-menu-item" href="/c/NOQReport">NOQ Report</a><a class="main-menu-item" href="/c/DiamondandSilkThePodcast">Diamond & Silk The Podcast</a><a class="main-menu-item" href="/c/c-3614">Wild Creatures</a><a class="main-menu-item" href="/c/TonyKatz">Tony Katz</a><a class="main-menu-item" href="/c/Bongino">The Dan Bongino Show</a><a class="main-menu-item" href="/c/DevinNunesPress">DevinNunesPress</a><a class="main-menu-item" href="/c/DevinNunesPodcast">Devin Nunes Podcast</a><a class="main-menu-item" href="/c/JustTheNews">Just The News</a><a class="main-menu-item" href="/c/DigitalTrends">Digital Trends</a><a class="main-menu-item" href="/c/Newsy">Newsy</a><a class="main-menu-item" href="/c/WayneDupreeShow">The Wayne Dupree Show</a>				</div>
+							</div>
+		</nav>
+				<footer class="footer">
+			<div class="constrained">
+				<nav class="footer-nav">
+					<a class="footer-nav-link" target=_blank rel=noopener href="//community.rumble.com/">Community</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//help.rumble.com/">Developers</a>
+					<a class="footer-nav-link" rel=noopener href="/team/">Our Team</a>
+					<a class="footer-nav-link" rel=noopener href="/our-apps/">Our Apps</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//corp.rumble.com/">About Us</a>
+					<a class="footer-nav-link" target=_blank href="//teespring.com/stores/rumble-vault" rel="nofollow noopener">Store</a>
+				</nav>
+
+				<div class="footer-terms-copyright">
+					<nav class="footer-terms">
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/terms">Terms &amp; Conditions</a>
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/privacy">Privacy Policy</a>
+						<a class="footer-terms-link" rel="nofollow" href="/s/dmca">Copyright / DMCA</a>
+					</nav>
+					<p class="footer-copyright">Copyright &copy; 2020 Rumble. All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+		<script>$$={query:function(e,n){return Array.isArray(e)&&(n=e[1],e=e[0]),n=n||document,"string"==typeof e?n.querySelectorAll(e):[e]},each:function(e,n){for(var t=0;t<e.length;t++)n.call(e[t])},gt:function(e){return(new Date).getTime()/(e?1e3:1)},getByClass:function(e){var n=$$.query("."+e);return 1<=n.length&&n[0]},isVisible:function(e){return 0<e.offsetWidth&&0<e.offsetHeight},addClass:function(e,n){return!e.classList.contains(n)&&(e.classList.toggle(n),!0)},removeClass:function(e,n){e.classList.remove(n)},addClick:function(e,t){var n,r=$$.query(e);if(r)for(n=0;n<r.length;n++)r[n]&&r[n].addEventListener("click",function(e){var n=t.call(this,e);return n||void 0===n||e.stopPropagation(),n})},addServiceClick:function(e,n,t,r,c){$$.addClick(e,function(e){e.preventDefault(),$$.serviceGet(n,t,r,c)})},urlQueryObject:function(){var t={};return"undefined"==typeof URLSearchParams||new URLSearchParams(location.search).forEach(function(e,n){t[n]=e}),t},urlEncodeData:function(e){var n,t="";for(n in e)e.hasOwnProperty(n)&&(t+=(t?"&":"")+encodeURIComponent(n)+"="+encodeURIComponent(e[n]));return t},include:function(e,n){var t=document.createElement("script");t.src=e,t.async=!0,n&&(t.onload=n),document.head.appendChild(t)},includeCSS:function(e){var n=document.createElement("link");n.type="text/css",n.rel="stylesheet",n.href=e,document.head.appendChild(n)}},$$.page_load_time=(new Date).getTime();
+
+$$.injectJSLib=function(e,t){var s=document.createElement("script");return s.defer=!0,s.text=t,"code"!=e&&(s.id="js-"+e,$$.includedJSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.injectCSSLib=function(e,t){var s=document.createElement("style");return s.appendChild(document.createTextNode(t)),e&&(s.id="css-"+e,$$.includedCSSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.request=function(e,t,s,n){var i=new XMLHttpRequest;n=n||function(){},i.open(t?"POST":"GET",e,!0),i.setRequestHeader("Content-type","application/x-www-form-urlencoded"),i.responseType="json",i.onload=function(){200==i.status?s(i.response):n&&n(i.status)},i.send(t?$$.urlEncodeData(t):null)},$$.requestGet=function(e,t,s){return $$.request(e,0,t,s)},$$.requestPost=function(e,t,s,n){return $$.request(e,t,s,n)},$$.serviceGet=function(e,t,s,n){return $$.serviceLoad("get",e,t,s,n)},$$.servicePost=function(e,t,s,n){return $$.serviceLoad("post",e,t,s,n)},$$.serviceLoad=function(i,c,o,r,e){"object"==typeof i&&(c=i.name||c,o=i.data||o,r=i.success||r,e=i.fail||e,i=i.type);var t,s=Math.floor(1e3*Math.random()),$="__service"+((new Date).getTime()-$$.page_load_time)+"_"+s,n=[],d=[],l="/service.php?",a={};for(var u in"post"==i?"object"==typeof o&&(o.get||o.post)&&(t=o.get,o=o.post):o&&(t=o),(t=$$.urlEncodeData(t))&&(l+=t+"&"),a.name=c,$$.includedJSLibs)n.push(u);for(var u in 0<n.length&&(a.included_js_libs=n.join(",")),$$.includedCSSLibs)d.push(u);0<d.length&&(a.included_css_libs=d.join(","));function p(e){var t,s,n="";if(e.js_libs){for(t in e.js_libs)e.js_libs.hasOwnProperty(t)&&$$.injectJSLib(t,e.js_libs[t]);delete e.js_libs}if(e.css_libs){for(t in e.css_libs)e.css_libs.hasOwnProperty(t)&&$$.injectCSSLib(t,e.css_libs[t]);delete e.css_libs}e.html&&((s=document.createElement("div")).innerHTML=e.html,e.html=1<s.childNodes.length?s:s.firstChild),e.request={type:i,name:c,data:o},$$[$]=e,$$[$].close=function(){this.html&&this.html.remove(),this.script.remove(),delete $$[$]},e.js_code&&(n="$$."+$+".call=function(){"+e.js_code+"};$$."+$+".call();"),r&&(e.success=r,n+="$$."+$+".success();"),n&&($$[$].script=$$.injectJSLib("code",n))}l+=$$.urlEncodeData(a),"post"==i?$$.requestPost(l,o,p,e):$$.requestGet(l,p,e)};
+
+!function(){var n=[];$$.onload=function(t){if("object"!=typeof n)return t();n.push(t)},window.addEventListener("load",function(){for(var t=n,i=n=0;i<t.length;i++)t[i]()});var e=[];$$.onScroll=function(t,i){if(void 0===i&&(i=10),0==e.length){function n(){var i=$$.ui.scrollY();$$.each(e,function(){var t=this.last-i;t<this.step&&t>-this.step||(this.last=i,this.f())})}window.addEventListener("scroll",n),setTimeout(function(){n()},25)}e.push({f:t,step:i,last:2*-i})};var o=[];$$.checkVisibility=function(t,i){i=i||0;var n=window.innerHeight||document.documentElement.clientHeight,e=t.getBoundingClientRect(),o=[-i,n+i];return e.top>=o[0]&&e.top<=o[1]||e.bottom>=o[0]&&e.bottom<=o[1]},$$.onVisible=function(t,i,n){if($$.checkVisibility(t,n))return i.call(t);if(0==o.length){$$.onScroll(function(){$$.each(o,function(){$$.checkVisibility(this.elm,this.scan_ahead)&&(o.slice(o.indexOf(this),1),this.f.call(this.elm))})},50)}o.push({elm:t,f:i,scan_ahead:n})}}();
+
+window.rumbleErrorHandler||function(){function d(r){var n=r.match(/http[s]?:\/\/[^\/]*rumble.com(\/.*)$/);return n?n[1]:r}var u=0;window.rumbleErrorHandler=function(r){var n,e,o,t,l=r.message,i=r.filename,c=r.lineno,a=r.colno,m=d(i);i==m||l.match(/^Script error\./)||3<++u||(e=document.location+"",n=[d(e),u,l,m,c,a],r.error&&r.error.stack&&n.push(r.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(n)),e==n[0]&&(o="https://rumble.com"+o),(t=document.createElement("img")).src=o,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},window.addEventListener("error",window.rumbleErrorHandler)}();
+
+$$.addClick('.media-subscribe', function(){ $$.serviceGet('user.login'); });
+Rumble("play", {"rel":1,"resize":"auto16:9","opts":["skip_ga_load"],"video":"v82nj9","div":"videoPlayer"});
+$$.rumblesVote={
+	attach:function(elm){
+		var buttons = ['.rumbles-vote-up, .rumbles-vote-down', elm];
+		$$.addClick(buttons, function(){
+			var clicked = this;
+			if (clicked.classList.contains('active')) clicked = null;
+			
+			$$.rumblesVote.updateButtons(buttons, clicked);
+			$$.servicePost('user.rumbles', {
+				type: elm.getAttribute('data-type'),
+				id: elm.getAttribute('data-id'),
+				vote: clicked ? clicked.getAttribute('data-vote') : 0
+			}, function() {
+			    this.data ? elm.querySelector('.rumbles-count').textContent = this.data.score : $$.removeClass(clicked, 'active');
+			});
+		});
+	},
+	updateButtons:function(buttons, clicked) {
+		$$.each($$.query(buttons), function() {
+			this === clicked ? $$.addClass(this, 'active') : $$.removeClass(this, 'active');
+		});
+	}
+};
+
+$$.each($$.query('.rumbles-vote'), function(){
+	$$.rumblesVote.attach(this);
+});
+$$.addClick('.media-video-action-embed',function(){
+	$$.serviceGet('Media.Embed',{video:"82nj9"});
+});
+	$$.addServiceClick('#login-to-see-comments', 'user.login');
+$$.serviceGet('Media.Banners',{video:"82nj9", page_type:"Premium", ad_system:"prebid", page_layout:"Default", pub:"3", load:"float"});
+$$.include('https://securepubads.g.doubleclick.net/tag/js/gpt.js');
+$$.addClick('.media-engage-share', function() { 
+	$$.serviceGet('Media.Share', {video:"82nj9"});
+});
+$$.addClick('.media-video-action-write', function() {
+	$$.serviceGet('Media.Contribution', {video:"82nj9"});
+});
+!function(){var $=[$$.getByClass("main-menu-toggle"),[]];$$.headerToggle=function(o){$$.each(o,function(){$$.addClass(this,"pop-show"),$[1].indexOf(this)<0&&$[1].push(this)}),$$.addClass($[0],"pop-show")},$$.hideAllShown=function(){var o,n=$$.query(".pop-show");for(o=n.length-1;0<=o;o--)n[o].classList.remove("pop-show");$[1]=[]},$$.addClick($[0],function(o){return o.stopPropagation(),0<$[1].length?($$.each($[1],function(){this.classList.toggle("pop-show")}),$[0].classList.toggle("pop-show"),$[1]=[]):$$.headerToggle($$.query("#main-menu")),!1}),$$.addClick(".header",function(){return 0}),$$.addClick(window,function(){$$.hideAllShown()})}();
+
+$$.addClick('.header-search-submit',function(e){
+	var i=$$.getByClass('header-search-field'),
+		s=$$.getByClass('header-search-select');
+		v=i.value.trim();
+
+	e.preventDefault();
+	if(!$$.isVisible(i)){
+		$$.headerToggle([i,s,$$.getByClass('header-search')]);
+	}else{
+		var type = s.value.toLowerCase();
+		if ( type == 'videos' ) {
+			type = 'video';
+		} else if ( type == 'channels' ) {
+			type = 'channel';
+		} else if ( type == 'user' ){
+			location = location.pathname + "?q="+encodeURIComponent(v);
+			return false;
+		}
+		location = "/search/" + type + "?q="+encodeURIComponent(v);
+	}
+	return false;
+});
+$$.user={"username":false,"logged_in":false};
+$$.addServiceClick('.header-user','user.login');
+$$.addServiceClick('.header-upload','user.login',{next: "/upload.php"});
+window.google_analytics_uacct='UA-44331619-1';
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+
+gtag("js", new Date());
+gtag("config","UA-44331619-1",{custom_map:{dimension1:"server",dimension2:"user",metric1:"prebid",metric2:"loadtime"},"server":"web1","user":"Guest",'transport_type':'beacon'});
+gtag("event","web1",{"event_category":"ws","event_label":"US"});
+
+$$.include('//www.googletagmanager.com/gtag/js?id=UA-44331619-1&ext=.js');
+$$.includedJSLibs={"main":1,"web_services":1,"events":1,"error":1,"ui_header":1};$$.includedCSSLibs=[]</script><script src="//ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13427905" async="true"></script>		</body>
+		</html><!doctype html>
+<html lang=en>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><meta name=viewport content="width=device-width,initial-scale=1"><title>Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate</title><link rel=canonical href=https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html><link rel=dns-prefetch href=https://connect.facebook.net><link rel=dns-prefetch href=https://www.facebook.com><link rel=dns-prefetch href=https://imasdk.googleapis.com><link rel=preconnect href=https://www.google-analytics.com><link rel=preconnect href=https://www.googletagservices.com crossorigin><link rel=preconnect href=https://www.googletagmanager.com crossorigin><link rel=preconnect href=https://i.rmbl.ws><style>html{
+	background: #f3f3f7;
+	color:#333;
+	font: normal 14px/1.15 sans-serif;
+	-webkit-text-size-adjust: 100%;
+}
+body, a, button, input, textarea, select, option, h1, h2, h3, address, ul, ol { margin: 0; padding: 0; color: inherit; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; }
+button, input[type=button], input[type=submit] { -webkit-appearance: button; cursor: pointer; background-color: transparent; border-style: none; outline-style: none; } 
+ul, ol { list-style: none; }
+label { cursor: pointer; }
+a:hover{ text-decoration: underline; }
+button{
+	white-space:nowrap;
+}
+.h1 {
+	font-size:2rem;
+	line-height: 1;
+	font-weight:normal;
+	margin:0 0 1rem;
+ 	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+small {
+	font-size: 0.9rem;
+	color: #666;
+}
+
+/* modifiers */
+.content{
+	background:#fff;
+	padding:1rem;
+}
+
+.container{
+	box-shadow:0 0 3px rgba(0,0,0,0.1);
+	border-top:1px solid #e4e4e4;
+	border-bottom:1px solid #e4e4e4;
+	background:#fff;
+}
+
+.flex {
+	display: flex;
+}
+
+.clear{
+	clear:both;
+}
+.round-button{
+	display:inline-flex;
+	padding:0.5rem 0.7rem;
+	border-radius:10rem;
+	box-shadow:0 1px 2px rgba(0,0,0,0.2);
+	font-weight:bold;
+	margin-left:0.35rem;
+	margin-right:0.35rem;
+	font-size:1rem;
+	text-transform:uppercase;
+	opacity:1;
+	align-items:center;
+}
+.round-button:hover{
+	text-decoration:none;
+	box-shadow:none;
+	opacity:0.85;
+}
+.bg-green{
+	background:#567D31;
+	color:#fff;
+}
+.bg-blue{
+	background: #37c;
+	color:#fff;
+}
+.bg-grey{
+	background:#999;
+	color:#fff;
+}
+.bg-white{
+	background:#fff;
+	color:#000;
+}
+
+/* layout columns */
+.thirds{
+	margin-left:-1rem;
+	margin-right:-1rem;
+}
+.two-thirds, .one-thirds{
+	width:100%;
+	padding: 1.5rem 0;
+	box-sizing:border-box;
+}main{
+	padding:2rem 0;
+}
+.constrained{
+	box-sizing:border-box;
+	padding-left:1rem;
+	padding-right:1rem;
+}.media-under-title{
+	display:flex;
+	align-items:center;
+	margin-bottom:1rem;
+}
+.mediaList-list.related{
+	max-width:500px;
+	margin:0 auto;
+}
+.media-content,.media-sidebar{
+	margin:0 -1rem;
+}
+.play-count{
+	float: right;
+	margin-top: 12px;
+	font-size: 12px;
+	margin-left:6px;
+}i.user-image--img { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: white; background-position: center; background-repeat: no-repeat; background-size: cover; }i.user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 { background-image: url(https://i.rmbl.ws/z8/x/G/g/b/xGgba.baa-DineshDsouza-qhjg9j.jpg); }.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.media-by{
+	float:left;
+	position:relative;
+	display:flex;
+	height:3rem;
+	align-items: center;
+	font-size:1rem;
+}
+.media-by--a:hover { text-decoration: none; }
+.media-by--a:hover .media-heading-name { text-decoration: underline; }
+.media-by-wrap{
+	margin-left:3.8rem;
+	margin-top:5px;
+}
+.media-heading-name{
+	font-weight:bold;
+	margin:0;
+	display:inline-block;
+}
+.media-heading-published{
+	display:block;
+}
+.media-heading-title,.media-earnings{
+	display:none;
+}.subscribe-button-count { margin-left: 0.5rem; font-weight:normal; color:rgba(255,255,255,0.85) }.media-icon-share{
+	margin: -5px -1px -5px 4px;
+	fill: #fff;
+}
+.media-engage{
+	margin-left:auto;
+	display: flex;
+	z-index:5;
+	text-transform: uppercase;
+}.rumbles-vote{
+	display:flex;
+	align-items:center;
+	font-size:1rem;
+	color:#666;
+}
+.rumbles-vote-up,.rumbles-vote-down{
+	float:left;
+	display:inline-block;
+	padding:5px 8px;
+	border:1px solid #ddd;
+	background:#fff;
+	line-height:0;
+	border-radius:1rem 0 0 1rem;
+	color:#999;
+}
+.rumbles-vote-up:hover,.rumbles-vote-down:hover{
+	opacity:0.9;
+	background:#eee;
+}
+.rumbles-vote-up.active,.rumbles-vote-down.active{
+	background:#7a4;
+	color:#fff;
+}
+.rumbles-vote-down{
+	border-radius:0 1rem 1rem 0;
+	margin-right:0.7rem;
+	border-left:0;
+}
+.icon-rumbles-up,.icon-rumbles-down{
+	stroke:currentColor;
+	height:100%;
+	width:auto;
+}
+.rumbles-unit{
+	display:none;
+}.media-video-action{
+	background:#fff;
+	font-weight:normal;
+	align-items:center;
+	display:inline-flex;
+}
+.media-icon-license, .media-icon-embed{
+	margin:-5px -4px -5px 4px;
+	stroke:#444;
+	stroke-width:1.3px;
+}
+.media-icon-license{
+	margin-left:6px;
+}.video-footer-buttons{
+	justify-content:space-between;
+	display:flex;
+	align-items:center;
+	margin:1rem;
+}.media-description-break{
+	margin:1rem 0;
+	text-align:center;
+	height:90px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}.breadcrumbs{
+	font-weight:bold;
+}
+p.media-description{
+	font-size:1.3rem;
+	line-height:2rem;
+	margin:1rem 0;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+div.media-description{
+	padding-top:0;
+	padding-bottom:0;
+}.media-related-break{
+	margin-bottom:1.5rem;
+	height:280px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}.mediaList-link-more {
+	display: flex;
+	justify-content: center;
+	margin: auto 0 -2.2rem;
+	padding-top: 1rem;
+}
+
+.mediaList-link-more a {
+	display: block;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	text-align: center;
+	padding: 0.35rem 1.35rem;
+	border-radius: 10rem;
+	text-transform: lowercase;
+	background: #fff;
+	color: #666;
+}
+
+.mediaList-link-more a:hover {
+	background: #74a642;
+	border-color: #74a642;
+	color: #fff;
+}.singleMedia.content{
+	margin-top: -3.5rem;
+	padding:0;
+	border-top: none;
+}
+.mediaList-info.singleMedia{
+	padding: 1rem 0;
+}.mediaList-item{
+	padding: 1rem 0;
+	border-bottom: 1px solid #e4e4e4;
+}
+.mediaList-link {
+	display: flex;
+	overflow: hidden;
+	align-items: center;
+}
+.mediaList-link:hover{
+	text-decoration:none;
+}
+.mediaList-item.first-item{
+	padding-top: 0;
+}
+.without-show-more-link .mediaList-item.last-item{
+	padding-bottom: 0;
+	border-bottom: none;
+}
+.mediaList-link.size-large,
+.mediaList-link.size-xlarge {
+	flex-direction: column;
+	align-items: flex-start;
+}
+.mediaList-image-div{
+	width: 50%;
+	flex-shrink: 0;
+	margin-right: 10px;
+	position:relative;
+	line-height: 0;
+}
+.mediaList-image-div.size-large,
+.mediaList-image-div.size-xlarge{
+	width: 100%;
+	margin-right: 0;
+}
+.mediaList-image-div.size-small{
+	width:35%;
+}
+.mediaList-image{
+	width:100%;
+}
+.mediaList-heading{
+	font-size:1rem;
+	font-weight: bold;
+	margin: 0 0 0.5rem;
+	line-height: 1.2rem;
+	max-height: 2.4rem;
+	overflow: hidden;
+}
+.mediaList-heading.size-xlarge{
+	font-weight: normal;
+	font-size:2rem;
+	line-height: 2.2rem;
+	max-height: 2.2rem;
+	white-space: nowrap; overflow: hidden; display: block; text-overflow: ellipsis;
+	margin-bottom: 1.5rem;
+}
+.mediaList-heading.size-large{
+	margin-top:7px;
+	font-size:1.2rem;
+	line-height: 1.5rem;
+	max-height: 1.5rem;
+	white-space: nowrap; overflow: hidden; display: block; text-overflow: ellipsis;
+}
+.mediaList-heading.size-medium, .mediaList-heading.size-small {
+	max-height: 2.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}
+.mediaList-by{
+	position:relative;
+	display: flex;
+	align-items: center;
+}
+.mediaList-by-image{
+	font-size: 2rem; width: 2rem; height: 2rem;
+	left:0;
+	flex-shrink: 0;
+	margin-right: 7px;
+}
+.mediaList-by-heading{
+	font-weight:normal;
+	margin:0;
+	font-size:0.9rem;
+	color: #666;
+	display: inline;
+}
+.mediaList-rumbles,
+.mediaList-earnings{
+	display: block;
+	color:#587F33;
+}
+.mediaList-by.size-large .mediaList-earnings,
+.mediaList-by.size-xlarge .mediaList-earnings {
+	display: inline;
+}
+.mediaList-timestamp::before,
+.mediaList-plays::before,
+.mediaList-by.size-large .mediaList-earnings::before,
+.mediaList-by.size-xlarge .mediaList-earnings::before {
+	content: ' • ';
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #666;
+}
+.mediaList-duration{
+	position:absolute;
+	bottom:7px;
+	right:7px;
+	color:#ddd;
+	background:rgba(0,0,0,0.5);
+	padding:1px 5px;
+	font-size:0.8rem;
+	line-height: initial;
+}
+.mediaList-info { width: 100%; box-sizing: border-box; }i.user-image--img--id-64dc1cddd1aed0dca54b293442601185 { background-image: url(https://i.rmbl.ws/z0/1/P/r/n/1Prna.asF-BonginoReport-qhducb.jpg); }i.user-image--letter { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: #37c; }
+i.user-image--letter:after { display: block; text-align: center; margin-top: 50%; transform: translateY(-50%); font-style: normal; content: attr(data-letter); text-transform: capitalize; font-weight: bold; color: white; font-size: 75%; line-height: 1; }i.user-image--img--id-3736c2cf723f201e039241120a8187d1 { background-image: url(https://i.rmbl.ws/z8/J/H/X/a/JHXaa.baa-JustTheNews-qeaq9w.png); }i.user-image--img--id-95b7bbcec6858ba84e04f2fc070cb820 { background-image: url(https://i.rmbl.ws/z8/R/p/e/b/Rpeba.baa-JoePagsMonologues-qh48cr.jpg); }i.user-image--img--id-c7571c6535e1b52f4bfc6816296fcadc { background-image: url(https://i.rmbl.ws/z8/o/Q/O/a/oQOaa.baa-WochitNews-pq41vy.jpg); }i.user-image--img--id-231cff7851f79bdb599cd6d6cd28f48a { background-image: url(https://i.rmbl.ws/z0/f/q/n/l/fqnla.asF-Spy225-qidgif.png); }i.user-image--img--id-7f56ea46012bb57f62e02db6596ee3b0 { background-image: url(https://i.rmbl.ws/z8/Z/p/g/b/Zpgba.baa-CBJRealNews-qhclxa.jpg); }i.user-image--img--id-2d74b78828ee4930786715cfc5bbf385 { background-image: url(https://i.rmbl.ws/z0/s/s/p/n/sspna.asF.2-TheConservativeLatino-qhd903.jpg); }.header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	color:#ddd;
+	background:#000;
+	height: 4rem;
+	padding:0;
+	box-shadow:0 0 25px 0 rgba(0,0,0,0.5);
+	z-index:200;
+}
+.header-div{
+	display:flex;
+	color:#fff;
+	height:100%;
+	padding:1.2rem;
+	align-items:center;
+	position:relative;
+}
+.main-menu-toggle{
+	display: flex;
+	align-items: center;
+	height:2.6rem;
+}
+.main-menu-close,.main-menu-open{
+	stroke:#aaa;
+	stroke-width:2px
+}
+.main-menu-close{
+	display:none;
+	stroke-width:3px
+}
+.pop-show>.main-menu-close{display:inline-block}
+.pop-show>.main-menu-open{display:none}
+.header-logo{
+	width:8rem;
+	margin-left: 1rem;
+	margin-right: 0.2rem;
+	display: flex;
+	flex-shrink:0;
+	align-items: center;
+}
+.header-logo img {
+	width: 100%;
+	height: auto;
+}
+.header-upload{
+	border-radius:10rem;
+	padding:0.35rem;
+	background: #74a642;
+	height:2.6rem;
+	width:2.6rem;
+	margin:0 1rem;
+	flex-shrink: 0;
+	stroke:#fff;
+}
+main {
+	display: block;
+	margin-top: 4rem;
+}.header-search{
+	display:flex;
+	margin-left: auto;
+	align-items:center;
+	border-radius:10rem;
+	background:#222;
+}
+.header-search-select, .header-search-field{
+	border:0;
+	height:100%;
+	background:none;
+	font-size:1.1rem;
+	color:#fff;
+	padding:0 0.7rem;
+	outline:0;
+}
+.header-search-select {
+	/* Hide dropdown arrow in Firefox */
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+}
+.header-search-select option {
+	color: #333;
+}
+.header-search-select{
+	width: 7rem;
+	flex-shrink: 0;
+}
+.header-search-field{
+	-webkit-appearance: textfield;
+	outline-offset: -2px;
+	border-left:1px solid #333;
+	width:100%;
+}
+.header-search-field::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+.header-search-field::placeholder{
+	color:#ddd;
+}
+.header-search-submit{
+	height:2.9rem;
+	width:2.9rem;
+	padding:0.6rem;
+	flex-shrink:0;
+}
+.header-search-select,.header-search-field{display:none}
+.header-search-select.pop-show,.header-search-field.pop-show{
+	display:block;
+}
+.header-search.pop-show{
+	position:absolute;
+	left: 3.5rem;
+	right: 1.5rem;
+	z-index:100;
+}
+.header-search-icon{
+	stroke:#fff;
+}.header-user-info{display:none;}
+.header-user{
+	text-align:left;
+}
+.header-user-img{
+	flex-shrink: 0;
+	font-size: 2.6rem; width: 2.6rem; height: 2.6rem; 
+	padding:0.35rem;
+}svg.user-image--icon { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background:#f3f3f7; stroke:#333; }.navs{
+	position:fixed;
+	top:4rem;
+	width:100%;
+	z-index:10;
+}
+.hover-menu{
+	position:absolute;
+	color:#ddd;
+	background:#222;
+	box-shadow:0 0 20px 0 rgba(0,0,0,0.8);
+	width:16rem;
+	padding:1rem;
+	font-size:1.15rem;
+	box-sizing: border-box;
+	max-height: calc(100vh - 4rem);
+	overflow: auto;
+}
+#main-menu{
+	display:none;
+}
+#main-menu.pop-show{
+	display:block;
+	left: 0;
+}.main-menu-item{
+	display:block;
+	margin:0 0 0.8rem;
+}
+.main-menu-item-important{
+	color:#f99;
+}
+.main-menu-item:hover{
+	opacity:0.7;
+	text-decoration:none;
+}
+.main-menu-signout{
+	border-top:1px solid #666;
+	padding:0.6rem 0 0 2.1rem;
+	margin-bottom:0;
+}
+.main-menu-heading{
+	font-size:1rem;
+	font-weight:bold;
+	text-transform: uppercase;
+	border-top:1px solid #666;
+	padding:1.2rem 0 0.3rem;
+	margin:2.4rem 0 1.5rem 0;
+}
+.main-menu-icon{
+	width:1.8rem;
+	height:1.8rem;
+	margin:0 0.5rem -0.5rem 0;
+	stroke:#fff;
+	stroke-width:2px;
+}.footer{
+	clear: both;
+	background: #111;
+	color:#ddd;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.footer-nav{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 2rem;
+	text-transform: uppercase;
+}
+.footer-nav-link,
+.footer-terms-link {
+	margin-right: 1rem;
+	margin-bottom: 0.5rem;
+	display: block;
+	color:#ddd;
+}
+.footer-nav-link:hover,
+.footer-terms-link:hover {
+	color: #74a642;
+	text-decoration: none;
+}
+.footer-terms-copyright {
+	align-items: center;
+}
+.footer-terms{
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-copyright {
+	margin-top: 2rem;
+	margin-bottom: 0;
+	color: #aaa;
+}@media(max-width:699px){.desktop-only{
+	display:none
+}.mediaList-heading.size-xlarge {
+	max-height: 4.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}}@media(min-width:460px){.rumbles-unit{
+	display:inline;
+}}@media(min-width:700px){.mobile-only{
+	display:none
+}.h1 {
+	font-size:2.6rem;
+	line-height: 1.25;
+	margin:1rem 0 1.8rem;
+}
+.thirds{
+	display: flex;
+	flex-wrap: wrap;
+}
+.two-thirds, .one-thirds{
+	display: flex;
+	flex-direction: column;
+	width:33.333333333%;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.two-thirds{
+	width:66.666666667%;
+}
+.container{
+	border-left:1px solid #e4e4e4;
+	border-right:1px solid #e4e4e4;
+}
+.round-button{
+	padding:0.85rem 1.3rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	font-size:1rem;
+}.media-under-title{
+	margin-bottom:2rem;
+}.media-user-image{
+	font-size: 3.4rem; width: 3.4rem; height: 3.4rem;
+}
+.media-by{
+	font-size:1.2rem;
+	height:3.4rem;
+}
+.media-heading-title,.media-heading-info{
+	display:inline-block;
+}
+.media-by-wrap{
+	margin-top:0
+}
+.media-heading-info:before{
+	content:"\00B7";
+	padding:0 8px 0 2px;
+	font-weight:bold;
+	color:#aaa;
+	display:inline-block;
+}
+.media-earnings{
+	color:#7a4;
+	font-weight:bold;
+	clear:left;
+	display:block;
+}.media-video-action{
+	font-size:1.1rem;
+}.video-footer-buttons{
+	margin:1rem 0;
+}.media-related-break{
+	margin-bottom:2rem;
+}.mediaList-list.top-earners {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}.singleMedia.content{
+	margin-top: 0;
+	height: 100%;
+}.header-upload{
+	margin-left: auto;
+	margin-right: 1.2rem;
+}.header-search-select,.header-search-field{display:block}
+.header-search,.header-search.pop-show{
+	position:static;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	width: 40%;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}.header-user{
+	width:9rem;
+	display: flex;
+	align-items: center;
+}
+.header-user-name,.header-user-stat{
+	display:block;
+	color:#aaa;
+}
+.header-user-name{
+	color:#fff;
+	padding:0.1rem 0 0.1rem;
+}
+.header-user-info{
+	display:inline-block;
+	margin-left:0.5rem;
+}.footer {
+	padding-top: 2rem;
+	padding-bottom: 4rem;
+}
+.footer-nav-link{
+	margin-right: 3rem;
+	margin-bottom: 0;
+}
+.footer-terms-link {
+	margin-right: 0;
+	margin-bottom: 0;
+}
+.footer-terms-copyright {
+	display: flex;
+}
+.footer-terms{
+	order: 2;
+}
+.footer-terms-link.divider::after{
+	content: ' | ';
+	display:inline-block;
+	color: #666;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.footer-copyright {
+	margin-top: 0;
+	margin-right: 3rem;
+}}@media(min-width:900px){.media-content,.media-sidebar{
+	float:left;
+	margin:0;
+}
+.media-content{
+	width:calc(100% - 350px);
+	padding-right:14px;
+}
+.media-sidebar{
+	width:336px;
+}}@media(min-width:1200px){.constrained{
+	max-width:1200px;
+	width:100%;
+	margin:0 auto;
+}.singleMedia .mediaList-image {
+	height: 28rem;
+	object-fit: cover;
+}}</style><script>var $$={};!function(f,d){function a(){return(new Date).getTime()/1e3}var r,t,o,n,i,u,e="Rumble",l={F:0};(d=f[e]=f[e]||function(){d._.push(arguments)})._=d._||[],l.f={},l.b={};if(!l.k){function s(t,e){return t.opts||(t.opts=[]),l.D(e,function(e,r){t[r]="opts"!=r?e:t[r].concat(e)}),t}var p,g="https://rumble.com",b="/embedJS/u3";l.l=a(),f.RumbleErrorHandler||(u=0,f.RumbleErrorHandler=function(e){var r,t,o,n,i=e.message,d=e.filename,a=e.lineno,c=e.colno,s=j(d);d==s||i.match(/^Script error\./)||3<++u||(t=document.location+"",r=[j(t),u,i,s,a,c],e.error&&e.error.stack&&r.push(e.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(r)),t==r[0]&&(o=g+o),(n=document.createElement("img")).src=o,n.width=n.height=1,n.onload=n.onerror=function(){n.onload=null,n.onerror=null})},f.addEventListener("error",f.RumbleErrorHandler)),l.E=function(e){return e.split("?")[0]},l.B=function(e){var r=e.split("?"),t={};return r&&r[1]&&(r=r[1],new URLSearchParams(r).forEach(function(e,r){t[r]=e})),t},l.C=function(e){var t="";return l.D(e,function(e,r){t+=(t?"&":"")+encodeURIComponent(r)+"="+encodeURIComponent(e)}),t},l.D=function(e,r){var t;for(var o in e)if(e.hasOwnProperty(o)&&void 0!==(t=r(e[o],o)))return t},l.r=function(){function d(r,t){return function(e){n.a([r],t,e)}}var a={},c={},n={b:function(e,r,t){var o;if("object"!=typeof e){if(a[e]&&!t)return!1;if(r=r||1,a[e]=r,c[e])for(;o=c[e].pop();)o(e,r);return!0}for(o in e)n.b(o,e[o],t)},a:function(e,r,t){var o,n,i;for(t=t||{},o=0;i=e[o];o++)a[i]?t[i]=a[i]:(n&&(r=d(n[0],n[1])),n=[i,r]);n?(c[n[0]]||(c[n[0]]=[]),c[n[0]].push(function(e,r){t[e]=r,n[1](t)})):r(t)}};return n},n=l.r(),i={},l.s=function(e,r){var t,o,n=0;i[e]||(i[e]=1,(t=document.createElement("script")).type="text/javascript",t.src=e,r&&(o=function(e){if(n||r())return n=1;e&&setTimeout(o,50)},t.addEventListener("load",o,!1),o(1)),document.head.appendChild(t))},l.q=function(e,r){var t,o;for(o=0;o<e.length;o++)if("ima3"==e[o])l.s("https://imasdk.googleapis.com/js/sdkloader/ima3.js",function(){return!("undefined"==typeof google||!google||!google.ima)&&(n.b("ima3"),!0)});else if("custom_ui"!=e[o]){t=e[o];l.s(d.s.rd+"/j/p/"+t+".r2.js?_v=20",r)}},l.c=function(e,r,t){n.a(e,r),t||l.q(e)},d.rl=function(e,r){n.b(e)&&r&&r(l)};function h(e){return v.hasOwnProperty(e)?v[e]:e}var v=[0,1,"position","absolute","relative","fixed","normal","none","auto","width","height","margin","padding","border","display","#FFF","#000","100%","background","opacity"],m=function(t,e,o){var n,r;if(!t.style&&t.length)for(r=0;r<t.length;r++)m(t[r],e,o);else l.D(e,function(e,r){n=h(r),o&&""!==t.style[n]||(t.style[n]=h(e))})};l.w=m,l.y=function(e){var t={};return l.D(e,function(e,r){t[h(r)]=h(e)}),t},l.t=function(e,r,t,o,n,i,d){return o||(o=e,n=r),i=i?" RumbleSVG-"+i:"",d=d||"",0<t.indexOf("stroke")&&(d+="stroke:currentColor;"),[e,r,'<svg style="'+d+'" class="RumbleElm'+i+'" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+e+'px" height="'+r+'px" viewBox="0 0 '+o+" "+n+'">'+t+"</svg>"]},l.j=l.r(),l.j.c=function(r,t,o,n){l.j.a([t],function(e){n&&(r=r.querySelectorAll(n)[0]),l.z(r,e[t][2]),o&&("string"==typeof o?r.style.display=o:o.apply(r))})};var S='<path stroke-width="3" stroke-linejoin="round" d="M19 11L3.2 1.5v19z"/>';l.j.b({bplay:l.t(25,25,S,22,22,"bplay"),play:l.t(22,22,S,0,0,"play","height:100%;"),loader:l.t(80,10,function(){var e,r,t="<g>";for(e=0;e<21;e++)((r=e-6)<1||5<r)&&(r=1),t+='<circle cx="'+(10*e+5)+'" cy="5" r="'+r+'" />';return t+"</g>"}(),80,10)});function _(){var e=P;P={},l.D(e,function(e,r){"handler"!=r&&"function"==typeof e&&e()})}var y=f.requestAnimationFrame?1:0,P={};l.a=function(e,r){if(!P[e]&&"function"==typeof r&&(P[e]=r,!P.handler)){if(P.handler=_,!y)return setTimeout(P.handler,1e3/24);f.requestAnimationFrame(P.handler)}},l.i=function(e){var r=l.u("div",0,0,e);return 1<r.childNodes.length?r.childNodes:r.firstChild},l.u=function(e,r,t,o){var n=document.createElement(e);return o&&(n.innerHTML=o),r&&(n.className=r),t&&(n.id=t),C(n),n},l.z=function(e,r){e.innerHTML=r,x(e)};var w=l.y({font:"12px Helvetica,Arial,sans-serif",fontWeight:6,lineHeight:6,boxSizing:"content-box",webkitBoxSizing:"content-box",19:1,18:7,11:0,12:0,border:7,9:8,10:8,visibility:"visible",textSizeAdjust:8,textDecoration:7}),C=function(e){var r;(r=e.tagName)&&"path"!=(r=r.toLowerCase())&&"video"!=r&&(m(e,w,!0),"svg"!=r?(m(e,{color:15},!0),x(e)):m(e,{fill:"currentColor"},!0))},x=function(e){var r,t;if(r=e.childNodes)for(t=0;t<r.length;t++)C(r[t])};l.x=function(e,r,t,o){var n="__playerHover";(o=o||e)[n]||(e.addEventListener("mouseout",function(){m(o,o[n][0])}),e.addEventListener("mouseover",function(){m(o,o[n][1])})),o[n]=[t,r],m(o,t)};function H(e){var d,n={play:"#fff",scrubber:"#75a642",hover:"#fff",background:"#303030",hoverBackground:"#699c39"},a=this;l.D(e,function(e,r){a[r]=e}),a.hasima=1,a.hasInit=0,a.rpcl=(a.id?a.id+"-":"")+"Rumble-cls",a.rpcls="."+a.rpcl;var c={};a.addEvent=function(e,r,t){c[t=t||1]||(c[t]={}),c[t][e]||(c[t][e]=[]),c[t][e].indexOf(r)<0&&c[t][e].push(r)},a.removeEvent=function(e,r,t){if(c[t=t||1][e])if(t&&!r)c[t][e]=[];else{var o=c[t][e].indexOf(r);c[t][e].splice(o,1)}},a.hasEventListener=function(t){return l.D(c,function(e,r){if(e[t]&&0<e[t].length)return!0})},a.j=function(t,o,n){var i,d,a=[];return l.D(c,function(e,r){if(e[t]&&(n&&n==r||!n))for(d=e[t],i=0;i<d.length;i++)"function"==typeof o&&(o=o()),a.push(d[i](o))}),a},a.triggerError=function(e,r){a.j("error",{code:e,message:r})},a.l1=function(e,r,t){},a.getSetting=function(e,r){var t,o=!1;return a.vid&&a.vid.player&&a.vid.player[e]&&(t=a.vid.player[e],r&&t[r]&&(o=t[r]),r||(o=t)),!o&&n[r]&&(o=n[r]),o},a.loadVideoStyles=function(e){var r="vid_"+a.vid.id;a.rpcls;if(a.p.id=r,a.vars.opts.title&&a.vid.title&&(d.innerHTML=a.vid.title,d.href=a.vid.l,l.w(d,{outline:0,display:"block",18:"linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0))",textShadow:"rgba(0,0,0,0.5) 0px 0px 2px",padding:"9px",fontSize:"18px",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",position:"absolute",top:0,left:0,right:0}),l.x(d,{textDecoration:"underline"},{textDecoration:"none"})),a.bp){var t=a.getSetting("colors","play"),o=a.getSetting("colors","hover"),n=a.getSetting("colors","background"),i=a.getSetting("colors","hoverBackground");l.x(a.bp,{color:o,background:i,borderColor:i},{color:t,background:n,borderColor:n},a.bp_svg),a.bp.style.opacity=1}};var o=-1;a.trackBandwidth=function(e){e!=(0<o?1:0)&&(o=e,a.ui&&a.ui.changeStream(0,0))},a.pbcheck=function(e){var r=l.B(e),t=l.E(e);return o<0&&a.vid&&a.vid.a&&(o=a.vid.a.b?1:0),r.u=a.vid.a.u||0,r.b=0<o?1:0,t+"?"+l.C(r)},a.loadVideo=function(e,r){var t,o;if("object"!=typeof e&&(e={id:e}),o=e.id,l.b[o]&&(a.vars.playlist||(a.vars.playlist=l.b[o]),o=l.b[o][0]),a.hasInit||(a.hasInit=1,l.c(["ui","custom_ui"],function(){for(var e=0;e<l.d.length;e++)l.d[e](a.id)})),!r)return l.e(o,function(){a.loadVideo(e,1)},{ad_count:a.ad_count||null});if(l.f[o].loaded<9){if(a.triggerError("load","Unable to load video "+o),r)throw"Unable to load video "+o;return 2}if(l.f[o].cfg=e,l.f[o].plays=0,(t=l.f[o]).restrict&&!i(t.restrict)&&(a.triggerError("restricted","Video is restricted"),l.f[o].restricted=!0,a.j("restricted",o),l.f[o].ua=0),t.id=o,(a.vid=t).u&&!t.restricted&&(a.v.src=a.pbcheck(t.u),a.loadVideoStyles()),l.g(a.id),a.j("loadVideo",t),l.h(a.id,1),t.restricted&&r)throw"Video "+o+" is restricted"};var r,i=function(e){var r,t,o,n,i=document,d=!1;if(!e||e[0]<=-3)return!0;t=e[0],o=e[1];try{r=parent!==f?i.referrer||parent.location.href:i.location.href}catch(e){}if(!r)return parent===f;if(r=r.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i))for(r=r[1].split(".");2<=r.length&&!d;)n=r.join("."),-1<o.indexOf(n)&&(d=!0),r.shift();return t!=d},t=a.rpcl,s="metadata";(a.vars.opts.minimal||a.vars.opts.nopreload)&&(s="none"),r=l.i('<div class="'+t+'" allowfullscreen><video muted playsinline hidefocus="hidefocus" style="width:100% !important;height:100% !important;display:block" preload="'+s+'"'+(a.vars.opts.cc?' crossorigin="anonymous"':"")+'></video><div style="display:flex;opacity:0" class="bigPlayUI ctp"><a style="display:none" target=_blank rel=noopener></a><div class="bigPlayUIInner ctp" style="display:none"></div></div></div>'),l.w(r,{2:4,9:17,10:17,18:16,clear:"both"}),l.j.c(r,"bplay","block",".bigPlayUIInner"),a.d.appendChild(a.p=r),a.v=r.firstChild,l.A||(l.A=function(e){var r,t="canPlayType",o='video/mp4; codecs="avc1.42E01E',n=[o+'"',o+', mp4a.40.2"','video/webm; codecs="vp9, vorbis"',"application/vnd.apple.mpegurl"],i=[];if(!e||!e[t])return 0;for(r=0;r<n.length;r++)i[r]=e[t](n[r]);return i}(a.v)),a.rsz=[0,0],a.vpt=!l.A[0]&&l.A[1]?1:0,a.bp=r.childNodes[1],a.bp_svg=a.bp.childNodes[1],a.hasStyle={},d=a.bp.childNodes[0],l.w(a.bp_svg,{fill:"currentColor",9:8,12:"14px 22px",cursor:"pointer",borderRadius:"8px"}),l.w(a.bp,{display:"flex",opacity:0,position:"absolute",top:0,left:0,width:"100%",height:"100%",cursor:"pointer",alignItems:"center",justifyContent:"center",overflow:"hidden"}),a.v.addEventListener("contextmenu",function(e){return e.preventDefault(),!1}),a.loadVideoStyles()}l.d=[];d.s={rd:g,ru:b,ds:[],rp:g+b+"/?request="};l.k={},d.gdpr=2,l.m=function(e,r,t,o){var n=new XMLHttpRequest;n.onreadystatechange=function(){4==n.readyState&&200==n.status&&r(JSON.parse(n.responseText))},n.open("GET",(o?"":d.s.rp)+e),n.send()},l.e=function(e,r,t){var o,n,i,d=[];for("object"!=typeof e&&(e=[e]),o=0;o<e.length;o++)n=e[o],(!l.f[n]||1<l.f[n].loaded&&l.f[n].loaded+(1==e.length?900:1800)<a())&&(l.f[n]={loaded:0,wait:[]}),0==(i=l.f[n]).loaded&&(d.push(n),i.loaded=1),r&&i.loaded<9&&i.wait.push(r);return 0<d.length?(t=t?"&ext="+encodeURIComponent(JSON.stringify(t)):"",l.m("video&v="+d[0]+t,function(e){var r,t,o=[],n={};for(e.loaded||!e?n[d[0]]=e:n=e,l.D(n,function(e,r){for(;t=l.f[r].wait.pop();)o.indexOf(t)<0&&o.push(t);e&&(l.f[r]=e,l.f[r].loaded=a())}),r=0;r<o.length;r++)o[r]()}),1):(r&&r(),0)},d.resize=function(){l.D(l.k,function(e){l.h(e)})},l.h=function(e,r){var t=l.k[e];if(t){var o,n,i=!t.rsz,d=[t.p.clientWidth,t.p.clientHeight],a=f.innerHeight,c=t.vars;c.resize||(c.resize=function(){try{return f.self!==f.top}catch(e){return!0}}()?"full":"auto");(!i&&(t.rsz[0]!=d[0]||t.rsz[1]!=d[1])||d[1]>a||r)&&(n=c.resize,c.ia&&(n="ia"),t.ui&&t.ui.isFloating&&(n="auto"),o=Math.floor(d[0]/16*9),"ia"==n?screen&&screen.height<o&&(o=screen.height):"full"==n?o=0:"window"==n?o=a:("ctpauto"==n&&t.ui&&t.ui.ctp&&(c.resize="auto"),(a<o||t.ui&&t.ui.getFullScreen())&&(o=0)),"window"!=n&&"ctpauto"!=n&&"auto16:9"!=n&&"full"!=n&&(t.vid&&t.vid.a&&t.vid.a.aden&&t.vid.a.aden[2])&&o<360&&0!=o&&!c.float&&(o=360),t.rsz[0]!=d[0]&&(i=1),d[1]!=o&&(i=1,t.p.style.height=0<o?(d[1]=o)+"px":"100%")),t.rsz&&!i||(t.rsz=d),i&&(l.g(e),t.j("resize"))}},l.g=function(e){var r=l.k[e];if(!(!r.vid||r.ui&&r.ui.hasPlayed)){var t,o,n,i,d=r.vid.i,a=r.vid.t,c=-1,s=r.rsz[0],f=r.rsz[1],u=s/f;if(a)for(t=0;t<a.length;t++)o=u<(i=(n=a[t]).w/n.h)?(f-s/i)*s:(s-f*i)*f,(c<0||o<c)&&(c=o,d=n.i);r.v.poster!=d&&(r.v.poster=d)}},d.$play=function(e,r){var t,o,n=JSON.parse(JSON.stringify(d.s.ds)),i={};if((n=s(n,e)).opts&&(l.D(n.opts,function(e){i[e]=1}),n.opts=i),void 0===n.gdpr?n.gdpr=2:n.gdpr=n.gdpr?1:0,2!=n.gdpr&&(d.gdpr=n.gdpr),l.n=-1==n.analytics||n.opts.minimal?1:0,l.o=n.opts.skip_ga_load?1:0,l.p=n.opts.force_ga_load?1:0,!n.div){if(!p)throw"No div was defined for the player";n.div=p}if(p=o=n.div,l.k[o]&&((t=l.k[o]).d.parentNode||(t=0)),n.macros||(n.macros={}),!t){if(!(t=document.getElementById(o))){if(2<r)throw o+" div not found";f.addEventListener("DOMContentLoaded",function(){d.$play(e,3)})}l.k[o]||l.F++,l.k[o]=t=new H({d:t,vid:0,id:o,vars:n})}t.loadVideo(n.video),l.h(o)};d.rl("custom_ui");d.$playSettings=function(e){d.s.ds=s(d.s.ds,e)},f.addEventListener("resize",function(){l.a("resize",d.resize)}),f.addEventListener("orientationchange",function(){setTimeout(function(){d.resize()},500)});var G,k,z,E=f.Rumble;for(E._=G=E._||[],G.push=function(e){var r=G.slice.call(e),t=E["$"+r.shift()];"function"==typeof t?t.apply(E,r):r.push.call(G,e)},k=-1,z=G.length;++k<z;)G.push(G.shift())}function j(e){if(0,!e)return e;var r=e.match(new RegExp("http[s]?://[^/]*rumble.com(/.*)$"));return r?r[1]:e}}(window);
+
+</script><script type=application/ld+json>[{"@context":"http://schema.org","@type":"VideoObject","name":"Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate","playerType":"HTML5","description":"The got CRAZY fast... What happened to the town hall?","thumbnailUrl":"https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg","uploadDate":"2020-10-16T00:50:28+00:00","duration":"PT00H06M15S","url":"https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"http://schema.org/WatchAction"},"userInteractionCount":330951},"width":1280,"height":720,"videoQuality":"Full HD"},{"@context":"http://schema.org","@type":"WebSite","url":"https://rumble.com/","potentialAction":{"@type":"SearchAction","target":"https://rumble.com/search/video?q={search}","query-input":"required name=search"}},{"@context":"http://schema.org","@type":"Organization","name":"Rumble","url":"https://rumble.com/","logo":"https://rumble.com/i/rumble_logo_back.png","sameAs":["https://www.facebook.com/rumblevideo/","https://twitter.com/rumblevideo"]}]</script><meta name=description content="The got CRAZY fast... What happened to the town hall?"><meta property=og:site_name content=Rumble><meta property=og:type content=video.other><meta property=og:title content="Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate"><meta property=og:url content=https://rumble.com/vaotpx-unhinged-nbc-anchor-yells-at-trump-at-town-hall-turns-it-into-a-debate.html><meta property=og:description content="The got CRAZY fast... What happened to the town hall?"><meta property=og:image content=https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg><meta property=og:video:tag content="dinesh d'souza"><meta name=twitter:card content=summary_large_image><meta name=twitter:image content=https://sp.rmbl.ws/s8/6/1/z/F/e/1zFeb.qR4e.1.jpg><meta name=twitter:title content="Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate"><meta name=twitter:description content="The got CRAZY fast... What happened to the town hall?"><meta property=fb:app_id content=155223717937973><meta name=twitter:site content=@rumblevideo><link rel="shortcut icon" href=/i/favicon.png><link rel=apple-touch-icon href=/i/favicon.png><link rel="manifest" href="/manifest.json"></head>		<body>
+				<main>
+			<div class="constrained">
+				<article><h1 class="h1">Unhinged NBC Anchor Yells at Trump at Town Hall, Turns It Into a Debate</h1><div class="media-under-title">		<div class="media-by">
+			<div class="media-by-wrap">
+				<a class="media-by--a" href="/c/DineshDsouza" rel=author>
+					<i class='user-image user-image--img user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 media-user-image'></i>					<span class="media-heading-name">Dinesh D'Souza</span>
+				</a>
+				<span class="media-heading-info media-heading-published"><span class="media-heading-title">Published </span> October 15, 2020</span>
+									<span class="media-heading-info">330,951 Views</span>
+											</div>
+		</div>
+				<div class="media-engage">
+					<button data-title="DineshDsouza" data-slug="DineshDsouza" data-type="channel" data-action="subscribe" class="round-button media-subscribe bg-green">
+			<span class="subscribe-button-label">Subscribe</span>
+			<span class="subscribe-button-count"> 19K</span>		</button>
+					<button class="round-button media-engage-share desktop-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+		</div>
+		</div>		<div class="media-content">
+			<div class="video-player" id="videoPlayer"></div><div class="video-footer-buttons">		<div class="rumbles-vote" data-type="1" data-id="13560741">
+			<button data-vote="1" class="rumbles-vote-up" aria-label="Rumbles up vote"><svg class=icon-rumbles-up width=16 height=16><path stroke-width="3" d="M1.5 8l13 0m-6.5-6.5l0 13" /></svg></button>
+			<button data-vote="-1" class="rumbles-vote-down" aria-label="Rumbles down vote"><svg class=icon-rumbles-down width=16 height=16 viewBox="0 0 16 16"><path stroke-width="3" d="M1.5 8l13 0" /></svg></button>
+			<span class="rumbles-count">1265</span>&nbsp;<span class="rumbles-unit">rumbles</span>
+		</div>
+				<div style="display: flex">
+				<button class="round-button media-video-action media-video-action-embed">Embed<svg class=media-icon-embed width=20 height=20 viewBox="0 0 20 20"><path fill="none" d="M16.2 7h-2c-6 0-10.9 4.6-10.9 10.3m9.1-6.3l4-4-4-3.9"/></svg></button>
+						<button class="round-button media-engage-share mobile-only bg-blue">Share<svg class=media-icon-share width=18 height=18 viewBox="0 0 24 24"><path d="M18.7 16c-1 0-2 .5-2.7 1.2l-5-3.1c0-.4.1-.7.1-1.1 0-.4-.1-.7-.2-1.1l5-3.1c.8.7 1.7 1.2 2.8 1.2 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4c-2.1 0-3.8 1.8-3.8 4 0 .4.1.7.2 1.1L10 10.2C9.3 9.5 8.3 9 7.3 9c-2.1 0-3.8 1.8-3.8 4s1.7 4 3.8 4c1 0 2-.5 2.7-1.2l5 3.1c0 .4-.1.7-.1 1.1 0 2.2 1.7 4 3.8 4 2.1 0 3.8-1.8 3.8-4s-1.7-4-3.8-4zm0-12c1 0 1.9.9 1.9 2s-.9 2-1.9 2c-1 0-1.9-.9-1.9-2s.9-2 1.9-2zM7.3 15c-1 0-1.9-.9-1.9-2s.9-2 1.9-2c1 0 1.9.9 1.9 2s-.9 2-1.9 2zm11.4 7c-1 0-1.9-.9-1.9-2 0-.4.1-.7.3-1 .3-.6 1-1 1.6-1 1 0 1.9.9 1.9 2s-.9 2-1.9 2z" /></svg></button>
+					</div>
+		</div><div class="media-description-break a-break" data-section="description"></div>
+<div class="container content media-description"><p class="media-description">			<span class="breadcrumbs">
+			<span property="itemListElement" typeof="ListItem">
+				<a href="/" property="item" typeof="WebPage">Rumble</a>
+			</span> — </span>The got CRAZY fast... What happened to the town hall?</p>
+</div>			<button
+				id="login-to-see-comments"
+				class="round-button bg-green"
+				style="text-align:center; margin: 2em auto 1em auto; min-width: 50%; display: block"
+			>
+									Sign in to see 33 comments							</button>
+			<div style="text-align: center; font-size: 1.2rem; margin-bottom: 2em">... and disable advertisements! No kidding :)</div>
+					</div>
+		<aside class="media-sidebar">
+			<div class="media-related-break a-break" data-section="related"></div><ul class="mediaList-list container content related without-show-more-link"><li class="mediaList-item first-item">	<a class="mediaList-link size-medium" href="/vaps7l-this-trump-roast-of-hunter-biden-is-one-of-the-best-things-youll-ever-see.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/r/u/Q/e/ruQeb.0kob.1.jpg" alt="This Trump Roast of Hunter Biden Is One of the Best Things You'll Ever See">
+							<small class="mediaList-duration">2m18s</small>
+					</div>
+		<div class="mediaList-info first-item">
+			<h3 class="mediaList-heading size-medium">This Trump Roast of Hunter Biden Is One of the Best Things You'll Ever See</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-de383b6a6814e48dbc2833f22cdb8043 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Dinesh D'Souza</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaou75-unhinged-nbc-moderator-turns-town-hall-into-heated-debate-with-trump.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://sp.rmbl.ws/s8/6/H/J/F/e/HJFeb.0kob.1.jpg" alt='Unhinged NBC "Moderator" Turns Town Hall Into Heated Debate With Trump'>
+							<small class="mediaList-duration">2m15s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Unhinged NBC "Moderator" Turns Town Hall Into Heated Debate With Trump</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-64dc1cddd1aed0dca54b293442601185 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">BonginoReport</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaoqxd-president-trump-arrives-in-miami-for-nbc-town-hall.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/r/H/E/e/rHEeb.0kob-small-President-Trump-arrives-in-.jpg" alt="President Trump arrives in Miami for NBC town hall">
+							<small class="mediaList-duration">1m48s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">President Trump arrives in Miami for NBC town hall</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--letter mediaList-by-image' data-letter=W></i>				<div>
+					<h4 class="mediaList-by-heading">WPTV</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaodwh-trump-to-participate-in-tv-town-hall-thursday-night-of-canceled-debate-with.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/H/z/A/e/HzAeb.0kob.1.jpg" alt="Trump to participate in TV town hall Thursday, night of canceled debate with Biden">
+							<small class="mediaList-duration">26s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump to participate in TV town hall Thursday, night of canceled debate with Biden</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-3736c2cf723f201e039241120a8187d1 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Just The News</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaolbz-president-trump-and-joe-biden-town-hall.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/_/V/C/e/_VCeb.0kob-small-President-Trump-and-Joe-Bid.jpg" alt="President Trump and Joe Biden town hall">
+							<small class="mediaList-duration">21s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">President Trump and Joe Biden town hall</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--letter mediaList-by-image' data-letter=W></i>				<div>
+					<h4 class="mediaList-by-heading">WFTX</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakcy5-trump-biden-debate.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/n/I/S/d/nISdb.0kob-small-Trump-Biden-Debate.jpg" alt="Trump Biden Debate">
+							<small class="mediaList-duration">2m35s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump Biden Debate</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-95b7bbcec6858ba84e04f2fc070cb820 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Joe Pags Monologues</h4>
+																										<small class="mediaList-earnings">$5.63 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakblt-trump-and-biden-debate-tonight.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/b/h/S/d/bhSdb.0kob-small-Trump-And-Biden-Debate-Toni.jpg" alt="Trump And Biden Debate Tonight">
+							<small class="mediaList-duration">29s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump And Biden Debate Tonight</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-c7571c6535e1b52f4bfc6816296fcadc mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Wochit News</h4>
+																										<small class="mediaList-earnings">$7.17 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vakmnl-trump-vs-biden-1st-debate.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/X/M/V/d/XMVdb.0kob.3.jpg" alt="Trump vs Biden 1st Debate">
+							<small class="mediaList-duration">1m51s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump vs Biden 1st Debate</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-231cff7851f79bdb599cd6d6cd28f48a mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">Spy225</h4>
+																								</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item">	<a class="mediaList-link size-medium" href="/vaju11-trump-versus-biden-debate-smackdown.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/1/f/J/M/d/fJMdb.0kob-small-Trump-Versus-Biden-Debate-S.jpg" alt="Trump Versus Biden Debate Smackdown">
+							<small class="mediaList-duration">32s</small>
+					</div>
+		<div class="mediaList-info">
+			<h3 class="mediaList-heading size-medium">Trump Versus Biden Debate Smackdown</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-7f56ea46012bb57f62e02db6596ee3b0 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">The Conservative Business Journal Podcast</h4>
+																										<small class="mediaList-earnings">$0.57 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li><li class="mediaList-item last-item">	<a class="mediaList-link size-medium" href="/vakhn2-trump-vs-biden-debate-1.html">
+				<div class="mediaList-image-div size-medium">
+				<img class="mediaList-image" src="https://i.rmbl.ws/s8/6/o/b/U/d/obUdb.0kob.3.jpg" alt="Trump vs Biden debate 1">
+							<small class="mediaList-duration">2m08s</small>
+					</div>
+		<div class="mediaList-info last-item">
+			<h3 class="mediaList-heading size-medium">Trump vs Biden debate 1</h3>
+			<section class="mediaList-by size-medium"><i class='user-image user-image--img user-image--img--id-2d74b78828ee4930786715cfc5bbf385 mediaList-by-image'></i>				<div>
+					<h4 class="mediaList-by-heading">TheConservativeLatino</h4>
+																										<small class="mediaList-earnings">$0.10 earned</small>
+									</div>
+			</section>
+		</div>
+		</a></li></ul>		</aside>
+		<div style="height:20px;clear:both"></div>
+		</article>			</div>
+		</main>
+				<header class="header">
+			<div class="header-div constrained">
+				<button class="main-menu-toggle" aria-label="main menu">
+					<svg class=main-menu-open width=20 height=16><path d="M0 1h20M0 8h20M0 15h20" /></svg>					<svg class=main-menu-close width=20 height=16><path d="M2.5.5 l15 15 m0-15 l-15 15" /></svg>				</button>
+				<a href="/" class="header-logo"><img src="/img/rumble.svg" alt="Rumble"></a>
+						<form class="header-search">
+						<select class="header-search-select">
+									<option>Videos</option>
+									<option>Channels</option>
+							</select>
+			<input type=search class="header-search-field" name="query" placeholder="Search" value="">
+			<button class="header-search-submit" aria-label="search Rumble">
+				<svg class=header-search-icon viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-width="2" d="M17.6 17.6l6.3 6.3M2.2 11.2a9 9 0 1 0 18 0 9 9 0 1 0-18 0"/></svg>			</button>
+		</form>
+						<button class="header-upload" title=Upload aria-label=Upload>
+					<svg viewBox="0 0 26 26"><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.2 17.5s-2.7-3.1-1.9-7.1C3 6.8 5.9 3.9 9.9 3.9c3.5 0 5.1 1.6 6.2 2.7 1.1 1.1 1.4 3.5 1.4 3.5s2.7-.7 4.4.7 2.4 3.8 1.8 5.6-2.6 3.1-2.6 3.1M9 17.1l4.1-3.8 4.2 3.8m-4.2 5.4v-9.2"/></svg>				</button>
+						<button class="header-user" aria-label="sign in">
+			<svg class="user-image user-image--icon header-user-img"><path fill="none" stroke-linecap="round" stroke-width="2" d="M8 6.8a5 5 0 1 0 10 0 5 5 0 1 0-10 0m14.8 16.7v-3.7a4 4 0 0 0-4-4H7.2a4 4 0 0 0-4 4v3.7"/></svg>				<span class="header-user-info">
+					<span class="header-user-name">Sign In</span>
+					<span class="header-user-stat">0 Rumbles</span>
+				</span>
+					</button>
+					</div>
+		</header>
+				<nav class="navs">
+			<div class="constrained" style="position:relative">
+				<div id="main-menu" class="hover-menu main-menu-nav">
+					<a class="main-menu-item" href="/videos"><svg class=main-menu-icon><path fill="none" d="M5 13a8 8 0 1 0 16 0 8 8 0 1 0-16 0M2.9 8.6C4.1 6 6.2 3.9 8.7 2.8m14.5 14.7a11.5 11.5 0 0 1-5.8 5.7M13 6.9V13h4.2"/></svg>Latest</a>		<a class="main-menu-item" href="/editor-picks"><svg class=main-menu-icon width=26 height=27 viewBox="0 0 26 27"><path fill="none" d="M4 8a6.5 7 0 1 0 13 0A6.5 7 0 1 0 4 8m15 13.5C15.6 11 1.1 13.9 1 25m13-2.4l3.9 4.4 7.1-8"/></svg>Editor Picks</a>
+		<a class="main-menu-item" href="/videos?sort=views&date=this-week"><svg class=main-menu-icon width=25 height=34 viewBox="0 0 25 26"><path fill="none" d="M0 19c10-.6 18.1-9 16.9-18M11 7l5.9-6L23 7"/></svg>Trending</a>
+		<a class="main-menu-item" href="/content-contributions"><svg class=main-menu-icon width=26 height=26 viewBox="0 0 26 26"><path fill="none" d="M2.7 12.9a10.3 10.3 0 1 0 20.6 0 10.3 10.3 0 1 0-20.6 0M13 6.4v13.4m-3.9-2.6h6.8v-4.3h-5.8V8.6h6.7"/></svg>Write Articles</a>
+		<a class="main-menu-item" href="/license-videos"><svg class=main-menu-icon width=26 height=26 viewBox="0 0 26 26"><path fill="none" d="M19.1 20H2.3V6h11.8M24.3 20h-5.5s-.9-1.5-1.4-2c-.5-.5-1-1.3-1.9-1.7-.4-.2-2.2-1.6-2.3-2.5 0-1.7 1.1-1.4 2.3-1 1.2.5 3.6 1.6 3.6 1.6l-.9-6.7S12.9 6.2 13 5.9c.1-.3 5.8-1.9 7.2-.2s2 4.5 2.8 5.1c.8.6 1.5.6 1.5.6 M6.8,11.1a1.8,1.8 0 1,0 3.6,0a1.8,1.8 0 1,0 -3.6,0 M5.8 16.6c0-1.5 1.2-2.7 2.7-2.7s2.7 1.2 2.7 2.7"/></svg>License Videos</a>
+		<a class="main-menu-item" href="//community.rumble.com"><svg class=main-menu-icon width=24 height=24 viewBox="0 0 24 24"><path fill="none" stroke-linecap="round" stroke-width="2" d="M5 7a4 4 0 1 0 8 0 4 4 0 1 0-8 0m10.9-3.9c4 1 4 6.8 0 7.8m1.2 10.7v-2.7a4 4 0 0 0-4-4h-8a4 4 0 0 0-4 4v2.7m21.9 0c0-2.6.2-5.8-3.1-6.6"/></svg>Community</a>
+		<h3 class="main-menu-heading">Featured Channels</h3><a class="main-menu-item" href="/user/JoePags">Joe Pags</a><a class="main-menu-item" href="/user/ViralHog">Viral Hog</a><a class="main-menu-item" href="/user/afv">AFV</a><a class="main-menu-item" href="/c/DiamondandSilk">Diamond & Silk</a><a class="main-menu-item" href="/c/TheBuckSextonShow">The Buck Sexton Show</a><a class="main-menu-item" href="/c/DineshDsouza">Dinesh Dsouza</a><a class="main-menu-item" href="/c/c-285751">JamesArnoldTaylor</a><a class="main-menu-item" href="/c/NOQReport">NOQ Report</a><a class="main-menu-item" href="/c/DiamondandSilkThePodcast">Diamond & Silk The Podcast</a><a class="main-menu-item" href="/c/c-3614">Wild Creatures</a><a class="main-menu-item" href="/c/TonyKatz">Tony Katz</a><a class="main-menu-item" href="/c/Bongino">The Dan Bongino Show</a><a class="main-menu-item" href="/c/DevinNunesPress">DevinNunesPress</a><a class="main-menu-item" href="/c/DevinNunesPodcast">Devin Nunes Podcast</a><a class="main-menu-item" href="/c/JustTheNews">Just The News</a><a class="main-menu-item" href="/c/DigitalTrends">Digital Trends</a><a class="main-menu-item" href="/c/Newsy">Newsy</a><a class="main-menu-item" href="/c/WayneDupreeShow">The Wayne Dupree Show</a>				</div>
+							</div>
+		</nav>
+				<footer class="footer">
+			<div class="constrained">
+				<nav class="footer-nav">
+					<a class="footer-nav-link" target=_blank rel=noopener href="//community.rumble.com/">Community</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//help.rumble.com/">Developers</a>
+					<a class="footer-nav-link" rel=noopener href="/team/">Our Team</a>
+					<a class="footer-nav-link" rel=noopener href="/our-apps/">Our Apps</a>
+					<a class="footer-nav-link" target=_blank rel=noopener href="//corp.rumble.com/">About Us</a>
+					<a class="footer-nav-link" target=_blank href="//teespring.com/stores/rumble-vault" rel="nofollow noopener">Store</a>
+				</nav>
+
+				<div class="footer-terms-copyright">
+					<nav class="footer-terms">
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/terms">Terms &amp; Conditions</a>
+						<a class="footer-terms-link divider" rel="nofollow" href="/s/privacy">Privacy Policy</a>
+						<a class="footer-terms-link" rel="nofollow" href="/s/dmca">Copyright / DMCA</a>
+					</nav>
+					<p class="footer-copyright">Copyright &copy; 2020 Rumble. All Rights Reserved.</p>
+				</div>
+			</div>
+		</footer>
+		<script>$$={query:function(e,n){return Array.isArray(e)&&(n=e[1],e=e[0]),n=n||document,"string"==typeof e?n.querySelectorAll(e):[e]},each:function(e,n){for(var t=0;t<e.length;t++)n.call(e[t])},gt:function(e){return(new Date).getTime()/(e?1e3:1)},getByClass:function(e){var n=$$.query("."+e);return 1<=n.length&&n[0]},isVisible:function(e){return 0<e.offsetWidth&&0<e.offsetHeight},addClass:function(e,n){return!e.classList.contains(n)&&(e.classList.toggle(n),!0)},removeClass:function(e,n){e.classList.remove(n)},addClick:function(e,t){var n,r=$$.query(e);if(r)for(n=0;n<r.length;n++)r[n]&&r[n].addEventListener("click",function(e){var n=t.call(this,e);return n||void 0===n||e.stopPropagation(),n})},addServiceClick:function(e,n,t,r,c){$$.addClick(e,function(e){e.preventDefault(),$$.serviceGet(n,t,r,c)})},urlQueryObject:function(){var t={};return"undefined"==typeof URLSearchParams||new URLSearchParams(location.search).forEach(function(e,n){t[n]=e}),t},urlEncodeData:function(e){var n,t="";for(n in e)e.hasOwnProperty(n)&&(t+=(t?"&":"")+encodeURIComponent(n)+"="+encodeURIComponent(e[n]));return t},include:function(e,n){var t=document.createElement("script");t.src=e,t.async=!0,n&&(t.onload=n),document.head.appendChild(t)},includeCSS:function(e){var n=document.createElement("link");n.type="text/css",n.rel="stylesheet",n.href=e,document.head.appendChild(n)}},$$.page_load_time=(new Date).getTime();
+
+$$.injectJSLib=function(e,t){var s=document.createElement("script");return s.defer=!0,s.text=t,"code"!=e&&(s.id="js-"+e,$$.includedJSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.injectCSSLib=function(e,t){var s=document.createElement("style");return s.appendChild(document.createTextNode(t)),e&&(s.id="css-"+e,$$.includedCSSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.request=function(e,t,s,n){var i=new XMLHttpRequest;n=n||function(){},i.open(t?"POST":"GET",e,!0),i.setRequestHeader("Content-type","application/x-www-form-urlencoded"),i.responseType="json",i.onload=function(){200==i.status?s(i.response):n&&n(i.status)},i.send(t?$$.urlEncodeData(t):null)},$$.requestGet=function(e,t,s){return $$.request(e,0,t,s)},$$.requestPost=function(e,t,s,n){return $$.request(e,t,s,n)},$$.serviceGet=function(e,t,s,n){return $$.serviceLoad("get",e,t,s,n)},$$.servicePost=function(e,t,s,n){return $$.serviceLoad("post",e,t,s,n)},$$.serviceLoad=function(i,c,o,r,e){"object"==typeof i&&(c=i.name||c,o=i.data||o,r=i.success||r,e=i.fail||e,i=i.type);var t,s=Math.floor(1e3*Math.random()),$="__service"+((new Date).getTime()-$$.page_load_time)+"_"+s,n=[],d=[],l="/service.php?",a={};for(var u in"post"==i?"object"==typeof o&&(o.get||o.post)&&(t=o.get,o=o.post):o&&(t=o),(t=$$.urlEncodeData(t))&&(l+=t+"&"),a.name=c,$$.includedJSLibs)n.push(u);for(var u in 0<n.length&&(a.included_js_libs=n.join(",")),$$.includedCSSLibs)d.push(u);0<d.length&&(a.included_css_libs=d.join(","));function p(e){var t,s,n="";if(e.js_libs){for(t in e.js_libs)e.js_libs.hasOwnProperty(t)&&$$.injectJSLib(t,e.js_libs[t]);delete e.js_libs}if(e.css_libs){for(t in e.css_libs)e.css_libs.hasOwnProperty(t)&&$$.injectCSSLib(t,e.css_libs[t]);delete e.css_libs}e.html&&((s=document.createElement("div")).innerHTML=e.html,e.html=1<s.childNodes.length?s:s.firstChild),e.request={type:i,name:c,data:o},$$[$]=e,$$[$].close=function(){this.html&&this.html.remove(),this.script.remove(),delete $$[$]},e.js_code&&(n="$$."+$+".call=function(){"+e.js_code+"};$$."+$+".call();"),r&&(e.success=r,n+="$$."+$+".success();"),n&&($$[$].script=$$.injectJSLib("code",n))}l+=$$.urlEncodeData(a),"post"==i?$$.requestPost(l,o,p,e):$$.requestGet(l,p,e)};
+
+!function(){var n=[];$$.onload=function(t){if("object"!=typeof n)return t();n.push(t)},window.addEventListener("load",function(){for(var t=n,i=n=0;i<t.length;i++)t[i]()});var e=[];$$.onScroll=function(t,i){if(void 0===i&&(i=10),0==e.length){function n(){var i=$$.ui.scrollY();$$.each(e,function(){var t=this.last-i;t<this.step&&t>-this.step||(this.last=i,this.f())})}window.addEventListener("scroll",n),setTimeout(function(){n()},25)}e.push({f:t,step:i,last:2*-i})};var o=[];$$.checkVisibility=function(t,i){i=i||0;var n=window.innerHeight||document.documentElement.clientHeight,e=t.getBoundingClientRect(),o=[-i,n+i];return e.top>=o[0]&&e.top<=o[1]||e.bottom>=o[0]&&e.bottom<=o[1]},$$.onVisible=function(t,i,n){if($$.checkVisibility(t,n))return i.call(t);if(0==o.length){$$.onScroll(function(){$$.each(o,function(){$$.checkVisibility(this.elm,this.scan_ahead)&&(o.slice(o.indexOf(this),1),this.f.call(this.elm))})},50)}o.push({elm:t,f:i,scan_ahead:n})}}();
+
+window.rumbleErrorHandler||function(){function d(r){var n=r.match(/http[s]?:\/\/[^\/]*rumble.com(\/.*)$/);return n?n[1]:r}var u=0;window.rumbleErrorHandler=function(r){var n,e,o,t,l=r.message,i=r.filename,c=r.lineno,a=r.colno,m=d(i);i==m||l.match(/^Script error\./)||3<++u||(e=document.location+"",n=[d(e),u,l,m,c,a],r.error&&r.error.stack&&n.push(r.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(n)),e==n[0]&&(o="https://rumble.com"+o),(t=document.createElement("img")).src=o,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},window.addEventListener("error",window.rumbleErrorHandler)}();
+
+$$.addClick('.media-subscribe', function(){ $$.serviceGet('user.login'); });
+Rumble("play", {"rel":1,"resize":"auto16:9","opts":["skip_ga_load"],"video":"v82nj9","div":"videoPlayer"});
+$$.rumblesVote={
+	attach:function(elm){
+		var buttons = ['.rumbles-vote-up, .rumbles-vote-down', elm];
+		$$.addClick(buttons, function(){
+			var clicked = this;
+			if (clicked.classList.contains('active')) clicked = null;
+			
+			$$.rumblesVote.updateButtons(buttons, clicked);
+			$$.servicePost('user.rumbles', {
+				type: elm.getAttribute('data-type'),
+				id: elm.getAttribute('data-id'),
+				vote: clicked ? clicked.getAttribute('data-vote') : 0
+			}, function() {
+			    this.data ? elm.querySelector('.rumbles-count').textContent = this.data.score : $$.removeClass(clicked, 'active');
+			});
+		});
+	},
+	updateButtons:function(buttons, clicked) {
+		$$.each($$.query(buttons), function() {
+			this === clicked ? $$.addClass(this, 'active') : $$.removeClass(this, 'active');
+		});
+	}
+};
+
+$$.each($$.query('.rumbles-vote'), function(){
+	$$.rumblesVote.attach(this);
+});
+$$.addClick('.media-video-action-embed',function(){
+	$$.serviceGet('Media.Embed',{video:"82nj9"});
+});
+	$$.addServiceClick('#login-to-see-comments', 'user.login');
+$$.serviceGet('Media.Banners',{video:"82nj9", page_type:"Premium", ad_system:"prebid", page_layout:"Default", pub:"3", load:"float"});
+$$.include('https://securepubads.g.doubleclick.net/tag/js/gpt.js');
+$$.addClick('.media-engage-share', function() { 
+	$$.serviceGet('Media.Share', {video:"82nj9"});
+});
+$$.addClick('.media-video-action-write', function() {
+	$$.serviceGet('Media.Contribution', {video:"82nj9"});
+});
+!function(){var $=[$$.getByClass("main-menu-toggle"),[]];$$.headerToggle=function(o){$$.each(o,function(){$$.addClass(this,"pop-show"),$[1].indexOf(this)<0&&$[1].push(this)}),$$.addClass($[0],"pop-show")},$$.hideAllShown=function(){var o,n=$$.query(".pop-show");for(o=n.length-1;0<=o;o--)n[o].classList.remove("pop-show");$[1]=[]},$$.addClick($[0],function(o){return o.stopPropagation(),0<$[1].length?($$.each($[1],function(){this.classList.toggle("pop-show")}),$[0].classList.toggle("pop-show"),$[1]=[]):$$.headerToggle($$.query("#main-menu")),!1}),$$.addClick(".header",function(){return 0}),$$.addClick(window,function(){$$.hideAllShown()})}();
+
+$$.addClick('.header-search-submit',function(e){
+	var i=$$.getByClass('header-search-field'),
+		s=$$.getByClass('header-search-select');
+		v=i.value.trim();
+
+	e.preventDefault();
+	if(!$$.isVisible(i)){
+		$$.headerToggle([i,s,$$.getByClass('header-search')]);
+	}else{
+		var type = s.value.toLowerCase();
+		if ( type == 'videos' ) {
+			type = 'video';
+		} else if ( type == 'channels' ) {
+			type = 'channel';
+		} else if ( type == 'user' ){
+			location = location.pathname + "?q="+encodeURIComponent(v);
+			return false;
+		}
+		location = "/search/" + type + "?q="+encodeURIComponent(v);
+	}
+	return false;
+});
+$$.user={"username":false,"logged_in":false};
+$$.addServiceClick('.header-user','user.login');
+$$.addServiceClick('.header-upload','user.login',{next: "/upload.php"});
+window.google_analytics_uacct='UA-44331619-1';
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+
+gtag("js", new Date());
+gtag("config","UA-44331619-1",{custom_map:{dimension1:"server",dimension2:"user",metric1:"prebid",metric2:"loadtime"},"server":"web9","user":"Guest",'transport_type':'beacon'});
+gtag("event","web9",{"event_category":"ws","event_label":"US"});
+
+$$.include('//www.googletagmanager.com/gtag/js?id=UA-44331619-1&ext=.js');
+$$.includedJSLibs={"main":1,"web_services":1,"events":1,"error":1,"ui_header":1};$$.includedCSSLibs=[]</script><script src="//ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13427905" async="true"></script>		</body>
+		</html>
