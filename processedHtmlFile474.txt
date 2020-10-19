@@ -1,9 +1,0 @@
-Please enter a Twitter handle or tweet URL!
-Enter a Twitter handle or tweet URL to analyze an account.
-Analyzing Account
-Please wait...
-Whoopsie doodle!
-We were unable to process your request at this time, please wait and try again later.
-Rating:
-This report was created for
-Report created:
