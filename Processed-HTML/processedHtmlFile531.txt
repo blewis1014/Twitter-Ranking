@@ -1,0 +1,22 @@
+What          if an Asteroid Hit the Earth?
+Problem:
+Suppose a cylindrical          asteroid 10 km in height x 10 km in diameter impacted the earth at 30,000          mph. Calculate the energy dissipated, in megatons of TNT, and the rate          at which it is dissipated, in watts.
+Solution:
+Let the density of the asteroid,
+,          be five times the density of water, i.e.,
+= 5000 kg/m3.
+Then,          the mass of the asteroid is
+(5000          kg/m3) x
+(5000 m)2 x (10,000 m) = 4 x 1015 kg
+and the          kinetic energy, traveling at 30,000 mph (= 1 x 104 m/sec) is
+(1/2)          x (4 x 1015 kg) x (1 x 104 m/sec)2 =          2 x 1023 joule.
+Now,          one megaton of TNT delivers 4.2 x 1015 joule, so that the required          energy in megatons of TNT is
+5 x          107 megatons
+or 50          million megatons! The time for the asteroid to impact the earth is
+(10,000          m)/(1 x 104 m/sec) = 1 sec
+so that          the rate of energy dissipation in watts is
+2 x          1023 watts,
+or 200          billion trillion watts!!!
+Afterthought:
+Such an          object might have been responsible for causing the extinction of the dinosaurs          at the end of the Cretaceous period. A layer of Iridium has been found          in the Cretaceous-Tertiary (K-T) boundary, which appears to be world encircling          (Alvarez, et. al.). Such a layer might have been deposited after an asteroid          impact of great magnitude. In fact, the remains of a 65 million year old          impact site have recently been found, providing an excellent candidate          for the K-T event. From various geological survey data (originally intended          to locate promising sites for oil drilling), the site is in the Yucatan.
+Please send suggestions/corrections to:

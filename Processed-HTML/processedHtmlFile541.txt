@@ -1,0 +1,65 @@
+MISSION UPDATES | October 16, 2020
+Sols 2914-2916: Curiosity Breaking Open the Mystery of the 'Groken' Nodules
+Written by Ashley Stroupe, Mission Operations Engineer at NASA's Jet Propulsion Laboratory
+Curiosity’s latest drill hole, “Groken” in the nodule-laden section of the rock.  Credits: NASA/JPL-Caltech. Download image ›
+Curiosity is mostly chilling out this weekend while we continue to investigate the latest drill hole, “Groken,” and the sample we collected in this nodule-rich corner of the rock (the nodules are the dark areas in the image). In the process of drilling, Curiosity broke the rock, which can sometimes happen when we are close to an edge, but still collected enough sample to perform detailed analyses.
+In Wednesday’s plan, sample was delivered to CheMin for analysis in order to determine the composition of the nodules. The preliminary results look good – we have a full cell and a strong signal. The top priority is to do more CheMin analysis on the sample and improve the data before deciding whether to deliver sample to SAM. This meant the rover planners a well-deserved day off before resuming the sampling campaign activities next week.
+In addition to CheMin, ChemCam and Mastcam are also being targeted on the area around the drill hole - on “Villians,” “Vond,” and “Clibberswick” -  to support the investigation into the nodules by examining local variability. ChemCam is also taking more high resolution RMI images of the “Housedon Hill” area to help us test hypotheses and inform where we should go in the Mt. Sharp sulfate unit.
+As we’re now fully into the windy and dust storm season at Gale Crater, we’ve tasked Curiosity with a lot of environmental observations. Atmospheric observations include standard Mastcam crater rim extinction, cloud movies, zenith movies, and taus (dust opacity measurements) , as well as Navcam line of sight imaging and a suprahorizon movie. We’re keeping a sharp eye out for dust devils with both Navcam and Mastcam dust devil movies. Lastly, we’re looking at local changes with Mastcam deck monitoring and change detection on the “Upper Ollach” trench target.
+Filter by date:
+About This Blog
+These blog updates are provided by self-selected Mars Science Laboratory mission team members who love to share what Curiosity is doing with the public.
+Dates of planned rover activities described in these reports are subject to change due to a variety of factors related to the Martian environment, communication relays and rover status.
+Contributors
+Planetary Geologist; USGS; Flagstaff, AZ
+Mariah Baker
+Planetary Geologist; Center for Earth & Planetary Studies, Smithsonian National Air & Space Museum; Washington, DC
+Kristen Bennett
+Planetary Geologist; USGS; Flagstaff, AZ
+Fred Calef
+Planetary Geologist; NASA/JPL; Pasadena, CA
+Brittney Cooper
+Atmospheric Scientist; York University; Toronto, Ontario, Canada
+Sean Czarnecki
+Planetary Geologist; Arizona State University; Tempe, AZ
+Lauren Edgar
+Planetary Geologist; USGS; Flagstaff, AZ
+Christopher Edwards
+Planetary Geologist;  Northern Arizona University; Flagstaff, AZ
+Abigail Fraeman
+Planetary Geologist; NASA/JPL; Pasadena, CA
+Scott Guzewich
+Atmospheric Scientist; NASA/GSFC; Greenbelt, MD
+Samantha Gwizd
+Planetary Geologist; University of Tennessee; Knoxville, TN
+Ken Herkenhoff
+Planetary Geologist; USGS; Flagstaff, AZ
+Rachel Kronyak
+Planetary Geologist; NASA/JPL; Pasadena, CA
+Michelle Minitti
+Planetary Geologist; Framework;  Silver Spring, MD
+Claire Newman
+Atmospheric Scientist, Aeolis Research; Pasadena, CA
+Catherine O'Connell-Cooper
+Planetary Geologist; University of New Brunswick; Fredericton, New Brunswick, Canada
+Melissa Rice
+Planetary Geologist; Western Washington University; Bellingham, WA
+Mark Salvatore
+Planetary Geologist; Northern Arizona University; Flagstaff, AZ
+Susanne Schwenzer
+Planetary Geologist; The Open University; Milton Keynes, U.K.
+Ashley Stroupe
+Mission Operations Engineer; NASA/JPL; Pasadena, CA
+Dawn Sumner
+Planetary Geologist; University of California Davis; Davis, CA
+Vivian Sun
+Planetary Geologist; NASA/JPL; Pasadena, CA
+Lucy Thompson
+Planetary Geologist; University of New Brunswick; Fredericton, New Brunswick, Canada
+Ashwin Vasavada
+MSL Project Scientist; NASA/JPL; Pasadena, CA
+Roger Wiens
+Geochemist; LANL; Los Alamos, NM
+Tools on the Curiosity Rover
+The Curiosity rover has tools to study clues about past and present environmental conditions on Mars, including whether conditions have ever been favorable for microbial life. The rover carries:
+Cameras
