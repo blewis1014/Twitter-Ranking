@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Hearts Of Planet Earth - TaliArtiYa - Digital Art, Abstract, Figurative - ArtPal</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="https://x.artpal.com/js/ex.js?8"></script>
+	<script src="https://x.artpal.com/js/main.js?98"></script>
+	<link href="https://x.artpal.com/css/main.css?96" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<link rel="canonical" href="https://www.ArtPal.com/taliartia?i=157696-7" />
+	<meta property="og:url" content="https://www.ArtPal.com/taliartia?i=157696-7" />
+	<meta property="og:title" content="Hearts Of Planet Earth - TaliArtiYa" />
+	<meta property="og:type" content="product" />
+	<meta property="og:image" content="https://img.artpal.com/696751/7-20-2-27-3-42-39m.jpg" />
+	<meta property="og:image:width" content="720" />
+	<meta property="og:image:height" content="504" />
+	<meta property="og:ttl" content="2419200" />
+	<meta property="og:site_name" content="ArtPal" />
+	<meta property="fb:app_id" content="705660522887211" />
+	<meta property="fb:admins" content="1247318330" />
+	<meta property="og:description" content="Give the planet your heart, and it will give a million times more, this space. Love should not be once, it should always be." />
+	<meta name="description" content="Give the planet your heart, and it will give a million times more, this space. Love should not be once, it should always be." />
+	<script>
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date(); a = s.createElement(o),
+	m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-45849117-1', 'artpal.com');
+		ga('send', 'pageview');
+	</script>
+<!--[if gte IE 5.5]>
+<![if lte IE 7]>
+<style type="text/css">
+body{overflow-y:auto;}
+</style>
+<![endif]>
+<![endif]-->
+
+	<link href="https://x.artpal.com/css/gal.css?2" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<form method="post" action="/taliartia" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjY1MDQyODMwDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgFkGAIFFmN0bDAwJENvbnRhY3RNdWx0aVZpZXcPD2RmZAUaY3RsMDAkQWN0aXZhdGVQT0RNdWx0aVZpZXcPD2RmZDb1MU805mvh9NUKJ2gRzXyoQMxJ" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+dfltTtl='TaliArtiYa - Digital Art, Paintings & Prints, Photography';//]]>
+</script>
+
+<script src="https://x.artpal.com/js/i.js?7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+upTtl("Hearts Of Planet Earth - TaliArtiYa - Digital Art, Abstract, Figurative - ArtPal", 0);//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=TVvo6Wn5zUG2GY0vSsS1WlDaFPAncSBEg8TJmMdxujc5iqbp1_6pf5zpA6FsEcols3U2q7lhEScxX-1R8up-5rAXrKibdU5w0wJyw2OG_CfFkrhjuekAsNJP8SHRpQwuCLrbxJkG255jcnz9tOuvAfNXTPc1&amp;t=545ba255" type="text/javascript"></script>
+<script src="https://x.artpal.com/js/webkit.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5EAD16E3" />
+	
+	<div id="popupWrapper">
+	<span id="ItemUpdatePanel">
+			<div id="ItemPanel" class="Popup" style="z-index:3;">
+	
+				<style type="text/css">
+@media print {
+#mainWrapper { display: none; }
+}
+</style>
+<input type="hidden" name="zIndex" value="3" />
+<div class="PopupBgTint"></div>
+				<div class="PopupBg"> 
+					<div class="PopupContainer" style="max-width:1130px;">
+						<input type="hidden" id="GalleryIDHidden" name="GalleryIDHidden" value="157696" />
+						<input type="hidden" id="ItemIDHidden" name="ItemIDHidden" value="7" />
+								<div class="ButRt"><a href="/index.aspx?sb=1" onclick="go('SB:');return rF();" class="cart"><span class="ico"></span><span class="cnt">0</span></a><input type="submit" value="" title="Close" class="close" onclick="return ChkFS()" name="Close:Item" /></div>
+								<link href="https://x.artpal.com/css/i.css?5" rel="stylesheet" type="text/css" />
+									<div class="iTbl"><div class="imgWrapB"><div class="imgWrapFixed"><div class="imgWrap"><div class="imgOl"><img src="https://img.artpal.com/696751/7-20-2-27-3-42-39m.jpg" width="720" height="504" data-mImg="https://img.artpal.com/696751/7-20-2-27-3-42-39m.jpg" data-mW="720" data-mH="504" data-zImg="7-20-2-27-3-42-39xl.jpg" data-zW="2048" data-zH="1433" galleryimg="no" ondrag="return false" ondragstart="return false" oncontextmenu="return false" onmousedown="return false" alt="Hearts Of Planet Earth - TaliArtiYa" /><div oncontextmenu="return false"></div></div></div><div class="imgTools"><div class="imgToolsWrap"><div class="itZ pad"><a href="#" onclick="zoom();return rF();" class="zoom imgToolsA"><span></span>Zoom</a></div><div class="itRV m2 pad"><a href="#" onclick="m(this,'mRV',1);return rF();" class="imgToolsA imgToolsRV">Room View<span> On</span><span class="arw"></span></a><div id="mRV" class="m mDef"><a href="#" id="rvReset" onclick="rv(0);return rF();">None</a><a href="#" onclick="rv(1);return rF();">Living Room</a><a href="#" onclick="rv(2);return rF();">Dining Room</a><a href="#" onclick="rv(3);return rF();">Bedroom</a><a href="#" onclick="rv(4);return rF();">Hall</a></div></div><div class="itCWC m2 pad off"><a href="#" onclick="openCP('img');m(this,'mCWC',1);return rF();" class="imgToolsA"><span class="cIco"></span>Wall Color</a><div id="mCWC" class="cpDiv m"><div class="ButRt"><input type="submit" value="" title="Close" class="close closeDark" onclick="$('.imgTools .itCWC .imgToolsA').click();return rF();" /></div><strong class="darkGray">Wall Color</strong><div class="clearfix"></div><div class="cpDivB"></div></div></div><div class="m2 pad"><a href="#" onclick="m(this,'mShare',2);return rF();" class="imgToolsA">Share</a><div id="mShare" class="m share share32"><div data-url="https://www.ArtPal.com/taliartia?i=157696-7" data-title="Hearts Of Planet Earth - TaliArtiYa" data-img="https://img.artpal.com/696751/7-20-2-27-3-42-39m.jpg"><a href="#" title="Facebook" onclick="share(this);return rF();" class="FB"></a><a href="#" title="Twitter" onclick="share(this);return rF();" class="T"></a><a href="#" title="Pinterest" onclick="share(this);return rF();" class="P"></a><a href="#" title="Email" onclick="share(this);return rF();" class="E"></a><a href="#" title="Copy Link" onclick="share(this);return rF();" class="L"></a><a href="#" title="More..." onclick="share(this);event.stopPropagation();return rF();" class="More">More...</a></div><div class="clearfix"></div><div class="txt">Share this art &amp; earn 5%. <a href="/refer/" target="_blank">Learn more</a></div></div></div></div></div></div></div><div id="iRB" class="iRowBox"><div id="iBuy0" class="iBuy show small">
+										<div class="iRow top">
+											<h4>Hearts Of Planet Earth</h4><a href="/taliartia" title="TaliArtiYa - Go to gallery">TaliArtiYa</a></div><div class="iRowBuy"><a href="#" id="157696-7f2" onclick="iBuy('157696-7f2',1);return rF();" class="iRow"><img src="https://img.artpal.com/696751/p/7-f10-20-2-27-3-42-39s.jpg" width="106" height="65" /><div class="iRowTxt"><strong>Framed Print</strong><br />As low as <strong class="prc">$89.97</strong></div><span class="arw1"></span></a><a href="#" id="157696-7f3" onclick="iBuy('157696-7f3',1);return rF();" class="iRow"><img src="https://img.artpal.com/696751/p/7-f2-20-2-27-3-42-39s.jpg" width="106" height="65" /><div class="iRowTxt"><strong>Canvas</strong><br />As low as <strong class="prc">$30.97</strong></div><span class="arw1"></span></a><a href="#" id="157696-7f1" onclick="iBuy('157696-7f1',1);return rF();" class="iRow"><img src="https://img.artpal.com/696751/p/7-f1-20-2-27-3-42-39s.jpg" width="106" height="65" /><div class="iRowTxt"><strong>Fine Art Print</strong><br />As low as <strong class="prc">$8.97</strong></div><span class="arw1"></span></a><a href="#" onclick="iBuy('157696-7p');iLoad('p/7-p' + $('#iBuy157696-7p .iBuySelect input[type=\'radio\'][name=\'PODiD157696-7\']:checked').val() + '-20-2-27-3-42-39m.jpg',720,604);return rF();" class="iRow bot"><img src="https://img.artpal.com/696751/p/7-p100-20-2-27-3-42-39s.jpg" id="PODImg157696-7" width="104" height="63" class="bord" /><div class="iRowTxt"><strong>Mugs</strong><br />As low as <strong class="prc">$13.97</strong></div><span class="arw1"></span></a></div><div class="iRow top margTop10 small"><a href="" onclick="tog(this,'#Desc157696-7');return rF();" class="arw"><strong>Description</strong><span class="arw on"></span></a><div id="Desc157696-7" class="tog on" itemprop="description">Give the planet your heart, and it will give a million times more, this space. Love should not be once, it should always be.</div></div><div class="iRow small"><a href="" onclick="tog(this,'#Seller157696-7');ajOnce('Seller157696-7','type=aboutseller&var=157696');return rF();" class="arw"><strong>About the Artist</strong><span class="arw"></span></a><div id="Seller157696-7" class="tog"></div></div><div class="iRow small"><a href="" onclick="tog(this,'#RetPol157696-7');ajOnce('RetPol157696-7', 'type=retpol&var=157696-7');return rF();" class="arw"><strong>Return Policy</strong><span class="arw"></span></a><div id="RetPol157696-7" class="tog"></div></div><div class="iRow bot small"><a href="" onclick="tog(this,'#More157696-7');ajOnce('More157696-7','type=more&var=157696-7');return rF();" class="arw"><strong>More from the Artist (43)</strong><span class="arw"></span></a><div id="More157696-7" class="tog"></div></div>
+										</div><div id="iBuy157696-7p" class="iBuy"><div class="iRow top bot"><a class="iBuyBack"><i></i>Back</a><div class="iBuyTtl">Mug</div><div class="iBuyPrc"><del>$14.97</del><div class="prc">$13.97</div></div><div class="clearfix"></div><a href="#" onclick="go('BuyPOD:',this,'s5w');return rF();" onselectstart="return false;" class="button3lg">Add to Cart</a><div class="iBuySelect"><a href="#" onclick="tog(this,$(this).next('div.tog'));return rF();" class="ibsMain"><div class="ibsTtl">Size</div><div class="ibsSlctd">11oz (Standard size)</div><span class="arw2"></span></a><div class="ibsTog tog"><a href="#" class="ibsOpt"><span class="ibVal">11oz (Standard size)</span><div class="ibRt"><input type="radio" name="PODiD157696-7" value="100" class="radBut radBig" checked="checked" onchange="iLoad('p/7-p100-20-2-27-3-42-39m.jpg',720,604);ibsGo(this,14.97,13.97);" /><label></label></div></a><a href="#" class="ibsOpt"><span class="ibVal">15oz (Tall size)</span><div class="ibRt"><input type="radio" name="PODiD157696-7" value="101" class="radBut radBig" onchange="iLoad('p/7-p101-20-2-27-3-42-39m.jpg',720,604);ibsGo(this,17.97,15.97);" /><label></label></div></a></div></div><div class="iBuyDesc">White ceramic mug, perfect for sipping your favorite hot beverage and collecting your favorite art. Also great for gifting. Microwave and dishwasher safe. Available in 11oz and 15oz size.</div></div></div></div></div>
+						
+					</div>
+				</div>
+			
+</div>
+		</span>
+	<span id="EditItemPopupUpdatePanel">
+			
+			
+			
+			
+			
+		</span>
+	<span id="ShoppingBagUpdatePanel">
+			
+		</span>
+	<span id="ReviewImgUpdatePanel">
+			
+		</span>
+	<span id="LoginUpdatePanel">
+			
+			
+		</span>
+	<span id="MsgUpdatePanel">
+			
+			
+			
+		</span>
+	<span id="OtherUP">
+			
+		</span>
+	<span id="Other2UP">
+			
+		</span>
+	<span id="Other3UP">
+			
+		</span>
+	
+	<span id="PopupContent_EditPopupUpdatePanel">
+			
+			
+			
+			
+		</span>
+	<span id="PopupContent_OtherUP">
+			
+		</span>
+
+	</div>
+	<div id="mainWrapper">
+
+<div class="hdr">
+<div class="wrapper">
+<div class="mmA"><a href="/"><img src="https://x.artpal.com/img/artpal.png" width="110" height="29" alt="ArtPal | Buy Art &amp; Sell Artwork Online - Paintings Prints Photography Sculptures Jewelry Crafts" /></a></div>
+<h1><a href="/buy/"><i></i>Buy<span> Art</span><b></b></a></h1><h3><a href="/sellart/"><i></i>Sell<span> Art</span><b></b></a></h3><h3><a href="/orders.aspx"><i></i><span>My </span>Orders<b></b></a></h3>
+<div class="mmB"><div id="MenuUpdatePanel">
+	<a id="mmSm" onclick="lm(this,'lm');return rF();"><span></span></a><a href="/index.aspx?sb=1" onclick="go('SB:');return rF();" class="cart"><span class="ico"></span><span class="txt">Cart</span><span class="cnt">0</span></a><div id="mmBL"><a href="/" onclick="go('ShowLogin:');return rF();">Login</a></div><div id="lm" class="lm"><a href="/buy/" class="mmSm">Buy Art</a><a href="/sellart/" class="mmSm">Sell Art</a><a href="/orders.aspx" class="mmSm">My Orders</a><a href="/" onclick="go('ShowLogin:');return rF();" class="mmSm">Login</a></div>
+</div></div>
+</div>
+</div>
+
+<div class="wrapper">
+
+	<div id="MainContent_MainUpdatePanel">
+	<br /><div class="proPic"><img src="https://img.artpal.com/696751/profileImg-35-14.jpg" alt="TaliArtiYa" /><br /></div><div class="galShare share share24 inBlk"><div data-url="https://www.ArtPal.com/taliartia" data-title="Hearts Of Planet Earth - TaliArtiYa - Digital Art, Abstract, Figurative - ArtPal" data-img="https://img.artpal.com/696751/42-20-10-4-13-24-2m.jpg"><a href="#" title="Facebook" onclick="share(this);return rF();" class="FB"></a><a href="#" title="Twitter" onclick="share(this);return rF();" class="T"></a><a href="#" title="Pinterest" onclick="share(this);return rF();" class="P"></a><a href="#" title="Email" onclick="share(this);return rF();" class="E"></a><a href="#" title="Copy Link" onclick="share(this);return rF();" class="L"></a><a href="#" title="More..." onclick="share(this);return rF();" class="M"></a></div><div class="clearfix"></div><div class="txt">Share this gallery &amp; earn 5%.<br /><a href="/refer/">Learn&nbsp;more</a></div></div><h2>TaliArtiYa</h2><a href="https://www.ArtPal.com/taliartia" class="small">www.ArtPal.com/taliartia</a><p>Art will save this world. My hobby is illustration, photography, vector graphics, oil painting.</p><div class="clearfix"></div><br />
+					<input type="hidden" name="GID" value="157696" /><div class="jT"><div class="lbl">Jump to:</div><br /><div><a href="#i2" onclick="$('#i2').next().next().highlight();"><span><span><span style="width:60px;height:80px"><img src="https://img.artpal.com/696751/42-24-2s.jpg?x-nc=1" width="60" height="80" /></span></span></span>Traditional art.</a></div><div><a href="#i1" onclick="$('#i1').next().next().highlight();"><span><span><span style="width:80px;height:60px"><img src="https://img.artpal.com/696751/33-39-31s.jpg?x-nc=1" width="80" height="60" /></span></span></span>Photography</a></div><div><a href="#i3" onclick="$('#i3').next().next().highlight();"><span><span><span style="width:60px;height:80px"><img src="https://img.artpal.com/696751/44-12-17s.jpg?x-nc=1" width="60" height="80" /></span></span></span>Digital art.</a></div></div><br /><div id="i2"></div><br /><h3>Traditional art.</h3><div id="ic2" class="items"><div class="iCgu"></div><a href="?i=157696-42" onclick="go('I:157696-42',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:100%;width:75.00%"><img src="https://img.artpal.com/696751/42-24-2t.jpg" alt="Lake shore after a thunderstorm" /></div><div class="iT"><div class="iT2"><strong>Lake shore after a thunderstorm</strong></div></div></a><a href="?i=157696-39" onclick="go('I:157696-39',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:65%;"><img src="https://img.artpal.com/696751/39-1-53t.jpg" alt="Purple irises" /></div><div class="iT"><div class="iT2"><strong>Purple irises</strong></div></div></a><a href="?i=157696-37" onclick="go('I:157696-37',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:100%;width:68.333333333333333333333333330%"><img src="https://img.artpal.com/696751/37-52-8t.jpg" alt="Vikings Floki Vilgerdarson" /></div><div class="iT"><div class="iT2"><strong>Vikings Floki Vilgerdarson</strong></div></div></a><a href="?i=157696-38" onclick="go('I:157696-38',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:100%;width:69.333333333333333333333333330%"><img src="https://img.artpal.com/696751/38-57-45t.jpg" alt="Vikings Rollo Lodbrock" /></div><div class="iT"><div class="iT2"><strong>Vikings Rollo Lodbrock</strong></div></div></a><a href="?i=157696-36" onclick="go('I:157696-36',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:88%;"><img src="https://img.artpal.com/696751/36-56-41t.jpg" alt="Still life mini with an old lamp 3" /></div><div class="iT"><div class="iT2"><strong>Still life mini with an old lamp 3</strong></div></div></a><a href="?i=157696-35" onclick="go('I:157696-35',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:87%;"><img src="https://img.artpal.com/696751/35-31-17t.jpg" alt="Still life mini with an old lamp 2" /></div><div class="iT"><div class="iT2"><strong>Still life mini with an old lamp 2</strong></div></div></a><a href="?i=157696-34" onclick="go('I:157696-34',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:87%;"><img src="https://img.artpal.com/696751/34-8-12t.jpg" alt="Still life mini with an old lamp 1" /></div><div class="iT"><div class="iT2"><strong>Still life mini with an old lamp 1</strong></div></div></a><a href="?i=157696-18" onclick="go('I:157696-18',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:81.3333%;"><img src="https://img.artpal.com/696751/18-34-36t.jpg" alt="Pink sunrise in the winter forest" /></div><div class="iT"><div class="iT2"><strong>Pink sunrise in the winter forest</strong></div></div></a><a href="?i=157696-8" onclick="go('I:157696-8',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:75%;"><img src="https://img.artpal.com/696751/8-43-6t.jpg" alt="Still life with tulips." /></div><div class="iT"><div class="iT2"><strong>Still life with tulips.</strong></div></div></a><a href="?i=157696-11" onclick="go('I:157696-11',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:85%;"><img src="https://img.artpal.com/696751/11-9-2t.jpg" alt="Sunset in the mountains" /></div><div class="iT"><div class="iT2"><strong>Sunset in the mountains</strong></div></div></a><a href="?i=157696-9" onclick="go('I:157696-9',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:75%;"><img src="https://img.artpal.com/696751/9-43-29t.jpg" alt="Still life with pears" /></div><div class="iT"><div class="iT2"><strong>Still life with pears</strong></div></div></a><a href="?i=157696-10" onclick="go('I:157696-10',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:80.3333%;"><img src="https://img.artpal.com/696751/10-44-4t.jpg" alt="Still life with cheese." /></div><div class="iT"><div class="iT2"><strong>Still life with cheese.</strong></div></div></a></div><div class="clearfix"></div><br />
+							<div id="i1"></div><br /><h3>Photography</h3><div id="ic1" class="items"><div class="iCgu"></div><a href="?i=157696-33" onclick="go('I:157696-33',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:74%;"><img src="https://img.artpal.com/696751/33-39-31t.jpg" alt="In the clearing early spring flowers" /></div><div class="iT"><div class="iT2"><strong>In the clearing early spring flowers</strong></div></div></a><a href="?i=157696-32" onclick="go('I:157696-32',this);return rF();" class="iCg"><div class="iI" style="padding-bottom:74%;"><img src="https://img.artpal.com/696751/32-35-42t.jpg" alt="Flowering yellow Crocus. 2" /></div><div class="iT"><div class="iT2"><strong>Flowering yellow Crocus. 2</strong></div></div></a></div><div class="clearfix"></div><br />
+							<div id="i3"></div><br /><h3>Digital art.</h3><div id="ic3" class="items"><div class="iCgu"></div></div><div class="clearfix"></div><br />
+							
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="footer"><div class="wrapper"><div class="footB"><img src="https://x.artpal.com/img/artpal2.png" width="110" height="29" /></div><div class="footA small"><div class="m2 pad"><a href="#" onclick="m(this,'mShareF',1);return rF();">SHARE ARTPAL<span class="arw"></span></a><div id="mShareF" class="m share share32"><div data-url="https://www.ArtPal.com" data-title="ArtPal: Buy Art &amp; Sell Artwork Online | Buy Paintings Prints Photography" data-img="https://x.artpal.com/img/artpal_share.png"><a href="#" title="Facebook" onclick="share(this);return rF();" class="FB"></a><a href="#" title="Twitter" onclick="share(this);return rF();" class="T"></a><a href="#" title="Pinterest" onclick="share(this);return rF();" class="P"></a><a href="#" title="Email" onclick="share(this);return rF();" class="E"></a><a href="#" title="Copy Link" onclick="share(this);return rF();" class="L"></a><a href="#" title="More..." onclick="share(this);event.stopPropagation();return rF();" class="More">More...</a></div><div class="clearfix"></div><div class="txt">Share ArtPal &amp; earn 5% referral bonuses. <a href="/refer/" target="_blank">Learn more</a></div></div></div><a href="/terms.aspx">TERMS</a><a href="/privacy.aspx">PRIVACY</a><a href="/contact.aspx" onclick="go('Contact:');return rF();">CONTACT</a><em>&copy; 2020 ARTPAL</em></div></div></div>
+	</div><script src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+$('#__EVENTTARGET').val('');$('#__EVENTARGUMENT').val('');$.cookie('tzo',-(new Date().getTimezoneOffset()),{expires:365,path:'/'});var iArry1=[[157696,31,"30-18","Crocus with purple petals.2",0,0,1.3514,0,0,0],[157696,30,"4-13","Forest in autumn. Tall trees on the",0,0,1.3333,0,0,0],[157696,29,"3-2","Beautiful road in the forest",0,0,.75,0,0,0],[157696,28,"58-42","Forest in autumn. Tall trees",0,0,1.3333,0,0,0],[157696,27,"57-0","First ice on a frozen stream in the",0,0,1.3333,0,0,0],[157696,26,"55-7","Ice crystal on a frozen stream",0,0,.75,0,0,0],[157696,25,"53-39","Ice Crystal On The Frozen Stream",0,0,1.3333,0,0,0],[157696,23,"50-57","Embossed texture of brown tree bark",0,0,1.25,0,0,0],[157696,22,"30-58","Trees on the lake",0,0,1.3333,0,0,0],[157696,21,"30-23","Broken tree",0,0,1.3575,0,0,0],[157696,20,"45-12","Path in autumn forest.",0,0,1.3333,0,0,0],[157696,16,"52-36","Clear blue sky",0,0,1.3333,0,0,0],[157696,15,"52-3","Wooden bench on dark background",0,0,1.5957,0,0,0],[157696,14,"51-46","Night city skyline.",0,0,.6933,0,0,0],[157696,13,"51-30","Wooden bench of the forest.",0,0,1.4634,0,0,0],[157696,12,"50-33","Lake in the forest",0,0,1.3333,0,0,0]];
+appendItemsG($('#ic1'),iArry1);
+var iArry3=[[157696,44,"12-17","Halloween bats",0,0,.75,0,0,0],[157696,43,"22-32","Abstraction 3",0,0,1,0,0,0],[157696,41,"58-14","abstraction 2",0,0,1.3514,0,0,0],[157696,40,"50-6","abstraction 1",0,0,1.3514,0,0,0],[157696,24,"31-6","Optical illusion 001",0,0,1,0,0,0],[157696,17,"23-8","Optical illusion 002",0,0,1,0,0,0],[157696,19,"27-8","Stained glass window",0,0,.91,0,0,0],[157696,7,"42-39","Hearts Of Planet Earth",0,0,1.4286,0,0,0],[157696,1,"37-21","Black and white illusions 6",0,0,1,0,0,0],[157696,4,"38-43","Black and white illusions 3",0,0,1,0,0,0],[157696,2,"37-44","Black and white illusions 5",0,0,1,0,0,0],[157696,3,"38-12","Black and white illusions 4",0,0,1,0,0,0],[157696,6,"40-44","Black and white illusion 2",0,0,1,0,0,0],[157696,5,"40-5","Black and White Illusion No 1",0,0,1,0,0,0]];
+appendItemsG($('#ic3'),iArry3);
+initMg(); initLz();
+shareVA('157696-7');fitImg(1);if (typeof window.google_trackConversion != 'undefined') { window.google_trackConversion({google_conversion_id:1072422188,google_custom_params:{ecomm_pagetype:'product',ecomm_prodid:['157696-7'],ecomm_category:['FOD','POD'],ecomm_pvalue:[0,0]},google_remarketing_only:true}); }popupScroll();upTtl("Hearts Of Planet Earth - TaliArtiYa - Digital Art, Abstract, Figurative - ArtPal", 0);var fsWhich=0;var fsConfig=[];var buyDsbl={};var fsInitDone=0;var fsGID=157696;var fsIID=7;var fsImg="-20-2-27-3-42-39";
+$.cacheScript('https://x.artpal.com/js/fs.js?25');
+var fodAlrt=null;var fod={'157696-7':{'size':['10 x 7in',10,6.9994,'12 x 8.375in',12,8.3993,'14 x 9.75in',14,9.7991,'16 x 11.25in',16,11.199,'20 x 14in',20,13.9988,'24 x 16.75in',24,16.7986,'30 x 21in',30,20.9982,'36 x 25.25in',36,25.1979,'40 x 28in',40,27.9976,'48 x 33.625in',48,33.5972,'60 x 42in',60,41.9965,'72 x 50.375in',72,50.3958,'84 x 58.75in',84,58.7951,'96 x 67.25in',96,67.1944],1:[13.97,8.97,function(){fsConfig[1]=new FsConfig(null,10,6.9994,1,0,-1,0,0,0,0,0,0,0,0,0,0,"")}],2:[139.97,89.97,function(){fsConfig[2]=new FsConfig(null,10,6.9994,1,0,222,1,101,180,188,2.5,1,0,0,0,0,"")}],3:[46.97,30.97,function(){fsConfig[3]=new FsConfig(null,10,6.9994,1,1,-1,0,0,0,0,0,0,1,2,0,0,"")}],'actv':1,'dsbl':0}};
+$('#iBuy157696-7p a.ibsOpt').on('click',function(){var $rb=$(this).find('.radBut');if(!$rb.is(':disabled')){$rb.prop('checked',true).trigger('change');}return rF();});//]]>
+</script>
+</form>
+<div id="wait" class="Popup"><div class="PopupBgTint"></div><div class="PopupBg"><div class="waitA"><div class="waitB"></div><p><strong id="waitMsg"></strong></p></div></div></div>
+</body>
+</html>

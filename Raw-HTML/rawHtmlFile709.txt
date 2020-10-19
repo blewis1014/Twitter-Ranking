@@ -1,0 +1,1074 @@
+<!doctype html>
+<html lang="ja"
+	prefix="og: https://ogp.me/ns#" >
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/images/favicon.ico" />
+  <title>539:『SIGMA Art 35mm F1.2 DG DN』 | KASYAPA</title>
+
+<!-- All In One SEO Pack 3.6.2[288,342] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://news.mapcamera.com/KASYAPA/#organization","url":"https://news.mapcamera.com/KASYAPA/","name":"KASYAPA","sameAs":[]},{"@type":"WebSite","@id":"https://news.mapcamera.com/KASYAPA/#website","url":"https://news.mapcamera.com/KASYAPA/","name":"KASYAPA","publisher":{"@id":"https://news.mapcamera.com/KASYAPA/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://news.mapcamera.com/KASYAPA/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#webpage","url":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/","inLanguage":"ja","name":"539:『SIGMA Art 35mm F1.2 DG DN』","isPartOf":{"@id":"https://news.mapcamera.com/KASYAPA/#website"},"breadcrumb":{"@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#breadcrumblist"},"datePublished":"2019-10-16T03:29:00+09:00","dateModified":"2020-07-28T06:04:56+09:00"},{"@type":"Article","@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#article","isPartOf":{"@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#webpage"},"author":{"@id":"https://news.mapcamera.com/KASYAPA/author/nanamiyamoto/#author"},"headline":"539:『SIGMA Art 35mm F1.2 DG DN』","datePublished":"2019-10-16T03:29:00+09:00","dateModified":"2020-07-28T06:04:56+09:00","commentCount":0,"mainEntityOfPage":{"@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#webpage"},"publisher":{"@id":"https://news.mapcamera.com/KASYAPA/#organization"},"articleSection":"SIGMA, SIGMA, SONY E Mount（フルサイズ対応）"},{"@type":"Person","@id":"https://news.mapcamera.com/KASYAPA/author/nanamiyamoto/#author","name":"宮本 奈々","sameAs":[]},{"@type":"BreadcrumbList","@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://news.mapcamera.com/KASYAPA/","url":"https://news.mapcamera.com/KASYAPA/","name":"KASYAPA"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/","url":"https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/","name":"539:『SIGMA Art 35mm F1.2 DG DN』"}}]}]}</script>
+<link rel="canonical" href="https://news.mapcamera.com/KASYAPA/539ここぞという作品撮りの頼れる相棒『sigma-art-35mm-f1-2-dg-dn』/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="539:『SIGMA Art 35mm F1.2 DG DN』 | KASYAPA" />
+<meta property="og:url" content="https://news.mapcamera.com/KASYAPA/539ここぞという作品撮りの頼れる相棒『sigma-art-35mm-f1-2-dg-dn』/" />
+<meta property="og:site_name" content="KASYAPA" />
+<meta property="og:image" content="https://news.mapcamera.com/KASYAPA/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="article:published_time" content="2019-10-16T03:29:00Z" />
+<meta property="article:modified_time" content="2020-07-28T06:04:56Z" />
+<meta property="og:image:secure_url" content="https://news.mapcamera.com/KASYAPA/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="539:『SIGMA Art 35mm F1.2 DG DN』 | KASYAPA" />
+<meta name="twitter:image" content="https://news.mapcamera.com/KASYAPA/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-53162628-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="KASYAPA &raquo; フィード" href="https://news.mapcamera.com/KASYAPA/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KASYAPA &raquo; コメントフィード" href="https://news.mapcamera.com/KASYAPA/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KASYAPA &raquo; 539:『SIGMA Art 35mm F1.2 DG DN』 のコメントのフィード" href="https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/news.mapcamera.com\/KASYAPA\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://news.mapcamera.com/KASYAPA/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.6' type='text/css' media='' />
+<link rel='stylesheet' id='wp-ulike-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/plugins/wp-ulike/assets/css/wp-ulike.min.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ulike-custom-css'  href='https://news.mapcamera.com/KASYAPA/images/wp-ulike/custom.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='syuppin-style-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-favorites-css'  href='https://news.mapcamera.com/KASYAPA/wp-content/plugins/favorites/assets/css/favorites.css?ver=2.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"1","sampling_rate":"5","ajax_url":"https:\/\/news.mapcamera.com\/KASYAPA\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"32583","token":"91e9fe93d7","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.1.0'></script>
+<link rel='https://api.w.org/' href='https://news.mapcamera.com/KASYAPA/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.mapcamera.com/KASYAPA/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://news.mapcamera.com/KASYAPA/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='538:『SIGMA Contemporary 45mm F2.8 DG DN』' href='https://news.mapcamera.com/KASYAPA/538%e8%bb%bd%e8%a3%85%e3%81%a7%e5%87%ba%e6%8e%9b%e3%81%91%e3%82%8b%e3%81%ab%e3%81%af%e6%9c%80%e9%81%a9%e3%81%ae%e3%82%b9%e3%83%8a%e3%83%83%e3%83%97%e3%83%ac%e3%83%b3%e3%82%ba%e3%80%8esigma-contempora/' />
+<link rel='next' title='540:『Canon EOS M6 Mark II』' href='https://news.mapcamera.com/KASYAPA/54014%e3%82%b3%e3%83%9e-%e7%a7%92%e3%81%ae%e9%ab%98%e9%80%9f%e9%80%a3%e5%86%99%e3%81%a8%e5%b0%8f%e5%9e%8b%e8%bb%bd%e9%87%8f%e3%82%92%e4%b8%a1%e7%ab%8b%e3%80%8ecanon-eos-m6-mark-ii%e3%80%8f/' />
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://news.mapcamera.com/KASYAPA/?p=32583' />
+<link rel="alternate" type="application/json+oembed" href="https://news.mapcamera.com/KASYAPA/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.mapcamera.com%2FKASYAPA%2F539%25e3%2581%2593%25e3%2581%2593%25e3%2581%259e%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e4%25bd%259c%25e5%2593%2581%25e6%2592%25ae%25e3%2582%258a%25e3%2581%25ae%25e9%25a0%25bc%25e3%2582%258c%25e3%2582%258b%25e7%259b%25b8%25e6%25a3%2592%25e3%2580%258esigma-art-35mm-f1-2-dg-dn%25e3%2580%258f%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.mapcamera.com/KASYAPA/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.mapcamera.com%2FKASYAPA%2F539%25e3%2581%2593%25e3%2581%2593%25e3%2581%259e%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e4%25bd%259c%25e5%2593%2581%25e6%2592%25ae%25e3%2582%258a%25e3%2581%25ae%25e9%25a0%25bc%25e3%2582%258c%25e3%2582%258b%25e7%259b%25b8%25e6%25a3%2592%25e3%2580%258esigma-art-35mm-f1-2-dg-dn%25e3%2580%258f%2F&#038;format=xml" />
+<style type="text/css">#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator select.goog-te-combo { color:#333333; }#flags { display:none; }#google_language_translator {color: transparent;}body { top:0px !important; }#glt-translate-trigger { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#f89406; }.goog-te-gadget .goog-te-combo { width:100%; }#google_language_translator .goog-te-gadget .goog-te-combo { background:#fafafa; border:0 !important; }</style><link rel="pingback" href="https://news.mapcamera.com/KASYAPA/xmlrpc.php">  <link rel="stylesheet" href="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/common.css" />
+      <link rel="stylesheet" href="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/common-pc.css" />
+    <link href="https://fonts.googleapis.com/css?family=Khula:300&display=swap" rel="stylesheet">
+
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false"}]);</script>
+  <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="T3V2W-CY98H-6VY5Q-2MXG4-GV33W",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"T3V2W-CY98H-6VY5Q-2MXG4-GV33W",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="mqcgyfqxihwisx4lucsa-f-e3e3d2ef4-clientnsv4-s.akamaihd.net",i={"ak.v":"29","ak.cp":"793875","ak.ai":parseInt("501272",10),"ak.ol":"0","ak.cr":36,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"25d9c942","ak.r":36274,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"100.4.108.0","ak.cport":63837,"ak.gh":"23.56.168.172","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1602986148","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==kB4+AGUKfh23OpAu/AmIcrJDcusKk5xRvKQjo0zY5zWDnoWYOSUrdllUyzmwSrELRVUYvPQNN7XjV/HhBzj9+vPMTbvw7fCzb8OCTcU+YoddHXPjtSAILpYnSVN4Abdrz1H1u9jMJ6DarpQefWj1IgZEEyMsfuWvXQ/ZB9DGs+CuBqEs/Mb+d+ohiaw/ptB5VhdFI6pM+rLwSknI6HwE37BFIBzeE03UOlbw3mHYFJtdQv8uh2cE8QRKmfrhvUD9dlHQXou/JYHUexBtbqpixr+pTCzh4OeQMBw65Nm7HXxSVwPSCpZuGH4b1HrRuc73+OUeEystLU1IyFJDZXf5lt1Bexo4EkPKZMZexftjSFj3xxnDb6nvZN/73gDo3m3gVPCBaiYDJTR15m/c2BSAh7Yc5Nhe+s4thJCmpPPKwzc=","ak.pv":"15","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body class="post-template-default single single-post postid-32583 single-format-standard no-sidebar">
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v5.0&appId=156477151751290&autoLogAppEvents=1"></script>
+  <div id="loading" class="loading"></div>
+  <div class="ss-bar flex-box">
+  <div class="flex-item">
+    <h1 class="heading01"><a href="https://news.mapcamera.com/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo.svg" alt="StockShot"></a></h1>
+    <p class="description">写真のあるライフスタイルを提案するマップカメラウェブマガジン</p>
+  </div>
+  <div class="ss-bar-navi">
+    <div class="flex-box">
+      <div class="lang-widget">
+        <div id="google_language_translator" class="default-language-ja"></div>      </div>
+      <div class="flex-item icon-box">
+        <ul class="flex-box ss-bar-icon">
+          <li class="flex-item txt-c">
+            <a href="https://news.mapcamera.com/tag-list/"><img src="/stockshot2/wp-content/themes/stockshot/images/icn_tag.svg" alt="タグ一覧"></a>
+          </li>
+          <li class="flex-item txt-c">
+            <img src="/stockshot2/wp-content/themes/stockshot/images/icn_loupe02.png" alt="検索" class="open-bt">
+            <div class="search-box">
+              <form role="search" method="get" action="https://news.mapcamera.com/">
+                <div class="search-form">
+                <input type="text" placeholder="メーカー名・機種名で検索" name="s" class="search-field" value="" />
+                  <label><input type="radio" name="target" value="both" checked="checked">すべて</label>
+                  <label><input type="radio" name="target" value="title" >タイトルのみ</label>
+                  <label><input type="radio" name="target" value="content" >本文のみ</label>
+                  <input type="submit" class="search-submit" value="">
+                </div>
+                <div class="search-site">
+                                    <label><input type="checkbox" name="blog[]" value="3" >KASYAPA</label>
+                  <label><input type="checkbox" name="blog[]" value="4" >Kasyapa for LEICA</label>
+                  <label><input type="checkbox" name="blog[]" value="2" >THE MAP TIMES</label>
+                  <label><input type="checkbox" name="blog[]" value="5" >MAP × Mountadapter</label>
+                </div>
+              </form>
+            </div>
+          </li>
+          <li class="flex-item">
+            <div class="favorite-icon">
+              <a href="https://news.mapcamera.com/watch/">
+                <img src="/stockshot2/wp-content/themes/stockshot/images/icn_pin.png" alt="お気に入り記事">
+                <div class="favorite-count">
+                  0                </div>
+              </a>
+            </div>
+          </li>
+          </ul>
+      </div>
+      <div class="menu-bt">
+        <div class="menu1"></div>
+        <div class="menu2"></div>
+        <div class="menu3"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="ss-navi">
+  <ul class="flex-box">
+    <li class="flex-item site-id03 sp-one">
+      <a href="https://news.mapcamera.com/KASYAPA/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_kasyapa.png" alt="KASYAPA" class="ss-navi-pc"><span class="ss-navi-sp">KASYAPA</span></a>
+    </li>
+    <li class="flex-item site-id04 sp-one">
+      <a href="https://news.mapcamera.com/k4l/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_kasyapa_leika.png" alt="Kasyapa for LEICA" class="ss-navi-pc"><span class="ss-navi-sp">Kasyapa for LEICA</span></a>
+    </li>
+    <li class="flex-item site-id02 sp-one">
+      <a href="https://news.mapcamera.com/maptimes/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_maptimes.png" alt="THE MAP TIMES" class="ss-navi-pc"><span class="ss-navi-sp">THE MAP TIMES</span></a>
+    </li>
+    <li class="flex-item site-id05 sp-one">
+      <a href="https://news.mapcamera.com/mountadapter/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_mountadapter.png" alt="MAP × Mountadapter" class="ss-navi-pc"><span class="ss-navi-sp">MAP × Mountadapter</span></a>
+    </li>
+  </ul>
+</div>
+
+<!--SPフッターナビ-->
+<div class="ss-bar ss-bar-footer">
+  <div class="flex-item">
+    <ul class="flex-box ss-header-icon">
+      <li class="flex-item">
+                  <div class="change-design" style="opacity: 0.5;"></div>
+              </li>
+      <li class="flex-item">
+        <a href="https://news.mapcamera.com/tag-list/"><img src="/stockshot2/wp-content/themes/stockshot/images/icn_tag.svg" alt="タグ一覧"></a>
+      </li>
+      <li class="flex-item">
+        <img src="/stockshot2/wp-content/themes/stockshot/images/icn_loupe02.png" alt="検索" class="open-bt">
+        <div class="search-box">
+          <form role="search" method="get" action="https://news.mapcamera.com/">
+            <div class="search-form">
+            <input type="text" placeholder="メーカー名・機種名で検索" name="s" class="search-field" value="" />
+              <input type="submit" class="search-submit" value="">
+              <div class="flex-box">
+                <div class="txt-l"><label><input type="radio" name="target" value="both"  checked="checked">すべて</label></div>
+                <div class="flex-item"><label><input type="radio" name="target" value="title" >タイトルのみ</label></div>
+                <div class="txt-r"><label><input type="radio" name="target" value="content" >本文のみ</label></div>
+              </div>
+            </div>
+            <div class="search-site">
+              <div class="flex-box">
+                <div class="txt-l">
+                  <label><input type="checkbox" name="blog[]" value="3" >KASYAPA</label>
+                </div>
+                <div class="flex-item txt-r">
+                  <label><input type="checkbox" name="blog[]" value="4" >Kasyapa for LEICA</label>
+                </div>
+              </div>
+              <div class="flex-box">
+                <div class="txt-l">
+                  <label><input type="checkbox" name="blog[]" value="2" >THE MAP TIMES</label>
+                </div>
+                <div class="flex-item txt-r">
+                  <label><input type="checkbox" name="blog[]" value="5" >MAP × Mountadapter</label>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </li>
+      <li class="flex-item">
+        <div class="favorite-icon">
+          <a href="https://news.mapcamera.com/watch/">
+            <img src="/stockshot2/wp-content/themes/stockshot/images/icn_pin.png" alt="お気に入り記事">
+            <div class="favorite-count">
+              0            </div>
+          </a>
+        </div>
+      </li>
+      </ul>
+  </div>
+</div>  <header id="masthead" class="site-header">
+    <div class="flex-box">
+      <div class="site-branding flex-item">
+        <h1 class="site-title"><a href="https://news.mapcamera.com/KASYAPA/" rel="home"><img src="https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/images/logo.svg" alt="GMT OFFICIAL BLOGS" class="pc-tab"><img src="https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/images/logo.png" alt="GMT OFFICIAL BLOGS" class="sp"></a></h1>
+        <p class="description">写真を通じてカメラやレンズの魅力を感じていただき、<br class="sp">機材選びをより楽しんでいただくためのフォトプレビューサイト</p>
+      </div><!-- .site-branding -->
+      <!--SPナビ-->
+      <div class="sp-flex tab-flex">
+        <div>
+          <div class="brand-bt">BRAND</div>
+          <nav class="brand-navi">
+            <div class="navi-inner">
+              <h3 class="size-24 mb-xxs">BRAND</h3>
+              <div class="menu-gnavi-container"><ul class="flex-box"><li id="menu-item-34989" class="pc menu-item menu-item-type-custom menu-item-object-custom menu-item-34989"><a href="/KASYAPA/">TOP</a></li>
+<li id="menu-item-35000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35000"><a target="_blank" rel="noopener noreferrer" href="https://news.mapcamera.com/k4l/">Leica</a></li>
+<li id="menu-item-34991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34991"><a href="https://news.mapcamera.com/KASYAPA/category/273/">Nikon</a></li>
+<li id="menu-item-34993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34993"><a href="https://news.mapcamera.com/KASYAPA/category/271/">Canon</a></li>
+<li id="menu-item-34990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34990"><a href="https://news.mapcamera.com/KASYAPA/category/277/">SONY</a></li>
+<li id="menu-item-34996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34996"><a href="https://news.mapcamera.com/KASYAPA/category/285/">FUJIFILM</a></li>
+<li id="menu-item-35001" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35001"><a href="https://news.mapcamera.com/KASYAPA/category/279/">OLYMPUS</a></li>
+<li id="menu-item-34995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34995"><a href="https://news.mapcamera.com/KASYAPA/category/275/">Panasonic</a></li>
+<li id="menu-item-34998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34998"><a href="https://news.mapcamera.com/KASYAPA/category/281/">PENTAX &#038; RICOH</a></li>
+<li id="menu-item-34992" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-34992"><a href="https://news.mapcamera.com/KASYAPA/category/289/">SIGMA</a></li>
+<li id="menu-item-34997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34997"><a href="https://news.mapcamera.com/KASYAPA/category/246/">etc.</a></li>
+</ul></div>            </div>
+          </nav>
+          <div class="tag-bt">TAG</div>
+          <nav class="tag-navi">
+            <div class="navi-inner">
+              <h3 class="size-24 mb-xxs">TAG</h3>
+                            <ul class="flex-box"><li><a href='https://news.mapcamera.com/KASYAPA/tag/sony/'>SONY</a></li><li><a href='https://news.mapcamera.com/KASYAPA/tag/nikon/'>Nikon</a></li><li><a href='https://news.mapcamera.com/KASYAPA/tag/sigma/'>SIGMA</a></li><li><a href='https://news.mapcamera.com/KASYAPA/tag/canon/'>Canon</a></li><li><a href='https://news.mapcamera.com/KASYAPA/tag/panasonic/'>Panasonic</a></li></ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <!--PCナビ-->
+    <div class="flex-box pc">
+      <nav id="site-navigation" class="main-navigation">
+        <div class="menu-gnavi-container"><ul><li class="pc menu-item menu-item-type-custom menu-item-object-custom menu-item-34989"><a href="/KASYAPA/">TOP</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35000"><a target="_blank" rel="noopener noreferrer" href="https://news.mapcamera.com/k4l/">Leica</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34991"><a href="https://news.mapcamera.com/KASYAPA/category/273/">Nikon</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34993"><a href="https://news.mapcamera.com/KASYAPA/category/271/">Canon</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34990"><a href="https://news.mapcamera.com/KASYAPA/category/277/">SONY</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34996"><a href="https://news.mapcamera.com/KASYAPA/category/285/">FUJIFILM</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35001"><a href="https://news.mapcamera.com/KASYAPA/category/279/">OLYMPUS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34995"><a href="https://news.mapcamera.com/KASYAPA/category/275/">Panasonic</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34998"><a href="https://news.mapcamera.com/KASYAPA/category/281/">PENTAX &#038; RICOH</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-34992"><a href="https://news.mapcamera.com/KASYAPA/category/289/">SIGMA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34997"><a href="https://news.mapcamera.com/KASYAPA/category/246/">etc.</a></li>
+</ul></div>      </nav><!-- #site-navigation -->
+    </div>
+  </header><!-- #masthead -->
+
+  <div id="page" class="site">
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+  		
+<article id="post-32583" class="post-32583 post type-post status-publish format-standard hentry category-21 tag-sigma tag-sony-e-mount">
+
+	<div class="entry-content">
+		<header class="entry-header">
+						<div class="ttl-box">
+				<div class="category"><ul class="post-categories">
+	<li><a href="https://news.mapcamera.com/KASYAPA/category/289/" rel="category tag">SIGMA</a></li></ul></div>
+				<h1>539:『SIGMA Art 35mm F1.2 DG DN』</h1>
+				<p class="date size-15">2019年10月16日</p><!-- .entry-meta -->
+				<p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+				<div class="simplefavorite-button" data-postid="32583" data-siteid="3" data-groupid="1" data-favoritecount="2" style=""><i class="sf-icon-star-empty"></i></div>			</div>
+		</header><!-- .entry-header -->
+		<div class="contents">
+			</p>
+<style type="text/css">
+<!--
+.spout {
+    width: 960px;
+    margin: 0 auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+.spin {
+    line-height: 1.8em;
+    color: #555;
+}
+/*機材名*/
+.spin h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #666666;
+    text-align: center;
+    letter-spacing: 3px;
+    margin: 60px 0px;
+}
+.spin h1 span {
+    color: #000;
+    margin-left: 30px;
+}
+/*サブタイトル*/
+.spin h2 {
+    font-size: 32px;
+    font-weight: 300;
+    color: #444;
+    text-align: center;
+    letter-spacing: 4px;
+    margin: 40px 0px;
+}
+/*共通ソース*/
+.kasyapa_img_top {
+    margin-bottom: 5px;
+}
+.kasyapa_img {
+    margin: 80px 0px 5px 0px;
+    text-align: center;
+}
+.exif {
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+}
+.spin p {
+    font-size: 18px!important;
+    line-height: 1.8em!important;
+    margin: 30px 0px 0px 0px!important;
+}
+/*ラストのバナー*/
+#last_ban {
+    text-align: center;
+}
+#last_ban a:hover {
+    opacity: 0.6;
+    transition: 0.3s;
+}
+-->
+</style>
+<p></p>
+<div class="spout"></p>
+<div class="spin"></p>
+<div></p>
+<div class="kasyapa_img_top"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05631_2.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05631_2s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a></div>
+<p></p>
+<div class="exif">絞り：F10 / シャッタースピード：30秒 / ISO：160 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<h1>SIGMA<span>Art 35mm F1.2 DG DN</span></h1>
+<p></p>
+<p>シグマが「最高画質の追求」をさらに先鋭化させた大口径単焦点レンズ『SIGMA Art 35mm F1.2 DG DN』をご紹介します。なんと数々のレンズを生み出してきたシグマにおいて初の開放値F1.2。浅い被写界深度を活かした写真だけではなく、様々な表現に挑戦できるレンズです。</p>
+<p>
+まずは工場夜景の写真から。撮影したのは、夜中の3時過ぎでした。肉眼だとそこまで明るくないのですが、それでも静まり返った暗闇に煌々と光る様は異世界のようで、とても不思議な光景です。30秒の長時間露光により、光源まわりだけでなく水面も色鮮やかに染めました。肉眼で見るのとは異なるパラレルワールドを描き出したかのようです。当レンズは明るいだけではなく、5,000万画素超にも耐えうる解像力があります。ぜひ画像を拡大して、対岸の様子をご覧ください。
+</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05607_2.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05607_2s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a></div>
+<p></p>
+<div class="exif">絞り：F11 / シャッタースピード：15秒 / ISO：160 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>点光源の撮影なので、絞って光芒を出しました。当レンズの絞り羽根枚数は11枚。光の線が多くとても華やかです。また、絞り羽根枚数が多いということは、それだけ丸ボケが綺麗にできるということ。F1.2というスペックを聞いてまず開放のボケを期待するかと思いますが、ボカして最高、絞っても最高なのがこのレンズなのです。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02765.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02765s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a> </div>
+<p></p>
+<div class="exif">絞り：F1.2 / シャッタースピード：1/8000秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>古い洋館の庭園に小さめなピンクの薔薇が咲いていました。空と洋館を背景にし、開放で撮影してみましたが、洋館の具合といい、まるで少女漫画の世界に迷い込んだかのようで想像力を掻き立てられます。空には秋らしいサバ雲がボケ味を引き立ててくれます。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02786.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02786s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a> </div>
+<p></p>
+<div class="exif">絞り：F9 / シャッタースピード：1/125秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>枝葉がほどよく太陽を遮り、木漏れ日が落ちるこの場所に、もしも藤製の長椅子があったなら…！ いくらでも読書や昼寝ができそうです。そんな贅沢をしてみたいと感じる1枚です。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02751.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"><img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02751s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a> </div>
+<p></p>
+<div class="exif">絞り：F6.3 / シャッタースピード：1/160秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>赤い薔薇が一輪だけになるようフレーミングしました。薔薇といえば、その中心は花弁が重なり固く閉じられていることが多いです。しかしこちらの薔薇は綻び、その内側を垣間見ることができたのが面白く感じ、シャッターを切りました。当レンズはF1.2ですから、花弁だけ、雄しべ雌しべだけに焦点を当てることもできますが、少し絞ってその両方にピントを合わせました。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02736.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"><img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02736s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="640" height="960"></a> </div>
+<p></p>
+<div class="exif">絞り：F1.2 / シャッタースピード：1/60秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DNソニーE用/フルサイズ対応）</div>
+<p></p>
+<p>私は以前、年に一度アメリカのフロリダに撮影に行っていました。行く度に立ち寄る手羽先屋があるのですが、その日本支店がマップカメラの近所にもあるということで、ランチを食べに行ってきました。料理がテーブルに届いたらまずはF1.2で撮影。シュリンプのサンドウィッチをかじると、甘辛いソースがフロリダの夏を思い起こさせてくれました。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05374.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_05374s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a></div>
+<p></p>
+<div class="exif">絞り：F1.2 / シャッタースピード：1/1250秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>朝、近所を散歩しました。雨上がりだったのでそこかしこが濡れており、見つけた綺麗な花にも水滴が付いていました。開放F1.2で小さな花にピントを合わせ、アンダー目の背景から綺麗に浮かび上がらせました。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02574.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02574s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a></div>
+<p></p>
+<div class="exif">絞り：F10 / シャッタースピード：1/250秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>東京はスピードが速い街です。人が忙しなく動いています。海の上も例外ではなく、橋の上や海面を乗り物が忙しく移動しています。そんな東京の夕方を捉えた一枚です。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02704.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02704s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="640" height="960"></a> </div>
+<p></p>
+<div class="exif">絞り：F9 / シャッタースピード：1/125秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>青い空にカラフルな観覧車。カメラファンにはお馴染みの観覧車ですから、今回はどう切り取ろうかと迷ったところへ透明のゴンドラがまわって来ました。人が乗っているのが見えるのが面白く、タイミングを見計らって撮りました。</p>
+<p>
+    </div>
+<div></p>
+<div class="kasyapa_img"> <a href="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02807.jpg" rel="lightbox" title="SIGMA Art 35mm F1.2 DG DN"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/77_02807s.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></a> </div>
+<p></p>
+<div class="exif">絞り：F1.2 / シャッタースピード：1/5000秒 / ISO：100 / 使用機材：SONY α7III + SIGMA Art 35mm F1.2 DG DN</div>
+<p></p>
+<p>彼岸花の情熱的な赤に、人は心を惹きつけられます。私もその一人。当レンズは開放値F1.2なので、群れて咲いている彼岸花の中から主役の1本を選び、浮かび上がらせることができます。</p>
+<p>
+    </div>
+<p></p>
+<div></p>
+<div class="kasyapa_img"> <img src="https://news.mapcamera.com/media/contents/kasyapa/20190726_sigma35/IMG_4220_960.jpg" alt="SIGMA Art 35mm F1.2 DG DN" width="960" height="640"></div>
+<p></p>
+<h2>ここぞという作品撮りの頼れる相棒</h2>
+<p></p>
+<p>『SIGMA Art 35mm F1.2 DG DN』はミラーレス用にもかかわらず1kg超と重く、当レンズを付けたカメラを首からかけると食い込むような負荷がかかります。昨今の軽量コンパクトなレンズに慣れた私は、女性ということもあり持ち出すのに気合が必要でした。しかしいざ撮ってみると、そんなことどうでもよくなるくらいのボケと解像感の虜に。F1.2と絞り羽根枚数11枚（円形絞り）からなる美しいボケは言わずもがな、解像感の素晴らしさは撮って初めて理解できました。今回の試写で収穫だったのは、開放はもちろんのこと、絞ってもとても魅力的なレンズだったことです。パッキリとした解像感や華やかな光芒は、このレンズならではのもの。対岸の精細な風景、テーブルフォトでの瑞々しさ、木々の葉など、どれをとっても臨場感を感じることができるでしょう。ここぞという作品撮りで頼りになる相棒になってくれそうです。</p>
+<p>      Photo by MAP CAMERA Staff</p>
+<p>
+    </div>
+<p>
+</div>
+<p>
+</div>
+<p>    <!--ブログガジェット--></p>
+<style type="text/css">
+<!--
+/* 大デザイン用CSS */
+.spk_wrapper {float:left;margin-left:50px; width:310px}
+.spk_wrapper a {text-decoration:none;}
+.spk_wrapper .spk_img img {width:200px;height:200px;}
+.spk_wrapper .spk_icon img{width:auto; height:14px;}
+.spk_wrapper .spk_icon.sell {float:left;margin-left: 0px;margin-right: 5px}
+.spk_wrapper .spk_icon.condition {float:left;margin-left: 0px;margin-right: 5px}
+.spk_wrapper .spk_icon.iconsp img {margin-left: 0px;margin-right: 5px;}
+
+
+.spk_title {clear:left;padding-top: 5px}
+.spk_title .spk_maker {font-size:15px;font-weight: bold;margin-right:10px}
+.spk_title .spk_product_name {font-size:20px;font-weight: bold;}
+.spk_price {color: #ff0000;font-weight: bold;margin-top:10px;margin-right:10px;float:left}
+.spk_go_shop img {margin-top:3px}
+.spk_subitle {font-size:12px;padding-top:5px;}
+.spk_rating {margin-top: 5px;margin-bottom: 5px;}
+.spk_rating_star {float:left;margin-right:10px}
+.spk_rating_star .review {float:left;font-size:12px;margin-top:3px;margin-right:5px}
+.spk_rating_star .star {float:left;}
+
+
+/* 小デザイン用CSS */
+.spk_m_gadget_wrapper {width:1000px;}
+.spk_m_page {float:left}
+.spk_m_page.left {clear:both}
+.spk_m_item_wrapper {min-width:978px;float:left}
+.spk_m_wrapper {float:left;margin-left:7px; margin-right:7px;width:125px;font-size:15px;}
+.spk_m_wrapper a {text-decoration:none;}
+.spk_m_wrapper img {width:120px;height:120px;}
+.spk_m_wrapper .spk_m_icon img{width:auto; height:14px;}
+.spk_m_wrapper .spk_m_icon.sell {float:left;margin-left: 0px;margin-right: 5px}
+.spk_m_wrapper .spk_m_icon.condition {float:left;margin-left: 0px;margin-right: 5px}
+.spk_m_wrapper .spk_m_icon.iconsp img {margin-left: 0px;margin-right: 5px;}
+.spk_m_title {clear:left;padding-top: 5px;width:120px}
+.spk_m_title .spk_m_maker {float:left;margin-right:10px}
+.spk_m_title .spk_m_product_name {}
+.spk_m_price {bottom:0px;margin-top:10px}
+--></p>
+</style>
+<p></p>
+<div  align="center">
+      <!--【上部に大デザインの表示】--></p>
+<table align="center" border="0"></p>
+<tr></p>
+<td><script type="text/javascript">
+var forcia_var = {
+	JAN_CODE: "0085126341657"
+	,LIMIT: "1"
+	,SELL:"new"
+};
+</script> 
+            <script type="text/javascript" src="//search.mapcamera.com/gadget/blog.js?"></script></td>
+<p>
+        </tr>
+<p>
+      </table>
+<p>
+      <!--小ガジェットここから--> </p>
+<p></p>
+<table align="center" border="0"></p>
+<tr></p>
+<td><script type="text/javascript">
+var forcia_var = {
+	JAN_CODE: "0085126341657"
+	,LIMIT: "50"
+	,SELL:"used"
+	,SORT:"random"
+	,NO_SHOW:"subtitle,rating,review,icon_sp"
+	,GadgetType:"medium"
+	,DISP_PAGE_LINK: "1"
+};
+</script> 
+            <script type="text/javascript" src="//search.mapcamera.com/gadget/blog.js?"></script></td>
+<p>
+        </tr>
+<p>
+      </table>
+<p>
+      <!--小ガジェットここまで--> 
+      <!--【上部に大デザインの表示】--></p>
+<table align="center" border="0"></p>
+<tr></p>
+<td><script type="text/javascript">
+var forcia_var = {
+	JAN_CODE: "4548736079625,4548736079717"
+	,LIMIT: "2"
+	,SELL:"new"
+};
+</script> 
+            <script type="text/javascript" src="//search.mapcamera.com/gadget/blog.js?"></script></td>
+<p>
+        </tr>
+<p>
+      </table>
+<p></p>
+<table align="center" border="0"></p>
+<tr></p>
+<td>
+<script type="text/javascript">
+var forcia_var = {
+	JAN_CODE: "4548736108288,4548736108264"<!--大はカンマで区切りで2個まで-->
+	,LIMIT: "2"<!--1or2-->
+	,SELL:"new"<!--新品商品：new、中古商品：used、新同品、美品のみ（中古商品）：cleanUsed、委託品：consign、新同品、美品のみ（委託品）：cleanConsign、中古商品または委託品：usedOrConsign-->
+};
+</script>
+<script type="text/javascript" src="//search.mapcamera.com/gadget/blog.js?"></script></p>
+</td>
+<p>
+</tr>
+<p>
+</table>
+<p>
+      <!--小ガジェットここから--> </p>
+<p></p>
+<table align="center" border="0"></p>
+<tr></p>
+<td><script type="text/javascript">
+var forcia_var = {
+	JAN_CODE: "4548736079625,4548736079717"
+	,LIMIT: "50"
+	,SELL:"used"
+	,SORT:"random"
+	,NO_SHOW:"subtitle,rating,review,icon_sp"
+	,GadgetType:"medium"
+	,DISP_PAGE_LINK: "1"
+};
+</script> 
+            <script type="text/javascript" src="//search.mapcamera.com/gadget/blog.js?"></script></td>
+<p>
+        </tr>
+<p>
+      </table>
+<p>
+      <!--小ガジェットここまで--> 
+    </div>
+<p></p>
+<div style="clear:both"></div>
+<p>
+    <!--大と中のスタイルの区切りに必要なタグ--> 
+    <!--ブログガジェット終-->
+    
+<div id="last_ban"> <a href="https://www.mapcamera.com/"><img src="https://news.mapcamera.com/media/contents/kasyapa/bannar/kasyapa_map2.jpg" alt="マップカメラ TOPページへ"></a><a href="https://news.mapcamera.com/KASYAPA/"><img src="https://news.mapcamera.com/media/contents/kasyapa/bannar/kasyapa_top2.jpg" alt="Kasyapa TOPページへ"></a></div>
+		</div>
+
+		<div class="inner"></div>
+		<ul id="breadcrumb" class="flex-box size-12" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://news.mapcamera.com/KASYAPA" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://news.mapcamera.com/KASYAPA/category/289/" itemprop="item"><span itemprop="name">SIGMA</span></a><meta itemprop="position" content="2" /></li><li class="breadcrumb-title" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/" itemprop="item"><span itemprop="name">539:『SIGMA Art 35mm F1.2 DG DN』</span></a><meta itemprop="position" content="3" /></li></ul>  </div><!-- .entry-content -->
+
+	<div class="sns">
+		<ul class="flex-box">
+			<li><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+			<li>
+				<div class="fb-like" data-href="https://news.mapcamera.com/KASYAPA/539%e3%81%93%e3%81%93%e3%81%9e%e3%81%a8%e3%81%84%e3%81%86%e4%bd%9c%e5%93%81%e6%92%ae%e3%82%8a%e3%81%ae%e9%a0%bc%e3%82%8c%e3%82%8b%e7%9b%b8%e6%a3%92%e3%80%8esigma-art-35mm-f1-2-dg-dn%e3%80%8f/" data-width="" data-layout="button" data-action="like" data-size="large" data-share="true"></div>
+			</li>
+		</ul>
+				<div class="wpulike wpulike-default " ><div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="いいねボタン"
+					data-ulike-id="32583"
+					data-ulike-nonce="5a2cb96983"
+					data-ulike-type="likeThis"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers=""
+					data-ulike-disable-pophover=""
+					class="wp_ulike_btn wp_ulike_put_text wp_likethis_32583"><span>Goodと思ったら<br class="sp">こちらをClick！</span>				</button><span class="count-box">2+</span>			</div></div>
+		</div>
+</article><!-- #post-32583 -->
+      <div class="flex-box post-link">
+        <div class="flex-item txt-l">&lt; <a href="https://news.mapcamera.com/KASYAPA/538%e8%bb%bd%e8%a3%85%e3%81%a7%e5%87%ba%e6%8e%9b%e3%81%91%e3%82%8b%e3%81%ab%e3%81%af%e6%9c%80%e9%81%a9%e3%81%ae%e3%82%b9%e3%83%8a%e3%83%83%e3%83%97%e3%83%ac%e3%83%b3%e3%82%ba%e3%80%8esigma-contempora/" rel="prev">BEFORE</a></div>
+        <div class="flex-item txt-r"><a href="https://news.mapcamera.com/KASYAPA/54014%e3%82%b3%e3%83%9e-%e7%a7%92%e3%81%ae%e9%ab%98%e9%80%9f%e9%80%a3%e5%86%99%e3%81%a8%e5%b0%8f%e5%9e%8b%e8%bb%bd%e9%87%8f%e3%82%92%e4%b8%a1%e7%ab%8b%e3%80%8ecanon-eos-m6-mark-ii%e3%80%8f/" rel="next">NEXT</a> &gt;</div>
+      </div>
+      <section class="newpost related-post">
+        <div class="txt-c mb-m"><h2 class="type02">RECOMMEND</h2></div>
+        
+                              <div id="tile-box" class="flex-box box-type02 related">
+                            
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/503%e3%83%8f%e3%82%a4%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%81%aecontemporary%e3%80%8esigma-c-56mm-f1-4-dc-dn%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181203_sigma_c56mm/DSC00043s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/503%e3%83%8f%e3%82%a4%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%81%aecontemporary%e3%80%8esigma-c-56mm-f1-4-dc-dn%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181203_sigma_c56mm/DSC00043s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/503%e3%83%8f%e3%82%a4%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%81%aecontemporary%e3%80%8esigma-c-56mm-f1-4-dc-dn%e3%80%8f/" class="item-type02"><h3>503:『SIGMA C 56mm F1.4 DC DN』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/503%e3%83%8f%e3%82%a4%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%81%aecontemporary%e3%80%8esigma-c-56mm-f1-4-dc-dn%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2018/12/07</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="31864" data-siteid="3" data-groupid="1" data-favoritecount="2" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/501%e6%96%b0%e3%81%9f%e3%81%aa%e8%a1%a8%e7%8f%be%e3%82%92%e7%94%9f%e3%81%bf%e5%87%ba%e3%81%99%e3%80%8esigma-art-40mm-f1-4-dg-hsm%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181122_sigma_a40mm/101s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/501%e6%96%b0%e3%81%9f%e3%81%aa%e8%a1%a8%e7%8f%be%e3%82%92%e7%94%9f%e3%81%bf%e5%87%ba%e3%81%99%e3%80%8esigma-art-40mm-f1-4-dg-hsm%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181122_sigma_a40mm/101s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/501%e6%96%b0%e3%81%9f%e3%81%aa%e8%a1%a8%e7%8f%be%e3%82%92%e7%94%9f%e3%81%bf%e5%87%ba%e3%81%99%e3%80%8esigma-art-40mm-f1-4-dg-hsm%e3%80%8f/" class="item-type02"><h3>501:『SIGMA Art 40mm F1.4 DG HSM』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/501%e6%96%b0%e3%81%9f%e3%81%aa%e8%a1%a8%e7%8f%be%e3%82%92%e7%94%9f%e3%81%bf%e5%87%ba%e3%81%99%e3%80%8esigma-art-40mm-f1-4-dg-hsm%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2018/11/22</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="31849" data-siteid="3" data-groupid="1" data-favoritecount="0" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/506%e7%a9%b6%e6%a5%b5%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%80%e3%83%bc%e3%80%8esigma-sports-70-200mm-f2-8-dg-os-hsm%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181214_sigma_s70200/01s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/506%e7%a9%b6%e6%a5%b5%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%80%e3%83%bc%e3%80%8esigma-sports-70-200mm-f2-8-dg-os-hsm%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181214_sigma_s70200/01s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/506%e7%a9%b6%e6%a5%b5%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%80%e3%83%bc%e3%80%8esigma-sports-70-200mm-f2-8-dg-os-hsm%e3%80%8f/" class="item-type02"><h3>506:『SIGMA Sports 70-200mm F2.8 DG OS HSM』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/506%e7%a9%b6%e6%a5%b5%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%80%e3%83%bc%e3%80%8esigma-sports-70-200mm-f2-8-dg-os-hsm%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2018/12/18</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="31892" data-siteid="3" data-groupid="1" data-favoritecount="1" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/535%e8%b6%85%e5%ba%83%e8%a7%92%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e7%90%86%e6%83%b3%e5%bd%a2%e3%80%8esigma-art-14-24mm-f2-8-dg-dn%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20190827_sigma1424dgdn/001s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/535%e8%b6%85%e5%ba%83%e8%a7%92%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e7%90%86%e6%83%b3%e5%bd%a2%e3%80%8esigma-art-14-24mm-f2-8-dg-dn%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20190827_sigma1424dgdn/001s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/535%e8%b6%85%e5%ba%83%e8%a7%92%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e7%90%86%e6%83%b3%e5%bd%a2%e3%80%8esigma-art-14-24mm-f2-8-dg-dn%e3%80%8f/" class="item-type02"><h3>535:『SIGMA Art 14-24mm F2.8 DG DN』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/535%e8%b6%85%e5%ba%83%e8%a7%92%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e7%90%86%e6%83%b3%e5%bd%a2%e3%80%8esigma-art-14-24mm-f2-8-dg-dn%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2019/09/16</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="32513" data-siteid="3" data-groupid="1" data-favoritecount="3" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/615%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8fpart-2/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/KASYAPA/images/2020/09/fp1424-600x400.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/615%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8fpart-2/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/KASYAPA/images/2020/09/fp1424-600x400.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/615%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8fpart-2/" class="item-type02"><h3>615:『SIGMA Contemporary 100-400mm F5-6.3 DG DN OS』Part.2</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/615%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8fpart-2/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2020/09/14</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/leica/" rel="tag">Leica</a><a href="https://news.mapcamera.com/KASYAPA/tag/panasonic/" rel="tag">Panasonic</a><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="60000040589" data-siteid="3" data-groupid="1" data-favoritecount="2" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/607%e3%80%8esigma-contemporary-16mm-f1-4-dc-dn%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/KASYAPA/images/2020/08/sonomama-0458-600x400.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/607%e3%80%8esigma-contemporary-16mm-f1-4-dc-dn%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/KASYAPA/images/2020/08/sonomama-0458-600x400.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/607%e3%80%8esigma-contemporary-16mm-f1-4-dc-dn%e3%80%8f/" class="item-type02"><h3>607:『SIGMA Contemporary 16mm F1.4 DC DN』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/607%e3%80%8esigma-contemporary-16mm-f1-4-dc-dn%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2020/08/24</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/leica/" rel="tag">Leica</a><a href="https://news.mapcamera.com/KASYAPA/tag/panasonic/" rel="tag">Panasonic</a><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="60000040109" data-siteid="3" data-groupid="1" data-favoritecount="2" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/560%e6%a8%99%e6%ba%96%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e6%96%b0%e3%81%9f%e3%81%aa%e9%81%b8%e6%8a%9e%e8%82%a2%e3%80%8esigma-art-24-70mm-f2-8-dg-dn%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20191220_a2470_dgdn/01s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/560%e6%a8%99%e6%ba%96%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e6%96%b0%e3%81%9f%e3%81%aa%e9%81%b8%e6%8a%9e%e8%82%a2%e3%80%8esigma-art-24-70mm-f2-8-dg-dn%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20191220_a2470_dgdn/01s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/560%e6%a8%99%e6%ba%96%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e6%96%b0%e3%81%9f%e3%81%aa%e9%81%b8%e6%8a%9e%e8%82%a2%e3%80%8esigma-art-24-70mm-f2-8-dg-dn%e3%80%8f/" class="item-type02"><h3>560:『SIGMA Art 24-70mm F2.8 DG DN』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/560%e6%a8%99%e6%ba%96%e3%82%ba%e3%83%bc%e3%83%a0%e3%81%ae%e6%96%b0%e3%81%9f%e3%81%aa%e9%81%b8%e6%8a%9e%e8%82%a2%e3%80%8esigma-art-24-70mm-f2-8-dg-dn%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2019/12/26</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="32836" data-siteid="3" data-groupid="1" data-favoritecount="3" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/509%e3%83%9c%e3%83%87%e3%82%a3%e3%81%8c%e8%bb%bd%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%a7%e3%82%88%e3%82%8a%e8%ba%ab%e8%bf%91%e3%81%ab%e3%80%8esigma-art-14mm-f1-8-dg-hsm/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181222_sigma_a_14mm_sony/01s.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/509%e3%83%9c%e3%83%87%e3%82%a3%e3%81%8c%e8%bb%bd%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%a7%e3%82%88%e3%82%8a%e8%ba%ab%e8%bf%91%e3%81%ab%e3%80%8esigma-art-14mm-f1-8-dg-hsm/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/media_t/contents/kasyapa/20181222_sigma_a_14mm_sony/01s.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/509%e3%83%9c%e3%83%87%e3%82%a3%e3%81%8c%e8%bb%bd%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%a7%e3%82%88%e3%82%8a%e8%ba%ab%e8%bf%91%e3%81%ab%e3%80%8esigma-art-14mm-f1-8-dg-hsm/" class="item-type02"><h3>509:『SIGMA Art 14mm F1.8 DG HSM』for SONY E</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/509%e3%83%9c%e3%83%87%e3%82%a3%e3%81%8c%e8%bb%bd%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%a7%e3%82%88%e3%82%8a%e8%ba%ab%e8%bf%91%e3%81%ab%e3%80%8esigma-art-14mm-f1-8-dg-hsm/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2019/01/08</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="31958" data-siteid="3" data-groupid="1" data-favoritecount="0" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  
+<div class="item-box">
+  <a href="https://news.mapcamera.com/KASYAPA/591%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8f/" class="item-type01" target="_blank">
+  <img src="https://news.mapcamera.com/KASYAPA/images/2020/07/4000-02276-600x400.jpg" alt="Photo">
+  </a>
+  <a href="https://news.mapcamera.com/KASYAPA/591%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8f/" class="item-type02">
+    <div class="item-box-inner">
+      <img src="https://news.mapcamera.com/KASYAPA/images/2020/07/4000-02276-600x400.jpg" alt="Photo">
+    </div>
+  </a>
+  <div class="item-box-txt">
+    <a href="https://news.mapcamera.com/KASYAPA/591%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8f/" class="item-type02"><h3>591:『SIGMA Contemporary 100-400mm F5-6.3 DG DN OS』</h3></a>
+    <div class="txt-box">
+      <a href="https://news.mapcamera.com/KASYAPA/591%e3%80%8esigma-contemporary-100-400mm-f5-6-3-dg-dn-os%e3%80%8f/" class="flex-box">
+        <p class="site-id site-id03 site-id_child">KASYAPA</p>
+        <p class="date">2020/07/07</p>
+      </a>
+              <p class="tag"><a href="https://news.mapcamera.com/KASYAPA/tag/sigma/" rel="tag">SIGMA</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony/" rel="tag">SONY</a><a href="https://news.mapcamera.com/KASYAPA/tag/sony-e-mount%ef%bc%88%e3%83%95%e3%83%ab%e3%82%b5%e3%82%a4%e3%82%ba%e5%af%be%e5%bf%9c%ef%bc%89/" rel="tag">SONY E Mount（フルサイズ対応）</a></p>
+          </div>
+  </div>
+  <div class="simplefavorite-button" data-postid="60000038451" data-siteid="3" data-groupid="1" data-favoritecount="9" style=""><i class="sf-icon-star-empty"></i></div></div>
+                  </div>
+              </section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+  </div><!-- #content -->
+    <a href="#loading" class="pagetop"><img src="/stockshot2/wp-content/themes/stockshot/images/btn_top.png" alt="PAGE TOP"></a>
+  <footer id="colophon" class="site-footer">
+    <section class="sns-box mb-0">
+      <div class="sns-inner">
+                  <div class="txt-c mb-s"><h2 class="type02">SNS FOLLOWING</h2></div>
+                
+        <div class="flex-box">
+          <div class="three-col txt-c">
+            <a href="https://twitter.com/mapcamera" target="_blank">
+              <div class="flex-box sns-name twitter">
+                <div class="sns-logo"><img src="/stockshot2/wp-content/themes/stockshot/images/icon_twitter.png" alt="Twitter logo"></div>
+                <div class="flex-item txt-l ml-xs logo-box">
+                  <p class="size-14 mb-0"><img src="/stockshot2/wp-content/themes/stockshot/images/txt_twitter.svg" alt="Twitter"><br>
+                  @mapcamera</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="three-col txt-c">
+            <a href="https://www.instagram.com/jikijisan_mapcamera/" target="_blank">
+              <div class="flex-box sns-name instagram">
+                <div class="sns-logo"><img src="/stockshot2/wp-content/themes/stockshot/images/icon_instagram.png" alt="Instagram logo"></div>
+                <div class="flex-item txt-l ml-xs logo-box">
+                  <p class="size-14 mb-0"><img src="/stockshot2/wp-content/themes/stockshot/images/txt_instagram.svg" alt="Instagram"><br>
+                  @mapcamera</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="three-col txt-c fb-bt">
+            <div class="flex-box sns-name facebook">
+              <div class="sns-logo"><img src="/stockshot2/wp-content/themes/stockshot/images/icon_facebook.png" alt="Facebook logo"></div>
+              <div class="flex-item txt-l ml-xs logo-box">
+                <p class="size-14 mb-0"><img src="/stockshot2/wp-content/themes/stockshot/images/txt_facebook.svg" alt="Facebook"></p>
+              </div>
+            </div>
+            <ul class="fb-list">
+              <li><a href="https://www.facebook.com/L.Style.mapcamera" target="_blank"><img src="/stockshot2/wp-content/themes/stockshot/images/bnr_fb01.png" alt="L,STYLE"></a></li>
+              <li><a href="https://www.facebook.com/JIKIJISAN.mapcamera" target="_blank"><img src="/stockshot2/wp-content/themes/stockshot/images/bnr_fb02.png" alt="自機自賛"></a></li>
+              <li><a href="https://www.facebook.com/UrCamera.mapcamera/" target="_blank"><img src="/stockshot2/wp-content/themes/stockshot/images/bnr_fb03.png" alt="Ur Camera"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="stockshot-box blog_id3">
+      <h2 class="txt-c"><a href="https://news.mapcamera.com/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_stockshot.png" alt="StockShot"></a></h2>
+      <ul class="flex-box">
+        <li class="flex-item txt-c site-id03">
+          <a href="https://news.mapcamera.com/KASYAPA/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_kasyapa.png" alt="KASYAPA"></a>
+        </li>
+        <li class="flex-item txt-c site-id04">
+          <a href="https://news.mapcamera.com/k4l/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_kasyapa_leika.png" alt="Kasyapa for LEICA"></a>
+        </li>
+        <li class="flex-item txt-c site-id02">
+          <a href="https://news.mapcamera.com/maptimes/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_maptimes.png" alt="THE MAP TIMES"></a>
+        </li>
+        <li class="flex-item txt-c site-id05">
+          <a href="https://news.mapcamera.com/mountadapter/"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_mountadapter.png" alt="MAP × Mountadapter"></a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-box">
+      <div class="footer-box-inner">
+        <h2 class="txt-c mb-xxs"><a href="https://www.mapcamera.com/" target="_blank"><img src="/stockshot2/wp-content/themes/stockshot/images/logo_mapcamera.svg" alt="Map Camera"></a></h2>
+        <p class="txt-c ml-s mr-s">マップカメラは、デジタルカメラ・ミラーレスカメラや交換レンズの中古・新品販売、買取・下取を行うカメラ通販ショップ（ECサイト）です。</p>
+      <div class="app txt-c"><a href="https://www.mapcamera.com/html/dl/index.html" target="_blank"><img src="/stockshot2/wp-content/themes/stockshot/images/official-app.png" alt="Map Camera OFFICIAL APP"></a></div>
+      </div>
+    </div>
+    <div class="site-info">All contents are reserved by Syuppin Co.,Ltd. シュッピン株式会社<br>
+    <span class="size-11">東京都公安委員会許可 第304360508043号</span></div><!-- .site-info -->
+  </footer><!-- #colophon --></div><!-- #page -->
+
+<script src="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/js/jquery-3.4.1.min.js"></script>
+<div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="Arabic"><a href="#" title="Arabic" class="nturl notranslate ar flag Arabic"></a></li><li id="Chinese (Simplified)"><a href="#" title="Chinese (Simplified)" class="nturl notranslate zh-CN flag Chinese (Simplified)"></a></li><li id="Chinese (Traditional)"><a href="#" title="Chinese (Traditional)" class="nturl notranslate zh-TW flag Chinese (Traditional)"></a></li><li id="Dutch"><a href="#" title="Dutch" class="nturl notranslate nl flag Dutch"></a></li><li id="English"><a href="#" title="English" class="nturl notranslate en flag united-states"></a></li><li id="French"><a href="#" title="French" class="nturl notranslate fr flag French"></a></li><li id="German"><a href="#" title="German" class="nturl notranslate de flag German"></a></li><li id="Italian"><a href="#" title="Italian" class="nturl notranslate it flag Italian"></a></li><li id="Korean"><a href="#" title="Korean" class="nturl notranslate ko flag Korean"></a></li><li id="Portuguese"><a href="#" title="Portuguese" class="nturl notranslate pt flag Portuguese"></a></li><li id="Russian"><a href="#" title="Russian" class="nturl notranslate ru flag Russian"></a></li><li id="Spanish"><a href="#" title="Spanish" class="nturl notranslate es flag Spanish"></a></li><li id="Thai"><a href="#" title="Thai" class="nturl notranslate th flag Thai"></a></li><li id="Vietnamese"><a href="#" title="Vietnamese" class="nturl notranslate vi flag Vietnamese"></a></li></ul></div><div id='glt-footer'></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'ja', includedLanguages:'ar,zh-CN,zh-TW,nl,en,fr,de,it,ko,pt,ru,es,th,vi', autoDisplay: false}, 'google_language_translator');}</script>        <script type="text/javascript">
+            (function(){
+                document.addEventListener('DOMContentLoaded', function(){
+                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                    if ( wpp_widgets ) {
+                        for (let i = 0; i < wpp_widgets.length; i++) {
+                            let wpp_widget = wpp_widgets[i];
+                            WordPressPopularPosts.theme(wpp_widget);
+                        }
+                    }
+                });
+            })();
+        </script>
+                <script>
+            var WPPImageObserver = null;
+
+            function wpp_load_img(img) {
+                if ( ! 'imgSrc' in img.dataset || ! img.dataset.imgSrc )
+                    return;
+
+                img.src = img.dataset.imgSrc;
+
+                if ( 'imgSrcset' in img.dataset ) {
+                    img.srcset = img.dataset.imgSrcset;
+                    img.removeAttribute('data-img-srcset');
+                }
+
+                img.classList.remove('wpp-lazyload');
+                img.removeAttribute('data-img-src');
+                img.classList.add('wpp-lazyloaded');
+            }
+
+            function wpp_observe_imgs(){
+                let wpp_images = document.querySelectorAll('img.wpp-lazyload'),
+                    wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                if ( wpp_images.length || wpp_widgets.length ) {
+                    if ( 'IntersectionObserver' in window ) {
+                        WPPImageObserver = new IntersectionObserver(function(entries, observer) {
+                            entries.forEach(function(entry) {
+                                if (entry.isIntersecting) {
+                                    let img = entry.target;
+                                    wpp_load_img(img);
+                                    WPPImageObserver.unobserve(img);
+                                }
+                            });
+                        });
+
+                        if ( wpp_images.length ) {
+                            wpp_images.forEach(function(image) {
+                                WPPImageObserver.observe(image);
+                            });
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var i = 0; i < wpp_widgets.length; i++) {
+                                let wpp_widget_images = wpp_widgets[i].querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widgets[i].shadowRoot ) {
+                                    wpp_widget_images = wpp_widgets[i].shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    wpp_widget_images.forEach(function(image) {
+                                        WPPImageObserver.observe(image);
+                                    });
+                                }
+                            }
+                        }
+                    } /** Fallback for older browsers */
+                    else {
+                        if ( wpp_images.length ) {
+                            for (var i = 0; i < wpp_images.length; i++) {
+                                wpp_load_img(wpp_images[i]);
+                                wpp_images[i].classList.remove('wpp-lazyloaded');
+                            }
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var j = 0; j < wpp_widgets.length; j++) {
+                                let wpp_widget = wpp_widgets[j],
+                                    wpp_widget_images = wpp_widget.querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widget.shadowRoot ) {
+                                    wpp_widget_images = wpp_widget.shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    for (var k = 0; k < wpp_widget_images.length; k++) {
+                                        wpp_load_img(wpp_widget_images[k]);
+                                        wpp_widget_images[k].classList.remove('wpp-lazyloaded');
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+                wpp_observe_imgs();
+
+                // When an ajaxified WPP widget loads,
+                // Lazy load its images
+                document.addEventListener('wpp-onload', function(){
+                    wpp_observe_imgs();
+                });
+            });
+        </script>
+        <script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.6'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_ulike_params = {"ajax_url":"https:\/\/news.mapcamera.com\/KASYAPA\/wp-admin\/admin-ajax.php","notifications":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/plugins/wp-ulike/assets/js/wp-ulike.min.js?ver=4.2.5'></script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/themes/kasyapa/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var favorites_data = {"ajaxurl":"https:\/\/news.mapcamera.com\/KASYAPA\/wp-admin\/admin-ajax.php","nonce":"bb02b2f51e","favorite":"<i class=\"sf-icon-star-empty\"><\/i>","favorited":"<i class=\"sf-icon-star-full\"><\/i>","includecount":"","indicate_loading":"","loading_text":"Loading","loading_image":"","loading_image_active":"","loading_image_preload":"","cache_enabled":"1","button_options":{"button_type":"custom","custom_colors":false,"box_shadow":false,"include_count":false,"default":{"background_default":false,"border_default":false,"text_default":false,"icon_default":false,"count_default":false},"active":{"background_active":false,"border_active":false,"text_active":false,"icon_active":false,"count_active":false}},"authentication_modal_content":"<p>Please login to add favorites.<\/p>\n<p><a href=\"#\" data-favorites-modal-close>Dismiss this notice<\/a><\/p>\n","authentication_redirect":"","dev_mode":"","logged_in":"","user_id":"0","authentication_redirect_url":"https:\/\/news.mapcamera.com\/KASYAPA\/wp-login.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-content/plugins/favorites/assets/js/favorites.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='https://news.mapcamera.com/KASYAPA/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script src="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/js/jquery.justifiedGallery.min.js"></script>
+<script src="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/js/slick.min.js"></script>
+<script src="https://news.mapcamera.com/stockshot2/wp-content/themes/stockshot/js/common.js"></script>
+<script>
+  $(window).on('load', function() {
+    $('#loading').fadeOut();
+  });
+   $(function(){
+    setTimeout('stopload()',2000);
+  });
+  function stopload(){
+    $('#loading').fadeOut();
+  }
+</script>
+
+<script>
+$(document).on('favorites-updated-single', function(event, button){
+  // Do stuff here as needed
+  var fav_count = 0;
+  for (var cnt=0;cnt<button.length;cnt++) {
+    if (button[cnt].site_id != 1 && button[cnt].posts !== undefined) {
+      fav_count += Object.keys(button[cnt].posts).length;
+    }
+  }
+
+  $('.favorite-count').text(fav_count);
+});
+$(document).on('favorites-user-favorites-loaded', function(event, favorites, intial_load){
+  // Do stuff here as needed
+  var fav_count = 0;
+  for (var cnt=0;cnt<favorites.length;cnt++) {
+    if (favorites[cnt].site_id != 1 && favorites[cnt].posts !== undefined) {
+      fav_count += Object.keys(favorites[cnt].posts).length;
+    }
+  }
+
+  $('.favorite-count').text(fav_count);
+});
+</script>
+</body>
+</html>

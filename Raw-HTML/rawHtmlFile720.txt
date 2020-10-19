@@ -1,0 +1,1516 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+		<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = 'https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script> var theChampSiteUrl = 'https://www.dailyupdatetalk.com', theChampVerified = 0, theChampEmailPopup = 0; </script>
+			<script> var theChampLoadingImgPath = 'https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/images/ajax_loader.gif'; var theChampAjaxUrl = 'https://www.dailyupdatetalk.com/wp-admin/admin-ajax.php'; var theChampRedirectionUrl = 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/'; var theChampRegRedirectionUrl = 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/'; </script>
+				<script> var theChampFBKey = '388241379011577', theChampSameTabLogin = '0', theChampVerified = 0; var theChampAjaxUrl = 'https://www.dailyupdatetalk.com/wp-admin/admin-ajax.php'; var theChampPopupTitle = ''; var theChampEmailPopup = 0; var theChampEmailAjaxUrl = 'https://www.dailyupdatetalk.com/wp-admin/admin-ajax.php'; var theChampEmailPopupTitle = ''; var theChampEmailPopupErrorMsg = ''; var theChampEmailPopupUniqueId = ''; var theChampEmailPopupVerifyMessage = ''; var theChampSteamAuthUrl = ""; var theChampCurrentPageUrl = 'https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F';  var heateorMSEnabled = 0, theChampTwitterAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Twitter&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLineAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Line&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLiveAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Live&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampFacebookAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Facebook&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampYahooAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Yahoo&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGoogleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Google&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampVkontakteAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Vkontakte&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampLinkedinAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Linkedin&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampInstagramAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Instagram&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampWordpressAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Wordpress&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampDribbbleAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Dribbble&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampGithubAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Github&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampSpotifyAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Spotify&super_socializer_redirect_to=" + theChampCurrentPageUrl, theChampKakaoAuthUrl = theChampSiteUrl + "?SuperSocializerAuth=Kakao&super_socializer_redirect_to=" + theChampCurrentPageUrl;</script>
+				<script> var theChampFBKey = '388241379011577', theChampFBLang = 'en_US', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
+						<script type="text/javascript">var theChampFBCommentUrl = 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/'; var theChampFBCommentColor = ''; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = ''; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
+						<script> var theChampSharingAjaxUrl = 'https://www.dailyupdatetalk.com/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=388241379011577&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/images/logo.png', theChampHorizontalSharingCountEnable = 1, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 1, heateorSsCopyLinkMessage = "Link copied.";
+		var heateorSsHorSharingShortUrl = "https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/";var heateorSsVerticalSharingShortUrl = "https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/";		</script>
+			<style type="text/css">.the_champ_horizontal_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	.the_champ_vertical_sharing .theChampSharing{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing .theChampSharing:hover{
+				border-color: transparent;
+	}
+	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}div.heateor_ss_mobile_footer{display:none;}@media screen and (max-width:783px){i.theChampTCBackground{background-color:white!important}div.the_champ_bottom_sharing{width:100%!important;left:0!important;}div.the_champ_bottom_sharing li{width:11.111111111111% !important;}div.the_champ_bottom_sharing .theChampSharing{width: 100% !important;}div.the_champ_bottom_sharing div.theChampTotalShareCount{font-size:1em!important;line-height:28px!important}div.the_champ_bottom_sharing div.theChampTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_ss_mobile_footer{display:block;height:40px;}.the_champ_bottom_sharing{padding:0!important;display:block!important;width: auto!important;bottom:-2px!important;top: auto!important;}.the_champ_bottom_sharing .the_champ_square_count{line-height: inherit;}.the_champ_bottom_sharing .theChampSharingArrow{display:none;}.the_champ_bottom_sharing .theChampTCBackground{margin-right: 1.1em !important}}</style>
+	<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="6wiB4hk5T46jOpMhuw1qndqhoZUs1xbQd0Atg7He7jg" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow - Daily Update Talk</title>
+	<meta name="description" content="Hollywood actresses and friends Kate Hudson and Gwyneth Paltrow recently got together to rate the reel kisses that they have shared with some of their" />
+	<meta name="robots" content="noindex, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow - Daily Update Talk" />
+	<meta property="og:description" content="Hollywood actresses and friends Kate Hudson and Gwyneth Paltrow recently got together to rate the reel kisses that they have shared with some of their" />
+	<meta property="og:url" content="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" />
+	<meta property="og:site_name" content="Daily Update Talk" />
+	<meta property="article:publisher" content="https://www.facebook.com/DDReterprices/?ref=page_internal" />
+	<meta property="article:author" content="https://www.facebook.com/DDReterprices/?ref=page_internal" />
+	<meta property="article:published_time" content="2020-10-15T14:18:12+00:00" />
+	<meta property="og:image" content="https://images.news18.com/ibnlive/uploads/2020/09/1601265928_robert-downey-jr.-and-gwyneth-paltrow.jpg" /><meta property="og:image" content="https://images.news18.com/ibnlive/uploads/2020/09/1601265928_robert-downey-jr.-and-gwyneth-paltrow.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://images.news18.com/ibnlive/uploads/2020/09/1601265928_robert-downey-jr.-and-gwyneth-paltrow.jpg" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.dailyupdatetalk.com/#website","url":"https://www.dailyupdatetalk.com/","name":"Daily Update Talk","description":"","publisher":{"@id":"https://www.dailyupdatetalk.com/#/schema/person/30a5c1c1280a8873d2297211595ded5f"},"potentialAction":[{"@type":"SearchAction","target":"https://www.dailyupdatetalk.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#primaryimage","inLanguage":"en-US","url":"https://i0.wp.com/images.news18.com/ibnlive/uploads/2020/09/1601265928_robert-downey-jr.-and-gwyneth-paltrow.jpg?ssl=1"},{"@type":"WebPage","@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#webpage","url":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/","name":"Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow - Daily Update Talk","isPartOf":{"@id":"https://www.dailyupdatetalk.com/#website"},"primaryImageOfPage":{"@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#primaryimage"},"datePublished":"2020-10-15T14:18:12+00:00","dateModified":"2020-10-15T14:18:12+00:00","description":"Hollywood actresses and friends Kate Hudson and Gwyneth Paltrow recently got together to rate the reel kisses that they have shared with some of their","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"]}]},{"@type":"Article","@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#article","isPartOf":{"@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#webpage"},"author":{"@id":"https://www.dailyupdatetalk.com/#/schema/person/30a5c1c1280a8873d2297211595ded5f"},"headline":"Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow","datePublished":"2020-10-15T14:18:12+00:00","dateModified":"2020-10-15T14:18:12+00:00","mainEntityOfPage":{"@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#webpage"},"commentCount":0,"publisher":{"@id":"https://www.dailyupdatetalk.com/#/schema/person/30a5c1c1280a8873d2297211595ded5f"},"image":{"@id":"https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#primaryimage"},"keywords":"Billy Crudup,Gwyneth Paltrow,hollywood,kate hudson,Kate Hudson and Gwyneth Paltrow,matthew mcconaughey,Robert Downey Jr","articleSection":"Entertainment","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/#respond"]}]},{"@type":["Person","Organization"],"@id":"https://www.dailyupdatetalk.com/#/schema/person/30a5c1c1280a8873d2297211595ded5f","name":"DIPENDAR KUMAR","image":{"@type":"ImageObject","@id":"https://www.dailyupdatetalk.com/#personlogo","inLanguage":"en-US","url":"https://i0.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/Capture-removebg-preview-2.png?fit=176%2C144&ssl=1","width":176,"height":144,"caption":"DIPENDAR KUMAR"},"logo":{"@id":"https://www.dailyupdatetalk.com/#personlogo"},"sameAs":["https://www.dailyupdatetalk.com","https://www.facebook.com/DDReterprices/?ref=page_internal"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel="alternate" type="application/rss+xml" title="Daily Update Talk &raquo; Feed" href="https://www.dailyupdatetalk.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Update Talk &raquo; Comments Feed" href="https://www.dailyupdatetalk.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Update Talk &raquo; Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow Comments Feed" href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dailyupdatetalk.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='fontawesome-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/library/fontawesome/css/all.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/library/animatecss/animate.min.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpness-grid-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/library/wpness-grid/wpness-grid.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_automatic_gallery_style-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/wp-automatic/css/wp-automatic.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/css/bootstrap.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/css/owl.carousel.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-default-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/css/owl.theme.default.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ample-magazine-blocks-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/css/blocks.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ample-magazine-style-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='ample-magazine-style-inline-css' type='text/css'>
+ { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
+
+                    
+                      a.at-cat-name-26{
+                    background: #20f74e!important;
+                    }
+                    
+                    
+                      a.at-cat-name-37{
+                    background: #007542!important;
+                    }
+                    
+                    
+                      a.at-cat-name-38{
+                    background: #b7175a!important;
+                    }
+                    
+                    
+                      a.at-cat-name-39{
+                    background: #e0c61d!important;
+                    }
+                    
+                    
+                      a.at-cat-name-48{
+                    background: #003b93!important;
+                    }
+                    
+                    
+                      a.at-cat-name-50{
+                    background: #b5123d!important;
+                    }
+                    
+                    
+                      a.at-cat-name-51{
+                    background: #ed1e7f!important;
+                    }
+                    
+                    
+                      a.at-cat-name-230{
+                    background: #eeee22!important;
+                    }
+                    
+                    
+                      a.at-cat-name-1384{
+                    background: #bec7d3!important;
+                    }
+                    
+                    
+                      a.at-cat-name-3185{
+                    background: #1ac6cc!important;
+                    }
+                    
+                    
+                      a.at-cat-name-3186{
+                    background: #bcc6c6!important;
+                    }
+                    
+                    
+                      a.at-cat-name-3244{
+                    background: #19c444!important;
+                    }
+                    
+                    
+                      a.at-cat-name-3340{
+                    background: #ffa3a3!important;
+                    }
+                    
+                    
+                      a.at-cat-name-4159{
+                    background: #f21fe0!important;
+                    }
+                    
+                    
+                      a.at-cat-name-4160{
+                    background: #c924c6!important;
+                    }
+                    .breaking-bar{
+         background-color: #0003d1;}
+    .footer{
+         background-color: #200bbf;}
+    .top-menu li a:hover, a.continue-link, .ample-block-style .post-title a:hover, .nav-links a, a#search{
+    
+           color: #00b54e!important;}
+    ul.navbar-nav >li:hover>a:before, ul.navbar-nav >li.active>a:before, .head-title, .head-title > span, .color-orange a.post-cat, .color-blue .head-title > span, .color-blue a.post-cat, nav.breadcrumb-trail.breadcrumbs {
+         border-color: #00b54e!important;}
+    .head-title > span:after{
+         border-color: #00b54e rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0)!important;}
+    .next-page .navigation li.active a,.next-page .navigation li a:hover
+    
+ {
+    
+           background-color: #00b54e;}
+           
+    .head-title,li.current-menu-item > a
+    
+   {
+    
+           border-bottom: 2px solid#00b54e!important;}
+           
+    .main-menu >.container > .row
+    
+   {
+    
+          border-top:  3px solid#00b54e!important;}
+           
+     
+    
+     {
+
+       border-top:  5px solid#00b54e!important;}
+           
+     .tagname:after,h3.breaking-title:after
+    
+     {
+
+       border-left-color:  #00b54e!important;}
+           
+    div#cwp-breadcrumbs :before, span.page-numbers.current,.tagname, .ample-post-format, .owl-carousel.owl-theme.breaking-slide .owl-nav > div, .breaking-title,  a.scrollup,  .nav>li>a:focus,.nav>li>a:hover,  .owl-theme.owl-carousel .owl-dots .owl-dot.active span, li.home-buttom.navbar-nav, .simple-marquee-container .marquee-sibling, .main-slider.owl-theme .owl-nav > div:hover, .color-red .owl-carousel.owl-theme .owl-nav > div:hover,.navbar-toggle, .comment-form .submit, h2.entry-title:before, .trending-title,.owl-carousel.owl-theme.trending-slide .owl-nav > div,  input.search-submit, .head-title > span, .color-orange a.post-cat, .color-blue .head-title > span, .color-blue a.post-cat, nav.breadcrumb-trail.breadcrumbs{
+           background: #00b54e!important;}
+           
+    .copyright {
+           background: #dd3b3b;}
+           
+    
+</style>
+<link rel='stylesheet' id='ample-magazine-media-responsive-css'  href='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/css/media-responsive.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/js/thickbox/thickbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/css/front.css?ver=7.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_sharing_default_svg-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/css/share-svg.css?ver=7.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lfb_f_css-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/lead-form-builder/css/f-style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/components/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-font-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-editor/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/nux/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/editor/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gutentor-css-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/dist/blocks.style.build.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/9.0.2/_inc/social-logos/social-logos.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.0.2/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' id='jetpack_related-posts-js-extra'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/related-posts/related-posts.min.js' id='jetpack_related-posts-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/wp-automatic/js/main-front.js?ver=5.5.1' id='wp_automatic_gallery-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/js/marquee.js?ver=4.5.0' id='marquee-js'></script>
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-179310064-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTNiMT', true);
+gtag('config', 'UA-179310064-1', {"anonymize_ip":true} );
+</script>
+<link rel="https://api.w.org/" href="https://www.dailyupdatetalk.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.dailyupdatetalk.com/wp-json/wp/v2/posts/11435" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dailyupdatetalk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dailyupdatetalk.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.dailyupdatetalk.com/?p=11435' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dailyupdatetalk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dailyupdatetalk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F&#038;format=xml" />
+<link rel="preconnect" href="https://cdnjs.cloudflare.com"><meta name="generator" content="Site Kit by Google 1.18.0" /><script data-ad-client="ca-pub-9368742016557545" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<meta name="msvalidate.01" content="2B8D2F864C2839C32BE9EAD197CC3F50" />
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d0ee84988f89beff175adc95e/4314c96fb1c84641576b213ed.js");</script>
+<meta name="p:domain_verify" content="3d0794738a2c1a7a0a1ae76cb88477a1"/><script type='text/javascript' data-cfasync='false'>var _mmunch = {'front': false, 'page': false, 'post': false, 'category': false, 'author': false, 'search': false, 'attachment': false, 'tag': false};_mmunch['post'] = true; _mmunch['postData'] = {"ID":11435,"post_name":"kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow","post_title":"Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow","post_type":"post","post_author":"1","post_status":"publish"}; _mmunch['postCategories'] = [{"term_id":48,"name":"Entertainment","slug":"entertainment","term_group":0,"term_taxonomy_id":48,"taxonomy":"category","description":"","parent":0,"count":630,"filter":"raw","cat_ID":48,"category_count":630,"category_description":"","cat_name":"Entertainment","category_nicename":"entertainment","category_parent":0}]; _mmunch['postTags'] = [{"term_id":12410,"name":"Billy Crudup","slug":"billy-crudup","term_group":0,"term_taxonomy_id":12410,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":12411,"name":"Gwyneth Paltrow","slug":"gwyneth-paltrow","term_group":0,"term_taxonomy_id":12411,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":2204,"name":"hollywood","slug":"hollywood","term_group":0,"term_taxonomy_id":2204,"taxonomy":"post_tag","description":"","parent":0,"count":8,"filter":"raw"},{"term_id":12412,"name":"kate hudson","slug":"kate-hudson","term_group":0,"term_taxonomy_id":12412,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":12413,"name":"Kate Hudson and Gwyneth Paltrow","slug":"kate-hudson-and-gwyneth-paltrow","term_group":0,"term_taxonomy_id":12413,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":12414,"name":"matthew mcconaughey","slug":"matthew-mcconaughey","term_group":0,"term_taxonomy_id":12414,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":12415,"name":"Robert Downey Jr","slug":"robert-downey-jr","term_group":0,"term_taxonomy_id":12415,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"}]; _mmunch['postAuthor'] = {"name":"DIPENDAR KUMAR","ID":1};</script><script data-cfasync="false" src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-plugin="mc_mm" data-mailmunch-site-id="841373" async></script><style type='text/css'>img#wpstats{display:none}</style><link rel="pingback" href="https://www.dailyupdatetalk.com/xmlrpc.php"><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f4e8ef; }
+</style>
+				<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({"google_ad_client":"ca-pub-9368742016557545","enable_page_level_ads":true,"tag_partner":"site_kit"});</script><link rel="icon" href="https://i2.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/cropped-27-removebg-preview-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/cropped-27-removebg-preview-1.png?fit=94%2C95&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i2.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/cropped-27-removebg-preview-1.png?fit=94%2C95&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/cropped-27-removebg-preview-1.png?fit=94%2C95&#038;ssl=1" />
+		<style type="text/css" id="wp-custom-css">
+			footer#footer .profile-wrapper p {
+    padding-right: 0;
+    padding-left: 0;
+    color: #fff;
+}
+
+.ample_advertisement_728x90 {
+    text-align: center;
+}		</style>
+		<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+</head>
+
+<body class="post-template-default single single-post postid-11435 single-format-standard custom-background wp-custom-logo at-sticky-sidebar gutentor-active  elementor-default elementor-kit-1132"itemscope itemtype="http://schema.org/WebPage" >
+    <div id="page" class="site">
+
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    <a href="#" class="scrollup"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+<div class="wraper">
+
+                        <!--breaking slide-->
+
+
+                    <div class="breaking-bar hidden-xs">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3 class="breaking-title">Breaking News</h3>
+                                    <div id="breaking-slide" class="owl-carousel owl-theme breaking-slide">
+                                        
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/sukanya-samriddhi-accounts-doubled-in-5-years-58266-crore-deposited-in-the-names-of-daughters-across-the-country-1016-crores-in-jharkhand-5-%e0%a4%b8%e0%a4%be%e0%a4%b2-%e0%a4%ae%e0%a5%87%e0%a4%82/">Sukanya Samriddhi accounts doubled in 5 years; 58,266 crore deposited in the names of daughters across the country; 1016 crores in Jharkhand | 5 साल में सुकन्या समृद्धि खाते दोगुने हुए, देशभर में बेटियों के नाम 58,266 करोड़ रुपए जमा; झारखंड में 1016 करोड़ रुपए</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/14000-arts-commerce-students-apply-for-test-this-year-india-news/">14,000 arts, commerce students apply for test this year | India News</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/4-held-on-way-to-hathras-face-another-sedition-case-india-news/">4 held on way to Hathras face another sedition case | India News</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/west-bengal-govt-employee-arrested-for-taking-bribes/">West Bengal Govt Employee Arrested For Taking Bribes</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/by-end-2023-go-from-delhi-to-katra-in-less-than-7-hours-india-news/">By end 2023, go from Delhi to Katra in less than 7 hours | India News</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/delhi-records-35-more-covid-19-deaths-toll-rises-to-5981-infection-tally-3-27-lakh/">Delhi Records 35 More COVID-19 Deaths, Toll Rises To 5,981; Infection Tally 3.27 Lakh</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/trump-struggling-to-retain-upper-midwest-in-his-win-column/">Trump Struggling To Retain Upper Midwest In His Win Column</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/india-buying-winter-clothing-from-us-europe-for-troops-in-ladakh-news-and-updates-%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4-%e0%a4%b2%e0%a4%a6%e0%a5%8d%e0%a4%a6%e0%a4%be%e0%a4%96-%e0%a4%ae%e0%a5%87/">India buying winter clothing from US, Europe for troops in Ladakh news and updates | भारत लद्दाख में तैनात सैनिकों के लिए अमेरिका और यूरोप से सर्दियों के कपड़े और वॉरफेयर किट खरीद रहा</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/hundreds-record-video-as-man-drowns-cops-valiant-rescue-goes-in-vain-india-news/">Hundreds record video as man drowns, cops’ valiant rescue goes in vain | India News</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+                                            <div class="item">
+                                                <div class="ample-content">
+                                                    <h2 class="post-title title-small">
+                                                        <a href="https://www.dailyupdatetalk.com/2020/10/18/man-arrested-fro-trying-to-rape-minor-girl/">Man Arrested Fro Trying To Rape Minor Girl</a>
+                                                    </h2>
+                                                </div><!-- Post content end -->
+                                            </div><!-- Item 1 end -->
+
+                                            
+
+                                    </div><!-- Carousel end -->
+                                </div><!-- Col end -->
+                            </div><!--/ Row end -->
+                        </div><!--/ Container end -->
+                    </div><!--/ breaking end -->
+
+                
+<div class="header-background">
+
+    <div id="header-bar" class="header-bar">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-8 col-sm-8 col-xs-12">
+                    <div class="current-date">
+                        <i class="fa fa-calendar-check-o"></i>Sunday, October 18, 2020                    </div>
+
+	                    <ul id="menu-primary" class="menu-design top-menu"><li id="menu-item-2096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home first-menu menu-item-2096"><a href="https://www.dailyupdatetalk.com">Home</a></li>
+<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2168"><a href="https://www.dailyupdatetalk.com/about-us/">About us</a></li>
+<li id="menu-item-2094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2094"><a href="https://www.dailyupdatetalk.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-2093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2093"><a href="https://www.dailyupdatetalk.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2204" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2204"><a href="https://www.dailyupdatetalk.com/2020/10/08/cookie-policy/">Cookie Policy</a></li>
+<li id="menu-item-3888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3888"><a href="https://www.dailyupdatetalk.com/corona-update-2/">Corona update</a></li>
+<li id="menu-item-3889" class="menu-item menu-item-type-post_type menu-item-object-page last-menu menu-item-3889"><a href="https://www.dailyupdatetalk.com/corona-update/">Corona map</a></li>
+</ul>
+                </div><!--/ Top bar left end -->
+<div class="col-md-4 col-sm-4 col-xs-12 top-social text-right">
+                    <ul class="menu-design">
+                        <li>
+                                                        <a target="_blank" class='fb'title="Facebook" href="#">
+                                <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
+                            </a>
+                                    <a target="_blank" class='tw' title="Twitter" href="#">
+                                <span class="social-icon"><i class="fab fa-twitter"></i></span>
+                            </a>
+                                <a target="_blank" class="goggle" title="Instagram" href="#">
+                                <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                            </a>
+            <a target="_blank" class='linkdin' title="Linkdin" href="#">
+                                <span class="social-icon"><i class="fab fa-linkedin-in"></i></span>
+                            </a>
+
+                            
+                        </li>
+                    </ul><!-- Ul end -->
+        
+
+</div><!--/ Top social col end -->
+            </div><!--/ Content row end -->
+        </div><!--/ Container end -->
+    </div><!--/ Topbar end -->
+
+    <!-- Header start -->
+    <header id="header" class="header"  style="background-image: url(https://www.dailyupdatetalk.com/wp-content/uploads/2020/10/images-2.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-3 col-md-3">
+
+                    <div class="site-branding">
+                                                    <a class="navbar-brand" href="https://www.dailyupdatetalk.com/">
+                                <a href="https://www.dailyupdatetalk.com/" class="custom-logo-link" rel="home"><img width="156" height="95" src="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?fit=156%2C95&amp;ssl=1" class="custom-logo jetpack-lazy-image" alt="Daily Update Talk" data-attachment-id="2788" data-permalink="https://www.dailyupdatetalk.com/27-removebg-preview/" data-orig-file="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?fit=156%2C95&amp;ssl=1" data-orig-size="156,95" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="27-removebg-preview" data-image-description="" data-medium-file="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?fit=156%2C95&amp;ssl=1" data-large-file="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?fit=156%2C95&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?w=156&amp;ssl=1 156w, https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?resize=100%2C61&amp;ssl=1 100w" data-lazy-sizes="(max-width: 156px) 100vw, 156px" data-lazy-src="https://i1.wp.com/www.dailyupdatetalk.com/wp-content/uploads/2020/10/27-removebg-preview.png?fit=156%2C95&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a>                            </a>
+                                                    <h1 class="site-title">
+                                <a href="https://www.dailyupdatetalk.com/" rel="home">Daily Update Talk</a>
+                            </h1>
+                                                </div><!-- .site-branding -->
+
+                </div><!-- logo col end -->
+
+                <div class="col-xs-12 col-sm-9 col-md-9 header-right">
+                    <div class="ad-banner pull-right">
+                        <section id="custom_html-17" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></section><section id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></section>                    </div>
+                </div><!-- header right end -->
+            </div><!-- Row end -->
+        </div><!-- Logo and banner area end -->
+    </header><!--/ Header end -->
+    <div id="menu-primary" class="main-menu clearfix">
+        <div class="container">
+            <div class="row">
+                <nav class="site-navigation navigation">
+                    <div class="site-nav-inner pull-left">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <i class="fas fa-align-justify"></i>
+                        </button>
+
+                        <div class="collapse navbar-collapse navbar-responsive-collapse" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+                            <li class="home-buttom navbar-nav"><a href="https://www.dailyupdatetalk.com/">
+                                    <i class="fa fa-home"></i> </a></li>
+	                        <ul id="menu-main" class="nav navbar-nav"><li id="menu-item-2070" class="menu-item menu-item-type-taxonomy menu-item-object-category first-menu menu-item-2070"><a href="https://www.dailyupdatetalk.com/category/world/">world</a></li>
+<li id="menu-item-2071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2071"><a href="https://www.dailyupdatetalk.com/category/indian/">indian</a>
+<ul class="sub-menu">
+	<li id="menu-item-2072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2072"><a href="https://www.dailyupdatetalk.com/category/political/">political</a></li>
+	<li id="menu-item-11300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11300"><a href="https://www.dailyupdatetalk.com/category/allahabad/">Allahabad</a></li>
+	<li id="menu-item-11302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11302"><a href="https://www.dailyupdatetalk.com/category/chandigarh/">Chandigarh</a></li>
+	<li id="menu-item-11303" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11303"><a href="https://www.dailyupdatetalk.com/category/delhi/">Delhi</a></li>
+	<li id="menu-item-11304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11304"><a href="https://www.dailyupdatetalk.com/category/goa/">Goa</a></li>
+	<li id="menu-item-11305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11305"><a href="https://www.dailyupdatetalk.com/category/gurgaon/">Gurgaon</a></li>
+	<li id="menu-item-11308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11308"><a href="https://www.dailyupdatetalk.com/category/kolkata/">Kolkata</a></li>
+	<li id="menu-item-11309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11309"><a href="https://www.dailyupdatetalk.com/category/mumbai/">Mumbai</a></li>
+	<li id="menu-item-11310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11310"><a href="https://www.dailyupdatetalk.com/category/noida/">Noida</a></li>
+	<li id="menu-item-11316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11316"><a href="https://www.dailyupdatetalk.com/category/varanasi/">Varanasi</a></li>
+</ul>
+</li>
+<li id="menu-item-2081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2081"><a href="https://www.dailyupdatetalk.com/category/feature/">Feature</a>
+<ul class="sub-menu">
+	<li id="menu-item-2073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2073"><a href="https://www.dailyupdatetalk.com/category/sports/">sports</a></li>
+	<li id="menu-item-2074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2074"><a href="https://www.dailyupdatetalk.com/category/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-2075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2075"><a href="https://www.dailyupdatetalk.com/category/technology/">Technology</a></li>
+	<li id="menu-item-2076" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2076"><a href="https://www.dailyupdatetalk.com/category/entertainment/">Entertainment</a></li>
+</ul>
+</li>
+<li id="menu-item-2077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2077"><a href="https://www.dailyupdatetalk.com/category/health/">health</a>
+<ul class="sub-menu">
+	<li id="menu-item-2674" class="menu-item menu-item-type-post_type menu-item-object-wp_automatic menu-item-2674"><a href="https://www.dailyupdatetalk.com/wp_automatic/health-and-fitness/">Health and fitness</a></li>
+</ul>
+</li>
+<li id="menu-item-3492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3492"><a href="https://www.dailyupdatetalk.com/category/shop-corner/">Shop Corner</a>
+<ul class="sub-menu">
+	<li id="menu-item-2079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2079"><a href="https://www.dailyupdatetalk.com/category/home-kitchen-store/">Home &amp; kitchen store</a></li>
+	<li id="menu-item-3495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3495"><a href="https://www.dailyupdatetalk.com/category/electronics-store/">Electronics Store</a></li>
+	<li id="menu-item-3525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3525"><a href="https://www.dailyupdatetalk.com/category/clothing-accessories/">Clothing &amp; Accessories</a></li>
+</ul>
+</li>
+<li id="menu-item-2774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2774"><a href="https://www.dailyupdatetalk.com/category/business-idea/">Business update</a></li>
+<li id="menu-item-9953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9953"><a href="https://www.dailyupdatetalk.com/category/tour-travel/">Tour &amp; travel</a></li>
+<li id="menu-item-2078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2078"><a href="https://www.dailyupdatetalk.com/category/jobs-details/">Employment &amp; Jobs</a>
+<ul class="sub-menu">
+	<li id="menu-item-2683" class="menu-item menu-item-type-taxonomy menu-item-object-category last-menu menu-item-2683"><a href="https://www.dailyupdatetalk.com/category/international-jobs/">International Jobs</a></li>
+</ul>
+</li>
+</ul>
+                        </div><!--/ Collapse end -->
+
+                    </div><!-- Site Navbar inner end -->
+                </nav><!--/ Navigation end -->
+
+                <div class="nav-search">
+                    <a href="#" id="search"><i class="fa fa-search"></i></a>
+                </div><!-- Search end -->
+
+                <div class="search-block" style="display: none;">
+                    <form role="search" method="get" class="search-form" action="https://www.dailyupdatetalk.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                    <a href="#" class="search-close">&times;</a>
+                </div><!-- Site search end -->
+
+            </div><!--/ Row end -->
+        </div><!--/ Container end -->
+
+    </div><!-- Menu wrapper end -->
+
+               </div>
+            <div class="ample-40"></div>
+    
+
+
+
+
+		<div class="page-title">
+			<div class="container">
+
+
+            <div class='breadcrumbs'><div id='cwp-breadcrumbs' class='cwp-breadcrumbs'><!-- Breadcrumb NavXT 6.5.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Home." href="https://www.dailyupdatetalk.com" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to the Entertainment category archives." href="https://www.dailyupdatetalk.com/category/entertainment/" class="taxonomy category" ><span property="name">Entertainment</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name" class="post post-post current-item">Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow</span><meta property="url" content="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"><meta property="position" content="3"></span></div></div>        </div>
+        </div>
+        <div id="content">
+		<section class="block-wrapper">
+			<div class="container">
+				<div class="row">
+					
+					<div id="primary" class="col-lg-8 col-md-12">
+
+						<main id="main" class="site-main">
+
+
+							<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<h3 id="496679"><a href="https://bigrock-in.sjv.io/c/2319540/496679/5632">.COM @ Rs.699 For 1 Year</a></h3>
+<img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/496679/5632" style="position:absolute;visibility:hidden;" border="0" /></div>
+
+<article id="post-11435" class="post-11435 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment tag-billy-crudup tag-gwyneth-paltrow tag-hollywood tag-kate-hudson tag-kate-hudson-and-gwyneth-paltrow tag-matthew-mcconaughey tag-robert-downey-jr">
+
+
+
+
+
+    <div class="single-post">
+                <div class="post-media post-featured-image">
+                            <a href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"><img fifu-featured="1" class="img-responsive" src="https://i0.wp.com/images.news18.com/ibnlive/uploads/2020/09/1601265928_robert-downey-jr.-and-gwyneth-paltrow.jpg?w=1024&#038;resize=1024%2C&#038;ssl=1" alt="" title=""/></a>
+
+                    </div>
+        
+        <div class="post-title-area">
+
+            <h2 class="post-title">
+                <h2 class="entry-title">Kissing Robert Downey Jr. in Marvel Movies Felt Literally Like Kissing My Brother: Gwyneth Paltrow</h2>            </h2>
+            <div class="post-meta">
+                                <div class="entry-meta">
+                    <span class="byline"> <span class="author vcard has-avatar"><a class="url fn n" href="https://www.dailyupdatetalk.com/author/canteenhub/"><img alt src="https://secure.gravatar.com/avatar/6a6b39233126678554e5ee1d7e723829?s=60&#038;d=mm&#038;r=g" class="avatar avatar-60 photo jetpack-lazy-image" height="60" width="60" loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/6a6b39233126678554e5ee1d7e723829?s=120&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/6a6b39233126678554e5ee1d7e723829?s=60&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/6a6b39233126678554e5ee1d7e723829?s=60&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6a6b39233126678554e5ee1d7e723829?s=120&#038;d=mm&#038;r=g 2x' class='avatar avatar-60 photo' height='60' width='60' loading='lazy'/></noscript><span class='author-name'>DIPENDAR KUMAR</span></a></span></span><span class="posted-on"><a href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" rel="bookmark"><i class="fa fa-calendar" aria-hidden="true"></i>
+<time class="entry-date published updated" datetime="2020-10-15T19:48:12+05:30">October 15, 2020</time></a></span>                </div><!-- .entry-meta -->
+                            </div>
+        </div><!-- Post title end -->
+
+        <div class="ample-content-area">
+            <div class="entry-content">
+                <div style='clear: both'></div><div  class='the_champ_sharing_container the_champ_horizontal_sharing' super-socializer-data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"><div class='the_champ_sharing_title' style="font-weight:bold" >Spread the love</div><ul class="the_champ_sharing_ul"><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Facebook" Title="Facebook" class="theChampSharing theChampFacebookBackground" onclick='theChampPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;border-radius:999px;" class="theChampSharingSvg theChampFacebookSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Twitter" Title="Twitter" class="theChampSharing theChampTwitterBackground" onclick='theChampPopup("http://twitter.com/intent/tweet?text=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow&url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;border-radius:999px;" class="theChampSharingSvg theChampTwitterSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Linkedin" Title="Linkedin" class="theChampSharing theChampLinkedinBackground" onclick='theChampPopup("http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F&title=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow")'><ss style="display:block;border-radius:999px;" class="theChampSharingSvg theChampLinkedinSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Pinterest" Title="Pinterest" class="theChampSharing theChampPinterestBackground" onclick="javascript:void((function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><ss style="display:block;border-radius:999px;" class="theChampSharingSvg theChampPinterestSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Reddit" Title="Reddit" class="theChampSharing theChampRedditBackground" onclick='theChampPopup("http://reddit.com/submit?url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F&title=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow")'><ss style="display:block;border-radius:999px;" class="theChampSharingSvg theChampRedditSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Whatsapp" Title="Whatsapp" class="theChampSharing theChampWhatsappBackground"><a href="https://web.whatsapp.com/send?text=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F" rel="nofollow noopener" target="_blank"><ss style="display:block" class="theChampSharingSvg theChampWhatsappSvg"></ss></a></i></li><li style="padding:7.35px 0 !important" class="the_champ_facebook_share"><div class="fb-share-button" data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-layout="button"></div></li><li style="padding:7.35px 0 !important" class="the_champ_facebook_like"><div class="fb-like" data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div></li><li style="padding:7.35px 0 !important" class="the_champ_twitter_tweet" heateor-ss-data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-counturl="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-text="Kissing+Robert+Downey+Jr.+in+Marvel+Movies+Felt+Literally+Like+Kissing+My+Brother:+Gwyneth+Paltrow" data-via="" data-lang="en_US" >Tweet</a><script>!function(d,s,id) {var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if (!d.getElementById(id)) {js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs");</script></li><li style="padding:7.35px 0!important;margin-top:-2px!important;" class="the_champ_linkedin_share"><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-url="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-counter="right"></script></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;" title="More" alt="More" class="theChampSharing theChampMoreBackground" onclick="theChampMoreSharingPopup(this, 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/', 'Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow', '')" ><ss style="display:block" class="theChampSharingSvg theChampMoreSvg"></ss></i></li><li class="theChampSharingRound"><i style="width:35px;height:35px;border-radius:999px;margin-left:9px !important;" title="Total Shares" alt="Total Shares" class="theChampSharing theChampTCBackground"></i></li></ul><div style="clear:both"></div></div><div style='clear: both'></div><div class='mailmunch-forms-before-post' style='display: none !important;'></div><p></p>
+<div>
+<p id="0">Hollywood actresses and friends Kate Hudson and Gwyneth Paltrow recently got together to rate the reel kisses that they have shared with some of their co-stars and the results are enlightening, to say the least.</p>
+<p id="1">The conversation went through floppy kissers to actors who gave away a brotherly feel to actual kissers. “Honestly, I feel like I kind of haven’t had the best kissers,” Kate told Gwyneth on the latter’s <a href="https://goop.com/the-goop-podcast/gwyneth-paltrow-x-kate-hudson-betting-on-yourself/" target="_blank" rel="nofollow noopener noreferrer">Goop podcast</a>.</p>
+<div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
+<h3 id="496679"><a href="https://bigrock-in.sjv.io/c/2319540/496679/5632">.COM @ Rs.699 For 1 Year</a></h3>
+<img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/496679/5632" style="position:absolute;visibility:hidden;" border="0" data-lazy-src="https://bigrock-in.sjv.io/i/2319540/496679/5632?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/496679/5632" style="position:absolute;visibility:hidden;" border="0" /></noscript></div>
+<figure class="Article_article_mad__1sOil" id="1"/>
+<div class="youTubeVideoPlayer" data-youtube="true" data-youtube-id="EGwdJI1Qa3w" data-youtube-title="Showsha Recommends: Superhero Movies On OTT" data-youtube-category="Entertainment"></div>
+<p id="3">The 41-year-old actress confessed that she “should have had better ones”, before mentioning How to Lose a Guy in 10 Days co-star and old friend Matthew McConaughey in the chat. Surprisingly, McConaughey was not that pleasant while filming those scenic onscreen kisses. “Every time I kiss McConaughey, I mean, it’s like there’s just something happening and there’s like snot or wind,” Kate said laughing out loud thereafter.</p><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- my new site -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9368742016557545"
+     data-ad-slot="8983901599"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<figure class="Article_article_mad__1sOil" id="3"/>
+<p id="4">Then she recalled a scene towards the end of their film Fool’s Gold which shows the two actors kissing on a plane about to land on the ocean. Kate remembered “snot [being] all over” McConaughey’s face while they shared an intense kiss.</p><div class='mailmunch-forms-in-post-middle' style='display: none !important;'></div>
+<p id="5">Gwyneth then asked her guest if kissing McConaughey felt like kissing a brother. To give context, Gwyneth then shared that kissing Robert Downey Jr. did feel like kissing a sibling in the Marvel movies.</p>
+<figure class="Article_article_mad__1sOil" id="5"/>
+<p id="6">“With Robert, like, when I kissed him, I was like, ‘You’ve got to be kidding me’,” she said recalling how it felt “literally like” kissing her brother. Even though Tony Stark and Pepper Pots are one of the most widely loved on-screen couples, Gwyneth really had to push forward to make the kissing scenes look genuine.</p>
+<p id="7">However, not all the reel kissers were disappointing for Kate Hudson. Going ahead on the podcast, she said Cameron Crowe directed Almost Famous co-star Billy Crudup was in fact a “good kisser”. Sadly, the kiss they shared got cut out of the movie and the world could not witness the action.</p>
+</div>
+<p><a href="https://www.news18.com/news/movies/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow-2967770.html">Source link </a></p>
+<div class='mailmunch-forms-after-post' style='display: none !important;'></div><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-11435" class="share-twitter sd-button share-icon" href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-11435" class="share-facebook sd-button share-icon" href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-183769762-11435-5f8ba0c7d31d4' data-src='https://widgets.wp.com/likes/#blog_id=183769762&amp;post_id=11435&amp;origin=www.dailyupdatetalk.com&amp;obj_id=183769762-11435-5f8ba0c7d31d4' data-name='like-post-frame-183769762-11435-5f8ba0c7d31d4'><h3 class="sd-title">Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	
+</div><div class='the_champ_sharing_container the_champ_vertical_sharing the_champ_hide_sharing the_champ_bottom_sharing' style='width:44px;left: -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;' super-socializer-data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/"><ul class="the_champ_sharing_ul"><li class=""><i style="width:40px;height:40px;margin:0;" alt="Facebook" Title="Facebook" class="theChampSharing theChampFacebookBackground" onclick='theChampPopup("https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;" class="theChampSharingSvg theChampFacebookSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Twitter" Title="Twitter" class="theChampSharing theChampTwitterBackground" onclick='theChampPopup("http://twitter.com/intent/tweet?text=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow&url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;" class="theChampSharingSvg theChampTwitterSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Linkedin" Title="Linkedin" class="theChampSharing theChampLinkedinBackground" onclick='theChampPopup("http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F&title=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow")'><ss style="display:block;" class="theChampSharingSvg theChampLinkedinSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Pinterest" Title="Pinterest" class="theChampSharing theChampPinterestBackground" onclick="javascript:void((function() {var e=document.createElement('script' );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8' );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());"><ss style="display:block;" class="theChampSharingSvg theChampPinterestSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Reddit" Title="Reddit" class="theChampSharing theChampRedditBackground" onclick='theChampPopup("http://reddit.com/submit?url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F&title=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow")'><ss style="display:block;" class="theChampSharingSvg theChampRedditSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="MeWe" Title="MeWe" class="theChampSharing theChampMeWeBackground" onclick='theChampPopup("https://mewe.com/share?link=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;" class="theChampSharingSvg theChampMeWeSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Mix" Title="Mix" class="theChampSharing theChampMixBackground" onclick='theChampPopup("https://mix.com/mixit?url=https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F")'><ss style="display:block;" class="theChampSharingSvg theChampMixSvg"></ss></i></li><li class=""><i style="width:40px;height:40px;margin:0;" alt="Whatsapp" Title="Whatsapp" class="theChampSharing theChampWhatsappBackground"><a href="https://web.whatsapp.com/send?text=Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow https%3A%2F%2Fwww.dailyupdatetalk.com%2F2020%2F10%2F15%2Fkissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow%2F" rel="nofollow noopener" target="_blank"><ss style="display:block" class="theChampSharingSvg theChampWhatsappSvg"></ss></a></i></li><li class=""><i style="width:40px;height:40px;margin:0;" title="More" alt="More" class="theChampSharing theChampMoreBackground" onclick="theChampMoreSharingPopup(this, 'https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/', 'Kissing%20Robert%20Downey%20Jr.%20in%20Marvel%20Movies%20Felt%20Literally%20Like%20Kissing%20My%20Brother%3A%20Gwyneth%20Paltrow', '')" ><ss style="display:block" class="theChampSharingSvg theChampMoreSvg"></ss></i></li></ul><div style="clear:both"></div></div><!-- AI CONTENT END 1 -->
+            </div><!-- Share items end -->
+
+            <span class="cat-links"><a class="at-cat-name-48" href="https://www.dailyupdatetalk.com/category/entertainment/"  rel="category tag">Entertainment</a> 
+        </div><!-- ample-content end -->
+    </div><!-- Single post end -->
+    
+
+</article><!-- #post-11435 -->
+
+
+
+
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.dailyupdatetalk.com/2020/10/15/meliora-cleaning-products-gentle-home-cleaning-scrub-scouring-cleanser-for-kitchen-tube-and-tile-12-oz-peppermint-tea-tree/" rel="prev">Meliora Cleaning Products Gentle Home Cleaning Scrub &#8211; Scouring Cleanser for Kitchen, Tube, and Tile, 12 oz. (Peppermint Tea Tree)</a></div><div class="nav-next"><a href="https://www.dailyupdatetalk.com/2020/10/15/bhanu-athaiya-indias-first-oscar-winner-passes-away-india-news/" rel="next">Bhanu Athaiya, India’s first Oscar winner, passes away | India News</a></div></div>
+	</nav>
+	<div id="lfc_comments" class="comments-area" align="center">
+			</div>
+
+
+						</main><!-- #main -->
+
+					</div><!-- Content Col end -->
+
+					<div id="secondary" class="col-lg-4 col-md-12">
+						<div class="sidebar sidebar-right">
+                            
+<aside id="secondary" class="widget-area">
+	<section id="custom_html-24" class="widget_text widget widget_custom_html"><h3 class="head-title"><span>DONATION WE</span></h3><div class="textwidget custom-html-widget"><div class='pm-button'><a href='https://www.payumoney.com/paybypayumoney/#/A24EE6F397FB0D953052AF5B1E0D11F1'><img src="https://i0.wp.com/www.payumoney.com/media/images/payby_payumoney/new_buttons/22.png?w=640&#038;ssl=1" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.payumoney.com/media/images/payby_payumoney/new_buttons/22.png?w=640&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src='https://i0.wp.com/www.payumoney.com/media/images/payby_payumoney/new_buttons/22.png?w=640&#038;ssl=1' data-recalc-dims="1" /></noscript></a></div> </div></section><section id="custom_html-26" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=dailyupdatetalk/PVzV', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="dailyupdatetalk/PVzV" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank" rel="noopener noreferrer">FeedBurner</a></p></form></div></section><section id="custom_html-21" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></section><section id="custom_html-22" class="widget_text widget widget_custom_html"><h3 class="head-title"><span>Non Stop English 40 Songs Playlist 2020</span></h3><div class="textwidget custom-html-widget"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5Yu_wePKsRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></section><section id="ample-magazine-advertisement-widget-9" class="widget widget_ample-magazine-advertisement-widget">
+
+                <div class="ads-profile">
+
+                    <h3 class="head-title"><span>This web site use hosting</span></h3>
+                    <div class="profile-wrapper ads-section">
+
+                            <figure class="ads">
+                                <a href="https://bookyourhost.com/clientarea/aff.php?aff=5" target="_blank"><img src="https://www.dailyupdatetalk.com/wp-content/uploads/2020/10/25.png">
+                                </a>
+                            </figure>
+
+                    </div>
+                    <!-- .profile-wrapper -->
+
+                </div><!-- .ads-profile -->
+
+
+
+                </section><section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.dailyupdatetalk.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section>
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="head-title"><span>Recent Posts</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/my-manic-migraine-cb-blue-heron-health-news/">My Manic Migraine cb | Blue Heron Health News</a>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/weekly-discriber-which-apps-and-technology-were-updated-11-to-17-october-2020-%e0%a4%98%e0%a4%b0-%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a5%87-%e0%a4%b9%e0%a5%8b%e0%a4%82%e0%a4%97%e0%a5%87-%e0%a4%ae/">Weekly Discriber: Which Apps and Technology Were Updated 11 to 17 October, 2020 | घर बैठे होंगे मां वैष्णो देवी के लाइव दर्शन, तो वॉट्सऐप की प्रॉब्लम दूर करने कंपनी खुद करेगी कॉन्टैक्ट; पढ़ें इस वीक के टेक-ऐप से जुड़े सभी अपडेट</a>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/cesarean-born-children-have-a-weakened-immune-system-because-they-do-not-get-bacteria-from-the-intestines-of-the-mother-%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2-%e0%a4%a1%e0%a4%bf/">Cesarean-born children have a weakened immune system because they do not get bacteria from the intestines of the mother. | नॉर्मल डिलीवरी के मुकाबले सीजेरियन से जन्मे बच्चों में रोगों से लड़ने की क्षमता कमजोर क्योंकि उन्हें मां की आंत के अच्छे बैक्टीरिया नहीं मिल पाते</a>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/mpow-h19-ipo-active-noise-cancelling-headphones-bluetooth-5-0-headphones-with-cvc8-0-mic-deep-bass-quick-charge-35h-playtime-wireless-wired-headset-for-kids-adults-tv-online-class-home-office/">Mpow H19 IPO Active Noise Cancelling Headphones, Bluetooth 5.0 Headphones with CVC8.0 Mic, Deep Bass, Quick Charge 35H Playtime Wireless/Wired Headset for Kids, Adults, TV, Online Class, Home Office</a>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/ipl-2020-uae-dhoni-revels-bravo-was-not-fit-to-ball-final-over/">IPL 2020 UAE, Dhoni Revels Bravo Was Not Fit To Ball Final Over</a>
+									</li>
+					</ul>
+
+		</section><section id="categories-2" class="widget widget_categories"><h3 class="head-title"><span>Categories</span></h3><form action="https://www.dailyupdatetalk.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="12292">Allahabad&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="3340">Business Idea&nbsp;&nbsp;(389)</option>
+	<option class="level-0" value="12296">Chandigarh&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="4159">Clothing &amp; Accessories&nbsp;&nbsp;(132)</option>
+	<option class="level-0" value="12306">Delhi&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="3186">Electronics Store&nbsp;&nbsp;(255)</option>
+	<option class="level-0" value="49">Employment &amp; Jobs&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="48">Entertainment&nbsp;&nbsp;(630)</option>
+	<option class="level-0" value="12295">Goa&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="12293">Gurgaon&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="50">health&nbsp;&nbsp;(465)</option>
+	<option class="level-0" value="1384">Home &amp; kitchen store&nbsp;&nbsp;(253)</option>
+	<option class="level-0" value="51">indian&nbsp;&nbsp;(634)</option>
+	<option class="level-0" value="3244">International Jobs&nbsp;&nbsp;(200)</option>
+	<option class="level-0" value="12294">Kolkata&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="26">Lifestyle&nbsp;&nbsp;(420)</option>
+	<option class="level-0" value="12291">Mumbai&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="12290">Noida&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="39">political&nbsp;&nbsp;(427)</option>
+	<option class="level-0" value="37">sports&nbsp;&nbsp;(653)</option>
+	<option class="level-0" value="38">Technology&nbsp;&nbsp;(615)</option>
+	<option class="level-0" value="10916">Tour &amp; travel&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="12305">Varanasi&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="7998">Video News&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="27">world&nbsp;&nbsp;(526)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</section><section id="custom_html-12" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.bluehost.com/track/dailyupdate86/ROCKET" target="_blank" rel="noopener noreferrer"> <img border="0" src="https://i2.wp.com/bluehost-cdn.com/media/partner/images/dailyupdate86/430x288/430x288BW.png?w=640&#038;ssl=1" data-recalc-dims="1" data-lazy-src="https://i2.wp.com/bluehost-cdn.com/media/partner/images/dailyupdate86/430x288/430x288BW.png?w=640&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img border="0" src="https://i2.wp.com/bluehost-cdn.com/media/partner/images/dailyupdate86/430x288/430x288BW.png?w=640&#038;ssl=1" data-recalc-dims="1"></noscript> </a>
+<h3 id="523385"><a href="https://bigrock-in.sjv.io/c/2319540/523385/5632">Flat 30% Off On WordPress Hosting</a></h3>
+<img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/523385/5632" style="position:absolute;visibility:hidden;" border="0" data-lazy-src="https://bigrock-in.sjv.io/i/2319540/523385/5632?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/523385/5632" style="position:absolute;visibility:hidden;" border="0" /></noscript>
+<h3 id="496678"><a href="https://bigrock-in.sjv.io/c/2319540/496678/5632">.COM @ Rs.149 for 1st year</a></h3>
+<img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/496678/5632" style="position:absolute;visibility:hidden;" border="0" data-lazy-src="https://bigrock-in.sjv.io/i/2319540/496678/5632?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/496678/5632" style="position:absolute;visibility:hidden;" border="0" /></noscript></div></section></aside><!-- #secondary -->
+
+						</div><!-- Sidebar right end -->
+					</div><!-- Sidebar Col end -->
+
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</section><!-- First block end -->
+	</div>
+
+
+
+
+
+
+	<footer id="footer" class="footer" itemscope itemtype="http://schema.org/WPFooter">
+
+
+		<div class="footer-main">
+			<div class="container">
+				<div class="row">
+												<div class="col-sm-4 footer-widget">
+
+								<section id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://bigrock-in.sjv.io/c/2319540/431560/5632" target="_top" id="431560" rel="noopener noreferrer"><img src="//a.impactradius-go.com/display-ad/5632-431560" border="0" alt width="300" height="250" data-lazy-src="//a.impactradius-go.com/display-ad/5632-431560?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="//a.impactradius-go.com/display-ad/5632-431560" border="0" alt="" width="300" height="250"/></noscript></a><img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/431560/5632" style="position:absolute;visibility:hidden;" border="0" data-lazy-src="https://bigrock-in.sjv.io/i/2319540/431560/5632?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img height="0" width="0" src="https://bigrock-in.sjv.io/i/2319540/431560/5632" style="position:absolute;visibility:hidden;" border="0" /></noscript></div></section>
+							</div><!-- Col end -->
+													<div class="col-sm-4 footer-widget">
+
+								<section id="custom_html-11" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></section><section id="custom_html-15" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></section>
+							</div><!-- Col end -->
+													<div class="col-sm-4 footer-widget">
+
+								
+		<section id="recent-posts-3" class="widget widget_recent_entries">
+		<h3 class="head-title"><span>Recent Post</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/my-manic-migraine-cb-blue-heron-health-news/">My Manic Migraine cb | Blue Heron Health News</a>
+											<span class="post-date">October 18, 2020</span>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/weekly-discriber-which-apps-and-technology-were-updated-11-to-17-october-2020-%e0%a4%98%e0%a4%b0-%e0%a4%ac%e0%a5%88%e0%a4%a0%e0%a5%87-%e0%a4%b9%e0%a5%8b%e0%a4%82%e0%a4%97%e0%a5%87-%e0%a4%ae/">Weekly Discriber: Which Apps and Technology Were Updated 11 to 17 October, 2020 | घर बैठे होंगे मां वैष्णो देवी के लाइव दर्शन, तो वॉट्सऐप की प्रॉब्लम दूर करने कंपनी खुद करेगी कॉन्टैक्ट; पढ़ें इस वीक के टेक-ऐप से जुड़े सभी अपडेट</a>
+											<span class="post-date">October 18, 2020</span>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/cesarean-born-children-have-a-weakened-immune-system-because-they-do-not-get-bacteria-from-the-intestines-of-the-mother-%e0%a4%a8%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2-%e0%a4%a1%e0%a4%bf/">Cesarean-born children have a weakened immune system because they do not get bacteria from the intestines of the mother. | नॉर्मल डिलीवरी के मुकाबले सीजेरियन से जन्मे बच्चों में रोगों से लड़ने की क्षमता कमजोर क्योंकि उन्हें मां की आंत के अच्छे बैक्टीरिया नहीं मिल पाते</a>
+											<span class="post-date">October 18, 2020</span>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/mpow-h19-ipo-active-noise-cancelling-headphones-bluetooth-5-0-headphones-with-cvc8-0-mic-deep-bass-quick-charge-35h-playtime-wireless-wired-headset-for-kids-adults-tv-online-class-home-office/">Mpow H19 IPO Active Noise Cancelling Headphones, Bluetooth 5.0 Headphones with CVC8.0 Mic, Deep Bass, Quick Charge 35H Playtime Wireless/Wired Headset for Kids, Adults, TV, Online Class, Home Office</a>
+											<span class="post-date">October 18, 2020</span>
+									</li>
+											<li>
+					<a href="https://www.dailyupdatetalk.com/2020/10/18/ipl-2020-uae-dhoni-revels-bravo-was-not-fit-to-ball-final-over/">IPL 2020 UAE, Dhoni Revels Bravo Was Not Fit To Ball Final Over</a>
+											<span class="post-date">October 18, 2020</span>
+									</li>
+					</ul>
+
+		</section>
+							</div><!-- Col end -->
+						
+
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</div><!-- Footer main end -->
+
+
+	</footer><!-- Footer end -->
+	
+<div class="copyright">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-sm-12 col-md-6">
+				<div class="copyright-info">
+					<div class="site-info">
+												<p>Copyright© 2020, dailyupdatetalk.com |
+							<a href="https://www.amplethemes.com/"
+							> Design &amp; develop by AmpleThemes </a>	</p>
+
+					</div><!-- .site-info -->
+
+				</div>
+			</div>
+
+			<div class="col-sm-12 col-md-6">
+				<div class="footer-menu">
+
+					
+				</div>
+			</div>
+		</div><!-- Row end -->
+
+
+
+	</div><!-- Container end -->
+</div><!-- Copyright end -->
+
+</div>
+
+</div>
+</div>
+<!-- COVID-19 Tracker - Version:- 1.7.4 By Cool Plugins (CoolPlugins.net) -->
+        <div id="cvct-ticker-3879" class="cvct-ticker cvct-ticker-style-1 cvct-ticker-footer" data-ticker-style="style-1" data-ticker-position-cls="cvct-ticker-bottom">
+            <div class="cvct-ticker-heading">Live Updates COVID-19 CASES</div>             
+            <ul data-tickerspeed="35000" id="cvct-ticker-widget-3879">
+                <li class="cvct-tooltip usa" data-tooltip-content="#tooltip_content_usa">
+                    <img src="https://disease.sh/assets/img/flags/us.png">
+                    <span class="ticker-country">USA</span>
+                    <span class="ticker-cases">8,342,665</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_usa">
+                            <div class="tooltip-title">USA</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 8,342,665</div>
+                            <div class="tooltip-cases"><b>Active:</b> 2,686,191</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 5,432,192</div>
+                            <div class="tooltip-cases"><b>Death:</b> 224,282</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip india" data-tooltip-content="#tooltip_content_india">
+                    <img src="https://disease.sh/assets/img/flags/in.png">
+                    <span class="ticker-country">India</span>
+                    <span class="ticker-cases">7,492,727</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_india">
+                            <div class="tooltip-title">India</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 7,492,727</div>
+                            <div class="tooltip-cases"><b>Active:</b> 784,264</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 6,594,399</div>
+                            <div class="tooltip-cases"><b>Death:</b> 114,064</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip brazil" data-tooltip-content="#tooltip_content_brazil">
+                    <img src="https://disease.sh/assets/img/flags/br.png">
+                    <span class="ticker-country">Brazil</span>
+                    <span class="ticker-cases">5,224,362</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_brazil">
+                            <div class="tooltip-title">Brazil</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 5,224,362</div>
+                            <div class="tooltip-cases"><b>Active:</b> 435,357</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 4,635,315</div>
+                            <div class="tooltip-cases"><b>Death:</b> 153,690</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip russia" data-tooltip-content="#tooltip_content_russia">
+                    <img src="https://disease.sh/assets/img/flags/ru.png">
+                    <span class="ticker-country">Russia</span>
+                    <span class="ticker-cases">1,384,235</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_russia">
+                            <div class="tooltip-title">Russia</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 1,384,235</div>
+                            <div class="tooltip-cases"><b>Active:</b> 295,034</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 1,065,199</div>
+                            <div class="tooltip-cases"><b>Death:</b> 24,002</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip argentina" data-tooltip-content="#tooltip_content_argentina">
+                    <img src="https://disease.sh/assets/img/flags/ar.png">
+                    <span class="ticker-country">Argentina</span>
+                    <span class="ticker-cases">979,119</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_argentina">
+                            <div class="tooltip-title">Argentina</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 979,119</div>
+                            <div class="tooltip-cases"><b>Active:</b> 161,838</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 791,174</div>
+                            <div class="tooltip-cases"><b>Death:</b> 26,107</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip france" data-tooltip-content="#tooltip_content_france">
+                    <img src="https://disease.sh/assets/img/flags/fr.png">
+                    <span class="ticker-country">France</span>
+                    <span class="ticker-cases">867,197</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_france">
+                            <div class="tooltip-title">France</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 867,197</div>
+                            <div class="tooltip-cases"><b>Active:</b> 729,109</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 104,696</div>
+                            <div class="tooltip-cases"><b>Death:</b> 33,392</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip mexico" data-tooltip-content="#tooltip_content_mexico">
+                    <img src="https://disease.sh/assets/img/flags/mx.png">
+                    <span class="ticker-country">Mexico</span>
+                    <span class="ticker-cases">847,108</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_mexico">
+                            <div class="tooltip-title">Mexico</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 847,108</div>
+                            <div class="tooltip-cases"><b>Active:</b> 145,369</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 615,680</div>
+                            <div class="tooltip-cases"><b>Death:</b> 86,059</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip uk" data-tooltip-content="#tooltip_content_uk">
+                    <img src="https://disease.sh/assets/img/flags/gb.png">
+                    <span class="ticker-country">UK</span>
+                    <span class="ticker-cases">705,428</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_uk">
+                            <div class="tooltip-title">UK</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 705,428</div>
+                            <div class="tooltip-cases"><b>Active:</b> 661,849</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> ?</div>
+                            <div class="tooltip-cases"><b>Death:</b> 43,579</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip south africa" data-tooltip-content="#tooltip_content_southafrica">
+                    <img src="https://disease.sh/assets/img/flags/za.png">
+                    <span class="ticker-country">South Africa</span>
+                    <span class="ticker-cases">702,131</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_southafrica">
+                            <div class="tooltip-title">South Africa</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 702,131</div>
+                            <div class="tooltip-cases"><b>Active:</b> 53,287</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 630,436</div>
+                            <div class="tooltip-cases"><b>Death:</b> 18,408</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip chile" data-tooltip-content="#tooltip_content_chile">
+                    <img src="https://disease.sh/assets/img/flags/cl.png">
+                    <span class="ticker-country">Chile</span>
+                    <span class="ticker-cases">490,003</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_chile">
+                            <div class="tooltip-title">Chile</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 490,003</div>
+                            <div class="tooltip-cases"><b>Active:</b> 13,703</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 462,712</div>
+                            <div class="tooltip-cases"><b>Death:</b> 13,588</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip bangladesh" data-tooltip-content="#tooltip_content_bangladesh">
+                    <img src="https://disease.sh/assets/img/flags/bd.png">
+                    <span class="ticker-country">Bangladesh</span>
+                    <span class="ticker-cases">387,295</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_bangladesh">
+                            <div class="tooltip-title">Bangladesh</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 387,295</div>
+                            <div class="tooltip-cases"><b>Active:</b> 79,351</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 302,298</div>
+                            <div class="tooltip-cases"><b>Death:</b> 5,646</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip germany" data-tooltip-content="#tooltip_content_germany">
+                    <img src="https://disease.sh/assets/img/flags/de.png">
+                    <span class="ticker-country">Germany</span>
+                    <span class="ticker-cases">361,733</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_germany">
+                            <div class="tooltip-title">Germany</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 361,733</div>
+                            <div class="tooltip-cases"><b>Active:</b> 61,880</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 290,000</div>
+                            <div class="tooltip-cases"><b>Death:</b> 9,853</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip indonesia" data-tooltip-content="#tooltip_content_indonesia">
+                    <img src="https://disease.sh/assets/img/flags/id.png">
+                    <span class="ticker-country">Indonesia</span>
+                    <span class="ticker-cases">357,762</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_indonesia">
+                            <div class="tooltip-title">Indonesia</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 357,762</div>
+                            <div class="tooltip-cases"><b>Active:</b> 63,739</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 281,592</div>
+                            <div class="tooltip-cases"><b>Death:</b> 12,431</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip saudi arabia" data-tooltip-content="#tooltip_content_saudiarabia">
+                    <img src="https://disease.sh/assets/img/flags/sa.png">
+                    <span class="ticker-country">Saudi Arabia</span>
+                    <span class="ticker-cases">341,854</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_saudiarabia">
+                            <div class="tooltip-title">Saudi Arabia</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 341,854</div>
+                            <div class="tooltip-cases"><b>Active:</b> 8,524</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 328,165</div>
+                            <div class="tooltip-cases"><b>Death:</b> 5,165</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip pakistan" data-tooltip-content="#tooltip_content_pakistan">
+                    <img src="https://disease.sh/assets/img/flags/pk.png">
+                    <span class="ticker-country">Pakistan</span>
+                    <span class="ticker-cases">322,452</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_pakistan">
+                            <div class="tooltip-title">Pakistan</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 322,452</div>
+                            <div class="tooltip-cases"><b>Active:</b> 9,174</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 306,640</div>
+                            <div class="tooltip-cases"><b>Death:</b> 6,638</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip belgium" data-tooltip-content="#tooltip_content_belgium">
+                    <img src="https://disease.sh/assets/img/flags/be.png">
+                    <span class="ticker-country">Belgium</span>
+                    <span class="ticker-cases">202,151</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_belgium">
+                            <div class="tooltip-title">Belgium</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 202,151</div>
+                            <div class="tooltip-cases"><b>Active:</b> 170,925</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 20,867</div>
+                            <div class="tooltip-cases"><b>Death:</b> 10,359</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip canada" data-tooltip-content="#tooltip_content_canada">
+                    <img src="https://disease.sh/assets/img/flags/ca.png">
+                    <span class="ticker-country">Canada</span>
+                    <span class="ticker-cases">196,321</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_canada">
+                            <div class="tooltip-title">Canada</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 196,321</div>
+                            <div class="tooltip-cases"><b>Active:</b> 21,129</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 165,446</div>
+                            <div class="tooltip-cases"><b>Death:</b> 9,746</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip kazakhstan" data-tooltip-content="#tooltip_content_kazakhstan">
+                    <img src="https://disease.sh/assets/img/flags/kz.png">
+                    <span class="ticker-country">Kazakhstan</span>
+                    <span class="ticker-cases">109,302</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_kazakhstan">
+                            <div class="tooltip-title">Kazakhstan</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 109,302</div>
+                            <div class="tooltip-cases"><b>Active:</b> 2,613</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 104,921</div>
+                            <div class="tooltip-cases"><b>Death:</b> 1,768</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip sweden" data-tooltip-content="#tooltip_content_sweden">
+                    <img src="https://disease.sh/assets/img/flags/se.png">
+                    <span class="ticker-country">Sweden</span>
+                    <span class="ticker-cases">103,200</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_sweden">
+                            <div class="tooltip-title">Sweden</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 103,200</div>
+                            <div class="tooltip-cases"><b>Active:</b> 97,282</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> ?</div>
+                            <div class="tooltip-cases"><b>Death:</b> 5,918</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip china" data-tooltip-content="#tooltip_content_china">
+                    <img src="https://disease.sh/assets/img/flags/cn.png">
+                    <span class="ticker-country">China</span>
+                    <span class="ticker-cases">85,672</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_china">
+                            <div class="tooltip-title">China</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 85,672</div>
+                            <div class="tooltip-cases"><b>Active:</b> 252</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 80,786</div>
+                            <div class="tooltip-cases"><b>Death:</b> 4,634</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip denmark" data-tooltip-content="#tooltip_content_denmark">
+                    <img src="https://disease.sh/assets/img/flags/dk.png">
+                    <span class="ticker-country">Denmark</span>
+                    <span class="ticker-cases">34,941</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_denmark">
+                            <div class="tooltip-title">Denmark</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 34,941</div>
+                            <div class="tooltip-cases"><b>Active:</b> 5,345</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 28,917</div>
+                            <div class="tooltip-cases"><b>Death:</b> 679</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip australia" data-tooltip-content="#tooltip_content_australia">
+                    <img src="https://disease.sh/assets/img/flags/au.png">
+                    <span class="ticker-country">Australia</span>
+                    <span class="ticker-cases">27,390</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_australia">
+                            <div class="tooltip-title">Australia</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 27,390</div>
+                            <div class="tooltip-cases"><b>Active:</b> 1,388</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 25,098</div>
+                            <div class="tooltip-cases"><b>Death:</b> 904</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip greece" data-tooltip-content="#tooltip_content_greece">
+                    <img src="https://disease.sh/assets/img/flags/gr.png">
+                    <span class="ticker-country">Greece</span>
+                    <span class="ticker-cases">24,932</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_greece">
+                            <div class="tooltip-title">Greece</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 24,932</div>
+                            <div class="tooltip-cases"><b>Active:</b> 14,443</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 9,989</div>
+                            <div class="tooltip-cases"><b>Death:</b> 500</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip thailand" data-tooltip-content="#tooltip_content_thailand">
+                    <img src="https://disease.sh/assets/img/flags/th.png">
+                    <span class="ticker-country">Thailand</span>
+                    <span class="ticker-cases">3,679</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_thailand">
+                            <div class="tooltip-title">Thailand</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 3,679</div>
+                            <div class="tooltip-cases"><b>Active:</b> 142</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 3,478</div>
+                            <div class="tooltip-cases"><b>Death:</b> 59</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip new zealand" data-tooltip-content="#tooltip_content_newzealand">
+                    <img src="https://disease.sh/assets/img/flags/nz.png">
+                    <span class="ticker-country">New Zealand</span>
+                    <span class="ticker-cases">1,886</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_newzealand">
+                            <div class="tooltip-title">New Zealand</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 1,886</div>
+                            <div class="tooltip-cases"><b>Active:</b> 42</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 1,819</div>
+                            <div class="tooltip-cases"><b>Death:</b> 25</div>
+                        </div>
+                    </div>
+                </li>
+                <li class="cvct-tooltip vietnam" data-tooltip-content="#tooltip_content_vietnam">
+                    <img src="https://disease.sh/assets/img/flags/vn.png">
+                    <span class="ticker-country">Vietnam</span>
+                    <span class="ticker-cases">1,126</span>
+                    <div class="cvct-ticker-tooltip-hidden">
+                        <div id="tooltip_content_vietnam">
+                            <div class="tooltip-title">Vietnam</div>
+                            <div class="tooltip-cases"><b>Confirmed:</b> 1,126</div>
+                            <div class="tooltip-cases"><b>Active:</b> 60</div>
+                            <div class="tooltip-cases"><b>Recovered:</b> 1,031</div>
+                            <div class="tooltip-cases"><b>Death:</b> 35</div>
+                        </div>
+                    </div>
+                </li></ul>                   
+        </div><style>
+        .cvct-ticker-style-1 {
+            display: table;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            z-index: 9999999;
+            min-height: 35px;
+        }
+        .cvct-ticker-style-1 .cvct-ticker-heading,
+        .cvct-ticker-style-1 .cvct-ticker-container {
+            display: table-cell;
+            vertical-align: middle;
+        }
+        .cvct-ticker-style-1 .cvct-ticker-heading {
+            width: 175px;
+            font-size: 14px;
+            line-height: 16px;
+            font-weight: bold;
+            padding: 3px;
+            text-align: center;
+            text-shadow: 1px 0px 3px #000;
+            color: #fff;
+            background: #121d38;
+        }
+        .cvct-ticker-style-1 ul {
+            display: inline-block;
+            padding: 0;
+            margin: 0;
+        }
+        .cvct-ticker-style-1 ul li {
+            display: inline-block;
+            padding: 3px;
+            margin: 0 25px 0 0;
+            font-size: 14px;
+            line-height: 18px;
+            cursor: pointer;
+            vertical-align: middle;
+            width: auto;
+        }
+        .cvct-ticker-style-1 li img {
+            display: inline-block;
+            vertical-align: middle;
+            width: 20px;
+            padding: 0;
+            margin: 0 5px 0 0;
+        }
+        .cvct-ticker-style-1 li .ticker-cases {
+            font-weight: bold;
+            margin: 0 0 0 8px;
+            vertical-align: middle;
+        }
+        .cvct-ticker-style-1 li .ticker-country {
+            vertical-align: middle;
+        }
+        .cvct-ticker-tooltip-hidden {
+            display: none;
+        }
+        .tooltipster-box {
+            background-color: #eee;
+            border-color: #eee;
+            text-align: center;
+        }
+        .tooltip-title {
+            margin: 7px 0;
+            font-size: 18px;
+            line-height: 22px;
+        }
+        .tooltip-cases {
+            font-size: 14px;
+            line-height: 20px;
+            text-align: left;
+        }
+        .tooltipster-top .tooltipster-box {
+            margin-bottom: 8px;
+        }
+        .tooltipster-sidetip.tooltipster-top .tooltipster-arrow-border {
+            border-top-color: #eee;
+        }
+        .tooltipster-bottom .tooltipster-box {
+            margin-top: 10px;
+        }
+        .tooltipster-sidetip.tooltipster-bottom .tooltipster-arrow-border {
+            border-bottom-color: #eee;
+        }
+        body.cvct-ticker-top {
+            margin-top: 35px;
+        }
+        body.cvct-ticker-bottom {
+            margin-bottom: 35px;
+        }
+        
+        .cvct-ticker-footer,
+        .cvct-ticker-header {
+            position: fixed;
+            left: 0px;
+        }
+        .cvct-ticker-header {
+            top: 0;
+            bottom: unset;
+        }
+        .cvct-ticker-footer {
+            bottom: 0;
+            top: unset;
+        }
+        
+    #cvct-ticker-3879.cvct-ticker-style-1 {background-color:#fff; color:#000;}
+    #cvct-ticker-3879.cvct-ticker-style-1 .cvct-ticker-heading {background-color:red;}
+    .tooltipster-sidetip .tooltipster-box {background-color:#fff;}
+    .tooltipster-sidetip .tooltipster-box .tooltipster-content {color:#000;}
+    .tooltipster-sidetip.tooltipster-top .tooltipster-arrow-border {border-top-color: ;}
+    .tooltipster-sidetip.tooltipster-bottom .tooltipster-arrow-border {border-bottom-color: ;}
+
+    #cvct-ticker-3879.cvct-ticker-style-2 {background-color:#fff; color:#000;}
+    #cvct-ticker-3879.cvct-ticker-style-2 .cvct-ticker-heading {background-color:red;}
+
+    #cvct-ticker-3879.cvct-ticker-style-3 {background-color:#fff; color:#000; border-color:red;}
+    </style>	<div id="fb-root"></div>
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.dailyupdatetalk.com\/2020\/10\/15\/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow\/":11435};
+	</script>
+				<link rel='stylesheet' id='cvct_tooltip_style-css'  href='https://www.dailyupdatetalk.com/wp-content/plugins/corona-virus-cases-tracker/assets/css/tooltipster.bundle.min.css?ver=1.7.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/library/wow/wow.min.js?ver=1.2.1' id='wow-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.dailyupdatetalk.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/js/bootstrap.min.js?ver=20151215' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/js/owl.carousel.min.js?ver=20151215' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/library/theia-sticky-sidebar/theia-sticky-sidebar.min.js?ver=4.0.1' id='theia-sticky-sidebar-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/assets/js/custom.js?ver=20151215' id='ample-magazine-custom-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/js/navigation.js?ver=20151215' id='ample-magazine-navigation-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/themes/ample-magazine/js/skip-link-focus-fix.js?ver=20151215' id='ample-magazine-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.2' id='the_champ_ss_general_scripts-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/js/front/social_login/common.js?ver=7.13.2' id='the_champ_sl_common-js'></script>
+<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/www.dailyupdatetalk.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/thickbox/thickbox.js' id='thickbox-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=7.13.2' id='the_champ_fb_sdk-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=7.13.2' id='the_champ_fb_commenting-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=7.13.2' id='the_champ_share_counts-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/lazy-images.min.js?ver=1.0.0' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/datepicker.min.js' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' id='lfb_f_js-js-extra'>
+/* <![CDATA[ */
+var frontendajax = {"ajaxurl":"https:\/\/www.dailyupdatetalk.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/lead-form-builder/js/f-script.js?ver=1.4.11' id='lfb_f_js-js'></script>
+<script type='text/javascript' id='gutentor-block-js-extra'>
+/* <![CDATA[ */
+var gutentorLS = {"fontAwesomeVersion":"5","restNonce":"73eccc3aae","restUrl":"https:\/\/www.dailyupdatetalk.com\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/gutentor/assets/js/gutentor.min.js?ver=2.2.0' id='gutentor-block-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' id='fifu-image-js-js-extra'>
+/* <![CDATA[ */
+var fifuImageVars = {"fifu_lazy":"","fifu_woo_lbox_enabled":"1","fifu_woo_zoom":"inline","fifu_is_product":"","fifu_is_flatsome_active":"","fifu_rest_url":"https:\/\/www.dailyupdatetalk.com\/wp-json\/","fifu_nonce":"73eccc3aae"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/featured-image-from-url/includes/html/js/image.js?ver=3.3.8' id='fifu-image-js-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/postmessage.min.js' id='postmessage-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/jquery.jetpack-resize.min.js' id='jetpack_resize-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/likes/queuehandler.min.js' id='jetpack_likes_queuehandler-js'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js?ver=1.7.4' id='cvct_bxslider_js-js'></script>
+<script type='text/javascript' id='cvct_bxslider_js-js-after'>
+jQuery(document).ready(function($){
+            $(".cvct-ticker #cvct-ticker-widget-3879").each(function(index){
+            var tickerCon=$(this);
+            var ispeed=Number(tickerCon.attr("data-tickerspeed"));
+        
+            $(this).bxSlider({
+                ticker:true,
+                minSlides:1,
+                maxSlides:12,
+                slideWidth:"auto",
+                tickerHover:true,
+                wrapperClass:"cvct-ticker-container",
+                speed: ispeed,
+                infiniteLoop:true
+                });
+            });
+        });
+</script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/corona-virus-cases-tracker/assets/js/cvct-ticker.min.js?ver=1.7.4' id='cvct_ticker-js'></script>
+<script type='text/javascript' src='https://www.dailyupdatetalk.com/wp-content/plugins/corona-virus-cases-tracker/assets/js/tooltipster.bundle.min.js?ver=1.7.4' id='cvct-tooltip-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/sharedaddy/sharing.min.js' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=202042#ver=202042' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script type='text/javascript'>function loadLFCComments() {(function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=388241379011577';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                    }window.onscroll = function () {
+                        var rect = document.getElementById('lfc_comments').getBoundingClientRect();
+                        if (rect.top < window.innerHeight) {
+                            var lfc_div = document.getElementById('lfc_comments');
+                            lfc_div.innerHTML = '<div id="fb-root"></div><div class="fb-comments" data-width="100%" data-href="https://www.dailyupdatetalk.com/2020/10/15/kissing-robert-downey-jr-in-marvel-movies-felt-literally-like-kissing-my-brother-gwyneth-paltrow/" data-numposts="10" data-colorscheme="light" data-order-by="social"></div>';
+                            loadLFCComments();
+                            window.onscroll = null;
+                        } 
+                    }</script><script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'183769762',post:'11435',tz:'5.5',srv:'www.dailyupdatetalk.com'} ]);
+	_stq.push([ 'clickTrackerInit', '183769762', '11435' ]);
+</script>
+
+
+</body>
+</html>

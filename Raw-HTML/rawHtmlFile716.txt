@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Disney Investor Urges Company to Move Marvel's Black Widow to Streaming</title>
+
+    <meta name="description" content="A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]">
+    <meta name="keywords" content="Black Widow,Disney+">
+    <meta name="news_keywords" content="Black Widow,Disney+">
+
+    <meta name="twitter:card" content="summary"><meta name="twitter:site" content="ComicBook"><meta name="twitter:creator" content="ComicBook"><meta name="twitter:title" content="Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming"><meta name="twitter:description" content="A top Disney investor wants the company's movies with blockbuster potential, including Marvel [...]"><meta name="twitter:image" content="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-1280x0.jpeg">    <meta property="og:title" content="Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming"/><meta itemprop="name" content="Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming"/><meta property="og:type" content="article" /><meta property="og:url" content="https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" /><meta property="og:image" content="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-1280x0.jpeg" /><meta itemprop="image" content="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-1280x0.jpeg" /><meta property="og:site_name" content="Movies" /><meta property="og:description" content="A top Disney investor wants the company's movies with blockbuster potential, including Marvel [...]" /><meta property="fb:app_id" content="231517050198188" /><meta property="og:image:width" content="1280" /><meta property="og:image:height" content="670" />
+    <!-- SchemaOrg Data -->
+        <script type="application/ld+json">
+        {"@content":"http://schema.org","@type":"WebPage","name":"Disney Investor Urges Company to Move Marvel's Black Widow to Streaming","description":"A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]","speakable":"A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]","breadcrumb":"Comicbook.com > movies > news > disney marvel studios black widow disney plus streaming skip theaters investor dan loeb > \n","publisher":{"@type":"Organization","@id":"https://comicbook.com","name":"Comicbook.com","sameAs":["https://www.facebook.com/comicbookdotcom/","https://twitter.com/comicbook","https://www.youtube.com/channel/UCtnSBeKEA0swUnGHQ08SibQ"],"Logo":{"@type":"ImageObject","url":"https://prodasset.comicbook.com/dist/img/comicbook/comicbook-amp.png?v=1","width":460,"height":60}},"url":"https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/","PotentialAction":{"@type":"SearchAction","target":"https://comicbook.com/site/search/?View=Search&q={search_term_string}","query-input":"required name=search_term_string"},"mainEntity":{"@context":"http://schema.org","@graph":[{"@context":"http://schema.org","@type":"Movie","name":"Black Widow","image":"https://media.comicbook.com/2020/03/black-widow-default4-1210174.jpeg","datePublished":"2021-05-07T04:00:00+00:00","dateCreated":"2021-05-07T04:00:00+00:00","actor":[{"@type":"Person","name":"Scarlett Johansson"},{"@type":"Person","name":"David Harbour"},{"@type":"Person","name":"Florence Pugh"},{"@type":"Person","name":"Rachel Weisz"},{"@type":"Person","name":"O-T Fagbenle"}],"director":[{"@type":"Person","name":"Cate Shortland"}],"musicBy":[{"@type":"Person","name":"Alexandre Desplat"}],"producer":[{"@type":"Person","name":"Kevin Feige"}],"author":[{"@type":"Person","name":"Stan Lee"},{"@type":"Person","name":"Don Heck"},{"@type":"Person","name":"Jac Schaeffer "},{"@type":"Person","name":"Ned Benson"},{"@type":"Person","name":"Eric Pearson"}],"productionCompany":[{"@type":"Organization","name":"Marvel Studios"},{"@type":"Organization","name":"Walt Disney Studios Motion Pictures"}],"sameAs":["https://www.imdb.com/title/tt3480822/","https://en.wikipedia.org/wiki/Black_Widow_(2020_film)","https://www.metacritic.com/movie/black-widow"]}]}}    </script>
+        <meta property="fb:pages" content="225096980839858"> <!-- popculturedotcom -->
+    <meta property="fb:pages" content="420542581873850"> <!-- popculturesports -->
+    <meta property="fb:pages" content="246355889101131"> <!-- popculturetv -->
+    <meta property="fb:pages" content="274776652662732"> <!-- Trendingonpopculture -->
+    <meta property="fb:pages" content="102131167054395"> <!-- popculturenetflix -->
+    <meta property="fb:pages" content="161493941062558"> <!-- popculturerealitytv -->
+    <meta property="fb:pages" content="863855543714162"> <!-- PopCultureMovies -->
+    <meta property="fb:pages" content="1270246982997461"> <!-- PopCultureWWE -->
+    <meta property="fb:pages" content="349297838806820"> <!-- popculturecountrymusic -->
+    <meta property="fb:pages" content="1852744561604682"> <!-- PopCultureHorror -->
+    <meta property="fb:pages" content="39795225543"> <!-- ComicBook -->
+    <meta property="fb:pages" content="177641815726000"> <!-- DC/Marvel -->
+    <meta property="fb:pages" content="1491451041161527"> <!-- TWD -->
+    <meta property="fb:pages" content="1853563724911883"> <!-- ANIME -->
+    <meta property="fb:pages" content="1875766922697125"> <!-- PR -->
+    <meta property="fb:pages" content="1421666984767587"> <!-- POKEMON -->
+    <meta property="fb:pages" content="1319137071504286"> <!-- TREK -->
+    <meta property="fb:pages" content="1688576428052667"> <!-- WWG BLACK -->
+    <meta property="fb:pages" content="766536783448699"> <!-- WWG YELLOW -->
+    <meta property="fb:pages" content="1808136129509732"> <!-- TOYS  -->
+    <meta property="fb:pages" content="1075190092524035"> <!-- STAR WARS -->
+    <meta name="p:domain_verify" content="5ad45d41467dc74340d8100ffa0f2a73" /> <!-- Pinterest -->
+    <meta name="google-site-verification" content="x7hVrjifSfYWJfj0-FWACv2DSoXFbHhXgJ62RjFIkgs" />
+    <meta name="uc" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5,user-scalable=0" />
+
+    
+
+                <link rel="amphtml" href="https://comicbook.com/movies/amp/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/">
+    
+            <link rel="canonical" href="https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/">
+    
+    
+    <!-- Apple touch icons -->
+    <link rel="apple-touch-icon" href="https://prodasset.comicbook.com/dist/img/comicbook/cbtouch.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://prodasset.comicbook.com/dist/img/comicbook/cbtouch.png">
+    <link rel="apple-touch-icon-precomposed" href="https://prodasset.comicbook.com/dist/img/comicbook/cbtouch.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://prodasset.comicbook.com/dist/img/comicbook/cbtouch.png">
+
+    <link rel="shortcut icon" href="https://prodasset.comicbook.com/dist/img/comicbook/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://prodasset.comicbook.com/dist/img/comicbook/favicon.ico" type="image/x-icon">
+
+    <link rel='stylesheet' href='https://prodasset.comicbook.com/dist/cb.article.57416254.css' />
+
+    <script type="text/javascript">
+        // Apply the dark mode data attribute based on cookies ASAP
+        const existingUserDarkModePreference = 0;
+        const darkModeEnabled = existingUserDarkModePreference === 1 ? true : document.cookie.match(/darkMode=on/i) !== null
+        const theme = darkModeEnabled ? 'dark' : 'light'
+
+        document.querySelector('html').setAttribute('data-theme', theme)
+    </script>
+
+    <!-- OneTrust CMP && optanon - standardized api for OneTrust -->
+            <!-- prod -->
+        <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="6b5e5841-e86a-4e28-b43c-47dc1a4b93d6"></script>
+        <script src="//production-cmp.isgprivacy.cbsi.com/dist/optanon-v1.1.0.js" type="text/javascript" id="bb-cbsoptanon"></script>
+    
+    <!-- optanon api bootstrap -->
+    <script type="text/javascript">
+        ! function(n) {
+            var o = window,
+                a = "cbsoptanon",
+                c = "cmd",
+                d = "config";
+            o[a] = o[a] ? o[a] : {}, o[a][c] = o[a][c] ? o[a][c] : [], o[a][d] = o[a][d] ? o[a][d] : [], ["onIframesReady", "onFormsReady", "onScriptsReady", "onAdsReady"].forEach(function(n) {
+                o[a][n] = o[a][n] || function() {
+                    var d = arguments;
+                    o[a][c].push(function() {
+                        o[a][n].apply(o[a], d)
+                    })
+                }
+            })
+        }();
+        window.cbsoptanon.config.push({
+            "enableServices": false,
+            "setNpaOnConsentChange": true
+        });
+    </script>
+
+    <script>
+        var googletagaccount = '1203931';
+        var comscoreID = '14409343';
+        var competeID = 'a694309fba9b3e994014838bb3ff347f';
+        var competeScript = '//c.compete.com/bootstrap/s/a694309fba9b3e994014838bb3ff347f/comicbook-com/bootstrap.js';
+        var cbc_page_stamp = "article";
+
+        var BidBarrel = BidBarrel || {};
+        BidBarrel.queue = BidBarrel.queue || [];
+        window.pageType = cbc_page_stamp;
+        var referralDomain = "";
+        if (typeof document.referrer !== 'undefined' && document.referrer != '') {
+            if (document.referrer.match(/^https?:\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
+                referralDomain = "facebook";
+            } else {
+                var referrer = document.referrer.match(/:\/\/([^\/:]+)(:\d+)?\//)[1];
+                if (referrer != "localhost") {
+                    referralDomain = referrer.match(/.*?([^.]+)[.][^.]+$/)[1];
+                } else {
+                    referralDomain = referrer;
+                }
+            }
+        }
+        var updateNewsletter = function() {
+            var preUpdateStatus = $cbc.Guest.Newsletter;
+            if ($cbc.Guest.EmailSubscriptions === null) {
+                $cbc.Guest.EmailSubscriptions = [];
+            }
+
+            if ($cbc.Guest.Newsletter === null) {
+                $cbc.Guest.Newsletter = "Unsubscribed";
+            }
+
+            if ($cbc.Guest.Newsletter === "Unsubscribed") {
+                var hasSubscribed = false;
+                for (newsletter in $cbc.CurrentSite.EmailSubscriptions) {
+                    if ($cbc.Guest.EmailSubscriptions.indexOf($cbc.CurrentSite.EmailSubscriptions[newsletter]) > -1) {
+                        hasSubscribed = true;
+                        break;
+                    }
+                }
+
+                if (hasSubscribed) {
+                    $cbc.Guest.Newsletter = "Subscribed";
+                }
+            };
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            pbjs.que.push(updateNewsletter);
+            var cbc_screen_size = "large";
+            window.width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+            if (window.width < 768) {
+                cbc_screen_size = "small";
+            };
+        }
+    </script>
+    <script>
+		var $cbc = {"CurrentSite":{"Key":"10","Name":"Movies","DomainExtension":"movies","Property":"comicbook.com","Site":"movies","PageType":"headline","PageSubType":"article","AdPageType":"news_article","Topic":"movies","HasTakeover":"0","AdSiteName":"Comicbook.com","SvgSprite":"\/dist\/svg-defs.a22a3947.svg","Keywords":[{"name":"black widow","id":"1068726"},{"name":"disney+","id":"1120309"}],"EmailSubscriptions":[0],"AssetServer":"https:\/\/prodasset.comicbook.com\/dist\/","Env":"3","Twitter":"ComicBook","Tags":["Black Widow","Disney+"],"PremiumAds":[["OOP1","MOOP1"]],"DynamicPlacements":{"FC1":1,"MC1":1,"MC2":5,"MC3":8},"CSRFToken":"","RecaptchaKey":"6Lcj5boZAAAAAFOzwqlq2mpa1dsY_n8tEfDqj3FZ"},"User":{"Key":null,"Alias":null,"Avatar":"https:\/\/media.comicbook.com\/files\/avatars\/default-200x200.jpg","Name":"","Status":"Guest","Activated":"False","PremiumLevel":0,"AgeRange":"18-24","Email":null,"FirstName":null,"LastName":null,"Points":null,"DarkMode":false},"Guest":{"Email":"","EmailSubscriptions":[],"Newsletter":"Unsubscribed","IsEnrolled":false},"Model":{"IsHotTopic":false,"CollectionValue":"","MobileAdCount":"4","DesktopAdCount":"2","Key":"343579","Author":"Cameron Bonomolo","AuthorKey":"220771","Title":"Disney Investor Urges Company to Move Marvel\u2019s Black Widow to Streaming","Type":"Article","CentralAudienceTeam":"false"}};
+		$cbc.CurrentSite.AdConfig = {
+prefix: 'aw-comicbook',
+googleTagID: 8264,
+playbuzz: {
+	siteId: 'mcd-sdk-jssdk_CBS_comicbook.com',
+	embedId: '807c90d7-0c00-4f14-abef-27d6609a233c'
+}
+};		var cbcAdUnits = {
+"mobile-omni-skybox-plus-top": {
+"code": "mobile-omni-skybox-plus-top",
+"screen": "small",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door",
+"unknown"
+]
+},
+"mobile-incontent-social": {
+"code": "mobile-incontent-social",
+"screen": "small",
+"pageTypes": ["news_article", "article", "slideshow", "image_gallery"]
+},
+"mobile-banner-bottom0": {
+"code": "mobile-banner-bottom0",
+"screen": "small",
+"pageTypes": ["news_article", "article", "slideshow", "image_gallery"]
+},
+"omni-skybox-plus-top": {
+"code": "omni-skybox-plus-top",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door",
+"unknown"
+]
+},
+"mpu-top": {
+"code": "mpu-top",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door",
+"unknown"
+]
+},
+"mpu-middle": {
+"code": "mpu-middle",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_door",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door",
+"unknown"
+]
+},
+"mpu-bottom": {
+"code": "mpu-bottom",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"unknown"
+]
+},
+"leader-bottom": {
+"code": "leader-bottom",
+"screen": "large",
+"pageTypes": ["listing", "ranking", "schedule"]
+},
+"mobile-native-plus-top": {
+"code": "mobile-native-plus-top",
+"screen": "small",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door"
+]
+},
+"native-plus-top": {
+"code": "native-plus-top",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door"
+]
+},
+"mpu-comments": {
+"code": "mpu-comments",
+"screen": "large",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door"
+]
+},
+"mobile-mpu-comments": {
+"code": "mobile-mpu-comments",
+"screen": "small",
+"pageTypes": [
+"home",
+"news_article",
+"article",
+"slideshow",
+"image_gallery",
+"news_door",
+"category_news",
+"platform_door",
+"topic_main",
+"category_door",
+"listing",
+"ranking",
+"schedule",
+"topic_door"
+]
+},
+"mobile-banner-bottom": {
+"code": "mobile-banner-bottom",
+"screen": "small",
+"pageTypes": [
+"news_article",
+"article",
+"slideshow",
+"image_gallery"
+]
+}
+}</script>
+
+<script>
+
+	var pageCount = 1;
+	var pageCurrent = 1;
+				popCultureAnalyticsConfig = {
+		defaults: {
+			value: 1
+		},
+		eventsToTrack: [
+		], // inside declare the element selector (i.e. window) with an object of event names and their object values
+		ga: {
+			identifier: 'UA-2754597-1',
+							alias:"CameronBonomolo"
+					},
+		fbPixel: {
+			identifier: "342239506206499"
+		},
+		quantcast: {
+			identifier: "p-ab4nkVmIb9Bmo"
+		},
+		comscore: {
+			identifier: "14409343"
+		},
+	}
+</script>
+    <script>
+        if (window.pageType === 'article') {
+            if ($cbc.CurrentSite.PageSubType === "photogallery") {
+                window.pageType = 'photogallery';
+            } else if ($cbc.CurrentSite.PageSubType === "slideshow") {
+                window.pageType = 'slideshow';
+            }
+        }
+    </script>
+            <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                "mainEntityofPage": "https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/",
+                "headline": "Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming",
+                "datePublished": "2020-10-16T02:50:04+00:00",
+                "dateModified": "2020-10-16T02:50:04+00:00",
+                "description": "A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]",
+
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-1280x0.jpeg",
+                    "width": 1280,
+                    "height": 670                },
+
+                "author": {
+                    "@type": "Person",
+                    "name": "Cameron Bonomolo",
+                    "@id": "https://comicbook.com/author/CameronBonomolo/#author",
+                    "sameAs": [
+                        "https://comicbook.com/author/CameronBonomolo/"
+                    ]
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "@id": "https://comicbook.com/#organization",
+                    "name": "ComicBook.com",
+                    "sameAs": [
+                        "https://www.facebook.com/comicbookdotcom/",
+                        "https://twitter.com/comicbook",
+                        "https://www.youtube.com/channel/UCtnSBeKEA0swUnGHQ08SibQ"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://prodasset.comicbook.com/dist/img/comicbook/comicbook-amp.png?v=1",
+                        "width": 460,
+                        "height": 60
+                    }
+                },
+                "keywords": ["Black Widow","Disney+"],
+                "articleSection": ["Movies"]
+            }
+        </script>
+                    <script>
+            function changeAdhesionSize(size, margin) {
+                $(".adhesion-block").height(size);
+                $(".body").css("margin-top", margin + 'px');
+            }
+        </script>
+    
+</head>
+
+<body class="pcm-public body article_pg  skybox-auto-collapse">
+    
+<div id="mobile-omni-skybox-plus-top" class="oas small" data-width="320" data-height="50" data-js="adhesion"></div>
+<div id="omni-skybox-plus-top" class="oas_desktop_banner" data-width="728" data-height="90" data-js="adhesion"></div>
+
+<header id="header" class="topnav">
+	<nav class="channel-nav clearfix">
+		<ul class="channels">
+			<li>
+				<a href="https://comicbook.com">
+					ComicBook.com
+				</a>
+				<a href="https://popculture.com">
+					PopCulture.com
+				</a>
+				<a href="https://gamespot.com/">
+					Gamespot.com
+				</a>
+			</li>
+			<li class="skip">
+				<a href="#PrimaryNav"><strong>Skip To Main Navigation</strong></a>
+			</li>
+			<li class="skip">
+				<a href="#main-content"><strong>Skip To Main Content</strong></a>
+			</li>
+		</ul>
+					<ul class="social">
+				<li class="social">
+					<a href="https://facebook.com/comicbookdotcom" target="_blank" title="Join Us on Facebook" rel="noopener">
+						<svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#facebook">
+  </svg>
+					</a>
+				</li>
+				<li class="social">
+					<a href="https://twitter.com/ComicBook" target="_blank" title="Follow Us on Twitter">
+						<svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#twitter">
+  </svg>
+					</a>
+				</li>
+				<li class="social youtube">
+					<a href="https://www.youtube.com/user/ComicBookCom/playlists" target="_blank" title="Follow Us on Youtube" rel="noopener"><svg role="presentation" title="YouTube" aria-hidden="true">
+						<svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#youtube">
+  </svg>
+					</a>
+				</li>
+				<li class="social">
+					<a href="https://www.instagram.com/comicbook/" target="_blank" title="Follow Us on Instagram" rel="noopener"><svg role="presentation" title="Instagram" aria-hidden="true">
+						<svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#instagram">
+  </svg>
+					</a>
+				</li>
+			</ul>
+			</nav>
+
+	
+<nav class="PrimaryNav PrimaryNav--comicbook" aria-label="Primary Navigation Menu">
+  <ul class="PrimaryNav-defaultLinks">
+    <li class="PrimaryNav-homeItem">
+      <a class="PrimaryNav-homeLink" href="/">
+        <svg class="PrimaryNav-logo" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#comicbook-logo-1">
+  </svg>
+      </a>
+    </li>
+    <li class="PrimaryNav-channelItem">
+      /      <a class="PrimaryNav-channelLink" href="https://comicbook.com/movies/">
+        Movies      </a>
+        </li>
+  </ul>
+  <ul class="PrimaryNav-primaryLinks" id="PrimaryNav">
+    
+<ul class="PrimaryNavItemList is-desktop">
+  
+  <li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <span class="PrimaryNavItem-fauxLink">Franchises</span>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/dc/">DC</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/marvel/">Marvel</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/thewalkingdead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/starwars/">Star Wars</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/startrek/">Star Trek</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/anime/">Anime</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/horror/">Horror</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/powerrangers/">Power Rangers</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/wwe/">WWE</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/gaming/">Gaming</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/irl/">IRL</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/">Popular</a>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/logan/">Logan</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-walking-dead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/guardians-of-the-galaxy-2/">Guardians of the Galaxy Vol. 2</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/game-of-thrones/">Game of Thrones</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/power-rangers-2017-/">Power Rangers</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/rogue-one-a-star-wars-story/">Rogue One: A Star Wars Story</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/movies/">Movies</a>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/movies/news/">Movie News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/movie/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-top-metacritic-comic-movies-/">Metacritic Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/franchise-movies-release-schedule/">Release Schedule</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-anticipated-rankings-comic-book-movies/">Anticipation Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/top-grossing-comic-book-movies-worldwide-/">Top Grossing Comic Movies</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/movie-reviews/">Movie Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/wonder-woman-2/">Wonder Woman 1984</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/mulan-2019-/">Mulan (2020)</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/black-widow-comicmovie/">Black Widow</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/dune-2020-/">Dune (2020)</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/f9/">F9</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/tv-shows/">TV</a>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/tv-shows/news/">TV News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/tv/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-top-metacritic-tvshows-/">Metacritic Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/upcoming-tv-episodes/">Upcoming Episodes</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/tv-reviews/">TV Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-walking-dead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/stranger-things/">Stranger Things</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/cws-the-flash/">The Flash</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/marvels-agents-of-s-h-i-e-l-d-/">Agents of S.H.I.E.L.D.</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/arrow/">Arrow</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/supergirl-tvshow/">Supergirl </a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/gotham/">Gotham</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/westworld-tvshow/">Westworld</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-witcher-tvshow/">The Witcher</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/comics/">Comics</a>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/comics/news/">Comic News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/comic/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/comic-reviews/">Comic Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/">DC Comics</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/image-comics/">Image Comics</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/-marvel-comics/">Marvel Comics</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <span class="PrimaryNavItem-fauxLink">Community</span>
+                      <button class="PrimaryNavItem-toggle">
+        <svg class="PrimaryNavItem-dropdownIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down-solid">
+  </svg>
+      </button>
+      </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/top-100-ultimate-users/">Comicbook Top 100 Ultimate Users</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/ultimate-staff/">Comicbook Ultimate Staff</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/hottopics/">Top 10 Hot Topics</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem is-desktop">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="https://www.youtube.com/user/ComicBookCom/playlists?sort=lad&view=1&flow=grid">Video</a>
+                  </div>
+  </li>
+
+  </ul>
+  </ul>
+  <ul class="PrimaryNav-secondaryLinks">
+          <li class="PrimaryNav-logIn">
+        <button
+          class="PrimaryNav-loginMenuButton js-toggleExpanded"
+          aria-label="Toggle login menu"
+          aria-expanded="false"
+          data-testid="PrimaryNav-loginToggle"
+        >
+          <svg class="" role="presentation">
+      <title>User Icon</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#user3">
+  </svg>
+          <svg class="PrimaryNav-loginCaret" role="presentation">
+      <title>Arrow Down</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-down">
+  </svg>
+        </button>
+        <section class="PrimaryNav-logInMenu">
+          <header class="PrimaryNav-loginWithSocial">
+            <h2>Sign in using your account with:</h2>
+            <a class="PrimaryNav-loginFacebook" href="https://www.facebook.com/v2.0/dialog/oauth?client_id=231517050198188&redirect_uri=https%3A%2F%2Fcomicbook.com%2Fmovies%2Fsinglesignon%3Ftype%3DFB&state=&sdk=php-sdk-4.0.8&scope=email" aria-label="Login via Facebook">
+              <svg class="" role="presentation">
+      <title>Facebook</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#facebook">
+  </svg>
+            </a>
+            <h2>or sign in with your Comicbook.com ID:</h2>
+          </header>
+
+          <form class="PrimaryNav-loginForm" method="Post" action="/login/">
+            <fieldset class="PrimaryNav-loginFormFields">
+              <label class="PrimaryNav-loginFormLabel" for="NavEmail">Email</label>
+              <input
+                class="PrimaryNav-loginFormInput"
+                id="NavEmail"
+                name="Email"
+                type="email"
+                aria-label="email"
+                data-testid="PrimaryNav-emailField"
+              >
+              <label class="PrimaryNav-loginFormLabel" for="NavPassword">Password</label>
+              <input
+                class="PrimaryNav-loginFormInput"
+                id="NavPassword"
+                name="Password"
+                type="password"
+                aria-label="password"
+                data-testid="PrimaryNav-passwordField"
+              >
+            </fieldset>
+            <div class="PrimaryNav-loginFormControls">
+              <input checked="checked" id="NavRememberMe" name="RememberMe" type="checkbox" value="true">
+              <label class="PrimaryNav-rememberMeLabel" for="NavRememberMe">Remember me on this device</label>
+              <button
+                type="submit"
+                class="PrimaryNav-loginFormSubmit btn"
+                data-testid="PrimaryNav-loginSubmit"
+              >
+                Login
+              </button>
+            </div>
+          </form>
+          <div class="PrimaryNav-loginLinks">
+            <p><a href="/user/new/"><b>Register</b></a> - <a href="/forgot-password/"><b>Forgot Password</b></a></p>
+          </div>
+          <div class="PrimaryNav-loginTOS">
+            <p>By creating an account, you verify that you are at least 13 years of age, and have read and agree to the Comicbook.com <a href="/page/termsofservice/"><b>Terms of Service</b></a> and <a href="/page/privacy/"><b>Privacy Policy</b></a></p>
+          </div>
+        </section>
+      </li>
+      <li>
+      <button class="PrimaryNav-toggleTheme" aria-label="Toggle dark theme">
+        <svg class="PrimaryNav-toggleIcon" role="presentation">
+      <title>Dark Mode</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#darkmode">
+  </svg>
+      </button>
+      </li>
+        <li class="PrimaryNav-menuContainer">
+      <button class="PrimaryNav-menuIcon js-toggleExpanded" aria-expanded="false" aria-label="Toggle main menu">
+        <svg class="" role="presentation">
+      <title>Menu Icon</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#hamburger-menu">
+  </svg>
+      </button>
+      <div class="PrimaryNav-menu">
+        
+<ul class="PrimaryNavItemList">
+      <li class="PrimaryNavItemList-search">
+      <section id="Search" class="SiteSearch">
+  <form class="SiteSearch-form" action="/site/search" method="get">
+    <input type="hidden" name="View" value="Search" />
+    <label class="hidden">Search</label>
+    <input class="SiteSearch-searchInput" name="q" type="search" placeholder="Search Comicbook.com" />
+    <button class="SiteSearch-submit" aria-label="Search">
+      <svg class="" role="presentation">
+      <title>Search</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#search">
+  </svg>
+    </button>
+  </form>
+  <button class="SiteSearch-close" aria-label="Close search">
+    <svg class="" role="presentation">
+      <title>Close Search</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#close">
+  </svg>
+  </button>
+</section>
+    </li>
+  
+  <li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <span class="PrimaryNavItem-fauxLink">Franchises</span>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle Franchises sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/dc/">DC</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/marvel/">Marvel</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/thewalkingdead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/starwars/">Star Wars</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/startrek/">Star Trek</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/anime/">Anime</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/horror/">Horror</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/powerrangers/">Power Rangers</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/wwe/">WWE</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/gaming/">Gaming</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/irl/">IRL</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/">Popular</a>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle Popular sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/logan/">Logan</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-walking-dead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/guardians-of-the-galaxy-2/">Guardians of the Galaxy Vol. 2</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/game-of-thrones/">Game of Thrones</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/power-rangers-2017-/">Power Rangers</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/rogue-one-a-star-wars-story/">Rogue One: A Star Wars Story</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/movies/">Movies</a>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle Movies sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/movies/news/">Movie News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/movie/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-top-metacritic-comic-movies-/">Metacritic Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/franchise-movies-release-schedule/">Release Schedule</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-anticipated-rankings-comic-book-movies/">Anticipation Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/top-grossing-comic-book-movies-worldwide-/">Top Grossing Comic Movies</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/movie-reviews/">Movie Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/wonder-woman-2/">Wonder Woman 1984</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/mulan-2019-/">Mulan (2020)</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/black-widow-comicmovie/">Black Widow</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/dune-2020-/">Dune (2020)</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/f9/">F9</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/tv-shows/">TV</a>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle TV sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/tv-shows/news/">TV News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/tv/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/comicbook-com-top-metacritic-tvshows-/">Metacritic Rankings</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/upcoming-tv-episodes/">Upcoming Episodes</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/tv-reviews/">TV Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-walking-dead/">The Walking Dead</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/stranger-things/">Stranger Things</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/cws-the-flash/">The Flash</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/marvels-agents-of-s-h-i-e-l-d-/">Agents of S.H.I.E.L.D.</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/arrow/">Arrow</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/supergirl-tvshow/">Supergirl </a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/gotham/">Gotham</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/westworld-tvshow/">Westworld</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/the-witcher-tvshow/">The Witcher</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="/comics/">Comics</a>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle Comics sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/comics/news/">Comic News</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/comic/database/">Database</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/comic-reviews/">Comic Reviews</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/">DC Comics</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/image-comics/">Image Comics</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/category/-marvel-comics/">Marvel Comics</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <span class="PrimaryNavItem-fauxLink">Community</span>
+              <button class="PrimaryNavItem-toggle js-toggleExpanded" aria-expanded="false" aria-label="Toggle Community sub-menu">
+        <svg class="PrimaryNavItem-toggleIcon" role="presentation">
+      <title>Arrow</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right">
+  </svg>
+      </button>
+              </div>
+      <ul class="PrimaryNavItem-subItemList">
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/top-100-ultimate-users/">Comicbook Top 100 Ultimate Users</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/list/ultimate-staff/">Comicbook Ultimate Staff</a>
+      </li>
+          <li class="PrimaryNavItem-subItem">
+        <a class="PrimaryNavItem-subItemLink" href="/hottopics/">Top 10 Hot Topics</a>
+      </li>
+        </ul>
+  </li>
+<li class="PrimaryNavItem">
+  <div class="PrimaryNavItem-main">
+          <a class="PrimaryNavItem-mainLink" href="https://www.youtube.com/user/ComicBookCom/playlists?sort=lad&view=1&flow=grid">Video</a>
+                  </div>
+  </li>
+
+      <li class="PrimaryNavItemList-socialContainer">
+      <ul class="PrimaryNavItemList-socialList">
+                  <li class="PrimaryNavItemList-socialListItem">
+            <a class="PrimaryNavItemList-socialLink" href="https://twitter.com/ComicBook" target="_blank" title="Join Us on Twitter" rel="noopener">
+              <svg class="" role="presentation">
+      <title>Twitter</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#twitter">
+  </svg>
+            </a>
+          </li>
+                          <li class="PrimaryNavItemList-socialListItem">
+            <a class="PrimaryNavItemList-socialLink" href="https://facebook.com/comicbookdotcom" target="_blank" title="Join Us on Facebook" rel="noopener">
+              <svg class="" role="presentation">
+      <title>Facebook</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#facebook">
+  </svg>
+            </a>
+          </li>
+                          <li class="PrimaryNavItemList-socialListItem">
+            <a class="PrimaryNavItemList-socialLink" href="https://www.youtube.com/user/ComicBookCom/playlists" target="_blank" title="Join Us on YouTube" rel="noopener">
+              <svg class="" role="presentation">
+      <title>Video</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#video">
+  </svg>
+            </a>
+          </li>
+              </ul>
+    </li>
+  </ul>
+      </div>
+    </li>
+    <li class="PrimaryNav-search">
+      <button class="PrimaryNav-searchIcon js-toggleExpanded" aria-expanded="false" aria-label="Toggle site search">
+        <svg class="" role="presentation">
+      <title>Search</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#search">
+  </svg>
+      </button>
+      <div class="PrimaryNav-searchPopout">
+        <section id="Search" class="SiteSearch SiteSearch--canClose">
+  <form class="SiteSearch-form" action="/site/search" method="get">
+    <input type="hidden" name="View" value="Search" />
+    <label class="hidden">Search</label>
+    <input class="SiteSearch-searchInput" name="q" type="search" placeholder="Search Comicbook.com" />
+    <button class="SiteSearch-submit" aria-label="Search">
+      <svg class="" role="presentation">
+      <title>Search</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#search">
+  </svg>
+    </button>
+  </form>
+  <button class="SiteSearch-close" aria-label="Close search">
+    <svg class="" role="presentation">
+      <title>Close Search</title>
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#close">
+  </svg>
+  </button>
+</section>
+      </div>
+    </li>
+  </ul>
+</nav></header>
+        <section class="main clearfix" id="main-content" role="main" data-exp="">
+        	<div class="article-container " data-var="B">
+						<script type="application/ld+json">
+			{"@content":"http://schema.org","@type":"WebPage","name":"Disney Investor Urges Company to Move Marvel's Black Widow to Streaming","description":"A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]","speakable":"A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed Black Widow, to bypass movie theaters for a streaming premiere on Disney+. Days before The Walt Disney Company announced a restructuring that would immediately shift its 'primary [...]","breadcrumb":"Comicbook.com > movies > news > disney marvel studios black widow disney plus streaming skip theaters investor dan loeb > \n","publisher":{"@type":"Organization","@id":"https://comicbook.com","name":"Comicbook.com","sameAs":["https://www.facebook.com/comicbookdotcom/","https://twitter.com/comicbook","https://www.youtube.com/channel/UCtnSBeKEA0swUnGHQ08SibQ"],"Logo":{"@type":"ImageObject","url":"https://prodasset.comicbook.com/dist/img/comicbook/comicbook-amp.png?v=1","width":460,"height":60}},"url":"https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/","PotentialAction":{"@type":"SearchAction","target":"https://comicbook.com/site/search/?View=Search&q={search_term_string}","query-input":"required name=search_term_string"},"mainEntity":{"@context":"http://schema.org","@graph":[{"@context":"http://schema.org","@type":"Movie","name":"Black Widow","image":"https://media.comicbook.com/2020/03/black-widow-default4-1210174.jpeg","datePublished":"2021-05-07T04:00:00+00:00","dateCreated":"2021-05-07T04:00:00+00:00","actor":[{"@type":"Person","name":"Scarlett Johansson"},{"@type":"Person","name":"David Harbour"},{"@type":"Person","name":"Florence Pugh"},{"@type":"Person","name":"Rachel Weisz"},{"@type":"Person","name":"O-T Fagbenle"}],"director":[{"@type":"Person","name":"Cate Shortland"}],"musicBy":[{"@type":"Person","name":"Alexandre Desplat"}],"producer":[{"@type":"Person","name":"Kevin Feige"}],"author":[{"@type":"Person","name":"Stan Lee"},{"@type":"Person","name":"Don Heck"},{"@type":"Person","name":"Jac Schaeffer "},{"@type":"Person","name":"Ned Benson"},{"@type":"Person","name":"Eric Pearson"}],"productionCompany":[{"@type":"Organization","name":"Marvel Studios"},{"@type":"Organization","name":"Walt Disney Studios Motion Pictures"}],"sameAs":["https://www.imdb.com/title/tt3480822/","https://en.wikipedia.org/wiki/Black_Widow_(2020_film)","https://www.metacritic.com/movie/black-widow"]}]}}		</script>
+						
+<section
+    id="section0"
+    class="article-content"
+    data-key="343579"
+    data-mobileads="4"
+    data-desktopads="2"
+    data-slug="/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/"
+    data-type="article"
+    data-count="0"
+    data-author="Cameron Bonomolo"
+    data-authorkey="220771"
+    data-authorAlias="CameronBonomolo"
+    data-thumbnail="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-160x90.jpeg"
+    data-date="2020-10-17 03:51:06"
+    data-permalink="https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/"
+    data-modifiedDate="2020-10-16 02:50:04"
+    data-title="Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming"
+    data-pagetype="headline"
+    data-pagesubtype="article"
+    data-collectionvalue=""
+    data-img140="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-140x140.jpeg"
+    data-tags='["Black Widow","Disney"]'
+>
+    <header class="article-header">
+        <h1 id="title0">Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming</h1>
+        <div class="byline-component" id="">
+	<p class="author">
+		By <a class="author" href="/author/CameronBonomolo/"><span>Cameron Bonomolo</span></a>
+		<time> - October 15, 2020 10:50 pm EDT</time>
+	</p>
+	<div class="social_blk" aria-label="Social media links">
+	<a href="#" class="mobile-share-activator">
+        <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#share">
+  </svg>
+		Share
+	</a>
+
+			<div class="comments">
+			<a href="javascript:;" class="mobile-comments-activator" onclick="onClickActivateComments(343579,'#comments');">
+				<span data-comment-count="343579">4 Comments</span>
+			</a>
+		</div>
+	    <ul class="social-list">
+        <li class="facebook">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" target="_blank" aria-label="Share on Facebook">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#facebook">
+  </svg>
+            </a>
+        </li>
+        <li class="twitter">
+            <a href="https://twitter.com/share?via=ComicBook&text=Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming&url=https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" target="_blank" aria-label="Share on Twitter">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#twitter">
+  </svg>
+            </a>
+        </li>
+        <li class="reddit">
+            <a href="//www.reddit.com/submit?url=https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" target="_blank" aria-label="Share on Reddit">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#reddit">
+  </svg>
+            </a>
+        </li>
+        <li class="sms_itm ios">
+            <a href="sms:&body=Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming - https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" class="sms" data-google-event="sms" aria-label="Share via sms">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#sms">
+  </svg>
+            </a>
+        </li>
+        <li class="sms_itm android">
+            <a href="sms:&body=Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming - https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" class="sms" data-google-event="sms" aria-label="Share via sms">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#sms">
+  </svg>
+            </a>
+        </li>
+        <li class="email">
+            <a href="mailto:?&subject=Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming on Comicbook.com&body=Hi! Check out this article from Movies about Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming: https://comicbook.com/movies//news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" rel="noopener" target="_blank" aria-label="Share via email">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#mail">
+  </svg>
+            </a>
+        </li>
+					<li class="comments">
+				<a href="javascript:;" onclick="onClickActivateComments(343579,'#comments');" aria-label="View 4 comments">
+    				<span data-comment-count="343579">4</span>
+				</a>
+			</li>
+		    </ul>
+</div>
+</div>    </header>
+                                
+        <!-- Video -->
+        <article class="video-content-section" itemprop="articleBody">
+            <div id="embedVideoContainer_161516321122021185" class="popculture-embed embedVideoContainer js-videoEmbed" name="embedVideo_161516321122021185">
+        <div id="player-position" class="player-position" style="width: 100%;height: 100%;margin: 0px;border: none;position: absolute;top: 0;left: 0;"><div id="click-close" class="click-close" style="font-size: 30px;line-height: 28px;position: absolute;top: -21px;left: -21px;color: black;display: none;cursor: pointer;-webkit-text-stroke: 1px white;" onclick="">&#10006;</div><iframe id="embedVideo_161516321122021185" class="optanon-category-5 popculture-embed embedVideo" name="embedVideo_161516321122021185" style="width: 100%;height: 100%;margin: 0px;border: none;position: absolute;top: 0;left: 0;" scrolling="no" allowfullscreen="true" data-src="https://embed.comicbook.com/player/embed?args=player_id%3D161516321122021185%26log_window%3Dfalse%26resizable%3Dtrue%26autoplay%3Dfalse%26comp_ads_enabled%3Dfalse%26source%3Dcomicbook%26resizable%3Dtrue%26watchAndRead%3D0%26uvpc%3Dhttps%3A%2F%2Fwww.cbssports.com%2Fapi%2Fcontent%2Fvideo%2Fconfig%2F%3Fcfg%3Duvp_comicbook%26env%3Dprod%26warW%3D300%26warH%3D169%26js%3Djs%2Fmedia%2Fvideo%2Fplayer%2Fembed%2Fcslive.js%26css%3Dcss%2Fmedia%2Fvideo%2Fplayer%2Fembed%2Fcslive.css%26force_no_ads%3Dtrue%26ids%3D1a4bcd85-3345-4147-8983-9c521a014a12%26env%3Dprod%26partner%3Dcomicbook%26partner_m%3Dcomicbook_mobile%26utag%3Dcomicbooksite%26"></iframe></div></div>
+<div id="mobile-incontent-social" data-width="12" data-height="12" data-ad="mobile-incontent-social"></div><p>A top Disney investor wants the company's movies with blockbuster potential, including Marvel Studios' twice-delayed <em><a href="/category/black-widow-comicmovie/">Black Widow</a></em>, to bypass movie theaters for a streaming premiere on <a href="/category/disney-streaming-service/">Disney+</a>. Days before The Walt Disney Company <a href="https://comicbook.com/irl/news/disney-corporate-reorganization-places-more-focus-on-streaming-disney-plus-hulu/" target="_blank" rel="noopener">announced a restructuring</a> that would immediately shift its "primary focus" to streaming via its Disney+, ESPN+, and Hulu platforms, the company sent Pixar's <em>Soul</em> straight-to-streaming for a Christmas Day release on Disney+ <a href="https://comicbook.com/movies/news/pixar-soul-disney-plus-no-fee-mulan-premier-access/" target="_blank" rel="noopener">without </a><a href="https://comicbook.com/movies/news/pixar-soul-disney-plus-no-fee-mulan-premier-access/" target="_blank" rel="noopener"><em>Mulan</em></a><a href="https://comicbook.com/movies/news/pixar-soul-disney-plus-no-fee-mulan-premier-access/" target="_blank" rel="noopener">'s $29.99 Premier Access fee</a>. Dan Loeb, the hedge fund manager for Third Point with roughly a $1 billion stake in the company, says sending high-profile films like <em><a href="/category/black-widow-comicmovie/">Black Widow</a></em> to Disney+ would attract new subscribers while retaining current customers.</p><p>"What Netflix has is this immense subscriber base that allows it to invest in an enormous amount of content and amortize that to get more subscribers," Loeb told <a href="https://variety.com/2020/film/news/dan-loeb-disney-streaming-spending-1234796386/" target="_blank" rel="noopener"><em>Variety</em></a>. "Disney isn't there yet, but they need to get there as quickly as possible. If they don't get critical mass in their subscriber base, they will be permanently disadvantaged versus Netflix."</p><p>Disney has already surpassed 60 million subscribers since launching Disney+ in November 2019. In August, Disney CEO Bob Chapek confirmed the streamer reached <a href="https://comicbook.com/movies/news/disney-60-million-subscribers-reached-5-years-early/" target="_blank" rel="noopener">its five-year goal</a> in just eight months, putting the service ahead of a forecast <a href="https://comicbook.com/tv-shows/news/disney-plus-users-forecast-2025/" target="_blank" rel="noopener">predicting 200 million subscribers</a> by 2025.</p><div class="modernInContent"><div id="mobile-native-plus-top1" class="mobile"></div></div><p>To move the streamer closer to Netflix's 193 million paid subscribers, Loeb urges Disney to skip theaters and instead send 2021-dated films like <em><a href="/category/black-widow-comicmovie/">Black Widow</a></em> to Disney+.</p><div class="modernInContent"><div id="native-plus-top1"></div></div><p>"My understanding is that the old-line executives don't want to go over the top with their big tentpole movies, which is why they announced they were pushing <em>Black Widow</em> and other movies to 2021," Loeb said. "I don't think they appreciate the tiger they have by the tail, which is to say the value they can drive by moving into a subscription model, which has been adopted by everyone from Microsoft to Amazon. It's so value accretive."</p><div class="modernInContent"><div id="mobile-native-plus-top2" class="mobile"></div></div><p>Loeb predicts theaters shuttered by the COVID-19 pandemic will survive but foresees them becoming more of a "novelty experience," saying the world is "going to go largely toward online distribution." Disney's October 12 reorganization is a step in that direction, but Chapek says the company will <a href="https://comicbook.com/movies/news/disney-will-still-release-movies-theatrically/" target="_blank" rel="noopener">continue theatrical releases</a> despite its focus on streaming.</p><p>"We've benefited from a tremendous relationship with theatrical exhibition for many, many, many years. As dynamics change in the marketplace, though, we want to make sure we're giving consumers, who want to go to theaters to experience everything that a theatrical release can give them, we want to continue to give them that option," Chapek said on CNBC's <em>Closing Bell</em>.</p><div class="modernInContent"><div id="native-plus-top2"></div><div id="mobile-native-plus-top3" class="mobile"></div></div><p>Acknowledging the growing number of consumers who wish to experience Disney films "from the safety, comfort, and convenience of their own home," he added, "We want to make sure that we put the consumer first, and the consumer is going to be making the decision in terms of how they consume our media as opposed to some arbitrary decision that we may make from a distribution standpoint. So we want to look at ourselves as consumer enablers."</p><a class="mid-content-comment js-activateComments" data-key="343579" data-root="#comments" href="#"><span>4</span><span>comments</span></a><p>Previously set for May 1 and then November 6, 2020, the Scarlett Johansson-starring <em>Black Widow</em> is now dated May 7, 2021. The delay makes 2020 the <a href="https://comicbook.com/movies/news/black-widow-delay-2020-first-year-without-marvel-studios-movie-since-2009/" target="_blank" rel="noopener">first year without a Marvel Studios film since 2009</a>.</p><p>Phase 4 of the Marvel Cinematic Universe launches with <em>WandaVision</em>, the first Marvel Studios series, premiering exclusively on Disney+ before the end of the year. A second season of the streamer's inaugural original series, <em>Star Wars</em> spinoff <em>The Mandalorian</em>, releases on October 30.</p><div class="modernInContent"><div id="mobile-native-plus-top4" class="mobile"></div></div>
+            <div id="bottom0" class="hidden" data-tags="Black Widow+Disney">
+            <!-- here for the data-tags section -->
+        </div>
+    </article>
+    
+    
+            <div class="btn-wide-container">
+                            <a class="btn-themed btn-wide js-activateComments" data-key="343579" data-root="#comments">
+                    Comments ( 4 )
+                </a>
+                    </div>
+        <div class="article-break">
+        <a href="https://comicbook.com/movies/">
+            <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#comicbook-logo-grey">
+  </svg>
+        </a>
+    </div>
+</section>        <div class="lightbox">
+            <header>
+                <p><span class="slidenumber"></span> of <span class="slidetotal"></span></p>
+                <h2></h2>
+                <div class="close"><svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#close">
+  </svg>
+</div>
+            </header>
+            <div class="current-slide jsActiveContent"></div>
+            <a class="slides-nav next-slide-button" data-js="next-slide-button"><svg role="presentation" title="Arrow Right" aria-hidden="true"><svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-right2">
+  </svg>
+</a>
+            <a class="slides-nav previous-slide-button" data-js="previous-slide-button"><svg role="presentation" title="Arrow Left" aria-hidden="true"><svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#arrow-left2">
+  </svg>
+</a>
+            <a class="slides-nav backtoarticle-button" data-js="backtoarticle-button" style="display: none;"><svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#close">
+  </svg>
+</a>
+        </div>
+	</div>
+
+<aside class="sidebar sidebar-sticky">
+    <div data-js="sticky">
+        <article class="current sticky-anchor" id="article-top" data-slug="/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" data-key="343579" data-index="0" data-mobileads="4" data-desktopads="2" data-type="article" data-count="0" data-author="Cameron Bonomolo" data-authorKey="220771" data-authorAlias="CameronBonomolo" data-thumbnail="https://media.comicbook.com/2020/10/disney-plus-marvel-studios-black-widow-comicbookcom-1241028-160x90.jpeg" data-date="2020-10-17 03:51:06" data-permalink="https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/" data-modifiedDate="2020-10-16 02:50:04" data-title="Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming" data-tags='["Black Widow","Disney"]' data-pagecurrent="1" data-numpages="1" data-pagetype="headline" data-pagesubtype="article">
+            <h3>
+                <a href="https://comicbook.com/movies/news/disney-marvel-studios-black-widow-disney-plus-streaming-skip-theaters-investor-dan-loeb/">
+                    Disney Investor Urges Company to Move Marvel’s Black Widow to Streaming                </a>
+            </h3>
+            <div class="story_progress">
+                <div class="bar" style="height: 100%; display: none;">
+                </div>
+            </div>
+        </article>
+
+                            <article class="" data-slug="/news/streaming-october-2020-netflix-new-disney-plus-hbo-max-hulu-amazon/" data-key="340953" data-index="1" data-mobileads="31" data-desktopads="31" data-type="slideshow" data-count="31" data-title="Everything Coming to Netflix, Disney+, HBO Max, Hulu & Amazon Prime Video in October 2020" data-author="Charlie Ridgely" data-authorKey="155622" data-authorAlias="Ridgely" data-thumbnail="https://media.comicbook.com/2020/05/netflix-disney-plus-hbo-max-hulu-streaming-1222506-160x90.jpeg" data-img140="https://media.comicbook.com/2020/05/netflix-disney-plus-hbo-max-hulu-streaming-1222506-140x140.jpeg" data-date="2020-09-25 21:01:26" data-permalink="https://comicbook.com/movies/news/streaming-october-2020-netflix-new-disney-plus-hbo-max-hulu-amazon/" data-modifiedDate="2020-09-25 21:01:26" data-pagecurrent="1" data-numpages="32" data-tags='["Netflix","HBO Max","Hulu","Disney","Amazon Prime"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/streaming-october-2020-netflix-new-disney-plus-hbo-max-hulu-amazon/">
+                                Everything Coming to Netflix, Disney+, HBO Max, Hulu & Amazon Prime Video in October 2020                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+        <div id="mpu-top" class="ad_blk oas large" data-rotate="true"></div>                    <article class="" data-slug="/news/man-of-steel-star-kevin-costner-wont-reveal-if-hes-returning-for-snyder-cut/" data-key="343796" data-index="3" data-mobileads="3" data-desktopads="2" data-type="article" data-count="0" data-title="Man of Steel Star Kevin Costner Won&#39;t Reveal If He&#39;s Returning for Zack Snyder&#39;s Justice League" data-author="Jamie Jirak" data-authorKey="231426" data-authorAlias="JamieJirak" data-thumbnail="https://media.comicbook.com/2020/10/snyder-cut-1241218-160x90.jpeg" data-img140="https://media.comicbook.com/2020/10/snyder-cut-1241218-140x140.jpeg" data-date="2020-10-18 00:56:04" data-permalink="https://comicbook.com/dc/news/man-of-steel-star-kevin-costner-wont-reveal-if-hes-returning-for-snyder-cut/" data-modifiedDate="2020-10-18 00:57:43" data-pagecurrent="1" data-numpages="1" data-tags='["Zack Snyders Justice League","Kevin Costner","Man of Steel"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/dc/news/man-of-steel-star-kevin-costner-wont-reveal-if-hes-returning-for-snyder-cut/">
+                                Man of Steel Star Kevin Costner Won&#39;t Reveal If He&#39;s Returning for Zack Snyder&#39;s Justice League                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+                            <article class="" data-slug="/news/dwayne-johnson-black-adam-movie-shooting-start-spring-2021-dc-movie/" data-key="343789" data-index="4" data-mobileads="2" data-desktopads="1" data-type="article" data-count="0" data-title="Dwayne Johnson Updates Black Adam Shooting Start " data-author="Cameron Bonomolo" data-authorKey="220771" data-authorAlias="CameronBonomolo" data-thumbnail="https://media.comicbook.com/2020/10/black-adam-movie-dwayne-johnson-1241213-160x90.jpeg" data-img140="https://media.comicbook.com/2020/10/black-adam-movie-dwayne-johnson-1241213-140x140.jpeg" data-date="2020-10-18 00:20:04" data-permalink="https://comicbook.com/movies/news/dwayne-johnson-black-adam-movie-shooting-start-spring-2021-dc-movie/" data-modifiedDate="2020-10-18 00:20:04" data-pagecurrent="1" data-numpages="1" data-tags='["Black Adam","Dwayne Johnson"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/dwayne-johnson-black-adam-movie-shooting-start-spring-2021-dc-movie/">
+                                Dwayne Johnson Updates Black Adam Shooting Start                             </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+                            <article class=" last-visible" data-slug="/news/spider-man-far-from-home-molten-man-concept-art/" data-key="343786" data-index="5" data-mobileads="2" data-desktopads="1" data-type="article" data-count="0" data-title="Spider-Man: Far From Home Concept Art Reveals New Look at Molten Man" data-author="Aaron Perine" data-authorKey="237566" data-authorAlias="AaronPerine" data-thumbnail="https://media.comicbook.com/2019/05/spider-man-far-from-home-molten-man-1170821-160x90.jpeg" data-img140="https://media.comicbook.com/2019/05/spider-man-far-from-home-molten-man-1170821-140x140.jpeg" data-date="2020-10-17 23:27:09" data-permalink="https://comicbook.com/movies/news/spider-man-far-from-home-molten-man-concept-art/" data-modifiedDate="2020-10-17 23:27:09" data-pagecurrent="1" data-numpages="1" data-tags='["SpiderMan Far From Home","Molten Man Marvel"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/spider-man-far-from-home-molten-man-concept-art/">
+                                Spider-Man: Far From Home Concept Art Reveals New Look at Molten Man                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+        <div id="mpu-middle" class="ad_blk oas large" data-rotate="true"></div>                    <article class="hidden" data-slug="/news/zack-snyder-army-of-the-dead-prequel-already-beginning-production/" data-key="343753" data-index="7" data-mobileads="3" data-desktopads="2" data-type="article" data-count="0" data-title="Zack Snyder&#39;s Army of the Dead Prequel Begins Production" data-author="Adam Barnhardt" data-authorKey="199035" data-authorAlias="abar" data-thumbnail="https://media.comicbook.com/2020/10/army-of-the-dead-cast-dave-bautista-netflix-1241190-160x90.jpeg" data-img140="https://media.comicbook.com/2020/10/army-of-the-dead-cast-dave-bautista-netflix-1241190-140x140.jpeg" data-date="2020-10-17 22:49:02" data-permalink="https://comicbook.com/movies/news/zack-snyder-army-of-the-dead-prequel-already-beginning-production/" data-modifiedDate="2020-10-17 22:49:02" data-pagecurrent="1" data-numpages="1" data-tags='["Army of the Dead","Zack Snyder"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/zack-snyder-army-of-the-dead-prequel-already-beginning-production/">
+                                Zack Snyder&#39;s Army of the Dead Prequel Begins Production                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+                            <article class="hidden" data-slug="/news/the-batman-set-photos-leak-confirm-flash-involvement/" data-key="343773" data-index="8" data-mobileads="3" data-desktopads="2" data-type="article" data-count="0" data-title="The Batman: Now a New Set Photo Teases the Flash Exists in Reboot Universe" data-author="Adam Barnhardt" data-authorKey="199035" data-authorAlias="abar" data-thumbnail="https://media.comicbook.com/2020/10/the-batman-flash-crossover-1241203-160x90.jpeg" data-img140="https://media.comicbook.com/2020/10/the-batman-flash-crossover-1241203-140x140.jpeg" data-date="2020-10-17 22:19:52" data-permalink="https://comicbook.com/movies/news/the-batman-set-photos-leak-confirm-flash-involvement/" data-modifiedDate="2020-10-17 22:19:52" data-pagecurrent="1" data-numpages="1" data-tags='["The Batman","The Flash"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/the-batman-set-photos-leak-confirm-flash-involvement/">
+                                The Batman: Now a New Set Photo Teases the Flash Exists in Reboot Universe                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+                            <article class="hidden" data-slug="/news/zack-snyders-justice-league-working-title-new/" data-key="343779" data-index="9" data-mobileads="2" data-desktopads="1" data-type="article" data-count="0" data-title="Zack Snyder&#39;s Justice League Gets New Working Title" data-author="Aaron Perine" data-authorKey="237566" data-authorAlias="AaronPerine" data-thumbnail="https://media.comicbook.com/2020/03/justice-league-new-look-ryan-choi-silas-stone-snyder-cut-1212773-160x90.jpeg" data-img140="https://media.comicbook.com/2020/03/justice-league-new-look-ryan-choi-silas-stone-snyder-cut-1212773-140x140.jpeg" data-date="2020-10-17 22:18:34" data-permalink="https://comicbook.com/movies/news/zack-snyders-justice-league-working-title-new/" data-modifiedDate="2020-10-17 22:18:34" data-pagecurrent="1" data-numpages="1" data-tags='["Zack Snyders Justice League","Justice League"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/zack-snyders-justice-league-working-title-new/">
+                                Zack Snyder&#39;s Justice League Gets New Working Title                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+                            <article class="hidden" data-slug="/news/how-hubie-halloween-star-adam-sandler-knows-if-he-made-a-bad-movie/" data-key="343768" data-index="10" data-mobileads="3" data-desktopads="2" data-type="article" data-count="0" data-title="How Hubie Halloween Star Adam Sandler Knows if He Made a Bad Movie" data-author="Jamie Jirak" data-authorKey="231426" data-authorAlias="JamieJirak" data-thumbnail="https://media.comicbook.com/2020/09/netflix-hubie-halloween-adam-sandler-julie-bowen-1236220-160x90.jpeg" data-img140="https://media.comicbook.com/2020/09/netflix-hubie-halloween-adam-sandler-julie-bowen-1236220-140x140.jpeg" data-date="2020-10-17 21:56:10" data-permalink="https://comicbook.com/movies/news/how-hubie-halloween-star-adam-sandler-knows-if-he-made-a-bad-movie/" data-modifiedDate="2020-10-17 21:59:37" data-pagecurrent="1" data-numpages="1" data-tags='["Hubie Halloween","Adam Sandler"]' data-pagetype="headline" data-pagesubtype="article">
+                        <h3>
+                            <a href="https://comicbook.com/movies/news/how-hubie-halloween-star-adam-sandler-knows-if-he-made-a-bad-movie/">
+                                How Hubie Halloween Star Adam Sandler Knows if He Made a Bad Movie                            </a>
+                        </h3>
+                        <div class="story_progress">
+                            <div class="bar" style="height: 100%; display: none;">
+                            </div>
+                        </div>
+                    </article>
+            </div>
+</aside>
+<div class="teaser-container">
+    <div class="next-article-tease" data-item="0">
+        <div>
+            <span>UP NEXT</span>
+        </div>
+        <a id="teaser-container-a" href="">
+            <img id="teaser-container-img" src="">
+            <h3 id="teaser-container-title"></h3>
+        </a>
+       <div class="close"><svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#close">
+  </svg>
+</div>
+    </div>
+</div>
+    </section>
+
+                <section id="comments"></section>
+        <footer class="pc-site-footer">
+        <div class="site-links">
+            <ul>
+                <li><a href="https://popculture.com/entertainment/">Entertainment</a></li>
+                <li><a href="https://popculture.com/celebrity/">Celebrity</a></li>
+                <li><a href="https://comicbook.com">Comicbook</a></li>
+                <li><a href="https://comicbook.com/gaming/">Gaming</a></li>
+                <li><a href="https://popculture.com/lifestyle/">Lifestyle</a></li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="https://comicbook.com/page/about/">About</a>
+                </li>
+                <li>
+                    <a href="https://comicbook.com/page/contact/">Contact</a>
+                </li>
+                <li>
+                    <a href="https://popculture.com/page/advertising/">Advertising</a>
+                </li>
+                <li>
+                    <a href="https://comicbook.com/page/jobs/">Careers</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="https://legalterms.cbsinteractive.com/privacy">Privacy</a>
+                </li>
+                <li>
+                    <a href="https://popculture.com/page/dmca/">DMCA</a>
+                </li>
+                <li>
+                    <a href="https://legalterms.cbsinteractive.com/terms-of-use">Terms of Service</a>
+                </li>
+                <li>
+                    <a href="https://ca.privacy.cbs">CA Privacy/Info We Collect</a>
+                </li>
+                <li>
+                    <a href="https://ca.privacy.cbs/donotsell">CA Do Not Sell My Info</a>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="/user/new/">Register</a>
+                </li>
+                <li>
+                    <a href="/login/">Login</a>
+                </li>
+            </ul>
+        </div>
+        <div class="about">
+            <div>
+                <a href="/">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#comicbook-logo-1">
+  </svg>
+                </a>
+                <a href="https://popculture.com/">
+                <svg class="" role="presentation">
+        <use xlink:href="/dist/svg-defs.a22a3947.svg#popculture-logo-1">
+  </svg>
+                </a>
+            </div>
+            <p><img alt="Gamespot Logo" src="https://www.gamespot.com/bundles/phoenixsite/images/core/loose/logo-gamespot-clear.png"> Copyright 2018 ComicBook.com. All rights reserved.</p>
+        </div>
+        <div class="server_blk">
+                            <!-- 10.10.11.161-->                    </div>
+    </footer>
+
+    <script type='text/javascript' src='https://prodasset.comicbook.com/dist/shared.vendor.21d3d041.js'></script>
+<script type='text/javascript' src='https://prodasset.comicbook.com/dist/cb.article.54a225f2.js'></script>
+    <script>
+        document.dispatchEvent(new Event("pcm.content.loaded"));
+    </script>
+</body>
+
+</html>

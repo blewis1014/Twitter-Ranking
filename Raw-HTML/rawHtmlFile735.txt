@@ -1,0 +1,982 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js no-svg" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Next-Gen Marvel’s Avengers and DLC Delayed – IGN Daily Fix &#8211; e-News.US</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="e-News.US &raquo; Feed" href="https://e-news.us/feed/" />
+<link rel="alternate" type="application/rss+xml" title="e-News.US &raquo; Comments Feed" href="https://e-news.us/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/e-news.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=1da1c95139021f420d29d8ec74f7a0ae"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='radio-style-css'  href='https://e-news.us/wp-content/plugins/codescar-radio-widget/radio-style.css?ver=1da1c95139021f420d29d8ec74f7a0ae' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://e-news.us/wp-includes/css/dist/block-library/style.min.css?ver=1da1c95139021f420d29d8ec74f7a0ae' type='text/css' media='all' />
+<link rel='stylesheet' id='fastest-style-css'  href='https://e-news.us/wp-content/themes/fastest/style.css?ver=1da1c95139021f420d29d8ec74f7a0ae' type='text/css' media='all' />
+<link rel='stylesheet' id='fastest-icons-css'  href='https://e-news.us/wp-content/themes/fastest/assets/css/fastest-icons.css?ver=1da1c95139021f420d29d8ec74f7a0ae' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://e-news.us/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://e-news.us/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://e-news.us/wp-content/plugins/codescar-radio-widget/radio-js.js?ver=1da1c95139021f420d29d8ec74f7a0ae'></script>
+<script type='text/javascript' src='https://e-news.us/wp-content/themes/fastest/assets/js/stickyheader.js?ver=1da1c95139021f420d29d8ec74f7a0ae'></script>
+<link rel='https://api.w.org/' href='https://e-news.us/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://e-news.us/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://e-news.us/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Kim Kardashian Recreates Iconic 2007 Photo On The Hood Of Her Range Rover In Velour Tracksuit' href='https://e-news.us/kim-kardashian-recreates-iconic-2007-photo-on-the-hood-of-her-range-rover-in-velour-tracksuit/' />
+<link rel='next' title='Watch NBC News NOW Live &#8211; October 16' href='https://e-news.us/watch-nbc-news-now-live-october-16/' />
+
+<link rel="canonical" href="https://e-news.us/next-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix/" />
+<link rel='shortlink' href='https://e-news.us/?p=1138417' />
+<link rel="alternate" type="application/json+oembed" href="https://e-news.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fe-news.us%2Fnext-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://e-news.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fe-news.us%2Fnext-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix%2F&#038;format=xml" />
+	<style type="text/css">
+		a, .entry-content a, a:hover, .entry-content a:hover, h2.entry-title a:hover, footer#colophon a:hover, h2.entry-title a:hover, .recentcomments a:hover { color: #000070; }
+
+		.page-numbers.current, .comment-reply-link, .form-submit input, .nav-links span:hover, .nav-links a:hover { background-color:#000070; }
+
+		h4.widgettitle {border-bottom: 2px solid #000070 }
+
+		.page-numbers.current, .nav-links span:hover, .nav-links a:hover, .nav-previous a:hover, .nav-next a:hover, .comment-reply-link:hover, .form-submit input:hover { border: 2px solid #000070; }
+
+		.hero p, .hero h1, .hero h2, .hero h3, .hero h4, .hero h5, .hero h6 { color:#d6d6d6; }
+
+		.site-header, .main-navigation ul ul a { background-color:#033b9e; }
+
+		.site-header a, .site-description, .main-navigation .desktop-dropdownsymbol { color:#fff; }
+
+		.site-header a:hover, .main-navigation .desktop-dropdownsymbol:hover, .main-navigation li li a:hover { color:#5cafb2; }
+
+		footer#colophon { background-color:#080059; }
+
+		footer#colophon a, footer#colophon { color:#ffffff; }
+	</style>
+		
+	<meta http-equiv='Content-Language' content='en' />
+	<title>USA News Portal - e-news.us</title>
+	<meta name="GENERATOR" content="Vast Euro1 Ltd" />
+	<meta name="PageHandler" content="Vast Euro1 Ltd" />
+	<meta name="DESCRIPTION" content="Latest USA News - National - Politics Financial News, Updated News for USA, video news, sports, life style, youtube videos, technology and other subjects into e-radio.us" />
+	<meta name="KEYWORDS" content="latest news, radio news, video news from USA, TECHNOLOGY, ENTERTAINMENT, SPORTS, events, non stop music, CULTURE" />
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="e-news.us - news portal, radio news, politics, finance, world news lifestyle, Arts, Lifestyle "/>
+<meta property="og:description" content="The most accurate and updated without ads USA news portal"/>
+<meta property="og:image" content="https://e-news.us"/>
+<meta property="og:site_name" content="e-news.us"/>
+<meta property="og:url" content="https://e-news.us/"/>
+<link rel="canonical" href="https://e-news.us/" />	
+	
+</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-1138417 single-format-standard">
+	
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+				<header id="masthead" class="site-header topmost nav-down" itemscope itemtype="https://schema.org/WPHeader">
+			<div class="wrap">
+			<div class="site-branding">
+				<p class="site-title"><a href="https://e-news.us" rel="home"> e-News.US </a></p>				<p class="site-description">The USA Free Press</p>
+			</div><!-- .site-branding -->
+
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+
+			<nav id="site-navigation" class="main-navigation" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+			
+					<ul id="primary-menu" class="menu"><li id="menu-item-675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-675"><a itemprop="url"><span itemprop="name">Home &#8211; About</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-60147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-60147"><a href="https://e-news.us/" itemprop="url"><span itemprop="name">Home</span></a></li>
+	<li id="menu-item-676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-676"><a href="https://e-news.us/about-us/" itemprop="url"><span itemprop="name">About us</span></a></li>
+	<li id="menu-item-130806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-130806"><a href="https://e-news.us/privacy-policy/" itemprop="url"><span itemprop="name">Privacy Policy</span></a></li>
+	<li id="menu-item-262478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262478"><a href="https://e-news.us/terms-of-use-services/" itemprop="url"><span itemprop="name">Terms of Use – Services</span></a></li>
+	<li id="menu-item-451602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451602"><a href="https://e-news.us/advertisment-ads-with-us/" itemprop="url"><span itemprop="name">Advertisment – Ads With Us</span></a></li>
+	<li id="menu-item-491890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491890"><a href="https://e-news.us/add-your-website-news-feeds-into-e-news-us/" itemprop="url"><span itemprop="name">Add your website news feeds into e-news.us</span></a></li>
+</ul>
+</li>
+<li id="menu-item-132611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132611"><a itemprop="url"><span itemprop="name">70 Live Radios</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-132594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132594"><a href="https://e-news.us/70-live-radio-stations/" itemprop="url"><span itemprop="name">All 70 Live Radios Stations</span></a></li>
+	<li id="menu-item-132670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132670"><a href="https://e-news.us/now-top/" itemprop="url"><span itemprop="name">Now Top</span></a></li>
+	<li id="menu-item-132669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132669"><a href="https://e-news.us/rnb-hip-hop/" itemprop="url"><span itemprop="name">RnB &#038; Hip Hop</span></a></li>
+	<li id="menu-item-132668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132668"><a href="https://e-news.us/rock/" itemprop="url"><span itemprop="name">Rock</span></a></li>
+	<li id="menu-item-132667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132667"><a href="https://e-news.us/dance/" itemprop="url"><span itemprop="name">Dance</span></a></li>
+	<li id="menu-item-132665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132665"><a href="https://e-news.us/rest-music-genres/" itemprop="url"><span itemprop="name">Rest Music Genres</span></a></li>
+	<li id="menu-item-132662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132662"><a href="https://e-news.us/country-music/" itemprop="url"><span itemprop="name">Country Music</span></a></li>
+	<li id="menu-item-132666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132666"><a href="https://e-news.us/by-decades/" itemprop="url"><span itemprop="name">By Decades</span></a></li>
+	<li id="menu-item-132664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132664"><a href="https://e-news.us/easy-listening/" itemprop="url"><span itemprop="name">Easy Listening</span></a></li>
+	<li id="menu-item-132663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132663"><a href="https://e-news.us/jazz/" itemprop="url"><span itemprop="name">Jazz</span></a></li>
+	<li id="menu-item-132661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132661"><a href="https://e-news.us/classic-comedy/" itemprop="url"><span itemprop="name">Classic &#038; Comedy</span></a></li>
+	<li id="menu-item-761438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761438"><a href="https://e-news.us/20-live-christmas-radio-stations/" itemprop="url"><span itemprop="name">20 Live Christmas Radio Stations</span></a></li>
+</ul>
+</li>
+<li id="menu-item-878229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-878229"><a itemprop="url"><span itemprop="name">70 Radios &#8211; Mobile</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-132610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132610"><a href="https://e-news.us/70-live-radio-stations-mobile-view/" itemprop="url"><span itemprop="name">70 Live Radio Stations – Mobile View</span></a></li>
+	<li id="menu-item-132731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132731"><a href="https://e-news.us/now-top-mobile-view/" itemprop="url"><span itemprop="name">Now Top – Mobile View</span></a></li>
+	<li id="menu-item-132730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132730"><a href="https://e-news.us/rnb-hip-hop-mobile-view/" itemprop="url"><span itemprop="name">RnB &#038; Hip Hop – Mobile View</span></a></li>
+	<li id="menu-item-132729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132729"><a href="https://e-news.us/rock-mobile-view/" itemprop="url"><span itemprop="name">Rock – Mobile View</span></a></li>
+	<li id="menu-item-132728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132728"><a href="https://e-news.us/dance-mobile-view/" itemprop="url"><span itemprop="name">Dance – Mobile View</span></a></li>
+	<li id="menu-item-132726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132726"><a href="https://e-news.us/rest-music-genres-mobile-view/" itemprop="url"><span itemprop="name">Rest Music Genres – Mobile View</span></a></li>
+	<li id="menu-item-132727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132727"><a href="https://e-news.us/by-decades-mobile-view/" itemprop="url"><span itemprop="name">By Decades – Mobile View</span></a></li>
+	<li id="menu-item-132725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132725"><a href="https://e-news.us/easy-listening-mobile-view/" itemprop="url"><span itemprop="name">Easy Listening – Mobile View</span></a></li>
+	<li id="menu-item-132723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132723"><a href="https://e-news.us/country-music-mobile-view/" itemprop="url"><span itemprop="name">Country Music – Mobile View</span></a></li>
+	<li id="menu-item-132724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132724"><a href="https://e-news.us/jazz-mobile-view/" itemprop="url"><span itemprop="name">Jazz – Mobile View</span></a></li>
+	<li id="menu-item-132722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132722"><a href="https://e-news.us/comedy-classic-mobile-view/" itemprop="url"><span itemprop="name">Comedy &#038; Classic – Mobile View</span></a></li>
+	<li id="menu-item-761436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761436"><a href="https://e-news.us/20-live-christmas-radio-stations-mobile-view/" itemprop="url"><span itemprop="name">20 Live Christmas Radio Stations – Mobile View</span></a></li>
+</ul>
+</li>
+<li id="menu-item-963839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-963839"><a itemprop="url"><span itemprop="name">Major News</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-133030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133030"><a href="https://e-news.us/category/usa-latest-news/" itemprop="url"><span itemprop="name">USA</span></a></li>
+	<li id="menu-item-133029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133029"><a href="https://e-news.us/category/politcal-news/" itemprop="url"><span itemprop="name">Politics</span></a></li>
+	<li id="menu-item-188032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188032"><a href="https://e-news.us/category/world-news/" itemprop="url"><span itemprop="name">World News</span></a></li>
+	<li id="menu-item-133028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133028"><a href="https://e-news.us/category/all-about-finance-and-economical-news/" itemprop="url"><span itemprop="name">Finance</span></a></li>
+	<li id="menu-item-851599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-851599"><a href="https://e-news.us/category/video-news/" itemprop="url"><span itemprop="name">Video News</span></a></li>
+	<li id="menu-item-679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-679"><a href="https://e-news.us/category/science-tech-health/" itemprop="url"><span itemprop="name">Science-Health-Tech</span></a></li>
+</ul>
+</li>
+<li id="menu-item-133027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-133027"><a itemprop="url"><span itemprop="name">News</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-90269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90269"><a href="https://e-news.us/category/sports/" itemprop="url"><span itemprop="name">Sports</span></a></li>
+	<li id="menu-item-493499" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493499"><a href="https://e-news.us/category/auto-moto/" itemprop="url"><span itemprop="name">Auto-Moto</span></a></li>
+	<li id="menu-item-677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-677"><a href="https://e-news.us/category/lifestyle/" itemprop="url"><span itemprop="name">Lifestyle</span></a></li>
+	<li id="menu-item-680" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-680"><a href="https://e-news.us/category/entertainment/" itemprop="url"><span itemprop="name">Entertainment</span></a></li>
+	<li id="menu-item-678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-678"><a href="https://e-news.us/category/latest-music-news/" itemprop="url"><span itemprop="name">Music</span></a></li>
+	<li id="menu-item-493526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493526"><a href="https://e-news.us/category/usa-crime-news/" itemprop="url"><span itemprop="name">Crime</span></a></li>
+	<li id="menu-item-452784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452784"><a href="https://e-news.us/category/usa-defense-news/" itemprop="url"><span itemprop="name">Defense</span></a></li>
+</ul>
+</li>
+<li id="menu-item-161286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-161286"><a itemprop="url"><span itemprop="name">More Live</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-161365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161365"><a href="https://e-news.us/live-financial-rates/" itemprop="url"><span itemprop="name">Live Rates</span></a></li>
+	<li id="menu-item-147545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147545"><a href="https://e-news.us/watch-live-and-interactive-weather-forecast-live-hurricanes-and-cams/" itemprop="url"><span itemprop="name">Live Weather</span></a></li>
+	<li id="menu-item-189582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189582"><a href="https://e-news.us/all-sports-live-score/" itemprop="url"><span itemprop="name">All Sports LiveScore</span></a></li>
+	<li id="menu-item-612757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612757"><a href="https://e-news.us/nbc2-live-now/" itemprop="url"><span itemprop="name">NBC2 Live Now</span></a></li>
+</ul>
+</li>
+<li id="menu-item-921680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-921680"><a href="https://e-news.us" itemprop="url"><span itemprop="name">Home</span></a></li>
+</ul>			</nav>
+
+		</div>
+	</header><!-- #masthead -->
+	<div id="content" class="site-content">
+		<div class="wrap">
+
+							
+		
+	<div id="primary" class="content-area">
+		<main id="main" role="main" class="site-main">
+
+		
+
+<article id="post-1138417" class="post-1138417 post type-post status-publish format-standard hentry category-entertainment tag-avengers tag-daily tag-delayed tag-marvels tag-nextgen" itemscope itemtype="https://schema.org/CreativeWork">
+		<!-- Enclosure 1 else_condition -->
+
+		<header class="entry-header">
+
+							<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="home"><i class="fastest-icon icon-home"></i></span><span typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="https://e-news.us">Home</a></span><span class="seperator">&#8250;</i></span><span typeof="v:Breadcrumb"><a href="https://e-news.us/category/entertainment/" rel="v:url" property="v:title">Entertainment</a></span><span class="seperator">&#8250;</span></div>
+			
+			<h1 class="entry-title" itemprop="headline">Next-Gen Marvel’s Avengers and DLC Delayed – IGN Daily Fix</h1>                    <div class="featured_post_image">
+						                    </div>
+							<div class="entry-meta">
+				<span class="posted-on">On <a href="https://e-news.us/next-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix/" rel="bookmark"><time class="entry-date published updated" datetime="2020-10-17T00:55:10-04:00">October 17, 2020</time></a></span><span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<a class="url fn n" href="https://e-news.us/author/bdxz8dbaqiktp1gr123qa7s/" itemprop="url" rel="author">
+					<span itemprop="name">e-News.US</span>
+				</a>
+			</span></span>			</div><!-- .entry-meta -->
+					</header>
+
+		<div class="entry-content" itemprop="text">
+			<p>Next-Gen Marvel’s Avengers and DLC Delayed – IGN Daily Fix </p>
+<div>Next-Gen Marvel’s Avengers and DLC Delayed – IGN Daily Fix</div>
+<div>Marvel’s Avengers just can’t catch a break. After a lukewarm reception, the game’s next-gen versions and upcoming DLC have all been delayed. And speaking of things being delayed, don’t expect any new StarCraft 2 content like War Chests. Blizzard did promise to continue providing support for the game’s eSports scene. And if you’re browsing Disney+, you might notice a warning in front of some content; Sydnee explains what that means. It’s your Daily Fix!</div>
+<p><span style="color: #0000ff;">Source :  <strong><a class="colorbox-link" href="https://www.ign.com/videos/next-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix-" target="_blank" rel="noopener noreferrer">Link</a></strong></span></p>
+<p><strong><span style="color: #0000ff;">Source : e-Radio.US <a target="_blank" href="https://e-radio.us/next-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix/" rel="noopener noreferrer">Link</a></span></br><br />
+<a target="_blank" href="https://e-radio.us" rel="noopener noreferrer">For More Entertainment &#038; Events News Visit e-Radio.US</a></span></strong></p>
+		</div><!-- .entry-content -->
+
+		<!-- Enclosure 1 ends here -->
+			<footer class="entry-footer">
+			<span class="cat-links">Topics <a href="https://e-news.us/category/entertainment/" rel="category tag">Entertainment</a></span><span class="tags-links">tags <a href="https://e-news.us/tag/avengers/" rel="tag">‘Avengers</a>, <a href="https://e-news.us/tag/daily/" rel="tag">Daily</a>, <a href="https://e-news.us/tag/delayed/" rel="tag">delayed</a>, <a href="https://e-news.us/tag/marvels/" rel="tag">Marvel's</a>, <a href="https://e-news.us/tag/nextgen/" rel="tag">nextgen</a></span>		</footer><!-- .entry-footer -->
+	</article><!-- #post-1138417 -->
+
+
+<!-- Composite Start -->
+<div id="M434686ScriptRootC377065">
+</div>
+<script src="https://jsc.mgid.com/e/n/e-news.us.377065.js" async>
+</script>
+<!-- Composite End -->
+			</br>		
+				
+		<h3>Category Latest Posts</h3>
+		
+<ul>
+	
+
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/rhocs-braunwyn-windham-burke-says-husband-sean-is-not-living-with-her/">
+	<img width="250" height="250" src="https://e-news.us/wp-content/uploads/2020/10/ter-daughter-roman-cryptic-post-03-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ter-daughter-roman-cryptic-post-03-jpg.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/ter-daughter-roman-cryptic-post-03-jpg-150x150.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/ter-daughter-roman-cryptic-post-03-jpg-80x80.jpg 80w" sizes="(max-width: 250px) 100vw, 250px" /></br>	
+	<strong>RHOC&#8217;s Braunwyn Windham-Burke Says Husband Sean Is Not Living With Her</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/2-years-of-legal-cannabis-in-canada/">
+	</br>	
+	<strong>2 years of legal cannabis in Canada</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/sacha-baron-cohen-borat-2-tackles-dangerous-slide-to-authoritarianism/">
+	<img width="350" height="175" src="https://e-news.us/wp-content/uploads/2020/10/borat-2-trump-social-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/borat-2-trump-social-jpg.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/borat-2-trump-social-jpg-300x150.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Sacha Baron Cohen: ‘Borat 2’ Tackles “Dangerous Slide to Authoritarianism”</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/kelly-dodd-slams-ex-husband-michael-to-her-daughter-praises-rick-leventhal/">
+	<img width="250" height="250" src="https://e-news.us/wp-content/uploads/2020/10/special-wedding-to-rick-leventhal-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/special-wedding-to-rick-leventhal-jpg.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/special-wedding-to-rick-leventhal-jpg-150x150.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/special-wedding-to-rick-leventhal-jpg-80x80.jpg 80w" sizes="(max-width: 250px) 100vw, 250px" /></br>	
+	<strong>Kelly Dodd Slams Ex-Husband Michael to Her Daughter, Praises Rick Leventhal</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/church-of-england-got-its-sexyback-co-owns-beyonce-timberlake-songs/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/beyonce-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/beyonce-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/beyonce-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/beyonce-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Church of England got its ‘SexyBack,’ co-owns Beyonce, Timberlake songs</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/megan-and-harry-share-1st-official-portrait-since-royal-step-down/">
+	<img width="350" height="184" src="https://e-news.us/wp-content/uploads/2020/10/icial-portrait-since-stepping-down-as-senior-royals-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/icial-portrait-since-stepping-down-as-senior-royals-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/icial-portrait-since-stepping-down-as-senior-royals-jpg-300x158.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/icial-portrait-since-stepping-down-as-senior-royals-jpg-768x404.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Megan and Harry Share 1st Official Portrait Since Royal Step Down</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/home-improvement-star-zachery-ty-bryan-busted-for-allegedly-choking-girlfriend/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/home-improvement-jpg-1.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/home-improvement-jpg-1.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/home-improvement-jpg-1-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/home-improvement-jpg-1-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>‘Home Improvement’ star Zachery Ty Bryan busted for allegedly choking girlfriend</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/home-improvements-zachery-ty-bryan-arrested-for-allegedly-strangling-gf/">
+	<img width="188" height="250" src="https://e-news.us/wp-content/uploads/2020/10/eature-jpg-5.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" /></br>	
+	<strong>Home Improvement&#8217;s Zachery Ty Bryan Arrested for Allegedly Strangling GF</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/scott-disick-steps-out-for-date-night-with-model-megan-blake-irwin/">
+	<img width="350" height="184" src="https://e-news.us/wp-content/uploads/2020/10/or-date-night-with-model-megan-blake-irwin-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/or-date-night-with-model-megan-blake-irwin-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/or-date-night-with-model-megan-blake-irwin-jpg-300x158.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/or-date-night-with-model-megan-blake-irwin-jpg-768x404.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Scott Disick Steps Out for Date Night With Model Megan Blake Irwin</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/freddy-krueger-the-greatest-movie-slasher-of-all-time/">
+	</br>	
+	<strong>Freddy Krueger: The Greatest Movie Slasher of All Time</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/tyler-posey-on-the-blunt-physicality-of-alone-and-his-batman-beyond-dreams/">
+	<img width="350" height="244" src="https://e-news.us/wp-content/uploads/2020/10/alone-tyler-posey-600x419-jpeg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/alone-tyler-posey-600x419-jpeg.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/alone-tyler-posey-600x419-jpeg-300x210.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Tyler Posey on the Blunt Physicality of ‘Alone,’ and His ‘Batman Beyond’ Dreams</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/eddie-redmayne-explains-why-the-trial-of-the-chicago-7-is-so-timely/">
+	<img width="350" height="214" src="https://e-news.us/wp-content/uploads/2020/10/lix-eddie-redmayne-mark-rylance-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/lix-eddie-redmayne-mark-rylance-jpg.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/lix-eddie-redmayne-mark-rylance-jpg-300x183.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Eddie Redmayne Explains Why ‘The Trial of the Chicago 7’ Is So Timely</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/the-trial-of-the-chicago-7-review-aaron-sorkin-gets-into-the-messy-politics-of-protest/">
+	<img width="350" height="214" src="https://e-news.us/wp-content/uploads/2020/10/laherty-eddie-redmayne-jeremy-strong-mark-rylance-600x366-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/laherty-eddie-redmayne-jeremy-strong-mark-rylance-600x366-jpg.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/laherty-eddie-redmayne-jeremy-strong-mark-rylance-600x366-jpg-300x183.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>‘The Trial of the Chicago 7’ Review: Aaron Sorkin Gets into the Messy Politics of Protest</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/celeb-bodyguard-goes-from-protecting-bella-hadid-to-the-big-screen/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/mr-muscle-simon-newton-1-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/mr-muscle-simon-newton-1-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/mr-muscle-simon-newton-1-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/mr-muscle-simon-newton-1-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Celeb bodyguard goes from protecting Bella Hadid to the big screen</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/giuliana-rancic-my-family-got-through-covid-19-after-testing-positive/">
+	<img width="250" height="250" src="https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-150x150.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-80x80.jpg 80w" sizes="(max-width: 250px) 100vw, 250px" /></br>	
+	<strong>Giuliana Rancic: My Family Got Through COVID-19 After Testing Positive</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/giuliana-rancic-my-family-got-through-covid-19-after-testing-positive-2/">
+	<img width="250" height="250" src="https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-1.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-1.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-1-150x150.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/ter-testing-positive-inline-2-jpg-1-80x80.jpg 80w" sizes="(max-width: 250px) 100vw, 250px" /></br>	
+	<strong>Giuliana Rancic: My Family Got Through COVID-19 After Testing Positive</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/vanessa-bryants-daughters-natalia-17-bianka-3-show-off-their-moves-on-friday-tiktok-night-3/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/tr-2-150x150-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/tr-2-150x150-jpg.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/tr-2-150x150-jpg-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>Vanessa Bryant’s Daughters Natalia, 17 &amp; Bianka, 3, Show Off Their Moves On ‘Friday TikTok Night’</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/vanessa-bryants-daughters-natalia-17-bianka-3-show-off-their-moves-on-friday-tiktok-night-2/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-2.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-2.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-2-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>Vanessa Bryant’s Daughters Natalia, 17 &amp; Bianka, 3, Show Off Their Moves On ‘Friday TikTok Night’</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/vanessa-bryants-daughters-natalia-17-bianka-3-show-off-their-moves-on-friday-tiktok-night/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-1.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-1.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/tr-1-150x150-jpg-1-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>Vanessa Bryant’s Daughters Natalia, 17 &amp; Bianka, 3, Show Off Their Moves On ‘Friday TikTok Night’</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/bachelorettes-ashley-and-jp-list-home-for-1-15-million-amid-split/">
+	<img width="350" height="184" src="https://e-news.us/wp-content/uploads/2020/10/or-1-15-million-amid-split-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/or-1-15-million-amid-split-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/or-1-15-million-amid-split-jpg-300x158.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/or-1-15-million-amid-split-jpg-768x404.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Bachelorette&#8217;s Ashley and JP List Home for $1.15 Million Amid Split</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/trailers-of-the-week-the-crown-hillbilly-elegy-letter-to-you-and-more/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/bruce_springsteen_letter_to_you_photo_0103c-1-150x150-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/bruce_springsteen_letter_to_you_photo_0103c-1-150x150-jpg.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/bruce_springsteen_letter_to_you_photo_0103c-1-150x150-jpg-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>Trailers of the Week: ‘The Crown,’ ‘Hillbilly Elegy,’ ‘Letter to You,’ and More</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/fashion-photographer-richard-avedons-life-was-far-from-glamorous/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/richard-avedon-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/richard-avedon-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/richard-avedon-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/richard-avedon-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Fashion photographer Richard Avedon’s life was far from glamorous</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/brian-austin-green-has-no-animosity-about-megan-foxs-serious-relationship/">
+	<img width="350" height="184" src="https://e-news.us/wp-content/uploads/2020/10/ox-machine-gun-kelly-getting-serious-promo-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ox-machine-gun-kelly-getting-serious-promo-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/ox-machine-gun-kelly-getting-serious-promo-jpg-300x158.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/ox-machine-gun-kelly-getting-serious-promo-jpg-768x404.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Brian Austin Green Has ‘No Animosity’ About Megan Fox&#8217;s &#8216;Serious&#8217; Relationship</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/terry-crews-pitbull-others-accused-of-failing-to-repay-speaking-fees/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/ees-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ees-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/ees-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/ees-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Terry Crews, Pitbull, others accused of failing to repay speaking fees</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/rhonda-fleming-movie-star-of-the-40s-and-50s-dies-at-97/">
+	<img width="333" height="250" src="https://e-news.us/wp-content/uploads/2020/10/leming-0-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/leming-0-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/leming-0-jpg-300x225.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/leming-0-jpg-768x576.jpg 768w" sizes="(max-width: 333px) 100vw, 333px" /></br>	
+	<strong>Rhonda Fleming, movie star of the ‘40s and ‘50s, dies at 97</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/bachelors-courtney-robertson-marries-fiance-humberto-preciado/">
+	<img width="350" height="184" src="https://e-news.us/wp-content/uploads/2020/10/eature-jpg-3.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/eature-jpg-3.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/eature-jpg-3-300x158.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/eature-jpg-3-768x404.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Bachelor&#8217;s Courtney Robertson Marries Fiance Humberto Preciado</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/joey-king-lucy-hale-and-more-stars-voting-in-elections-see-the-photos/">
+	<img width="350" height="197" src="https://e-news.us/wp-content/uploads/2020/10/stars-vote-2020-election-001-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/stars-vote-2020-election-001-jpg.jpg 800w, https://e-news.us/wp-content/uploads/2020/10/stars-vote-2020-election-001-jpg-300x169.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/stars-vote-2020-election-001-jpg-768x432.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Joey King, Lucy Hale and More Stars Voting in Elections: See the Photos</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/ruby-rose-inside-a-day-in-my-life/">
+	<img width="350" height="197" src="https://e-news.us/wp-content/uploads/2020/10/e-6-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/e-6-jpg.jpg 800w, https://e-news.us/wp-content/uploads/2020/10/e-6-jpg-300x169.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/e-6-jpg-768x432.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Ruby Rose: Inside a Day in My Life</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/dear-abby-neighbors-cigarette-stench-wafts-into-our-home-in-the-wee-hours/">
+	<img width="333" height="250" src="https://e-news.us/wp-content/uploads/2020/10/dear_abby_12880069_e1420416724734_509-0-jpg-11.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/dear_abby_12880069_e1420416724734_509-0-jpg-11.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/dear_abby_12880069_e1420416724734_509-0-jpg-11-300x225.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/dear_abby_12880069_e1420416724734_509-0-jpg-11-768x576.jpg 768w" sizes="(max-width: 333px) 100vw, 333px" /></br>	
+	<strong>Dear Abby: Neighbor’s cigarette stench wafts into our home in the wee hours</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/ghost-of-tsushima-devs-on-legends-new-game-plus-update/">
+	</br>	
+	<strong>Ghost of Tsushima Devs on Legends, New Game Plus Update</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/high-school-football-may-be-cancelled-but-one-hamilton-athlete-still-managed-to-demonstrate-his-skills-and-win-a-scholarship/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/ootball-player-signs-justin_000117-jpg-150x150-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/ootball-player-signs-justin_000117-jpg-150x150-jpg.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/ootball-player-signs-justin_000117-jpg-150x150-jpg-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>High school football may be cancelled, but one Hamilton athlete still managed to demonstrate his skills and win a scholarship</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/the-city-of-hamilton-continues-to-remove-encampments-across-the-city/">
+	<img width="150" height="150" src="https://e-news.us/wp-content/uploads/2020/10/encampment-removal-kelly_000154-jpg-150x150-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/encampment-removal-kelly_000154-jpg-150x150-jpg.jpg 150w, https://e-news.us/wp-content/uploads/2020/10/encampment-removal-kelly_000154-jpg-150x150-jpg-80x80.jpg 80w" sizes="(max-width: 150px) 100vw, 150px" /></br>	
+	<strong>The city of Hamilton continues to remove encampments across the city</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/destiny-2-why-cross-play-adds-some-challenges-for-ps5-and-xbox-series-x-fireteam-chat-ep-281/">
+	</br>	
+	<strong>Destiny 2: Why Cross-Play Adds Some Challenges for PS5 and Xbox Series X – Fireteam Chat Ep. 281</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/more-shipments-of-the-flu-shot-on-the-way/">
+	</br>	
+	<strong>More shipments of the flu shot on the way</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/rhonda-fleming-film-star-of-40s-and-50s-dead-at-97/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/66148-jpeg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/66148-jpeg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/66148-jpeg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/66148-jpeg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Rhonda Fleming, film star of ’40s and ’50s, dead at 97</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/next-gen-marvels-avengers-and-dlc-delayed-ign-daily-fix/">
+	</br>	
+	<strong>Next-Gen Marvel’s Avengers and DLC Delayed – IGN Daily Fix</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/horoscope-for-saturday-oct-17-2020/">
+	<img width="333" height="250" src="https://e-news.us/wp-content/uploads/2020/10/screen_shot_2020_10_12_at_6-17-09_pm-0-png-2.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/screen_shot_2020_10_12_at_6-17-09_pm-0-png-2.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/screen_shot_2020_10_12_at_6-17-09_pm-0-png-2-300x225.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/screen_shot_2020_10_12_at_6-17-09_pm-0-png-2-768x576.jpg 768w" sizes="(max-width: 333px) 100vw, 333px" /></br>	
+	<strong>Horoscope for Saturday, Oct. 17, 2020</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/three-people-from-niagara-falls-facing-kidnapping-and-human-trafficking-charges/">
+	</br>	
+	<strong>Three people from Niagara Falls facing kidnapping and human trafficking charges</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/successful-drop-dead-drag-pageant-goes-on-at-the-lakeshore-drive-in/">
+	<img width="333" height="250" src="https://e-news.us/wp-content/uploads/2020/10/drag_101720_05-0-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/drag_101720_05-0-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/drag_101720_05-0-jpg-300x225.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/drag_101720_05-0-jpg-768x576.jpg 768w" sizes="(max-width: 333px) 100vw, 333px" /></br>	
+	<strong>Successful ‘Drop Dead Drag Pageant’ goes on at the Lakeshore Drive-In</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/why-avengers-doesnt-work-without-new-content-2/">
+	</br>	
+	<strong>Why Avengers Doesn’t Work Without New Content</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/why-avengers-doesnt-work-without-new-content/">
+	</br>	
+	<strong>Why Avengers Doesn’t Work Without New Content</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/anya-taylor-joy-makes-her-move-in-the-queens-gambit/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/queens-gambit-01-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/queens-gambit-01-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/queens-gambit-01-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/queens-gambit-01-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Anya Taylor-Joy makes her move in ‘The Queen’s Gambit’</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/central-ave-hosts-shake-up-pop-culture-and-entertainment-news/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/central-ave-julissa-bermudez-sanya-richards-ross-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/central-ave-julissa-bermudez-sanya-richards-ross-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/central-ave-julissa-bermudez-sanya-richards-ross-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/central-ave-julissa-bermudez-sanya-richards-ross-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>‘Central Ave.’ hosts shake up pop culture and entertainment news</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/lupin-iii-the-first-review-the-classic-anime-aesthetic-is-transformed-for-3d/">
+	<img width="350" height="210" src="https://e-news.us/wp-content/uploads/2020/10/irst-plane-600x360-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/irst-plane-600x360-jpg.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/irst-plane-600x360-jpg-300x180.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>‘Lupin III: The First’ Review: The Classic Anime Aesthetic Is Transformed For 3D</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/the-last-kids-on-earth-showrunners-tease-season-3-and-the-future-of-the-franchise/">
+	<img width="350" height="162" src="https://e-news.us/wp-content/uploads/2020/10/last-kids-season-3-600x277-1-png.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/last-kids-season-3-600x277-1-png.jpg 600w, https://e-news.us/wp-content/uploads/2020/10/last-kids-season-3-600x277-1-png-300x139.jpg 300w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>‘The Last Kids on Earth’ Showrunners Tease Season 3 and the Future of the Franchise</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/miley-cyrus-says-her-dog-got-electrocuted-on-the-voice-set/">
+	<img width="183" height="250" src="https://e-news.us/wp-content/uploads/2020/10/the-voice-promo-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" /></br>	
+	<strong>Miley Cyrus Says Her Dog Got Electrocuted on ‘The Voice’ Set</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/real-life-emily-in-paris-dishes-on-french-workplace-culture-and-sex-2/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/e-jpg-2.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/e-jpg-2.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/e-jpg-2-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/e-jpg-2-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Real-life ‘Emily in Paris’ dishes on French workplace culture and sex</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/real-life-emily-in-paris-dishes-on-french-workplace-culture-and-sex/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/e-jpg-3.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/e-jpg-3.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/e-jpg-3-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/e-jpg-3-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>Real-life ‘Emily in Paris’ dishes on French workplace culture and sex</strong></br></a></div>
+	
+
+</div>	
+	
+<div class="neo-row">	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/how-graham-bensinger-went-from-8th-grade-podcaster-to-sportscaster/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>How Graham Bensinger went from 8th grade podcaster to sportscaster</strong></br></a></div>
+	
+
+	
+	
+	
+	
+<div class="neo-half"  style="text-align: center; font-size: small; border-color: white; border-style: solid; border-width: 3px;">
+<a href="https://e-news.us/how-graham-bensinger-went-from-8th-grade-podcaster-to-sportscaster-2/">
+	<img width="350" height="233" src="https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-1.jpg" class="attachment-350x250 size-350x250 wp-post-image" alt="" srcset="https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-1.jpg 1024w, https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-1-300x200.jpg 300w, https://e-news.us/wp-content/uploads/2020/10/graham-bensinger-02-jpg-1-768x512.jpg 768w" sizes="(max-width: 350px) 100vw, 350px" /></br>	
+	<strong>How Graham Bensinger went from 8th grade podcaster to sportscaster</strong></br></a></div>
+	
+
+</div>	
+			
+	
+		</ul></br>			
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area">
+	<section id="media_image-3" class="widget widget_media_image"><h4 class="widget-title">Domain Name Promos From $0.79</h4><a href="https://3-www.net/Domain-Promos" target="_blank" rel="noopener noreferrer"><img width="336" height="280" src="https://e-news.us/wp-content/uploads/2019/08/3-www_net-336x280.png" class="image wp-image-491807 aligncenter attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://e-news.us/wp-content/uploads/2019/08/3-www_net-336x280.png 336w, https://e-news.us/wp-content/uploads/2019/08/3-www_net-336x280-300x250.png 300w" sizes="(max-width: 336px) 100vw, 336px" /></a></section><section id="custom_html-14" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="https://www.nytimes.com/interactive/2020/admin/100000004069963.embedded.html?" height="200px" frameborder="0" scrolling="no"></iframe></div></section><section id="media_image-9" class="widget widget_media_image"><h4 class="widget-title">Get Your Own USA Cloud Server</h4><a href="https://3-www.net/cart.php?gid=4" target="_blank" rel="noopener noreferrer"><img width="250" height="173" src="https://e-news.us/wp-content/uploads/2020/03/cloud-server-hosting-offer-3-www_net.png" class="image wp-image-876525 aligncenter attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></a></section><section id="codescar_radio_widget-2" class="widget widget_codescar_radio_widget"><h4 class="widget-title">Talk &#038; Non Stop Music Stations</h4>
+        <div class="radio-widget">
+            <div class="radio_block">
+                <audio  src="https://s" id="radio_player"
+                        autoplay="autoplay" >
+                </audio>
+                <div id="radio_controls">
+                    <div class="radio_cube">
+                        <button type="button" id="radio_play">
+                            Pause
+                        </button>
+                        <button type="button" id="radio_mute">Mute</button>
+                    </div>
+                    <div class="radio_cube">
+                        <input  type="range" id="radio_volume" min="0.1" max="1" step="0.1"
+                                value="0.5">
+                    </div>
+                </div>
+            </div>
+            <div class="radio_block">
+                <select id="radio_stations">
+                <option value="https://s" selected="selected">Live Radios - No Ads</option>
+				<option value="https://streaming-ent.shoutcast.com/foxnews">Fox News Talk</option>
+				<option value="http://c8icyelb.prod.playlists.ihrhls.com/177_icy">KFI-640 California</option>
+				<option value="https://am820.wnyc.org/wnycam-web">WNYC</option>
+				<option value="https://19313.live.streamtheworld.com/WBAPAMAAC.aac">WBAP-820 Dallas</option>
+				<option value="http://edge.espn.cdn.abacast.net/espn-wepnmp3-32">ESPN New York</option>
+				<option value="http://18503.live.streamtheworld.com/KSFOAMAAC.aac">Hot Talk-560 California</option>
+				<option value="http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28">Voice Of America Washington DC</option>
+				<option value="http://c14icyelb.prod.playlists.ihrhls.com/7750_icy">WRKO-680 Boston</option>
+				<option value="http://15363.live.streamtheworld.com:3690/KABCAM_SC">KABC - LA</option>
+				<option value="http://playerservices.streamtheworld.com/api/livestream-redirect/WMALFM_SC?dist=onlineradiobox">WMAL Washington DC</option>
+				<option value="http://listen.181fm.com/181-power_128k.mp3">US Top 40</option>
+				<option value="http://uplink.duplexfx.com:8070/;">UK Top 40</option>
+				<option value="http://listen.181fm.com/181-rnb_64k.aac">True Rnb</option>
+				<option value="http://uplink.duplexfx.com:8054/;">Hip Hop & RnB</option>
+				<option value="http://listen.181fm.com/181-eagle_128k.mp3">All Time Rock</option>
+				<option value="http://listen.181fm.com/181-90sdance_128k.mp3">Now Dance</option>
+				<option value="http://uplink.duplexfx.com:8068/;">Old School HH & RnB</option>
+				<option value="http://uplink.duplexfx.com:8042/;">Funk & Disco</option>
+				<option value="http://listen.181fm.com/181-reggae_128k.mp3">Reggae</option>
+				<option value="http://uplink.duplexfx.com:8058/;">Soul</option>
+				<option value="http://listen.181fm.com/181-themix_128k.mp3">All Decades Top</option>
+				<option value="http://listen.181fm.com/181-salsa_128k.mp3">Salsa</option>
+				<option value="http://listen.181fm.com/181-blues_128k.mp3">Blues</option>
+				<option value="http://listen.181fm.com/181-us181_64k.aac">Country</option>
+				<option value="http://uplink.duplexfx.com:8058/;">Soul</option>
+				<option value="http://uplink.duplexfx.com:8046/;">Oldies</option>
+				<option value="http://uplink.duplexfx.com:8000/;">80s</option>
+				<option value="http://listen.181fm.com/181-lite80s_128k.mp3">90s</option>
+				<option value="http://uplink.duplexfx.com:8006/;">Love</option>
+				<option value="http://uplink.duplexfx.com:8002/;">Office</option>
+				<option value="http://listen.181fm.com/181-chilled_128k.mp3">Chill Out</option>
+				<option value="http://listen.181fm.com/181-sensual_128k.mp3">Sensual World</option>
+				
+                </select>
+            </div>
+        </div>
+        </section><section id="custom_html-17" class="widget_text widget widget_custom_html"><h4 class="widget-title">Ads</h4><div class="textwidget custom-html-widget"><!-- Composite Start -->
+<div id="M434686ScriptRootC986697">
+</div>
+<script src="https://jsc.mgid.com/e/n/e-news.us.986697.js" async></script>
+<!-- Composite End -->
+</div></section><section id="media_image-8" class="widget widget_media_image"><h4 class="widget-title">Get your .USa Domain Address?</h4><a href="https://3-www.net/domainchecker.php" target="_blank" rel="noopener noreferrer"><img width="640" height="450" src="https://e-news.us/wp-content/uploads/2019/12/dot-us-3-www.promos.png" class="image wp-image-784578  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://e-news.us/wp-content/uploads/2019/12/dot-us-3-www.promos.png 640w, https://e-news.us/wp-content/uploads/2019/12/dot-us-3-www.promos-300x211.png 300w, https://e-news.us/wp-content/uploads/2019/12/dot-us-3-www.promos-150x105.png 150w" sizes="(max-width: 640px) 100vw, 640px" /></a></section><section id="search-2" class="widget widget_search">
+
+<form method="get" class="search-form" id="search-form" action="https://e-news.us/">
+	<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" id="search-form-5f8ba0e5b40d0" />
+	<button type="submit" class="search-button"><div class="icon-search"></div></button>
+</form>
+</section><section id="text-6" class="widget widget_text">			<div class="textwidget"><p><strong>Statement:</strong></p>
+<ul>
+<li>Our News Portal temporary retrieve news only from Well Known News Sites without any check and we don&#8217;t have any responsibility for any news content.</li>
+<li>If an owner of any kind of content which might publicate from us and there is any problem-issue with this post, please contact with us so as to remove it.</li>
+<li><strong>info-main@e-news.us</strong></li>
+<li><strong>E-News.US &#8211; 3-www.net</strong></li>
+</ul>
+</div>
+		</section><section id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>October 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td><a href="https://e-news.us/2020/10/01/" aria-label="Posts published on October 1, 2020">1</a></td><td><a href="https://e-news.us/2020/10/02/" aria-label="Posts published on October 2, 2020">2</a></td><td><a href="https://e-news.us/2020/10/03/" aria-label="Posts published on October 3, 2020">3</a></td><td><a href="https://e-news.us/2020/10/04/" aria-label="Posts published on October 4, 2020">4</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://e-news.us/2020/10/05/" aria-label="Posts published on October 5, 2020">5</a></td><td><a href="https://e-news.us/2020/10/06/" aria-label="Posts published on October 6, 2020">6</a></td><td><a href="https://e-news.us/2020/10/07/" aria-label="Posts published on October 7, 2020">7</a></td><td><a href="https://e-news.us/2020/10/08/" aria-label="Posts published on October 8, 2020">8</a></td><td><a href="https://e-news.us/2020/10/09/" aria-label="Posts published on October 9, 2020">9</a></td><td><a href="https://e-news.us/2020/10/10/" aria-label="Posts published on October 10, 2020">10</a></td><td><a href="https://e-news.us/2020/10/11/" aria-label="Posts published on October 11, 2020">11</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://e-news.us/2020/10/12/" aria-label="Posts published on October 12, 2020">12</a></td><td><a href="https://e-news.us/2020/10/13/" aria-label="Posts published on October 13, 2020">13</a></td><td><a href="https://e-news.us/2020/10/14/" aria-label="Posts published on October 14, 2020">14</a></td><td><a href="https://e-news.us/2020/10/15/" aria-label="Posts published on October 15, 2020">15</a></td><td><a href="https://e-news.us/2020/10/16/" aria-label="Posts published on October 16, 2020">16</a></td><td id="today"><a href="https://e-news.us/2020/10/17/" aria-label="Posts published on October 17, 2020">17</a></td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://e-news.us/2020/09/">&laquo; Sep</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></section><section id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Site Navigator</h4><div class="menu-main-top-container"><ul id="menu-main-top" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-675"><a itemprop="url">Home &#8211; About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-60147"><a href="https://e-news.us/" itemprop="url">Home</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-676"><a href="https://e-news.us/about-us/" itemprop="url">About us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-130806"><a href="https://e-news.us/privacy-policy/" itemprop="url">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262478"><a href="https://e-news.us/terms-of-use-services/" itemprop="url">Terms of Use – Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451602"><a href="https://e-news.us/advertisment-ads-with-us/" itemprop="url">Advertisment – Ads With Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-491890"><a href="https://e-news.us/add-your-website-news-feeds-into-e-news-us/" itemprop="url">Add your website news feeds into e-news.us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132611"><a itemprop="url">70 Live Radios</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132594"><a href="https://e-news.us/70-live-radio-stations/" itemprop="url">All 70 Live Radios Stations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132670"><a href="https://e-news.us/now-top/" itemprop="url">Now Top</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132669"><a href="https://e-news.us/rnb-hip-hop/" itemprop="url">RnB &#038; Hip Hop</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132668"><a href="https://e-news.us/rock/" itemprop="url">Rock</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132667"><a href="https://e-news.us/dance/" itemprop="url">Dance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132665"><a href="https://e-news.us/rest-music-genres/" itemprop="url">Rest Music Genres</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132662"><a href="https://e-news.us/country-music/" itemprop="url">Country Music</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132666"><a href="https://e-news.us/by-decades/" itemprop="url">By Decades</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132664"><a href="https://e-news.us/easy-listening/" itemprop="url">Easy Listening</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132663"><a href="https://e-news.us/jazz/" itemprop="url">Jazz</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132661"><a href="https://e-news.us/classic-comedy/" itemprop="url">Classic &#038; Comedy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761438"><a href="https://e-news.us/20-live-christmas-radio-stations/" itemprop="url">20 Live Christmas Radio Stations</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-878229"><a itemprop="url">70 Radios &#8211; Mobile</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132610"><a href="https://e-news.us/70-live-radio-stations-mobile-view/" itemprop="url">70 Live Radio Stations – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132731"><a href="https://e-news.us/now-top-mobile-view/" itemprop="url">Now Top – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132730"><a href="https://e-news.us/rnb-hip-hop-mobile-view/" itemprop="url">RnB &#038; Hip Hop – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132729"><a href="https://e-news.us/rock-mobile-view/" itemprop="url">Rock – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132728"><a href="https://e-news.us/dance-mobile-view/" itemprop="url">Dance – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132726"><a href="https://e-news.us/rest-music-genres-mobile-view/" itemprop="url">Rest Music Genres – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132727"><a href="https://e-news.us/by-decades-mobile-view/" itemprop="url">By Decades – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132725"><a href="https://e-news.us/easy-listening-mobile-view/" itemprop="url">Easy Listening – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132723"><a href="https://e-news.us/country-music-mobile-view/" itemprop="url">Country Music – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132724"><a href="https://e-news.us/jazz-mobile-view/" itemprop="url">Jazz – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132722"><a href="https://e-news.us/comedy-classic-mobile-view/" itemprop="url">Comedy &#038; Classic – Mobile View</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761436"><a href="https://e-news.us/20-live-christmas-radio-stations-mobile-view/" itemprop="url">20 Live Christmas Radio Stations – Mobile View</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-963839"><a itemprop="url">Major News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133030"><a href="https://e-news.us/category/usa-latest-news/" itemprop="url">USA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133029"><a href="https://e-news.us/category/politcal-news/" itemprop="url">Politics</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188032"><a href="https://e-news.us/category/world-news/" itemprop="url">World News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133028"><a href="https://e-news.us/category/all-about-finance-and-economical-news/" itemprop="url">Finance</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-851599"><a href="https://e-news.us/category/video-news/" itemprop="url">Video News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-679"><a href="https://e-news.us/category/science-tech-health/" itemprop="url">Science-Health-Tech</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-133027"><a itemprop="url">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90269"><a href="https://e-news.us/category/sports/" itemprop="url">Sports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493499"><a href="https://e-news.us/category/auto-moto/" itemprop="url">Auto-Moto</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-677"><a href="https://e-news.us/category/lifestyle/" itemprop="url">Lifestyle</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-680"><a href="https://e-news.us/category/entertainment/" itemprop="url">Entertainment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-678"><a href="https://e-news.us/category/latest-music-news/" itemprop="url">Music</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493526"><a href="https://e-news.us/category/usa-crime-news/" itemprop="url">Crime</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452784"><a href="https://e-news.us/category/usa-defense-news/" itemprop="url">Defense</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-161286"><a itemprop="url">More Live</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161365"><a href="https://e-news.us/live-financial-rates/" itemprop="url">Live Rates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147545"><a href="https://e-news.us/watch-live-and-interactive-weather-forecast-live-hurricanes-and-cams/" itemprop="url">Live Weather</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189582"><a href="https://e-news.us/all-sports-live-score/" itemprop="url">All Sports LiveScore</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612757"><a href="https://e-news.us/nbc2-live-now/" itemprop="url">NBC2 Live Now</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-921680"><a href="https://e-news.us" itemprop="url">Home</a></li>
+</ul></div></section></aside><!-- #secondary -->
+	</div><!-- .wrap -->
+	</div><!-- #content -->
+	<footer id="colophon" class="site-footer">
+		
+
+		
+		<div class="wrap">
+			<div class="site-info">
+				<div class="left">
+					Copyright &copy;&nbsp;e-News.US				</div>
+				<div class="right">
+					<p>
+						<a href="https://3-www.net" target="_blank" rel="nofollow noreferrer">Fastest</a> Power Hosting by 3-www.net					</p>
+				</div>
+			</div><!-- .site-info -->
+		</div>
+
+
+
+
+	<script type="text/javascript" id="cookieinfo"
+        src="/wp-includes/js/cookieinfo.min.js"
+							   data-message="We use cookies for your safety & better user experience.</br>By continuing to visit this website you agree with our use of cookies."
+        data-linkmsg="More info"
+        data-moreinfo="https://e-news.us/privacy-policy/"
+        data-cookie="CookieInfoScript"
+			  data-text-align="center"
+							   data-close-text="I </br>Agree">
+    >
+    </script>
+		
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133417668-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133417668-1');
+</script>	
+	
+		
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fastest_ScreenReaderText = {"expand":"Expand child menu","collapse":"Collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://e-news.us/wp-content/themes/fastest/assets/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://e-news.us/wp-content/themes/fastest/assets/js/skip-link-focus-fix.js?ver=007'></script>
+<script type='text/javascript' src='https://e-news.us/wp-includes/js/wp-embed.min.js?ver=1da1c95139021f420d29d8ec74f7a0ae'></script>
+
+</body>

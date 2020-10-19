@@ -1,0 +1,1512 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/style/content/font.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/style/content/content.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" /><!--[if lt IE 9]><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script><![endif]--><!--[if gte IE 9]>
+<!--><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.2.1.min.js"></script><!--<![endif]-->
+<script src="https://t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+lightbox.options.fadeDuration = 200;
+lightbox.options.resizeDuration = 200;
+lightbox.options.wrapAround = false;
+lightbox.options.albumLabel = "%1 / %2";
+</script>
+<script>var tjQuery = jQuery.noConflict(true);</script><style type="text/css">.tt_article_useless_p_margin p {padding-top:0 !important;padding-bottom:0 !important;margin-top:0 !important;margin-bottom:0 !important;}</style><meta name="referrer" content="always"><link rel="icon" href="//t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" /><link rel="apple-touch-icon" href="//img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory2.daumcdn.net%2Ftistory%2F2803472%2Fattach%2F92759e7d8ac642719213bd8062d0d2c9">
+<link rel="apple-touch-icon" sizes="76x76" href="//img1.daumcdn.net/thumb/C76x76/?fname=https%3A%2F%2Ftistory2.daumcdn.net%2Ftistory%2F2803472%2Fattach%2F92759e7d8ac642719213bd8062d0d2c9">
+<link rel="apple-touch-icon" sizes="120x120" href="//img1.daumcdn.net/thumb/C120x120/?fname=https%3A%2F%2Ftistory2.daumcdn.net%2Ftistory%2F2803472%2Fattach%2F92759e7d8ac642719213bd8062d0d2c9">
+<link rel="apple-touch-icon" sizes="152x152" href="//img1.daumcdn.net/thumb/C152x152/?fname=https%3A%2F%2Ftistory2.daumcdn.net%2Ftistory%2F2803472%2Fattach%2F92759e7d8ac642719213bd8062d0d2c9"><meta name="description" content="안녕하세요? 요즘은 워낙 다이열풍의 시대라서 웬만한 것들은 집에서 손수 하시는 시대가 되었습니다. 블로그에도 아주 쉽게 콘센트, 스위치, LED조명 등을 교체하는 정보를 접할 수 있습니다. 특히 집안의 형광등..">
+
+<!-- BEGIN OPENGRAPH -->
+<link rel="canonical" href="https://skystar7.tistory.com/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" /><meta property="og:type" content="article"><meta property="og:url" content="https://skystar7.tistory.com/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="og:site_name" content="별의 Life" ><meta property="og:title" content="LED조명 교체와 전기공사업법 위반" ><meta name="by" content="시설관리, 생활의 꿀팁, 국내여행 skystar7" ><meta property="og:description" content="안녕하세요? 요즘은 워낙 다이열풍의 시대라서 웬만한 것들은 집에서 손수 하시는 시대가 되었습니다. 블로그에도 아주 쉽게 콘센트, 스위치, LED조명 등을 교체하는 정보를 접할 수 있습니다. 특히 집안의 형광등.." ><meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99800F415F8A705726" ><meta property="article:section" content="경영·직장" >
+<!-- END OPENGRAPH -->
+
+
+
+<!-- BEGIN TWITTERCARD -->
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TISTORY"><meta name="twitter:title" content="LED조명 교체와 전기공사업법 위반" ><meta name="twitter:description" content="안녕하세요? 요즘은 워낙 다이열풍의 시대라서 웬만한 것들은 집에서 손수 하시는 시대가 되었습니다. 블로그에도 아주 쉽게 콘센트, 스위치, LED조명 등을 교체하는 정보를 접할 수 있습니다. 특히 집안의 형광등.." ><meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99800F415F8A705726" >
+<!-- END TWITTERCARD -->
+
+
+
+<!-- BEGIN DAUMAPP -->
+<meta property="dg:plink" content="https://skystar7.tistory.com/148" ><meta name="plink" content="https://skystar7.tistory.com/148" ><meta name="title" content="LED조명 교체와 전기공사업법 위반" ><meta name="article:media_name" content="별의 Life" ><meta property="article:mobile_url" content="https://skystar7.tistory.com/m/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="article:pc_url" content="https://skystar7.tistory.com/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="article:mobile_view_url" content="https://skystar7.tistory.com/m/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="article:pc_view_url" content="https://skystar7.tistory.com/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="article:talk_channel_view_url" content="https://skystar7.tistory.com/m/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" ><meta property="article:pc_service_home" content="https://www.tistory.com" ><meta property="article:mobile_service_home" content="https://www.tistory.com/m" ><meta property="article:txid" content="2803472_148" /><meta property="article:published_time" content="2020-10-17T12:52:33+09:00" ><meta property="og:regDate" content="20201017125233" ><meta property="article:modified_time" content="2020-10-17T13:23:04+09:00" >
+<!-- END DAUMAPP -->
+
+
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https:\/\/skystar7.tistory.com\/entry\/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98"},"url":"https:\/\/skystar7.tistory.com\/entry\/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98","headline":"LED\uc870\uba85 \uad50\uccb4\uc640 \uc804\uae30\uacf5\uc0ac\uc5c5\ubc95 \uc704\ubc18","description":"\uc548\ub155\ud558\uc138\uc694? \uc694\uc998\uc740 \uc6cc\ub099 \ub2e4\uc774\uc5f4\ud48d\uc758 \uc2dc\ub300\ub77c\uc11c \uc6ec\ub9cc\ud55c \uac83\ub4e4\uc740 \uc9d1\uc5d0\uc11c \uc190\uc218 \ud558\uc2dc\ub294 \uc2dc\ub300\uac00 \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \ube14\ub85c\uadf8\uc5d0\ub3c4 \uc544\uc8fc \uc27d\uac8c \ucf58\uc13c\ud2b8, \uc2a4\uc704\uce58, LED\uc870\uba85 \ub4f1\uc744 \uad50\uccb4\ud558\ub294 \uc815\ubcf4\ub97c \uc811\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ud2b9\ud788 \uc9d1\uc548\uc758 \ud615\uad11\ub4f1..","author":{"@type":"Person","name":"\uc2dc\uc124\uad00\ub9ac, \uc0dd\ud65c\uc758 \uafc0\ud301, \uad6d\ub0b4\uc5ec\ud589 skystar7"},"image":{"@type":"ImageObject","url":"https:\/\/img1.daumcdn.net\/thumb\/R800x0\/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99800F415F8A705726","width":"800px","height":"800px"},"datePublished":"20201017T12:52:33+09:00","dateModified":"20201017T13:23:04+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https:\/\/t1.daumcdn.net\/tistory_admin\/static\/images\/openGraph\/opengraph.png","width":"800px","height":"800px"}}}</script>
+<!-- END STRUCTURED_DATA -->
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+<title>LED조명 교체와 전기공사업법 위반</title>
+<link rel="stylesheet" href="https://tistory4.daumcdn.net/tistory/2803472/skin/style.css?_T_=1594360045">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+<meta http-equiv="imagetoolbar" content="no"/><meta name="네이버 웹마스터 도구" content="&lt;meta name = &quot;Robots&quot; content=&quot;index,follow&quot;&gt;" />
+<meta name="네이버 로봇툴 검증" content="&lt;meta name = &quot;Yeti&quot; content=&quot;index,follow&quot;&gt;" /><!-- BEGIN GOOGLE_SITE_VERIFICATION -->
+<meta name="google-site-verification" content="m1Ijpw6sbbN2IhtdpYmyvMVWinX5u-Wtyf3lF-gkrXo" />
+<!-- END GOOGLE_SITE_VERIFICATION --><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/plugins/A_ShareEntryWithSNS/css/shareEntryWithSNS.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866">
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/plugins/A_ShareEntryWithSNS/script/shareEntryWithSNS.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>
+
+<style type="text/css">
+		#daumSearchBox {
+			height: 21px;
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+			margin: 5px auto ;
+			padding: 0;
+		}
+		#daumSearchBox input {
+			background: none;
+			margin : 0;
+			padding : 0;
+			border : 0;
+		}
+		#daumSearchBox #daumLogo {
+			width: 34px;
+			height: 21px;
+			float: left;
+			margin-right: 5px;
+			background-image : url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+		}
+		#daumSearchBox #show_q {
+			background-color: transparent;
+			border: none;
+			font: 12px Gulim, Sans-serif;
+			color: #555;
+			margin-top: 4px;
+			margin-right: 15px;
+			float: left;
+		}
+
+		#daumSearchBox #show_btn {
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+			width: 37px;
+			height: 21px;
+			float: left;
+			margin:0;
+			cursor:pointer;
+			text-indent:-1000em;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/plugins/TistoryProfileLayer/style.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" />
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/plugins/TistoryProfileLayer/profile.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>
+	<style type="text/css">
+		.another_category { border: 1px solid #E5E5E5; padding: 10px 10px 5px; margin:10px 0; clear: both; }
+		.another_category h4 { font-size: 12px !important; margin: 0 !important; border-bottom: 1px solid #E5E5E5 !important; padding: 2px 0 6px !important; }
+		.another_category h4 a { font-weight: bold !important; }
+		.another_category table { table-layout: fixed; border-collapse: collapse; width: 100% !important; margin-top: 10px !important; }
+		* html .another_category table { width: auto !important; }
+		*:first-child+html .another_category table { width: auto !important; }
+		.another_category th, .another_category td { padding: 0 0 4px !important; }
+		.another_category th { text-align: left; font-size: 12px !important; font-weight: normal;  word-break: break-all; overflow: hidden; line-height: 1.5; }
+		.another_category td { text-align: right; width: 80px; font-size: 11px; }
+		.another_category th a { font-weight: normal; text-decoration: none; border: none !important; }
+		.another_category th a.current{ font-weight: bold; text-decoration: none !important; border-bottom: 1px solid !important; }
+		.another_category th span { font-weight: normal; text-decoration: none; font: 10px Tahoma, Sans-serif; border: none !important; }
+
+		.another_category_color_gray, .another_category_color_gray h4 { border-color: #E5E5E5 !important; }
+		.another_category_color_gray * { color: #909090 !important; }
+		.another_category_color_gray th a.current{border-color:#909090 !important;}
+		.another_category_color_gray h4, .another_category_color_gray h4 a { color: #737373 !important; }
+
+
+		.another_category_color_red, .another_category_color_red h4 { border-color: #F6D4D3 !important;  }
+		.another_category_color_red * { color: #E86869 !important; }
+		.another_category_color_red th a.current{border-color:#E86869 !important;}
+		.another_category_color_red h4, .another_category_color_red h4 a { color: #ED0908 !important; }
+
+
+		.another_category_color_green, .another_category_color_green h4 { border-color: #CCE7C8 !important; }
+		.another_category_color_green * { color: #64C05B !important; }
+		.another_category_color_green th a.current{border-color:#64C05B !important;}
+		.another_category_color_green h4, .another_category_color_green h4 a { color: #3EA731 !important; }
+
+
+		.another_category_color_blue, .another_category_color_blue h4 { border-color: #C8DAF2 !important; }
+		.another_category_color_blue * { color: #477FD6 !important; }
+		.another_category_color_blue th a.current{border-color:#477FD6 !important;}
+		.another_category_color_blue h4, .another_category_color_blue h4 a { color: #1960CA !important; }
+
+
+		.another_category_color_violet, .another_category_color_violet h4 { border-color: #E1CEEC !important;  }
+		.another_category_color_violet * { color:#9D64C5 !important; }
+		.another_category_color_violet th a.current{border-color:#9D64C5 !important;}
+		.another_category_color_violet h4, .another_category_color_violet h4 a { color: #7E2CB5 !important; }
+	</style>
+<script type="text/javascript">
+        
+        window.TistoryBlog = {
+            basePath: "",
+            url: "https://skystar7.tistory.com",
+            tistoryUrl: "https://skystar7.tistory.com",
+			manageUrl: 'https://skystar7.tistory.com/manage',
+            token: 'UeQp7YhyxffYWVshEItA8w=='
+        };
+        var servicePath = "";
+        var blogURL = "";
+    </script>
+
+	<script> (function() { window.orgjQuery = window.jQuery; window.jQuery = tjQuery })()</script>
+    <script type="text/javascript" defer src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866></script>
+    <script> (function() { window.jQuery = window.orgjQuery; delete window.orgjQuery })()</script>
+        <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/_/base.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/style/dialog.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"/>
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css">
+    <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/style/postBtn.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"/>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/style/component/tistory.css?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" />
+        <script src="//developers.kakao.com/sdk/js/kakao.min.js"></script></head>
+<body id="tt-body-page" class="<s_if_var_color-type></s_if_var_color-type><s_if_var_post-type> </s_if_var_post-type><s_if_var_view-more> paging-view-more</s_if_var_view-more>">
+<script type="text/javascript">
+	(function() {
+		if (!window.T) {
+			window.T = {}
+		}
+		window.T.config = {"TOP_SSL_URL":"https:\/\/www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"","NEXT_PAGE":"\/entry\/\ud50c\ub808\ubc0d\uc758-\uc624\ub978\uc190-\ubc95\uce59\uacfc-\ud50c\ub808\ubc0d\uc758-\uc67c\uc190\ubc95\uce59","BLOG":{"isDormancy":false,"title":"\ubcc4\uc758 Life"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https:\/\/www.tistory.com\/auth\/login\/?redirectUrl=http%3A%2F%2Fskystar7.tistory.com%2Fentry%2FLED%25EC%25A1%25B0%25EB%25AA%2585-%25EA%25B5%2590%25EC%25B2%25B4%25EC%2599%2580-%25EC%25A0%2584%25EA%25B8%25B0%25EA%25B3%25B5%25EC%2582%25AC%25EC%2597%2585%25EB%25B2%2595-%25EC%259C%2584%25EB%25B0%2598%250A","DEFAULT_URL":"https:\/\/skystar7.tistory.com","USER":{"name":null,"homepage":null},"ROLE_GROUP":"visitor","SUBSCRIPTION":{"status":"none","isConnected":false,"isProcessing":false,"isPending":false,"isWait":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"TOP_URL":"http:\/\/www.tistory.com","JOIN_URL":"https:\/\/www.tistory.com\/member\/join"};
+		window.appInfo = {"domain":"tistory.com","topUrl":"https:\/\/www.tistory.com","loginUrl":"https:\/\/www.tistory.com\/auth\/login","logoutUrl":"https:\/\/www.tistory.com\/auth\/logout"};
+
+        window.initData = {};
+        
+	})();
+</script>
+
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/blog/common.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<div id="acc-nav">
+	<a href="#content">본문 바로가기</a>
+</div>
+<div id="wrap">
+	<header id="header">
+		<h1><a href="/">별의 Life</a></h1>
+		<button type="button" class="mobile-menu"><span>메뉴</span></button>
+		<div class="menu">
+			<nav id="gnb">
+				<ul class="tt_category">
+	<li class="">
+		<a class="link_tit" href="/category">
+			분류 전체보기							<span class="c_cnt">(134)</span>
+			
+							<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/image/category/new_ico_5.gif?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" alt="N" style='vertical-align:middle;padding-left:2px;' />
+					</a>
+
+				<ul class="category_list">
+							<li class="">
+					<a class="link_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC">
+						별의 시설관리													<span class="c_cnt">(89)</span>
+						
+													<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/image/category/new_ico_5.gif?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" alt="N" style='vertical-align:middle;padding-left:2px;' />
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EC%B7%A8%EC%97%85%20%EB%B0%8F%20%EC%9E%90%EA%B2%A9%EC%A6%9D">
+									취업 및 자격증
+																			<span class="c_cnt">(28)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EA%B3%B5%EC%A1%B0%20%EB%B0%8F%20%EA%B8%B0%EA%B3%84">
+									공조 및 기계
+																			<span class="c_cnt">(10)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%ED%9D%A1%EC%88%98%EC%8B%9D%20%EB%83%89%EB%8F%99%EA%B8%B0">
+									흡수식 냉동기
+																			<span class="c_cnt">(9)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EC%A0%84%EA%B8%B0">
+									전기
+																			<span class="c_cnt">(28)</span>
+									
+																			<img src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/image/category/new_ico_5.gif?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" alt="N" style='vertical-align:middle;padding-left:2px;' />
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EC%86%8C%EB%B0%A9">
+									소방
+																			<span class="c_cnt">(7)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%8F%20%EB%B0%A9%EC%86%A1">
+									인터넷 및 방송
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EB%B0%B8%EB%B8%8C">
+									밸브
+																			<span class="c_cnt">(4)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%8B%9C%EC%84%A4%EA%B4%80%EB%A6%AC/%EA%B1%B4%EC%B6%95%20%EB%B0%8F%20%EA%B8%B0%ED%83%80">
+									건축 및 기타
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%83%9D%ED%99%9C%EA%BF%80%ED%8C%81">
+						별의 생활꿀팁													<span class="c_cnt">(24)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%83%9D%ED%99%9C%EA%BF%80%ED%8C%81/%EC%B4%88%EA%B0%84%EB%8B%A8%EC%9A%94%EB%A6%AC">
+									초간단요리
+																			<span class="c_cnt">(3)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%83%9D%ED%99%9C%EA%BF%80%ED%8C%81/%ED%85%83%EB%B0%AD%EC%9D%B4%EC%95%BC%EA%B8%B0">
+									텃밭이야기
+																			<span class="c_cnt">(7)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EB%B3%84%EC%9D%98%20%EC%97%AC%ED%96%89%ED%9B%84%EA%B8%B0">
+						별의 여행후기													<span class="c_cnt">(18)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EB%B3%84%EC%9D%98%20IT">
+						별의 IT													<span class="c_cnt">(3)</span>
+						
+											</a>
+
+					
+				</li>
+					</ul>
+			</li>
+</ul>
+			</nav>
+			<div class="social-link">
+				<s_if_var_sns-pinterest><a href="" class="pinterest">Pinterest</a></s_if_var_sns-pinterest>
+				<s_if_var_sns-facebook><a href="" class="facebook">Facebook</a></s_if_var_sns-facebook>
+				<s_if_var_sns-twitter><a href="" class="twitter">Twitter</a></s_if_var_sns-twitter>
+				<s_if_var_sns-instagram><a href="" class="instagram">Instagram</a></s_if_var_sns-instagram>
+			</div>
+			<p>POWERED BY TISTORY</p>
+		</div>
+		<div class="search">
+			
+					<input type="text" name="search" value="" placeholder="검색내용을 입력하세요." onkeypress="if (event.keyCode == 13) { try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){} }">
+					<button type="submit" onclick="try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){}">검색</button>
+				
+		</div>
+	</header>
+	<hr>
+	<section class="container">
+		<article id="content">
+
+			
+
+			
+
+			
+
+			
+
+			<div class="inner">
+				
+
+				
+					
+					
+						<div class="hgroup">
+							<div class="category">별의 시설관리/전기</div>
+							<h1>LED조명 교체와 전기공사업법 위반 </h1>
+							<div class="post-meta">
+								<span class="author">시설관리, 생활의 꿀팁, 국내여행 skystar7</span>
+								<span class="date">2020. 10. 17. 12:52</span>
+								
+							</div>
+						</div>
+						<div class="entry-content">
+							<div class="tt_article_useless_p_margin"><div class="tt_adsense_top" style="margin-bottom:30px"><div style="text-align: center;">
+    <span>
+        <style type="text/css">
+            .adsense_1 {
+                display: inline-block;
+                width: 300px;
+                height: 250px;
+            }
+
+            @media (max-width: 300px) {
+                .adsense_1 {
+                    width: 300px;
+                    height: 250px;
+                }
+            }
+
+            @media (min-width:450px) {
+                .adsense_1 {
+                    width: 336px;
+                    height: 280px;
+                }
+            }
+            
+            @media (min-width:800px) and (max-width:899px) {
+                .adsense_1 {
+                    width: 300px;
+                    height: 250px;
+                }
+            }
+            
+            @media (min-width:900px) and (max-width:999px) {
+                .adsense_1 {
+                    width: 336px;
+                    height: 280px;
+                }
+            }
+            
+            @media (min-width:1000px) and (max-width:1019px) {
+                .adsense_1 {
+                    width: 300px;
+                    height: 250px;
+                }
+            }
+
+            @media (min-width:1020px) {
+                .adsense_1 {
+                    width: 336px;
+                    height: 280px;
+                }
+            }
+        </style>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle adsense_1" data-ad-client="ca-pub-5955660625916655" data-ad-slot="1450319130"></ins>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </span>
+    <span class="adsense_empty">
+        <style type="text/css">
+            .adsense_empty {
+                display: inline-block;
+                width: 0px;
+                height: 0px;
+            }
+
+            @media (max-width: 799px) {
+                .adsense_empty {
+                    display: none;
+                }
+            }
+
+            @media (min-width:800px) {
+                .adsense_empty {
+                    width: 20px;
+                }
+            }
+        </style>
+    </span>
+    <span>
+        <style type="text/css">
+            .adsense_2 {
+                display: inline-block;
+            }
+
+            @media (max-width:799px) {
+                .adsense_2 {
+                    display: none;
+                }
+            }
+            
+            @media (min-width:800px) and (max-width:899px) {
+                .adsense_2 {
+                    width: 300px;
+                    height: 250px;
+                }
+            }
+            
+            @media (min-width:900px) and (max-width:999px) {
+                .adsense_2 {
+                    width: 336px;
+                    height: 280px;
+                }
+            }
+            
+            @media (min-width:1000px) and (max-width:1019px) {
+                .adsense_2 {
+                    width: 300px;
+                    height: 250px;
+                }
+            }
+
+            @media (min-width:1020px) {
+                .adsense_2 {
+                    width: 336px;
+                    height: 280px;
+                }
+            }
+        </style>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle adsense_2" data-ad-client="ca-pub-5955660625916655" data-ad-slot="4943019192"></ins>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </span>
+</div></div><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">안녕하세요? 요즘은 워낙 다이열풍의 시대라서 웬</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">만한 것들은 집에서 손수 하시는 시대가 되었습니다. 블로그에도 아주 쉽게 콘센트, 스위치, LED조명 등을 교체하는 정보를 접할 수 있습니다. 특히 집안의 형광등을 LED등으로 교체하는 작업 역시도 인터넷에 보면 아주 쉽게 접할 수 있습니다. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">하지만 엄연히 전기에도 법이 존재하고 이것이 어떻게 되는지 상세하게 알아보고자 합니다.&nbsp;</span></span></p><p><br /></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/99800F415F8A705726?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile6.uf.tistory.com%2Fimage%2F99800F415F8A70572643F3" src="https://t1.daumcdn.net/cfile/tistory/99800F415F8A705726" style="cursor: pointer;max-width:100%;height:auto" width="860" height="430" alt="LED조명" filename="LED조명.jpg" filemime="image/jpeg" original="yes" /></span><span class="cap1" style="display:block;max-width:100%;width:860px;">출처: http://seibelpublishingservices.com/</span></span></p><p><br /></p><p><br /></p><p><br /></p><p><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1. 전기공사업법 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기공사의 제한
+등</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)</span></b></p><p><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><br /></span></b></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/99E865365F8A6BDC22?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile1.uf.tistory.com%2Fimage%2F99E865365F8A6BDC22720D" src="https://t1.daumcdn.net/cfile/tistory/99E865365F8A6BDC22" style="cursor: pointer;max-width:100%;height:auto" width="860" height="147" alt="LED조명" filename="LED조명 교체.png" filemime="image/jpeg" original="yes" /></span></span></p><p><br /></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+</span></p><p><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">① </span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기공사는 공사업자가 아니면 도급 받거나 시공할 수 없다</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">. </span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">다만</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">대통령령으로 정하는 경미한 전기공사는 그러하지 아니하다</span><span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">② </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">다음 각 호의 자는 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항
+본문에도 불구하고 그 수요에 의한 전기공사로서 대통령령으로 정하는 전기공사를 직접 할 수 있다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">국가</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">2. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">지방자치단체</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">「전기사업법」 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">7</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항에 따라 허가를 받은 자</span></p><p><span><br /></span></p><p><span><br /></span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기공사업법에 보면 전기공사는 공사업자가 아니면 할 수 없다고 명시되어 있습니다. 다만 경미한 전기공사는 가능하다고 나와 있습니다. 그렇다면 경미한 전기공사는 또 어떤것이 있을까요?</span></p><p><span><br /></span></p><p><span><br /></span></p><p><span><br /></span></p><p><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">2. 전기공사업법 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">5</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">경미한 전기공사
+등</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)&nbsp;</span></b></p><p><b><span><br /></span></b></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/9947903E5F8A6C3024?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile26.uf.tistory.com%2Fimage%2F9947903E5F8A6C3024A5B4" src="https://t1.daumcdn.net/cfile/tistory/9947903E5F8A6C3024" style="cursor: pointer;max-width:100%;height:auto" width="860" height="147" alt="LED조명" filename="LED조명 교체1.png" filemime="image/jpeg" original="yes" /></span></span></p><p><b></b></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">① </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">법 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항
+단서에서</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> "</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">대통령령으로 정하는 경미한 전기공사</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">"</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">란
+다음 각 호의 공사를 말한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></p><p></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">꽂음접속기</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">소켓</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">로제트</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">실링블록</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">접속기</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전구류</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">나이프스위치</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">그
+밖에 개폐기의 보수 및 교환에 관한 공사</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">2. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">벨</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">인터폰</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">장식전구</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">그 밖에 이와 비슷한 시설에 사용되는 소형변압기</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(2</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">차측 전압</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 36</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">볼트 이하의 것으로 한정한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">의 설치 및 그</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 2</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">차측 공사</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전력량계 또는 퓨즈를 부착하거나 떼어내는 공사</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">「전기용품 및 생활용품 안전관리법」에 따른 전기용품 중 꽂음접속기를
+이용하여 사용하거나 전기기계ㆍ기구</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">배선기구는 제외한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">이하
+같다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">) </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">단자에 전선</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">코드</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">,
+</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">캡타이어케이블 및 케이블을 포함한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">이하 같다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">을
+부착하는 공사</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">5. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전압이</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 600</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">볼트
+이하이고</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기시설 용량이</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 5</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">킬로와트 이하인 단독주택 전기시설의
+개선 및 보수 공사</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">다만</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기공사기술자가 하는 경우로
+한정한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></p><p><br /></p><p></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">저도 법규 전문가는 아니라서 위의 내용을 완벽하게 이해할 수는 없지만, 위의 내용을 보면 웬</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">만한 전기공사는 일반인이 할 수 없고, 더군다나 전기공사기술자가 해야만 하는 경우로 나옵니다. 위에서 말한 경미한 공사에 대해서는 말도 많고 탈도 많습니다.&nbsp;</span></span></p><p><span><br /></span></p><p><span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">그렇다면 인터넷에 수없이 나온 손수 </span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">형광등을 LED</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">등으로</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">&nbsp;교체하는 공사</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">는 어떻게 되는 것일까요? 저 속에 LED등이 없을 뿐만 아니라 전기공사업법 시행령 별표1의 전기공사에 해당하므로 전기공사업을 등록한 자만이 도급받거나 시공하여야 한다고 합니다.&nbsp;</span></span></p><p><span><br /></span></p><p><span><br /></span></p><p><span><br /></span></p><p><span><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3. 형광등을 LED등으로 교체 </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">과태료 사례</span></span></b></span></p><p><span><br /></span></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/99E340385F8A6D1722?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile9.uf.tistory.com%2Fimage%2F99E340385F8A6D1722F6C6" src="https://t1.daumcdn.net/cfile/tistory/99E340385F8A6D1722" style="cursor: pointer;max-width:100%;height:auto" width="860" height="147" alt="LED조명" filename="LED조명 교체2.png" filemime="image/jpeg" original="yes" /></span></span></p><p></p><p><span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">아래 내용은 한국 아파트 신문에서 아래와 같이 발췌해 왔습니다. (</span><a href="http://www.hapt.co.kr/news/articleView.html?idxno=36009" target="_blank" class="tx-link"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">한국 아파트 신문 해당 기사 링크</span></a><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)</span></span></p><p><span><br /></span></p><p><span><br /></span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">앞으로 아파트 관리직원들은 공용부분</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> LED</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">등을 교체할 수 없게 될지도
+모른다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">어쩌면 아파트에서 자체적으로 해오던 모든 공사를 외부 사업자를 선정해 처리해야 할 수도 있다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.&nbsp;</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">관리비 절감을 위해</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> LED</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">등을 구입해 외부 용역 없이 관리직원들과
+함께 교체한 아파트가 사업자 선정지침 위반</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">(</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">수의계약</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">)</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">으로
+과태료</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 100</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">만원의 처분을 받았다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.&nbsp;</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">관할 지자체는 교체 공사를 목적으로 한 것이기에</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);"> LED</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">등을 공산품으로
+볼 수 없다는 입장이다</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">. </span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">이에 더해 공동주택 공용부분의</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);"> LED</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">등
+교체는 전기공사업법 위반이라고 보고 있다</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">.&nbsp;</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">해당 처분은 현재 과태료 부과처분 취소 소송을 앞두고 있는 상황인데</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);"> LED</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">등을
+공산품이 아니라고 본 것도 이례적이지만 공동주택 공용부분의</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);"> LED</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">등 교체가 전기공사업법 위반인지에 대한
+판단에 관심이 모이고 있다</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">. </span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">만약 그렇다면 그동안 아파트 관리직원들이 입주민을 위해 봉사정신으로 수행한
+이 같은 업무가 모두 법을 위반한 것이기 때문이다</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">.</span></p><p><span><br /></span></p><p><span><br /></span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">위의 아파트 신문 링크에 들어가서 보시면 애매한 글들이 몇군데 보입니다. '입주민이 자기집 전등을 교체하는 것은 경미한 공사에 해당하나, 공용부분에서는 아니다' </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">는 글도 보입니다. 좀 </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">모호하게 기사를 써 놓았지만, 이것을 가지고 정부기관에 질의를 하면 원칙적인 말만 합니다. 정부기관에서 일하시는 분들은 공무원이기 때문에 법에 정한대</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">로 말할 수</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">밖에 없기 때문입니다.&nbsp;</span></span></p><p><br /></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">만약 입주민이 자기 집의 전등을 교체하는 것까지 정부에서 막는다면 대한민국의 국민의&nbsp;상당수가&nbsp;잡혀 들어갈 것입니다. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">영리를 목적으로 공사를 하는 업자가 어느 정도 자격을 갖춘자가 하도록 규정하기 위해서 이런 법을 만든 것이 아닌가 하는 필자의 생각입니다. </span></span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">어디까지나 필자의 생각이지 절대 정확한 것이 아니니 참고만 하십시오</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></span></p><p><br /></p><p><br /></p><p><br /></p><p><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4. 전기공사업 등록을 하지 않고 전기공사를 한 자의 벌칙</span></b></p><p><br /></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/9954B63E5F8A6D7423?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile23.uf.tistory.com%2Fimage%2F9954B63E5F8A6D7423F227" src="https://t1.daumcdn.net/cfile/tistory/9954B63E5F8A6D7423" style="cursor: pointer;max-width:100%;height:auto" width="860" height="144" alt="LED조명" filename="LED조명 교체3.png" filemime="image/jpeg" original="yes" /></span></span></p><p><br /></p><p><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">제</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">41</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">조의</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">2(</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">벌칙</span><span style="font-size: 14pt; font-family: &quot;맑은 고딕&quot;, sans-serif; color: rgb(0, 0, 0);">)</span></p><p><b></b></p><p></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">다음 각 호의 어느 하나에 해당하는 자는</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 3</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">년 이하의 징역 또는</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"> 3</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">천만원 이하의 벌금</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">에 처한다</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">.</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1. </span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">제</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조제</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="background-color: rgb(250, 237, 125); font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항에 따른 등록을 하지 아니하고 공사업을 한 자</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">2. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">거짓이나 그 밖의 부정한 방법으로 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항에 따른 등록을 한 자</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">거짓이나 그 밖의 부정한 방법으로 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">7</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">3</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항 또는 제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">항에 따른 신고를 한 자</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">
+
+
+
+
+
+
+
+
+
+</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">4. </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">제</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">10</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">조를 위반하여
+타인에게 자기의 성명 또는 상호를 사용하게 하여 전기공사를 수급 또는 시공하게 하거나</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">, </span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">등록증 또는
+등록수첩을 빌려준 공사업자 및 그 상대방</span></p><p><br /></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">예전에는 1년 이하의 징역 또는 1천만원 이하의 벌금이었는데 2019년에 3년 이하의 징역 또는 3천만원 이하의 벌금으로 상향 조정되었습니다. 만약 형광등을 LED등으로 교체하는 것이 위법이며 모든 사람에게 적용된다면 내집에 있는 형광등을 LED등 교체했다고 징역 3년을 살아야 하니 말이 안 되겠지요? 벌칙을 보아도 필자의 생각에는 영리를 목적으로 사업체를 운영하는 사람에 관</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">한 규정이 아닐까 합니다.&nbsp;</span></span></p><p><br /></p><p><br /></p><p><br /></p><p><b><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">5. 글을 마치며</span></b></p><p><b><br /></b></p><p style="text-align: center; clear: none; float: none;"><span class="imageblock" style="display:inline-block;width:860px;;height:auto;max-width:100%"><span data-url="https://t1.daumcdn.net/cfile/tistory/99F485355F8A6DAE23?download" data-lightbox="lightbox"><img srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile27.uf.tistory.com%2Fimage%2F99F485355F8A6DAE237E02" src="https://t1.daumcdn.net/cfile/tistory/99F485355F8A6DAE23" style="cursor: pointer;max-width:100%;height:auto" width="860" height="147" alt="LED조명" filename="LED조명 교체4.png" filemime="image/jpeg" original="yes" /></span></span><b></b></p><p><b><br /></b></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">전기공사업법에 있는 경미한 공사에 대해서는 지금도 말도 많고 탈도 많습니다. 이것에 대한 필자의 생각은 아래와 같습니다. 이것은 어디까지나 필자의 생각이지 절대 법리를 정확하게 해석한 것이 아니니 참고만 하십시요.</span></p><p><br /></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">1) LED조명 교체는 내 집에 있는 것은 전기기술자시면 하시되 남의 집 것을 해주면 안되겠습니다. 물론 이것이 법의 위반인지 아닌지는 필자도 모르겠습니다. 법리에 대한 것은 정부에 문의하시면 되겠습니다.&nbsp;</span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><br /></span></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);"><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">2) 전기공사는 감전의 위험이 있으니 될 수 있으면</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">&nbsp;전문가에게 맡</span><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">기시기 바랍니다. 최소한 공인된 전기 기술자가&nbsp;하시는 것을 추천해 드립니다. 전기에 대해서 전혀 모르시는 분이 유튜브나 블로그를 보고 흉내 내다가 다칠 우려가 있습니다.&nbsp;</span></span></p><p><br /></p><p><br /></p><p><br /></p><p><span style="font-family: &quot;맑은 고딕&quot;, sans-serif; font-size: 14pt; color: rgb(0, 0, 0);">오늘은 LED조명 교체와 전기공사업법 위반에 대해서 말씀드렸습니다. 오늘도 긴 글 읽어주셔서 감사합니다.&nbsp;</span></p><p><br /></p><p><br /></p><script>
+	if ( window.matchMedia( '( min-width: 1024px )' ).matches == true ) {
+		document.write( '<div style="text-align: center;"><ins class="kakao_ad_area" style="display:none;" data-ad-unit    = "DAN-s4xdqamssm76" data-ad-width   = "728" data-ad-height  = "90"></ins></div> <script type="text/javascript" src="//t1.daumcdn.net/adfit/static/ad.min.js" async><\/script>' );
+	}
+	if ( window.matchMedia( '( max-width: 768px )' ).matches == true ) {
+		document.write( '<ins class="kakao_ad_area" style="display:none;" data-ad-unit    = "DAN-qe6lv14zl2cz" data-ad-width   = "320" data-ad-height  = "100"></ins> <script type="text/javascript" src="//t1.daumcdn.net/adfit/static/ad.min.js" async><\/script>' );
+	}
+</script><div class="tt_adsense_bottom" style="margin-top:30px"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 반응형사각광고2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5955660625916655"
+     data-ad-slot="4943019192"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="container_postbtn #post_button_group">
+    <div class="postbtn_like">
+        
+<script>
+    window.ReactionButtonType = 'reaction';
+    window.ReactionApiUrl = '//skystar7.tistory.com/reaction';
+    window.ReactionReqBody = {
+        entryId: 148    }
+</script>
+<div class="wrap_btn" id=reaction-148></div>
+<script src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866></script>
+        <div class="wrap_btn wrap_btn_share">
+    <button type="button" class="btn_post sns_btn btn_share" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99800F415F8A705726" data-title="LED조명 교체와 전기공사업법 위반" data-description="안녕하세요? 요즘은 워낙 다이열풍의 시대라서 웬만한 것들은 집에서 손수 하시는 시대가 되었습니다. 블로그에도 아주 쉽게 콘센트, 스위치, LED조명 등을 교체하는 정보를 접할 수 있습니다. 특히 집안의 형광등.." data-profile-image="https://tistory2.daumcdn.net/tistory/2803472/attach/92759e7d8ac642719213bd8062d0d2c9" data-profile-name="시설관리, 생활의 꿀팁, 국내여행 skystar7" data-pc-url="https://skystar7.tistory.com/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" data-relative-pc-url="/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98" data-blog-title="별의 Life">
+        <span class="ico_postbtn ico_share">공유하기</span>
+    </button>
+</div>
+                <div class="wrap_btn wrap_btn_etc" data-entry-id="148" data-entry-visibility="public" data-category-visibility="public">
+    <button type="button" class="btn_post btn_etc2"><span class="ico_postbtn ico_etc">글 요소</span></button>
+</div>
+    </div>
+    <button type="button" class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="2803472" data-url="https://skystar7.tistory.com/148" data-device="web_pc">
+    <em class="txt_state">구독하기</em>
+    <strong class="txt_tool_id">별의 Life</strong>
+    <span class="img_common_tistory ico_check_type1"></span>
+</button>
+    <div class="postbtn_ccl" data-ccl-type="1">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span><span class="ico_postbtn ico_ccl2">비영리</span><span class="ico_postbtn ico_ccl3">변경금지</span>        </span>
+    </a>
+</div>
+    <!--
+<rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.0/kr/" />
+    </Work>
+    <License rdf:about="http://creativecommons.org/licenses/by-nc-nd/">
+        <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+                        <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/>
+            </License>
+</rdf:RDF>
+-->
+</div><div class="tt-plugin tt-share-entry-with-sns tt-sns-icon-alignment-left tt-sns-icon-size-big">
+	<div class="tt-sns-wrap" id="ttSnsWrap-148">
+		<ul class="tt-sns-service-default">
+			<li class="tt-sns-service-kakaostory"><a href="javascript:;" onclick="ShareEntryWithSNS.share('kakaostory', '148', 'LED%EC%A1%B0%EB%AA%85%20%EA%B5%90%EC%B2%B4%EC%99%80%20%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95%20%EC%9C%84%EB%B0%98');">카카오스토리</a></li>
+			<li class="tt-sns-service-twitter"><a href="javascript:;" onclick="ShareEntryWithSNS.share('twitter', '148', 'LED%EC%A1%B0%EB%AA%85%20%EA%B5%90%EC%B2%B4%EC%99%80%20%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95%20%EC%9C%84%EB%B0%98');">트위터</a></li>
+			<li class="tt-sns-service-facebook"><a href="javascript:;" onclick="ShareEntryWithSNS.share('facebook', '148', 'LED%EC%A1%B0%EB%AA%85%20%EA%B5%90%EC%B2%B4%EC%99%80%20%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95%20%EC%9C%84%EB%B0%98');">페이스북</a></li>
+		</ul>
+	</div>
+	<div class="tt-sns-clear"></div>
+</div>
+<div class="another_category another_category_color_gray">
+<h4>'<a href="/category/별의%20시설관리">별의 시설관리</a>&nbsp;>&nbsp;<a href="/category/별의%20시설관리/전기">전기</a>' 카테고리의 다른 글</h4>
+<table>
+<tr>
+<th>
+<a href="/entry/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98?category=794913"  class ="current" >LED조명 교체와 전기공사업법 위반</a>&nbsp;&nbsp;<span>(40)</span>
+</th>
+<td>
+2020.10.17</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/%ED%94%8C%EB%A0%88%EB%B0%8D%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%86%90-%EB%B2%95%EC%B9%99%EA%B3%BC-%ED%94%8C%EB%A0%88%EB%B0%8D%EC%9D%98-%EC%99%BC%EC%86%90%EB%B2%95%EC%B9%99?category=794913" >플레밍의 오른손법칙과 왼손법칙</a>&nbsp;&nbsp;<span>(24)</span>
+</th>
+<td>
+2020.10.17</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/%EC%97%AD%EB%A5%A0Power-Factor%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC?category=794913" >역률(Power factor) &amp; 역률개선에 대하여</a>&nbsp;&nbsp;<span>(41)</span>
+</th>
+<td>
+2020.10.14</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/LED%EC%A1%B0%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC?category=794913" >LED조명에 대하여</a>&nbsp;&nbsp;<span>(37)</span>
+</th>
+<td>
+2020.10.12</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/%EC%A0%95%EC%A0%84%EC%8B%9C-%EC%88%98%EB%B0%B0%EC%A0%84%EB%B0%98-%EC%8B%9C%ED%80%80%EC%8A%A4%EC%9D%98-%EC%9D%B4%ED%95%B4?category=794913" >정전 및 복전 시퀀스(sequence)의 이해</a>&nbsp;&nbsp;<span>(3)</span>
+</th>
+<td>
+2020.09.24</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/%EB%88%84%EC%A0%84%EA%B2%BD%EB%B3%B4%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC?category=794913" >누전경보기에 대하여</a>&nbsp;&nbsp;<span>(6)</span>
+</th>
+<td>
+2020.09.14</td>
+</tr>
+</table></div></div>
+						</div>
+						
+							<div class="tags">
+								<h2>태그</h2>
+								<div class="items">
+									<a href="/tag/led"  rel="tag">led</a>,
+<a href="/tag/LED%EC%A1%B0%EB%AA%85"  rel="tag">LED조명</a>,
+<a href="/tag/LED%EC%A1%B0%EB%AA%85%20%EA%B5%90%EC%B2%B4"  rel="tag">LED조명 교체</a>,
+<a href="/tag/%EA%B0%80%EC%A0%95%EC%9A%A9%20LED%EC%A1%B0%EB%AA%85"  rel="tag">가정용 LED조명</a>,
+<a href="/tag/%EA%B2%BD%EB%AF%B8%ED%95%9C%20%EA%B3%B5%EC%82%AC"  rel="tag">경미한 공사</a>,
+<a href="/tag/%EA%B2%BD%EB%AF%B8%ED%95%9C%20%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC"  rel="tag">경미한 전기공사</a>,
+<a href="/tag/%ED%98%95%EA%B4%91%EB%93%B1%20LED%EA%B5%90%EC%B2%B4"  rel="tag">형광등 LED교체</a>
+								</div>
+							</div>
+						
+
+						
+							<div class="related-articles">
+								<h2><strong>'별의 시설관리/전기'</strong> Related Articles</h2>
+								<ul>
+									
+										<li>
+											<a href="/entry/%ED%94%8C%EB%A0%88%EB%B0%8D%EC%9D%98-%EC%98%A4%EB%A5%B8%EC%86%90-%EB%B2%95%EC%B9%99%EA%B3%BC-%ED%94%8C%EB%A0%88%EB%B0%8D%EC%9D%98-%EC%99%BC%EC%86%90%EB%B2%95%EC%B9%99?category=794913">
+												<span class="thum">
+													
+														<img src="//i1.daumcdn.net/thumb/C264x200/?fname=https://t1.daumcdn.net/cfile/tistory/994057445F89C30215" alt="">
+													
+												</span>
+												<span class="title">플레밍의 오른손법칙과 왼손법칙</span>
+											</a>
+										</li>
+									
+										<li>
+											<a href="/entry/%EC%97%AD%EB%A5%A0Power-Factor%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC?category=794913">
+												<span class="thum">
+													
+														<img src="//i1.daumcdn.net/thumb/C264x200/?fname=https://t1.daumcdn.net/cfile/tistory/99E6DD4D5F86F8B026" alt="">
+													
+												</span>
+												<span class="title">역률(Power factor) &amp; 역률개선에 대하여</span>
+											</a>
+										</li>
+									
+										<li>
+											<a href="/entry/LED%EC%A1%B0%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC?category=794913">
+												<span class="thum">
+													
+														<img src="//i1.daumcdn.net/thumb/C264x200/?fname=https://t1.daumcdn.net/cfile/tistory/990E49345F84650802" alt="">
+													
+												</span>
+												<span class="title">LED조명에 대하여</span>
+											</a>
+										</li>
+									
+										<li>
+											<a href="/entry/%EC%A0%95%EC%A0%84%EC%8B%9C-%EC%88%98%EB%B0%B0%EC%A0%84%EB%B0%98-%EC%8B%9C%ED%80%80%EC%8A%A4%EC%9D%98-%EC%9D%B4%ED%95%B4?category=794913">
+												<span class="thum">
+													
+														<img src="//i1.daumcdn.net/thumb/C264x200/?fname=https://t1.daumcdn.net/cfile/tistory/998A7F4C5F6BA37905" alt="">
+													
+												</span>
+												<span class="title">정전 및 복전 시퀀스(sequence)의 이해</span>
+											</a>
+										</li>
+									
+								</ul>
+							</div>
+						
+
+						<div id="entry148Comment">
+							<div class="comments">
+								
+									<div class="comment-list">
+										<ul>
+											
+												<li id="comment12133290">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4378064/profile/profileImg?v=1602321269818" class="avatar" alt="">
+														<span class="nickname"><a href="https://kookitlist.tistory.com" onclick="return openLinkInNewWindow(this)">쿠킷리스트</a></span>
+														<span class="date">2020.10.17 13:43 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133290" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>좋은 정보 감사드립니다~</p>
+													<div class="control">
+														<a href="/148#comment12133290">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133290);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133290); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133291">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 13:44 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133291" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133291">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133291); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133319">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4130850/profile/profileImg?v=1602911414988" class="avatar" alt="">
+														<span class="nickname"><a href="https://storyjobdam.tistory.com" onclick="return openLinkInNewWindow(this)">인생 뭐 있나</a></span>
+														<span class="date">2020.10.17 14:27 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133319" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>좋은 정보 감사합니다. 전기는 안전하게</p>
+													<div class="control">
+														<a href="/148#comment12133319">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133319);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133319); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133330">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 14:32 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133330" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133330">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133330); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133324">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4549522/profile/profileImg?v=1601765543351" class="avatar" alt="">
+														<span class="nickname"><a href="https://dmstjdi.tistory.com" onclick="return openLinkInNewWindow(this)">코먕먕</a></span>
+														<span class="date">2020.10.17 14:29 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133324" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>잘 보고가요</p>
+													<div class="control">
+														<a href="/148#comment12133324">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133324);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133324); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133332">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 14:34 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133332" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133332">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133332); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133333">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4606736/profile/profileImg?v=1602117224" class="avatar" alt="">
+														<span class="nickname"><a href="https://uu2u.tistory.com" onclick="return openLinkInNewWindow(this)">유유2U</a></span>
+														<span class="date">2020.10.17 14:35 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133333" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>역시 전문가에게 맡기는게 좋겠네요ㅎㅎ 즐거운 주말 보내세요 :)</p>
+													<div class="control">
+														<a href="/148#comment12133333">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133333);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133333); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133334">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 14:36 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133334" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>넹 방금 집사람하고 이야기해보니 아파트 관리소에 말하면 해준다는......<br />
+현실과 법의 괴리가 느껴지네요</p>
+																	<div class="control">
+																		<a href="/148#comment12133334">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133334); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133412">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4433810/profile/profileImg?v=1598429832734" class="avatar" alt="">
+														<span class="nickname"><a href="https://grace7.tistory.com" onclick="return openLinkInNewWindow(this)">테슬라조아</a></span>
+														<span class="date">2020.10.17 16:20 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133412" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>잘 보고 갑니다 ^^</p>
+													<div class="control">
+														<a href="/148#comment12133412">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133412);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133412); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133419">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 16:29 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133419" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>방문 감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133419">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133419); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133434">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/1460021/profile/profileImg?v=1504092899" class="avatar" alt="">
+														<span class="nickname"><a href="https://edeungood.tistory.com" onclick="return openLinkInNewWindow(this)">R첨지</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;R\ub9cc\ud55c R\ucca8\uc9c0&quot;,&quot;url&quot;:&quot;https:\/\/edeungood.tistory.com&quot;,&quot;nickname&quot;:&quot;R\ucca8\uc9c0&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.17 16:49 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133434" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>아, 이런 게 있다는 걸 처음 알았어요. 그야말로 유용한 정보네요. 좋은 포스팅 감사합니다.</p>
+													<div class="control">
+														<a href="/148#comment12133434">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133434);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133434); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133439">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 16:53 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133439" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>방문 감사드립니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133439">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133439); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133441">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4619416/profile/profileImg?v=1602481178742" class="avatar" alt="">
+														<span class="nickname"><a href="https://burntchicken.tistory.com" onclick="return openLinkInNewWindow(this)">태운치킨</a></span>
+														<span class="date">2020.10.17 16:59 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133441" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>포스팅 잘 보고 갑니다^^</p>
+													<div class="control">
+														<a href="/148#comment12133441">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133441);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133441); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133442">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 17:00 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133442" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>넵 감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133442">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133442); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133448">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4473181/profile/profileImg?v=1596241648" class="avatar" alt="">
+														<span class="nickname"><a href="https://andme21.tistory.com" onclick="return openLinkInNewWindow(this)">앤미Andme</a></span>
+														<span class="date">2020.10.17 17:07 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133448" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>뭐든 안전이 제일 우선인 듯 합니다 정보제공 감사합니다</p>
+													<div class="control">
+														<a href="/148#comment12133448">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133448);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133448); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133478">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 17:44 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133478" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다#^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133478">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133478); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133471">
+													<div class="author-meta">
+														<img src="https://t1.daumcdn.net/tistory_admin/blog/admin/profile_default_06.png" class="avatar" alt="">
+														<span class="nickname"><a href="https://futurestrade.tistory.com" onclick="return openLinkInNewWindow(this)">FireHippo</a></span>
+														<span class="date">2020.10.17 17:34 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133471" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>잘보고갑니다</p>
+													<div class="control">
+														<a href="/148#comment12133471">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133471);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133471); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133479">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 17:44 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133479" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>방문 감사드립니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133479">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133479); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133502">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4588739/profile/profileImg?v=1602080732441" class="avatar" alt="">
+														<span class="nickname"><a href="https://hmjh1028.tistory.com" onclick="return openLinkInNewWindow(this)">가희파파</a></span>
+														<span class="date">2020.10.17 18:18 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133502" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>할줄알아도 못하게하네요 ㅎㅎ</p>
+													<div class="control">
+														<a href="/148#comment12133502">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133502);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133502); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133517">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 18:34 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133517" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>ㅋㅋ 감사합니다.</p>
+																	<div class="control">
+																		<a href="/148#comment12133517">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133517); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133504">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/3622461/profile/profileImg?v=1601642299308" class="avatar" alt="">
+														<span class="nickname"><a href="https://akimgbs1972.tistory.com" onclick="return openLinkInNewWindow(this)">뉴론7</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;\uc77c\uc0c1\uacfc IT \uc0dd\ud65c&quot;,&quot;url&quot;:&quot;https:\/\/akimgbs1972.tistory.com&quot;,&quot;nickname&quot;:&quot;\ub274\ub8607&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.17 18:20 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133504" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>좋은 정보 잘 알아 갑니다.</p>
+													<div class="control">
+														<a href="/148#comment12133504">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133504);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133504); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133516">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 18:33 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133516" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>방문 감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133516">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133516); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133523">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4282529/profile/profileImg?v=1584676283" class="avatar" alt="">
+														<span class="nickname"><a href="https://notbadoo.tistory.com" onclick="return openLinkInNewWindow(this)">낫배두</a></span>
+														<span class="date">2020.10.17 18:38 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133523" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>유용한 정보 잘보고 갑니다!🙋🏻‍♂️</p>
+													<div class="control">
+														<a href="/148#comment12133523">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133523);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133523); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133525">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 18:38 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133525" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133525">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133525); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133594">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4584864/profile/profileImg?v=1601454107101" class="avatar" alt="">
+														<span class="nickname"><a href="https://high-q.tistory.com" onclick="return openLinkInNewWindow(this)">류뚜웅</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;\uc720\uc6a9\ud55c \uc2e4\uc0dd\ud65c \uc815\ubcf4&quot;,&quot;url&quot;:&quot;https:\/\/high-q.tistory.com&quot;,&quot;nickname&quot;:&quot;\ub958\ub69c\uc6c5&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.17 19:50 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133594" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>ㅎㅎ 명확하게 개정이 되어야 할 것 같아 보이네요</p>
+													<div class="control">
+														<a href="/148#comment12133594">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133594);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133594); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133596">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 19:51 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133596" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>넵 그렇습니다. 이것 말고도 법이 애매모호한 것들이 많아요~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133596">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133596); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133633">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4389709/profile/profileImg?v=1590066307022" class="avatar" alt="">
+														<span class="nickname"><a href="https://sadd2955.tistory.com" onclick="return openLinkInNewWindow(this)">돈이 되는 지혜이야기</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;\ub3c8\uc774 \ub418\ub294 \uc9c0\ud61c\uc774\uc57c\uae30&quot;,&quot;url&quot;:&quot;https:\/\/sadd2955.tistory.com&quot;,&quot;nickname&quot;:&quot;\ub3c8\uc774 \ub418\ub294 \uc9c0\ud61c\uc774\uc57c\uae30&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.17 20:29 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133633" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>유용한 정보네요 집에 led등 나가서 교체해야 하는데 미루고 잇네요 ㅠ.ㅠ</p>
+													<div class="control">
+														<a href="/148#comment12133633">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133633);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133633); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133730">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 21:45 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133730" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>방문 감사드립니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133730">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133730); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133721">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4598955/profile/profileImg?v=1601697335" class="avatar" alt="">
+														<span class="nickname"><a href="https://djajsl308.tistory.com" onclick="return openLinkInNewWindow(this)">내일은꼭건물주</a></span>
+														<span class="date">2020.10.17 21:35 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133721" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>필요에 의해 전기 기능사 필기 준비해볼까 하는데 포스팅 잘보고 갑니다</p>
+													<div class="control">
+														<a href="/148#comment12133721">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133721);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133721); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133734">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 21:47 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133734" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>넵 방문 감사합니다. 전기기능사 꼭 따세요~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133734">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133734); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133849">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/615530/profile/profileImg?v=1516724379441" class="avatar" alt="">
+														<span class="nickname"><a href="https://blime.tistory.com" onclick="return openLinkInNewWindow(this)">ilime</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;\ube14\ub85c\uadf8 \ub77c\uc784&quot;,&quot;url&quot;:&quot;https:\/\/blime.tistory.com&quot;,&quot;nickname&quot;:&quot;ilime&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.17 23:20 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133849" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>유용한 정보 잘 보고 갑니다.<br />
+즐거운 주말 되세요~</p>
+													<div class="control">
+														<a href="/148#comment12133849">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133849);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133849); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133853">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.17 23:29 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133853" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다. 좋은밤 되세요~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12133853">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133853); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133889">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4171074/profile/profileImg?v=1579881168" class="avatar" alt="">
+														<span class="nickname"><a href="https://yosunnylee.tistory.com" onclick="return openLinkInNewWindow(this)">yosunnylee</a><span class="tistoryProfileLayerTrigger" onclick='TistoryProfile.show(event, this, {&quot;title&quot;:&quot;\uc694\uae30\ub2c8\uc368\ub2c8\ub2c8&quot;,&quot;url&quot;:&quot;https:\/\/yosunnylee.tistory.com&quot;,&quot;nickname&quot;:&quot;yosunnylee&quot;,&quot;items&quot;:[]}); return false;'></span></span>
+														<span class="date">2020.10.18 00:06 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133889" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>어머...화장실전등 led로 제가 갈앗는데 ㅠ 이건 문제 안되는거죠 ? ㅋㅋㅋ 무지해서 ㅠ</p>
+													<div class="control">
+														<a href="/148#comment12133889">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133889);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133889); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12133905">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.18 00:30 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133905" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>괜찮아요~^^ 누가 알겠어요~</p>
+																	<div class="control">
+																		<a href="/148#comment12133905">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12133905); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133908">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/3758009/profile/profileImg?v=1602340220560" class="avatar" alt="">
+														<span class="nickname"><a href="https://dividend-stocks.tistory.com" onclick="return openLinkInNewWindow(this)">Night-owl</a></span>
+														<span class="date">2020.10.18 00:36 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133908" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>잘 보고 가요!</p>
+													<div class="control">
+														<a href="/148#comment12133908">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133908);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133908); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12134007">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.18 06:33 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12134007" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12134007">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12134007); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133943">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4609666/profile/profileImg?v=1602170288696" class="avatar" alt="">
+														<span class="nickname"><a href="https://b-j-a.tistory.com" onclick="return openLinkInNewWindow(this)">흰백지</a></span>
+														<span class="date">2020.10.18 01:19 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133943" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p>잘보고갑니다 !</p>
+													<div class="control">
+														<a href="/148#comment12133943">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133943);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133943); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12134010">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.18 06:35 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12134010" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>감사합니다~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12134010">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12134010); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+												<li id="comment12133993">
+													<div class="author-meta">
+														<img src="https://tistory1.daumcdn.net/tistory/user/4537527/profile/profileImg?v=1600131117058" class="avatar" alt="">
+														<span class="nickname"><a href="https://dailydoseofculture.tistory.com" onclick="return openLinkInNewWindow(this)">삶의 키워드</a></span>
+														<span class="date">2020.10.18 06:18 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12133993" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+													</div>
+													<p> 잘못하면 전체 전기도 나갈수도 있을 텐데.. 안전이 최고죠.😄</p>
+													<div class="control">
+														<a href="/148#comment12133993">댓글주소</a>
+														<a href="#" onclick="deleteComment(12133993);return false">수정/삭제</a>
+														<a href="#" onclick="commentComment(12133993); return false">댓글쓰기</a>
+													</div>
+													
+														<ul>
+															
+																<li id="comment12134012">
+																	<div class="author-meta">
+																		<img src="https://tistory1.daumcdn.net/tistory/user/3706768/profile/profileImg?v=1587914205666" class="avatar" alt="">
+																		<span class="nickname"><a href="https://skystar7.tistory.com" onclick="return openLinkInNewWindow(this)">시설관리, 생활의 꿀팁, 국내여행 skystar7</a></span>
+																		<span class="date">2020.10.18 06:35 <a href="/toolbar/popup/abuseReport/?entryId=148&commentId=12134012" onclick="window.open(this.href, 'ThisBlogReportPopup', 'width=550, height=510, toolbar=no, menubar=no, status=no, scrollbars=no'); return false;">신고</a></span>
+																	</div>
+																	<p>넹 방문 감사해요~^^</p>
+																	<div class="control">
+																		<a href="/148#comment12134012">댓글주소</a>
+																		<a href="#" onclick="deleteComment(12134012); return false;">수정/삭제</a>
+																	</div>
+																</li>
+															
+														</ul>
+													
+												</li>
+											
+										</ul>
+									</div>
+								
+
+								<form method="post" action="/comment/add/148" onsubmit="return false" style="margin: 0">
+									<div class="comment-form">
+										
+											<div class="field">
+												
+													<input type="text" name="name" value="" placeholder="이름">
+													<input type="password" name="password" value="" placeholder="암호">
+												
+												<div class="secret">
+													<input type="checkbox" name="secret" id="secret">
+													<label for="secret" tabindex="0">Secret</label>
+												</div>
+											</div>
+										
+										<textarea name="comment" cols="" rows="4" placeholder="여러분의 소중한 댓글을 입력해주세요."></textarea>
+										<div class="submit">
+											<button type="submit" class="btn" onclick="addComment(this, 148); return false;">댓글달기</button>
+										</div>
+								</div>
+								</form>
+							</div>
+						</div><script type="text/javascript">loadedComments[148]=true;findFragmentAndHighlight(148)</script>
+
+					
+				
+			</div>
+
+			
+
+			
+
+			
+				<div class="pagination">
+					<a  class="prev no-more-prev">이전</a>
+					
+						<a ><span class="selected">1</span></a>
+					
+						<a  href='/entry/플레밍의-오른손-법칙과-플레밍의-왼손법칙'><span >2</span></a>
+					
+						<a  href='/entry/역률Power-Factor에-대하여'><span >3</span></a>
+					
+						<a  href='/entry/LED조명에-대하여'><span >4</span></a>
+					
+						<a  href='/entry/일반경비원-신임교육'><span >5</span></a>
+					
+						<a ><span >&middot;&middot;&middot;</span></a>
+					
+						<a  href='/entry/병역특례-경험'><span >134</span></a>
+					
+					<a  href='/entry/플레밍의-오른손-법칙과-플레밍의-왼손법칙' class="next ">다음</a>
+				</div>
+			
+		</article>
+	</section>
+	<hr>
+	<footer id="footer">
+		<p class="copyright">DESIGN BY <a href="#">TISTORY</a> <a href="https://skystar7.tistory.com/manage" class="admin">관리자</a></p>
+	</footer>
+</div>
+<script src="https://tistory4.daumcdn.net/tistory/2803472/skin/images/script.js"></script>
+
+<script type="text/javascript">
+ document.oncontextmenu = new Function ('return false');
+ document.ondragstart = new Function ('return false');
+ document.onselectstart = new Function ('return false');
+  document.body.style.MozUserSelect = 'none';
+</script>
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/plugins/PreventCopyContents/js/functions.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-164633231-1', 'auto');
+	ga('send', 'pageview');
+</script><script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+<script>
+    (function($) {
+        $("body").bind('copy', function (e) {
+
+            var url = document.location.href,
+                decodedUrl = decodeURI(url),
+                selection = window.getSelection();
+
+
+            if (typeof window.getSelection == "undefined") {//IE8 or earlier...
+                event.preventDefault();
+
+                var pagelink = '\n\n 출처: ' + decodedUrl,
+                    copytext = selection + pagelink;
+
+                if (window.clipboardData) {
+                    window.clipboardData.setData('Text', copytext);
+                }
+                return;
+            }
+            var body_element = document.getElementsByTagName('body')[0];
+
+            //if the selection is short let's not annoy our users
+            if (("" + selection).length < 30) return;
+
+            //create a div outside of the visible area
+            var newdiv = document.createElement('div');
+            newdiv.style.position = 'absolute';
+            newdiv.style.left = '-99999px';
+            body_element.appendChild(newdiv);
+            newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+
+            //we need a <pre> tag workaround
+            //otherwise the text inside "pre" loses all the line breaks!
+            if (selection.getRangeAt(0).commonAncestorContainer.nodeName == "PRE") {
+                newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
+            }
+
+            newdiv.innerHTML += '<br /><br />출처: <a href="' + url + '">' + escapeHTML(decodedUrl) + '</a> [별의 Life]';
+
+            selection.selectAllChildren(newdiv);
+
+            window.setTimeout(function () {
+                body_element.removeChild(newdiv);
+            }, 200);
+        });
+    })(tjQuery);
+</script>
+	<script>
+	    lightbox.option({
+			"fadeDuration": 200,
+		    "resizeDuration": 200,
+		    "wrapAround": false,
+			"albumLabel": "%1 / %2",
+			"fitImagesInViewport":true ,
+			"stopEvent": false
+	    })
+	</script>            <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+            <script type="text/javascript">window.tiara = {"svcDomain":"user.tistory.com","section":"\uae00\ubdf0","trackPage":"\uae00\ubdf0_\ubcf4\uae30","page":"\uae00\ubdf0","key":"2803472-148","customProps":{"userId":0,"blogId":"2803472","role":"guest","filterTarget":false,"trackPage":"\uae00\ubdf0_\ubcf4\uae30","entryId":"148"},"entry":{"entryId":"148","categoryName":"\uc804\uae30","categoryId":"794913","author":"3706768","authorId":"3706768","image":"3706768","plink":"\/entry\/LED%EC%A1%B0%EB%AA%85-%EA%B5%90%EC%B2%B4%EC%99%80-%EC%A0%84%EA%B8%B0%EA%B3%B5%EC%82%AC%EC%97%85%EB%B2%95-%EC%9C%84%EB%B0%98","tags":["led","LED\uc870\uba85","LED\uc870\uba85 \uad50\uccb4","\uac00\uc815\uc6a9 LED\uc870\uba85","\uacbd\ubbf8\ud55c \uacf5\uc0ac","\uacbd\ubbf8\ud55c \uc804\uae30\uacf5\uc0ac","\ud615\uad11\ub4f1 LED\uad50\uccb4"],"key":"2803472-148"},"sentryDsn":"https:\/\/a53520229cd744e798d42900d76b0e2a@aem-collector.daumkakao.io\/713"};</script>
+            <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/tiara/tiara.min.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866" defer></script>
+                        <script type="text/javascript">
+                window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: 'tistory'}];
+            </script>
+            <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async></script><script type="text/javascript">if(window.console!=undefined){setTimeout(console.log.bind(console,"%cTISTORY","font:8em Arial;color:#EC6521;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  나를 표현하는 블로그","font:2em sans-serif;color:#333;"),0);}</script><iframe style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//skystar7.tistory.com/api" id="editEntry"></iframe>            <div class="#menubar menu_toolbar  toolbar_rb">
+                                            <h2 class="screen_out">티스토리툴바</h2>
+                                            <div class="btn_tool">
+                    <button class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="2803472" data-url="https://skystar7.tistory.com" data-device="web_pc">
+                        <strong class="txt_tool_id">별의 Life</strong>
+                        <em class="txt_state">구독하기</em>
+                        <span class="img_common_tistory ico_check_type1"></span>
+                    </button>
+                </div>
+                                       </div>
+                                       <div class="#menubar menu_toolbar "><div class='btn_tool btn_tool_type1' id='menubar_wrapper'></div></div>
+                                       <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-dbeff21e6b55a325b49f98a909e8050d40d86866/blogs/script/menubar.min.js?_version_=tistory-dbeff21e6b55a325b49f98a909e8050d40d86866"></script>        <div class="layer_tooltip">
+            <div class="inner_layer_tooltip">
+                <p class="desc_g"></p>
+            </div>
+        </div>
+        <div id="tistoryEtcLayer" class="layer_post"></div><div id="tistorySnsLayer" class="layer_post"></div></body>
+</html>

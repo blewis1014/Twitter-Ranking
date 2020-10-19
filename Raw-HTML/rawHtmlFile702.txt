@@ -1,0 +1,1795 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr">
+<head>
+    <meta charset="UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"a046830de0",applicationID:"274086721"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a046830de0","applicationID":"274086721","transactionName":"ZgdRbUMFCxAHURVaDl9NdUxfBxEKCVxOQwBWB0AXRw0AFBUIIEEVRg1BUh8DABc=","queueTime":1,"applicationTime":341,"agent":""}</script>
+    <script>
+        var dataLayer = [];
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WQPJ9H');</script>
+    <!-- End Google Tag Manager -->
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
+    <meta property="og:url" content="https://www.tate.org.uk/art/artworks/twombly-the-song-of-the-border-guard-p77550" />
+    
+    <meta property="og:site_name" content="Tate" />
+    <meta property="fb:app_id" content="402260676558591" />
+    <meta property="fb:admins" content="100003842463048" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@tate" />
+    <meta name="twitter:creator" content="@tate" />
+    
+    <meta property="og:title" content="‘The Song of the Border-Guard’, Cy Twombly, 1952 | Tate" />
+    <meta name="twitter:title" content="‘The Song of the Border-Guard’, Cy Twombly, 1952 | Tate" />
+    
+    
+    <meta property="og:image" content="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/tate_social_logo.png" />
+    <meta name="twitter:image" content="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/tate_social_logo.png" />
+    <meta property="og:image:width" content="840" />
+    <meta property="og:image:height" content="450" />
+    
+    
+    <meta name="description" content="Artwork page for ‘The Song of the Border-Guard’, Cy Twombly, 1952 Since 1977, Twombly has made several chariot-like sculptures. The theme reflects his fascination with the ancient world, particularly Homer&#39;s account of the Trojan War in The Iliad. This work is especially minimal, combining a simple disc and triangle to suggest the wheel and body of the chariot." />
+    <meta name="twitter:description" content="Artwork page for ‘The Song of the Border-Guard’, Cy Twombly, 1952 Since 1977, Twombly has made several chariot-like sculptures. The theme reflects his fascination with the ancient world, particularly Homer&#39;s account of the Trojan War in The Iliad. This work is especially minimal, combining a simple disc and triangle to suggest the wheel and body of the chariot." />
+    <meta property="og:description" content="Artwork page for ‘The Song of the Border-Guard’, Cy Twombly, 1952 Since 1977, Twombly has made several chariot-like sculptures. The theme reflects his fascination with the ancient world, particularly Homer&#39;s account of the Trojan War in The Iliad. This work is especially minimal, combining a simple disc and triangle to suggest the wheel and body of the chariot." />
+    
+    <meta name="author" content="Tate" />
+    <meta property="og:type" content="article" />
+    <meta property="article:section" content="Art &amp; artists" />
+    <meta name="keywords" content="art, ‘The Song of the Border-Guard’, Cy Twombly, Woodcut on paper, Tate collection, Tate, artwork" />
+    
+    
+    
+
+    <title>‘The Song of the Border-Guard’, Cy Twombly, 1952 | Tate</title>
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://www.tate.org.uk/favicon.ico"/>
+    
+    <link rel="canonical" href="https://www.tate.org.uk/art/artworks/twombly-the-song-of-the-border-guard-p77550" />
+
+    
+    <link type="text/css" rel="stylesheet" href="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/css/styles.min.css" media="all" />
+    
+
+
+
+
+<script>
+    var TateUrls = {
+        'root': 'https://www.tate.org.uk',
+        'shop': 'https://shop.tate.org.uk',
+        'tickets': 'https://shop.tate.org.uk'
+    };
+    var pageProperties = {
+        'theme': 'default',
+        'apiType': 'artwork',
+        'pageType': 'page--artwork',
+        'lang': 'en'
+    };
+    var objectData = {
+        'pageType': 'artwork',
+        'lang': 'en',
+        'section': 'art'
+        ,
+        'content_pageview': {
+            'content_title': '‘The Song of the Border-Guard’, Cy Twombly, 1952',
+            'content_url': 'https://www.tate.org.uk/art/artworks/twombly-the-song-of-the-border-guard-p77550'
+        },
+        'title': '‘The Song of the Border-Guard’, Cy Twombly, 1952'
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    };
+    
+    var relatedArtists = [];
+    
+    
+    relatedArtists.push('Cy Twombly');
+    relatedArtists.push('id:2079');
+    
+    objectData['relatedArtists'] = relatedArtists.join(' | ');
+    
+    
+    
+    dataLayer.push(objectData);
+</script>
+
+
+
+<script>
+    var objectData = {
+        'relatedCollectionObjects': 'P77550'
+    };
+    
+    
+    objectData['artworkMedium'] = 'Woodcut on paper';
+    
+    objectData['pageCategory'] = 'on paper, print';
+    dataLayer.push(objectData);
+</script>
+
+
+
+</head>
+<body class="no-js type--artwork page--artwork lang--en">
+<!-- Google Tag Manager -->
+<script>
+    dataLayer.push({
+        'fireGtm': true
+    });
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQPJ9H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+
+<script>
+(function(){
+    var cookies;
+
+    function tateReadCookie(name,c,C,i){
+        if(cookies){ return cookies[name]; }
+
+        c = document.cookie.split('; ');
+        cookies = {};
+
+        for(i=c.length-1; i>=0; i--){
+           C = c[i].split('=');
+           cookies[C[0]] = C[1];
+        }
+
+        return cookies[name];
+    }
+
+    function tatePopulateBasket() {
+        var basketItems = parseInt(tateReadCookie('sccBasket'));
+        var nav = document.querySelectorAll("div.header-nav")[0];
+        if(!isNaN(basketItems) && basketItems > 0 && typeof(nav) !== 'undefined') {
+            nav.classList.add('header-nav--has-basket');
+            var basket = document.createElement("div");
+            basket.classList.add('header-nav__item');
+            basket.classList.add('header-nav__basket');
+            basket.id = 'tate-basket';
+            basket.innerHTML = '<a href="https://shop.tate.org.uk/s/tate/basket" title="View Basket" class="btn  btn--type__no-bg btn--size__small btn--style__icon" data-gtm-name="Navigation-basket"><i class="btn__icon icon--shop"></i><span class="btn__badge">' + basketItems  + '</span></a>';
+            nav.insertBefore(basket, nav.firstChild);
+        }
+    }
+    window.tatePopulateBasket = tatePopulateBasket;
+})();
+
+</script>
+
+
+
+
+<div id="page">
+
+    
+    
+    
+
+    
+    <header id="header" class="sticks-to-top" itemscope="" itemtype="https://schema.org/WPHeader">
+        <div class="container">
+            <div class="container__inner">
+                <div class="header-branding">
+                    <div class="site-logo" itemscope="" itemtype="https://schema.org/Organization">
+                        <a href="/" id="logo" itemprop="url" tabindex="1" title="Return to the Tate home page"><img typeof="foaf:Image" itemprop="logo" src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/tate-logo.png" alt="Tate Logo"></a>
+                    </div>
+                    
+                </div>
+                
+                <div class="header-nav">
+                    <div class="header-nav__item header-nav__shop">
+                        <a href="https://shop.tate.org.uk" class="btn btn--type__no-bg btn--size__small btn--style__text" data-gtm-name="Navigation-header" tabindex="3">
+                            <i class="btn__icon icon--shop"></i>
+                            <span class="btn__text">Shop</span>
+                        </a>
+                    </div>
+
+                    
+                    <div class="header-nav__item header-nav__search">
+                        <form action="/search" method="GET" id="search-block-form" role="search" aria-label="Search this site" accept-charset="UTF-8" class="site-search" autocomplete="off">
+                            <div class="site-search__inner">
+                                <noscript>
+                                    <div class="input-wrapper input-wrapper--btn-over">
+                                        <input type="text" title="Search Tate" class="" name="q" placeholder="Search">
+                                        <button type="submit" class="btn btn--style__icon" data-gtm-name="Navigation-search-search">
+                                            <i class="btn__icon icon--search"></i>
+                                            <span class="btn__text">Search</span>
+                                        </button>
+                                    </div>
+                                </noscript>
+                                <div class="tag-list">
+                                    <h3 class="tags-list__title tags-list__title--inline">Suggested terms:</h3>
+                                    <ul>
+                                        <li>
+                                            <a href="/art/art-terms" class="tag" data-gtm-name="Navigation-search">Art Terms</a>
+                                        </li>
+                                        <li>
+                                            <a href="/research/publications/tate-papers" class="tag" data-gtm-name="Navigation-search">Tate Papers</a>
+                                        </li>
+                                        <li>
+                                            <a href="/search?q=Turner+Collection " class="tag" data-gtm-name="Navigation-search">Turner Collection</a>
+                                        </li>
+                                        <li>
+                                            <a href="/kids" class="tag" data-gtm-name="Navigation-search">Tate Kids</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tate-collective" class="tag" data-gtm-name="Navigation-search">Tate Collective</a>
+                                        </li>
+                                        <li>
+                                            <a href="/artist-rooms" class="tag" data-gtm-name="Navigation-search">ARTIST ROOMS</a>
+                                        </li>
+                                        <li>
+                                            <a href="/tate-exchange" class="tag" data-gtm-name="Navigation-search">Tate Exchange</a>
+                                        </li>
+                                        <li>
+                                            <a href="/whats-on?daterange=fromnow&event_type=late" class="tag" data-gtm-name="Navigation-search">Late at Tate</a>
+                                        </li>
+                                        <li>
+                                            <a href="/art/artists/jenny-holzer-1307" class="tag" data-gtm-name="Navigation-search">Jenny Holzer</a>
+                                        </li>
+                                        <li>
+                                            <a href="/visit/tate-st-ives/barbara-hepworth-museum-and-sculpture-garden" class="tag" data-gtm-name="Navigation-search">Barbara Hepworth Museum</a>
+                                        </li>
+                                        <li>
+                                            <a href="/art/artists/angelica-kauffman-303" class="tag" data-gtm-name="Navigation-search">Angelica Kauffman</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                
+                
+                <div class="header-join">
+                    <a href="/join-support/tate-members" class="header-join--action" data-gtm-name="Navigation-header">
+                        <span class="btn__text">Become a Member</span>
+                        <i class="btn__icon icon--arrow-right"></i>
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </header>
+    
+
+    <script>if(typeof(window.tatePopulateBasket)!=='undefined')window.tatePopulateBasket();</script>
+
+    
+    <nav id="nav" class="nav--relaxed" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+        <div class="container">
+            <div class="container__inner">
+                <div class="block site-menu-block">
+                    <h2 class="block__title h-e">Main menu</h2>
+                    <ul class="site-menu site-menu--level-1">
+                        <li class="site-menu__item site-menu__item--first">
+                            <a href="/art" class="active-trail active" data-gtm-nav="Art &amp; artists" data-gtm-name="Navigation-primary">Art &amp; artists</a>
+                        </li>
+                        <li class="site-menu__item">
+                            <a href="/whats-on" class="" data-gtm-nav="Exhibitions &amp; Events" data-gtm-name="Navigation-primary">Exhibitions &amp; events</a>
+                        </li>
+                        <li class="site-menu__item site-menu__item--last">
+                            <a href="/visit" class="" data-gtm-nav="Plan your visit" data-gtm-name="Navigation-primary">Plan your visit</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block site-menu-block">
+                    <h2 class="block__title h-e">Main menu additional</h2>
+                    <ul class="site-menu--handheld site-menu--handheld--level-1">
+                        <li class="site-menu--handheld__item site-menu--handheld__item--first">
+                            <a href="/join-support/tate-members" data-gtm-nav="Become a member" data-gtm-name="Navigation-primary">Become a Member</a>
+                        </li>
+                        <li class="site-menu--handheld__item site-menu--handheld__item--last">
+                            <a href="https://shop.tate.org.uk" data-gtm-nav="Shop" data-gtm-name="Navigation-primary">Shop</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+
+    
+    
+
+
+<nav id="breadcrumb" class="sticks-to-top relaxed">
+    <div class="container breadcrumb__container">
+        <div class="container__inner">
+            <span class="breadcrumb__handle btn btn--type__no-bg btn--style__icon">
+                <i class="btn__icon icon--chevron-down"></i>
+                <span class="btn__text">Expand</span>
+            </span>
+            <div class="breadcrumb__list-outer">
+                <ul class="breadcrumb__list">
+                    
+                    <li class="breadcrumb__item"><a data-gtm-name="nav_link_breadcrumb" data-gtm-destination="landing-page" href="/art" title="Back to Art &amp; artists">Art &amp; artists</a></li>
+                    
+                    <li class="breadcrumb__item"><a href="/art/artists/cy-twombly-2079" aria-label="More by Cy Twombly" data-gtm-name="nav_link_breadcrumb" data-gtm-destination="page--artist">Cy Twombly</a></li>
+                    
+                    <li class="breadcrumb__item"><span>The Song of the Border-Guard</span></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+    
+
+    
+
+    <main id="content" itemscope="" itemtype="https://schema.org/WebPage" class="container-16 ">
+        
+<article class="artwork">
+    <section class="content-main">
+        <div class="container container--primary-content">
+            <div class="content__body-text" itemprop="mainContentOfPage">
+                <header class="article-header">
+                    <div class="container__inner">
+                        <h1 class="gamma"><a href="/art/artists/cy-twombly-2079" aria-label="More by Cy Twombly" data-gtm-name="header_link_artist" data-gtm-destination="page--artist">Cy Twombly</a></h1>
+                        <h2 class="beta">The Song of the Border-Guard</h2>
+                        <h2 class="header__date"><span>1952</span></h2>
+                    </div>
+                </header>
+            </div>
+        </div>
+
+        <div class="image-canvas image-canvas--artwork">
+            <figure>
+                <div class="image-container responsive-container">
+                    <div >
+                        
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1536px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/65.5599; --aspect-ratio-percentage: 65.5599%; ">
+
+<img alt=""  data-src-128-83="https://www.tate.org.uk/art/images/work/P/P77/P77550_7.jpg" data-src-256-167="https://www.tate.org.uk/art/images/work/P/P77/P77550_8.jpg" data-src-730-478="https://www.tate.org.uk/art/images/work/P/P77/P77550_9.jpg" data-src-1536-1007="https://www.tate.org.uk/art/images/work/P/P77/P77550_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P77/P77550_7.jpg" data-current-size="128-83"
+ data-visible="" data-caption="" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P77/P77550_7.jpg" alt="" /></noscript>
+</div></div>
+
+
+                    </div>
+                </div>
+
+                
+
+                
+
+<div class="container image-strip artwork-meta">
+    <div class="container__inner">
+        <div class="grid-outer grid-outer--trigger-tablet">
+
+            <ul class="artwork-meta__buttons image-strip__buttons list list--inline list--icons list--icons-with-margin">
+                <li class="list__item list__item--icon list__item--icon-large">
+                    <div class="image-strip__share-rollover">
+                        <ul class="list list--social list--social--blue" style="">
+                            <li class="rollover-close list__item--first list__item--icon list__item--icon-large">
+                                <a href="#3" class="btn--type__inverse" title="Share">
+                                    <i class="icon icon--share"></i>
+                                </a>
+                            </li>
+                            <li class="list__item list__item--icon list__item--twitter list__item--icon-large">
+                                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tate.org.uk%2Fart%2Fartworks%2Ftwombly-the-song-of-the-border-guard-p77550%0A" target="_blank" title="Twitter" data-gtm-name="AAIcon-Share">Twitter</a>
+                            </li>
+                            <li class="list__item list__item--icon list__item--facebook list__item--icon-large">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tate.org.uk%2Fart%2Fartworks%2Ftwombly-the-song-of-the-border-guard-p77550%0A" target="_blank" title="Facebook" data-gtm-name="AAIcon-Share">Facebook</a>
+                            </li>
+                            <li class="list__item list__item--icon list__item--email list__item--icon-large">
+                                <a href="mailto:?subject=I%20have%20shared%20this%20page%20from%20the%20Tate%20website%20with%20you&amp;body=Look%20at%20this%20link%20from%20Tate%20https%3A%2F%2Fwww.tate.org.uk%2Fart%2Fartworks%2Ftwombly-the-song-of-the-border-guard-p77550%0A" target="_blank" title="Email" data-gtm-name="AAIcon-Share">Email</a>
+                            </li>
+                            <li class="list__item list__item--icon list__item--pinterest list__item--icon-large list__item--social-blue">
+                                <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tate.org.uk%2Fart%2Fartworks%2Ftwombly-the-song-of-the-border-guard-p77550&media=https%3A%2F%2Fstorage.googleapis.com%2Ftate-digital%2Fui%2F3.26.2-compressed%2Ftate_social_logo.png&description=Artwork%20page%20for%20%E2%80%98The%20Song%20of%20the%20Border-Guard%E2%80%99%2C%20Cy%20Twombly%2C%201952%20Since%201977%2C%20Twombly%20has%20made%20several%20chariot-like%20sculptures.%20The%20theme%20reflects%20his%20fascination%20with%20the%20ancient%20world%2C%20particularly%20Homer%27s%20account%20of%20the%20Trojan%20War%20in%20The%20Iliad.%20This%20work%20is%20especially%20minimal%2C%20combining%20a%20simple%20disc%20and%20triangle%20to%20suggest%20the%20wheel%20and%20body%20of%20the%20chariot." target="_blank" title="Pinterest" data-gtm-name="AAIcon-Share" data-pin-custom="true">Pinterest</a>
+                            </li>
+                        </ul>
+                        <h4 class="list__title block__title">Share this page</h4>
+                    </div>
+                    <a href="#3" class="btn--type__inverse rollover-button" title="Share" role="button" aria-expanded="false">
+                        <i class="icon icon--share"></i>
+                    </a>
+                </li>
+                <li class="list__item list__item--icon list__item--icon-large">
+                    <a id="master-image-album" href="#" data-anon-href="https://www.tate.org.uk/user?destination=art/artworks/twombly-the-song-of-the-border-guard-p77550
+" data-ajax-type="modal" data-ajax-url="/art/albums/add/artwork/P77550" class="btn--type__inverse" data-gtm-name="AAIcon-AddToAlbum" title="Add to album" role="button">
+                        <i class="icon icon--add"></i>
+                    </a>
+                </li>
+                
+                <li class="list__item list__item--icon list__item--icon-large">
+                    <a href="https://shop.tate.org.uk/prints/view-all-prints" class="btn--type__inverse" data-gtm-name="AAIcon-Shop" title="Shop" role="button">
+                        <i class="icon icon--shop"></i>
+                    </a>
+                </li>
+                
+                
+                    
+                    <li class="list__item list__item--icon list__item--icon-large">
+                        <a href="#0" class="btn--type__inverse lightbox-open" data-gtm-name="AAIcon-Enlarge" title="Full screen" role="button">
+                            <i class="icon icon--enlarge"></i>
+                        </a>
+                    </li>
+                    
+                
+            </ul>
+
+            
+<figcaption class="artwork-meta__credit image-strip__caption grid-col--60 image-caption--no-hover">
+    
+        
+        <p><a id="master-image-copyright" href="/about-us/policies-and-procedures/website-terms-use">© Cy Twombly Foundation</a></p>
+        
+        
+        
+        <p><a id="master-image-licence" href="https://www.tate-images.com/results.asp?image=P77550" class="image-licence">License this image</a></p>
+        
+    
+</figcaption>
+
+
+
+        </div>
+    </div>
+</div>
+
+            </figure>
+        </div>
+    </section>
+
+    <!-- BANNER END HERE -->
+
+    <section class="container">
+        <div class="container__inner">
+            <div class="artwork__info content-truncate-container  artwork__info--on-display">
+
+                    <div class="content-block--details content-block__right">
+                        
+                            <div class="card-list card-list--1col">
+                            
+                                <div class="card">
+                                
+                                
+
+
+
+
+<div class="card__inner">
+  
+  
+  
+    <div class="card-header">
+      
+      <h3 class="card__label card__label--type">In Tate Britain</h3>
+      
+    </div>
+  
+  
+    <div class="card-content ">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+                
+                  <a href="/visit/tate-britain/prints-and-drawings-room" aria-label="Prints and Drawings Room" data-gtm-name="card_link_title" data-gtm-destination="page--venue">
+                      <span class="card__title--maintitle card__title--venue">Prints and Drawings Room</span>
+                  </a>
+                
+            </h2>
+
+            
+
+            
+
+            
+                
+                
+                <span class="card__label card__label--status">View by appointment</span>
+                
+                
+                
+                
+                
+                
+                
+            
+        </div>
+    </div>
+  
+  
+  
+</div>
+
+                                
+                                </div>
+
+
+                            
+                            </div>
+                        
+
+                        <div class="tombstone__outer">
+                            <dl class="tombstone">
+                                
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Artist</dt><dd class="tombstone__content">
+                                    
+                                    <a href="/art/artists/cy-twombly-2079" data-gtm-name="tombstone_link_artist" data-gtm-destination="page--artist">Cy Twombly</a> 1928–2011
+                                    </dd>
+                                </div>
+                                
+                                
+                                
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Medium</dt><dd class="tombstone__content">Woodcut on paper</dd>
+                                </div>
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Dimensions</dt><dd class="tombstone__content">Image: 332 × 508 mm</dd>
+                                </div>
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Collection</dt><dd class="tombstone__content">Tate</dd>
+                                </div>
+                                
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Acquisition</dt><dd class="tombstone__content">Purchased 1992</dd>
+                                </div>
+                                
+                                <div class="tombstone__row">
+                                    <dt class="tombstone__title">Reference</dt><dd class="tombstone__content">P77550
+                                    
+                                    
+                                  
+                                    </dd>
+                                </div>
+                            </dl>
+                        </div>
+                    </div>
+
+                
+                
+                <div class="artwork__text">
+                    <h3 class="inc__text-uppercase">Display caption</h3>
+                    
+                    <p>Since 1977, Twombly has made several chariot-like <a class="glossarylinktopopup" data-gtm-destination="article-page" data-gtm-name="body_text_link" href="http://www.tate.org.uk/learn/online-resources/glossary/s/sculpture" title="Glossary definition for 'Sculpture'"><span>sculptures</span></a>. The theme reflects his fascination with the ancient world, particularly Homer's account of the Trojan War in The Iliad. This work is especially <a class="glossarylinktopopup" data-gtm-destination="article-page" data-gtm-name="body_text_link" href="http://www.tate.org.uk/learn/online-resources/glossary/m/minimalism" title="Glossary definition for 'Minimalism'"><span>minimal</span></a>, combining a simple disc and triangle to suggest the wheel and body of the chariot. </p>
+                    
+                    <p><em>Gallery label, August 2004</em></p>
+                    
+                    
+                    <p><small>Does this text contain inaccurate information or language that you feel we should improve or change? <a href="https://www.tate.org.uk/art/talking-about-our-collection">We would like to hear from you</a>.</small></p>
+                    
+                    
+                    <p class="text__read-more" style="display: none;">
+                    <a class="btn btn--type__outline" href="#" data-gtm-name="body_link_read-more">
+                        <span class="btn__text">Read more</span>
+                    </a>
+                    </p>
+                    
+                    
+                </div>
+                
+                
+            </div>
+            
+        </div>
+    </section>
+
+    
+        
+    <div class="container">
+        <div class="container__inner">
+        
+            
+            
+
+<h2 class="section__title">Explore</h2>
+<div class="list-wrapper content-block--columns">
+    <ul class="list">
+        
+        <li class="list__item"><a href="/search?st=184" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results"><strong>abstraction</strong></a><span class="count">(9,884)</span>
+            <li class="list__item">
+                <ul class="list__level-2">
+                
+                    <li class="list__item"><a href="/search?st=185" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results">non-representational</a><span class="count">(6,713)</span>
+                        <li class="list__item">
+                            <ul class="list__level-3">
+                            
+                                <li class="list__item"><a href="/search?st=227" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results">gestural</a><span class="count">(906)</span></li>
+                            
+                                <li class="list__item"><a href="/search?st=445" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results">text</a><span class="count">(1,047)</span></li>
+                            
+                            </ul>
+                        </li>
+                    </li>
+                
+                </ul>
+            </li>
+        </li>
+        
+        <li class="list__item"><a href="/search?st=55" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results"><strong>literature and fiction</strong></a><span class="count">(3,165)</span>
+            <li class="list__item">
+                <ul class="list__level-2">
+                
+                    <li class="list__item"><a href="/search?st=58" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results">literature (not Shakespeare)</a><span class="count">(2,296)</span>
+                        <li class="list__item">
+                            <ul class="list__level-3">
+                            
+                                <li class="list__item"><a href="/search?st=16377" data-gtm-name="body_tag_subject" data-gtm-destination="list-page--search-results">Duncan, Robert, ‘The Song of the Borderguard’</a><span class="count">(1)</span></li>
+                            
+                            </ul>
+                        </li>
+                    </li>
+                
+                </ul>
+            </li>
+        </li>
+        
+    </ul>
+</div>
+
+            
+        
+        </div>
+    </div>
+    
+    <div class="article-strip container" id="you-might-like">
+        <div class="article-strip__content container__inner">
+        
+            
+            
+
+    <h2 class="section__title">You might like</h2>
+    <div class="card-group card--carousel" data-strip-label="you-might-like" >
+        
+            <div class="carousel__button-group">
+                <a href="#" class="carousel--left btn btn--style__icon" data-gtm-name="Carousel-left">
+                    <i class="btn__icon icon--arrow-left"></i>
+                    <span class="btn__text">Left</span>
+                </a>
+                <a href="#" class="carousel--right btn btn--style__icon" data-gtm-name="Carousel-right">
+                    <i class="btn__icon icon--arrow-right"></i>
+                    <span class="btn__text">Right</span>
+                </a>
+            </div>
+        
+        <ul class="card-list card-list--type__portrait card-list--4col card-list--100">
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-untitled-ii-p07406" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1536px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/68.3594; --aspect-ratio-percentage: 68.3594%; ">
+
+<img alt="Cy Twombly, ‘Untitled II’ 1967"  data-src-128-87="https://www.tate.org.uk/art/images/work/P/P07/P07406_7.jpg" data-src-256-175="https://www.tate.org.uk/art/images/work/P/P07/P07406_8.jpg" data-src-730-499="https://www.tate.org.uk/art/images/work/P/P07/P07406_9.jpg" data-src-1536-1050="https://www.tate.org.uk/art/images/work/P/P07/P07406_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07406_7.jpg" data-current-size="128-87"
+ data-visible="" data-caption="Cy Twombly, ‘Untitled II’ 1967" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07406_7.jpg" alt="Cy Twombly, ‘Untitled II’ 1967" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-untitled-ii-p07406" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Untitled II</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1967</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-untitled-i-p77733" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1536px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/83.724; --aspect-ratio-percentage: 83.724%; ">
+
+<img alt="Cy Twombly, ‘Untitled I’ 1967"  data-src-128-107="https://www.tate.org.uk/art/images/work/P/P77/P77733_7.jpg" data-src-256-214="https://www.tate.org.uk/art/images/work/P/P77/P77733_8.jpg" data-src-730-611="https://www.tate.org.uk/art/images/work/P/P77/P77733_9.jpg" data-src-1536-1286="https://www.tate.org.uk/art/images/work/P/P77/P77733_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P77/P77733_7.jpg" data-current-size="128-107"
+ data-visible="" data-caption="Cy Twombly, ‘Untitled I’ 1967" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P77/P77733_7.jpg" alt="Cy Twombly, ‘Untitled I’ 1967" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-untitled-i-p77733" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Untitled I</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1967</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-i-p07573" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. I’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07573_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07573_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07573_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07573_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07573_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. I’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07573_7.jpg" alt="Cy Twombly, ‘No. I’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-i-p07573" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. I</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-viii-p07580" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. VIII’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07580_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07580_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07580_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07580_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07580_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. VIII’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07580_7.jpg" alt="Cy Twombly, ‘No. VIII’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-viii-p07580" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. VIII</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-vi-p07578" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. VI’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07578_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07578_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07578_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07578_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07578_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. VI’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07578_7.jpg" alt="Cy Twombly, ‘No. VI’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-vi-p07578" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. VI</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-ii-p07574" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. II’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07574_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07574_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07574_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07574_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07574_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. II’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07574_7.jpg" alt="Cy Twombly, ‘No. II’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-ii-p07574" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. II</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-ix-p07581" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. IX’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07581_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07581_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07581_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07581_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07581_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. IX’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07581_7.jpg" alt="Cy Twombly, ‘No. IX’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-ix-p07581" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. IX</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-vii-p07579" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. VII’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07579_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07579_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07579_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07579_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07579_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. VII’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07579_7.jpg" alt="Cy Twombly, ‘No. VII’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-vii-p07579" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. VII</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-iv-p07576" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. IV’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07576_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07576_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07576_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07576_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07576_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. IV’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07576_7.jpg" alt="Cy Twombly, ‘No. IV’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-iv-p07576" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. IV</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-x-p07582" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. X’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07582_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07582_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07582_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07582_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07582_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. X’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07582_7.jpg" alt="Cy Twombly, ‘No. X’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-x-p07582" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. X</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-no-iii-p07575" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1135px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/135.3304; --aspect-ratio-percentage: 135.3304%; ">
+
+<img alt="Cy Twombly, ‘No. III’ 1974"  data-src-94-128="https://www.tate.org.uk/art/images/work/P/P07/P07575_7.jpg" data-src-189-256="https://www.tate.org.uk/art/images/work/P/P07/P07575_8.jpg" data-src-539-730="https://www.tate.org.uk/art/images/work/P/P07/P07575_9.jpg" data-src-1135-1536="https://www.tate.org.uk/art/images/work/P/P07/P07575_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P07/P07575_7.jpg" data-current-size="94-128"
+ data-visible="" data-caption="Cy Twombly, ‘No. III’ 1974" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P07/P07575_7.jpg" alt="Cy Twombly, ‘No. III’ 1974" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-no-iii-p07575" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">No. III</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1974</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/colla-screenprint-p01017" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1536px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/66.5365; --aspect-ratio-percentage: 66.5365%; ">
+
+<img alt="Ettore Colla, ‘Screenprint’ c.1953"  data-src-128-85="https://www.tate.org.uk/art/images/work/P/P01/P01017_7.jpg" data-src-256-170="https://www.tate.org.uk/art/images/work/P/P01/P01017_8.jpg" data-src-512-340="https://www.tate.org.uk/art/images/work/P/P01/P01017_9.jpg" data-src-1536-1022="https://www.tate.org.uk/art/images/work/P/P01/P01017_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/P/P01/P01017_7.jpg" data-current-size="128-85"
+ data-visible="" data-caption="Ettore Colla, ‘Screenprint’ c.1953" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/P/P01/P01017_7.jpg" alt="Ettore Colla, ‘Screenprint’ c.1953" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Ettore Colla</span>
+                <a href="/art/artworks/colla-screenprint-p01017" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Screenprint</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">c.1953</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+        <span class="card__display">
+            <span class="card__display--where"><a href="/visit/tate-britain/prints-and-drawings-room" data-gtm-name="card_link_appointment" data-gtm-destination="page--venue">View by appointment</a></span>
+        </span>
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-souvenir-de-lile-des-saintes-ar00181" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1536px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/47.0052; --aspect-ratio-percentage: 47.0052%; ">
+
+<img alt="Cy Twombly, ‘Souvenir de L’Ile des Saintes’ 1979"  data-src-128-60="https://www.tate.org.uk/art/images/work/AR/AR00181_7.jpg" data-src-256-120="https://www.tate.org.uk/art/images/work/AR/AR00181_8.jpg" data-src-730-343="https://www.tate.org.uk/art/images/work/AR/AR00181_9.jpg" data-src-1536-722="https://www.tate.org.uk/art/images/work/AR/AR00181_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/AR/AR00181_7.jpg" data-current-size="128-60"
+ data-visible="" data-caption="Cy Twombly, ‘Souvenir de L’Ile des Saintes’ 1979" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/AR/AR00181_7.jpg" alt="Cy Twombly, ‘Souvenir de L’Ile des Saintes’ 1979" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-souvenir-de-lile-des-saintes-ar00181" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Souvenir de L’Ile des Saintes</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1979</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-quattro-stagioni-primavera-t07887" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 941px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/163.2306; --aspect-ratio-percentage: 163.2306%; ">
+
+<img alt="Cy Twombly, ‘Quattro Stagioni: Primavera’ 1993–5"  data-src-78-128="https://www.tate.org.uk/art/images/work/T/T07/T07887_7.jpg" data-src-156-256="https://www.tate.org.uk/art/images/work/T/T07/T07887_8.jpg" data-src-447-730="https://www.tate.org.uk/art/images/work/T/T07/T07887_9.jpg" data-src-941-1536="https://www.tate.org.uk/art/images/work/T/T07/T07887_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/T/T07/T07887_7.jpg" data-current-size="78-128"
+ data-visible="" data-caption="Cy Twombly, ‘Quattro Stagioni: Primavera’ 1993–5" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/T/T07/T07887_7.jpg" alt="Cy Twombly, ‘Quattro Stagioni: Primavera’ 1993–5" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-quattro-stagioni-primavera-t07887" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Quattro Stagioni: Primavera</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1993–5</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+            
+            
+            
+            <li class="card card--artwork" >
+            
+
+
+<div class="card__inner">
+    <div class="card-media card-media--image">
+        <div class="card-media__inner responsive-container">
+            <a href="/art/artworks/twombly-quattro-stagioni-estate-t07888" data-gtm-name="card_link_image" data-gtm-destination="page--artwork">
+                
+                
+
+<div class="responsive-container__outer-sizer" style=" max-width: 1060px; margin: 0 auto;">
+  <div class="responsive-container__sizer" 
+	style="--aspect-ratio: 100/144.9057; --aspect-ratio-percentage: 144.9057%; ">
+
+<img alt="Cy Twombly, ‘Quattro Stagioni: Estate’ 1993–5"  data-src-88-128="https://www.tate.org.uk/art/images/work/T/T07/T07888_7.jpg" data-src-176-256="https://www.tate.org.uk/art/images/work/T/T07/T07888_8.jpg" data-src-503-730="https://www.tate.org.uk/art/images/work/T/T07/T07888_9.jpg" data-src-1060-1536="https://www.tate.org.uk/art/images/work/T/T07/T07888_10.jpg"
+ src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/images/placeholder/placeholder-4x3.gif"
+ data-original="https://www.tate.org.uk/art/images/work/T/T07/T07888_7.jpg" data-current-size="88-128"
+ data-visible="" data-caption="Cy Twombly, ‘Quattro Stagioni: Estate’ 1993–5" />
+<noscript><img src="https://www.tate.org.uk/art/images/work/T/T07/T07888_7.jpg" alt="Cy Twombly, ‘Quattro Stagioni: Estate’ 1993–5" /></noscript>
+</div></div>
+
+
+                
+            </a>
+        </div>
+    </div>
+
+    
+    <div class="card-content">
+        <div class="card-content__inner">
+            <h2 class="card__title">
+            <!-- artwork or archive title starts here -->
+            
+                <span class="card__title--artwork-artist">Cy Twombly</span>
+                <a href="/art/artworks/twombly-quattro-stagioni-estate-t07888" data-gtm-name="card_link_title" data-gtm-destination="page--artwork">
+                    <span class=" card__title--artwork">Quattro Stagioni: Estate</span>
+                </a>
+            <!-- artist title starts here -->
+            
+            </h2>
+            
+            <div class="card__when">
+                <span class="card__when--artwork-date">1993–5</span>
+            </div>
+            
+            
+        </div>
+    </div>
+
+    
+    <div class="card-footer">
+        
+    </div>
+    
+</div>
+
+            </li>
+            
+            
+            
+        
+        </ul>
+        
+    </div>
+
+
+            
+        
+        </div>
+    </div>
+    
+
+    
+
+    
+    <script type="text/javascript">
+        var Slideshow = {"type": "artwork", "slides": [{"pos": 0, "images": {"128-83": "https://www.tate.org.uk/art/images/work/P/P77/P77550_7.jpg", "256-167": "https://www.tate.org.uk/art/images/work/P/P77/P77550_8.jpg", "730-478": "https://www.tate.org.uk/art/images/work/P/P77/P77550_9.jpg", "1536-1007": "https://www.tate.org.uk/art/images/work/P/P77/P77550_10.jpg"}, "thumbnail": "https://www.tate.org.uk/art/images/work/P/P77/P77550_8.jpg", "copyright": "\u00a9 Cy Twombly Foundation", "allArtists": "Cy Twombly", "dateText": "1952", "title": "The Song of the Border-Guard"}, {"pos": 1, "allArtists": "Cy Twombly", "dateText": "1952", "title": "The Song of the Border-Guard"}], "total": 2, "pagesize": 2, "page": 1, "current": 0};
+    </script>
+    
+</article>
+
+    </main>
+
+    <footer id="footer" itemscope="" itemtype="https://schema.org/WPFooter">
+        
+        
+        <div class="container inc__bt--solid footer__primary">
+            <div class="container__inner">
+                <div class="grid-outer">
+                    <div class="grid-col--50 footer__follow-us">
+                        <div class="footer__social-links"><div class="list-wrapper"><h2 class="list__title block__title">Join in</h2><ul class="list list--inline list--social list--social--blue"><li class="list__item list__item--social list__item--twitter list__item--first"><a href="https://twitter.com/tate" title="Twitter" data-gtm-name="Social-footer">Twitter</a></li><li class="list__item list__item--social list__item--facebook"><a href="https://www.facebook.com/tategallery" title="Facebook" data-gtm-name="Social-footer">Facebook</a></li><li class="list__item list__item--social list__item--youtube"><a href="https://www.youtube.com/user/tate" title="Youtube" data-gtm-name="Social-footer">YouTube</a></li><li class="list__item list__item--social list__item--instagram"><a href="https://www.instagram.com/tate" title="Instagram" data-gtm-name="Social-footer">Instagram</a></li><li class="list__item list__item--social list__item--pinterest list__item--last"><a href="https://pinterest.com/tategallery/" title="Pinterest" data-gtm-name="Social-footer">Pinterest</a></li></ul></div></div>
+                        <div class="footer__newsletter">
+                            <form class="form__newsletter-signup" action="/subscribe/preferences" method="post">
+                                <div class="form-section form-section--multicolumn">
+                                    <div class="form-section__inner">
+                                        <div class="form-section__content">
+                                            <fieldset class="fieldset--button-inline fieldset--label-hidden">
+                                                <legend class="h-e">Sign up to emails</legend>
+                                                <h2 class="fieldset-title">Sign up to emails</h2>
+                                                <div class="form-footer">
+                                                    <div class="form-item form-item--text">
+                                                        <label id="newsletter-label" for="email">Email address</label>
+                                                        <input type="email" id="email" class="form-item__input form-item__input--text" name="email" placeholder="Email address" aria-label="Subscribe to email newsletter" autocomplete="email"/>
+                                                        <p><small>Tate’s <a href="/about-us/policies-and-procedures/tate-privacy-policy">privacy policy</a></small></p>
+                                                    </div>
+                                                    <div class="form-item form-item--button">
+                                                        <button type="submit" class="btn btn--submit">
+                                                            <span class="btn__text">Submit</span>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                            </fieldset>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="grid-col--25 footer__quick-links footer__quick-links--about">
+                        <div class="list-wrapper">
+                            <h2 class="list__title block__title">About</h2>
+                            <ul class="list list--links">
+                                <li class="list__item"><a href="/about-us" data-gtm-name="Navigation-footer">About us</a></li>
+                                <li class="list__item"><a href="/about-us/collection" data-gtm-name="Navigation-footer">Our collection</a></li>
+                                <li class="list__item"><a href="/about-us/policies-and-procedures/website-terms-use" data-gtm-name="Navigation-footer">Terms and copyright</a></li>
+                                <li class="list__item"><a href="/about-us/governance" data-gtm-name="Navigation-footer">Governance</a></li>
+                                <li class="list__item"><a href="https://www.tate-images.com" data-gtm-name="Navigation-footer">Picture library</a></li>
+                                <li class="list__item"><a href="/artist-rooms" data-gtm-name="Navigation-footer">ARTIST ROOMS</a></li>
+                                <li class="list__item"><a href="/kids" data-gtm-name="Navigation-footer">Tate Kids</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="grid-col--25 footer__quick-links footer__quick-links--support">
+                        <div class="list-wrapper">
+                            <h2 class="list__title block__title">Support</h2>
+                            <ul class="list list--links">
+                                <li class="list__item"><a href="/tate-collective" data-gtm-name="Navigation-footer">Tate Collective</a></li>
+                                <li class="list__item"><a href="/join-support/tate-members" data-gtm-name="Navigation-footer">Members</a></li>
+                                <li class="list__item"><a href="/join-support/tate-patrons" data-gtm-name="Navigation-footer">Patrons</a></li>
+                                <li class="list__item"><a href="/join-support/donate" data-gtm-name="Navigation-footer">Donate</a></li>
+                                <li class="list__item"><a href="/about-us/corporate-support" data-gtm-name="Navigation-footer">Corporate</a></li>
+                                <li class="list__item"><a href="https://shop.tate.org.uk/account" data-gtm-name="Navigation-footer">My account</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container inc__bt--solid footer__secondary">
+            <div class="container__inner">
+                <div class="grid-outer grid-outer--trigger-tablet">
+                    <div class="grid-col--100">
+                        <div class="footer__logo">
+                            <span class="icon icon--logo footer-logo" aria-label="Tate logo"></span>
+                        </div>
+                        <div class="footer__site-links">
+                            <div class="list-wrapper">
+                                <ul class="list list--links list--inline">
+                                    <li class="list__item"><a href="/press" data-gtm-name="Navigation-footer">Press</a></li>
+                                    <li class="list__item"><a href="/about-us/working-at-tate" data-gtm-name="Navigation-footer">Jobs</a></li>
+                                    <li class="list__item"><a href="/about-us/policies-and-procedures" data-gtm-name="Navigation-footer">Privacy and cookies</a></li>
+                                    <li class="list__item"><a href="/about-us/contact-us" data-gtm-name="Navigation-footer">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </footer>
+</div> <!-- end div.container -->
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+<script>
+
+var s=document.createElement("script"),b="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/js/",E="TateUI.min.js",e="TateUI-ES5.min.js";function S(){"use strict";try{eval("var A=(x)=>x");}catch(e){return false;}return true;}if(S()){s.src=b+E;}else{s.src=b+e;}document.body.appendChild(s);
+</script>
+
+
+
+
+
+
+        <script src="https://storage.googleapis.com/tate-digital/ui/vendor/jquery.colorbox.js"></script>
+        <script src="https://storage.googleapis.com/tate-digital/ui/3.26.2-compressed/static/js/vendor/tate-modals.js"></script>
+        
+
+
+
+    <div class="notification-container" id="notifications-footer"></div>
+
+</body>
+</html>
+
