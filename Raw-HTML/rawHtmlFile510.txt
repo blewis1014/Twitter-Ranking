@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="shortlink" href="https://www.zerohedge.com/" />
+<link rel="canonical" href="https://www.zerohedge.com/" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/favicon_0.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page not found | Zero Hedge</title>
+    <link rel="stylesheet" href="/s3fs-css/css/css_9VoughnGpB8YZrJ4FpE8Q8EaZFaoPbSFQT5hL1apKsQ.css?qi9a4b" media="all" />
+<link rel="stylesheet" href="/s3fs-css/css/css_eYlM5p2RTyN9eLHdExeGXcLRJ4PX0SJlObnOM-NinrY.css?qi9a4b" media="all" />
+<link rel="stylesheet" href="/s3fs-css/css/css_YbodjAfoBxlOxKwiU0xiryJCoqjDkwfVnKWOb4rEuF0.css?qi9a4b" media="print" />
+<link rel="stylesheet" href="/s3fs-css/css/css_RKpMEn7Qg3tIIRBbhEYf4db8Xo3jKNJQUotjuMA0JZM.css?qi9a4b" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/s3fs-js/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.4/lodash.min.js"></script>
+    <link href="/themes/zerohedge/fonts/font_awesome/css/all.css" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="76x76" href="/themes/zerohedge/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/zerohedge/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/zerohedge/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/themes/zerohedge/favicons/manifest.json">
+    <link rel="mask-icon" href="/themes/zerohedge/favicons/safari-pinned-tab.svg" color="#5bbad5">
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T6SHNP');</script>
+      <!-- End Google Tag Manager -->
+    <meta name="theme-color" content="#ffffff">
+    <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+  (function() {
+    var host = window.location.hostname;
+    var element = document.createElement('script');
+    var firstScript = document.getElementsByTagName('script')[0];
+    var url = 'https://quantcast.mgr.consensu.org'
+      .concat('/choice/', '1yk5_U8fZJWsq', '/', host, '/choice.js')
+    var uspTries = 0;
+    var uspTriesLimit = 3;
+    element.async = true;
+    element.type = 'text/javascript';
+    element.src = url;
+
+    firstScript.parentNode.insertBefore(element, firstScript);
+
+    function makeStub() {
+      var TCF_LOCATOR_NAME = '__tcfapiLocator';
+      var queue = [];
+      var win = window;
+      var cmpFrame;
+
+      function addFrame() {
+        var doc = win.document;
+        var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+        if (!otherCMP) {
+          if (doc.body) {
+            var iframe = doc.createElement('iframe');
+
+            iframe.style.cssText = 'display:none';
+            iframe.name = TCF_LOCATOR_NAME;
+            doc.body.appendChild(iframe);
+          } else {
+            setTimeout(addFrame, 5);
+          }
+        }
+        return !otherCMP;
+      }
+
+      function tcfAPIHandler() {
+        var gdprApplies;
+        var args = arguments;
+
+        if (!args.length) {
+          return queue;
+        } else if (args[0] === 'setGdprApplies') {
+          if (
+            args.length > 3 &&
+            args[2] === 2 &&
+            typeof args[3] === 'boolean'
+          ) {
+            gdprApplies = args[3];
+            if (typeof args[2] === 'function') {
+              args[2]('set', true);
+            }
+          }
+        } else if (args[0] === 'ping') {
+          var retr = {
+            gdprApplies: gdprApplies,
+            cmpLoaded: false,
+            cmpStatus: 'stub'
+          };
+
+          if (typeof args[2] === 'function') {
+            args[2](retr);
+          }
+        } else {
+          queue.push(args);
+        }
+      }
+
+      function postMessageEventHandler(event) {
+        var msgIsString = typeof event.data === 'string';
+        var json = {};
+
+        try {
+          if (msgIsString) {
+            json = JSON.parse(event.data);
+          } else {
+            json = event.data;
+          }
+        } catch (ignore) {}
+
+        var payload = json.__tcfapiCall;
+
+        if (payload) {
+          window.__tcfapi(
+            payload.command,
+            payload.version,
+            function(retValue, success) {
+              var returnMsg = {
+                __tcfapiReturn: {
+                  returnValue: retValue,
+                  success: success,
+                  callId: payload.callId
+                }
+              };
+              if (msgIsString) {
+                returnMsg = JSON.stringify(returnMsg);
+              }
+              event.source.postMessage(returnMsg, '*');
+            },
+            payload.parameter
+          );
+        }
+      }
+
+      while (win) {
+        try {
+          if (win.frames[TCF_LOCATOR_NAME]) {
+            cmpFrame = win;
+            break;
+          }
+        } catch (ignore) {}
+
+        if (win === window.top) {
+          break;
+        }
+        win = win.parent;
+      }
+      if (!cmpFrame) {
+        addFrame();
+        win.__tcfapi = tcfAPIHandler;
+        win.addEventListener('message', postMessageEventHandler, false);
+      }
+    };
+
+    makeStub();
+
+    var uspStubFunction = function() {
+      var arg = arguments;
+      if (typeof window.__uspapi !== uspStubFunction) {
+        setTimeout(function() {
+          if (typeof window.__uspapi !== 'undefined') {
+            window.__uspapi.apply(window.__uspapi, arg);
+          }
+        }, 500);
+      }
+    };
+
+    var checkIfUspIsReady = function() {
+      uspTries++;
+      if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+        console.warn('USP is not accessible');
+      } else {
+        clearInterval(uspInterval);
+      }
+    };
+
+    if (typeof window.__uspapi === 'undefined') {
+      window.__uspapi = uspStubFunction;
+      var uspInterval = setInterval(checkIfUspIsReady, 6000);
+    }
+  })();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->  </head>
+  <body class="path-political">
+      <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <div id="page-wrapper">
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  
+<div id="mobile-menu">
+  <section id="mobile-search-container">
+    <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-content-page-1" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-search-content-page-1pbjarpzs" id="block-search-block">
+  
+    
+      <form action="/search-content" method="get" id="views-exposed-form-search-content-page-1pBjARpZS" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-search-api-fulltext form-item-search-api-fulltext form-no-label">
+        <input placeholder="Search Zerohedge" data-drupal-selector="edit-search-api-fulltext" type="search" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-search" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-sort-by form-item-sort-by">
+      <label for="edit-sort-by">Sort by</label>
+        <select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="search_api_relevance" selected="selected">Relevance</option><option value="created">Newest</option><option value="created_1">Oldest</option></select>
+        </div>
+<h1 class="search-form-header" data-drupal-selector="edit-title">ZeroHedge Search</h1>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+  </section>
+  <nav id="mobile-menu">
+    <nav role="navigation" aria-labelledby="block-zerohedge-main-menu-menu" id="block-zerohedge-main-menu" class="block block-menu navigation menu--main">
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/user/login" data-drupal-link-system-path="user/login">Login</a>
+              </li>
+                <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contributing-editors" data-drupal-link-system-path="contributing-editors">Contributors</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.newsletter.zerohedge.com/landing/zerohedge-newsletter">Newsletter</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.cafepress.com/zerohedge">Store</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about" data-drupal-link-system-path="node/1">Manifesto</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://feeds.feedburner.com/zerohedge/feed">RSS</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.payolee.com/checkout/5ed7f0febebae">Donate</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="" data-drupal-link-system-path="&lt;front&gt;">Channels - New!</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/video" data-drupal-link-system-path="taxonomy/term/608">Video</a>
+              </li>
+                <li class="menu-item">
+        <a href="/commodities" data-drupal-link-system-path="taxonomy/term/599">Commodities</a>
+              </li>
+                <li class="menu-item">
+        <a href="/crypto" data-drupal-link-system-path="taxonomy/term/598">Crypto</a>
+              </li>
+                <li class="menu-item">
+        <a href="/economics" data-drupal-link-system-path="taxonomy/term/600">Economics</a>
+              </li>
+                <li class="menu-item">
+        <a href="/energy" data-drupal-link-system-path="taxonomy/term/601">Energy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/geopolitical" data-drupal-link-system-path="taxonomy/term/602">Geopolitical</a>
+              </li>
+                <li class="menu-item">
+        <a href="/health" data-drupal-link-system-path="health">Health</a>
+              </li>
+                <li class="menu-item">
+        <a href="/markets" data-drupal-link-system-path="taxonomy/term/604">Markets</a>
+              </li>
+                <li class="menu-item">
+        <a href="/personal-finance" data-drupal-link-system-path="taxonomy/term/605">Personal Finance</a>
+              </li>
+                <li class="menu-item">
+        <a href="/political" data-drupal-link-system-path="taxonomy/term/606">Political</a>
+              </li>
+                <li class="menu-item">
+        <a href="/technology" data-drupal-link-system-path="taxonomy/term/607">Technology</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </nav>
+</div>
+
+<section class="header-container">
+  <header id="header" class="Fixed" role="banner">
+    <div class="header-left">
+      <a id="mobile-menu-button"><span></span></a>
+      <nav role="navigation" aria-labelledby="block-header-menu-menu" id="block-header-menu" class="block block-menu navigation menu--header-menu">
+            
+  <h2 class="visually-hidden" id="block-header-menu-menu">Header Menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contributing-editors" data-drupal-link-system-path="contributing-editors">Contributors</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.newsletter.zerohedge.com/landing/zerohedge-newsletter">Newsletter</a>
+              </li>
+                <li class="menu-item">
+        <a href="/video" data-drupal-link-system-path="taxonomy/term/608">Video</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.payolee.com/checkout/5ed7f0febebae">Donate</a>
+              </li>
+                <li class="menu-item">
+        <a href="mailto:ads@zerohedge.com">Advertise</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about" data-drupal-link-system-path="node/1">Manifesto</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://feeds.feedburner.com/zerohedge/feed">RSS</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+    </div>
+    <a class="header-logo" href="/">
+      <img class="logo-mobile" alt="ZeroHedge" src="/themes/zerohedge/images/logo_mobile.svg">
+      <img class="logo-full" alt="ZeroHedge" src="/themes/zerohedge/images/logo_full.svg">
+    </a>
+  </header>
+</section>
+
+
+  
+  
+
+  <div id="panel">
+    <div class="max-width-container page-inner">
+        <aside class="layout-featured" role="complementary">
+                        <div class="region region-header">
+    <div id="block-contributorblock" class="block block-custom-blocks block-contributor-block">
+  
+    
+      
+      <div class="contributor-teasers">
+        <div class="view-content">
+          <aside class="carousel-placement">
+          </aside>
+        </div>
+      </div>
+  </div>
+
+  </div>
+
+                  </aside>
+      <main role="main">
+        <a id="main-content" tabindex="-1"></a>
+
+        <div class="layout-content">
+            <div class="region region-header">
+    <div id="block-zerohedge-content" class="block block-system block-system-main-block">
+  
+    
+      The requested page could not be found.
+  </div>
+
+  </div>
+
+        </div>
+
+        <section class="sidebar-left-wrapper">
+          <aside class="layout-sidebar-left" role="complementary">
+              <div class="region region-header">
+    <div class="hidden block-user-login block block-custom-blocks block-user-login-cacheable" id="block-userlogincacheable">
+  
+      <h2>Login</h2>
+    
+      <div><form class="user-login-form" data-drupal-selector="user-login-form" action="/system/404?destination=/" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Username</label>
+        <input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-pass form-item-pass">
+      <label for="edit-pass" class="js-form-required form-required">Password</label>
+        <input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-f-vfwyznqsnefst6wr-pl4ycdhtivn-tqtsjycuizta" type="hidden" name="form_build_id" value="form-f-vfwYznqsNEFST6WR-PL4YcdhTiVN-TqtSjYcUiZtA" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log in" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/user/register" title="Create a new user account." class="create-account-link">Create new account</a></li><li><a href="/user/password" title="Send password reset instructions via email." class="request-password-link">Reset your password</a></li></ul></div></div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockchannel-menu-block-1" id="block-views-block-channel-menu-block-1">
+  
+      <h2>Channels</h2>
+    
+      <div><div class="view view-channel-menu view-id-channel_menu view-display-id-block_1 js-view-dom-id-8432c7720bc5dd570437c5b2d3a64922b33563f4957681f4866051de65a741f3">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/608%20"><a href="/video" hreflang="en">Video</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/599%20"><a href="/commodities" hreflang="en">Commodities</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/598%20"><a href="/crypto" hreflang="en">Crypto</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/600%20"><a href="/economics" hreflang="en">Economics</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/609%20"><a href="/bailout" hreflang="en">Bailout</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/601%20"><a href="/energy" hreflang="en">Energy</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/602%20"><a href="/geopolitical" hreflang="en">Geopolitical</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/603%20"><a href="/health-0" hreflang="en">Medical</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/604%20"><a href="/markets" hreflang="en">Markets</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/605%20"><a href="/personal-finance" hreflang="en">Personal Finance</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/606%20"><a href="/political" hreflang="en">Political</a></a></span></div></li>
+          <li><div class="views-field views-field-name"><span class="field-content"><a href="/607%20"><a href="/technology" hreflang="en">Technology</a></a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-zerohedgereads-menu" id="block-zerohedgereads" class="block block-menu navigation menu--zero-hedge-reads">
+      
+  <h2 id="block-zerohedgereads-menu">Zero Hedge Reads</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="http://www.acting-man.com">Acting Man</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.alt-market.com">Alt-Market</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://askbrokers.com/">Ask Brokers</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://boombustblog.com">Boom Bust Blog</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.capitalistexploits.at/">Capitalist Exploits</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://mpettis.com/">China Financial Markets</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.peakprosperity.com/">Chris Martenson&#039;s Blog</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.christophe-barraud.com/en/blog" title="Christophe Barraud&#039;s blog">Christophe Barraud</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.contraryinvestor.com/">Contrary Investor</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://danericselliottwaves.blogspot.com/">Daneric&#039;s Elliott Waves</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.doctorhousingbubble.com/">Dr. Housing Bubble</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.financialjuice.com/zerohedge" title="Financial Juice">Financial Juice</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.thefinancialrevolutionist.com/?utm_source=zh">Financial Revolutionist</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://forexlive.com/">ForexLive</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.fundist.com/">Fundist</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://gainspainscapital.com/">Gains Pains &amp; Capital</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://gefira.org/">Gefira</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.goldcore.com/ie/">Gold Core</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://guerrilla-capitalism.com" title="Guerrilla Capitalism">Guerrilla Capitalism</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://hedgeaccordingly.com/">Hedge Accordingly</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://implode-explode.com/">Implode-Explode</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.insiderpaper.com">Insider Paper</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.investingcontrarian.com/">Investing Contrarian</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://jessescrossroadscafe.blogspot.com/">Jesse&#039;s Cafe Americain</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://libertyblitzkrieg.com/">Liberty Blitzkrieg</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://marketmontage.com/">Market Montage</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://maxkeiser.com/">Max Keiser</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://mises.org/">Mises Institute</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://mishtalk.com/">Mish Talk</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://newsbud.com">Newsbud</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.oftwominds.com/blog.html">Of Two Minds</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://oilprice.com/">Oil Price</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.openthebooks.com/">Open The Books</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://pandemic.warroom.org/">Pandemic: War Room</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://schiffgold.com/news/">Peter Schiff</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://quoththeravenresearch.com">Quoth The Raven Rsrch</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://rebootingcapitalism.com/">Rebooting Capitalism</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://safehaven.com">Safehaven</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://shankystechblog.blogspot.com/">Shanky&#039;s Tech Blog</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://slopeofhope.com/">Slope of Hope</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.tfmetalsreport.com/">TF Metals Report</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.theautomaticearth.com/">The Automatic Earth</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.theburningplatform.com/">The Burning Platform</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.economicpopulist.org/">The Economic Populist</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://thesaker.is/">The Saker</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.themistrading.com/">Themis Trading</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://truesinews.com/">True Sinews</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.valuewalk.com/">Value Walk</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://wolfstreet.com/">Wolf Street</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.maaalamalama.com/wordpress">skwealthacademy</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          </aside>
+        </section>
+
+                    <section class="sidebar-right-wrapper">
+              <aside class="layout-sidebar-right" role="complementary">
+                <div class="search-block block-wrapper">
+                  <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-content-page-1" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-search-content-page-1pbjarpzs" id="block-search-block">
+  
+    
+      <form action="/search-content" method="get" id="views-exposed-form-search-content-page-1pBjARpZS" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-search-api-fulltext form-item-search-api-fulltext form-no-label">
+        <input placeholder="Search Zerohedge" data-drupal-selector="edit-search-api-fulltext" type="search" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-search" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-sort-by form-item-sort-by">
+      <label for="edit-sort-by">Sort by</label>
+        <select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="search_api_relevance" selected="selected">Relevance</option><option value="created">Newest</option><option value="created_1">Oldest</option></select>
+        </div>
+<h1 class="search-form-header" data-drupal-selector="edit-title">ZeroHedge Search</h1>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+                </div>
+                  <div class="region region-header">
+    <div id="block-ransqwauk-2" class="block block-block-content block-block-content26190692-633f-4289-a676-89eb7270bb5c">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="http://zerohedge.talking-forex.com/live.html"><img src="https://www.zerohedge.com/themes/zerohedge/images/live_commentary_button_big.png" /></a></p>
+</div>
+      
+  </div>
+<div class="hidden block block-custom-blocks block-user-account-menu-cacheable" id="block-useraccountmenucacheable">
+  
+    
+      <div><nav role="navigation" aria-labelledby="block-zerohedge-account-menu-menu" id="block-zerohedge-account-menu" class="block block-menu navigation menu--account">
+      
+  <h2 id="block-zerohedge-account-menu-menu">Welcome</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+</div>
+
+  </div>
+
+<div class="block-wrapper">
+  <div class="dropdown">
+    <div class="accordion-load-onclick accordion-trigger">
+      <h2 class="dropdown__title">Today's Top Stories</h2>
+      <div class="dropdown__content">
+        <div
+          class="view-content-container js-view-dom-id-sidebarrighttoppostsview"
+          data-domid="sidebarrighttoppostsview"
+          data-viewname="todays_top_posts"
+        >
+          Loading...
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div id="block-contactblock" class="block block-custom-blocks block-contact-block">
+  
+    
+      
+    <div class="block-wrapper">
+    <div class="dropdown">
+      <div>
+        <h2 class="dropdown__title">Contact Information</h2>
+        <div class="dropdown__content">
+          <div class="contact-block-content">
+            <p>Tips: <a href="mailto:tips@zerohedge.com">tips@zerohedge.com</a></p>
+            <p>General: <a href="mailto:info@zerohedge.com">info@zerohedge.com</a></p>
+            <p>Legal: <a href="mailto:legal@zerohedge.com">legal@zerohedge.com</a></p>
+            <p>Advertising: <a href="mailto:ads@zerohedge.com">ads@zerohedge.com</a></p>
+            <p>Abuse/Complaints: <a href="mailto:abuse@zerohedge.com">abuse@zerohedge.com</a></p>
+          </div>
+        </div>
+      </div>
+        <div>
+          <h2 class="dropdown__title">Suggested Reading</h2>
+          <div class="dropdown__content">
+            <div class="contact-block-content">
+              <p><em>Make sure to read our <a href="/help/how-readtip-zero-hedge-without-attracting-interest-human-resourcesthe-treasuryblack-helicopt">"How To [Read/Tip Off] Zero Hedge Without Attracting The Interest Of [Human Resources/The Treasury/Black Helicopters]"</a> Guide</em></p>
+              <p>It would be very wise of you to study our <a href="/help/disclaimer">disclaimer</a>, our <a href="/privacy-policy">privacy policy </a>and our (non)policy on <a href="/policy-on-conflicts">conflicts / full disclosure</a>. Here&#39;s our <a href="/cookie-policy">Cookie Policy</a>.&nbsp;</p>
+              <p>&nbsp;</p>
+              <p><a href="/help/report-offensive-comments">How to report offensive comments</a></p>
+              <p><a href="/help/notice-racism">Notice on Racial Discrimination</a>.&nbsp;</p>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+  </div>
+<div id="block-financialjuice" class="block block-block-content block-block-content9514f6bc-6f3f-4e84-90d5-9cadf27f3b3e">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><!-- Place this code where you would like to draw the player. Choose the width between 215px and 350px -->
+<div id="FJ-voice-news-player" style="width:300px"></div>
+
+<!--Place this script after </body> -->
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    (function () {
+        var jo = document.createElement('script');
+        jo.type = 'text/javascript';
+        jo.id = 'FJVoiceFeed';
+        var r = Math.floor(Math.random() * (9999 - 0 + 1) + 0);
+        jo.src = 'https://www.financialjuice.com/widgets/voice-player.js?mode=inline&display=1&container=FJ-voice-news-player&info=zerohedge&r=' + r;
+        document.getElementsByTagName('head')[0].appendChild(jo);
+    })();
+
+//--><!]]>
+</script></div>
+      
+  </div>
+
+  </div>
+
+              </aside>
+            </section>
+        
+      </main>
+    </div>
+          <footer id="footer" role="pagefooter">
+          <div class="region region-header">
+    <nav role="navigation" aria-labelledby="block-zerohedge-footer-menu" id="block-zerohedge-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-zerohedge-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/help/notice-racism" data-drupal-link-system-path="node/473814">Discrimination Notice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cookie-policy" data-drupal-link-system-path="node/457974">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/disclaimer" data-drupal-link-system-path="node/650917">Disclaimer</a>
+              </li>
+                <li class="menu-item">
+        <a href="mailto:ads@zerohedge.com">Advertise with Zerohedge</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+    <div>Copyright ©2009-2020 ZeroHedge.com/ABC Media, LTD</div>
+  </div>
+
+      </footer>
+      </div>
+</div>
+
+  </div>
+
+      
+    </div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","basePath":"modules\/contrib\/vote_up_down","ajaxTrustedUrl":{"\/search-content":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"policy_block":false,"ads":{"ad_controls":{"ad_switch":0,"ad_split_threshold":"20"},"isNode":"false","dev_server":"false","isAdminOrEditor":false},"user":{"uid":0,"permissionsHash":"a16b0b090db0956b8a2ac37ba196406a34e65f53322dfcfedb4f84f9dc4b607b"}}</script>
+<script src="/s3fs-js/js/js_c6sBYcgPYd3dKKsqe7iP6GIHZvyCj-q66Ny81NMgZ7U.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
+<script src="/s3fs-js/js/js_WuSIVZ2sLkowDzN1G8_V0xE6r4CzvAyhlf6_1jpuspU.js"></script>
+
+  </body>
+</html>

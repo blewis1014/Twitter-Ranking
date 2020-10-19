@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US"
+	prefix="og: https://ogp.me/ns#"  prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-US"
+	prefix="og: https://ogp.me/ns#"  prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<!--[if gte IE 9]><style type="text/css">.gradient {filter: none; }</style><![endif]-->
+
+<html lang="en-US"
+	prefix="og: https://ogp.me/ns#"  prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nothing found for  %0A</title>
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<script type="text/javascript">var site_GlobalArr = []; site_GlobalArr["templateTheme"] = '004-itmwpb'; site_GlobalArr["templateThemeChild"] = '004-itmwpb-child-wsjm-am';</script><!-- here events calendar  -->
+<script type="text/javascript"> if (site_GlobalArr && site_GlobalArr != 'undefined') { }else{ var site_GlobalArr = []; } site_GlobalArr["blogId"] = '976';
+ window.ITM_enablePjax = 1; site_GlobalArr["is_pjax"] = 1;
+</script><!-- here pjax settings -->
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<!-- All In One SEO Pack 3.6.2ob_start_detected [-1,-1] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.wsjmsports.com/#organization","url":"https://www.wsjmsports.com/","name":"WSJM Sports","sameAs":[]},{"@type":"WebSite","@id":"https://www.wsjmsports.com/#website","url":"https://www.wsjmsports.com/","name":"WSJM Sports","publisher":{"@id":"https://www.wsjmsports.com/#organization"}}]}</script>
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-55354858-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//www.wsjmsports.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//sdk.amazonaws.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//dehayf5mhw1h7.cloudfront.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="text/calendar" title="WSJM Sports &raquo; iCal Feed" href="https://www.wsjmsports.com/broadcasts/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.wsjmsports.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://www.wsjmsports.com/wp-includes/css/dashicons.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://www.wsjmsports.com/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.wsjmsports.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='front-advertise-css'  href='https://www.wsjmsports.com/wp-content/plugins/advertise/assets/css/front.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-media-post-css'  href='https://www.wsjmsports.com/wp-content/plugins/social-media-post/public/css/social-media-post-public.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-ssl-podcast-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-ssl-podcast/public/css/wpb-ssl-podcast-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-ugc-v2-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/css/wpb-ugc-v2-public.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-ugc-v2filestyle-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/css/fileinput.min.css?ver=3.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-ugc-v2-validator-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/css/bootstrapValidator.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sharify-css'  href='https://www.wsjmsports.com/wp-content/plugins/sharify/sharify-style.php' type='text/css' media='all' />
+<link rel='stylesheet' id='sharify-icon-css'  href='https://www.wsjmsports.com/wp-content/plugins/sharify/icon/css/sharify.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sharify-font-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-audio-stream-manager-select2-style-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/css/select2.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-audio-stream-manager-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/css/wpb-audio-stream-manager-public.css?ver=2020_24_09' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-audio-stream-manager-now-playing-info-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/css/onecms-now-playing-info-public-new.css?ver=2020_04_01' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-audio-stream-manager-show-stream-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/css/onecms-show-stream-public-new.css?ver=2020_04_01' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-voice-app-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-voice-app/public/css/wpb-voice-app-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='weblator_polling-plugin-styles-css'  href='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/css/public.css?ver=1.3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='weblator_polling-fa-css'  href='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/css/font-awesome.min.css?ver=1.3.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css'  href='https://www.wsjmsports.com/wp-admin/css/color-picker.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/libs/colorbox/colorbox.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rpw-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/css/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rpw-theme-5f8b9e35bea7e-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/theme/default/assets/css/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jplayer.blue.monday-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-show-core/modules/jplayer/skin/blue.monday.minimal/jplayer.blue.monday.css?v=11202017c&#038;ver=2' type='text/css' media='screen' />
+<link rel='stylesheet' id='bootstrapwp-css'  href='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/css/bootstrap.min.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='glyphicon-css'  href='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/css/bootstrap-glyphicons.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.wsjmsports.com/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_oswald-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C700%2C900%7CRoboto+Condensed&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_opensans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400italic%2C600%2C600italic%2C700%2C800&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_titillium-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A400%2C300%2C300italic%2C400italic%2C600%2C700%2C900&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://www.wsjmsports.com/wp-content/themes/004-itmwpb-child-wsjm-am/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sendpress-fe-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/vipclub/css/front-end.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='https://www.wsjmsports.com/wp-content/plugins/vipclub/css/jquery-ui.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='Theme_Manager_CSS-css'  href='https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/wpbcss/wpbstyle-004itmwpbchild-wsjm-am-047.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-slider-default-css-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-slider/assets/css/wpb-slider-default.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-calendar-pro-style-css'  href='https://www.wsjmsports.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-full.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe_events-widget-calendar-pro-style-css'  href='https://www.wsjmsports.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-theme.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe_events--widget-calendar-pro-override-style-css'  href='https://www.wsjmsports.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-theme.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='closing_dashboard_front_styles_css-css'  href='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/css/styles-front.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bannerlightwindow-style-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-banner-light-window/featherlight-1.2.3/release/featherlight.min.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='https://www.wsjmsports.com/wp-content/plugins/wpb-gdpr/frontend/css/magnific_1.css?ver=rand123' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/swfobject.js?ver=2.2-20120417' id='swfobject-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/social-media-post/public/js/social-media-post-public.js?ver=1.0.1' id='social-media-post-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-ssl-podcast/public/js/wpb-ssl-podcast-public.js?ver=1.0.0' id='wpb-ssl-podcast-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/js/bootstrapValidator.min.js?ver=2.0.0' id='wpb-ugc-v2-validator-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/js/fileinput.min.js?ver=2.0.0' id='wpb-ugc-v2-fileinput-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-ugc-v2/public/js/wpb-ugc-v2-public.js?dt=05_10_18&#038;ver=2.0.0' id='wpb-ugc-v2-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-voice-app/public/js/wpb-voice-app-public.js?ver=1.0.0' id='wpb-voice-app-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/app/legend.js?ver=1.3.5.0' id='weblator_polling-legend-js'></script>
+<script type='text/javascript' id='weblator_polling-plugin-script-js-extra'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.wsjmsports.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/app/public.js?ver=1.3.5.0' id='weblator_polling-plugin-script-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/libs/colorbox/jquery.colorbox-min.js?ver=5.5.1' id='colorbox-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/libs/iris/iris.min.js?ver=5.5.1' id='iris-js'></script>
+<script type='text/javascript' id='rpw-gm-lib-js-extra'>
+/* <![CDATA[ */
+var rpw_gapi = {"enabledGoogleMapsApi":"1","existsGoogleApiKey":"1","emptyGoogleApiKeyMessage":"Google API key is required. Please, enter valid Google API Key in the \"API\" tab."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/js/googlemap.js?ver=5.5.1' id='rpw-gm-lib-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?libraries=places&#038;v=3&#038;language=en&#038;callback=initMap&#038;key=AIzaSyDOsAC8gAwWA7RWhv6LoS_SCyRg2izqWcQ&#038;ver=5.5.1' id='rpw-gm-js'></script>
+<script type='text/javascript' id='rpw-js-extra'>
+/* <![CDATA[ */
+var ajax_rpw = {"base_url":"https:\/\/www.wsjmsports.com","ajax_url":"https:\/\/www.wsjmsports.com\/wp-admin\/admin-ajax.php","ajax_nonce":"3f197cb28b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/js/main.js?ver=5.5.1' id='rpw-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/theme/default/assets/js/main.js?ver=5.5.1' id='rpw-theme-5f8b9e35bea7e-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-show-core/inc/show/assets/js/show.js?ver=5.5.1' id='show_js_update-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/vipclub/js/jquery-ui.js?ver=1.0' id='jquery-ui-js'></script>
+<script type='text/javascript' id='sendpress-signup-form-js-js-extra'>
+/* <![CDATA[ */
+var sendpress = {"invalidfirstName":"First Name is not Valid","missingfirstname":"First name can not be empty","invalidlastName":"Last Name is not Valid","missinglastname":"Last name can not be empty","invalidzip":"Zip is not Valid","missingzip":"Zip can not be empty","invalidcellnumber":"Cell Number is not valid","missingcellnumber":"Cell can not be empty","invalidemail":"E-mail address is invalid","missingemail":"Please enter your e-mail address","ajaxurl":"https:\/\/www.wsjmsports.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/vipclub/js/sendpress.signup.js?dt=05_10_18&#038;ver=1.0' id='sendpress-signup-form-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/vipclub/js/jquery.maskedinput.min.js?ver=1.0' id='sendpress-jquery-maskedinput-js-js'></script>
+<script type='text/javascript' id='tribe-mini-calendar-js-extra'>
+/* <![CDATA[ */
+var TribeMiniCalendar = {"ajaxurl":"https:\/\/www.wsjmsports.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar.js?ver=3.6.1' id='tribe-mini-calendar-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/library/angular.min.js?ver=1.6.3' id='closing_dashboard_front_angular_js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/library/angular-resource.min.js?ver=1.6.3' id='closing_dashboards_front_angular_resource_js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/library/angular-ui-router.min.js?ver=1.6.3' id='closing_dashboard_front_angular_ui_router_js-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wsjmsports.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.wsjmsports.com/wp-includes/wlwmanifest.xml" /> 
+<script> var $ = jQuery; </script>  
+   <script type="text/javascript">
+    var eventPluginActive = "old";
+   </script><!-- Open Graph Meta Data by WP-Open-Graph plugin-->
+<meta property="og:site_name" content="WSJM Sports" />
+<meta property="og:locale" content="en_us" />
+<meta property="og:type" content="article" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image" content="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2020/07/09183509/WSJMSports-2020-Default-Flipper.png" />
+<!-- /Open Graph Meta Data -->
+<style>
+.banner_lightbox { display: none; }
+</style>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --> <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> <!--[if lt IE 9]> <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <![endif]--><script type="text/javascript">
+	var ajaxurl = "https://www.wsjmsports.com/wp-admin/admin-ajax.php";
+</script>          <!-- Modal -->
+      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h3 class="modal-title text-center">Search sponsored by</h3>
+                            </div>
+            <div class="modal-body">
+
+              <div class="searchform">
+              <form role="form" action="https://www.wsjmsports.com/" id="searchform" method="get">
+                  <label for="s" class="sr-only">Search</label>
+                  <div class="input-group">
+                      <input type="text" class="form-control" id="s" name="s" placeholder="Search" value="" />
+                      <span class="input-group-btn">
+                          <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
+                      </span>
+                  </div> <!-- .input-group -->
+              </form>
+              </div> 
+
+           </div>
+            
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+        <!-- Header scripts -->
+
+<style>
+#comments{display:none}
+</style>
+
+<style type="text/css" xmlns="http://www.w3.org/1999/html">
+
+/*
+PowerPress subscribe sidebar widget
+*/
+.widget-area .widget_powerpress_subscribe h2,
+.widget-area .widget_powerpress_subscribe h3,
+.widget-area .widget_powerpress_subscribe h4,
+.widget_powerpress_subscribe h2,
+.widget_powerpress_subscribe h3,
+.widget_powerpress_subscribe h4 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+</style>
+      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.wsjmsports.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '555c68cf-b01f-480d-b9ee-6b37daf63510';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.wsjmsports.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2019/11/02134049/wsjm-sports-background-blue.png"); background-position: center center; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<!--[if lt IE 9]>
+   <script src="https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<!-- common frontend header code put here -->
+<script type="text/javascript">
+    if (site_GlobalArr && site_GlobalArr != 'undefined') { }else{ var site_GlobalArr = []; }
+    var siteURL_Global_value = window.location.href; siteURL_Global_value = siteURL_Global_value.replace("http://", ""); siteURL_Global_value = siteURL_Global_value.replace("https://", "");    var tempArr_Global = siteURL_Global_value.split('/');
+    site_GlobalArr["blogId"] = '976'; site_GlobalArr["siteURL"] = tempArr_Global[0];
+    try {
+        if (tempArr_Global[1] == 'category') { site_GlobalArr["pageFlag"] = 'category_list_page'; }
+        else if (tempArr_Global[1] == 'events') { site_GlobalArr["pageFlag"] = 'upcoming_events_list_page'; }
+    }catch(err){}
+    </script>
+<link rel="icon" href="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2019/01/19150321/cropped-WSJM-SPORTS-1061-512px-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2019/01/19150321/cropped-WSJM-SPORTS-1061-512px-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2019/01/19150321/cropped-WSJM-SPORTS-1061-512px-180x180.png" />
+<meta name="msapplication-TileImage" content="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2019/01/19150321/cropped-WSJM-SPORTS-1061-512px-270x270.png" />
+
+<!-- BEGIN ExactMetrics v5.3.10 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-117326371-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+</head>
+
+<body data-rsssl=1 class="error404 custom-background top-player tribe-theme-parent-004-itmwpb tribe-theme-child-004-itmwpb-child-wsjm-am page-template-index-php">
+
+
+  <section class="container">
+      <div class="row">		<div class="adv-container wide-above-header">
+			<!-- Wide above header for Inside pages -->
+		</div>
+		</div>
+  </section>
+
+  <section class="site-navigation-wrapper">
+<div class="container site-navigation">
+<nav class="row">
+    <div class=" col-lg-11 col-md-11 alpha omega">
+      <div class="site-navigation-inner ">
+        <div class="navbar navbar-default">
+          <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <!-- Your site title as branding in the menu -->
+            <p class="navbar-text visible-xs">
+              <div id="mobile-search" class="visible-xs visible-sm"><a data-toggle="modal" href="#myModal"><i class="fa fa-search search-mobile"></i></a> <span class="navbar-text">Navigation Menu</span></div>
+            </p>
+          </div>
+
+          <!-- The WordPress Menu goes here -->
+          <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse "><ul id="menu-primary-navigation" class="nav navbar-nav"><li id="menu-item-13337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-13337"><a title="Home" href="https://www.wsjmsports.com/">Home</a></li>
+<li id="menu-item-13349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13349 dropdown"><a title="On-Air" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">On-Air <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-25914" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25914"><a title="ESPN Radio Shows" href="http://www.espn.com/espnradio/">ESPN Radio Shows</a></li>
+	<li id="menu-item-14154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14154"><a title="Past Broadcasts" href="https://www.wsjmsports.com/archived-broadcasts/">Past Broadcasts</a></li>
+	<li id="menu-item-13352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13352"><a title="Contact Us" href="https://www.wsjmsports.com/contact/">Contact Us</a></li>
+	<li id="menu-item-13357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13357"><a title="Closings and Delays" href="https://www.wsjmsports.com/closings-and-delays/">Closings and Delays</a></li>
+	<li id="menu-item-18002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18002"><a title="Listen To Us On Alexa" href="https://www.wsjmsports.com/alexa/">Listen To Us On Alexa</a></li>
+</ul>
+</li>
+<li id="menu-item-13348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13348"><a title="Scores" href="https://www.wsjmsports.com/scores-and-schedules/">Scores</a></li>
+<li id="menu-item-14143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14143"><a title="News" href="/category/stories/">News</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33"><a title="Podcasts" href="http://wsjm-am.itmwpb.com/podcasts/">Podcasts</a></li>
+<li id="menu-item-13351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13351"><a title="Athlete of the Week" href="https://www.wsjmsports.com/athlete-of-the-week/">Athlete of the Week</a></li>
+<li id="menu-item-13353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13353"><a title="Athlete Profiles" href="https://www.wsjmsports.com/profiles/">Athlete Profiles</a></li>
+<li id="menu-item-16144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16144 dropdown"><a title="High School" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">High School <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-13359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13359"><a title="Stories &amp; Podcasts by School" href="https://www.wsjmsports.com/high-school-team-pages/">Stories &#038; Podcasts by School</a></li>
+	<li id="menu-item-16143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16143"><a title="Road Trip" href="https://www.wsjmsports.com/road-trip/">Road Trip</a></li>
+	<li id="menu-item-16145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16145"><a title="Athlete of the Week" href="https://www.wsjmsports.com/athlete-of-the-week/">Athlete of the Week</a></li>
+	<li id="menu-item-16146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16146"><a title="Athlete Profiles" href="https://www.wsjmsports.com/profiles/">Athlete Profiles</a></li>
+</ul>
+</li>
+<li id="menu-item-13304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13304 dropdown"><a title="College" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">College <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-16148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16148"><a title="Road Trip" href="https://www.wsjmsports.com/road-trip/">Road Trip</a></li>
+	<li id="menu-item-16149" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-16149"><a title="Lake Michigan College" href="https://www.wsjmsports.com/tag/lake-michigan-college/">Lake Michigan College</a></li>
+	<li id="menu-item-13309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13309"><a title="LMC Athletics" href="http://redhawks.lakemichigancollege.edu/">LMC Athletics</a></li>
+	<li id="menu-item-13308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13308"><a title="Michigan" href="http://www.mgoblue.com/">Michigan</a></li>
+	<li id="menu-item-13310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13310"><a title="MSU" href="http://www.msuspartans.com/">MSU</a></li>
+	<li id="menu-item-13325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13325"><a title="Notre Dame" href="http://www.und.com">Notre Dame</a></li>
+	<li id="menu-item-13311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13311"><a title="Western" href="http://http://www.wmubroncos.com/">Western</a></li>
+	<li id="menu-item-13312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13312"><a title="GVSU" href="http://www.gvsulakers.com/">GVSU</a></li>
+	<li id="menu-item-13313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13313"><a title="Central" href="http://www.cmuchippewas.com/">Central</a></li>
+	<li id="menu-item-13314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13314"><a title="Ferris" href="http://ferrisstatebulldogs.com/">Ferris</a></li>
+	<li id="menu-item-13326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13326"><a title="MIAA" href="http://www.miaa.org">MIAA</a></li>
+	<li id="menu-item-13327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13327"><a title="MAC" href="http://www.mac-sports.com">MAC</a></li>
+	<li id="menu-item-13328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13328"><a title="GLIAC" href="http://www.gliac.org">GLIAC</a></li>
+</ul>
+</li>
+<li id="menu-item-13305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13305 dropdown"><a title="Pro" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Pro <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-13315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13315"><a title="Lions" href="http://www.detroitlions.com">Lions</a></li>
+	<li id="menu-item-13316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13316"><a title="Tigers" href="http://www.tigers.com">Tigers</a></li>
+	<li id="menu-item-13317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13317"><a title="Bears" href="http://www.chicagobears.com">Bears</a></li>
+	<li id="menu-item-13319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13319"><a title="White Sox" href="http://www.whitesox.com">White Sox</a></li>
+	<li id="menu-item-13318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13318"><a title="Chicago Cubs" href="http://www.cubs.com">Chicago Cubs</a></li>
+	<li id="menu-item-13320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13320"><a title="South Bend Cubs" href="http://www.milb.com/index.jsp?sid=t550">South Bend Cubs</a></li>
+	<li id="menu-item-13321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13321"><a title="Red Wings" href="http://redwings.nhl.com">Red Wings</a></li>
+	<li id="menu-item-13322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13322"><a title="Blackhawks" href="http://blackhawks.nhl.com">Blackhawks</a></li>
+	<li id="menu-item-13323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13323"><a title="Pistons" href="http://www.nba.com/pistons">Pistons</a></li>
+	<li id="menu-item-13324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13324"><a title="Bulls" href="http://www.nba.com/bulls">Bulls</a></li>
+</ul>
+</li>
+<li id="menu-item-20741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20741"><a title="Contests" href="https://www.wsjmsports.com/contests/">Contests</a></li>
+</ul></div>
+        </div><!-- .navbar -->
+      </div>
+
+    </div><!-- .container -->
+
+    <div id="nav-search" class="col-md-1 col-lg-1 hidden-xs hidden-sm text-center"><a data-toggle="modal" href="#myModal"><i class="fa fa-search search-mobile"></i></a></div>
+  </nav>
+  </div>
+</section>
+<!-- .site-navigation -->
+
+  <header id="masthead" role="banner">
+    <div class="container site-header">
+      <div id="header">
+        <div class="row">
+          <div id="branding" class="col-lg-3 col-md-3 col-sm-3 text-center"><div class="header-image">
+	<a href="" rel="home"><img src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2020/07/11154016/WSJM-SPORTS-2020-Website.png" class="header-image"  alt="" /></a>
+</div>
+</div>
+          <div id="banner" class="col-lg-9 col-md-9 col-sm-9 text-center">		<div class="adv-container wide-under-navigation">
+			<!-- Wide under navigation for Inside pages -->
+
+<!-- ***** AJAX BASED BANNER CODE START ***** -->
+<!-- start ajax banner div -->
+<div id="banner-ajax-div-14041-1" class="banner-ajax-div-class">
+
+</div> <!-- end ajax banner div -->
+<input type="hidden" id="banner-ajax-hidden-1" class="banner-ajax-hidden-class" value="14041#:##:#1#:#under-navigation#:#14#:#https://www.wsjmsports.com/wp-content/plugins/advertise/#:#976#:#/var/www/html/#:#-4#:#1#:#1" />
+<input type="hidden" id="banner-ajax-hidden-extra-1" class="banner-ajax-hidden-class-extra" value="14041#:#14041" />
+<!-- ***** AJAX BASED BANNER CODE END ***** -->
+
+		</div>
+		</div>
+        </div>
+
+        <div class="row">
+            <div id="crumbs" class="col-xs-12"><ul id="breadcrumbs" class="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://www.wsjmsports.com" title="Homepage">Homepage</a></li><li class="separator separator-home"> &gt; </li><li>Error 404</li></ul></div>
+        </div>
+
+        </div>
+      </div><!--header-->
+    </div>
+  </header><!-- End Header -->
+
+<div id="main">
+  <div class="container site-content">
+      <div class="row">
+        <aside id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><iframe src="https://scorestream.com/widgets/scoreboards/horz?userWidgetId=1352" style="padding:0px;border:0px;width:100%;max-width:100%;height:200px;max-height:200px;" title="WSJM Sports Scoreboard" scrolling="no" frameborder="0"></iframe></div></aside><aside id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><center></center><br></div></aside>      </div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="primary col-md-8 col-sm-8">
+				<div class="content" role="main">
+
+						<article class="hentry not-found">
+
+		<header class="entry-header">
+			<hgroup>
+			<h1 class="entry-title">Sorry! Page Not Found</h1>
+			<h2>The page you requested may have been moved to a new location or removed from the site.</h2>
+			</hgroup>
+		</header><!-- .entry-header -->
+
+		<div class="search-wrapper">
+			<h3>Try another keyword search</h3>
+			
+<form method="get" class="form-search" action="https://www.wsjmsports.com/">
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="input-group">
+				<input type="text" class="form-control search-query" name="s" placeholder="search;" />
+				<span class="input-group-btn">
+					<button type="submit" class="btn btn-default" name="submit" id="searchsubmit" value="Search"><i class="fa fa-search"></i></button>
+				</span>
+			</div>
+		</div>
+	</div>
+</form>
+		
+		</div>
+
+</article><!-- #post -->
+		
+
+				</div><!-- #content -->
+			</div><!-- #primary -->
+
+			<div id="secondary" class="col-lg-4 col-md-4 widget-sidebar"> 	<div id="on-air" class="b-spacer-3">
+<!-- onAir : callFromFlag : page-template ajax now code start -->
+<div id="schedule-now-ajax-div"></div>
+<script type="text/javascript">
+function sendAjaxRequestForShowNow() {
+	var urli = '/wp-content/plugins/wpb-show-core/inc/show/lib'; //WPB-3551
+	var urlVal = urli+'/on-air-schedule-ajax-call.php?showAjax=true&flagShow=now&stream_name=&schedule_temp=schedule-now';
+	jQuery.ajax({ type: "GET",
+		          url: urlVal,
+		          async: true,
+		          success: function(data) {
+		          	 jQuery('#schedule-now-ajax-div').html(data);
+		          	//  console.log(urlVal); //WPB-3551
+		          }
+		        });
+}
+sendAjaxRequestForShowNow();
+</script>
+<!-- ajax now code end -->
+</div>
+
+			<div class="sidebar" role="complementary">
+			<div class="widget-area">
+				<div id="sidebar-1" class="vip-club widget widget-sidebar widget_sp_image"><a href="/join-vip-club/" target="_self" class="widget_sp_image-image-link"><img width="350" height="155" class="attachment-full aligncenter" style="max-width: 100%;" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2018/04/10135220/vip-club-small-2019.png" /></a></div><div id="sidebar-1" class="widget widget-sidebar widget_adv_location">
+<!-- ***** AJAX BASED BANNER CODE START ***** -->
+<!-- start ajax banner div -->
+<div id="banner-ajax-div-26661-2" class="banner-ajax-div-class">
+
+</div> <!-- end ajax banner div -->
+<input type="hidden" id="banner-ajax-hidden-2" class="banner-ajax-hidden-class" value="26661#:#26661,26645,25305,22371,4900#:#2#:#300-250-a#:#4#:#https://www.wsjmsports.com/wp-content/plugins/advertise/#:#976#:#/var/www/html/#:#-4#:#1#:#1" />
+<input type="hidden" id="banner-ajax-hidden-extra-2" class="banner-ajax-hidden-class-extra" value="26661,26645,25305,22371,15698,4900#:#26661,26645,25305,22371,4900" />
+<!-- ***** AJAX BASED BANNER CODE END ***** -->
+
+</div><div id="sidebar-1" class="widget_text widget widget-sidebar widget_custom_html"><div class="textwidget custom-html-widget"><script type="text/javascript" src="https://www.civicscience.com/widget/jspoll/?elt=144773ea-03ec-7bf4-7db7-a01f834a1a7d&tgtid=f9861693-0c1d-5d44-d52d-cb30b853bb4b"></script><div id="144773ea-03ec-7bf4-7db7-a01f834a1a7d"></div></div></div><div id="sidebar-1" class="widget widget-sidebar widget_adv_location">
+<!-- ***** AJAX BASED BANNER CODE START ***** -->
+<!-- start ajax banner div -->
+<div id="banner-ajax-div-26661-3" class="banner-ajax-div-class">
+
+</div> <!-- end ajax banner div -->
+<input type="hidden" id="banner-ajax-hidden-3" class="banner-ajax-hidden-class" value="26661#:#26661,26645,25305,22371,4900#:#3#:#300-250-b#:#5#:#https://www.wsjmsports.com/wp-content/plugins/advertise/#:#976#:#/var/www/html/#:#-4#:#1#:#1" />
+<input type="hidden" id="banner-ajax-hidden-extra-3" class="banner-ajax-hidden-class-extra" value="26661,26645,25305,22371,15698,4900#:#26661,26645,25305,22371,4900" />
+<!-- ***** AJAX BASED BANNER CODE END ***** -->
+
+</div><div id="sidebar-1" class="widget_text widget widget-sidebar widget_custom_html"><div class="widget-title-outer"><h3 class="widget-title">Listen Anywhere</h3></div><div class="textwidget custom-html-widget"><a href="https://itunes.apple.com/us/app/sports-radio-1400-wsjm/id963211894?ls=1&mt=8" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-45060 size-full" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1091/2019/01/08205143/Download_on_the_App_Store_Badge_US-UK_135x40.jpg" alt="" width="300" height="89" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.thesmythgroup.snapdaddy.wsjmsports" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-45061 size-full" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1091/2019/01/08205143/google-play-badge-e1454463690654.png" alt="" width="300" height="89" /></a>
+<a href="https://open.spotify.com/show/5QKpZODgl9HY1HjuQDAJd8" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-45060 size-full"  src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1091/2019/03/13140533/spotify-300.png" alt="" width="300" height="103" /></a>
+<a href="https://www.amazon.com/Intertech-Media-WSJM-Sports/dp/B07PX1G8Y9/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-45062" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1091/2019/01/08205143/Amazon_Alexa_Badge-Above_RGB_BB.png" alt="" width="310" height="103" /></a></div></div>		<div id="sidebar-1" class="widget widget-sidebar widget_recent_posts">		<div class="widget-title-outer"><h3 class="widget-title"><a href="https://www.wsjmsports.com/category/stories/">More Top Headlines <i class="icon-right-open color-brand title-link"></i></a></h3></div>					<!-- start div : wpb widget recent posts -->
+			<div class="recent-posts-list posts-list">
+				<div class="posts-container " id="js-recent-posts-4">
+				<article class="compact bg-light post-27025 post type-post status-publish format-standard has-post-thumbnail hentry category-athlete category-featured-slider category-podcast category-stories with-thumbnail">
+	<div class="article-thumb"><a href="https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" ><img width="150" height="150" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2020/10/17113132/aow-Maya-Hunter-20-21-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /></a></div>
+	<div class="article-container">
+		<div class="article-title"> <h5><a href="https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" >Maya Hunter &#8211; Berrien County Student Athlete of the Week</a></h5></div>
+		<div class="article-meta">
+	<i class="icon-calendar-inv color-brand"></i>October 17, 2020			<span class="divider">|</span> <a href="https://www.wsjmsports.com/category/athlete/" rel="category tag">Athlete of the Week</a>, <a href="https://www.wsjmsports.com/category/featured-slider/" rel="category tag">Featured Slider</a>, <a href="https://www.wsjmsports.com/category/podcast/" rel="category tag">Podcast</a>, <a href="https://www.wsjmsports.com/category/stories/" rel="category tag">Stories</a><!-- |<span> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" target="blank">facebook <i class="fa fa-facebook-square"></i></a>|<a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span> -->
+	</div>		<div class="entry-summary">&nbsp; Maya Hunter of St. Joseph High School Golf is the...</div>
+	</div>
+
+<!-- 	<div class="share-links"> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" target="blank">facebook <i class="fa fa-facebook-square"></i></a> | <a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/maya-hunter-berrien-county-student-athlete-of-the-week/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span>
+-->
+</article><article class="compact bg-light post-27021 post type-post status-publish format-standard has-post-thumbnail hentry category-athlete category-featured-slider category-podcast category-stories with-thumbnail">
+	<div class="article-thumb"><a href="https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" ><img width="150" height="150" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2020/10/17111519/aow-Aaron-Robles-20-21-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /></a></div>
+	<div class="article-container">
+		<div class="article-title"> <h5><a href="https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" >Aaron Robles &#8211; Van Buren/Cass Student Athlete of the Week</a></h5></div>
+		<div class="article-meta">
+	<i class="icon-calendar-inv color-brand"></i>October 17, 2020			<span class="divider">|</span> <a href="https://www.wsjmsports.com/category/athlete/" rel="category tag">Athlete of the Week</a>, <a href="https://www.wsjmsports.com/category/featured-slider/" rel="category tag">Featured Slider</a>, <a href="https://www.wsjmsports.com/category/podcast/" rel="category tag">Podcast</a>, <a href="https://www.wsjmsports.com/category/stories/" rel="category tag">Stories</a><!-- |<span> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" target="blank">facebook <i class="fa fa-facebook-square"></i></a>|<a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span> -->
+	</div>		<div class="entry-summary">&nbsp; Aaron Robles of Hartford High School Soccer is our WSJM...</div>
+	</div>
+
+<!-- 	<div class="share-links"> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" target="blank">facebook <i class="fa fa-facebook-square"></i></a> | <a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/aaron-robles-van-buren-cass-student-athlete-of-the-week/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span>
+-->
+</article><article class="compact bg-light post-27016 post type-post status-publish format-standard has-post-thumbnail hentry category-featured-slider category-scores category-stories with-thumbnail">
+	<div class="article-thumb"><a href="https://www.wsjmsports.com/h-s-football-scoreboard-21/" ><img width="150" height="150" src="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/976/2020/09/18234353/Football-2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /></a></div>
+	<div class="article-container">
+		<div class="article-title"> <h5><a href="https://www.wsjmsports.com/h-s-football-scoreboard-21/" >H.S. Football Scoreboard</a></h5></div>
+		<div class="article-meta">
+	<i class="icon-calendar-inv color-brand"></i>October 16, 2020			<span class="divider">|</span> <a href="https://www.wsjmsports.com/category/featured-slider/" rel="category tag">Featured Slider</a>, <a href="https://www.wsjmsports.com/category/scores/" rel="category tag">Scores</a>, <a href="https://www.wsjmsports.com/category/stories/" rel="category tag">Stories</a><!-- |<span> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/h-s-football-scoreboard-21/" target="blank">facebook <i class="fa fa-facebook-square"></i></a>|<a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/h-s-football-scoreboard-21/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span> -->
+	</div>		<div class="entry-summary">&nbsp; SMAC St. Joe 54, Gull Lake 14 Lakeshore 13, Lakeview...</div>
+	</div>
+
+<!-- 	<div class="share-links"> Share on: <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.wsjmsports.com/h-s-football-scoreboard-21/" target="blank">facebook <i class="fa fa-facebook-square"></i></a> | <a href="https://twitter.com/intent/tweet?url=https://www.wsjmsports.com/h-s-football-scoreboard-21/" target="blank">Twitter <i class="fa fa-twitter-square"></i></a></span>
+-->
+</article>				</div>
+			</div>
+			<!-- end div : wpb widget recent posts -->
+				</div><div id="sidebar-1" class="widget widget-sidebar widget_adv_location"></div><div id="sidebar-1" class="widget_text widget widget-sidebar widget_custom_html"><div class="textwidget custom-html-widget"><div class="responsive-tabs">
+<h2 class="tabtitle">Facebook</h2>
+<div class="tabcontent">
+
+            
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-page" data-href="https://www.facebook.com/wsjmsports" data-tabs="timeline" data-width="300" data-height="550" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/wsjmsports" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/wsjmsports">WSJM Sports</a></blockquote></div>
+
+
+</div><h2 class="tabtitle">Twitter</h2>
+<div class="tabcontent">
+
+
+<a class="twitter-timeline" data-width="300" data-height="750" href="https://twitter.com/wsjmsports"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+          
+</div></div></div></div><div id="sidebar-1" class="widget widget-sidebar widget_powerpress_subscribe"><div class="widget-title-outer"><h3 class="widget-title">Subscribe to Podcast</h3></div><div class="pp-ssb-widget pp-ssb-widget-modern pp-ssb-widget-include"><a href="https://itunes.apple.com/us/podcast/95-7-1400-wsjm-sports/id1214655067?mt=2&#038;ls=1" class="pp-ssb-btn-sq vertical pp-ssb-itunes" title="Subscribe on Apple Podcasts"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">Apple Podcasts</span></a><a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cud3NqbXNwb3J0cy5jb20vZmVlZC9wb2RjYXN0Lw" class="pp-ssb-btn-sq vertical  pp-ssb-gp" title="Subscribe on Google Podcasts"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">Google Podcasts</span></a><a href="https://subscribeonandroid.com/www.wsjmsports.com/feed/podcast/" class="pp-ssb-btn-sq  vertical pp-ssb-android" title="Subscribe on Android"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">Android</span></a><a href="https://subscribebyemail.com/www.wsjmsports.com/feed/podcast/" class="pp-ssb-btn-sq  vertical  pp-ssb-email" title="Subscribe by Email"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">by Email</span></a><a href="https://www.wsjmsports.com/feed/podcast/" class="pp-ssb-btn-sq vertical pp-ssb-rss" title="Subscribe via RSS"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">RSS</span></a><a href="https://www.wsjmsports.com/subscribe-to-podcast/" class="pp-ssb-btn-sq vertical pp-ssb-more" title="More Subscribe Options"><span class="pp-ssb-ic"></span><span class="pp-ssb-text">More Subscribe Options</span></a></div></div>			</div>
+		</div>
+	
+</div>		</div>
+	</div>
+<section>
+			<div class="adv-container wide-footer">
+			<!-- Wide under all content -->
+		</div>
+		 
+</section>
+</div><!--.container -->
+</div><!--.bottom -->
+
+<div class="container site-content footer-column" >
+	<div class="row flex-row">
+			</div>
+</div>	
+
+<footer id="colophon" class="site-footer dark" role="contentinfo">	
+	<div class="container site-content footer-column" >
+		<div class="row">
+			<div id="widget-12" class="footer-nav widget widget-column widget_nav_menu col-lg-4 col-md-4 col-sm-4"><div class="menu-secondary-navigation-container"><ul id="menu-secondary-navigation" class="menu"><li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a href="http://www.theradiostations.com/eeo">EEO Report</a></li>
+<li id="menu-item-13338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13338"><a href="https://publicfiles.fcc.gov/am-profile/wsjm">Public Inspection File</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="http://www.theradiostations.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="http://www.theradiostations.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div></div></div>
+		</div>	
+	</div>
+    <div class="colophon-wrapper">
+		<div id="site-info" class="container">
+			<div class="row">
+				<div class="col-xs-12 copyright">
+					<div><!-- from redis cache -->     &copy;
+                2020 WSJM Sports                 Powered by <a href="https://www.intertechmedia.com/features/one-cms/" title="OneCMS™." target="_blank" rel="noopener noreferrer">OneCMS™ | </a> Served by <a href="https://www.intertechmedia.com" title="Link to InterTech Media Homepage" target="_blank" rel="noopener noreferrer">InterTech Media LLC </a>
+     </div> 
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>		
+          <script type="text/javascript">
+          	var shows_all = {"query":{"post_type":"show","posts_per_page":1,"post_status":"publish","post__in":[6552],"orderby":"post__in","fromFunction":"get_posts"},"query_vars":{"post_type":"show","posts_per_page":1,"post_status":"publish","post__in":[6552],"orderby":"post__in","fromFunction":"get_posts","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"no_found_rows":true,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"nopaging":false,"comments_per_page":"50","order":""},"tax_query":{"queries":[],"relation":"AND","queried_terms":[],"primary_table":"wp_976_posts","primary_id_column":"ID"},"meta_query":{"queries":[],"relation":null,"meta_table":null,"meta_id_column":null,"primary_table":null,"primary_id_column":null},"date_query":false,"request":"SELECT   wp_976_posts.ID FROM wp_976_posts  WHERE 1=1  AND wp_976_posts.ID IN (6552) AND wp_976_posts.post_type = 'show' AND ((wp_976_posts.post_status = 'publish'))  ORDER BY FIELD(wp_976_posts.ID,6552) LIMIT 0, 1","posts":[],"post_count":0,"current_post":-1,"in_the_loop":false,"comment_count":0,"current_comment":-1,"found_posts":"0","max_num_pages":0,"max_num_comment_pages":0,"is_single":false,"is_preview":false,"is_page":false,"is_archive":true,"is_date":false,"is_year":false,"is_month":false,"is_day":false,"is_time":false,"is_author":false,"is_category":false,"is_tag":false,"is_tax":false,"is_search":false,"is_feed":false,"is_comment_feed":false,"is_trackback":false,"is_home":false,"is_privacy_policy":false,"is_404":false,"is_embed":false,"is_paged":false,"is_admin":false,"is_attachment":false,"is_singular":false,"is_robots":false,"is_favicon":false,"is_posts_page":false,"is_post_type_archive":true,"thumbnails_cached":false,"tribe_is_event":false,"tribe_is_multi_posttype":false,"tribe_is_event_category":false,"tribe_is_event_venue":false,"tribe_is_event_organizer":false,"tribe_is_event_query":false,"tribe_is_past":false};
+          	var current_show = {"ID":25828,"post_title":"ESPN Radio","post_excerpt":"","post_link":"http:\/\/www.espn.com","post_thumbnail":"https:\/\/dehayf5mhw1h7.cloudfront.net\/wp-content\/uploads\/sites\/976\/2020\/07\/09175156\/espn-onair.png","time":{"start":"00:00","end":"23:59","start_12_hours":"12:00 AM","end_12_hours":"11:59 PM"}};
+          	var next_show = [];
+          	function checkShowUpdated() {
+          		var current_show_start = '';
+          		var current_show_end = '';
+          		var next_show_start = '';
+          		var next_show_end = '';
+          		
+          		
+          		if(current_show){
+                  current_show_start=current_show.time.start;
+                  current_show_end=current_show.time.end;
+          		}
+
+          		if(next_show){
+                  next_show_start=next_show.time.start;
+                  next_show_end=next_show.time.end;
+          		}
+
+	          var d = new Date();
+	         // var dt = new Date().format('m-d-Y h:i:s');
+              var n = d.getTimezoneOffset();
+              var currentTime = calcTime(-4);
+
+              //currentTime = "10:00";
+              //alert(currentTime+'---'+current_show_end+'---'+next_show_start);
+
+			  if (Date.parse('01/01/2011 '+currentTime) > Date.parse('01/01/2011 '+current_show_end) ){
+			  	if(next_show!='undefined')
+			     updateCurrentShow(next_show);
+        }
+			 
+			 if (Date.parse('01/01/2011 '+currentTime) > Date.parse('01/01/2011 '+next_show_start) ){
+			 	if(shows_all[1]!='undefined')
+			     updateNextShow(shows_all[1]);
+			 }
+
+            }
+
+
+			var currentBox = jQuery('.schedule-now');
+			var nextBox = jQuery('.schedule-next');
+			if(currentBox.length>0 || nextBox.length>0){
+			 checkShowUpdated();
+			}
+
+			
+
+          </script>
+    	<div id="fb-root1"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"; //FB version change : WD-1625
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- FOOTER GDPR : donot add code for this page. --><style type="text/css">  
+      html { margin-top: 0px !important; }  
+      * html body { margin-top: 0px !important; }  
+  </style><!-- Drip Code -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {}; 
+  _dcs.account = '9117391';
+  
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true; 
+    dc.src = '//tag.getdrip.com/9117391.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script><!-- Modal -->
+<!-- <div class="wpb-audio">
+  <div
+    class="modal fade"
+    id="audioSessionModal"
+    tabindex="-1"
+    role="dialog"
+    aria-labelledby="audioSessionModalLabel"
+    aria-hidden="true"
+  >
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="text-center text-header">Are you still listening?</div>
+          <div class="text-center">
+            <button
+              type="button"
+              class="btn btn-primary"
+              id="startAudioPlayerBtn"
+            >
+              I'm still listening
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+<div id="audioSessionModal" class="modal-window">
+  <div class="audioSessionModal">
+    <div class="audioSessionModal-body">
+      <div class="text-center text-header">Are you still listening?</div>
+      <div class="text-center">
+        <button type="button" class="btn btn-primary" id="startAudioPlayerBtn">
+          I'm still listening
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- start model audioLoginModal -->
+<div id="audioLoginModal" class="modal-window modal-window-allow-calendar">
+  <div class="audioLoginModal">
+    <button id="vip-subscribe-model-x" class="btn btn-primary-outline pull-right"> <i class="fa fa-times-circle fa-2x" aria-hidden="true"></i> </button>
+    <div class="audioLoginModal-body">
+      <div class="text-center text-header">
+        <!-- <p>Thanks for being a returning listener.</p> -->
+                <p id="vip-form-header-message">Thanks for Listening to WSJM Sports! Please register to continue listening. Thank you!</p>
+             </div>
+      <div class="text-center">
+        <!-- <button type="button" class="btn btn-primary" id="audioLoginBtn">
+          Login / Signup
+        </button> -->
+        <!-- <a id="vip-subscribe-model" href="https://www.wabcradio.com/subscribe/" class="btn btn-primary btn-subscribe" role="button">
+          <i class="fa fa-user-circle fa-lg" aria-hidden="true"></i> Subscribe
+        </a>-->
+        <style type="text/css">
+          /* WPB-2736 */
+          .modal-window-allow-calendar {
+            z-index: 1000 !important;
+          }
+        </style>
+              </div>
+    </div>
+  </div>
+</div> <!-- end model audioLoginModal -->				<div id="client_ip" style="display:none">
+					1678011414				</div>
+				<div id="client_ua" style="display:none">
+					python-requests/2.24.0				</div>
+        <div id="client_signature" style="display:none">
+					7ad6fd5bcfe4c9db7165d321cdf729523d22e615        </div>
+				<div id="is_prod" style="display:none">
+					1        </div>
+    <link rel='stylesheet' id='tabby-print-css'  href='https://www.wsjmsports.com/wp-content/plugins/tabby-responsive-tabs/css/tabby-print.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='powerpress_subscribe_widget_modern-css'  href='https://www.wsjmsports.com/wp-content/plugins/powerpress/css/subscribe-widget.min.css?ver=8.3.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/advertise/modules/stats/assets/track.js?ver=1.0' id='banner-stat-harvester-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/advertise/assets/js/front.js?ver=6.2.1' id='front-advertise-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/advertise/modules/ajax-reload-banners/js/common-banner-reload.js?ver=1.0' id='ajax-common-banner-reload-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/advertise/modules/ajax-reload-banners/js/banner-reload.js?ver=1.1' id='ajax-banner-reload-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-super-gallery/public/inc/js/fingerprint2.js?ver=2.0.5' id='fingerprintjs2-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-super-gallery/public/inc/js/signature.js?ver=1.0.0' id='signature-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.4' id='sharify-counts-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/js/amplitude.min.js?ver=5.0.2' id='wpb-audio-stream-manager-amplitude-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/js/select2.min.js?ver=4.0.6' id='wpb-audio-stream-manager-select2-js-js'></script>
+<script type='text/javascript' id='wpb-audio-stream-manager-js-extra'>
+/* <![CDATA[ */
+var site_info = {"url":"https:\/\/www.wsjmsports.com","id":"976"};
+var station_info = [];
+var player_setting = [""];
+var ima_ad_tag_url = "0";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-audio-stream-manager/public/js/wpb-audio-stream-manager-public.js?ver=1.0.5' id='wpb-audio-stream-manager-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/vendors/excanvas.js?ver=1.3.5.0' id='weblator_polling-excanvas-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/vendors/Chart.min.js?ver=1.3.5.0' id='weblator_polling-chartjs-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/fingerprint2.js?ver=1.3.5.0' id='fingerprintjs2-js-poll-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/weblator_polling/public/assets/js/signature.js?ver=1.3.5.0' id='signature-js-poll-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wcp-openweather/assets/js/customize.js?ver=5.5.1' id='rpw-gm-customize-js'></script>
+<script type='text/javascript' src='https://sdk.amazonaws.com/js/aws-sdk-2.239.1.min.js?ver=5.5.1' id='aws.sdk.kcl-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.jplayer.js?v=11202017c&#038;ver=2.9.2' id='jquery.jplayer-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.android-adapter-fix.js?v=11202017c&#038;ver=2.3' id='jquery.jplayer.android-js'></script>
+<script type='text/javascript' id='jquery.jplayer-init-js-extra'>
+/* <![CDATA[ */
+var JPlayer = {"swfPath":"https:\/\/www.wsjmsports.com\/wp-content\/plugins\/wpb-show-core\/modules\/jplayer\/assets\/","playlists":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.jplayer-init.js?v=05062020c&#038;ver=2.4.0' id='jquery.jplayer-init-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/js/bootstrap.min.js?ver=3.3.4' id='bootstrapjs-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/js/common.js?ver=1.0' id='theme-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/js-dev/responsive-scripts.js?ver=3.3.4' id='responsive-scripts-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/themes/004-itmwpb/inc/js/jquery.touchSwipe.min.js?ver=1.3.3' id='jquery.touchSwipe-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-slider/assets/js/caroufredsel/jquery.carouFredSel-6.2.1-packed.js?ver=1.0' id='carouFredSel-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-slider/assets/js/wpb-slider-common.js?ver=1.1.1' id='wpb-slider-common-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/library/angular-utils-pagination/dirPagination.js?ver=1.0.0' id='closing_dashboard_front_pagination_js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/library/angularjs-dropdown-multiselect.min.js?ver=1.0.0' id='closing_dashboard_multiple_select_js-js'></script>
+<script type='text/javascript' id='closing_dashboard_front_app_js-js-extra'>
+/* <![CDATA[ */
+var site_url = "https:\/\/www.wsjmsports.com";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/js/app-front.js?ver=1.0.0' id='closing_dashboard_front_app_js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/entity-closing-lite/js/routes-front.js?ver=1.0.0' id='closing_dashboard_front_routes_js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-gdpr/frontend/js/magnific_1.js?ver=5.5.1' id='magnific-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/wpb-banner-light-window/featherlight-1.2.3/release/featherlight.min.js?ver=1.2.6' id='bannerlightwindow-script-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/common_functions.js?ver=1.0' id='common-funcs-js-js'></script>
+<script type='text/javascript' src='https://www.wsjmsports.com/wp-content/plugins/tabby-responsive-tabs/js/tabby.js?ver=1.2.3' id='tabby-js'></script>
+
+<script>jQuery(document).ready(function($) { RESPONSIVEUI.responsiveTabs(); })</script>
+
+<!-- common frontend footer code put here -->
+<script type="text/javascript">
+    jQuery(".searchform .button").attr('name', 'btn_search_submit');
+    //var $body_chk = jQuery('body'); alert($body_chk.attr('class'));
+    //alert(site_GlobalArr["siteURL"]+ ' >> ' +site_GlobalArr['pageFlag']);
+</script>
+</body>
+</html>
+
+
+<!-- Dynamic page generated in 0.206 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-10-17 21:45:25 -->
+
+<!-- Compression = gzip -->

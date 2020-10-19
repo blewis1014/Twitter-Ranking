@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title>NASA: un asteroide &quot;potenzialmente pericoloso&quot; volerà sulla Terra questa settimana - politic News</title>
+	<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="https://politicsnewspro.com/wp-content/themes/hotnews/apple-touch-icon.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="pingback" href="https://politicsnewspro.com/xmlrpc.php" />
+	
+	<!-- This site is optimized with the Yoast SEO plugin v14.8.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="NASA: un asteroide &quot;potenzialmente pericoloso&quot; volerà sulla Terra questa settimana - politic News" />
+	<meta property="og:description" content="Dovrebbe passare a circa 4 milioni di miglia di distanza (Science Photo Library) La NASA è costantemente alla ricerca di asteroidi che potrebbero essere potenzialmente letali sulla Terra. Questi cosiddetti &#8220;oggetti vicini alla Terra&#8221; (oggetti vicini alla Terra) devono superare una certa soglia per essere considerati &#8220;potenzialmente pericolosi&#8221;. E gli esperti dell&#8217;agenzia spaziale americana affermano [&hellip;]" />
+	<meta property="og:url" content="https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/" />
+	<meta property="og:site_name" content="politic News" />
+	<meta property="article:published_time" content="2020-03-24T03:51:22+00:00" />
+	<meta property="og:image" content="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78479991_1584962631.jpg?quality=90&#038;strip=all&#038;w=1200&#038;h=630&#038;crop=1&#038;zoom=1&#038;ssl=1" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78479991_1584962631.jpg?quality=90&amp;strip=all&amp;w=1200&amp;h=630&amp;crop=1&amp;zoom=1&amp;ssl=1" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://politicsnewspro.com/#website","url":"https://politicsnewspro.com/","name":"politic News","description":"","potentialAction":[{"@type":"SearchAction","target":"https://politicsnewspro.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/#primaryimage","inLanguage":"en-US","url":"https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78479991_1584962631.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1"},{"@type":"WebPage","@id":"https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/#webpage","url":"https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/","name":"NASA: un asteroide \"potenzialmente pericoloso\" voler\u00e0 sulla Terra questa settimana - politic News","isPartOf":{"@id":"https://politicsnewspro.com/#website"},"primaryImageOfPage":{"@id":"https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/#primaryimage"},"datePublished":"2020-03-24T03:51:22+00:00","dateModified":"2020-03-24T03:51:22+00:00","author":{"@id":"https://politicsnewspro.com/#/schema/person/86896c07301421bb6f1dec96df693922"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://metro.co.uk/2020/03/23/nasa-potentially-hazardous-asteroid-will-skim-earth-53000mph-week-12441997/"]}]},{"@type":"Person","@id":"https://politicsnewspro.com/#/schema/person/86896c07301421bb6f1dec96df693922","name":"admin","image":{"@type":"ImageObject","@id":"https://politicsnewspro.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/8b393cf88869a72235ef28db2d1b66ab?s=96&d=mm&r=g","caption":"admin"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="politic News &raquo; Feed" href="https://politicsnewspro.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="politic News &raquo; Comments Feed" href="https://politicsnewspro.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="politic News &raquo; NASA: un asteroide &#8220;potenzialmente pericoloso&#8221; volerà sulla Terra questa settimana Comments Feed" href="https://politicsnewspro.com/2020/03/24/nasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/politicsnewspro.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://politicsnewspro.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_automatic_gallery_style-css'  href='https://politicsnewspro.com/wp-content/plugins/wp-automatic/css/wp-automatic.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_review-style-css'  href='https://politicsnewspro.com/wp-content/plugins/wp-review/public/css/wp-review.css?ver=5.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mts-fontawesome-css'  href='https://politicsnewspro.com/wp-content/themes/hotnews/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='https://politicsnewspro.com/wp-content/themes/hotnews/style.css?ver=5.4.2' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+		body {background-color:#eeeeee; }
+		body {background-image: url(https://politicsnewspro.com/wp-content/themes/hotnews/images/nobg.png);}
+		#navigation .menu [class^='icon-']:hover:before, #navigation .sfHover > a, #navigation .menu [class*=' icon-']:hover:before, #navigation .menu ul [class^='icon-']:hover:before, #navigation .menu ul [class*=' icon-']:hover:before, .post-info-home, .single .post-info, #navigation ul > .current-menu-item:before, #navigation ul > .current_page_item:before, #navigation ul .current-menu-item > a, #navigation ul > li:hover:before, .secondary-navigation li:hover > a, .postauthor h5, .copyrights a, .single_post a:not(.wp-block-button__link):not(.wp-block-file__button), .textwidget a, #logo a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .post-info a:hover,.comm, .readMore a:hover, .fn a:hover, a, a:hover, .grid .post-info, .grid .post-info a, #navigation ul .current-menu-item:after, #navigation ul .current-post-parent:after, #navigation ul li:hover:after { color:#ff4545; }
+		.sbutton, #searchsubmit, .pagination  .nav-previous a:hover, #load-posts a, .pagination .nav-next a:hover, .reply a, #commentform input#submit, .contactform #submit, .mts-subscribe input[type='submit'], #move-to-top, #searchform .icon-search, .currenttext, .pagination a:hover, .single .pagination a:hover .currenttext, .tagcloud a, input[type='submit'], a#pull, .widget_tabs2 .tab_title a:hover, .widget_tabs2 .tab_title.selected a, .widget_tabs2 .pagination a, .pace .pace-progress, .flex-direction-nav a:hover { background-color:#ff4545; color: #fff!important; }
+		.flex-control-thumbs .flex-active{ border-top:3px solid #ff4545;}
+		#navigation > ul > .current-menu-item a, #navigation > ul > .current-post-parent a, .cat-posts, .latest-posts, .sidebar .widget h3, .pagination a, input[type='submit'], #load-posts a { border-color: #ff4545;}
+		.secondary-navigation { background-color:#010101; }
+		.main-header, #navigation > ul > .current-menu-item > a, #navigation > ul > .current-post-parent > a, #navigation > ul > li:hover > a {background-color:#FFFFFF; background-image: url(https://politicsnewspro.com/wp-content/themes/hotnews/images/nobg.png);}
+		#navigation > ul > .current-menu-item > a, #navigation > ul > .current-post-parent > a, #navigation > ul > li:hover > a { background-color:#FFFFFF; }
+		footer {background-color:#FFFFFF; background-image: url(https://politicsnewspro.com/wp-content/themes/hotnews/images/nobg.png);}
+		
+		
+		.shareit { top: 282px; left: auto; z-index: 0; margin: 0 0 0 -123px; width: 90px; position: fixed; overflow: hidden; padding: 5px; border:none; border-right: 0;}
+		.share-item {margin: 2px;}
+		
+		.bypostauthor {padding: 3%!important; background: #FAFAFA; width: 94%!important; border: 1px solid #EEEEEE !important}
+		.bypostauthor:after { content: "Author"; position: absolute; right: -1px; top: -1px; padding: 1px 10px; background: #818181; color: #FFF; }
+		
+		
+		
+		
+			
+</style>
+<link rel='stylesheet' id='responsive-css'  href='https://politicsnewspro.com/wp-content/themes/hotnews/css/responsive.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-content/plugins/wp-automatic/js/main-front.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-content/themes/hotnews/js/customscript.js?ver=5.4.2'></script>
+<link rel='https://api.w.org/' href='https://politicsnewspro.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://politicsnewspro.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://politicsnewspro.com/wp-includes/wlwmanifest.xml" /> 
+<!--Theme by MyThemeShop.com-->
+<link rel='shortlink' href='https://politicsnewspro.com/?p=5485' />
+<link rel="alternate" type="application/json+oembed" href="https://politicsnewspro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpoliticsnewspro.com%2F2020%2F03%2F24%2Fnasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://politicsnewspro.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpoliticsnewspro.com%2F2020%2F03%2F24%2Fnasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana%2F&#038;format=xml" />
+<link rel="preconnect" href="https://cdnjs.cloudflare.com"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>		<script type="text/javascript">
+			var _statcounter = _statcounter || [];
+			_statcounter.push({"tags": {"author": "admin"}});
+		</script>
+		<link href="https://fonts.googleapis.com/css?family=Dosis:700|Droid+Sans:normal" rel="stylesheet" type="text/css">
+<style type="text/css">
+.text-logo a{ font-family: 'Dosis'; font-weight: 700; font-size: 38px; color: ; }
+.site-description{ font-family: 'Droid Sans'; font-weight: normal; font-size: 14px; color: #555555; }
+.menu li a, .menu li{ font-family: 'Dosis'; font-weight: 700; font-size: 16px; color: #555555; }
+h1{ font-family: 'Dosis'; font-weight: 700; font-size: 28px; color: #222222; }
+h2{ font-family: 'Dosis'; font-weight: 700; font-size: 24px; color: #222222; }
+h3{ font-family: 'Dosis'; font-weight: 700; font-size: 22px; color: #222222; }
+h4{ font-family: 'Dosis'; font-weight: 700; font-size: 20px; color: #222222; }
+h5{ font-family: 'Dosis'; font-weight: 700; font-size: 18px; color: #222222; }
+h6{ font-family: 'Dosis'; font-weight: 700; font-size: 16px; color: #222222; }
+body{ font-family: 'Droid Sans'; font-weight: normal; font-size: 14px; color: #555555; }
+.f-widget{ font-family: 'Droid Sans'; font-weight: normal; font-size: 14px; color: #8D8D8D; }
+footer .widget li a{ font-family: 'Droid Sans'; font-weight: normal; font-size: 14px; color: #666666; }
+</style>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+<body id ="blog" class="post-template-default single single-post postid-5485 single-format-standard main" itemscope itemtype="http://schema.org/WebPage">
+	<div class="main-container-wrap">
+		<header class="main-header">
+							<div class="secondary-navigation">
+					<nav id="navigation" class="clearfix">
+						<a href="#" rel="nofollow" id="pull" class="toggle-mobile-menu">Menu</a>
+													<ul id="menu-menu" class="menu clearfix"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-13"><a href="https://politicsnewspro.com">Home</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="https://politicsnewspro.com/category/asia-news/">Asia news</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="https://politicsnewspro.com/category/europe-news/">Europe news</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-25"><a href="https://politicsnewspro.com/category/latest-news/">Latest News</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="https://politicsnewspro.com/category/sports-news/">Sports News</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://politicsnewspro.com/category/usa-news/">USA news</a></li>
+</ul>											</nav>
+				</div>
+			   
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																					  <h2 id="logo" class="text-logo">
+										<a href="https://politicsnewspro.com">politic News</a>
+									</h2><!-- END #logo -->
+														<div class="site-description">
+															</div>
+											</div>
+					     
+				</div><!--#header-->
+			</div><!--.container-->        
+		</header>
+		<div class="main-container"><div id="page" class="single">
+	<article class="article">
+		<div id="content_box" >
+			<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+				<div id="post-5485" class="g post post-5485 type-post status-publish format-standard has-post-thumbnail hentry category-latest-news tag-asteroide tag-nasa tag-pericoloso tag-potenzialmente tag-questa tag-settimana tag-sulla tag-terra tag-volera has_thumb">
+					<div class="single_post">
+						<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList"><div itemprop="itemListElement" itemscope
+	      itemtype="https://schema.org/ListItem" class="root"><a href="https://politicsnewspro.com" itemprop="item"><span itemprop="name"><i class="icon-home"></i> Home</span><meta itemprop="position" content="1" /></a></div><div class="seperator">&nbsp;>&nbsp;</div><div itemprop="itemListElement" itemscope
+				      itemtype="https://schema.org/ListItem"><a href="https://politicsnewspro.com/category/latest-news/" itemprop="item"><span itemprop="name">Latest News</span><meta itemprop="position" content="2" /></a></div><div class="seperator">&nbsp;>&nbsp;</div><div itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">NASA: un asteroide &#8220;potenzialmente pericoloso&#8221; volerà sulla Terra questa settimana</span><meta itemprop="position" content="3" /></div></div>						<header>
+							<h1 class="single-title">NASA: un asteroide &#8220;potenzialmente pericoloso&#8221; volerà sulla Terra questa settimana</h1>
+															<div class="post-info">
+																			<span class="theauthor"><i class="icon-user"></i> <a href="https://politicsnewspro.com/author/admin/" title="Posts by admin" rel="author">admin</a></span>
+																												<span class="thetime updated"><i class="icon-calendar"></i> March 24, 2020</span>
+																												<span class="thecategory"><i class="icon-tags"></i> <a href="https://politicsnewspro.com/category/latest-news/" rel="category tag">Latest News</a></span>
+																												<span class="thecomment"><i class="icon-comments"></i> <a rel="nofollow" href="https://politicsnewspro.com/2020/03/24/nasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana/#respond">No Comments</a></span>
+																	</div>
+													</header><!--.headline_area-->
+												<div class="post-single-content box mark-links">
+														<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div>
+<div class='code-block code-block-5' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<figure class="alignnone img-container shareable-item" style="max-width:540px">
+<div class="img-wrap">
+<a target="_blank" id="share-item-0-683" class="anchor" rel="noopener noreferrer"><br />
+<img width="644" height="483" data-rsz="shrink" src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78479991.jpg?quality=90&#038;strip=all&#038;zoom=1&#038;resize=644%2C483&#038;ssl=1" alt="Opera di un asteroide e del pianeta terra." class="wp-image-10505635"/></div><figcaption>Dovrebbe passare a circa 4 milioni di miglia di distanza (Science Photo Library)</figcaption></figure>
+<p>La NASA è costantemente alla ricerca di asteroidi che potrebbero essere potenzialmente letali sulla Terra. </p><div class='code-block code-block-3' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<p>Questi cosiddetti &#8220;oggetti vicini alla Terra&#8221; (oggetti vicini alla Terra) devono superare una certa soglia per essere considerati &#8220;potenzialmente pericolosi&#8221;.</p>
+<p>E gli esperti dell&#8217;agenzia spaziale americana affermano che c&#8217;è una pietra del genere sul radar per questa settimana. L&#8217;asteroide XA133 del 2012 dovrebbe passare la Terra giovedì 26 marzo ad una velocità di 53.000 mph.</p>
+<p>L&#8217;asteroide è largo circa 1.280 piedi (390 m), il che è abbastanza per causare un impatto maggiore sulla Terra in una collisione con il pianeta. Fortunatamente, gli ingegneri della NASA calcolano che la traiettoria dell&#8217;asteroide la supererà senza problemi.</p>
+<p>Si ritiene che passi a 0,04453 unità astronomiche (AU) o circa 4,1 milioni di miglia dal centro della Terra. Una singola UA descrive la distanza dalla Terra al sole &#8211; circa 150 milioni di chilometri.</p>
+<p>&#8220;Mentre gravitano attorno al Sole, i NEO a volte possono avvicinarsi alla Terra&#8221;, ha detto la NASA.</p>
+<figure class="alignnone img-container shareable-item" style="max-width:540px">
+<div class="img-wrap">
+<a target="_blank" id="share-item-0-601" class="anchor" rel="noopener noreferrer"><br />
+<img width="540" height="486" data-rsz="shrink" src="https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/07/Screenshot-2019-07-17-at-13.13.01-1f1d.png?quality=90&#038;strip=all&#038;zoom=1&#038;resize=540%2C486&#038;ssl=1" alt="Una vista dell'asteroide del pianeta Terra che brilla minuscola e vulnerabile nell'oscurità oscura dello spazio (Immagine: ESA)" class="wp-image-10387368"/></div><figcaption>La NASA lo chiama un oggetto vicino alla Terra (ESA)</figcaption></figure>
+<p>&#8220;Si noti che un passaggio&#8221; vicino &#8220;astronomicamente può essere molto lontano in termini umani: milioni o addirittura decine di milioni di chilometri.&#8221;</p>
+<p>Oltre alla NASA, l&#8217;Agenzia spaziale europea (ESA) segue anche l&#8217;asteroide. In effetti è uno dei sei che sono seguiti dal passaggio della Terra questa settimana, ma è l&#8217;unico a rientrare nella categoria &#8220;potenzialmente pericoloso&#8221;.</p>
+<p>&#8220;Gli asteroidi potenzialmente pericolosi (PHA) sono attualmente definiti sulla base di parametri che misurano il potenziale dell&#8217;asteroide di avvicinarsi minacciosamente alla Terra&#8221;, ha affermato la NASA.</p>
+<p>&#8220;Ogni giorno, un centinaio di tonnellate di materiale interplanetario si spostano sulla superficie della Terra&#8221;, ha dichiarato il Center for Near-Earth Object Studies (CNEOS) della NASA.</p>
+<p>&#8220;La maggior parte delle più piccole particelle interplanetarie che raggiungono la superficie terrestre sono le minuscole particelle di polvere che vengono rilasciate dalle comete quando il loro ghiaccio si vaporizza in prossimità del sole.</p>
+<figure class="alignnone img-container shareable-item" style="max-width:540px">
+<div class="img-wrap">
+<a target="_blank" id="share-item-0-971" class="anchor" rel="noopener noreferrer"><br />
+<img width="540" height="362" data-rsz="shrink" src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/06/SEI_72531881.jpg?quality=90&#038;strip=all&#038;zoom=1&#038;resize=540%2C362&#038;ssl=1" alt="Frammenti di asteroidi colpiscono la Terra continuamente senza alcun danno evidente (Getty Images)" class="wp-image-10078675"/></div><figcaption>Frammenti di asteroidi colpiscono la Terra continuamente senza alcun danno evidente (Getty Images)</figcaption></figure>
+<p>&#8220;La stragrande maggioranza dei più grandi materiali interplanetari che raggiungono la superficie terrestre provengono da frammenti di collisione di asteroidi che si sono incontrati eoni fa.&#8221; </p>
+<p>L&#8217;agenzia fornisce dettagli su cosa accadrebbe se una di queste rocce ci colpisse: &#8220; Con un intervallo medio di circa 10000 anni, gli asteroidi rocciosi o di ferro di oltre 100 metri dovrebbero raggiungere la superficie della terra. e causare catastrofi locali o produrre maremoti che possono allagare le zone costiere basse. &#8220;</p>
+<figure class="alignnone img-container shareable-item" style="max-width:540px">
+<div class="img-wrap">
+<a target="_blank" id="share-item-0-252" class="anchor" rel="noopener noreferrer"><br />
+<img width="540" height="341" data-rsz="shrink" src="https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/06/SEI_72531790.jpg?quality=90&#038;strip=all&#038;zoom=1&#038;resize=540%2C341&#038;ssl=1" alt="Asteroide, computer grafica." class="wp-image-9840646"/></div><figcaption>La NASA e l&#8217;ESA monitorano costantemente gli asteroidi (Science Photo Library)</figcaption></figure>
+<p>&#8220;In media ogni centinaia di migliaia di anni, gli asteroidi più grandi di un chilometro potrebbero causare disastri globali. In questo caso, i detriti da impatto si diffonderebbero nell&#8217;atmosfera terrestre, cosicché la vita delle piante soffrirebbe di piogge acide, blocco parziale della luce solare e tempeste provocate da detriti dalla terra. forte impatto che ricadrebbe sulla superficie terrestre. </p>
+<p>&#8220;Mentre la loro traiettoria orbitale attraversa spesso quella della Terra, in passato si sono verificate collisioni con oggetti vicini alla Terra e dobbiamo stare attenti alla possibilità di futuri approcci vicini alla Terra. Sembra prudente raddoppiare gli sforzi per scoprire e studiare questi oggetti, caratterizzarne dimensioni, composizioni e strutture e tenere d&#8217;occhio le loro traiettorie future. &#8220;</p>
+<p>					<!-- Article below content widget area --></p></div>
+<p><script></p>
+<p>				window.fbApi = (function () {</p>
+<p>					var fbApiInit = false;
+					var awaitingReady = [];</p>
+<p>					var notifyQ = function () {
+						var i = 0,
+							l = awaitingReady.length;
+						for (i = 0; i < l; i++) {
+							awaitingReady[i]();
+						}
+					};
+
+					var ready = function (cb) {
+						if (fbApiInit) {
+							cb();
+						} else {
+							awaitingReady.push(cb);
+						}
+					};
+
+					var checkLoaded = function () {
+						return fbApiInit;
+					};
+
+					window.fbAsyncInit = function () {
+						FB.init({
+							appId: '176908729004638',
+							xfbml: true,
+							version: 'v2.10'
+						});
+
+						fbApiInit = true;
+						notifyQ();
+					};
+
+					return {
+						'ready'  : ready,
+						'loaded' : checkLoaded
+					};
+
+				})();
+
+				(function () {
+					function injectFBSDK() {
+						if ( window.fbApi &#038;&#038; window.fbApi.loaded() ) return;
+
+						var d = document,
+							s = 'script',
+							id = 'facebook-jssdk';
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) {
+							return;
+						}
+						js = d.createElement(s);
+						js.id = id;
+						js.async = true;
+						js.src = "https://connect.facebook.net/en_US/sdk.js";
+						fjs.parentNode.insertBefore(js, fjs);
+					}
+
+					/**
+					 * Only load fb sdk if we have GDPR consent or CMP is not required
+					 */
+					(window.requireConsent || Promise.resolve()).then(function(hasConsent) {
+						if (hasConsent) {
+							if ('object' === typeof metro) {
+								window.addEventListener('metro:scroll', injectFBSDK, {once: true});
+							} else {
+								window.addEventListener('DOMContentLoaded', injectFBSDK, {once: true});
+							}
+						}
+					});
+				})();
+
+			</script></p>
+<div class='code-block code-block-7' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<!-- AI CONTENT END 2 -->
+																																					<!-- Start Share Buttons -->
+								<div class="shareit">
+																			<!-- Twitter -->
+										<span class="share-item twitterbtn">
+											<a href="https://twitter.com/share" class="twitter-share-button" data-via="">Tweet</a>
+										</span>
+																												<!-- GPlus -->
+										<span class="share-item gplusbtn">
+											<g:plusone size="medium"></g:plusone>
+										</span>
+																												<!-- Facebook -->
+										<span class="share-item facebookbtn">
+											<div id="fb-root"></div>
+											<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
+										</span>
+																																														<!-- Pinterest -->
+										<span class="share-item pinbtn">
+											<a href="https://pinterest.com/pin/create/button/?url=https://politicsnewspro.com/2020/03/24/nasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana/&media=https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/08/PRI_78479991_1584962631.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1&description=NASA: un asteroide &#8220;potenzialmente pericoloso&#8221; volerà sulla Terra questa settimana" class="pin-it-button" count-layout="horizontal">Pin It</a>
+										</span>
+																	</div>
+								<!-- end Share Buttons -->
+																												</div>
+					</div><!--.post-content box mark-links-->
+											<!-- Start Related Posts -->
+						<div class="related-posts"><div class="postauthor-top"><h3>Related Posts</h3></div><ul>							<li class=" relatepostli2">
+								<a class="relatedthumb" href="https://politicsnewspro.com/2020/03/10/litalia-e-stata-colpita-dal-terremoto-dopo-che-il-paese-e-stato-bloccato/" title="L&#8217;Italia è stata colpita dal terremoto dopo che il paese è stato bloccato">
+									<span class="rthumb">
+																					<img fifu-featured="1" width="1" height="1" src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/03/PRC_146233451_1583856749.jpg?quality=90&amp;strip=all&amp;w=1200&amp;h=630&amp;crop=1&amp;zoom=1&amp;ssl=1" class="attachment-related size-related wp-post-image" alt="" title="" title="" title="" />																			</span>
+									<span>
+										L&#8217;Italia è stata colpita dal terremoto dopo che il paese è stato bloccato									</span>
+								</a>
+								<span class="rtext">
+									I residenti hanno riferito di avere tremori nel terreno (Foto: Daily Mail / Getty / Reuters) L&#8217;Italia ha avvertito i tremori di un								</span>
+							</li>
+														<li class=" relatepostli3">
+								<a class="relatedthumb" href="https://politicsnewspro.com/2020/03/17/charlie-cooper-di-questo-paese-rivela-che-ha-sicuramente-il-coronavirus/" title="Charlie Cooper di questo paese rivela che &#8220;ha sicuramente il coronavirus&#8221;">
+									<span class="rthumb">
+																					<img fifu-featured="1" width="1" height="1" src="https://i2.wp.com/metro.co.uk/wp-content/uploads/2020/03/comp-1584476281_1584476502.png?w=1200&amp;h=630&amp;crop=1&amp;quality=90&amp;strip=all&amp;zoom=1&amp;ssl=1" class="attachment-related size-related wp-post-image" alt="" title="" title="" title="" />																			</span>
+									<span>
+										Charlie Cooper di questo paese rivela che &#8220;ha sicuramente il coronavirus&#8221;									</span>
+								</a>
+								<span class="rtext">
+									Charlie Cooper ha rivelato di avere il coronavirus (Foto: Getty) La star country Charlie Cooper ha detto che &#8220;è venuto giù con un								</span>
+							</li>
+							</ul></div>						<!-- .related-posts -->
+																<div class="postauthor">
+							<h4>About The Author</h4>
+							<img alt='' src='https://secure.gravatar.com/avatar/8b393cf88869a72235ef28db2d1b66ab?s=75&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8b393cf88869a72235ef28db2d1b66ab?s=150&#038;d=mm&#038;r=g 2x' class='avatar avatar-75 photo' height='75' width='75' />							<h5><a href="https://politicsnewspro.com/author/admin/">admin</a></h5>
+							<p></p>
+						</div>
+									</div><!--.g post-->
+				<!-- You can start editing here. -->
+<!-- If comments are open, but there are no comments. -->
+
+	<div id="commentsAdd">
+		<div id="respond" class="box m-t-6">
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><h4><span>Leave a Reply</span></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/03/24/nasa-un-asteroide-potenzialmente-pericoloso-volera-sulla-terra-questa-settimana/?utm_source=ReviveOldPost&amp;utm_medium=social&amp;utm_campaign=ReviveOldPost%0A#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://politicsnewspro.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="comment-form-author"><label style="display:none" for="author">Name<span class="required"></span></label><input id="author" name="author" type="text" placeholder="Name" value="" size="30" /></p>
+<p class="comment-form-email"><label style="display:none" for="email">Email<span class="required"></span></label><input id="email" name="email" type="text" placeholder="Email" value="" size="30" /></p>
+<p class="comment-form-url"><label style="display:none" for="url">Website</label><input id="url" name="url" type="text" placeholder="Website" value="" size="30" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit Comment" /> <input type='hidden' name='comment_post_ID' value='5485' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+			</div>
+	</div>
+			<div class='code-block code-block-4' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>
+	</article>
+	<aside class="sidebar c-4-12">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+			<ul class="sidebar_list">
+				<div id="search-2" class="widget widget_search"><form method="get" id="searchform" class="search-form" action="https://politicsnewspro.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="Search the site" x-webkit-speech="x-webkit-speech" >
+		<input id="search-image" class="sbutton" type="submit" value="Search">
+	</fieldset>
+</form></div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://politicsnewspro.com/2020/10/17/coronavirus-la-mini-quarantena-di-10-giorni-libera-subito-40mila-italiani-asintomatici-chi-apre-anche/">Coronavirus, la mini-quarantena di 10 giorni libera subito 40mila italiani asintomatici.  CHI apre anche</a>
+									</li>
+											<li>
+					<a href="https://politicsnewspro.com/2020/10/17/coronavirus-ultime-notizie-in-italia-1-585-nuovi-casi-e-13-morti-tamponi-in-aumento/">Coronavirus, ultime notizie.  In Italia 1.585 nuovi casi e 13 morti.  Tamponi in aumento</a>
+									</li>
+											<li>
+					<a href="https://politicsnewspro.com/2020/10/17/ultime-notizie-sul-coronavirus-lega-serie-a-chiarezza-sulla-riapertura-degli-stadi-trump-vaccino-in-aprile-francia-13mila-nuovi-casi-ce-anche-il-ministro-le-maire/">Ultime notizie sul coronavirus.  Lega Serie A: &#8220;Chiarezza sulla riapertura degli stadi&#8221;.  Trump: &#8220;Vaccino in aprile&#8221;.  Francia, 13mila nuovi casi: c&#8217;è anche il ministro Le Maire</a>
+									</li>
+											<li>
+					<a href="https://politicsnewspro.com/2020/10/17/dai-treni-pendolari-agli-autobus-come-verranno-potenziati-i-trasporti-per-lautunno/">Dai treni pendolari agli autobus, come verranno potenziati i trasporti per l&#8217;autunno</a>
+									</li>
+											<li>
+					<a href="https://politicsnewspro.com/2020/10/17/trasporto-locale-il-30-delle-aziende-non-ha-ancora-attivato-i-rimborsi-covid-19/">Trasporto locale, il 30% delle aziende non ha ancora attivato i rimborsi Covid-19</a>
+									</li>
+					</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Claudio Boschini</span> on <a href="https://politicsnewspro.com/2020/10/17/lue-si-mobilita-per-le-pmi-colpite-dalla-pandemia-di-coronavirus/#comment-11711">L&#8217;Ue si mobilita per le pmi colpite dalla pandemia di coronavirus</a></li><li class="recentcomments"><span class="comment-author-link">WhiteAngel1985</span> on <a href="https://politicsnewspro.com/2020/10/17/lue-si-mobilita-per-le-pmi-colpite-dalla-pandemia-di-coronavirus/#comment-11710">L&#8217;Ue si mobilita per le pmi colpite dalla pandemia di coronavirus</a></li><li class="recentcomments"><span class="comment-author-link">Carlos Gonzalez</span> on <a href="https://politicsnewspro.com/2020/10/17/lue-si-mobilita-per-le-pmi-colpite-dalla-pandemia-di-coronavirus/#comment-11709">L&#8217;Ue si mobilita per le pmi colpite dalla pandemia di coronavirus</a></li><li class="recentcomments"><span class="comment-author-link">pi gi</span> on <a href="https://politicsnewspro.com/2020/10/17/ue-fumata-nera-sulle-nomine-vertice-sospeso-si-riprende-domani/#comment-11693">Ue, fumata nera sulle nomine, vertice sospeso. Si riprende domani</a></li><li class="recentcomments"><span class="comment-author-link">fabioshire97</span> on <a href="https://politicsnewspro.com/2020/10/17/ue-fumata-nera-sulle-nomine-vertice-sospeso-si-riprende-domani/#comment-11692">Ue, fumata nera sulle nomine, vertice sospeso. Si riprende domani</a></li></ul></div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+				<li class="cat-item cat-item-3"><a href="https://politicsnewspro.com/category/asia-news/">Asia news</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://politicsnewspro.com/category/europe-news/">Europe news</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://politicsnewspro.com/category/latest-news/">Latest News</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://politicsnewspro.com/category/sports-news/">Sports News</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://politicsnewspro.com/category/tipi-di-insalata/">Tipi Di Insalata</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://politicsnewspro.com/category/usa-news/">USA news</a>
+</li>
+		</ul>
+			</div><div id="pages-2" class="widget widget_pages"><h3 class="widget-title">Pages</h3>		<ul>
+			<li class="page_item page-item-9"><a href="https://politicsnewspro.com/about-us/">About us</a></li>
+<li class="page_item page-item-7"><a href="https://politicsnewspro.com/content-us/">content us</a></li>
+<li class="page_item page-item-5"><a href="https://politicsnewspro.com/privacy-policy-2/">Privacy Policy</a></li>
+		</ul>
+			</div>			</ul>
+		</div>
+	</div><!--sidebars-->
+</aside>	</div><!--#page-->
+</div><!--.main-container-->
+<footer>
+	<div class="footerTop">
+		<div class="container">
+			<div class="footer-widgets col3">
+				<div class="f-widget f-widget-1">
+									</div>
+				<div class="f-widget f-widget-2">
+									</div>
+				<div class="f-widget f-widget-3 last">
+									</div>
+							</div><!--.footer-widgets-->
+		</div><!--.container-->
+	</div>
+	<div class="copyrights">
+		<!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href="https://politicsnewspro.com/" title="" rel="nofollow">politic News</a> Copyright &copy; 2020.</span>
+<div class="top"></div>
+<div class="top">Theme by <a href="http://mythemeshop.com/">MyThemeShop</a>.</div>
+</div>
+<!--end copyrights-->
+	</div> 
+</footer><!--footer-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- kare -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3275537292971702"
+     data-ad-slot="7089367705"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>		<!-- Start of StatCounter Code -->
+		<script>
+			<!--
+			var sc_project=12201684;
+			var sc_security="9dd367a5";
+			      var sc_invisible=1;
+			var scJsHost = (("https:" == document.location.protocol) ?
+				"https://secure." : "http://www.");
+			//-->
+					</script>
+		
+<script type="text/javascript"
+				src="https://secure.statcounter.com/counter/counter.js"
+				async></script>		<noscript><div class="statcounter"><a title="web analytics" href="https://statcounter.com/"><img class="statcounter" src="https://c.statcounter.com/12201684/0/9dd367a5/1/" alt="web analytics" /></a></div></noscript>
+		<!-- End of StatCounter Code -->
+		<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-content/plugins/wp-review/public/js/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/wp-util.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"https:\/\/politicsnewspro.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-content/plugins/wp-review/public/js/main.js?ver=5.3.3'></script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fifuImageVars = {"fifu_lazy":"","fifu_woo_lbox_enabled":"1","fifu_woo_zoom":"inline","fifu_is_product":"","fifu_rest_url":"https:\/\/politicsnewspro.com\/wp-json\/","fifu_nonce":"331a162ae7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://politicsnewspro.com/wp-content/plugins/featured-image-from-url/includes/html/js/image.js?ver=3.2.9'></script>
+</div><!--.main-container-wrap-->
+</body>
+</html>

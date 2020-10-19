@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    
+    <title>404 | Spot The Station | NASA</title>
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300|Lato:300italic,400,700,400italic' rel='stylesheet' type='text/css'>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    
+	<link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link href="/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" media="screen and (max-width: 767px)" href="/css/mobile.css">
+    <link rel="stylesheet" media="screen and (min-width: 768px) and (max-width: 991px)" href="/css/tablet.css">
+    <link rel="stylesheet" media="screen and (min-width: 992px) and (max-width: 1199px)" href="/css/medium.css">
+    <link rel="stylesheet" type="text/css" media="print" href="/css/print.css">     
+    <script language="javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
+  </head>
+  
+  <body>
+  
+  	<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+    
+  	<div class="container-fluid">
+  		
+        <div class="printHeader visible-print-block">
+            <img src="/images/print_nasa.png" class="visible-print-block printNASA" />
+            <img src="/images/print_sts.png" class="visible-print-block printSTS" />
+        </div>
+        
+        <div class="row headerRow">
+        	<nav class="navbar navbar-inverse" role="navigation">
+        	<div class="row header">
+          		<div class="col-md-10 col-xs-12 col-sm-12">
+                	<a href="http://www.nasa.gov" class="nasa_logo hidden-sm hidden-xs"><span class="sr-only">NASA</span></a>
+          			<a href="https://spotthestation.nasa.gov/home.cfm"><h1 class="sts_logo hidden-sm hidden-xs"><span class="sr-only">Spot The Station</span></h1></a>
+                    
+                    <!-- Mobile navigation -->
+                    <div class="navbar-header hidden-md hidden-lg">
+                      <a href="http://www.nasa.gov" class="nasa_logo navbar-brand"><span class="sr-only">NASA</span></a>
+          			  <a href="https://spotthestation.nasa.gov/home.cfm"><h1 class="sts_logo"><span class="sr-only">Spot The Station</span></h1></a>
+                    </div>
+                    
+          		</div>
+
+            </div>
+            <div class="row">
+            	<div class="col-md-12 banner" style="background-image: url(/images/banner1.jpg);"></div>
+                <div class="bannerLogo"></div>
+            </div>
+            </nav>
+        </div>
+        
+        <div class="row">
+            	<ul class="col-md-12 breadcrumb">
+                    <li><a href="https://spotthestation.nasa.gov/home.cfm">Spot The Station</a></li>
+                    <li class="active"><i class="fa fa-chain-broken"></i> Error 404</li>
+                </ul>
+        </div>
+        
+        <div class="row contentRow">
+        <!-- The main page content -->
+            <div class="col-sm-9 col-md-9 content col-sm-push-3 col-md-push-3" id="content" tabindex="-1">
+            	<div class="col-md-11 col-md-offset-1">
+            		<h2><i class="fa fa-chain-broken"></i> Error 404</h2>
+                    <blockquote>Ahh. Houston?</blockquote>
+                    <p>We've lost downlink. The page requested does not exist.</p>
+                    
+            		<p><img src="/images/spacewalk.jpg" class="img-thumbnail img-responsive center-block" alt="Astronaut working on the outside of the ISS." /></p>
+
+                  	<p>Please return to the <a href="https://spotthestation.nasa.gov/home.cfm">Spot The Station homepage</a> to continue your mission.</p>
+                    
+                    <p>Would you like to report an anomoly? Email the team at: <a href="#" onClick="JavaScript:window.location='mailto:'+'SpotTheStation'+'@'+'hq.'+'nasa'+'.gov'" ><i class="fa fa-envelope-o"></i> SpotTheStation@<span style="display:none;">nospam.</span>hq.nasa.gov</a> </p>
+                                     
+                </div>
+                <div class="col-md-12">
+                	<!-- last modified date -->
+                     <p class="lastUpdated"><span>Last Updated: Nov 24, 2015</span></p>
+                </div>
+            </div>
+            
+            <div class="col-sm-3 col-md-3 support_material col-sm-pull-9 col-md-pull-9">
+            
+                <div class="greyCard col-md-12 ISSurls">
+                	<h3>Space Station Website</h3>
+                    <ul class="nav nav-pills nav-stacked">
+                      <li><a href="http://www.nasa.gov/mission_pages/station/main/index.html" target="_blank">Space Station Homepage  <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/mission_pages/station/research/index.html" target="_blank">Research and Technology  <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/mission_pages/station/expeditions/index.html" target="_blank">Crews and Expeditions  <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/mission_pages/station/cooperation/index.html" target="_blank">International Cooperation  <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/launchschedule" target="_blank">Launches <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/mission_pages/station/behindscenes/index.html" target="_blank">Ground Facilities <i class="fa fa-external-link-square"></i></a></li>
+                      <li><a href="http://www.nasa.gov/mission_pages/station/update/index.html" target="_blank">Space to Ground <i class="fa fa-external-link-square"></i></a></li>
+                    </ul>
+        		</div>
+                
+            </div>
+
+        </div>
+               
+        <div class="row footer">
+            <div class="col-md-1 col-xs-3 col-sm-2">
+                <a class="nasa_logo" href="http://www.nasa.gov">
+                  <span class="sr-only">NASA</span>
+                </a>
+            </div>
+            <div class="col-md-3 col-xs-9 editor_official">
+              <span>National Aeronautics and Space Administration</span>
+                <span>Page Editor: Bill Keeter</span>
+              <span>NASA Official: Jacob Keaton</span>
+            </div>
+            <div class="col-md-8 col-xs-12 text-center">
+              <ul class="list-inline">
+                  <li><a href="http://odeo.hq.nasa.gov/nofear.html">No Fear Act</a></li>
+                  <li><a href="http://www.nasa.gov/FOIA">FOIA</a></li>
+                  <li><a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy</a></li>
+                  <li><a href="http://oig.nasa.gov/">Office of Inspector General</a></li>
+                  <li><a href="http://www.nasa.gov/news/budget/index.html">Agency Financial Reports</a></li>
+                  <li><a href="http://www.nasa.gov/about/contact/index.html">Contact NASA</a></li>
+              </ul>
+            </div>
+		</div>
+
+	</div>
+
+  <!-- FOOTER SCRIPTS -->
+
+    <script src="/js/jquery-1.11.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+	
+    <!-- Existing Google Analytics -->
+    <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-35286142-1']);
+          _gaq.push(['_trackPageview']);
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+     </script>
+     
+  </body>
+</html>

@@ -1,0 +1,2398 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en-us" id="ngin2769" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en-us" id="ngin2769" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en-us" id="ngin2769" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en-us" id="ngin2769" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-us" id="ngin2769"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us" id="ngin2769"> <!--<![endif]-->
+<head>
+  <script>
+    ;(function() {
+        window.dataLayer = window.dataLayer || [];
+    })();
+</script>
+    
+      <script src="/javascripts/semparticle.js?1602795083"></script>
+    
+      <script>
+//<![CDATA[
+window.SeMParticle.init({ currentEnv: 'production', platProp: 'ngin', orgId: 2660 })
+//]]>
+</script> 
+
+<!-- Needs to be as high in the <head> of the page as possible -->
+<!-- Google Tag Manager Data Layer -->
+<script>
+
+  ;(function() {
+
+    var displayAds = (false || true);
+
+    var platformDL = {'siteId': '2769', 'siteName': 'Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net',
+                      'siteShortName': 'Wisconsin Sports Network | WisSports.net | WSN', 'sportType': 'multi-sport',
+                      'addrState': 'WI', 'displayAds': displayAds,
+                      'inEditMode': false,
+                      'propertySubSection': 'cms', 'property': 'Ngin'};
+
+    var userDL = {'userName': '',
+                             'userFullName': '', 'userFirstName': '',
+                             'userLastName': '', 'userEmail': '',
+                             'userLoggedIn': false,
+                             'userCreatedAt': '',
+                             'roles': []};
+
+    var quantcastDL = {'quantcastID': 'p-56Ph9bjA0FOcE,p-ceK3YHfRqvV4o,p-6GwLjFYLCPGnq'};
+
+    var elevioAdditionalGroups = ["ngin_super_reg:0", "Ngin:cms"];
+
+    dataLayer.push({'platform': platformDL});
+    dataLayer.push({'org_id': 2660});
+    dataLayer.push({'userUUID': '' });
+    dataLayer.push({'user': userDL});
+    dataLayer.push({'quantcast': quantcastDL});
+    dataLayer.push({'renderIntercom': false});
+    dataLayer.push({'elevioAddlGroups':elevioAdditionalGroups });
+    dataLayer.push({'se_env': 'production'});
+        dataLayer.push({'apigatewayDomain': 'https://www.wissports.net/apigateway'});
+
+      dataLayer.push({'ga_site_config': {
+        'id': 'UA-2486044-1',
+        'domains': ["www.wissports.net","wissports.sportngin.com"]
+      }});
+
+  })();
+</script>
+
+<!-- Google Tag Manager for NGIN -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TMK6MGB');</script>
+<!-- End Google Tag Manager for NGIN-->
+
+<!-- Google Tag Manager for SE Global -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGG8ZWR');</script>
+<!-- End Google Tag Manager for SE Global -->
+
+
+<!--[if lte IE 9]>
+    <meta http-equiv="refresh" content="0; url=/unsupported_browser" />
+    <script type="text/javascript">
+        window.top.location = '/unsupported_browser';
+    </script>
+<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"7b8dc0b815","applicationID":"16731","transactionName":"IQkMERZcXApQQRZXAA8DTRYMXEc=","queueTime":0,"applicationTime":1388,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"XAECQldVDwAB",licenseKey:"7b8dc0b815",applicationID:"16731"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+/AE0Wj9JPJuCvhksV1BnS89Ib4JRRmNhFPFzHVEpCXHvY5iXVUtSdKmIUIxJipwAwzL4NN3EUh99Ng/bps9KA==" />
+<meta name="trace-id" content="50718ba4-27ca-42e9-a908-60530936a472" />
+  <title>Cameron at Saint Croix Falls - 2020  Regular Season</title>
+
+  <!-- application -->
+
+  <link rel="shortcut icon" href="https://assets.ngin.com/site_files/2769/favicon.ico" />
+
+  
+
+
+  <link rel="stylesheet" media="screen" href="/site_stylesheets_secure/2769/page_elements.css?1602708392" />
+  <link rel="stylesheet" media="screen" href="/site_stylesheets_secure/2769/sports.css?1602708392" />
+  <link rel="stylesheet" media="screen" href="/site_stylesheets_secure/2769/minimal.css?1602708392" id="LayoutThemeCSS" />
+  <link rel="stylesheet" media="screen" href="/site_stylesheets_secure/jquery_treeTable.css?1602708392" />
+  <link rel="stylesheet" media="screen" href="/stylesheets/sn/shared_components.css?1602708392" />
+  <link rel="stylesheet" media="screen" href="//s3.amazonaws.com/sportngin-snap-production/ui_themes/ngin/latest/ngin-bar.css?20190108" />
+
+
+  <!--[if IE 9]>
+  <script type="text/javascript" charset="utf-8">var IE = "9";</script>
+  <link rel="stylesheet" media="screen" href="/stylesheets/ie9/default_ie9.css?1602708392" />
+<![endif]-->
+
+<!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">var IE = "8";</script>
+<![endif]-->
+
+<!--[if IE 7]>
+  <script type="text/javascript" charset="utf-8">var IE = "7";</script>
+<![endif]-->
+
+<!--[if IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if lte IE 6]>
+  <script type="text/javascript" charset="utf-8">var IE = "6";</script>
+<![endif]-->
+
+<!--[if !IE]><!--><script type="text/javascript" charset="utf-8">var IE = null;</script><!-- <![endif]-->
+
+
+  
+
+  <link rel="stylesheet" media="print" href="/stylesheets/print/website_print.css?1602708392" />
+
+  <script type='text/javascript' src='/javascripts/jquery/jquery-1.7.1.min.js'></script>
+<script type='text/javascript'>
+  var $j = jQuery.noConflict();
+</script>
+<script type="text/javascript" src="/javascripts/jquery/jquery.history.js"></script>
+
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="//use.typekit.net/fht7epn.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script src="https://assets.ngin.com/site_files/2769/js/paid_player_profile.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="https://assets.ngin.com/site_files/2769/css/2769_paid_player_profile.css" />
+
+
+<link href='https://fonts.googleapis.com/css?family=News+Cycle:400,700' rel='stylesheet' type='text/css'>
+
+<link type="text/css" rel="stylesheet" media="screen" href="https://assets.ngin.com/site_files/2769/css/2769_styles.css" />
+
+<script src="https://assets.ngin.com/site_files/6716/wsn/js/checkauth.js"></script>
+<!-- MJS ONLINE CODE -->
+<script src="https://assets.ngin.com/site_files/2769/js/jquery.postmessage.js"></script>
+
+<link rel="stylesheet" href="//assets.ngin.com/site_files/6716/wsn/css/main.css" />
+
+
+
+<!--Responsive Fixes 9/21/2016 by Brody -->
+<link rel="stylesheet" href="//assets.ngin.com/site_files/6716/wsn/css/responsive_fixes.css" />
+
+<style>
+/* Align Table Cells left */
+.left_col_1 .tableElement td:nth-child(1),
+.left_col_2 .tableElement td:nth-child(2),
+.left_col_3 .tableElement td:nth-child(3),
+.left_col_4 .tableElement td:nth-child(4),
+.left_col_5 .tableElement td:nth-child(5),
+.left_col_6 .tableElement td:nth-child(6),
+.left_col_7 .tableElement td:nth-child(7),
+.left_col_8 .tableElement td:nth-child(8),
+.left_col_9 .tableElement td:nth-child(9),
+.left_col_10 .tableElement td:nth-child(10) {
+    text-align: left !important;
+}
+
+/* Align Table Cells Right */
+.right_col_1 .tableElement td:nth-child(1),
+.right_col_2 .tableElement td:nth-child(2),
+.right_col_3 .tableElement td:nth-child(3),
+.right_col_4 .tableElement td:nth-child(4),
+.right_col_5 .tableElement td:nth-child(5),
+.right_col_6 .tableElement td:nth-child(6),
+.right_col_7 .tableElement td:nth-child(7),
+.right_col_8 .tableElement td:nth-child(8),
+.right_col_9 .tableElement td:nth-child(9),
+.right_col_10 .tableElement td:nth-child(10) {
+    text-align: right !important;
+}
+
+/* Fix news agg article title spacing */
+.heroArticles div > a {
+    display: none;
+}
+
+#track {
+    display: none;
+}
+#sport-slider .inner-wrap {
+    height: auto;
+}
+
+#scroll-container {
+overflow-x: scroll !important;
+overflow-y: hidden !important;
+
+}
+
+/* Make EDIT/ADMIN buttons visible on mobile */
+
+@media screen and (max-width: 768px) {
+    .adminToggle, #adminNav {
+        display:block;
+        position: absolute;
+        top: 75px;
+        width: 50%;
+        height: 40px;
+        background-color: #f7c300;
+    }
+
+    .adminToggle:after, #adminNav:after {
+        color: #fff;
+    }
+
+    .adminToggle {
+        border-right: 1px solid #cca100;
+        left: 0;
+    }
+
+    #adminNav {
+        right: 0;
+    }
+}
+</style>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '899838500042702'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=899838500042702&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+    <style type="text/css">
+    
+  </style>
+
+
+
+  
+
+  <script src="/javascripts/base_packaged.js?1602795083"></script>
+<script src="/javascripts/angular_packaged.js?1602795083"></script>
+
+  <script src="/javascripts/dropdown_nav.js?1602795083"></script>
+
+  
+  <script>
+//<![CDATA[
+              googletag.cmd.push(function() {
+             pubads = googletag.pubads();
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["top_leaderboard_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[728, 90], [970, 90], [320, 50], [320, 100], [300, 50], [468, 60]], "top_leaderboard_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "1").setTargeting("tile", "1").defineSizeMapping([[[970, 0], [[728, 90], [970, 90]]], [[728, 0], [[728, 90], [46860]]], [[0, 0], [[320, 50], [320, 100], [300, 50]]]]);
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["bottom_leaderboard_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[728, 90], [320, 50], [320, 100], [300, 50], [468, 60]], "bottom_leaderboard_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "2").setTargeting("tile", "4").defineSizeMapping([[[728, 0], [[728, 90], [468, 60]]], [[0, 0], [[320, 50], [320, 100], [300, 50]]]]);
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["panel_ads_1_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[300, 250], [300, 600], [300, 125]], "panel_ads_1_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "1").setTargeting("tile", "4");
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["panel_ads_2_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[300, 250], [300, 600], [300, 125]], "panel_ads_2_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "2").setTargeting("tile", "5");
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["panel_ads_3_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[300, 250], [300, 600], [300, 125]], "panel_ads_3_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "3").setTargeting("tile", "6");
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["panel_ads_4_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[300, 250], [300, 600], [300, 125]], "panel_ads_4_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "4").setTargeting("tile", "7");
+NGIN.adSlots = NGIN.adSlots || {};
+      NGIN.adSlots["panel_ads_5_ad"] = googletag.defineSlot("5727661/Desktop/wsn/football/teams", [[300, 250], [300, 600], [300, 125]], "panel_ads_5_ad")
+        .addService(googletag.pubads()).setTargeting("pos", "5").setTargeting("tile", "8");
+
+        pubads.setTargeting("zone", "league");
+    pubads.setTargeting("siteid", "2769");
+    pubads.setTargeting("pagenodetags", ["5712111"]);
+    pubads.setTargeting("sport", "football");
+    pubads.setTargeting("controller", "game");
+    pubads.setTargeting("pntn", ["teams"]);
+    pubads.setTargeting("pagename", "teams");
+
+    
+
+           googletag.enableServices();
+    });
+
+
+//]]>
+</script>
+
+    <link rel="stylesheet" href="//s3.amazonaws.com/sportngin-snap-production/ui_themes/inline-manual/1/main.css?20190108" type="text/css" />
+
+  <script>
+      window.inlineManualOptions = {
+        tracking: {
+          enabled: false
+        }
+      }
+  </script>
+
+  <script>
+      NGIN.inlineManual.setVars({
+        in_edit_mode: false,
+        org_id: 2660,
+        
+        site_name: "Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net",
+        site_short_name: "Wisconsin Sports Network | WisSports.net | WSN",
+        site_url: "https://www.wissports.net",
+        site_id: 2769
+      });
+
+        NGIN.inlineManual.setVars({
+          league_instance_id: 118728,
+          league_id: 5059,
+          league_name: "Football",
+          season_id: 627153
+        });
+  </script>
+
+  <script>!function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0];e.async=1,e.src="https://inlinemanual.com/embed/player.cacb2d9a339b3500c03525980ca2a24c.js",e.charset="UTF-8",t.parentNode.insertBefore(e,t)}();</script>
+
+
+      <meta property="og:type" content="article"/>
+<meta property="og:title" content="Cameron at Saint Croix Falls - 7:00pm CDT, October 16th, 2020"/>
+<meta property="og:description" content="Football"/>
+<meta property="og:url" content="https://www.wissports.net/game/show/28519527?subseason=682643"/>
+<meta property="og:site_name" content="Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net"/>
+<meta property="og:image" content="https://cdn1.sportngin.com/attachments/league/eea6-146579679/WIAA_large.jpg"/>
+<meta property="article:section" content="Sports"/>
+<meta property="article:tag" content="Football"/>
+
+  <script>
+//<![CDATA[
+NGIN.views.game_show_data = {};
+//]]>
+</script>
+  <script src="https://js.pusher.com/2.1/pusher.min.js"></script>
+  <script src="/javascripts/ngin/comments.js?1602795083"></script>
+
+    
+
+
+  
+    <!-- dynamic head code -->
+      <!-- cascade head code from 532452 - Football -->
+      <script type="text/javascript" src="https://s3.amazonaws.com/assets.ngin.com/site_files/2769/js/2769_football_scripts.js"></script>
+
+
+
+  <script>
+  var recaptchaSiteKey = "6LePJx8TAAAAACXrjU21ZdxvkXD_rh3yzhSeoJ0a"
+</script>
+<script src="/javascripts/grecaptcha.js?1602795083"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit" async defer></script>
+
+
+  <script>
+//<![CDATA[
+  window.nginSite = {"domain_name":"wissports.net","subdomain":"www","name":"Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net","short_name":"Wisconsin Sports Network | WisSports.net | WSN","secure_subdomain":"wissports"}
+
+//]]>
+</script>
+
+    </head>
+
+<body class="football minimal user_mode gameShow">
+
+    <script>
+//<![CDATA[
+setTimeout(function() { window.SeMParticle.pageView(JSON.parse('{"depth1":"Sitebuilder","title":"Cameron at Saint Croix Falls - 2020  Regular Season"}')) }, 500)
+//]]>
+</script>
+<!-- Needs to be immediately after the opening <body> tag -->
+<!-- Google Tag Manager (noscript) -->
+<script>
+    dataLayer.push({event: 'dl:init:ready'});
+</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMK6MGB"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGG8ZWR"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  // js.src = "//connect.facebook.net/en_US/all/debug.js#xfbml=1&version=v2.3"; // use if debugging
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+  <a href="#yieldContent" style="color:#FFF;position:absolute;height:1px;width:1px;left:-9999px;">skip navigation</a>
+
+  
+
+  <div id="top"></div>
+  
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+  
+
+    <div id="navLinksContainer" class="boxShadow-medium br-3bl-4" style="display:none;">
+      <a id="navLinksKill" href="#" class="textShadow-extraLight">
+        <span>
+          <span>
+            School&nbsp;Finder
+          </span>
+        </span>
+      </a>
+      <div id="navLinksForm" class="br-1tl-4">
+        <input type="text" id="navLinksInput" class="br-4-2" value="" />
+      </div>
+      <div id="navLinksResults" class="br-2b-4">
+        <p id="navLinksStatus"></p>
+      </div>
+    </div>
+
+  <div id="siteContainer2" class="siteContainer one_panel">
+        <ul id="accountNav">
+      
+        <li class="currentSite noSiteLogo">
+          <a title="Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net Homepage" href="https://www.wissports.net"></a>
+        </li>
+        <li class='enabled' id='login'><span><a class="enabled" title="Login" href="https://login.sportngin.com">Login</a></span></li>
+        <li class='secondary enabled' id='account_new'><span><a class="secondary enabled" title="Create an Account" href="https://user.sportngin.com/users/sign_up?user_return_to=https%3A%2F%2Flogin.sportngin.com%3Fnext_url%3Dhttps%253A%252F%252Fwww.wissports.net%252Fgame%252Fshow%252F28519527%25250A%26set_site_id%3D2769&amp;brand=">Create an Account</a></span></li>
+      
+      
+      <li class="nginLogo"><a href="https://www.sportsengine.com/?utm_source=https://www.wissports.net&utm_medium=usertopnav&utm_campaign=applications" onclick="javascript:window.location=('https://www.sportsengine.com/?utm_source=https://www.wissports.net&utm_medium=usertopnav&utm_campaign=applications'); return false;">SportsEngine</a></li>
+
+
+
+
+    </ul>
+
+    
+    <div id="siteHeader" class="bannerGraphic">
+    <div class="navButton">
+  <span></span>
+</div>
+<div class="socialLinksWrap"><div id="socialLinks">
+	<a class="forumLink" href="http://www.wissports.net/playground" title="WSN Forum">WSN Forum</a>
+	<a class="facebookLink" href="http://www.facebook.com/wissports.net" title="Find us on Facebook">Facebook</a>
+	<a class="twitterLink" href="https://twitter.com/wissportsnet" title="Follow us on Twitter">Twitter</a>
+</div></div>      <h1><a title="Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net Homepage" href="https://www.wissports.net">Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net</a></h1>
+  
+  
+  
+</div>
+
+    
+<div id="topNav">
+</div>
+
+<script type="text/javascript" charset="utf-8">
+
+
+  ;(function($) {
+
+    function topNavSelect() {
+      $(function() {
+        $('#nav_id-page_node_532452').addClass('selected').closest('td').addClass('selected');
+        $('#topNav').trigger('topnav.loaded');
+      });
+    }
+
+      var navOpts = {
+        url: '/navigation/site_dropdown_nav?id=5712111',
+        context: document.body,
+        cache: false,
+        async: true,
+        timeout: 30000,
+        success: function(data) {
+          $('#topNav').html(data);
+        }
+      }
+      $.ajax(navOpts).done(topNavSelect);
+
+      window.NGIN.showNavLink = true;
+
+  })(jQuery);
+
+</script>
+
+
+    
+    <div id="pageContentContainer">
+              <div class="adSpace" style="">
+          <div id="top_leaderboard_ad"><script type="text/javascript">              googletag.cmd.push(function() {
+                googletag.display("top_leaderboard_ad");
+              });
+</script></div>
+        </div>
+
+      <div id="panelTwo">
+        <div id="displayBodyContent">
+          <div id="yieldContent">
+            
+
+  <div id="sport-header">
+ 
+      <script type="text/javascript">
+  var primaryColor   = '#006600';
+  var secondaryColor = '#996633';
+</script>
+
+<style type="text/css">
+  /* GENERIC STYLES - other styles removed for now */
+  .sportsPage .layoutContainer .colorBG .pageElement h3 { background-color: #006600 !important; }
+  .sportsPage .layoutContainer .colorText .pageElement h3 { color: #006600 !important; }
+</style>
+
+
+<div class="sport-colors">
+  <div class="abs0 color2 IE" style="border-color:#996633"></div>
+  <div class="abs0 color0 IE"></div>
+  <div class="abs0 color1 IE" style="border-color:#006600"></div>
+    <a href='https://www.wissports.net/page/show/5712111-teams-2020-' class='teamLogo-large abs0' style='background-image:url(https://cdn1.sportngin.com/attachments/league/eea6-146579679/WIAA_large.jpg);' title='Football' target='_top'></a>
+  <div class="abs0 edge"></div>
+  <h2><a href="http://www.wissports.net/page/show/5712111-teams-2020-">Football</a></h2>
+    
+
+    <!-- League Instance -->
+    <div id="megaDropDown-season" class="mdd-active">
+      <span class="subseason">Regular Season</span>
+      <span class="season">2020 </span>
+    </div>
+
+    <div id="megaDropDown-season-callout">
+      <div class="currentSeason">
+        <span class="season-title">
+          2020 
+          <a href="#" class="close">x</a>
+        </span>
+          <a class="subseason current" href="/page/show/5712111-teams-2020-?subseason=682643">Regular Season</a>
+      </div>
+        <div class="footer">
+          <select onchange="if (this.value != '') {window.location.href = this.value; }" >
+            <option>Seasons</option>
+              <optgroup label="2020 Alt Spring">
+                <option value="/page/show/6009903-teams-2020-alt-spring-?subseason=716092" >2020 Alt Spring Season</option>
+              </optgroup>
+              <optgroup label="2019">
+                <option value="/page/show/4931375-teams-2019-?subseason=601921" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2018">
+                <option value="/page/show/4195490-teams-2018-?subseason=515259" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2017">
+                <option value="/page/show/3325085-teams-2017-?subseason=395509" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2016">
+                <option value="/page/show/2489991-teams-2016-?subseason=295841" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2015">
+                <option value="/page/show/1940456-teams-2015-?subseason=231960" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2014">
+                <option value="/page/show/1238490-teams-2014-?subseason=163897" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2013">
+                <option value="/page/show/855319-teams-2013-?subseason=114947" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2012">
+                <option value="/page/show/555524-teams-2012-?subseason=79936" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2011">
+                <option value="/page/show/555521-teams-2011-?subseason=79935" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2010">
+                <option value="/page/show/555518-teams-2010-?subseason=79934" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2009">
+                <option value="/page/show/555515-teams-2009-?subseason=79933" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2008">
+                <option value="/page/show/555512-teams-2008-?subseason=79932" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2007">
+                <option value="/page/show/555509-teams-2007-?subseason=79931" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2006">
+                <option value="/page/show/555506-teams-2006-?subseason=79930" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2005">
+                <option value="/page/show/555503-teams-2005-?subseason=79929" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2004">
+                <option value="/page/show/555500-teams-2004-?subseason=79928" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2003">
+                <option value="/page/show/555497-teams-2003-?subseason=79927" >Regular Season</option>
+              </optgroup>
+              <optgroup label="2002">
+                <option value="/page/show/555494-teams-2002-?subseason=79926" >Regular Season</option>
+              </optgroup>
+          </select>
+        </div>
+    </div>
+</div>
+
+          <div class="sport-tools clearfix">
+  <ul class="pill-buttons">
+    <li id="tool-home">
+      <a class="remote-tool-tab" onclick="$j(&#39;body&#39;).addClass(&#39;sportsHome&#39;)" href="/page/show/5712111?subseason=682643&amp;tab=content"><span>Home</span></a>
+    </li>
+      <li id="tool-game-schedule" class="">
+    <a class="remote-tool-tab" onclick="$j(&#39;body&#39;).removeClass(&#39;sportsHome&#39;)" href="/schedule/day/league_instance/118728?subseason=682643">Game Schedule</a>
+
+</li>
+
+      <li id="tool-player-stats" class="">
+  <a class="remote-tool-tab" onclick="$j(&#39;body&#39;).removeClass(&#39;sportsHome&#39;)" href="/stats/league_instance/118728?subseason=682643&amp;tab=league_instance_player_stats&amp;tool=4123203">Player Stats</a>
+</li>
+<li id="tool-team-stats" class="">
+  <a class="remote-tool-tab" onclick="$j(&#39;body&#39;).removeClass(&#39;sportsHome&#39;)" href="/stats/league_instance/118728?subseason=682643&amp;tab=league_instance_team_stats&amp;tool=4123203">Team Stats</a>
+</li>
+
+      <li id="tool-standings" class="">
+    <a class="remote-tool-tab" onclick="$j(&#39;body&#39;).removeClass(&#39;sportsHome&#39;)" href="/standings/show/5712111?subseason=682643">Standings</a>
+
+</li>
+
+      
+      
+      
+  </ul>
+</div>
+
+  </div> 
+ 
+
+
+
+            <div id="errorNotice">
+  
+  
+  
+  
+  
+</div>
+
+
+
+            <div class='yieldAdminContent'></div>
+            <div class='yieldPageContent'>
+            
+    <script type="text/javascript">
+    var pusher_channel;
+  </script>
+
+
+<div id="GameShowScoreboardSimple">
+<ul class="game_info_bar_v2">
+  <li class="date">
+      Fri, Oct 16, 2020
+  </li>
+  <li class="location"><a target="_self" href="https://www.wissports.net/">Saint Croix Falls</a></li>
+  <li class="status game_clock-info">
+      <span>FINAL</span>
+  </li>
+</ul>
+
+  <div class="game_header_v2">
+  <div class="team_box">
+    <div class="away">
+      <div class="team_logo">
+        <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-medium ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_medium.jpg);' title='Cameron' target='_top'></a>
+      </div>
+      <h3>
+        Cameron
+          <span class="score away_team_score">35</span>
+      </h3>
+    </div>
+    <div class="home">
+      <div class="team_logo">
+        <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-medium ' style='background-image:url(https://cdn2.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_medium.jpg);' title='Saint Croix Falls' target='_top'></a>
+      </div>
+      <h3>
+        Saint Croix Falls
+          <span class="score home_team_score">13</span>
+      </h3>
+    </div>
+  </div>
+</div>
+
+  <table class="stat_table line_score_v2 player_stats-list">
+  <thead>
+    <tr class="periods">
+      <th class="team"></th>
+        <th title="1st Period">1</th>
+        <th title="2nd Period">2</th>
+        <th title="3rd Period">3</th>
+        <th title="4th Period">4</th>
+        <th class="total">T</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="lineScore-team-5560543" class="box-score-border">
+      <td class="team">Cameron</td>
+        <td class="pts_1">0</td>
+        <td class="pts_2">8</td>
+        <td class="pts_3">12</td>
+        <td class="pts_4">15</td>
+      <td class="away_team_score final_score score-final">35</td>
+    </tr>
+    <tr id="lineScore-team-5560549" class="box-score-border">
+      <td class="team">Saint Croix Falls</td>
+        <td class="pts_1">0</td>
+        <td class="pts_2">0</td>
+        <td class="pts_3">13</td>
+        <td class="pts_4">0</td>
+      <td class="home_team_score final_score score-final">13</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+<div id="GameShowContent" class=" game_show_nextgen">
+  <div class="tab_menu">
+  <ul id="rapidTabs" class="tab_menu-list">
+      <li id="tab_gs3_game_summary_new" class="tab_menu-tab z6 loaded selected">
+        <a href="#" onclick="select_tab(&#39;tab_gs3_game_summary_new&#39;, &#39;/game/tab_gs3_game_summary_new/28519527&#39;, {}); return false;" >
+          Game Summary
+        </a>
+      </li>
+      <li id="tab_gs3_player_stats" class="tab_menu-tab z5 ">
+        <a href="#" onclick="select_tab(&#39;tab_gs3_player_stats&#39;, &#39;/game/tab_gs3_player_stats/28519527&#39;, {}); return false;" >
+          Player Stats
+        </a>
+      </li>
+      <li id="tab_gs3_game_stats" class="tab_menu-tab z4 ">
+        <a href="#" onclick="select_tab(&#39;tab_gs3_game_stats&#39;, &#39;/game/tab_gs3_game_stats/28519527&#39;, {}); return false;" >
+          Team Stats
+        </a>
+      </li>
+      <li id="tab_gs3_photos" class="tab_menu-tab z3 ">
+        <a href="#" onclick="select_tab(&#39;tab_gs3_photos&#39;, &#39;/game/tab_gs3_photos/28519527&#39;, {}); return false;" >
+          Photos
+        </a>
+      </li>
+      <li id="tab_gs3_videos" class="tab_menu-tab z2 ">
+        <a href="#" onclick="select_tab(&#39;tab_gs3_videos&#39;, &#39;/game/tab_gs3_videos/28519527&#39;, {}); return false;" >
+          Videos
+        </a>
+      </li>
+      <li id="tab_nextgen_comments" class="tab_menu-tab z1 ">
+        <a href="#" onclick="select_tab(&#39;tab_nextgen_comments&#39;, &#39;/game/tab_nextgen_comments/28519527&#39;, {}); return false;" >
+          Comments
+        </a>
+      </li>
+  </ul>
+    
+      <div class="live_game_sheet sport-tools"><ul><li><a target="_blank" href="https://www.wissports.net/game/game_sheet/28519527">Live Game Sheet</a></li></ul></div>
+</div>
+
+  <div id="contentTabsLoader" class="tab_menu-listLoader" style="display: none;"><img src="/app_images/loaderBarUserMode.gif" /></div>
+
+  
+      <div id="tab_gs3_game_summary_new_content" class="rapidContentGeneral">  <div class="GameShowDataContainer game_boxscore">
+                <h3 >Scoring Summary</h3>
+    <ul class="scoring_summary">
+
+                <li class="interval_row">
+    <ul>
+      <li><span>1st</span> Quarter</li>
+      <li class="game_clock"></li>
+      <li class="team_name"></li>
+      <li class="score_type"></li>
+      <li class="play_details"></li>
+      <li class="team_score">CAMER</li>
+      <li class="team_score">SCF</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info even">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Cameron</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Run, TOUCHDOWN by I. Payne for a 10-yard gain Two Point Conversion Pass from R. Murphy to D. Foss
+      </li>
+      <li class="team_score">8</li>
+      <li class="team_score">0</li>
+    </ul>
+  </li>
+
+              <li class="interval_row">
+    <ul>
+      <li><span>2nd</span> Quarter</li>
+      <li class="game_clock"></li>
+      <li class="team_name"></li>
+      <li class="score_type"></li>
+      <li class="play_details"></li>
+      <li class="team_score">CAMER</li>
+      <li class="team_score">SCF</li>
+    </ul>
+  </li>
+
+              <li class="scoring_info odd">
+    <ul>
+      <li class="play_details">NO SCORE</li>
+      <li class="team_score">8</li>
+      <li class="team_score">0</li>
+    </ul>
+  </li>
+
+                <li class="interval_row">
+    <ul>
+      <li><span>3rd</span> Quarter</li>
+      <li class="game_clock"></li>
+      <li class="team_name"></li>
+      <li class="score_type"></li>
+      <li class="play_details"></li>
+      <li class="team_score">CAMER</li>
+      <li class="team_score">SCF</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info even">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Saint Croix Falls</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Run, TOUCHDOWN by D. Oye for a 62-yard gain Two Point Conversion Run unsuccessful
+      </li>
+      <li class="team_score">8</li>
+      <li class="team_score">6</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info odd">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Cameron</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Fumble returned, TOUCHDOWN by R. Murphy for a 70-yard gain Two Point Conversion Pass unsuccessful
+      </li>
+      <li class="team_score">14</li>
+      <li class="team_score">6</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info even">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Cameron</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Run, TOUCHDOWN by I. Payne for a 30-yard gain Two Point Conversion Pass unsuccessful
+      </li>
+      <li class="team_score">20</li>
+      <li class="team_score">6</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info odd">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Saint Croix Falls</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Run, TOUCHDOWN by D. Oye for a 2-yard gain Extra Point by K. Bents
+      </li>
+      <li class="team_score">20</li>
+      <li class="team_score">13</li>
+    </ul>
+  </li>
+
+                <li class="interval_row">
+    <ul>
+      <li><span>4th</span> Quarter</li>
+      <li class="game_clock"></li>
+      <li class="team_name"></li>
+      <li class="score_type"></li>
+      <li class="play_details"></li>
+      <li class="team_score">CAMER</li>
+      <li class="team_score">SCF</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info even">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Cameron</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Pass, TOUCHDOWN from R. Murphy to A. Weis for a 3-yard gain Two Point Conversion Pass from R. Murphy to A. Weis
+      </li>
+      <li class="team_score">28</li>
+      <li class="team_score">13</li>
+    </ul>
+  </li>
+
+                <li class="scoring_info odd">
+    <ul>
+      <li class="game_clock"></li>
+      <li class="team_name">Cameron</li>
+      <li class="score_type"></li>
+      <li class="play_details">
+        Interception, TOUCHDOWN by A. Weis for a 6-yard gain Extra Point by N. Schuman
+      </li>
+      <li class="team_score">35</li>
+      <li class="team_score">13</li>
+    </ul>
+  </li>
+
+
+
+  </ul>
+
+          
+          
+          
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Passing
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Completions">Comp</th>
+          <th title="Attempts">Att</th>
+          <th title="Yards">Yds</th>
+          <th title="Touchdowns">TD</th>
+          <th title="Interceptions">Int</th>
+          <th title="QB Rating">Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">3</td>
+            <td class="player_name " sorttable_customkey="MurphyRichie">
+                <a title="View Richie Murphy&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991494">Richie Murphy</a>
+            </td>
+
+              <td>6</td>
+              <td>15</td>
+              <td>42</td>
+              <td>1</td>
+              <td>0</td>
+              <td>70.1</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Completions">
+            6
+          </th>
+          <th title="Attempts">
+            15
+          </th>
+          <th title="Yards">
+            42
+          </th>
+          <th title="Touchdowns">
+            1
+          </th>
+          <th title="Interceptions">
+            0
+          </th>
+          <th title="QB Rating">
+            70.1
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Passing
+</h3>
+
+  <p class="noEntry">No Data Available</p>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Rushing
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Attempts">Att</th>
+          <th title="Yards">Yds</th>
+          <th title="Average Yards">Yds/Att</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">3</td>
+            <td class="player_name " sorttable_customkey="MurphyRichie">
+                <a title="View Richie Murphy&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991494">Richie Murphy</a>
+            </td>
+
+              <td>15</td>
+              <td>131</td>
+              <td>8.7</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">8</td>
+            <td class="player_name " sorttable_customkey="FossDylan">
+                <a title="View Dylan Foss&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726170">Dylan Foss</a>
+            </td>
+
+              <td>3</td>
+              <td>-1</td>
+              <td>-0.3</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">34</td>
+            <td class="player_name " sorttable_customkey="Van BuskirkEthan">
+                <a title="View Ethan Van Buskirk&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991638">Ethan Van Buskirk</a>
+            </td>
+
+              <td>2</td>
+              <td>5</td>
+              <td>2.5</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">42</td>
+            <td class="player_name " sorttable_customkey="PayneIan">
+                <a title="View Ian Payne&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726479">Ian Payne</a>
+            </td>
+
+              <td>15</td>
+              <td>89</td>
+              <td>5.9</td>
+              <td>2</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">81</td>
+            <td class="player_name " sorttable_customkey="GillettCaleb">
+                <a title="View Caleb Gillett&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39727246">Caleb Gillett</a>
+            </td>
+
+              <td>1</td>
+              <td>16</td>
+              <td>16.0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">82</td>
+            <td class="player_name " sorttable_customkey="WeisAustin">
+                <a title="View Austin Weis&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726420">Austin Weis</a>
+            </td>
+
+              <td>2</td>
+              <td>22</td>
+              <td>11.0</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Attempts">
+            38
+          </th>
+          <th title="Yards">
+            262
+          </th>
+          <th title="Average Yards">
+            6.9
+          </th>
+          <th title="Touchdowns">
+            2
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Rushing
+</h3>
+
+  <table id="player-sm-5560549-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Attempts">Att</th>
+          <th title="Yards">Yds</th>
+          <th title="Average Yards">Yds/Att</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">10</td>
+            <td class="player_name " sorttable_customkey="OyeDayo">
+                <a title="View Dayo Oye&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726933">Dayo Oye</a>
+            </td>
+
+              <td>29</td>
+              <td>248</td>
+              <td>8.6</td>
+              <td>2</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">15</td>
+            <td class="player_name " sorttable_customkey="DefoeKieran">
+                <a title="View Kieran Defoe&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41564477">Kieran Defoe</a>
+            </td>
+
+              <td>2</td>
+              <td>-13</td>
+              <td>-6.5</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">30</td>
+            <td class="player_name " sorttable_customkey="GuggisbergGraidy">
+                <a title="View Graidy Guggisberg&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726503">Graidy Guggisberg</a>
+            </td>
+
+              <td>6</td>
+              <td>19</td>
+              <td>3.2</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">33</td>
+            <td class="player_name " sorttable_customkey="SteffenCaleb">
+                <a title="View Caleb Steffen&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726557">Caleb Steffen</a>
+            </td>
+
+              <td>7</td>
+              <td>32</td>
+              <td>4.6</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Attempts">
+            44
+          </th>
+          <th title="Yards">
+            286
+          </th>
+          <th title="Average Yards">
+            6.5
+          </th>
+          <th title="Touchdowns">
+            2
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Receiving
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Receptions">Rec</th>
+          <th title="Yards">Yds</th>
+          <th title="Average Yards">Yds/Rec</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">8</td>
+            <td class="player_name " sorttable_customkey="FossDylan">
+                <a title="View Dylan Foss&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726170">Dylan Foss</a>
+            </td>
+
+              <td>1</td>
+              <td>3</td>
+              <td>3.0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">42</td>
+            <td class="player_name " sorttable_customkey="PayneIan">
+                <a title="View Ian Payne&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726479">Ian Payne</a>
+            </td>
+
+              <td>2</td>
+              <td>1</td>
+              <td>0.5</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">82</td>
+            <td class="player_name " sorttable_customkey="WeisAustin">
+                <a title="View Austin Weis&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726420">Austin Weis</a>
+            </td>
+
+              <td>3</td>
+              <td>21</td>
+              <td>7.0</td>
+              <td>1</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Receptions">
+            6
+          </th>
+          <th title="Yards">
+            25
+          </th>
+          <th title="Average Yards">
+            4.2
+          </th>
+          <th title="Touchdowns">
+            1
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Receiving
+</h3>
+
+  <table id="player-sm-5560549-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Receptions">Rec</th>
+          <th title="Yards">Yds</th>
+          <th title="Average Yards">Yds/Rec</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">5</td>
+            <td class="player_name " sorttable_customkey="OestreichTravis">
+                <a title="View Travis Oestreich&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726873">Travis Oestreich</a>
+            </td>
+
+              <td>1</td>
+              <td>5</td>
+              <td>5.0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">30</td>
+            <td class="player_name " sorttable_customkey="GuggisbergGraidy">
+                <a title="View Graidy Guggisberg&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726503">Graidy Guggisberg</a>
+            </td>
+
+              <td>3</td>
+              <td>15</td>
+              <td>5.0</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Receptions">
+            4
+          </th>
+          <th title="Yards">
+            20
+          </th>
+          <th title="Average Yards">
+            5.0
+          </th>
+          <th title="Touchdowns">
+            0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Defensive
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Solo Tackles">Tck</th>
+          <th title="Total Tackles">TTck</th>
+          <th title="Sacks">Sck</th>
+          <th title="Forced Fumbles">FF</th>
+          <th title="Interceptions">Int</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">3</td>
+            <td class="player_name " sorttable_customkey="MurphyRichie">
+                <a title="View Richie Murphy&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991494">Richie Murphy</a>
+            </td>
+
+              <td>1</td>
+              <td>5</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>2</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">8</td>
+            <td class="player_name " sorttable_customkey="FossDylan">
+                <a title="View Dylan Foss&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726170">Dylan Foss</a>
+            </td>
+
+              <td>4</td>
+              <td>5</td>
+              <td>0.0</td>
+              <td>1</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">28</td>
+            <td class="player_name " sorttable_customkey="SchumanNick">
+                <a title="View Nick Schuman&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726197">Nick Schuman</a>
+            </td>
+
+              <td>1</td>
+              <td>2</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">32</td>
+            <td class="player_name " sorttable_customkey="GiffordEthan">
+                <a title="View Ethan Gifford&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726690">Ethan Gifford</a>
+            </td>
+
+              <td>2</td>
+              <td>2</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">34</td>
+            <td class="player_name " sorttable_customkey="Van BuskirkEthan">
+                <a title="View Ethan Van Buskirk&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991638">Ethan Van Buskirk</a>
+            </td>
+
+              <td>3</td>
+              <td>3</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">35</td>
+            <td class="player_name " sorttable_customkey="AndersonCaden">
+                <a title="View Caden Anderson&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991847">Caden Anderson</a>
+            </td>
+
+              <td>5</td>
+              <td>6</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>1</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">36</td>
+            <td class="player_name " sorttable_customkey="BellDamien">
+                <a title="View Damien Bell&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991739">Damien Bell</a>
+            </td>
+
+              <td>4</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">42</td>
+            <td class="player_name " sorttable_customkey="PayneIan">
+                <a title="View Ian Payne&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726479">Ian Payne</a>
+            </td>
+
+              <td>5</td>
+              <td>6</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">51</td>
+            <td class="player_name " sorttable_customkey="WaiteAshtyn">
+                <a title="View Ashtyn Waite&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726858">Ashtyn Waite</a>
+            </td>
+
+              <td>6</td>
+              <td>7</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">54</td>
+            <td class="player_name " sorttable_customkey="SeffingaIsaiah">
+                <a title="View Isaiah Seffinga&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726915">Isaiah Seffinga</a>
+            </td>
+
+              <td>0</td>
+              <td>2</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">72</td>
+            <td class="player_name " sorttable_customkey="PenseJulian">
+                <a title="View Julian Pense&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39727073">Julian Pense</a>
+            </td>
+
+              <td>2</td>
+              <td>3</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">81</td>
+            <td class="player_name " sorttable_customkey="GillettCaleb">
+                <a title="View Caleb Gillett&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39727246">Caleb Gillett</a>
+            </td>
+
+              <td>3</td>
+              <td>5</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">82</td>
+            <td class="player_name " sorttable_customkey="WeisAustin">
+                <a title="View Austin Weis&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726420">Austin Weis</a>
+            </td>
+
+              <td>0</td>
+              <td>1</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Solo Tackles">
+            36
+          </th>
+          <th title="Total Tackles">
+            51
+          </th>
+          <th title="Sacks">
+            0.0
+          </th>
+          <th title="Forced Fumbles">
+            1
+          </th>
+          <th title="Interceptions">
+            3
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Defensive
+</h3>
+
+  <table id="player-sm-5560549-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Solo Tackles">Tck</th>
+          <th title="Total Tackles">TTck</th>
+          <th title="Sacks">Sck</th>
+          <th title="Forced Fumbles">FF</th>
+          <th title="Interceptions">Int</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">2</td>
+            <td class="player_name " sorttable_customkey="BelisleBrady">
+                <a title="View Brady Belisle&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39727142">Brady Belisle</a>
+            </td>
+
+              <td>3</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">5</td>
+            <td class="player_name " sorttable_customkey="OestreichTravis">
+                <a title="View Travis Oestreich&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726873">Travis Oestreich</a>
+            </td>
+
+              <td>1</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>2</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">10</td>
+            <td class="player_name " sorttable_customkey="OyeDayo">
+                <a title="View Dayo Oye&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726933">Dayo Oye</a>
+            </td>
+
+              <td>5</td>
+              <td>6</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">22</td>
+            <td class="player_name " sorttable_customkey="GlennaSam">
+                <a title="View Sam Glenna&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726845">Sam Glenna</a>
+            </td>
+
+              <td>1</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">30</td>
+            <td class="player_name " sorttable_customkey="GuggisbergGraidy">
+                <a title="View Graidy Guggisberg&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726503">Graidy Guggisberg</a>
+            </td>
+
+              <td>3</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">33</td>
+            <td class="player_name " sorttable_customkey="SteffenCaleb">
+                <a title="View Caleb Steffen&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726557">Caleb Steffen</a>
+            </td>
+
+              <td>1</td>
+              <td>1</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">38</td>
+            <td class="player_name " sorttable_customkey="RodeDevyn">
+                <a title="View Devyn Rode&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39727964">Devyn Rode</a>
+            </td>
+
+              <td>1</td>
+              <td>2</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">53</td>
+            <td class="player_name " sorttable_customkey="BergmannBennett">
+                <a title="View Bennett Bergmann&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726671">Bennett Bergmann</a>
+            </td>
+
+              <td>0</td>
+              <td>5</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">54</td>
+            <td class="player_name " sorttable_customkey="WilsonSam">
+                <a title="View Sam Wilson&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726721">Sam Wilson</a>
+            </td>
+
+              <td>1</td>
+              <td>4</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">55</td>
+            <td class="player_name " sorttable_customkey="BentsKaleb">
+                <a title="View Kaleb Bents&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726585">Kaleb Bents</a>
+            </td>
+
+              <td>0</td>
+              <td>6</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="odd">
+            <td class="jersey_no">56</td>
+            <td class="player_name " sorttable_customkey="KempJames">
+                <a title="View James Kemp&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726532">James Kemp</a>
+            </td>
+
+              <td>0</td>
+              <td>2</td>
+              <td>0.0</td>
+              <td>0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">57</td>
+            <td class="player_name " sorttable_customkey="GaffeyTanner">
+                <a title="View Tanner Gaffey&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726616">Tanner Gaffey</a>
+            </td>
+
+              <td>4</td>
+              <td>7</td>
+              <td>0.0</td>
+              <td>1</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Solo Tackles">
+            20
+          </th>
+          <th title="Total Tackles">
+            49
+          </th>
+          <th title="Sacks">
+            0.0
+          </th>
+          <th title="Forced Fumbles">
+            3
+          </th>
+          <th title="Interceptions">
+            0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Punt Returning
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Returns">Returns</th>
+          <th title="Yards/Return">Yds/Ret</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">8</td>
+            <td class="player_name " sorttable_customkey="FossDylan">
+                <a title="View Dylan Foss&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726170">Dylan Foss</a>
+            </td>
+
+              <td>1</td>
+              <td>0.0</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Returns">
+            1
+          </th>
+          <th title="Yards/Return">
+            0.0
+          </th>
+          <th title="Touchdowns">
+            0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Punt Returning
+</h3>
+
+  <p class="noEntry">No Data Available</p>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Kick Returning
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Returns">Returns</th>
+          <th title="Yards">Yds</th>
+          <th title="Yards/Return">Yds/Ret</th>
+          <th title="Touchdowns">TD</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">34</td>
+            <td class="player_name " sorttable_customkey="Van BuskirkEthan">
+                <a title="View Ethan Van Buskirk&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/41991638">Ethan Van Buskirk</a>
+            </td>
+
+              <td>1</td>
+              <td>20</td>
+              <td>20.0</td>
+              <td>0</td>
+          </tr>
+          <tr class="even">
+            <td class="jersey_no">42</td>
+            <td class="player_name " sorttable_customkey="PayneIan">
+                <a title="View Ian Payne&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726479">Ian Payne</a>
+            </td>
+
+              <td>1</td>
+              <td>23</td>
+              <td>23.0</td>
+              <td>0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Returns">
+            2
+          </th>
+          <th title="Yards">
+            43
+          </th>
+          <th title="Yards/Return">
+            21.5
+          </th>
+          <th title="Touchdowns">
+            0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Kick Returning
+</h3>
+
+  <p class="noEntry">No Data Available</p>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Punting
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Punts">Punts</th>
+          <th title="Yards">Yds</th>
+          <th title="Yards Per Punt">Avg</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">28</td>
+            <td class="player_name " sorttable_customkey="SchumanNick">
+                <a title="View Nick Schuman&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726197">Nick Schuman</a>
+            </td>
+
+              <td>4</td>
+              <td>100</td>
+              <td>25.0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Punts">
+            4
+          </th>
+          <th title="Yards">
+            100
+          </th>
+          <th title="Yards Per Punt">
+            25.0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Punting
+</h3>
+
+  <table id="player-sm-5560549-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Punts">Punts</th>
+          <th title="Yards">Yds</th>
+          <th title="Yards Per Punt">Avg</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">55</td>
+            <td class="player_name " sorttable_customkey="BentsKaleb">
+                <a title="View Kaleb Bents&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726585">Kaleb Bents</a>
+            </td>
+
+              <td>1</td>
+              <td>36</td>
+              <td>36.0</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Punts">
+            1
+          </th>
+          <th title="Yards">
+            36
+          </th>
+          <th title="Yards Per Punt">
+            36.0
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712459-cameron?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg);' title='Cameron' target='_top'></a>
+  </span>
+  Cameron Kicking
+</h3>
+
+  <table id="player-sm-5560543-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Field Goals Made">FGM</th>
+          <th title="Extra Point Attempts">XPA</th>
+          <th title="Extra Points Made">XPM</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">28</td>
+            <td class="player_name " sorttable_customkey="SchumanNick">
+                <a title="View Nick Schuman&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726197">Nick Schuman</a>
+            </td>
+
+              <td>0</td>
+              <td>1</td>
+              <td>1</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Field Goals Made">
+            0
+          </th>
+          <th title="Extra Point Attempts">
+            1
+          </th>
+          <th title="Extra Points Made">
+            1
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+        <div class="StatWidgetColumn width50">
+          <div class="spacer">
+            
+<h3 class="teamHeadline" style="border-color: #0000CC;" >
+  <span class="team_logo">
+    <a href='https://www.wissports.net/page/show/5712465-saint-croix-falls?subseason=682643' class='teamLogo-tiny ' style='background-image:url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg);' title='Saint Croix Falls' target='_top'></a>
+  </span>
+  Saint Croix Falls Kicking
+</h3>
+
+  <table id="player-sm-5560549-table" class="player_stats-list stat_table">
+    <thead>
+      <tr>
+        <th title="Jersey Number">#</th>
+        <th class="player_name" title="Player Name">Name</th>
+          <th title="Field Goals Made">FGM</th>
+          <th title="Extra Point Attempts">XPA</th>
+          <th title="Extra Points Made">XPM</th>
+      </tr>
+    </thead>
+    <tbody>
+          <tr class="odd">
+            <td class="jersey_no">55</td>
+            <td class="player_name " sorttable_customkey="BentsKaleb">
+                <a title="View Kaleb Bents&#39;s Player Profile" class="" href="https://www.wissports.net/roster_players/39726585">Kaleb Bents</a>
+            </td>
+
+              <td>0</td>
+              <td>1</td>
+              <td>1</td>
+          </tr>
+    </tbody>
+
+    <thead>
+      <tr class="even totals">
+        <th></th>
+        <th class="player_name">Totals</th>
+          <th title="Field Goals Made">
+            0
+          </th>
+          <th title="Extra Point Attempts">
+            1
+          </th>
+          <th title="Extra Points Made">
+            1
+          </th>
+      </tr>
+    </thead>
+  </table>
+
+          </div>
+        </div>
+      <div class="clearAll"></div>
+
+
+  </div>
+  <div id="game_details">
+    <div class="extra_game_details">
+      <div class="pageElement">
+  <h3 class="statModuleTitle">Game Details</h3>
+  <ul class="gameXtras">
+    
+    
+    
+    <li><label>Venue:</label>Saint Croix Falls</li>
+    
+    
+    
+    
+      
+    
+    
+    
+  </ul>
+</div>
+
+    </div>
+    <div class="list_officials">
+      
+    </div>
+  </div>
+  <script>
+//<![CDATA[
+
+    $j(".extra_game_details li:even").addClass("even");
+    $j(".extra_game_details li:odd").addClass("odd");
+    $j(".list_officials li:even").addClass("even");
+    $j(".list_officials li:odd").addClass("odd");
+
+//]]>
+</script></div>
+      <div id="tab_gs3_player_stats_content" class="rapidContentGeneral" style="display:none"></div>
+      <div id="tab_gs3_game_stats_content" class="rapidContentGeneral" style="display:none"></div>
+      <div id="tab_gs3_photos_content" class="rapidContentGeneral" style="display:none"></div>
+      <div id="tab_gs3_videos_content" class="rapidContentGeneral" style="display:none"></div>
+      <div id="tab_nextgen_comments_content" class="rapidContentGeneral" style="display:none"></div>
+
+
+</div>
+
+
+
+<style type="text/css">
+  #GameShowContent .awayTeam { background-color: #0000CC; color: #ffffff; border-color: #0000CC; }
+  #GameShowContent .homeTeam { background-color: #0000CC; color: #ffffff; border-color: #0000CC; }
+  .awayTeam { background-color: #0000CC; color: #ffffff; border-color: #0000CC; }
+  .homeTeam { background-color: #0000CC; color: #ffffff; border-color: #0000CC; }
+  .awayTeam svg { fill: #0000CC; }
+  .homeTeam svg { fill: #0000CC; }
+  html.csstransforms3d body.hockeyish .play .homeTeam svg .action-icon,
+  html.csstransforms3d body.hockeyish .marker.homeTeam svg .badge {
+    fill: #000000;
+  }
+  .teamlogo.awayTeam { background: url(https://cdn3.sportngin.com/attachments/team/1880/6540/Cameron_tiny.jpg) no-repeat center center; }
+  .teamlogo.homeTeam { background: url(https://cdn4.sportngin.com/attachments/team/1880/1094/SaintCroixFalls_tiny.jpg) no-repeat center center; }
+  tr.awayTeam td { background-color: #0000CC; color: #ffffff; }
+  tr.homeTeam td { background-color: #0000CC; color: #ffffff; }
+
+    body.hockeyish #PBP ul.pbp-list li.playAway:hover .box { border-left: solid 8px #0000CC; }
+    body.hockeyish #PBP ul.pbp-list li.playHome:hover .box { border-right: solid 8px #0000CC; }
+
+  /* Gradients */
+  .awayTeamFade {
+    background: -moz-linear-gradient(left, #0000CC 50%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(50%,#0000CC), color-stop(100%,rgba(0,0,0,0)));' /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,#0000CC 50%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left,#0000CC 50%,rgba(0,0,0,0) 100%); /* Opera11.10+ */
+    background: -ms-linear-gradient(left,#0000CC 50%,rgba(0,0,0,0) 100%); /* IE10+ */
+    background: linear-gradient(left,#0000CC 50%,rgba(0,0,0,0) 100%); /* W3C */
+  }
+  .homeTeamFade {
+    background: -moz-linear-gradient(right, #0000CC 50%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, right top, left top, color-stop(50%,#0000CC), color-stop(100%,rgba(0,0,0,0)));' /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(right,#0000CC 50%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(right,#0000CC 50%,rgba(0,0,0,0) 100%); /* Opera11.10+ */
+    background: -ms-linear-gradient(right,#0000CC 50%,rgba(0,0,0,0) 100%); /* IE10+ */
+    background: linear-gradient(right,#0000CC 50%,rgba(0,0,0,0) 100%); /* W3C */
+  }
+</style>
+
+
+
+            </div>
+
+
+          </div>
+        </div>
+        <div class="clearAll"></div>
+      </div><!-- closing panelTwo -->
+
+      <div id="panelAds">
+          <div class="adbox" style="margin-bottom:10px;">
+          <div id="panel_ads_1_ad"><script type="text/javascript">              googletag.cmd.push(function() {
+                googletag.display("panel_ads_1_ad");
+              });
+</script></div>
+        </div>
+
+          <div class="adbox" style="margin-bottom:10px;">
+          <div id="panel_ads_2_ad"><script type="text/javascript">              googletag.cmd.push(function() {
+                googletag.display("panel_ads_2_ad");
+              });
+</script></div>
+        </div>
+
+          <div class="adbox" style="margin-bottom:10px;">
+          <div id="panel_ads_3_ad"><script type="text/javascript">              googletag.cmd.push(function() {
+                googletag.display("panel_ads_3_ad");
+              });
+</script></div>
+        </div>
+
+</div>
+
+      
+      <div class="clearAll"></div>
+              <div class="adbox" style="width: 100%; text-align:center; padding-bottom: 10px">
+          <div id="bottom_leaderboard_ad"><script type="text/javascript">              googletag.cmd.push(function() {
+                googletag.display("bottom_leaderboard_ad");
+              });
+</script></div>
+        </div>
+
+    </div><!--  closing pageContentContainer3  -->
+  <div class="footerPush"></div>
+  </div><!--  closing siteContainer3  -->
+
+  <div id="siteFooter">
+  
+    
+    <div id="extendedFooter">
+        <a class="footer__home">home</a>
+	<div class="infoColumn">
+		<h4>WSN Links</h4>
+		<ul>
+			<li><a href="/page/show/532521-news" title="WSN News">WSN News</a></li>
+			<li><a href="/page/show/532464-schools" title="Schools">Schools</a></li>
+			<li><a href="/playground" title="WSN Forum">WSN Forum</a></li>
+			<li><a href="/page/show/532489-wsn-illustrated" title="WSN Illustrated">WSN Illustrated</a></li>
+			<li><a href="/page/show/532518-marlin-lee-iii-cancer-fund" title="Marlin Lee Fund">Marlin Lee Fund</a></li>
+			<li><a href="/page/show/532476-advertise-on-wsn" title="Advertise">Advertise</a></li>
+			<li><a href="/page/show/532475-about-wsn" title="About WSN">About WSN</a></li>
+			<li><a href="/page/show/596969" title="Site FAQ ">Site FAQ</a></li>
+			<li><a href="/page/show/600155" title="Coach FAQ ">Coach FAQ</a></li>
+			<li><a href="/page/show/553941-contact-us" title="Contact ">Contact US</a></li>
+			</ul>
+	</div>
+	<div class="infoColumn">
+		<h4>Boys Sports</h4>
+		<ul>
+			<li><a href="/page/show/532449-baseball" title="Baseball">Baseball</a></li>
+			<li><a href="/page/show/532562-boys-basketball" title="Basketball">Basketball</a></li>
+			<li><a href="/page/show/532452-football" title="Football">Football</a></li>
+			<li><a href="/page/show/533265-boys-hockey" title="Hockey">Hockey</a></li>
+			<li><a href="/page/show/533302-boys-soccer" title="Soccer">Soccer</a></li>
+			<li><a href="/page/show/533362-boys-track" title="Track">Track</a></li>
+			<li><a href="/page/show/533403-boys-volleyball" title="Volleyball">Volleyball</a></li>
+			</ul>
+	</div>
+	<div class="infoColumn">
+		<h4>Girls Sports</h4>
+		<ul>
+			<li><a href="/page/show/532598-girls-basketball" title="Basketball">Basketball</a></li>
+			<li><a href="/page/show/533281-girls-hockey" title="Hockey">Hockey</a></li>
+			<li><a href="/page/show/533326-girls-soccer" title="Soccer">Soccer</a></li>
+			<li><a href="/page/show/533348-softball" title="Softball">Softball</a></li>
+			<li><a href="/page/show/533381-girls-track" title="Track">Track</a></li>
+			<li><a href="/page/show/533416-girls-volleyball" title="Volleyball">Volleyball</a></li>
+			</ul>
+	</div>
+<div class="footer__partners">
+    <div class="footer__partneGroupr">
+        <h4>Corporate Partners</h4>
+        <ul>
+            <li><a class="footer__partner footer__partner--dells">dells</a></li>
+        </ul>
+    </div>
+    <div class="footer__partnerGroup">
+        <h4>Coaches Association Partners</h4>
+        <ul>
+            <li><a class="footer__partner footer__partner--wbca">WBCA</a></li>
+            <li><a class="footer__partner footer__partner--wfca">WFCA</a></li>
+            <li><a class="footer__partner footer__partner--star">STAR</a></li>
+            <li><a class="footer__partner footer__partner--wfsca">WFSCA</a></li>
+    </div>
+</div>
+</div>
+
+<div id="finePrint">This website is an unofficial and independently operated source of news and information and is not directly affiliated with any school or team.<br />
+No portion of this site may be copied without the expressed written consent of SportsEngine</div>
+    <ul class="se-footer">
+      <li class="se-footer-copyright">
+        This website is powered by SportsEngine's
+        <a class="legalLink" target="_blank" href="https://www.sportsengine.com/solutions/">
+          Sports Relationship Management
+        </a>
+        (SRM) software, but is owned by and subject to the  Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net privacy policy.
+        <a class="legalLink" target="_blank" href="https://www.sportsengine.com/corp">
+          &copy;2020 SportsEngine, Inc.
+        </a>
+        <br>
+      </li>
+      <li class="se-footer-link">
+        <a class="legalLink" target="_blank" href="/privacy_policy.pdf">Privacy Policy</a>
+      </li>
+      <li id="poweredByNGIN" class="se-footer-logo" style="text-align: center;">
+        <br>
+        <a href="https://www.sportsengine.com/?utm_source=Sitebuilder&utm_medium=Footer&utm_campaign=SportsEngine+Internal+Link&utm_term=Footer"
+           onclick="javascript:window.location=('https://www.sportsengine.com/?utm_source=Sitebuilder&utm_medium=Footer&utm_campaign=SportsEngine+Internal+Link&utm_term=Footer'); return false;">
+          <img src="/logo_images/white_logo.png" alt="Powered by SportsEngine" title="Click here to learn how SportsEngine can empower your organization!">
+        </a>
+      </li>
+    </ul>
+</div>
+
+    
+    
+
+  
+  <script src="//assets.ngin.com/site_files/6716/wsn/js/sn_mobile.js"></script>
+<script src="//assets.ngin.com/site_files/6716/wsn/js/main.js"></script>
+<script src="//assets.ngin.com/site_files/6716/wsn/js/old.js"></script>
+  <div>
+</div>
+
+</body>
+</html>

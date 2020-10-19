@@ -1,0 +1,1000 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<title data-rh="true"></title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="webgains-site-verification" content="3jxwedxr" />
+<link rel="preconnect" href="https://fonts.65twenty.com/">
+<link rel="manifest" href="/manifest.json">
+<link rel="preload" href="/assets/vendors~main.443d4dc4118fb47c4446.js" as="script"><link rel="preload" href="/assets/ads.443d4dc4118fb47c4446.js" as="script"><link rel="preload" href="/assets/default.443d4dc4118fb47c4446.js" as="script"><link rel="preload" href="/assets/main.443d4dc4118fb47c4446.js" as="script"><link rel="preload" href="/assets/sportbible.443d4dc4118fb47c4446.js" as="script">
+<link data-rh="true" rel="canonical" href="https://www.sportbible.com/" /><link data-rh="true" rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.4e22ec9d4626916a1359b0ad0241ee10.png" /><link data-rh="true" rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192x192.e612df0aeb297414689a4da3ccafa5dc.png" /><link data-rh="true" rel="icon" type="image/png" sizes="96x96" href="/assets/favicon-96x96.ed8921a940b8fcc80192110bddcad3b1.png" /><link data-rh="true" rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.11d6e50fc9ef375cff693a6a2d515594.png" /><link data-rh="true" rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.22e7e622ca5e1f9913bdd17598065aee.png" /><link data-rh="true" rel="mask-icon" color="#fff" href="/assets/maskable_icon.3416d797e8cfaf621171626c11d286ae.png" /><link data-rh="true" rel="shortcut icon" href="/assets/favicon.07d5b29f89dc4ff4dbd89d743b9bbbc0.ico" />
+<meta data-rh="true" name="keywords" content="SPORTbible" /><meta data-rh="true" name="theme-color" content="#74b87f" /><meta data-rh="true" name="msapplication-TileImage" content="/assets/images/theme/favicons/mstile-144x144.png" /><meta data-rh="true" name="msapplication-TileColor" content="#74b87f" /><meta data-rh="true" name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta data-rh="true" property="fb:app_id" content="578356625574981" /><meta data-rh="true" property="fb:pages" content="338233632988842" /><meta data-rh="true" name="twitter:card" content="summary" /><meta data-rh="true" name="twitter:site" content="@sportbible" /><meta data-rh="true" property="og:url" content="https://www.sportbible.com/" /><meta data-rh="true" property="og:type" content="website" />
+<script type="text/javascript" async=true>
+    (function() {
+      var host = 'www.sportbible.com';
+      var element = document.createElement('script');
+      var firstScript = document.getElementsByTagName('script')[0];
+      var url = 'https://quantcast.mgr.consensu.org'
+        .concat('/choice/', 'mGfuu1G9VdsCs', '/', host, '/choice.js');
+      var uspTries = 0;
+      var uspTriesLimit = 3;
+      element.async = true;
+      element.type = 'text/javascript';
+      element.src = url;
+      firstScript.parentNode.insertBefore(element, firstScript);
+      function makeStub() {
+        var TCF_LOCATOR_NAME = '__tcfapiLocator';
+        var queue = [];
+        var win = window;
+        var cmpFrame;
+        function addFrame() {
+          var doc = win.document;
+          var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+          if (!otherCMP) {
+            if (doc.body) {
+              var iframe = doc.createElement('iframe');
+              iframe.style.cssText = 'display:none';
+              iframe.name = TCF_LOCATOR_NAME;
+              doc.body.appendChild(iframe);
+            } else {
+              setTimeout(addFrame, 5);
+            }
+          }
+          return !otherCMP;
+        }
+        function tcfAPIHandler() {
+          var gdprApplies;
+          var args = arguments;
+          if (!args.length) {
+            return queue;
+          } else if (args[0] === 'setGdprApplies') {
+            if (
+              args.length > 3 &&
+              args[2] === 2 &&
+              typeof args[3] === 'boolean'
+            ) {
+              gdprApplies = args[3];
+              if (typeof args[2] === 'function') {
+                args[2]('set', true);
+              }
+            }
+          } else if (args[0] === 'ping') {
+            var retr = {
+              gdprApplies: gdprApplies,
+              cmpLoaded: false,
+              cmpStatus: 'stub'
+            };
+            if (typeof args[2] === 'function') {
+              args[2](retr);
+            }
+          } else {
+            queue.push(args);
+          }
+        }
+        function postMessageEventHandler(event) {
+          var msgIsString = typeof event.data === 'string';
+          var json = {};
+          try {
+            if (msgIsString) {
+              json = JSON.parse(event.data);
+            } else {
+              json = event.data;
+            }
+          } catch (ignore) {}
+          var payload = json.__tcfapiCall;
+          if (payload) {
+            window.__tcfapi(
+              payload.command,
+              payload.version,
+              function(retValue, success) {
+                var returnMsg = {
+                  __tcfapiReturn: {
+                    returnValue: retValue,
+                    success: success,
+                    callId: payload.callId
+                  }
+                };
+                if (msgIsString) {
+                  returnMsg = JSON.stringify(returnMsg);
+                }
+                if (event.source) {
+                  event.source.postMessage(returnMsg, '*');
+                }
+              },
+              payload.parameter
+            );
+          }
+        }
+        while (win) {
+          try {
+            if (win.frames[TCF_LOCATOR_NAME]) {
+              cmpFrame = win;
+              break;
+            }
+          } catch (ignore) {}
+          if (win === window.top) {
+            break;
+          }
+          win = win.parent;
+        }
+        if (!cmpFrame) {
+          addFrame();
+          win.__tcfapi = tcfAPIHandler;
+          win.addEventListener('message', postMessageEventHandler, false);
+        }
+      };
+      if (typeof module !== 'undefined') {
+        module.exports = makeStub;
+      } else {
+        makeStub();
+      }
+      var uspStubFunction = function() {
+        var arg = arguments;
+        if (typeof window.__uspapi !== uspStubFunction) {
+          setTimeout(function() {
+            if (typeof window.__uspapi !== 'undefined') {
+              window.__uspapi.apply(window.__uspapi, arg);
+            }
+          }, 500);
+        }
+      };
+      var checkIfUspIsReady = function() {
+        uspTries++;
+        if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+          console.warn('USP is not accessible');
+        } else {
+          clearInterval(uspInterval);
+        }
+      };
+      if (typeof window.__uspapi === 'undefined') {
+        window.__uspapi = uspStubFunction;
+        var uspInterval = setInterval(checkIfUspIsReady, 6000);
+      }
+    })();
+    </script>
+<script async type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script async type="text/javascript" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1645798-21"></script>
+<script type="text/javascript">
+          _atrk_opts = { atrk_acct:"jzgkj1aAkN00Ej", domain:"sportbible.com", dynamic: true};
+          (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+        </script>
+<noscript>
+          <img src="https://certify.alexametrics.com/atrk.gif?account=jzgkj1aAkN00Ej" style="display:none" height="1" width="1" alt="" />
+        </noscript>
+<script>
+      !function(n,e,o,r,i){
+        if(!e){
+          e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";
+          for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){
+            var f=t[c];
+            e[f]=function(n){
+              return function(){
+                var o=Array.prototype.slice.call(arguments,0);
+                e.q.push({functionName:n,arguments:o})
+              }
+            }(f)
+          }
+        }
+    }(document,window.permutive,"c8ee9446-97ed-462f-a5e9-1af66c8e9104","f05d67f8-98e8-4ac4-a9e8-8596bf03a14d",{});
+  </script>
+<script async src="https://cdn.permutive.com/c8ee9446-97ed-462f-a5e9-1af66c8e9104-web.js"></script>
+<script type="text/javascript"> /* <![CDATA[ */
+    (function() {
+      window.dm=window.dm||{AjaxData:[]}; window.dm.AjaxEvent=function(et,d,ssid,ad){
+      dm.AjaxData.push({et:et,d:d,ssid:ssid,ad:ad});
+      window.DotMetricsObj&&DotMetricsObj.onAjaxDataUpdate(); };
+      var d=document, h=d.getElementsByTagName('head')[0], s=d.createElement('script'); s.type='text/javascript'; s.async=true;
+      s.src='https://uk-script.dotmetrics.net/door.js?d='+document.location.host+'&t=football';
+      h.appendChild(s); }());
+    /* ]]> */
+  </script>
+<script type="text/javascript">
+      (function(n,a,t,i,v,e,ai){n['NativeAIObject']=v;n[v]=n[v]||function(){
+      (n[v].q=n[v].q||[]).push(arguments)},n[v].l=1*new Date();n[v].i=i;e=a.createElement(t),
+      ai=a.getElementsByTagName(t)[0];e.async=1;e.src=i+"?"+(n[v].l-n[v].l%604800000);
+      ai.parentNode.insertBefore(e,ai)})
+      (window,document,'script','https://cdn.native.ai/js/current/nativeai.js','nativeAI');
+      nativeAI('create', '449b18d6-5b9f-4feb-a7dd-f23d1475a4a1', false);
+    </script>
+<style>
+          
+
+  @font-face {
+    font-family: HelveticaNeueLTStd-BdOu;
+    font-display: block;
+    src: url('/assets/HelveticaNeueLTStd-BdOu.44fb30138ef1010675afdfea0ba9e5e4.eot');
+    src: url('/assets/HelveticaNeueLTStd-BdOu.44fb30138ef1010675afdfea0ba9e5e4.eot?#iefix') format('embedded-opentype'),
+         url('/assets/HelveticaNeueLTStd-BdOu.45055808eeac153f6601edf0fd1230b3.svg#HelveticaNeueLTStd-BdOu') format('svg'),
+         url('/assets/HelveticaNeueLTStd-BdOu.660e94323f6f992c767f45b65687e395.ttf') format('truetype'),
+         url('/assets/HelveticaNeueLTStd-BdOu.3cd020baff8e15093290cb6d22a93e16.woff') format('woff'),
+         url('/assets/HelveticaNeueLTStd-BdOu.d2e7656187e2b5012d67e739cc30e851.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  /**
+   * Set the global 'box-sizing' state to 'border-box'.
+   */
+  html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  *,
+  *::before,
+  *::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+  }
+
+  /* stylelint-disable */
+
+  /* normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
+
+  /* Document
+    ========================================================================== */
+
+  /**
+   * 1. Correct the line height in all browsers.
+   * 2. Prevent adjustments of font size after orientation changes in iOS.
+   */
+
+  html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+  }
+
+  /* Sections
+    ========================================================================== */
+
+  /**
+   * Remove the margin in all browsers.
+   */
+
+  body {
+    margin: 0;
+  }
+
+  /**
+   * Correct the font size and margin on 'h1' elements within 'section' and
+   * 'article' contexts in Chrome, Firefox, and Safari.
+   */
+
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+
+  /* Grouping content
+    ========================================================================== */
+
+  /**
+   * 1. Add the correct box sizing in Firefox.
+   * 2. Show the overflow in Edge and IE.
+   */
+
+  hr {
+    box-sizing: content-box; /* 1 */
+    height: 0; /* 1 */
+    overflow: visible; /* 2 */
+  }
+
+  /**
+   * 1. Correct the inheritance and scaling of font size in all browsers.
+   * 2. Correct the odd 'em' font sizing in all browsers.
+   */
+
+  pre {
+    font-family: monospace, monospace; /* 1 */
+    font-size: 1em; /* 2 */
+  }
+
+  /* Text-level semantics
+    ========================================================================== */
+
+  /**
+   * Remove the gray background on active links in IE 10.
+   */
+
+  a {
+    background-color: transparent;
+  }
+
+  /**
+   * 1. Remove the bottom border in Chrome 57-
+   * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+   */
+
+  abbr[title] {
+    border-bottom: none; /* 1 */
+    text-decoration: underline; /* 2 */
+    text-decoration: underline dotted; /* 2 */
+  }
+
+  /**
+   * Add the correct font weight in Chrome, Edge, and Safari.
+   */
+
+  b,
+  strong {
+    font-weight: bolder;
+  }
+
+  /**
+   * 1. Correct the inheritance and scaling of font size in all browsers.
+   * 2. Correct the odd 'em' font sizing in all browsers.
+   */
+
+  code,
+  kbd,
+  samp {
+    font-family: monospace, monospace; /* 1 */
+    font-size: 1em; /* 2 */
+  }
+
+  /**
+   * Add the correct font size in all browsers.
+   */
+
+  small {
+    font-size: 80%;
+  }
+
+  /**
+   * Prevent 'sub' and 'sup' elements from affecting the line height in
+   * all browsers.
+   */
+
+  sub,
+  sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+  sub {
+    bottom: -0.25em;
+  }
+
+  sup {
+    top: -0.5em;
+  }
+
+  /* Embedded content
+    ========================================================================== */
+
+  /**
+   * Remove the border on images inside links in IE 10.
+   */
+
+  img {
+    border-style: none;
+  }
+
+  /* Forms
+    ========================================================================== */
+
+  /**
+   * 1. Change the font styles in all browsers.
+   * 2. Remove the margin in Firefox and Safari.
+   */
+
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 1 */
+    line-height: 1.15; /* 1 */
+    margin: 0; /* 2 */
+  }
+
+  /**
+   * Show the overflow in IE.
+   * 1. Show the overflow in Edge.
+   */
+
+  button,
+  input { /* 1 */
+    background: transparent;
+    overflow: visible;
+  }
+
+  /**
+   * Remove the inheritance of text transform in Edge, Firefox, and IE.
+   * 1. Remove the inheritance of text transform in Firefox.
+   */
+
+  button,
+  select { /* 1 */
+    text-transform: none;
+  }
+
+  /**
+   * Correct the inability to style clickable types in iOS and Safari.
+   */
+
+  button,
+  [type="button"],
+  [type="reset"],
+  [type="submit"] {
+    -webkit-appearance: button;
+  }
+
+  /**
+   * Remove the inner border and padding in Firefox.
+   */
+
+  button::-moz-focus-inner,
+  [type="button"]::-moz-focus-inner,
+  [type="reset"]::-moz-focus-inner,
+  [type="submit"]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+  }
+
+  /**
+   * Restore the focus styles unset by the previous rule.
+   */
+
+  button:-moz-focusring,
+  [type="button"]:-moz-focusring,
+  [type="reset"]:-moz-focusring,
+  [type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+  }
+
+  /**
+   * Correct the padding in Firefox.
+   */
+
+  fieldset {
+    padding: 0.35em 0.75em 0.625em;
+  }
+
+  /**
+   * 1. Correct the text wrapping in Edge and IE.
+   * 2. Correct the color inheritance from 'fieldset' elements in IE.
+   * 3. Remove the padding so developers are not caught out when they zero out
+   *    'fieldset' elements in all browsers.
+   */
+
+  legend {
+    box-sizing: border-box; /* 1 */
+    color: inherit; /* 2 */
+    display: table; /* 1 */
+    max-width: 100%; /* 1 */
+    padding: 0; /* 3 */
+    white-space: normal; /* 1 */
+  }
+
+  /**
+   * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+   */
+
+  progress {
+    vertical-align: baseline;
+  }
+
+  /**
+   * Remove the default vertical scrollbar in IE 10+.
+   */
+
+  textarea {
+    overflow: auto;
+  }
+
+  /**
+   * 1. Add the correct box sizing in IE 10.
+   * 2. Remove the padding in IE 10.
+   */
+
+  [type="checkbox"],
+  [type="radio"] {
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
+  }
+
+  /**
+   * Correct the cursor style of increment and decrement buttons in Chrome.
+   */
+
+  [type="number"]::-webkit-inner-spin-button,
+  [type="number"]::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  /**
+   * 1. Correct the odd appearance in Chrome and Safari.
+   * 2. Correct the outline style in Safari.
+   */
+
+  [type="search"] {
+    -webkit-appearance: textfield; /* 1 */
+    outline-offset: -2px; /* 2 */
+  }
+
+  /**
+   * Remove the inner padding in Chrome and Safari on macOS.
+   */
+
+  [type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  /**
+   * 1. Correct the inability to style clickable types in iOS and Safari.
+   * 2. Change font properties to 'inherit' in Safari.
+   */
+
+  ::-webkit-file-upload-button {
+    -webkit-appearance: button; /* 1 */
+    font: inherit; /* 2 */
+  }
+
+  /* Interactive
+    ========================================================================== */
+
+  /*
+   * Add the correct display in Edge, IE 10+, and Firefox.
+   */
+
+  details {
+    display: block;
+  }
+
+  /*
+   * Add the correct display in all browsers.
+   */
+
+  summary {
+    display: list-item;
+  }
+
+  /* Misc
+    ========================================================================== */
+
+  /**
+   * Add the correct display in IE 10+.
+   */
+
+  template {
+    display: none;
+  }
+
+  /**
+   * Add the correct display in IE 10.
+   */
+
+  [hidden] {
+    display: none;
+  }
+  /* stylelint-enable */
+
+  /**
+   * As well as using Normalize.css, it is often advantageous to remove all
+   * margins from certain elements.
+   */
+  body,
+  h1, h2, h3, h4, h5, h6,
+  p, blockquote, pre,
+  dl, dd, ol, ul,
+  form, fieldset, legend,
+  figure,
+  table, th, td, caption,
+  hr {
+    margin: 0;
+    padding: 0;
+  }
+
+  /**
+   * Remove trailing margins from nested lists.
+   */
+  li > ul,
+  li > ol {
+    margin-bottom: 0;
+  }
+
+  /**
+   * Letâs get <table>s behaving how we expect.
+   */
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+  /**
+   * Set default spacing to 'margin-bottom' for all block level elements for
+   * consistent vertical rhythm.
+   * http://csswizardry.com/2012/06/single-direction-margin-declarations/
+   */
+  h1, h2, h3, h4, h5, h6, hgroup,
+  ul, ol, dl,
+  blockquote, p, address,
+  table,
+  fieldset, figure,
+  pre {
+    margin-bottom: 1rem;
+  }
+
+  /**
+   * Indent list elements by the same amount.
+   */
+  ul, ol,
+  dd {
+    margin-left: 1rem;
+  }
+
+  /**
+   * Handle Video Styling at Mobile
+   */
+  @media (max-width: 600px) {
+    .article__body iframe[src*="brightcove"],
+    .article__body iframe[src*="mtvnservices"],
+    .article__body iframe[src*="rumble"],
+    .article__body iframe[src*="vimeo"],
+    .article__body iframe[src*="youtube"] {
+      width: auto;
+      height: auto;
+      margin-left: auto;
+      max-width: 100%;
+      margin-right: auto;
+      display: block;
+    }
+  }
+
+  .interactive-youtube {
+    padding: 0 5px;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+  }
+
+  /* stylelint-disable selector-type-no-unknown */
+  .article__body iframe[src*="brightcove"], .article-main iframe[src*="brightcove"],
+  .article__body amp-iframe[src*="brightcove"], .article-main amp-iframe[src*="brightcove"],
+  .article__body iframe[src*="jw-iframe"], .article-main iframe[src*="jw-iframe"],
+  .article__body amp-iframe[src*="jw-iframe"], .article-main amp-iframe[src*="jw-iframe"],
+  .article-main iframe[src*="youtube.com"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  /* stylelint-enable selector-type-no-unknown */
+
+
+  false
+
+    /**
+   * Semantically, weâd like all forms to be built with <fieldset>s and
+   * <legend>s, but we donât want to visually see them.
+   */
+  fieldset {
+    border: none;
+  }
+
+  /**
+   * Make sure our form elements donât use any User-Agent specific font styles
+   */
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    font: inherit;
+  }
+
+    /**
+   * 1. Fluid images.
+   * 2. Differentiate 'alt' text.
+   * 3. Removes the whitespace under 'img' elements.
+   */
+  img {
+    max-width: 100%; /* [1] */
+    font-style: italic; /* [2] */
+    vertical-align: middle; /* [3] */
+  }
+
+  /**
+   * Don't make the image fluid unless explicitly defined.
+   */
+  img[width],
+  img[height] {
+    max-width: none;
+  }
+
+    /**
+   * Minimal styling for basic anchor tags
+   */
+  a {
+    transition: color 0.3s ease,color 0.3s ease;
+    color: #000000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  a:hover,
+  a:focus {
+    color: #74b87f;
+    text-decoration: none;
+  }
+
+    /**
+   * High-level, page-level styling.
+   */
+  html {
+    background-color: #fff;
+    
+    font-size: 1rem;
+    line-height: 1.25rem;
+  
+    font-family: HelveticaNeue,sans-serif;
+    
+    color: #000000;
+    min-height: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+  }
+
+  @media (min-width: 768px) {
+    html {
+      background-color: #fff;
+    }
+  }
+
+    /**
+   * Force all headings and semantic text elements to have the exact same styling
+   * by default. Allowing freedom of cosmetic choice (via components) with the
+   * correct semantic element.
+   */
+  h1, h2, h3, h4, h5, h6 {
+    
+    font-size: 1rem;
+    line-height: 1.25rem;
+  
+    font-weight: normal;
+  }
+
+  small {
+    font: inherit;
+  }
+  
+
+  .o-container {
+    max-width: 1312px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .o-container--inset {
+    max-width: 1280px;
+  }
+
+  /* Flush at 'medium' down */
+  @media (max-width: 768px) {
+    .o-container--flush\<medium {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
+  /**
+   * Places any image-like content next to any text-like content.
+   *
+   * See: https://csswizardry.com/2013/05/the-flag-object/
+   */
+  .o-flag {
+    display: table;
+    width: 100%;
+  }
+
+  .o-flag__img,
+  .o-flag__body {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .o-flag__img {
+    padding-right: 1rem;
+  }
+
+  /* Fill the img element to the full width of the '__img' container */
+  .o-flag__img > img {
+    display: block;
+    max-width: none;
+  }
+
+  .o-flag__body {
+    width: 100%;
+  }
+
+  /* Modifiers
+    =========================================== */
+
+  /* Alignment
+    ---------------------------------- */
+
+  .o-flag--top > .o-flag__img,
+  .o-flag--top > .o-flag__body {
+    vertical-align: top;
+  }
+
+  .o-flag--bottom > .o-flag__img,
+  .o-flag--bottom > .o-flag__body {
+    vertical-align: bottom;
+  }
+
+  /* Spacing
+    ---------------------------------- */
+
+  /**
+   * Reduce the gutter between contents.
+   */
+  .o-flag--small > .o-flag__img {
+    padding-right: 0.5rem;
+  }
+
+  /**
+   * Increase the gutter between contents.
+   */
+  .o-flag--medium > .o-flag__img {
+    padding-right: 2rem;
+  }
+
+  .o-flag--large > .o-flag__img {
+    padding-right: 3rem;
+  }
+
+  /* Order & Structure
+    ---------------------------------- */
+
+  /**
+   * Reverse the order of contents.
+   */
+  .o-flag--reverse {
+    direction: rtl;
+  }
+
+  .o-flag--reverse > .o-flag__img,
+  .o-flag--reverse > .o-flag__body {
+      direction: ltr;
+  }
+
+  /**
+   * Remove all spacing.
+   */
+  .o-flag--flush > .o-flag__img {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .o-list-inline {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+
+  .o-list-inline__item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1rem;
+  }
+
+  .o-list-inline--flush > .o-list-inline__item {
+    margin-right: 0;
+  }
+
+  .o-list-inline--small > .o-list-inline__item {
+    margin-right: 0.5rem;
+  }
+
+
+        </style>
+</head>
+<body>
+<script>window.__HONEYBEE__ = {"GRAPHQL_URL":"http://hive.default:4000/graphql","GRAPHQL_CLIENT_URL":"https://hive.ladbible.com/graphql","GCLOUD_API_KEY":"AIzaSyB3eJK0j916MF3GBw9qoUL4B71XX4Zw-wQ","GCLOUD_PROJECT":"channel-production-01-184210","IMAGES_URL":"https://images.ladbible.com","SERVER_URL":"https://europe-west2-channel-production-01-184210.cloudfunctions.net/function-save-subscription","PUBLIC_KEY":"BOUHi4IstKmcK55ENEzg5fcwMmigcHa79fjKbqIE6DIERa-QDxrZRsQw76I1kfvrgGjdaBRCCQlm3hATDSDj8-8","cypressEnabled":false,"experiments":false,"flags":{},"uxExperiments":{"header-bidding":["isA9","isIndex"]},"DEPLOYMENT_ENV":"production"}</script>
+<script>window.__APOLLO_STATE__ = {}</script>
+
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "15593740" });
+    (function() {
+        var s = document.createElement("script"),
+        el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src =
+        (document.location.protocol == "https:" ? "https://sb" : "http://b") +
+        ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+    </script>
+<noscript>
+    <img
+        src="https://sb.scorecardresearch.com/p?c1=2&c2=15593740&cv=2.0&cj=1"
+    />
+    </noscript>
+
+<script>
+        document.body.addEventListener('pbBrandedElementEvent', function(event) {
+          if (!event || !event.detail) { return; }
+
+          var eventName = event.detail.name;
+          var eventData = event.detail.data;
+
+          switch(eventName) {
+            case 'branded-element.engaged':
+              if (eventData.pageActionType !== 'vote') { return; }
+
+              permutive.track('PollResponse', {
+                "survey": {
+                  "id": eventData.elementId
+                },
+                "question": {
+                  "id": eventData.itemId,
+                  "text": eventData.itemQuestionText
+                },
+                "answer": {
+                  "id": eventData.itemAnswerId,
+                  "text": eventData.itemAnswerText
+                },
+                "provider": "PlayBuzz"
+              });
+            break;
+          }
+        });
+</script>
+<script>
+  window.addEventListener("message", (event) => {
+    if(event && event.data && event.data.type === "picked_answer") {
+      var eventData = event.data.data;
+
+      permutive.track('PollResponse', {
+        "survey": {
+          "id": eventData.interactionId
+        },
+        "question": {
+          "id": eventData.slideId,
+          "text": eventData.slideTitle
+        },
+        "answer": {
+          "id": eventData.answerId,
+          "text": eventData.answerText
+        },
+        "provider": "Apester"
+      });
+    }
+  });
+</script>
+<script type="text/javascript" src="//ads.rubiconproject.com/prebid/13128_ladbible_group_demandmanager.js"></script>
+<script>
+        //Load the APS JavaScript Library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        //Initialize the Library
+        apstag.init({
+            pubID: '3920',
+            adServer: 'googletag'
+        });
+    </script>
+<div id="root" class="body-root"><style data-emotion-css="1d9f8qv">@font-face{font-family:"Druk Wide";font-display:block;font-style:bold;font-weight:bold;src:local("DrukWide"),local("Druk Wide"),url("https://fonts.65twenty.com/font/DrukWide-Bold.woff") format("woff");}@font-face{font-family:"Druk Text";font-display:block;font-style:normal;font-weight:normal;src:local("DrukText"),local("Druk Text"),url("https://fonts.65twenty.com/font/DrukText-Medium.woff") format("woff");}.css-1d9f8qv{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;min-height:100vh;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}</style><div class="css-1d9f8qv"><style data-emotion-css="y5wjgv">.css-y5wjgv{position:relative;}.skin__opt--three .css-y5wjgv .skin-gutter{height:100vh;}.skin__opt--three .css-y5wjgv .skin-gutter img{min-height:750px;}</style><div class="css-y5wjgv"><header class="header--article header--category header--shallow"><style data-emotion-css="mt3gdo">.css-mt3gdo{position:relative;display:grid;background:#74b87f;grid-template-columns:auto 1fr;grid-gap:0;z-index:10000;}.skin__opt--three .css-mt3gdo{margin-bottom:0;}.skin__opt--three .css-mt3gdo a:only-of-type div a + img{position:absolute;}@media (min-width:769px){.css-mt3gdo{margin-bottom:1.5rem;}}@media (min-width:1312px){.css-mt3gdo{grid-template-columns:auto repeat(2,calc(1312px / 2)) auto;}}</style><div id="header" class="header  css-mt3gdo" data-cypress="header"><style data-emotion-css="1x84rct-LogoContainer">.css-1x84rct-LogoContainer{color:#fff;grid-column:1;grid-row:1;}@media(min-width:769px){.css-1x84rct-LogoContainer{padding-left:1rem;}}@media(min-width:1280px){.css-1x84rct-LogoContainer{grid-column:2;grid-row:1;}}</style><div class="css-1x84rct-LogoContainer"><style data-emotion-css="1bttbg0-margin">.css-1bttbg0-margin{color:#74b87f;display:inline-block;padding:0.5rem 0;height:3rem;vertical-align:middle;color:inherit;position:relative;z-index:1;}@media (max-width:768px){.css-1bttbg0-margin{margin-left:1rem;}}.css-1bttbg0-margin:hover{color:rgba(255,255,255,0.75);}.css-1bttbg0-margin svg{max-width:120px;width:auto;height:2rem;fill:currentColor;}@media (min-width:420px){.css-1bttbg0-margin svg{max-width:160px;}}</style><a class="css-1bttbg0-margin" href="/"><style data-emotion-css="10f0bc5">.css-10f0bc5{position:absolute;overflow:hidden;-webkit-clip:rect(0 0 0 0);clip:rect(0 0 0 0);height:1px;width:1px;margin:-1px;padding:0;border:0;}</style><span class="css-10f0bc5">SPORTbible</span><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 480 270"><path d="M97.045,140.343h35.654l14.795-55.217h9.57c7.792,0,14.387-1.072,19.79-3.218c5.402-2.145,9.543-5.221,12.425-9.231 c2.88-4.008,5.493-10.388,7.838-19.139l3.199-11.941c2.299-8.581,3.532-14.919,3.697-19.012c0.165-4.093-0.679-7.58-2.533-10.458 c-1.854-2.88-5.189-5.082-10.001-6.607c-4.815-1.524-12.077-2.286-21.788-2.286h-39.767l-0.505,16.289L97.045,140.343z M163.152,26.692c4.629,0,7.487,0.707,8.579,2.118c1.089,1.412,1.007,4.46-0.248,9.146l-3.018,11.264 c-1.361,5.081-2.893,8.427-4.595,10.035c-1.702,1.609-4.191,2.414-7.465,2.414c-0.733,0-1.601-0.027-2.602-0.085L163.152,26.692z"></path><path d="M192.95,113.158c-0.834,5.646-0.118,10.869,2.154,15.668c2.27,4.799,6.006,8.398,11.208,10.797 c5.201,2.4,11.47,3.6,18.811,3.6c7.734,0,14.85-1.272,21.346-3.812c6.495-2.54,12.086-6.181,16.773-10.924 c4.685-4.742,8.121-9.979,10.306-15.709c2.183-5.731,5.122-15.483,8.813-29.261l6.286-23.458 c3.782-14.114,6.092-23.995,6.927-29.642c0.835-5.643,0.118-10.866-2.154-15.666c-2.271-4.797-6.007-8.397-11.207-10.797 c-5.201-2.4-11.472-3.6-18.81-3.6c-7.736,0-14.851,1.27-21.348,3.812c-6.496,2.54-12.088,6.182-16.773,10.924 c-4.688,4.742-8.123,9.98-10.307,15.709c-2.185,5.732-5.123,15.485-8.814,29.26l-6.286,23.458 C196.095,97.633,193.786,107.513,192.95,113.158z M230.448,102.488l17.155-64.026c1.891-7.056,3.522-11.306,4.896-12.745 c1.374-1.439,2.993-2.159,4.855-2.159c2.202,0,3.417,0.89,3.647,2.668c0.228,1.779-0.511,5.858-2.22,12.236l-16.883,63.009 c-2.163,8.074-3.872,13.184-5.124,15.329c-1.252,2.145-3.094,3.217-5.52,3.217c-2.371,0-3.633-0.93-3.782-2.793 C227.322,115.36,228.314,110.449,230.448,102.488z"></path><path d="M281.819,140.343h35.654l16.566-61.823c4.912,0,7.711,0.877,8.4,2.626c0.687,1.75,0.049,6.296-1.917,13.634l-12.208,45.563 h33.113l9.689-36.161c2.965-11.066,4.484-17.827,4.546-20.284c0.083-3.303-0.356-5.499-2.363-8.087 c-2.061-2.658-5.757-5.278-12.345-7.029c7.988-0.733,13.8-2.936,17.437-6.606c3.636-3.669,6.885-10.839,9.744-21.51 c3.132-11.687,3.535-20.198,1.21-25.532c-2.326-5.336-6.292-8.652-11.901-9.95c-5.608-1.299-16.825-1.949-33.649-1.949h-29.166 l-0.514,16.581L281.819,140.343z M347.925,26.692c4.12,0,6.776,0.678,7.966,2.032c1.19,1.355,1.203,4.208,0.038,8.553l-2.02,7.538 c-1.618,6.042-2.846,9.225-5.285,10.713c-1.905,1.101-4.861,1.651-8.869,1.651L347.925,26.692z"></path><polygon points="390.741,140.343 426.395,140.343 455.781,30.673 476.953,30.673 484.305,3.234 406.391,3.234 399.039,30.673 420.127,30.673"></polygon><path d="M21.351,137.802c5.778,3.613,13.439,5.421,22.981,5.421c8.694,0,16.736-1.567,24.125-4.701 c7.387-3.133,12.847-7.015,16.373-11.645c3.527-4.629,6.599-11.827,9.217-21.594c3.6-13.436,4.148-23.176,1.646-29.217 c-2.503-6.04-10.427-13.772-23.775-23.193c-4.658-3.269-7.268-6.065-7.83-8.382c-0.617-2.316-0.312-5.763,0.914-10.338 c0.954-3.559,2.215-6.215,3.787-7.966c1.57-1.753,3.427-2.629,5.573-2.629c1.975,0,3.213,0.65,3.712,1.948 c0.499,1.299,0.113,4.319-1.158,9.061L74.195,44.73h33.113l1.452-5.421c2.92-10.894,3.929-18.615,3.031-23.16 c-0.9-4.545-4.209-8.313-9.928-11.307c-5.72-2.992-13.209-4.489-22.467-4.489c-8.469,0-16.063,1.37-22.781,4.107 c-6.72,2.74-12.07,6.537-16.052,11.392c-3.984,4.855-7.381,12.533-10.194,23.035c-1.952,7.282-2.612,13.267-1.974,17.952 c0.635,4.689,2.038,8.358,4.206,11.01c2.167,2.655,6.896,6.918,14.189,12.788c7.304,5.816,11.754,9.966,13.348,12.449 c1.535,2.485,1.222,7.765-0.941,15.838c-0.983,3.67-2.305,6.435-3.961,8.299c-1.656,1.864-3.671,2.793-6.042,2.793 c-2.371,0-3.825-0.732-4.363-2.201c-0.539-1.468-0.12-4.77,1.258-9.908l4.47-16.684H17.446l-2.406,8.977 c-2.753,10.277-3.834,18.208-3.244,23.798C12.387,129.588,15.573,134.191,21.351,137.802z"></path><path d="M238.681,210.933c1.598-1.11,2.398-3.083,2.398-5.918c0-2.736-0.85-4.592-2.551-5.574c-1.704-0.977-3.818-1.47-6.346-1.47 H214.46v14.625h17.799C234.939,212.596,237.081,212.043,238.681,210.933"></path><path d="M234.038,221.882h-19.577v15.785h19.345c1.238,0,2.411-0.141,3.521-0.425c1.108-0.284,2.061-0.735,2.864-1.353 c0.797-0.62,1.444-1.407,1.934-2.361c0.49-0.954,0.735-2.129,0.735-3.521c0-2.786-0.813-4.837-2.437-6.153 C238.797,222.539,236.67,221.882,234.038,221.882"></path><path d="M72.236,210.933c1.598-1.11,2.398-3.083,2.398-5.918c0-2.736-0.85-4.592-2.551-5.574c-1.704-0.977-3.818-1.47-6.346-1.47 H48.015v14.625h17.799C68.493,212.596,70.635,212.043,72.236,210.933"></path><path d="M67.593,221.882H48.016v15.785h19.345c1.238,0,2.411-0.141,3.521-0.425c1.108-0.284,2.061-0.735,2.864-1.353 c0.797-0.62,1.444-1.407,1.934-2.361c0.49-0.954,0.735-2.129,0.735-3.521c0-2.786-0.813-4.837-2.437-6.153 C72.351,222.539,70.225,221.882,67.593,221.882"></path><path d="M443.471,198.281h-35.867v14.237h29.172v9.364h-29.172v15.477h35.826v9.596h-46.427v-58.269h46.469V198.281z M347.323,246.954h-42.867v-58.269h10.599v48.673h32.268V246.954z M252.376,237.977c-0.928,2.064-2.241,3.768-3.946,5.108 c-1.702,1.342-3.74,2.322-6.111,2.94c-2.374,0.62-5.004,0.93-7.894,0.93h-30.256v-58.269h28.555c2.525,0,4.952,0.31,7.274,0.928 c2.322,0.62,4.373,1.587,6.15,2.903c1.78,1.316,3.198,3.005,4.258,5.066c1.055,2.067,1.584,4.568,1.584,7.508 c0,3.302-0.811,5.908-2.437,7.816c-1.626,1.908-3.909,3.302-6.849,4.178c3.406,0.826,6.101,2.283,8.087,4.373 c1.986,2.087,2.979,5.095,2.979,9.014C253.77,233.411,253.306,235.913,252.376,237.977 M149.538,246.954h-10.601v-58.269h10.601 V246.954z M85.932,237.977c-0.928,2.064-2.244,3.768-3.946,5.108c-1.702,1.342-3.742,2.322-6.114,2.94 c-2.374,0.62-5.004,0.93-7.894,0.93H37.725v-58.269h28.552c2.528,0,4.952,0.31,7.274,0.928c2.322,0.62,4.373,1.587,6.153,2.903 c1.78,1.316,3.198,3.005,4.256,5.066c1.055,2.067,1.587,4.568,1.587,7.508c0,3.302-0.813,5.908-2.439,7.816 c-1.624,1.908-3.906,3.302-6.846,4.178c3.404,0.826,6.098,2.283,8.087,4.373c1.983,2.087,2.979,5.095,2.979,9.014 C87.326,233.411,86.86,235.913,85.932,237.977 M-0.415,269.979h480.027V166.057H-0.415V269.979z"></path></svg></a></div><style data-emotion-css="nmntd7">.css-nmntd7{border:0;padding:0;-webkit-clip:rect(0 0 0 0);clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;position:absolute;width:1px;white-space:nowrap;}.css-nmntd7:focus{-webkit-clip:auto;clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto;white-space:auto;position:absolute;padding:0.5rem;top:0.5rem;margin-left:1rem;color:#fff;background-color:#000;}</style><a href="#header-end" class="css-nmntd7">Skip to content</a><style data-emotion-css="7x0gwv">.css-7x0gwv{background:#000000;grid-column:1 / 3;grid-row:2;}@media (min-width:1280px){.css-7x0gwv{grid-column:1 / 5;}}</style><div class="css-7x0gwv"></div><style data-emotion-css="8oiwg0-PrimaryNav">.css-8oiwg0-PrimaryNav{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;grid-column:2;grid-row:1;place-self:end;padding-right:1rem;}.menu-open .css-8oiwg0-PrimaryNav{border-bottom:none;}.menu-open .css-8oiwg0-PrimaryNav svg{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg);}.css-8oiwg0-PrimaryNav button{background:transparent;display:block;padding:0;margin:0;color:#ffffff;font-size:1.25rem;text-transform:uppercase;font-family:Druk Text,Open Sans,sans-serif;font-weight:500;height:3rem;line-height:3rem;border:none;border-bottom:solid 3px transparent;-webkit-transition:color 0.2s ease,border-bottom-color 0.2s ease;transition:color 0.2s ease,border-bottom-color 0.2s ease;}.css-8oiwg0-PrimaryNav button span{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.css-8oiwg0-PrimaryNav button svg{color:#fff;margin-left:0.5rem;margin-top:0.125rem;width:0.75rem;height:0.75rem;}.css-8oiwg0-PrimaryNav button:hover,.menu-open .css-8oiwg0-PrimaryNav button{border-bottom-color:#74b87f;}@media (min-width:769px){.css-8oiwg0-PrimaryNav{grid-column:1 / 3;grid-row:2;margin:0 1rem;padding-right:0;place-self:auto;}.css-8oiwg0-PrimaryNav a,.css-8oiwg0-PrimaryNav button svg{color:#ffffff;}}@media (min-width:1280px){.css-8oiwg0-PrimaryNav{grid-column:2 / 4;padding-left:0;}}@media (min-width:1280px){.css-8oiwg0-PrimaryNav{margin:0;padding:0 1rem;}}@media (max-width:768px){.css-8oiwg0-PrimaryNav button{color:#fff;}}</style><nav class="css-8oiwg0-PrimaryNav"><style data-emotion-css="12621tn">.css-12621tn{margin-left:0;}@media (max-width:768px){.css-12621tn{display:none;}}</style><span class="css-12621tn"><div class="o-list-inline__item"><style data-emotion-css="mphv1e-HeaderLink">.css-mphv1e-HeaderLink{color:#74b87f;display:block;color:#ffffff;font-size:1.25rem;text-transform:uppercase;font-family:Druk Text,Open Sans,sans-serif;font-weight:500;height:3rem;line-height:3rem;border-bottom:solid 3px transparent;-webkit-transition:color 0.2s ease,border-bottom-color 0.2s ease;transition:color 0.2s ease,border-bottom-color 0.2s ease;}.css-mphv1e-HeaderLink:hover,.css-mphv1e-HeaderLink:active,.css-mphv1e-HeaderLink:focus{color:#ffffff;-webkit-text-decoration:none;text-decoration:none;border-bottom-color:#74b87f;}@media (max-width:768px){.css-mphv1e-HeaderLink:hover,.css-mphv1e-HeaderLink:active,.css-mphv1e-HeaderLink:focus{color:#fff;}}.header.isActive .css-mphv1e-HeaderLink:hover,.header.isActive .css-mphv1e-HeaderLink:active,.header.isActive .css-mphv1e-HeaderLink:focus{border-bottom-color:#fff;}@media (min-width:768px){.header.isActive .css-mphv1e-HeaderLink:hover,.header.isActive .css-mphv1e-HeaderLink:active,.header.isActive .css-mphv1e-HeaderLink:focus{color:inherit;}}</style><a class="css-mphv1e-HeaderLink" href="/football">Football</a></div><div class="o-list-inline__item"><a class="css-mphv1e-HeaderLink" href="/boxing">Boxing</a></div><div class="o-list-inline__item"><a class="css-mphv1e-HeaderLink" href="/ufc">UFC</a></div></span><button type="button" on="tap:header.toggleClass(class=&#x27;menu-open&#x27;)" data-cypress="menu-more"><span>Categories<style data-emotion-css="20as6p">.css-20as6p{display:inline-block;fill:currentColor;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}</style><svg class="css-20as6p" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path fill="currentColor" d="M10 9.727l6.364-6.363L20 7l-6.364 6.364L10 17 0 7l3.636-3.636z"></path></svg></span></button><style data-emotion-css="1nolr0e">.css-1nolr0e{display:none;grid-column:1 / 3;grid-row:3;}@media (min-width:769px){.css-1nolr0e{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;grid-column:2;grid-row:1;margin-right:0;margin-left:auto;}.menu-open .css-1nolr0e{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}}@media (min-width:1280px){.css-1nolr0e{grid-column:3;}}</style><nav id="hubs-container" class="css-1nolr0e"></nav></nav><style data-emotion-css="urg64o">.css-urg64o{color:#fff;position:absolute;top:3rem;width:100%;}@media (min-width:769px){.css-urg64o{grid-column:1 / 3;grid-row:3;top:0;}}@media (min-width:1280px){.css-urg64o{grid-column:1 / 5;}}</style><div class="css-urg64o"><style data-emotion-css="1btinlc">.css-1btinlc{display:none;color:#fff;padding:0.5rem 0;background:#74b87f;}.menu-open .css-1btinlc{display:block;z-index:10000;width:100%;}@media (min-width:768px){.css-1btinlc{grid-column:1 / 3;grid-row:3;background:#000000;}}@media (min-width:1280px){.css-1btinlc{grid-column:2 / 4;}}</style><div data-cypress="navigation" class="css-1btinlc"><style data-emotion-css="1gjxsoa-margin">.css-1gjxsoa-margin{max-width:1312px;padding-right:1rem;padding-left:1rem;margin-right:auto;margin-left:auto;margin-left:0;list-style-type:none;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:left;-webkit-justify-content:left;-ms-flex-pack:left;justify-content:left;margin:1rem auto 0;text-align:left;}@media (min-width:1024px){.css-1gjxsoa-margin{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;}}</style><ul class="css-1gjxsoa-margin"><style data-emotion-css="aunaf8">.css-aunaf8{display:block;width:100%;padding-right:2rem;margin-bottom:1rem;}.css-aunaf8:last-child{margin-bottom:0;padding-right:0;}@media (min-width:420px){.css-aunaf8{width:50%;}}@media (min-width:1024px){.css-aunaf8{width:auto;}}</style><li class="css-aunaf8"><style data-emotion-css="1dksoc9-AccentLinkable">.css-1dksoc9-AccentLinkable{color:#74b87f;font-family:Druk Wide,Open Sans,sans-serif;font-size:1.25rem;line-height:normal;font-weight:500;text-transform:uppercase;color:inherit;-webkit-text-decoration:none;text-decoration:none;}@media (max-width:768px){.css-1dksoc9-AccentLinkable{font-size:1.5rem;line-height:1.75rem;}}.css-1dksoc9-AccentLinkable:hover,.css-1dksoc9-AccentLinkable:focus{color:#fff;-webkit-text-decoration:underline;text-decoration:underline;}#navigation:target .css-1dksoc9-AccentLinkable{color:#fff;}</style><a class="css-1dksoc9-AccentLinkable" href="/football">Football</a><style data-emotion-css="w5a0vz-margin-margin">.css-w5a0vz-margin-margin{margin-left:0;list-style-type:none;margin-top:0.5rem;}</style><ul class="css-w5a0vz-margin-margin"><style data-emotion-css="3dumn7-margin">.css-3dumn7-margin{display:block;margin-bottom:0.5rem;}</style><li class="css-3dumn7-margin"><style data-emotion-css="hoge3m">.css-hoge3m{color:#74b87f;text-transform:uppercase;color:inherit;-webkit-text-decoration:none;text-decoration:none;}.css-hoge3m:hover,.css-hoge3m:focus{color:#fff;-webkit-text-decoration:underline;text-decoration:underline;}#navigation:target .css-hoge3m{color:#fff;}</style><a class="css-hoge3m" href="/news">News</a></li><li class="css-3dumn7-margin"><a class="css-hoge3m" href="/transfers">Transfers</a></li><li class="css-3dumn7-margin"><a class="css-hoge3m" href="/premier-league">Premier League</a></li><li class="css-3dumn7-margin"><a class="css-hoge3m" href="/champions-league">Champions League</a></li></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/boxing">Boxing</a><ul class="css-w5a0vz-margin-margin"></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/ufc">UFC</a><ul class="css-w5a0vz-margin-margin"></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/wwe">WWE</a><ul class="css-w5a0vz-margin-margin"></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/f1">F1</a><ul class="css-w5a0vz-margin-margin"></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/other">Other Sport</a><ul class="css-w5a0vz-margin-margin"></ul></li><li class="css-aunaf8"><a class="css-1dksoc9-AccentLinkable" href="/australia">Australia</a><ul class="css-w5a0vz-margin-margin"></ul></li></ul><style data-emotion-css="13sfhmx">.css-13sfhmx{background-color:#fff;border:0;height:1px;margin:0 1rem 1rem;max-width:1280px;}@media (min-width:1280px){.css-13sfhmx{margin:0 auto 1rem;}}@media (min-width:769px){.css-13sfhmx{display:none;}}</style><hr class="css-13sfhmx" /><style data-emotion-css="1n6awco">.css-1n6awco{margin-bottom:2rem;padding:0 1rem;}@media (min-width:769px){.css-1n6awco{display:none;}}</style><div class="css-1n6awco"></div></div></div></div></header></div><span id="content-start"></span><style data-emotion-css="yp9swi">.css-yp9swi{-webkit-flex:1;-ms-flex:1;flex:1;}</style><div class="css-yp9swi"><style data-emotion-css="te0jfh-padding">.css-te0jfh-padding{max-width:1312px;padding-right:1rem;padding-left:1rem;margin-right:auto;margin-left:auto;text-align:center;padding-top:1rem;padding-right:1rem;padding-bottom:1rem;padding-left:1rem;}</style><div class="css-te0jfh-padding"><style data-emotion-css="1ilqvcy">.css-1ilqvcy{font-family:HelveticaNeueBold,sans-serif;font-size:2rem;line-height:2.25rem;line-height:normal;}@media (max-width:768px){.css-1ilqvcy{font-size:1.25rem;line-height:1.5rem;}}</style><h1 class="css-1ilqvcy">Sorry, this content isn&#x27;t available right now.</h1></div></div><style data-emotion-css="1g6inve-textAlign-margin">.css-1g6inve-textAlign-margin{text-align:center;margin-top:2rem;background-color:#74b87f;}.skin__opt--three .css-1g6inve-textAlign-margin{max-width:970px;}.css-1g6inve-textAlign-margin li a,.css-1g6inve-textAlign-margin li a:hover,.css-1g6inve-textAlign-margin a svg{color:#ffffff;}</style><footer class="footer css-1g6inve-textAlign-margin" data-cypress="footer"><style data-emotion-css="1feynou">.css-1feynou{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;width:100%;margin:0;padding:0 0px;font-size:0;}@media (min-width:768px){.css-1feynou{-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;padding:0 0px;}}</style><div class="css-1feynou"><style data-emotion-css="6p4isz-width-width-width">.css-6p4isz-width-width-width{margin:0px 0px;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:0;vertical-align:top;width:100%;box-sizing:border-box;font-size:1rem;line-height:1.25rem;}@media (max-width:420px){.css-6p4isz-width-width-width{margin:0px 0;}}@media (min-width:420px){.css-6p4isz-width-width-width{width:33.33%;}}@media (min-width:768px){.css-6p4isz-width-width-width{width:25.00%;}}@media (min-width:1024px){.css-6p4isz-width-width-width{width:20.00%;}}</style><div class="css-6p4isz-width-width-width"><div><style data-emotion-css="zm6nak-padding-padding-sectionBorder-padding-padding">.css-zm6nak-padding-padding-sectionBorder-padding-padding{max-width:1312px;padding-right:1rem;padding-left:1rem;margin-right:auto;margin-left:auto;padding-top:1rem;padding-bottom:1rem;border-top:1px solid #ffffff;padding-top:1.5rem;padding-bottom:1.5rem;border:0;}</style><div class="css-zm6nak-padding-padding-sectionBorder-padding-padding"><style data-emotion-css="bljb3z-Button">.css-bljb3z-Button{color:#74b87f;border:3px solid #fff;background-color:#fff;color:#74b87f;font-family:Druk Wide,sans-serif;font-size:0.75rem;padding:0.5rem 1rem;cursor:pointer;display:inline-block;vertical-align:middle;font-weight:bold;-webkit-letter-spacing:0.12ch;-moz-letter-spacing:0.12ch;-ms-letter-spacing:0.12ch;letter-spacing:0.12ch;line-height:normal;text-align:center;text-transform:uppercase;}.css-bljb3z-Button:hover,.css-bljb3z-Button:active,.css-bljb3z-Button:focus{background-color:transparent;color:#fff;}.css-bljb3z-Button:hover,.css-bljb3z-Button:active,.css-bljb3z-Button:focus{-webkit-text-decoration:none;text-decoration:none;}</style><a href="https://www.sportbible.com/submit" class="css-bljb3z-Button">Submit your content</a></div></div><div><style data-emotion-css="1h855ch-padding-padding-sectionBorder-padding-padding">.css-1h855ch-padding-padding-sectionBorder-padding-padding{max-width:1312px;padding-right:1rem;padding-left:1rem;margin-right:auto;margin-left:auto;padding-top:1rem;padding-bottom:1rem;border-top:1px solid #ffffff;padding-top:2rem;padding-bottom:2rem;}</style><div class="css-1h855ch-padding-padding-sectionBorder-padding-padding"><style data-emotion-css="1ekstrg-socialLinks">.css-1ekstrg-socialLinks{width:22%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:0 auto;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}.css-1ekstrg-socialLinks svg{display:block;margin:0 auto;width:1.5rem;height:1.5rem;}@media (max-width:768px){.css-1ekstrg-socialLinks{width:100%;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}</style><ul class="o-list-inline css-1ekstrg-socialLinks"><style data-emotion-css="1na32u4">@media (max-width:420px){.css-1na32u4{width:20%;margin:0;}}</style><li class="o-list-inline__item css-1na32u4"><style data-emotion-css="xb0zgt">.css-xb0zgt{-webkit-transition:color 0.3s ease,color 0.3s ease;transition:color 0.3s ease,color 0.3s ease;font-family:'Open Sans',sans-serif;font-size:0.75rem;line-height:1rem;}.css-xb0zgt:hover{color:#74b87f;-webkit-text-decoration:none;text-decoration:none;}.css-xb0zgt svg{color:#74b87f;}</style><a href="https://www.facebook.com/SPORTbible" class="css-xb0zgt"><svg class="css-20as6p" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 20 20"><title>Facebook</title><path fill="currentColor" d="M11.875 3.75H15V0h-3.125C9.4625 0 7.5 1.9625 7.5 4.375V6.25H5V10h2.5v10h3.75V10h3.125L15 6.25h-3.75V4.375c0-.3388.2862-.625.625-.625z"></path></svg></a></li><li class="o-list-inline__item css-1na32u4"><a href="https://www.instagram.com/sportbible" class="css-xb0zgt"><svg class="css-20as6p" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 20 20"><title>Instagram</title><path fill="currentColor" d="M9.5 2.3043c2.5383 0 2.8387.0113 3.8368.0559.928.041 1.4286.1965 1.7629.3265.4417.171.7606.3788 1.0907.709.3343.3342.538.6495.7125 1.0913.13.3342.2856.8383.3265 1.7628.0446 1.0023.0559 1.3027.0559 3.8374s-.0113 2.8387-.0559 3.8374c-.041.928-.1965 1.4286-.3265 1.7629-.171.4417-.3782.7606-.709 1.0907-.3342.3343-.6495.538-1.0907.7125-.3343.13-.839.2856-1.7628.3266-1.0023.0445-1.3027.0558-3.8374.0558s-2.8388-.0113-3.8374-.0558c-.928-.041-1.4286-.1966-1.7629-.3266-.4417-.171-.7606-.3782-1.0913-.709-.3343-.3342-.538-.6495-.7125-1.0907-.13-.3343-.2856-.839-.3266-1.7628-.0445-1.0023-.0558-1.3027-.0558-3.8374s.0113-2.8387.0558-3.8374c.041-.928.1966-1.4286.3266-1.7629.171-.4417.3788-.7606.709-1.0913.3342-.3343.6495-.538 1.0913-.7125.3342-.13.8383-.2856 1.7628-.3265.998-.0446 1.2991-.0559 3.8374-.0559H9.5zm0-1.7106c-2.5793 0-2.9017.0113-3.9152.0559-1.0094.0445-1.7035.2078-2.3043.4417-.627.2446-1.1578.5676-1.6845 1.0985C1.0652 2.717.7422 3.2471.4976 3.8707c-.234.605-.3973 1.295-.4418 2.3043C.0113 7.192 0 7.5145 0 10.0938c0 2.5792.0113 2.9016.0558 3.9151.0445 1.0094.2078 1.7035.4418 2.3044.2452.627.5676 1.1578 1.0984 1.6844.5267.5267 1.0575.8539 1.681 1.095.605.2339 1.2949.3971 2.3042.4417 1.013.0445 1.336.0558 3.9152.0558 2.5793 0 2.9023-.0113 3.9152-.0558 1.0094-.0446 1.7035-.2078 2.3044-.4418.6234-.241 1.1542-.5676 1.6809-1.0949.5266-.5272.8538-1.0574 1.0949-1.6809.2339-.605.3972-1.295.4417-2.3043.0445-1.013.0558-1.336.0558-3.9152s-.0113-2.9016-.0558-3.9152c-.0445-1.0094-.2078-1.7034-.4417-2.3043-.234-.6312-.557-1.1614-1.0872-1.6886-.5267-.5267-1.0575-.8539-1.681-1.095-.605-.2339-1.2949-.3971-2.3043-.4417-1.0165-.048-1.3395-.0593-3.9187-.0593L9.5.5938z"></path><path fill="currentColor" d="M9.5 5.2137c-2.6938 0-4.88 2.1856-4.88 4.88 0 2.6945 2.1856 4.88 4.88 4.88s4.88-2.1855 4.88-4.88c0-2.6938-2.1856-4.88-4.88-4.88zm0 8.0453c-1.748 0-3.1653-1.4173-3.1653-3.1653 0-1.748 1.4173-3.1652 3.1653-3.1652 1.748 0 3.1653 1.4173 3.1653 3.1653 0 1.748-1.4173 3.1652-3.1653 3.1652z"></path><path fill="currentColor" d="M15.7118 5.0207c0 .6294-.51 1.1395-1.1394 1.1395s-1.1394-.51-1.1394-1.1395c0-.6293.51-1.1394 1.1394-1.1394s1.1394.51 1.1394 1.1394z"></path></svg></a></li><li class="o-list-inline__item css-1na32u4"><a href="https://twitter.com/sportbible" class="css-xb0zgt"><svg class="css-20as6p" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 20 20"><title>Twitter</title><path fill="currentColor" d="M17.316 6.246c0.008 0.162 0.011 0.326 0.011 0.488 0 4.99-3.797 10.742-10.74 10.742-2.133 0-4.116-0.625-5.787-1.697 0.296 0.035 0.596 0.053 0.9 0.053 1.77 0 3.397-0.604 4.688-1.615-1.651-0.031-3.046-1.121-3.526-2.621 0.23 0.043 0.467 0.066 0.71 0.066 0.345 0 0.679-0.045 0.995-0.131-1.727-0.348-3.028-1.873-3.028-3.703 0-0.016 0-0.031 0-0.047 0.509 0.283 1.092 0.453 1.71 0.473-1.013-0.678-1.68-1.832-1.68-3.143 0-0.691 0.186-1.34 0.512-1.898 1.861 2.285 4.644 3.787 7.781 3.945-0.064-0.277-0.097-0.564-0.097-0.861 0-2.084 1.689-3.773 3.774-3.773 1.086 0 2.067 0.457 2.756 1.191 0.859-0.17 1.667-0.484 2.397-0.916-0.282 0.881-0.881 1.621-1.66 2.088 0.764-0.092 1.49-0.293 2.168-0.594-0.506 0.758-1.146 1.422-1.884 1.953z"></path></svg></a></li><li class="o-list-inline__item css-1na32u4"><a href="https://www.snapchat.com/add/tsbible" class="css-xb0zgt"><svg class="css-20as6p" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 20 20"><title>Snapchat</title><path fill="currentColor" d="M10.1923077,0.769230769 C12.3553846,0.745384615 14.1469231,1.95923077 15.0476923,3.90615385 C15.3238462,4.49538462 15.3723077,5.40846154 15.3723077,6.05769231 C15.3723077,6.82692308 15.3123077,7.58384615 15.2638462,8.35307692 C15.36,8.40153846 15.4923077,8.43692308 15.6007692,8.43692308 C16.0330769,8.43692308 16.3938462,8.11230769 16.8269231,8.11230769 C17.2353846,8.11230769 17.8246154,8.40076923 17.8246154,8.88153846 C17.8246154,10.0353846 15.4084615,9.81923077 15.4084615,10.8284615 C15.4084615,11.0084615 15.4807692,11.1769231 15.5523077,11.3453846 C16.1292308,12.6076923 17.2230769,13.8215385 18.5207692,14.3623077 C18.8330769,14.4946154 19.1453846,14.5669231 19.4823077,14.6384615 C19.6984615,14.6869231 19.8192308,14.8430769 19.8192308,15.0592308 C19.8192308,15.8761538 17.74,16.2130769 17.1869231,16.2969231 C16.9461538,16.6692308 17.1269231,17.5469231 16.49,17.5469231 C15.9969231,17.5469231 15.5046154,17.3907692 14.9753846,17.3907692 C14.7230769,17.3907692 14.4707692,17.4030769 14.23,17.4507692 C12.8,17.6915385 12.3192308,19.2292308 9.97538462,19.2292308 C7.71538462,19.2292308 7.17461538,17.6907692 5.78076923,17.4507692 C5.52846154,17.4023077 5.27615385,17.3907692 5.02384615,17.3907692 C4.48307692,17.3907692 3.96615385,17.5707692 3.53384615,17.5707692 C2.86076923,17.5707692 3.06538462,16.6815385 2.81230769,16.2969231 C2.25923077,16.2130769 0.18,15.8761538 0.18,15.0592308 C0.18,14.8430769 0.3,14.6869231 0.516923077,14.6384615 C0.853846154,14.5661538 1.16615385,14.4946154 1.47846154,14.3623077 C2.76461538,13.8330769 3.88230769,12.6076923 4.44692308,11.3453846 C4.51923077,11.1769231 4.59076923,11.0084615 4.59076923,10.8284615 C4.59076923,9.81846154 2.16307692,10.0115385 2.16307692,8.89307692 C2.16307692,8.42461538 2.71615385,8.12384615 3.13692308,8.12384615 C3.50923077,8.12384615 3.88230769,8.43615385 4.35076923,8.43615385 C4.48307692,8.43615385 4.61538462,8.41230769 4.73538462,8.35230769 C4.68692308,7.59538462 4.62692308,6.83769231 4.62692308,6.06846154 C4.62692308,5.41923077 4.67538462,4.49384615 4.95153846,3.90538462 C6.00923077,1.62153846 7.8,0.792307692 10.1923077,0.768461538 L10.1923077,0.769230769 Z"></path></svg></a></li><li class="o-list-inline__item css-1na32u4"><a href="https://www.newsbreak.com/publishers/@519260" class="css-xb0zgt"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 634.496 573.405" style="enable-background:new 0 0 634.496 573.405;width:23;height:23"><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-70.4525" y1="485.0309" x2="135.4153" y2="279.1631"><stop offset="0" style="stop-color:#ffffff"></stop><stop offset="0.4951" style="stop-color:#ccc"></stop><stop offset="0.6734" style="stop-color:#ccc"></stop><stop offset="0.8005" style="stop-color:#ccc"></stop><stop offset="0.9025" style="stop-color:#ccc"></stop><stop offset="0.9896" style="stop-color:#ccc"></stop><stop offset="1" style="stop-color:#ccc"></stop></linearGradient><path style="fill:url(#SVGID_1_)" d="M18.924,566.709l192.572-223.595L103.496,140l-102,412 C-5.504,584,14.061,572.123,18.924,566.709z"></path><linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="289.3679" y1="521.8716" x2="720.8562" y2="90.3833"><stop offset="0" style="stop-color:#ffffff"></stop><stop offset="0.4951" style="stop-color:#ccc"></stop><stop offset="0.6734" style="stop-color:#ccc"></stop><stop offset="0.8005" style="stop-color:#ccc"></stop><stop offset="0.9025" style="stop-color:#ccc"></stop><stop offset="0.9896" style="stop-color:#ccc"></stop><stop offset="1" style="stop-color:#ccc"></stop></linearGradient><path style="fill:url(#SVGID_2_)" d="M616.388,7.91L328.496,561l238-129l66.568-406.713C639.763-12.516,621.042,1.515,616.388,7.91 z"></path><linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="105.4962" y1="139.9999" x2="105.4962" y2="139.9999"><stop offset="0" style="stop-color:#ffffff"></stop><stop offset="0.4951" style="stop-color:#ccc"></stop><stop offset="0.6734" style="stop-color:#ccc"></stop><stop offset="0.8005" style="stop-color:#ccc"></stop><stop offset="0.9025" style="stop-color:#ccc"></stop><stop offset="0.9896" style="stop-color:#ccc"></stop><stop offset="1" style="stop-color:#ccc"></stop></linearGradient><path style="fill:url(#SVGID_3_)" d="M105.496,140"></path><linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="199.2886" y1="84.6942" x2="437.8369" y2="497.8721"><stop offset="0" style="stop-color:#ffffff"></stop><stop offset="0.4951" style="stop-color:#ccc"></stop><stop offset="0.6734" style="stop-color:#ccc"></stop><stop offset="0.8005" style="stop-color:#ccc"></stop><stop offset="0.9025" style="stop-color:#ccc"></stop><stop offset="0.9896" style="stop-color:#ccc"></stop><stop offset="1" style="stop-color:#ccc"></stop></linearGradient><polygon style="fill:url(#SVGID_4_)" points="318.496,74 103.496,140 211.496,343 328.496,561 466.496,295 "></polygon></svg></a></li></ul></div></div><style data-emotion-css="12w0a3k">.css-12w0a3k{background:#54a561;}</style><div class="css-12w0a3k"><style data-emotion-css="1vnyt40-padding-padding-sectionBorder">.css-1vnyt40-padding-padding-sectionBorder{max-width:1312px;padding-right:1rem;padding-left:1rem;margin-right:auto;margin-left:auto;padding-top:1rem;padding-bottom:1rem;border-top:1px solid #ffffff;border:0;}</style><div class="css-1vnyt40-padding-padding-sectionBorder"><style data-emotion-css="1yt5neu">.css-1yt5neu{margin:0 0.5rem;}@media (max-width:768px){.css-1yt5neu{-webkit-columns:2;columns:2;-webkit-columns:2;-moz-columns:2;text-align:left;}.css-1yt5neu li{display:block;}}</style><ul class="o-list-inline css-1yt5neu"><li class="o-list-inline__item"><style data-emotion-css="1yncfw6">.css-1yncfw6{-webkit-transition:color 0.3s ease,color 0.3s ease;transition:color 0.3s ease,color 0.3s ease;font-size:0.875rem;line-height:1.125rem;}.css-1yncfw6:hover{color:#74b87f;-webkit-text-decoration:none;text-decoration:none;}.css-1yncfw6 svg{color:#74b87f;}</style><a href="/cdn-cgi/l/email-protection#2f4e4b594a5d5b465c4641486f5b474a434e4b4d464d434a485d405a5f014c4042105c5a4d454a4c5b126e4b594a5d5b465c464148" class="css-1yncfw6">Advertise</a></li><li class="o-list-inline__item"><a href="http://www.ladbiblegroup.com/terms-conditions/" class="css-1yncfw6">Terms</a></li><li class="o-list-inline__item"><a href="http://www.ladbiblegroup.com/privacy/" class="css-1yncfw6">Privacy &amp; Cookies</a></li><li class="o-list-inline__item"><a href="http://www.ladbiblegroup.com/" class="css-1yncfw6">LADbible Group</a></li><li class="o-list-inline__item"><a href="https://www.ladbible.com/" class="css-1yncfw6">LADbible</a></li><li class="o-list-inline__item"><a href="https://www.tyla.com/" class="css-1yncfw6">Tyla</a></li><li class="o-list-inline__item"><a href="https://www.unilad.co.uk/" class="css-1yncfw6">UNILAD</a></li><li class="o-list-inline__item"><a href="http://www.thecontentbible.com/" class="css-1yncfw6">License Our Content</a></li><li class="o-list-inline__item"><a href="/about-and-contact" class="css-1yncfw6">About Us &amp; Contact</a></li><li class="o-list-inline__item"><a href="https://jobs.ladbiblegroup.com/" class="css-1yncfw6">Jobs</a></li><li class="o-list-inline__item"><a href="https://apple.co/2DDLgTu" class="css-1yncfw6">Download our app</a></li><li class="o-list-inline__item"><a href="#" class="css-1yncfw6">Change Privacy Settings</a></li></ul></div></div></div></div></footer></div></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="/assets/vendors~main.443d4dc4118fb47c4446.js"></script><script async src="/assets/ads.443d4dc4118fb47c4446.js"></script><script async src="/assets/default.443d4dc4118fb47c4446.js"></script><script async src="/assets/main.443d4dc4118fb47c4446.js"></script><script async src="/assets/sportbible.443d4dc4118fb47c4446.js"></script>
+</body>
+</html>

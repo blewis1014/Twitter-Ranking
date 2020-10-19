@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+			<script>var cGdwd2Rza2lwcGVy = 'cG9zdC1nYXpldHRlIHBheXdhbGw=';</script>
+	
+	<!-- pgevoke.components.head -->
+
+	<!-- v20191202_1516 -->
+
+	<!-- Build time: October 17, 2020 08:14:22pm -->
+
+	<!-- uselibercusfiles: FALSE --> 
+	
+			<script>
+		var PGVARS = PGVARS || {};
+		PGVARS.site = "pg";
+		PGVARS.requesttype = "STORY";
+		PGVARS.sectionid = "high-school-football";
+		PGVARS.param1 = "sports";
+		PGVARS.param2 = "high-school-football";
+		PGVARS.sectionseolabel = "sports/high-school-football";
+		PGVARS.sectionpath = PGVARS.sectionseolabel;
+		PGVARS.pgurl = "https://www.post-gazette.com";
+		PGVARS.siteurl = "https://www.post-gazette.com";
+		PGVARS.sitecode = "LIVE";
+		PGVARS.sitetype = "DESKTOP";
+		PGVARS.isnativostory = false;
+		PGVARS.iscustomsection = false;
+		PGVARS.buildtime = "1602980062";
+		PGVARS.canonicalurl = "https://www.post-gazette.com/sports/high-school-football/2020/10/16/sto-rox-western-beaver-recap-wpial-football-class-2A/stories/202010160189";
+		PGVARS.twitterid = "PittsburghPG";
+		PGVARS.uselibercusimages = "FALSE";
+		PGVARS.ddotbaseurl = "https://d.post-gazette.com";
+		PGVARS.sfuid = "34530";
+		PGVARS.sfdomain = "post-gazette.com";
+		// PGVARS.disastermode = "0";
+		// PGVARS.disastermodefp = "0";
+		PGVARS.piano = true;
+		PGVARS.pianosandbox = false;
+</script>
+	<!-- Piano? TRUE -->
+	<!-- Server Name: NEWLIVE -->
+
+	
+	
+	<script>
+		PGPageVersion = (PGVARS.site === "pg") ? "pgevoke" : "evoke";
+		PGRequestType = "STORY";
+		PGRequestType = PGRequestType.toUpperCase();
+	</script>
+
+	<!-- <l t o : macro name="pgevoke.includes.google-experiments"> -->
+	<!-- <l t o : macro name="pg.utils.story-ab"> -->
+
+	
+	<!-- *****************************
+		     		META
+	     ***************************** -->
+			<!-- pgevoke.components.head_meta (20190522_1548) BEGIN -->
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+
+	<link rel="shortcut icon" href="/favicon-144x144.png">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	
+	<title>Game of the week: Sto-Rox dominates Western Beaver on both sides of the ball | Pittsburgh Post-Gazette</title>
+	
+	<meta name="description" content=""/>
+	<meta name="keywords" content=""/>
+	<meta name="news_keywords" content=""/>
+
+	<link rel="canonical" href="https://www.post-gazette.com/sports/high-school-football/2020/10/16/sto-rox-western-beaver-recap-wpial-football-class-2A/stories/202010160189" />
+
+		<!-- No RSS feed for this page -->
+	
+	<meta property="og:title" content="Game of the week: Sto-Rox dominates Western Beaver on both sides of the ball">
+	<meta property="og:url" content="https://www.post-gazette.com/sports/high-school-football/2020/10/16/sto-rox-western-beaver-recap-wpial-football-class-2A/stories/202010160189" />
+	<meta property="og:description" content="A clash Friday night for Three Rivers Conference supremacy between Sto-Rox and WPIAL Class 2A No. 4-ranked Western Beaver was expected to be a battle of..." />
+	<meta property="og:site_name" content="Pittsburgh Post-Gazette" />
+	<meta property="og:image" content="https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20201016mfstoroxsports07-1-1602908224.jpg">
+	
+	<meta property="fb:pages" content="184142654825" />
+	<meta property="fb:app_id" content="148144658590118">
+
+	<meta name="twitter:title" content="Game of the week: Sto-Rox dominates Western Beaver on both sides of the ball"> 
+	<meta name="twitter:description" content="A clash Friday night for Three Rivers Conference supremacy between Sto-Rox and WPIAL Class 2A No. 4-ranked Western Beaver was expected to be a battle of..."> 
+	<meta name="twitter:card" content="summary_large_image"> 
+	<meta name="twitter:site" content="@PittsburghPG"> 
+	<meta name="twitter:creator" content="@PittsburghPG"> 
+	<meta name="twitter:image" content="https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/600x_a4-3_cTC/20201016mfstoroxsports07-1-1602908224.jpg">
+	<!-- <meta name="twitter:domain" content="post-gazette.com"> -->
+
+		<!-- NYTimes or WaPo Story? NO -->
+	
+
+	<!-- is_story() -->
+	<meta property="og:type" content="article" />
+	<!-- [storyslug: "sto-rox-western-beaver-recap-wpial-football-class-2a"] -->
+	<script type="application/ld+json">
+		{
+		    "@context": "https://schema.org",
+		    "@type": "Article",
+		    "headline": "Game of the week: Sto-Rox dominates Western Beaver on both sides of the ball",
+		    "image": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20201016mfstoroxsports07-1-1602908224.jpg",
+		    "datePublished": "2020-10-16T23:14:17-04:00",
+		    "dateCreated": "2020-10-16T23:14:17-04:00",
+		    "dateModified": "2020-10-17T20:14:22-04:00",
+		    "url": "https://www.post-gazette.com/sports/high-school-football/2020/10/16/sto-rox-western-beaver-recap-wpial-football-class-2A/stories/202010160189",
+		    "description": false,
+		    "author": {
+		        "@type": "Person",
+		        "name": "Steve Rotstein"
+		    },
+		    "publisher": {
+		        "@type": "Organization",
+		        "name": "Pittsburgh Post-Gazette",
+		        "logo": {
+		            "@type": "imageObject",
+		            "url": "https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/images/pgmisc/pg-logo-1000px.jpg"
+		        }
+		    }
+		}
+	</script>
+
+	<!-- pgevoke.components.head_meta END -->	
+	<!-- *****************************
+		        EXTERNAL CSS
+	     ***************************** -->
+
+	<!-- v4 -->
+						
+			<link rel="stylesheet" href="https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/css/pg/vendor-pkg-v0002.css">
+			<link rel="stylesheet" href="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/css/pg/pgevoke-v0017.css">
+			<!-- <link rel="preload" href="https://www.post-gazette.com/assets/css/combined.css" as="style"> -->
+
+			
+	
+	  <link rel="preload" href="https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/images/pgauthorapi/headshots/steverotstein.png" as="image">
+	
+	
+
+	<!-- *****************************
+		         JAVASCRIPT
+	     ***************************** -->
+
+	<!-- Console.log() fix for IE8 -->
+	<script type="text/javascript"> if (!window.console) console = {log: function() {}}; </script>
+	<script type="text/javascript"> console.clear = function() {}; </script>
+	<script>
+		// Used by numerous PGLIB objects
+		var PGAPIBaseURL;
+		(function() {
+			var thedefault = "http://api2.post-gazette.com";
+			// PGAPIBaseURL = "<%@pgevoke.apibaseurl%>";
+			PGAPIBaseURL = thedefault;
+			PGAPIBaseURL = (PGAPIBaseURL !== "") ? PGAPIBaseURL : thedefault;
+		})();
+	</script>
+
+		
+	<script>
+		dataLayer = [{
+			"section": "sports",
+			"subsection": "high-school-football"
+		}];
+	</script>
+
+	<script>
+	(function() {
+		var isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+		var isiPhone = /iPhone;|iPod;/.test(navigator.userAgent) && !window.MSStream;
+		var isiPad = /iPad;/.test(navigator.userAgent) && !window.MSStream;
+		var nsappid;
+		if (isiPad) {
+			nsappid = "1287223630"; // Formerly "desktop"
+		} else {
+			nsappid = "1287223857"; // Formerly "mobile"
+		}
+		var nsmeta = document.createElement('meta');
+		nsmeta.name = "apple-itunes-app";
+		nsmeta.content = "app-id=" + nsappid;
+		document.getElementsByTagName('head')[0].appendChild(nsmeta);	
+	})();
+	</script>
+
+	
+		<script>
+		    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+		    var setNptTechAdblockerCookie = function(adblocker) {
+		        var d = new Date();
+		        d.setTime(d.getTime() + 60 * 5 * 1000);
+		        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+		    };
+		    var script = document.createElement("script");
+		    script.setAttribute("async", true);
+		    script.setAttribute("src", "//www.npttech.com/advertising.js");
+		    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+		    document.getElementsByTagName("head")[0].appendChild(script);
+		</script>
+
+		
+
+	<!-- ******* NATIVO ******* -->
+			<script>
+			var isNativoStory = true;
+		</script>
+		<script type="text/javascript" >
+			var _prx = window._prx || [];
+			_prx.push(['cfg.SetNoAutoStart']);
+		</script>
+		<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script> 
+		
+	<!-- ******* Twitter embed code ******* -->
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	<!-- <script>var pgforcedlayout = "<%forcedlayout%>";</script> -->
+	<script>var pgforcedlayout = "";</script>
+
+</head>	<!-- pgevoke.components.page-header_pg / v20180827_1314 -->
+
+<body class="pgevoke bs-grid pg-hasicomoon pg-site-pg pg-user-checkingstatus pg-requesttype-story pgevoke-pageparentsection-sports pg-piano">
+
+		<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P73RLR"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-P73RLR');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- ***** pgevoke.analytics.ga-top BEGIN ***** -->
+	
+	<!-- pg.analytics.ga-top (globallast) 08.30.2017 12:24-->
+	<script>
+	if (!Array.prototype.some) {
+		console.log("POLYFILL SOME");
+	  Array.prototype.some = function(fun/*, thisArg*/) {
+
+	    if (this == null) {
+	      throw new TypeError('Array.prototype.some called on null or undefined');
+	    }
+
+	    if (typeof fun !== 'function') {
+	      throw new TypeError();
+	    }
+
+	    var t = Object(this);
+	    var len = t.length >>> 0;
+
+	    var thisArg = arguments.length >= 2 ? arguments[1] : void 0;
+	    for (var i = 0; i < len; i++) {
+	      if (i in t && fun.call(thisArg, t[i], i, t)) {
+	        return true;
+	      }
+	    }
+
+	    return false;
+	  };
+	}else{
+		console.log("NON POLYFILL");
+	}
+
+	if (!String.prototype.includes) {
+		console.log("POLYFILL INCLUDES");
+	  String.prototype.includes = function(search, start) {
+
+	    if (typeof start !== 'number') {
+	      start = 0;
+	    }
+	    
+	    if (start + search.length > this.length) {
+	      return false;
+	    } else {
+	      return this.indexOf(search, start) !== -1;
+	    }
+	  };
+	}else{
+		console.log("DON'T POLYFILL INCLUDES");
+	}
+	</script>
+
+	<!-- Removing PGGA code here (5/13/2019) -->
+
+	<script>
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  // ga('create', 'UA-15716261-23', { 'name': 'abPlayground' }); *** removing 7/30 per Brian/Nate
+	    switch (PGVARS.site) {
+	      case "pg":
+	        ga('create', 'UA-15716261-30', { 'name': 'segmentTracker' });
+	        ga('create', 'UA-15716261-24', { 'name': 'itTracker' });
+	        ga('create', 'UA-15716261-35', { 'name': 'adTracker'});
+	        ga('create', 'UA-15716261-29', 'auto', {'name': 'itExperiments' });
+	        ga('create', 'UA-15716261-44', { 'name': 'pianoTracker'});
+	        break;
+	      case "blade":
+	        ga('create', 'UA-15716261-28', 'auto',{name:"itTracker"});
+	        ga('itTracker.send', 'pageview');
+	        ga('create', 'UA-15716261-39', 'auto',{name:"itExperiments"});
+	        ga('itExperiments.send', 'pageview');
+	        break;
+	    }
+	    // Commenting out 10/24 in consultation w/ Nate
+		  // PGGA.sendTrackingLoad();
+		  // ga('abPlayground.send', 'pageview');
+	</script>
+	
+	<!-- ***** pgevoke.analytics.ga-top END ***** -->
+	<!-- Rich Media Ad: Peelback - BEGIN -->
+	<div id="dfp-peelback" class="hidden-xs hidden-sm"></div>
+<div id="pg-ads-peelback-wrapper">
+	<div data-dfpads-position="TOPRIGHT" data-dfpads-adsection="sports/high-school-football">
+		<div class="pg-adtarget"></div>
+	</div>
+</div>	<!-- Rich Media Ad: PEELBACK - End -->
+
+	<div class="pgevoke-header-placeholder"></div>
+	<header class="pgevoke-header">
+		<div class="pgevoke-header-row1 clearfix">
+			<div class="pgevoke-header-row1-left">
+				<div class="pgevoke-header-row1-left-innerwrapper">
+					<span class="pgevoke-header-row1-left-time">8:14PM</span>
+					<a class="pgevoke-header-row1-left-weather" href="https://www.post-gazette.com/weather">
+						<span class="pgevoke-header-row1-left-weather-icon icon icon-temperature2"></span>
+						<span class="pgevoke-header-row1-left-weather-temp"></span>
+					</a>
+				</div>
+			</div>
+			<div class="pgevoke-header-row1-middle">
+				<a class="pgevoke-header-row1-middle-pglogo" href="https://www.post-gazette.com"></a>
+			</div>
+			<div class="pgevoke-header-row1-right">
+				<ul class="clearfix">
+					<li><a href="https://obituaries.post-gazette.com">Obituaries</a></li>
+					<li><a href="https://pge.post-gazette.com">PGe</a></li>
+					<!-- <li><a href="https://adimages.post-gazette.com/images/2020-10-01.PG.pdf">PGe</a></li> -->
+										<li><a href="http://store.post-gazette.com/">PG Store</a></li>
+										<li><a href="https://archives.post-gazette.com/">Archives</a></li>
+					<!--
+					<li class="hidden-xs hidden-sm hidden-md hidden-lg">
+						<a href="https://www.post-gazette.com/events">Events</a>
+					</li>
+					<li class="hidden-xs hidden-sm hidden-md hidden-lg">
+						<a href="https://www.post-gazette.com/jobs">Jobs</a>
+					</li
+					<li class="hidden-xs hidden-sm hidden-md hidden-lg">
+						<a href="https://www.post-gazette.com/realestate">Real Estate</a>
+					</li>
+					<li class="hidden-xs hidden-sm hidden-md hidden-lg">
+						<a href="http://classmart.post-gazette.com/pa/cars/search">Cars</a>
+					</li>
+					<li class="hidden-xs hidden-sm hidden-md hidden-lg" style="border-right:none">
+						<a href="http://classified.post-gazette.com/">Classified</a>
+					</li>
+					-->
+					<li class="pgevoke-header-row1-classifiedsheader"><a>Classifieds <span class="icon icon-arrow-down5"></span></a>
+						<ul class="pgevoke-header-row1-classifieds">
+							<li><a href="http://classified.post-gazette.com/">Classified</a></li>
+							<li><a href="https://www.post-gazette.com/events">Events</a></li>
+							<li><a href="https://www.post-gazette.com/jobs">Jobs</a></li>
+							<li><a href="https://www.post-gazette.com/life/buying-here">Real Estate</a></li>
+							<li><a href="http://classmart.post-gazette.com/pa/legal-notices/search">Legal Notices</a></li>
+							<li><a href="http://classmart.post-gazette.com/pa/pets/search">Pets</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="pgevoke-header-row2">
+			<div class="pgevoke-header-row2-wrapper clearfix">
+				<div class="pgevoke-header-row2-left valignfix">
+					<div class="pgevoke-header-row2-left-menubutton valignfix">
+						<span class="pgevoke-header-row2-left-menubutton-icon icon icon-menu7"></span>
+						<span class="pgevoke-header-row2-left-menubutton-text">MENU</span>
+					</div>
+					<div class="pgevoke-header-row2-left-gigya">
+						<ul class="clearfix">
+															<li class="pg-user-unpaidonly">
+									<a href="javascript:;" class="subscribe-btn"><span class="btnText">SUBSCRIBE</span></a>
+								</li>
+								<li class="pg-user-loggedoutonly tp-login">
+								   <a>LOGIN</a>
+								</li>
+								<li class="pg-user-loggedoutonly tp-register">
+								   <a>REGISTER</a>
+								</li>
+								<li class="pg-user-loggedinonly tp-logout">
+									<a>LOG OUT</a>
+								</li>
+								<li class="pg-user-loggedinonly">
+									<a href="https://my.post-gazette.com/my-account/">MY PROFILE</a>
+								</li>
+													</ul>
+					</div>
+				</div> <!-- .pgevoke-header-row2-left -->
+				<div class="pgevoke-header-row2-middle clearfix">
+					<nav class="pgevoke-header-row2-middle-inner clearfix">
+						<span class="pgevoke-header-row2-middle-pubicon">
+							<a href="/"></a>
+						</span>
+						<ul class="hidden-xs hidden-sm clearfix">
+							<li data-subnav-section="frontpage"><a href="https://www.post-gazette.com">Home</a></li>
+							<li data-subnav-section="news"><a href="https://www.post-gazette.com/news">News</a></li>
+							<li data-subnav-section="local"><a href="https://www.post-gazette.com/local">Local</a></li>
+							<li data-subnav-section="sports"><a href="https://www.post-gazette.com/sports">Sports</a></li>
+							<li data-subnav-section="opinion"><a href="https://www.post-gazette.com/opinion">Opinion</a></li>
+							<li data-subnav-section="ae"><a href="https://www.post-gazette.com/ae">A&amp;E</a></li>
+							<li data-subnav-section="life"><a href="https://www.post-gazette.com/life"">Life</a></li>
+							<li data-subnav-section="business"><a href="https://www.post-gazette.com/business"">Business</a></li>
+							<li data-subnav-section="contact-us"><a href="https://www.post-gazette.com/help">Contact Us</a></li>
+						</ul>
+					</nav>
+				</div> <!-- .pgevoke-header-row2-middle -->
+				<div class="pgevoke-header-row2-right valignfix">
+					<div class="pgevoke-header-row2-right-social clearfix">
+						<a class="pgevoke-header-row2-right-social-facebook" href="https://www.facebook.com/pittsburghpostgazette">
+							<span class="icon icon-facebook"></span>
+						</a>
+						<a class="pgevoke-header-row2-right-social-twitter" href="https://twitter.com/PittsburghPG">
+							<span class="icon icon-twitter4"></span>
+						</a>
+						<a class="pgevoke-header-row2-right-social-instagram" href="https://www.instagram.com/pittsburghpg/">
+							<span class="icon icon-instagram"></span>
+						</a>
+						<!--
+						<a class="pgevoke-header-row2-right-social-search queryly_search_button">
+							<span class="icon icon-search"></span>
+						</a>
+						-->
+					</div>
+					<div class="pgevoke-header-row2-right-search queryly_search_button">
+						<span class="icon icon-search"></span>
+					</div>
+					<div class="pgevoke-header-row2-right-newsletters">
+						<a href="https://my.post-gazette.com/newsletters/?utm_source=pg.com&utm_medium=link&utm_campaign=newsletter-subscribe&utm_content=navbar">NEWSLETTERS</a>
+					</div>
+					<!-- <div class="pgevoke-header-row2-right-search queryly_search_button clearfix">
+						<label for="pgevoke-header-row2-right-search-searchbox" style="display:none">Search Box</label> -->
+						<!-- <input type="text" class="queryly" placeholder="SEARCH" id="pgevoke-header-row2-right-search-searchbox"> -->
+						<!--
+						<input type="text" placeholder="SEARCH" id="pgevoke-header-row2-right-search-searchbox">
+						<span class="icon icon-search"></span>
+					</div>
+					-->
+				</div>
+			</div>	<!-- .pgevoke-header-row2-wrapper -->
+		</div> <!-- .pgevoke-header-row2 -->		
+		<div class="pgevoke-header-subnav">
+		</div>
+	</header>
+	<header class="pgevoke-socialshareheader">
+		<a class="pgevoke-socialshareheader-sideicon pgevoke-socialshareheader-sideicon-menubutton valignfix">
+			<!-- <span class="icon icon-share3"></span> -->
+			<span class="pgevoke-socialshareheader-sideicon-menubutton-icon icon icon-menu7"></span>
+			<span class="pgevoke-socialshareheader-sideicon-menubutton-text">MENU</span>
+		</a>
+		<ul class="pgevoke-socialshareheader-buttons">
+			<li class="pgevoke-socialshareheader-buttons-facebook">
+				<a target="_blank">
+					<span class="icon icon-facebook"></span>
+				</a>
+			</li>
+			<li class="pgevoke-socialshareheader-buttons-fbmessenger">
+				<a>
+					<img src="https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/images/pgmisc/facebook-messenger-icon-75px.png?v=20190913" alt="Facebook Messenger Icon">
+				</a>
+			</li>
+			<li class="pgevoke-socialshareheader-buttons-twitter">
+				<!-- <a href="javascript: void(0)" onclick="window.open('https://twitter.com/intent/tweet?url=<<<=theobj.link>>>&amp;text='+encodeURIComponent(&quot;<<<=theobj.title>>>&quot;)+'&amp;via=PittsburghPG','','width=500,height=500')  "> -->
+				<a target="_blank">
+					<span  class="icon icon-twitter"></span>
+				</a>
+			</li>
+			<li class="pgevoke-socialshareheader-buttons-email">
+				<a href="javascript:void(0);" id="tipafriend" alt="Email">
+					<span class="icon icon-envelope"></span>
+				</a>
+			</li>
+			<li class="pgevoke-socialshareheader-buttons-androidtext">
+				<a>
+					<span class="icon icon-bubble-dots3"></span>
+				</a>
+			</li>
+		</ul>
+		<a class="pgevoke-socialshareheader-sideicon pgevoke-socialshareheader-sideicon-pub valignfix" href="https://www.post-gazette.com"></a>
+	</header>
+	<div class="pgevoke-pagewrapper clearfix">
+			<div class="pgevoke-slidemenu">
+	<div class="pgevoke-slidemenu-inner">
+		<div class="pgevoke-slidemenu-topborder"></div>
+		<div class="pgevoke-slidemenu-header pgevoke-slidemenu-header-account">ACCOUNT</div>
+					<!-- piano butons -->
+			<ul class="pgevoke-slidemenu-accountbuttons">
+				<li class="pg-user-unpaidonly">
+					<!-- <a href="https://my.post-gazette.com/purchase"><span class="fa fa-user-plus pgevoke-slidemenu-lefticon"></span><span class="btnText">Subscribe</span></a> -->
+					<a><span class="fa fa-user-plus pgevoke-slidemenu-lefticon"></span><span class="subscribe-btn">Subscribe</span></a>
+				</li>
+				<li class="pg-user-loggedoutonly tp-login">
+					<a><span class="fa fa-lock pgevoke-slidemenu-lefticon"></span>Login</a>
+				</li>
+				<li class="pg-user-loggedoutonly tp-register">
+					<a><span class="fa fa-user pgevoke-slidemenu-lefticon" style="display:inline-block;margin-right:10px"></span>Register</a>
+				</li>
+				<li class="pg-user-loggedinonly tp-logout">
+					<a><span class="fa fa-lock pgevoke-slidemenu-lefticon"></span>Log out</a>
+				</li>
+				<li class="pg-user-loggedinonly">
+					<a href="https://my.post-gazette.com/my-account/" ><span class="fa fa-user pgevoke-slidemenu-lefticon" style="display:inline-block;margin-right:10px"></span>My Profile</a>
+				</li>
+				<li>
+					<a href="http://promo.post-gazette.com/subscriberservices"><span class="icon icon-info-circle pgevoke-slidemenu-lefticon"></span><span>Subscriber Services</span></a>
+				</li>
+				<li>
+					<a href="#" class="queryly_search_button"><span class="icon icon-search pgevoke-slidemenu-lefticon"></span><span>Search</span></a>
+				</li>
+			</ul>
+				<div class="pgevoke-slidemenu-header">SECTIONS</div>
+		<ul class="pgevoke-slidemenu-sections">
+			<li class="pgevoke-slidemenu-section-frontpage">
+				<a>HOME<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com">Homepage</a></li>
+					<li><a href="https://www.post-gazette.com/local/breaking">This Just In</a></li>
+					<li><a href="https://www.post-gazette.com/chat">Chats</a></li>
+					<li><a href="https://www.post-gazette.com/weather">Weather</a></li>
+					<li><a href="https://maps.here.com/traffic/usa/pittsburgh?utm_source=magnet&utm_medium=traffic_magnet&utm_content=728164&utm_campaign=magnet_wideSky.vm&AWOPARTNER=POST-GAZETTE&map=40.43851,-79.99734,9,traffic">Traffic</a></li>
+					<li><a href="https://www.post-gazette.com/events#/15222-pittsburgh/all/today">Event Guide</a></li>
+					<li><a href="http://store.post-gazette.com/">PG Store</a></li>
+					<li><a href="http://promo.post-gazette.com/pgeweb">PGe</a></li>
+					<li><a href="https://www.post-gazette.com/video">Video</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/photos/">Photos</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/thedigs/">The Digs</a></li>
+					<li><a href="https://www.post-gazette.com/circulars">Circulars</a></li>
+					<li><a href="https://www.post-gazette.com/rssfeeds">RSS Feeds</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-news">
+				<a>NEWS<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/news">News Home</a></li>
+					<li><a href="https://www.post-gazette.com/news/covid-19">COVID-19</a></li>
+					<li><a href="https://www.post-gazette.com/news/world">World</a></li>
+					<li><a href="https://www.post-gazette.com/news/nation">Nation</a></li>
+					<li><a href="https://www.post-gazette.com/news/state">State</a></li>
+					<li><a href="https://www.post-gazette.com/news/insight">Insight</a></li>
+					<li><a href="https://obituaries.post-gazette.com">Obituaries</a></li>
+					<li><a href="https://www.post-gazette.com/news/obituaries">News Obituaries</a></li>
+					<li><a href="https://www.post-gazette.com/news/politics">Politics</a></li>
+					<li><a href="https://www.post-gazette.com/news/education">Education</a></li>
+					<li><a href="https://www.post-gazette.com/news/portfolio">Portfolio</a></li>
+					<li><a href="https://www.post-gazette.com/news/science">Science</a></li>
+					<li><a href="https://www.post-gazette.com/news/health">Health</a></li>
+					<li><a href="https://www.post-gazette.com/news/environment">Environment</a></li>
+					<li><a href="https://www.post-gazette.com/aging-edge">Aging Edge</a></li>
+					<li><a href="https://www.post-gazette.com/news/transportation">Transportation</a></li>
+					<li><a href="https://www.post-gazette.com/news/faith-religion">Faith &amp; Religion</a></li>
+					<li><a href="https://www.post-gazette.com/news/crime-courts">Crimes &amp; Courts</a></li>
+					<li><a href="https://www.post-gazette.com/news/social-services">Social Services</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-local">
+				<a>LOCAL<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/local">Local Home</a></li>
+					<li><a href="https://www.post-gazette.com/local/region">Region</a></li>
+					<li><a href="https://www.post-gazette.com/local/city">City</a></li>
+					<li><a href="https://www.post-gazette.com/local/north">North</a></li>
+					<li><a href="https://www.post-gazette.com/local/east">East</a></li>
+					<li><a href="https://www.post-gazette.com/local/west">West</a></li>
+					<li><a href="https://www.post-gazette.com/local/south">South</a></li>
+					<li><a href="https://www.post-gazette.com/local/washington">Washington</a></li>
+					<li><a href="https://www.post-gazette.com/local/westmoreland">Westmoreland</a></li>
+					<li><a href="https://www.post-gazette.com/local/neighborhood">The Neighborhood</a></li>
+					<li><a href="https://obituaries.post-gazette.com">Obituaries</a></li>
+					<li><a href="http://classmart.post-gazette.com/">Classifieds</a></li>
+					<!-- <li><a href="http://classmart.post-gazette.com/pa/cars/search">Cars</a></li> -->
+					<li><a href="http://classmart.post-gazette.com/pa/legal-notices/search">Legal Notices</a></li>
+					<li><a href="https://www.post-gazette.com/life/buying-here">Real Estate</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-sports">
+				<a>SPORTS<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/sports">Sports Home</a></li>
+					<li><a href="https://www.post-gazette.com/sports/steelers">Steelers</a></li>
+					<li><a href="https://www.post-gazette.com/sports/penguins">Penguins</a></li>
+					<li><a href="https://www.post-gazette.com/sports/pirates">Pirates</a></li>
+					<li><a href="https://www.post-gazette.com/sports/columns">Sports Columns</a></li>
+					<li><a href="https://www.post-gazette.com/sports/gene-collier">Gene Collier</a></li>
+					<li><a href="https://www.post-gazette.com/sports/ron-cook">Ron Cook</a></li>
+					<li><a href="https://www.post-gazette.com/sports/joe-starkey">Joe Starkey</a></li>
+					<li><a href="https://www.post-gazette.com/sports/zeise-is-right">Paul Zeise</a></li>
+					<li><a href="https://www.post-gazette.com/sports/highschool">High School Sports</a></li>
+					<li><a href="https://www.post-gazette.com/sports/college">College Sports</a></li>
+					<li><a href="https://www.post-gazette.com/sports/Pitt">Pitt</a></li>
+					<li><a href="https://www.post-gazette.com/sports/psu">Penn State</a></li>
+					<li><a href="https://www.post-gazette.com/sports/other-sports">Other Sports</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/the-north-shore-drive-sports-podcast/">North Shore Drive Podcast</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-opinion">
+				<a>OPINION<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/opinion">Opinion Home</a></li>
+					<li><a href="https://www.post-gazette.com/opinion/editorials">Editorials</a></li>
+					<li><a href="https://www.post-gazette.com/opinion/letters">Letters</a></li>
+					<li><a href="https://www.post-gazette.com/opinion/op-ed">Op-Ed Columns</a></li>
+					<li><a href="https://www.post-gazette.com/opinion/columnists">PG Columnists</a></li>
+					<!-- <li><a href="http://blogs.post-gazette.com/index.php/opinion/rob-rogers-cartoons">Rob Rogers</a></li> -->
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-ae">
+				<a>A&amp;E<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/ae">A&amp;E Home</a></li>
+					<li><a href="https://www.post-gazette.com/ae/celebrities">Celebrities</a></li>
+					<li><a href="https://www.post-gazette.com/ae/movies">Movies</a></li>
+					<li><a href="https://www.post-gazette.com/ae/tv-radio">TV &amp; Radio</a></li>
+					<li><a href="https://www.post-gazette.com/ae/music">Music</a></li>
+					<li><a href="https://www.post-gazette.com/concerts">Concert Listings</a></li>
+					<li><a href="https://www.post-gazette.com/ae/theater-dance">Theatre &amp; Dance</a></li>
+					<li><a href="https://www.post-gazette.com/ae/art-architecture">Art &amp; Architecture</a></li>
+					<li><a href="https://www.post-gazette.com/ae/books">Books</a></li>
+					<li><a href="https://www.post-gazette.com/events#/15222-pittsburgh/all/today">Events</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-life">
+				<a>LIFE<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/life">Life Home</a></li>
+					<li><a href="https://www.post-gazette.com/life/food">Food</a></li>
+					<li><a href="https://www.post-gazette.com/life/buying-here">Buying Here</a></li>
+					<li><a href="https://www.post-gazette.com/life/homes-garden">Homes &amp; Gardens</a></li>
+					<li><a href="https://www.post-gazette.com/life/fashion">Style &amp; Fashion</a></li>
+					<li><a href="https://www.post-gazette.com/life/travel">Travel</a></li>
+					<li><a href="https://www.post-gazette.com/life/dining">Restaurants</a></li>
+					<li><a href="https://www.post-gazette.com/life/seen">Seen</a></li>
+					<li><a href="https://www.post-gazette.com/life/setting-the-seen">Setting the SEEN</a></li>
+					<li><a href="https://www.post-gazette.com/life/random-acts-of-kindness">Random Acts of Kindness</a></li>
+					<li><a href="https://www.post-gazette.com/pets">Pets</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/beerme/">Beer Me</a></li>
+					<li><a href="https://www.post-gazette.com/life/outdoors">Outdoors</a></li>
+					<li><a href="https://www.post-gazette.com/life/holidays">Holidays</a></li>
+				</ul>
+			</li>
+			<li class="pgevoke-slidemenu-section-business">
+				<a>BUSINESS<span class="icon icon-chevron-right pgevoke-slidemenu-righticon"></span></a>
+				<ul>
+					<li><a href="https://www.post-gazette.com/business">Business Home</a></li>
+					<li><a href="https://www.post-gazette.com/business/money">Your Money</a></li>
+					<li><a href="https://www.post-gazette.com/business/auto">Wheels</a></li>
+					<li><a href="https://www.post-gazette.com/business/career-workplace">Workzone</a></li>
+					<li><a href="https://www.post-gazette.com/business/healthcare-business">Business Health</a></li>
+					<li><a href="https://www.post-gazette.com/business/tech-news">Tech News</a></li>
+					<li><a href="https://www.post-gazette.com/business/development">Building PGH</a></li>
+					<li><a href="https://www.post-gazette.com/business/powersource">Powersource</a></li>
+					<li><a href="https://www.post-gazette.com/business/legal">Business / Law</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/topworkplaces2020/">Top Workplaces</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/business-of-pittsburgh-monthly-report/2019/">Business of Pittsburgh</a></li>
+					<li><a href="https://newsinteractive.post-gazette.com/consumer-alerts/">Consumer Alerts</a></li>
+					<!-- <li><a href="https://www.post-gazette.com/business/other-business">Other Business</a></li> -->
+				</ul>
+			</li>
+					</ul>
+		<div class="pgevoke-slidemenu-header">OTHER</div>
+		<ul class="pgevoke-slidemenu-accountbuttons">
+			<li><a href="https://pge.post-gazette.com/"><span>PGe</span></a></li>
+			<!-- <li><a href="https://adimages.post-gazette.com/images/2020-10-01.PG.pdf"><span>PGe</span></a></li> -->
+			<li><a href="https://my.post-gazette.com/newsletters/?utm_source=pg.com&utm_medium=link&utm_campaign=newsletter-subscribe&utm_content=leftmenu">NEWSLETTERS</a></li>
+			<li><a href="http://store.post-gazette.com/"><span>PG STORE</span></a></li>
+			<li><a href="https://archives.post-gazette.com/"><span>ARCHIVES</span></a></li>
+		</ul>
+		<div class="pgevoke-slidemenu-header">CLASSIFIEDS</div>
+		<ul class="pgevoke-slidemenu-accountbuttons">
+			<li><a href="https://obituaries.post-gazette.com"><span>OBITUARIES</span></a></li>
+			<li><a href="https://www.post-gazette.com/jobs"><span>JOBS</span></a></li>
+			<li><a href="http://classmart.post-gazette.com/pa/legal-notices/search"><span>LEGAL NOTICES</span></a></li>
+			<li><a href="https://www.post-gazette.com/life/buying-here"><span>REAL ESTATE</span></a></li>
+			<li><a href="http://classified.post-gazette.com/"><span>CLASSIFIEDS</span></a></li>
+			<li><a href="https://www.post-gazette.com/events"><span>EVENTS</span></a></li>
+			<li><a href="http://classmart.post-gazette.com/pa/pets/search"><span>PETS</span></a></li>
+		</ul>
+				<div class="pgevoke-slidemenu-header">CONTACT US / FAQ</div>
+		<ul class="pgevoke-slidemenu-accountbuttons">
+			<li><a href="https://www.post-gazette.com/help"><span>CONTACT US</span></a></li>
+			<li><a href="http://pgmediakit.com/"><span>ADVERTISING</span></a></li>
+			<li><a href="https://career4.successfactors.com/career?company=cablesystem&site=VjItSmFoc1VqUEliN25XSmxwcnB4TjZ5QT09"><span>CAREER OPPORTUNITIES</span></a></li>
+			<li><a></a></li>
+			<li><a></a></li>
+		</ul>
+	</div>
+</div>		<!-- pg.ads.x51-wallpaper / v20180411_1244 -->
+<!-- 
+{type=d2FsbHBhcGVy}
+  dfpadcode="wallpaper"
+{type=d2FsbHBhcGVyLXYx}
+  dfpadcode="wallpaper-v1"
+-->
+
+<div class="dfp-wallpaper"></div>
+
+  <div id="pg-ads-x51-wrapper" style="display:none">
+    <div data-dfpads-position="X51" data-dfpads-adsection="sports/high-school-football">
+      <div class="pg-adtarget"></div>
+    </div>
+  </div>
+		<!-- <l t o : macro name="pg.ads.x51-wallpaper"> -->
+		<div class="pgevoke-slidewrapper container">
+			<div class="pgevoke-pagecontent"><!-- [%{@pg.isnativostory}
+	<lto:macro name="pgevoke.templates.story_storyzero_nativo">
+%|%{param1="nate"}
+	[%{blah}
+		<lto:story objectclass=4104 before>
+	%|%
+		<lto:story objectclass=4101 before>
+	%]
+%|% -->
+<!-- <lto:story objectclass=4101 before> -->
+<script>
+pgStoryZeroJSON = {"status":"ok","articles":[{"storyID":"202010160189","title":"Game of the week: Sto-Rox dominates Western Beaver on both sides of the ball","subTitle":"","deckline":"","kicker":"","teaser":"","teaserTitle":"","byCredit":"0","author":"By Steve Rotstein \/ Pittsburgh Post-Gazette","endStory":"","commentsEnabled":true,"commentsCloseDate":"","contentModified":"Fri, 16 Oct 2020 23:14:17 -0400","rights":"0","pubDate":"Fri, 16 Oct 2020 23:14:17 -0400","expirationDate":"Sun, 31 Dec 0000 19:00:00 -0500","body":"<p>A clash Friday night for Three Rivers Conference supremacy between Sto-Rox and WPIAL Class 2A No. 4-ranked Western Beaver was expected to be a battle of the Vikings&rsquo; explosive offense versus the Golden Beavers&rsquo; suffocating defense.<\/p>\n<p>Instead, it was Sto-Rox who dominated on both sides of the ball, forcing seven turnovers on defense and blowing the game open with a second-quarter barrage on its way to a 50-14 home win. Sophomore quarterback Josh Jenkins had another sensational outing for the Vikings (5-1, 3-1), completing 10 of 13 passes for 191 yards and three scores while also adding a 4-yard rushing touchdown and an 11-yard touchdown reception.<\/p>\n<p>&ldquo;He&rsquo;s an amazing talent,&rdquo; Sto-Rox coach LaRoi Johnson said of Jenkins. &ldquo;He can play all over. He can play any position on the field if we really need him to.&rdquo;<\/p>\n<p>The Vikings defense came out fast and aggressive from the opening whistle and caused havoc for Western Beaver all game long, holding the Golden Beavers (5-1, 3-1) to 115 yards of offense on the night. Senior Dakari Bradford caught both of Western Beaver&rsquo;s touchdowns and finished with three catches for 47 yards.<\/p>\n<p>&ldquo;We just constantly stress ripping the ball out, interceptions and returning it back to the crib,&rdquo; Johnson said. &ldquo;We don&rsquo;t allow any play to stop in practice if there&rsquo;s an interception or a fumble. We let it go, because we want to make sure that we get in our mentality that we take things to the house.&rdquo;<\/p>\n<p>After an interception by Drevon Miller-Ross, Sto-Rox sophomore Zay Davis opened the scoring with a 7-yard touchdown run followed by a 2-point conversion. Western Beaver then answered with a scoring drive, capped off by a 10-yard touchdown catch by Bradford, making it 8-7.<\/p>\n<p>Jenkins&rsquo; 4-yard touchdown run and another 2-point conversion by Davis made it 16-7, then Jenkins found sophomore Jaymont Green-Miller for a 14-yard score followed by yet another 2-point conversion by Davis. Jenkins then connected with Miller-Ross on a 37-yard touchdown just before halftime, and the rout was on.<\/p>\n<div style=\"position: relative; width: 100% !important;\" data-ps-embed-type=\"slideshow\" data-ps-embed-gid=\"G0000ptT6Ak4E6EI\">&nbsp;<\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com\/js\/vendor\/psembed.js\"><\/script>\n<script type=\"text\/javascript\">\/\/ <![CDATA[\n_psEmbed(\"https:\/\/post-gazette.photoshelter.com\");\n\/\/ ]]><\/script>\n<p>Green-Miller caught five passes for 91 yards and a touchdown, while Miller-Ross finished with four catches for 52 yards and a score to go with two interceptions.<\/p>\n<p>&ldquo;They came out with a lot of emotion tonight. They&rsquo;ve got a heck of a team,&rdquo; Golden Beavers coach Ryan Matsook said. &ldquo;They&rsquo;re the best team we&rsquo;ve faced thus far. ... I think they put themselves in that echelon as one of the top four teams [in Class 2A], in my opinion.&rdquo;<\/p>\n<p>After catching the first touchdown of his high school career to put the Vikings up, 37-7, in the third quarter, Jenkins went back under center and made perhaps his two best throws of the night &mdash; although one of them didn&rsquo;t count.<\/p>\n<p>First, Jenkins lofted a perfect 47-yard completion down the left sideline to sophomore Deigo Ellis, which set up a 13-yard touchdown pass to senior Diontae Givens, Jenkins&rsquo; fifth touchdown of the game. On the previous play, Jenkins &mdash; who is left-handed &mdash; scrambled out of the pocket to his right and fired a strike into the end zone while on the run for a would-be touchdown, but the play was called back because of offsetting penalties.<\/p>\n<p>Perhaps the most frightening development out of this game for Sto-Rox&rsquo;s future foes is that Jenkins wasn&rsquo;t the only quarterback getting it done for the Vikings. Austin Jones, a junior, completed 10 of 15 passes for 66 yards and also ran the ball 11 times for 72 yards and a touchdown, putting the finishing touches on Sto-Rox&rsquo;s victory with a 4-yard score.<\/p>\n<p>&ldquo;We just work really hard,&rdquo; Jenkins said. &ldquo;We just come out here and work every day, and just try to come out with the best results.&rdquo;<\/p>\n<p>With the win, the teams move into a tie for first place in the Three Rivers Conference with one week left in the regular season. The Vikings haven&rsquo;t lost on the field yet this year, with their only loss coming via forfeit in Week 1.<\/p>\n<p>&ldquo;My job was to create a culture that they loved, and I think we&rsquo;re doing that,&rdquo; Johnson said. &ldquo;It&rsquo;s about love, it&rsquo;s about brotherhood &mdash; it&rsquo;s not about anything other than supporting each other and trying to do the best we can to make a way to be great people before great football players.&rdquo;<\/p>\n<p><em>Steve Rotstein: srotstein@post-gazette.com and Twitter @SteveRotstein.<\/em><\/p>","link":"https:\/\/www.post-gazette.com\/sports\/high-school-football\/2020\/10\/16\/sto-rox-western-beaver-recap-wpial-football-class-2A\/stories\/202010160189","standout":false,"layout":"wideheadline","section":"sports","subSection":"high-school-football","subSections":{"sports":["HSFootball","High School Sports"],"frontpage":[],"breaking":[]},"sectionLabel":"high-school-football","sectionSEOKey":"sports","subSectionSEOKey":"high-school-football","paid":"1","paidUsersOnly":"0","active":"1","images":[{"id":"88c978a9-1638-4b19-8773-54582b09fd2d","title":"20201016mfstoroxsports07-1","caption":"Sto-Rox running back Zay Davis stretches for a touchdown against Western Beaver.","linkText":null,"photoCredit":"Matt Freed\/Post-Gazette","orientation":"0","displayOrder":"1","expirationDate":"Tue, 17 Oct 3020 20:14:21 -0500","rights":"0","url":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016mfstoroxsports07-1.jpg","url_hero":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC_ca0,0,3068,2045\/20201016mfstoroxsports07-1.jpg","url_global":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC_ca0,0,3068,2045\/20201016mfstoroxsports07-1.jpg","cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports07-1-1602908224.jpg"}},{"id":"537b788d-6126-4508-9664-77e01cb56d4c","title":"20201016mfstoroxsports10-4","caption":"Sto-Rox quarterback Josh Jenkins carries for a touchdown Friday night.","linkText":null,"photoCredit":"Matt Freed\/Post-Gazette","orientation":"0","displayOrder":"1","expirationDate":"Tue, 17 Oct 3020 20:14:21 -0500","rights":"0","url":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016mfstoroxsports10-4.jpg","url_hero":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC_ca0,0,2600,1733\/20201016mfstoroxsports10-4.jpg","url_global":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC_ca0,0,2600,1733\/20201016mfstoroxsports10-4.jpg","cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports10-4-1602904482.jpg"}},{"id":"36f08b22-f6df-4f9e-8850-db45083d1b9c","title":"20201016mfstoroxsports08-2","caption":"Western Beaver wide receiver Dakkari Bradford carries against the Sto-Rox defense Friday.","linkText":null,"photoCredit":"Matt Freed\/Post-Gazette","orientation":"0","displayOrder":"1","expirationDate":"Tue, 17 Oct 3020 20:14:21 -0500","rights":"0","url":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016mfstoroxsports08-2.jpg","url_hero":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC\/20201016mfstoroxsports08-2.jpg","url_global":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC\/20201016mfstoroxsports08-2.jpg","cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports08-2-1602904490.jpg"}},{"id":"f6ad3a1d-6797-4cbe-91c9-706d31fad02d","title":"20201016mfstoroxsports04-3","caption":"Sto Rox linebacker Zyhaire Young celebrates after coming up with a fumble against Western Beaver.","linkText":null,"photoCredit":"Matt Freed\/Post-Gazette","orientation":"0","displayOrder":"1","expirationDate":"Tue, 17 Oct 3020 20:14:21 -0500","rights":"0","url":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016mfstoroxsports04-3.jpg","url_hero":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC\/20201016mfstoroxsports04-3.jpg","url_global":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/1140x_a10-7_cTC\/20201016mfstoroxsports04-3.jpg","cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports04-3-1602904516.jpg"}}],"related":{"links":[{"title":"WPIAL Week 6 football summaries (Friday, Oct. 16, 2020)","url":"https:\/\/www.post-gazette.com\/sports\/high-school-football\/2020\/10\/17\/WPIAL-Week-6-football-summaries-Friday-Oct-16-2020\/stories\/202010160179","storyID":"202010160179","author":"Post-Gazette Sports","pubDate":"Sat, 17 Oct 2020 04:10:20 -0400","image":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016mfstoroxsports10-4.jpg","imagecaption":"Quarterback Josh Jenkins threw for 191 yards and three touchdowns in Sto-Rox's 50-14 win against Western Beaver.","imagecdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports10-4-1602907904.jpg"},"images":[{"cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016mfstoroxsports10-4-1602907904.jpg"}}]},{"title":"WPIAL 4A-3A roundup: Mars coach Scott Heinauer hits 200 career victories","url":"https:\/\/www.post-gazette.com\/sports\/high-school-football\/2020\/10\/16\/wpial-4A-3A-roundup-Scott-Heinauer-Mars-football\/stories\/202010180161","storyID":"202010180161","author":"From local dispatches ","pubDate":"Sat, 17 Oct 2020 03:41:17 -0400","image":"https:\/\/www.post-gazette.com\/image\/2020\/08\/05\/700x700_cMC\/20200805scMars-15-8.jpg","imagecaption":"Mars head coach Scott Heinauer, shown here in August, reached the 200-win mark Friday night.","imagecdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20200805scMars-15-8-1602906098.jpg"},"images":[{"cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20200805scMars-15-8-1602906098.jpg"}}]},{"title":"WPIAL Week 6 Friday night high school football scoreboard: 10.16.20","url":"https:\/\/www.post-gazette.com\/sports\/high-school-football\/2020\/10\/16\/WPIAL-Week-6-high-school-football-scoreboard-10-16-20\/stories\/202010160181","storyID":"202010160181","author":"Post-Gazette Sports","pubDate":"Sat, 17 Oct 2020 01:10:33 -0400","image":"https:\/\/www.post-gazette.com\/image\/2020\/10\/17\/700x700_cMC\/20201016scSFWA-15-6.jpg","imagecaption":"South Fayette's Joey Audia intercepts a pass intended for West Allegheny's Nico Flati during Friday's game at South Fayette High School.","imagecdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016scSFWA-15-6-1602897047.jpg"},"images":[{"cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20201016scSFWA-15-6-1602897047.jpg"}}]},{"title":"Elizabeth Forward's '1-2 punch' gets the job done with starting QB injured","url":"https:\/\/www.post-gazette.com\/sports\/high-school-football\/2020\/10\/16\/elizabeth-forward-mount-pleasant-recap-wpial-high-school-football\/stories\/202010160186","storyID":"202010160186","author":"By Keith Barnes \/ Tri-State Sports & News Service\n","pubDate":"Sat, 17 Oct 2020 02:12:56 -0400","image":"https:\/\/www.post-gazette.com\/image\/2019\/06\/21\/700x700_cMC\/20190620scTABElizabethForward-02-11.jpg","imagecaption":"Elizabeth Forward's Nico Mrvos looks to throw during a 7-on-7 scrimmage in June.","imagecdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20190620scTABElizabethForward-02-11-1602900796.jpg"},"images":[{"cdn":{"sizes":["600x_a4-3_cTC","300x_a1-1_cTC","1140x_a10-7_cTC","1200x","100x_a1-1_cTC","460x_a4-5_cTC"],"host":"9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com","fileName":"20190620scTABElizabethForward-02-11-1602900796.jpg"}}]}],"videos":[]}}]};
+
+PGPAGEDATA = {"authorvalues":{"apiorg":"pittsburghpostgazette","apiauthor":"steverotstein"},"authorapi":{"status":"ok","author":{"fullName":"Steve Rotstein","firstName":"Steve","lastName":"Rotstein","email":"srotstein@post-gazette.com","authorSlug":"steverotstein","twitter":"steverotstein","org":"Pittsburgh Post-Gazette","verified":true,"customTitle":"","image":"https:\/\/a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com\/images\/pgauthorapi\/headshots\/steverotstein.png","imageCacheBuster":"","orgimage":"https:\/\/www.post-gazette.com\/assets-1y\/images\/misc\/pg-logo-100px-green-byline.png"},"apiorg":"pittsburghpostgazette","apiauthor":"steverotstein"}};
+</script>
+
+<!-- SendToNews -->
+<script>
+(function() {
+	try {
+		var obj = {
+			title: "",
+			body: ""
+		};
+		if (typeof pgStoryZeroJSON !== "object" || pgStoryZeroJSON === null) { return false; }
+		if (typeof pgStoryZeroJSON.articles !== "object" || !Array.isArray(pgStoryZeroJSON.articles)) { return false; }
+		if (typeof pgStoryZeroJSON.articles[0] !== "object" || pgStoryZeroJSON.articles[0] === null) { return false; }
+		var json = pgStoryZeroJSON.articles[0];
+		obj.title = (typeof json.title === "string") ? json.title : obj.title;
+		obj.body = (typeof json.title === "string") ? json.body : obj.body;
+		window.S2NSTORYDATA = obj;
+	} catch(e) {
+		console.log("SENDTONEWS: Error creating data object:", e);
+	}
+})();
+</script>
+
+<!-- %] -->
+<!-- TipFormCaptcha=1 inlineimages=0 relatedcount=5 --><!-- pgevoke.components.page-footer -->
+
+			</div> <!-- .pgevoke-pagewrapper-content.container (from the page-header) -->
+
+			<div class="adhesion-banner-placeholder"></div>
+<div id="pg-ads-adhesion-wrapper" style="display:none">
+	<div data-dfpads-position="ADHESION" data-dfpads-adsection="sports/high-school-football">
+		<div class="pg-adtarget"></div>
+	</div>
+</div>
+		</div> <!-- .pgevoke-slidewrapper.container (from the page-header) -->
+
+					<!-- Not using full footer -->
+		
+	</div> <!-- .pgevoke-pagewrapper -->
+
+	<!-- pgevoke.components.body_end v20200323_1351 -->
+
+<!--
+*********************************
+          BODY END: HTML
+********************************* -->
+<div id="pgevoke-apwidgetloader" style="display:none"></div>
+
+<!-- #pgtarget for the login screen -->
+<div id="pgtarget"></div>
+
+<!-- "Back To Top" button -->
+<div class="pgevoke-backtotop"><div class="pgevoke-backtotop-icon"><span class="icon icon-arrow-up2"></span></div><div class="pgevoke-backtotop-text"><span>TOP</span></div></div>
+
+<!--
+*********************************
+	   BODY END: JS - MISC
+********************************* -->
+<!-- pgevoke.components.js-block"> -->
+<!-- <script src="https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/js/pg/pgevoke.dependencies-v0003.js"></script> -->
+  <script src="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/pg/pgevoke.dependencies-v0004.js"></script>
+
+<!--
+<script src='https://www.google.com/recaptcha/api.js' async></script>
+Removing 11/19/2018
+-->
+<script type="text/javascript" src="https://www.queryly.com/js/queryly.v2.js"></script>
+
+<!-- gigya-head BEGIN -->
+<!-- gigya-head (globallast) -->
+<!-- GHEAD -->
+<!-- Removed 10.11.17 NM
+<script src='https://cdns.gigya.com/js/gigya.js?apiKey=<%GigyaLive%>' type='text/javascript'>
+{
+	siteName: 'post-gazette.com'
+	,enabledProviders: 'facebook'
+}
+</script>
+-->
+
+<script>
+	var videoPage = document.getElementById("video-page");
+	if(videoPage == true){
+		var cssTag =  createElement("link");
+		cssTag.setAttribute("type", "text/css");
+		cssTag.setAttribute("rel", "stylesheet");
+		css.Tag.setAttribute("href", "<%@themeroot%>/css/videotab.css");
+		
+	}
+</script>
+
+
+	<!-- Metered story (paid) -->
+
+<!--
+IF{@RequestType="SECTION"&@SectionId="events"}
+	 Fix for events page Spingo bug 
+	<script>History.init = function(){};</script>
+	ELSE
+	 Not IN EVENTS
+	ENDIF
+-->
+<script>// var GIGYAKEY = "3_Zk0XL0Z6IuAJuZLh4Eqw-3cfLIeB_fm203R18N4rjWlq6RqplvSvc9JifzA7pNbD";</script>
+
+			<!-- <script src="https://www.post-gazette.com/assets/js/pgutilbundle-6.0.0.8.js"></script> -->
+		<script src="https://www.post-gazette.com/assets/js/pgutilbundle-6.0.0.9.js"></script>
+		<script>
+		_PG.settings.site.loadUrlDesktop="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/pg/pwdata-5.6.5.11.js";
+		_PG.settings.site.loadUrlMobile="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/pg/pwdata-5.6.5.11.js";
+		_PG.settings.site.loadUrl="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/pg/pwdata-5.6.5.11.js";
+		_PG.settings.site.loadType="json";
+		_PG.settings.site.gigyaCSS = "https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/css/pg/combined.css";
+	</script>
+
+
+
+<script>
+_PG.settings.gigya.screensets.wall = {
+   url: "promo-offer-99-cent.json",
+   drawer: true,
+   title: "Subscribe to Continue"
+}
+
+_PG._listen("screenSetOpen", function(ev, data) {
+            console.log("SCREENSET OPENED",data);
+            if(data.screenSet === "wall" && data.url === "promo-offer-99-cent.json" && _PG.accounts.loggedIn()){
+            	console.log("REMOVE LOGIN BUTTON")
+            	var loginBtn = document.querySelector(".pg-bigdrawer .pg-login-button");
+            	var pipe = document.querySelector(".pg-bigdrawer .login-divider");
+            	loginBtn.remove();
+            	pipe.remove();
+            }
+
+        });
+</script>
+<!-- <script src="https://my.post-gazette.com/templates/all/js/purchase/plugins/ugc/fmdriver.js"></script> Removed (again) per Nate, 7/18/18 -->
+
+<!--- EOF GHEAD-->
+<!-- gigya-head END -->
+
+  <!-- Krux ControlTag - BEGIN -->
+  <script class="kxct" data-id="r7o3vzlr6" data-timing="async" data-version="3.0" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+      var k=document.createElement('script');k.type='text/javascript';k.async=true;
+      k.src=(location.protocol==='https:'?'https:':'http:')+'//cdn.krxd.net/controltag/r7o3vzlr6.js';
+      var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+  </script>
+  <!-- Krux ControlTag - END -->
+
+<!-- Email share -->
+<style>
+#pgevoke-tipform {
+	margin: auto;
+	max-width: 300px;
+	background-color: white;
+	border: 5px solid #ccc;
+	border-radius: 5px;
+	color: #222;
+	padding: 45px 15px 15px;
+	position: relative;
+	font-size: 14px;
+	font-family: proxima-nova, Arial, sans-serif;
+}
+.pgevoke-tipform-header {
+	background-color: #eee;
+	color: #222;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 10px 5px;
+	margin: 0 auto 10px;
+}
+.pgevoke-tipform-field {
+	width: 100%;
+	margin-bottom:10px;
+}
+.pgevoke-tipform-field input {
+	width: 100%;
+}
+</style>
+
+<div id="pgevoke-tipform" class="mfp-hide">
+	<div id="tipformwrapper" title="Email a Story">
+		<form id="tipform" method="POST" action="/" class="libAjaxDialogAllowClose" onsubmit="return false">
+			<input type="hidden" name="securedata" value="">
+			<input type="hidden" name="url" value="">
+			<input type="hidden" name="title" value="">
+			<div class="pgevoke-tipform-header">Email a Story</div>
+			<div class="pgevoke-tipform-field">
+				<label for="emailfrom">Your e-mail:</label><br>
+				<input type="text" size="25" class="required email" name="emailfrom" required="true" email>
+			</div>
+			<div class="pgevoke-tipform-field">
+				<label for="emailto">Friends e-mail:</label><br>
+				<input type="text" size="25" class="required email" name="emailto" required="true" email><br>
+			</div>
+			<!--
+			This button is used for the non-AJAX submit function.
+			<input id="normalsend" class="libAjaxSaveButton" type="submit">  
+			-->
+			<div class="textright">
+				<div id='recaptcha' class="g-recaptcha"
+		          data-sitekey="6Le5BBkUAAAAAPUMo4bVshF1cTOR4bgOfr1lgsUr"
+		          data-callback="pgEmailShareSubmit"
+		          data-size="invisible"></div>
+		          <button id='emailSubmit'>Submit</button>
+			</div>
+		</form>	
+	</div>
+	<!-- <script src="https://my.post-gazette.com/templates/all/js/libercuspackage.js"></script> -->
+</div>
+
+
+<script src="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/pg/pgevoke-pkg-v0060.js"></script>
+
+<!--
+<l t o : macro name="pgevoke.includes.email-share">
+<l t o : macro name="pgevoke.components.analytics-block">
+-->
+<!-- pgevoke.components.analytics-block / v20180411_1428 -->
+<!--
+- analytics.newsbeat
+- A.B.D.
+- analytics.pg -> pg.analytics.aam
+- analytics.pg -> pg.analytics.civicscience
+- pg.analytics.aam-certifier (live only)
+- pg.analytics.google-analytics
+-->
+
+
+
+
+<!--
+*************************************
+              A.B.D.
+************************************* -->
+<!-- script>(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//b6227.xyz/fc4ef4b0cd862534876ba3940f4684fdecc9f9cac6edd85a9939093b4c1889c363192384d285f62117e1b1e2ba8939ec2e65b9aa3a4786c9dccae2dea926');</script-->
+
+<!-- Removing 6/1/2020 per Nate
+<script>
+	_PG.utils.drawAdmiralEngage = function(){
+		(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//perceivequarter.com/ea2cbac3d088ef04fe6e25fbcaa1f6a0e27179dacdc2310e55b1462bf9a3f75ec46ca0ee2e1cfd2a1e34ecfe615496630cd770e87bef211e848ae2f0bb2cd92a461f3e429401465647');
+	}
+
+	_PG.utils.drawAdmiralMeasure = function(){
+		(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//perceivequarter.com/f8673bad15d32659979cbc3ed959e3a05d680776de5a94a96507b76a14f38616fccc4ee99363932a6b16ab765db77360c367589f2105bec63076bba6c7387a3101f805a8');
+	}
+
+	_PG._listen("accountStatus",function(e,a){
+
+ 		_PG.utils.log(a);
+ 		_PG.utils.log(a.data);
+		if(a.data && a.data.activePaidUser === "true"){
+			_PG.utils.log("MEASURE")
+			_PG.utils.drawAdmiralMeasure();
+		}else{
+			_PG.utils.log("ENGAGE");
+			_PG.utils.drawAdmiralMeasure();
+			_PG.utils.drawAdmiralEngage();
+		}
+	})
+</script>
+-->
+
+<!--
+*************************************
+         pg.analytics.aam
+************************************* -->
+<script src="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/js/vendor/js.cookie.js"></script>
+<!-- <script src="https://a9a1263f9caafb223a0e-ed6332b96e149fbe46aac9e4618971f3.ssl.cf2.rackcdn.com/js/vendor/other/pganylbndl.js"></script> -->
+
+
+
+<!--
+*************************************
+      pg.analytics.civicscience
+************************************* -->
+
+
+
+<!--
+*************************************
+      pg.analytics.aam-certifier
+************************************* -->
+	
+<!--
+*************************************
+     pg.analytics.google-analytics
+************************************* -->
+
+
+<!--
+*************************************
+         analytics.comscore
+************************************* -->
+<!--
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "13557270" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=13557270&cv=2.0&cj=1" />
+</noscript>
+-->
+
+
+<!--
+*************************************
+         BODY END: JS - ICT
+************************************* -->
+  <!-- ICT is off -->
+
+
+<!--
+*************************************
+       BODY END: JS - PG PERKS
+************************************* -->
+<script>
+	// Listener for PG Perks Header Switch
+	// Added logic 6/12/2017
+	_PG._listen("accountStatus",function(ev,d){
+        if(d.statusCode == 200){
+            if(d.data.activePaidUser === "true"){
+            	$(".gigyaBtn.subscribeBtn").hide();
+            }
+        }
+    })
+    _PG._listen("gigyaLogout",function(ev,d){
+    	$(".gigyaBtn.subscribeBtn").show();
+    })
+
+    _PG._listen("getUserData",function(ev,d){
+    	if(d.data.activePaidUser === "true"){
+        	$(".gigyaBtn.subscribeBtn").hide();
+        }else{
+        	$(".gigyaBtn.subscribeBtn").show();
+        }
+    })
+</script>
+
+<!--
+*************************************
+      BODY END: JS - RICH MEDIA
+************************************* -->
+
+<div id="dfpinterstitial-content" class="mfp-hide"></div>
+<div id="pg-ads-interstitial-wrapper">
+  <div data-dfpads-position="X10" data-dfpads-adsection="sports/high-school-football">
+    <div class="pg-adtarget"></div>
+  </div>
+</div><div id="dfpinterstitialmobile-content" class="mfp-hide"></div>
+<div id="pg-ads-x15-wrapper" style="display:none">
+  <div data-dfpads-position="X15" data-dfpads-adsection="sports/high-school-football">
+    <div class="pg-adtarget"></div>
+  </div>
+</div>
+
+<!-- 
+*************************************
+            TINYPASS
+************************************* -->
+  <script>
+    window.tp = tp || [];
+        var tptags = [];
+    (function() {
+      // Zone & AI
+      DEBUGLOGR.log("PIANO", "Started anonymous function");
+      tp.push(["setZone", "Web"]);
+      tp.push(["setCloudflareWorkerUrl", "https://id.post-gazette.com"]);
+      tp.push(["setCxenseSiteId", "1127326325556598313"]);
+      if (typeof PGVARS.requesttype === "string" && PGVARS.requesttype !== "") {
+        tptags.push("pagetype-" + PGVARS.requesttype.toLowerCase());
+      }
+      // Section tags
+      if (typeof PGVARS.sectionpath === "string" && PGVARS.sectionpath !== "") {
+        DEBUGLOGR.log("PIANO", "Found section path");
+        var spatharray = PGVARS.sectionpath.split("/");
+        spatharray.forEach(function(item) {
+          DEBUGLOGR.log("PIANO", "Adding item '" + item + "'");
+          if (item !== "") { tptags.push(item); }  
+        });
+        tp.push(["setContentSection", PGVARS.sectionpath]);
+      }
+      // Other data (v2)
+      if (PGVARS.requesttype === "STORY") {
+        DEBUGLOGR.log("PIANO", "Request is story");
+        if (PGFNS.issetmulti(pgStoryZeroJSON, "articles", "0")) {
+          DEBUGLOGR.log("PIANO", "Found articles[0]");
+          var story = pgStoryZeroJSON.articles[0];
+          if (typeof story.paid === "string") {
+            if (story.paid === "0") {
+              DEBUGLOGR.log("PIANO", "Adding tag 'free'");
+              tptags.push("free");
+            } else if (story.paid === "1") {
+              if (typeof story.paidusersonly === "string" && story.paidusersonly === "1") {
+                DEBUGLOGR.log("PIANO", "Adding tag 'paid-users-only'");
+                tptags.push("paid-users-only");
+              } else {
+                DEBUGLOGR.log("PIANO", "Adding tag 'metered'");
+                tptags.push("metered");
+              }
+            }
+          }
+          var pubdate = "";
+          if (typeof pubdate !== "") {
+            DEBUGLOGR.log("PIANO", "Running setContentCreated with pubdate='" + pubdate + "'");
+            tp.push(["setContentCreated", pubdate]);
+          }
+        }
+        if (PGFNS.issetmulti(PGPAGEDATA, "authorapi", "author", "fullName")) {
+          DEBUGLOGR.log("PIANO", "Running setContentAuthor with author='" + PGPAGEDATA.authorapi.author.fullName + "'");
+          tp.push(["setContentAuthor", PGPAGEDATA.authorapi.author.fullName]);
+        }
+      } else {
+        tptags.push("free");
+      }
+      if (tptags.length > 0) {
+        DEBUGLOGR.log("PIANO", "Running setTags with this array:");
+        DEBUGLOGR.log(tptags);
+        tp.push(["setTags", tptags]);
+      }
+    })();
+  </script>
+      <!-- LIVE -->
+    <script>(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=0Jrto77Ppu");</script>
+  
+</body>
+</html>

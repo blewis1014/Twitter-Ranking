@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+	<!-- Header Start -->
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+		<meta name="author" content="FMD">
+    <meta name="google-site-verification" content="M3DJRnOEMXIVxw9PmvNfgH7CJMwTM5Dg8x5JNZmbqtU" />
+<title>高校サッカー選手権 京都府予選 1回戦 同志社 vs 農芸｜JAPAN FOOTBALL（ジャパンフットボール）</title><meta name='description' content='高校サッカー選手権 京都府予選 1回戦 同志社 vs 農芸 試合詳細ページ'><meta name='keywords' content='サッカー,速報,フットボール,Jリーク,U-22,U-18,U-15,JFL,日本代表'><meta http-equiv='Pragma' content='no-cache' /><meta property="og:site_name" content="JAPAN FOOTBALL（ジャパンフットボール）" /><meta property="og:title" content="高校サッカー選手権 京都府予選 1回戦 同志社 vs 農芸" /><meta property="og:type" content="article" /><meta property="og:url" content="https://japan-football.net/game/male/pref/kyoto/U-18/00002046/00030820" /><meta property="og:image" content="https://japan-football.net/img/game/tc00030820.jpg?20201018104516" /><meta property="og:description" content="高校サッカー選手権 京都府予選 1回戦 同志社 vs 農芸の得点速報・試合経過詳細・応援メッセージ投稿ページ。" /><!-- ICON -->
+
+	<link rel="icon" href="/img/favicon.ico">
+	<link rel="apple-touch-icon" href="/img/jf_twitter_icon.png">
+
+<!-- CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/css/jf.css?date=20201018104516">
+	
+<!-- Javascript -->
+<!-- 1 : Google MAP API -->
+<!-- 2 : JQuery -->
+<!-- 3 : Bootstrap -->
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="/js/jf.js?date=20201018104516"></script>
+	<script src="https://kit.fontawesome.com/e22f1de8ec.js"></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126193726-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-126193726-1');
+	</script>
+
+	<!-- Global Adsence tag -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-1918899267106731",
+		enable_page_level_ads: true
+		});
+	</script>
+
+	<script async custom-element="amp-auto-ads"
+		src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+	</script>
+
+	</head>
+
+	<!-- Header End -->
+
+<SCRIPT LANGUAGE="JavaScript">
+setTimeout("location.reload()",1000*120);
+</SCRIPT>
+
+	<body>
+
+		<!-- Navigation Bar Start -->
+				<nav class="bg-dark navbar navbar-toggleable-xs navbar-light bg-faded fixed-top navbar-light" style="background-color:#FFFFFF; margin-bottom:1em;">
+
+			<a class="navbar-brand" href="/"><h1><img src="/img/jf_logo.png" width='260px' alt="JAPAN FOOTBALL"></h1></a>
+
+			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon bg-secondary"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item"><a class="nav-link" href="/"><span class='card-title'>Home</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/game"><span class='card-title'>試合情報</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/team"><span class='card-title'>チーム情報</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/ground"><span class='card-title'>グラウンド情報</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/news"><span class='card-title'>ニュース</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/feature"><span class='card-title'>特集</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/article"><span class='card-title'>記事</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/help"><span class='card-title'>ヘルプ</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="/form"><span class='card-title'>問い合わせ</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="https://fmdoffice.jp/term"><span class='card-title'>利用規約</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="https://fmdoffice.jp/privacy"><span class='card-title'>プライバシーポリシー</span></a></li>
+					<li class="nav-item"><a class="nav-link" href="https://fmdoffice.jp/corp"><span class='card-title'>運営者情報</span></a></li>
+				</ul>
+			</div>
+
+		</nav>
+
+		<amp-auto-ads type="adsense"
+			data-ad-client="ca-pub-1918899267106731">
+		</amp-auto-ads>
+		<!-- Navigation Bar End -->
+
+
+		<!-- Container Start -->
+		<div class='container-fluid'>			<!-- Body Low Start -->
+			<div class="row">
+
+				<!-- Left Side Bory Start -->
+				<div class='col-md-9'>
+					<!--------------------->
+					<!-- パンくず         -->
+					<!--------------------->
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>&nbsp;HOME</a></li>
+						<li class="breadcrumb-item"><a href='/game'>試合情報</a></li>
+						<li class="breadcrumb-item"><a href='/game/male'>男子</a></li>
+						<li class="breadcrumb-item"><a href='/game/male/pref'>県リーグ・県大会・県予選</a></li>
+						<li class='breadcrumb-item'><a href='/game/male/pref/kyoto'>京都府</a></li><li class='breadcrumb-item'><a href='/game/male/pref/kyoto/U-18'>U-18</a></li><li class='breadcrumb-item'><a href='/game/male/pref/kyoto/U-18/00002046'>2020 高校サッカー選手権 京都府予選</a></li><li class='breadcrumb-item active'><h2>1回戦 同志社高校 vs 農芸</h2></li>					</ol>
+
+										<!--------------------->
+					<!-- SNS             -->
+					<!--------------------->
+					<div class="card-group">
+
+						<!-- Twitter -->
+						<div class='card'>
+							<div class='card-body text-center align-middle pt-2 pb-1'>
+								<a class="twitter-share-button" href="https://twitter.com/share" data-dnt="true" lang="en">Tweet</a>
+							</div>
+						</div>
+
+						<!-- LINE -->
+						<div class='card'>
+							<div class='card-body text-center align-middle pt-2 pb-1'>
+								<div class="line-it-button" data-lang="ja" data-type="share-a" data-ver="3" data-url="https://org-media.line.me/ja/how_to_install#lineitbutton" data-color="default" data-size="small" data-count="false" style="display: none;"></div>
+							</div>
+						</div>
+
+						<!-- FB -->
+						<div class='card'>
+							<div class='card-body text-center align-middle pt-2 pb-1'>
+								<div class="fb-like" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div>
+							</div>
+						</div>
+
+						<!-- HATENA -->
+						<div class='card'>
+							<div class='card-body text-center align-middle pt-2 pb-1'>
+								<a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+							</div>
+						</div>
+
+						<!-- POCKET -->
+						<div class='card'>
+							<div class='card-body text-center align-middle pt-2 pb-1'>
+								<a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+							</div>
+						</div>
+
+					</div>
+					<br>
+
+					<div class='card mt-2 mb-2'><div class='card-header'>Sponsored Link</div><div class='card-block ad'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- レスポ_001 -->
+<ins class="adsbygoogle"
+	 style="display:block"
+	 data-ad-client="ca-pub-1918899267106731"
+	 data-ad-slot="3972279201"
+	 data-ad-format="auto"
+	 data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+					<!--------------------->
+					<!-- Main Body Start -->
+					<!--------------------->
+
+					
+
+					<div class='card mt-2'><div class='card-header center card-title bg-dark'><h4>高校サッカー選手権 京都府予選 1回戦</h4></div><div class='card-body p-0'><div class='col-12 center game_buttom'>2020-10-17（<font color='red'>土</font>）12:30 K.O</div><div class='col-12 center game_buttom'></div><div class='col-12 center game_buttom ingame'>前半開始</div><div class='row'><div class='col-6 center game_buttom'><h5><a href='/team/kyoto/00001296'>同志社高校</a></h5></div><div class='col-6 center game_buttom'><h5>農芸</h5></div></div><div class='row'><div class='col-4 center game_buttom point_total'>0</div><div class='col-4 center game_buttom point_total'>-</div><div class='col-4 center game_buttom point_total'>0</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>前半</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>後半</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>延長前半</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>延長後半</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>0</div><div class='col-4 center game_buttom'>PK</div><div class='col-4 center game_buttom'>0</div></div></div></div>
+					<div class="card mt-2">
+						<!-- ヘッダ -->
+						<div class="card-header card-title bg-dark">得点更新</div>
+						<div class="card-block p-2 text-center">
+
+							試合当日以外は得点更新は行えません。
+							<div class="modal fade" id="pointupd"" tabindex="-1" role="dialog">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">【得点更新】
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<form enctype="multipart/form-data" name="input" method="POST" action="/game/male/pref/kyoto/U-18/00002046/00030820/act">
+												<table class="table table-sm table-striped table-hover">
+													<thead>
+														<tr>
+															<th width="30%" class="td-center align-middle">同志社</th>
+															<th width="10%" id='disp_total_a' class="point_total td-center align-middle">0</th>
+															<th width="20%" class="td-center"><SELECT class='custom-select bg-warning' name="past" tabindex="">
+<OPTION value="試合前" >試合前</OPTION>
+<OPTION value="前半開始" selected>前半開始</OPTION>
+<OPTION value="前半1分" >前半1分</OPTION>
+<OPTION value="前半2分" >前半2分</OPTION>
+<OPTION value="前半3分" >前半3分</OPTION>
+<OPTION value="前半4分" >前半4分</OPTION>
+<OPTION value="前半5分" >前半5分</OPTION>
+<OPTION value="前半6分" >前半6分</OPTION>
+<OPTION value="前半7分" >前半7分</OPTION>
+<OPTION value="前半8分" >前半8分</OPTION>
+<OPTION value="前半9分" >前半9分</OPTION>
+<OPTION value="前半10分" >前半10分</OPTION>
+<OPTION value="前半11分" >前半11分</OPTION>
+<OPTION value="前半12分" >前半12分</OPTION>
+<OPTION value="前半13分" >前半13分</OPTION>
+<OPTION value="前半14分" >前半14分</OPTION>
+<OPTION value="前半15分" >前半15分</OPTION>
+<OPTION value="前半16分" >前半16分</OPTION>
+<OPTION value="前半17分" >前半17分</OPTION>
+<OPTION value="前半18分" >前半18分</OPTION>
+<OPTION value="前半19分" >前半19分</OPTION>
+<OPTION value="前半20分" >前半20分</OPTION>
+<OPTION value="前半21分" >前半21分</OPTION>
+<OPTION value="前半22分" >前半22分</OPTION>
+<OPTION value="前半23分" >前半23分</OPTION>
+<OPTION value="前半24分" >前半24分</OPTION>
+<OPTION value="前半25分" >前半25分</OPTION>
+<OPTION value="前半26分" >前半26分</OPTION>
+<OPTION value="前半27分" >前半27分</OPTION>
+<OPTION value="前半28分" >前半28分</OPTION>
+<OPTION value="前半29分" >前半29分</OPTION>
+<OPTION value="前半30分" >前半30分</OPTION>
+<OPTION value="前半31分" >前半31分</OPTION>
+<OPTION value="前半32分" >前半32分</OPTION>
+<OPTION value="前半33分" >前半33分</OPTION>
+<OPTION value="前半34分" >前半34分</OPTION>
+<OPTION value="前半35分" >前半35分</OPTION>
+<OPTION value="前半36分" >前半36分</OPTION>
+<OPTION value="前半37分" >前半37分</OPTION>
+<OPTION value="前半38分" >前半38分</OPTION>
+<OPTION value="前半39分" >前半39分</OPTION>
+<OPTION value="前半40分" >前半40分</OPTION>
+<OPTION value="前半41分" >前半41分</OPTION>
+<OPTION value="前半42分" >前半42分</OPTION>
+<OPTION value="前半43分" >前半43分</OPTION>
+<OPTION value="前半44分" >前半44分</OPTION>
+<OPTION value="前半45分" >前半45分</OPTION>
+<OPTION value="前半AT1分" >前半AT1分</OPTION>
+<OPTION value="前半AT2分" >前半AT2分</OPTION>
+<OPTION value="前半AT3分" >前半AT3分</OPTION>
+<OPTION value="前半AT4分" >前半AT4分</OPTION>
+<OPTION value="前半AT5分" >前半AT5分</OPTION>
+<OPTION value="前半終了" >前半終了</OPTION>
+<OPTION value="後半開始" >後半開始</OPTION>
+<OPTION value="後半1分" >後半1分</OPTION>
+<OPTION value="後半2分" >後半2分</OPTION>
+<OPTION value="後半3分" >後半3分</OPTION>
+<OPTION value="後半4分" >後半4分</OPTION>
+<OPTION value="後半5分" >後半5分</OPTION>
+<OPTION value="後半6分" >後半6分</OPTION>
+<OPTION value="後半7分" >後半7分</OPTION>
+<OPTION value="後半8分" >後半8分</OPTION>
+<OPTION value="後半9分" >後半9分</OPTION>
+<OPTION value="後半10分" >後半10分</OPTION>
+<OPTION value="後半11分" >後半11分</OPTION>
+<OPTION value="後半12分" >後半12分</OPTION>
+<OPTION value="後半13分" >後半13分</OPTION>
+<OPTION value="後半14分" >後半14分</OPTION>
+<OPTION value="後半15分" >後半15分</OPTION>
+<OPTION value="後半16分" >後半16分</OPTION>
+<OPTION value="後半17分" >後半17分</OPTION>
+<OPTION value="後半18分" >後半18分</OPTION>
+<OPTION value="後半19分" >後半19分</OPTION>
+<OPTION value="後半20分" >後半20分</OPTION>
+<OPTION value="後半21分" >後半21分</OPTION>
+<OPTION value="後半22分" >後半22分</OPTION>
+<OPTION value="後半23分" >後半23分</OPTION>
+<OPTION value="後半24分" >後半24分</OPTION>
+<OPTION value="後半25分" >後半25分</OPTION>
+<OPTION value="後半26分" >後半26分</OPTION>
+<OPTION value="後半27分" >後半27分</OPTION>
+<OPTION value="後半28分" >後半28分</OPTION>
+<OPTION value="後半29分" >後半29分</OPTION>
+<OPTION value="後半30分" >後半30分</OPTION>
+<OPTION value="後半31分" >後半31分</OPTION>
+<OPTION value="後半32分" >後半32分</OPTION>
+<OPTION value="後半33分" >後半33分</OPTION>
+<OPTION value="後半34分" >後半34分</OPTION>
+<OPTION value="後半35分" >後半35分</OPTION>
+<OPTION value="後半36分" >後半36分</OPTION>
+<OPTION value="後半37分" >後半37分</OPTION>
+<OPTION value="後半38分" >後半38分</OPTION>
+<OPTION value="後半39分" >後半39分</OPTION>
+<OPTION value="後半40分" >後半40分</OPTION>
+<OPTION value="後半41分" >後半41分</OPTION>
+<OPTION value="後半42分" >後半42分</OPTION>
+<OPTION value="後半43分" >後半43分</OPTION>
+<OPTION value="後半44分" >後半44分</OPTION>
+<OPTION value="後半45分" >後半45分</OPTION>
+<OPTION value="後半AT1分" >後半AT1分</OPTION>
+<OPTION value="後半AT2分" >後半AT2分</OPTION>
+<OPTION value="後半AT3分" >後半AT3分</OPTION>
+<OPTION value="後半AT4分" >後半AT4分</OPTION>
+<OPTION value="後半AT5分" >後半AT5分</OPTION>
+<OPTION value="後半終了" >後半終了</OPTION>
+<OPTION value="延長前半開始" >延長前半開始</OPTION>
+<OPTION value="延長前半1分" >延長前半1分</OPTION>
+<OPTION value="延長前半2分" >延長前半2分</OPTION>
+<OPTION value="延長前半3分" >延長前半3分</OPTION>
+<OPTION value="延長前半4分" >延長前半4分</OPTION>
+<OPTION value="延長前半5分" >延長前半5分</OPTION>
+<OPTION value="延長前半6分" >延長前半6分</OPTION>
+<OPTION value="延長前半7分" >延長前半7分</OPTION>
+<OPTION value="延長前半8分" >延長前半8分</OPTION>
+<OPTION value="延長前半9分" >延長前半9分</OPTION>
+<OPTION value="延長前半10分" >延長前半10分</OPTION>
+<OPTION value="延長前半11分" >延長前半11分</OPTION>
+<OPTION value="延長前半12分" >延長前半12分</OPTION>
+<OPTION value="延長前半13分" >延長前半13分</OPTION>
+<OPTION value="延長前半14分" >延長前半14分</OPTION>
+<OPTION value="延長前半15分" >延長前半15分</OPTION>
+<OPTION value="延長前半終了" >延長前半終了</OPTION>
+<OPTION value="延長後半開始" >延長後半開始</OPTION>
+<OPTION value="延長後半1分" >延長後半1分</OPTION>
+<OPTION value="延長後半2分" >延長後半2分</OPTION>
+<OPTION value="延長後半3分" >延長後半3分</OPTION>
+<OPTION value="延長後半4分" >延長後半4分</OPTION>
+<OPTION value="延長後半5分" >延長後半5分</OPTION>
+<OPTION value="延長後半6分" >延長後半6分</OPTION>
+<OPTION value="延長後半7分" >延長後半7分</OPTION>
+<OPTION value="延長後半8分" >延長後半8分</OPTION>
+<OPTION value="延長後半9分" >延長後半9分</OPTION>
+<OPTION value="延長後半10分" >延長後半10分</OPTION>
+<OPTION value="延長後半11分" >延長後半11分</OPTION>
+<OPTION value="延長後半12分" >延長後半12分</OPTION>
+<OPTION value="延長後半13分" >延長後半13分</OPTION>
+<OPTION value="延長後半14分" >延長後半14分</OPTION>
+<OPTION value="延長後半15分" >延長後半15分</OPTION>
+<OPTION value="延長終了" >延長終了</OPTION>
+<OPTION value="PK開始" >PK開始</OPTION>
+<OPTION value="PK終了" >PK終了</OPTION>
+<OPTION value="中断中" >中断中</OPTION>
+<OPTION value="延期" >延期</OPTION>
+<OPTION value="中止" >中止</OPTION>
+<OPTION value="終了" >終了</OPTION>
+</SELECT></th>
+															<th width="10%" id='disp_total_b' class="point_total td-center align-middle">0</th>
+															<th width="30%" class="td-center align-middle">農芸</th>
+														</tr>
+													</thead>
+
+													<tbody>
+														<tr>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_1st_a_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_1st_a_minus'>ー</button>
+																<input type="hidden" name="point_1st_a" id="point_1st_a" value="0">
+															</td>
+															<td id='disp_point_1st_a' class="td-center align-middle">0</td>
+															<td class="td-center align-middle">前半</td>
+															<td id='disp_point_1st_b' class="td-center align-middle">0</td>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_1st_b_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_1st_b_minus'>ー</button>
+																<input type="hidden" name="point_1st_b" id="point_1st_b" value="0">
+															</td>
+														</tr>
+
+														<tr>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_2nd_a_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_2nd_a_minus'>ー</button>
+																<input type="hidden" name="point_2nd_a" id="point_2nd_a" value="0">
+															</td>
+															<td id='disp_point_2nd_a' class="td-center align-middle">0</td>
+															<td class="td-center align-middle">後半</td>
+															<td id='disp_point_2nd_b' class="td-center align-middle">0</td>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_2nd_b_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_2nd_b_minus'>ー</button>
+																<input type="hidden" name="point_2nd_b" id="point_2nd_b" value="0">
+															</td>
+														</tr>
+
+														<tr>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_ex_1st_a_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_ex_1st_a_minus'>ー</button>
+																<input type="hidden" name="point_ex_1st_a" id="point_ex_1st_a" value="0">
+															</td>
+															<td id='disp_point_ex_1st_a' class="td-center align-middle">0</td>
+															<td class="td-center">延長前半</td>
+															<td id='disp_point_ex_1st_b' class="td-center align-middle">0</td>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_ex_1st_b_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_ex_1st_b_minus'>ー</button>
+																<input type="hidden" name="point_ex_1st_b" id="point_ex_1st_b" value="0">
+															</td>
+														</tr>
+
+														<tr>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_ex_2nd_a_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_ex_2nd_a_minus'>ー</button>
+																<input type="hidden" name="point_ex_2nd_a" id="point_ex_2nd_a" value="0">
+															</td>
+															<td id='disp_point_ex_2nd_a' class="td-center align-middle">0</td>
+															<td class="td-center align-middle">延長後半</td>
+															<td id='disp_point_ex_2nd_b' class="td-center align-middle">0</td>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_ex_2nd_b_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_ex_2nd_b_minus'>ー</button>
+																<input type="hidden" name="point_ex_2nd_b" id="point_ex_2nd_b" value="0">
+															</td>
+														</tr>
+
+														<tr>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_pk_a_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_pk_a_minus'>ー</button>
+																<input type="hidden" name="point_pk_a" id="point_pk_a" value="0">
+															</td>
+															<td id='disp_point_pk_a' class="td-center align-middle">0</td>
+															<td class="td-center align-middle">PK</td>
+															<td id='disp_point_pk_b' class="td-center align-middle">0</td>
+															<td class="td-center">
+																<button type="button" class="btn btn-primary btn-sm" id='btn_pk_b_plus'>＋</button>
+																<button type="button" class="btn btn-danger btn-sm" id='btn_pk_b_minus'>ー</button>
+																<input type="hidden" name="point_pk_b" id="point_pk_b" value="0">
+															</td>
+														</tr>
+
+														<tr>
+															<td class='td-center' colspan='5'><button type='submit' class='btn btn-success btn-sm'>この得点で速報投稿する</button></td>
+														</tr>
+													</tbody>
+												</table>
+												<ul class='list-group'>
+													<li class='list-group-item list-group-item-danger'>当サイトはサッカーファンの情報共有サイトです。故意に誤った得点に更新したと判断した場合は、止むを得ずアクセス禁止処置を行っております。</li>
+												</li>
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="modal fade" id="notsend""" tabindex="-1" role="dialog">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">【得点速報や試合結果を運営者のみにお知らせする】
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<form class="form-control-sm" enctype="multipart/form-data" name="input" method="POST" action="/game/male/pref/kyoto/U-18/00002046/00030820/notact">
+
+												<div class="form-group">
+													<textarea class="form-control form-control-sm mb-1" id="notice" name="notice" rows="2" placeholder="得点速報や試合結果を入力して下さい。" required></textarea>
+												</div>
+
+												<div class="modal-footer">
+													<button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">閉じる</button>
+													<input type="submit" class="btn btn-sm btn-success" value="登録">
+												</div>
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+
+
+					<div class="card mt-2 mb-2">
+						<div class="card-header card-title bg-dark">応援メッセージ</div>
+						<div class="card-block p-1 text-center">
+							<button type="button" class="btn btn-success btn-sm control" data-toggle="modal" data-target="#comment">応援メッセージを投稿する</button>
+
+							<div class="modal fade" id="comment"" tabindex="-1" role="dialog">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">【応援メッセージ登録】
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<form class="form-control-sm" enctype="multipart/form-data" name="input" method="POST" action="/game/male/pref/kyoto/U-18/00002046/00030820/comact">
+
+												<div class="form-group">
+													<label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='1' checked='checked'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_001.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='2'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_002.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='3'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_003.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='4'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_004.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='5'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_005.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='6'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_006.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='7'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_007.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='8'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_008.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='9'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_009.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='10'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_010.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='11'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_011.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='12'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_012.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='13'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_013.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='14'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_014.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='15'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_015.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='16'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_016.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='17'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_017.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='18'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_018.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='19'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_019.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='20'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_020.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='21'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_021.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='22'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_022.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='23'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_023.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='24'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_024.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='25'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_025.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='26'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_026.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='27'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_027.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='28'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_028.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='29'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_029.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='30'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_030.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='31'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_031.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='32'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_032.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='33'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_033.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='34'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_034.png?date=2020-10-18 10:10:16'></span></label><label class='custom-control custom-radio'><input id='icon' name='icon' type='radio' class='custom-control-input' value='35'><span class='custom-control-indicator'></span><span class='custom-control-description'><img src='/img/jf_gc_icon_035.png?date=2020-10-18 10:10:16'></span></label>												</div>
+
+												<div class="form-group">
+													<label class="form-control-label" for="name">ニックネーム</label>
+													<input type="text" class="form-control form-control-sm" id="name" name="name" value="" placeholder="ニックネームを入力して下さい。" required>
+												</div>
+
+												<div class="form-group">
+													<label class="form-control-label" for="comment">応援メッセージ</label>
+													<textarea class="form-control form-control-sm mb-1" id="comment" name="comment" rows="2" placeholder="応援メッセージを投稿しよう！" required></textarea>
+												</div>
+
+												<div class="modal-footer">
+													<button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">閉じる</button>
+													<input type="submit" class="btn btn-sm btn-success" value="登録">
+												</div>
+											</form>
+										</div>
+									</div>
+								</div>
+							</div>
+
+						</div>
+						<div class='carousel slide p-2 text-center align-middle' data-interval=5000 data-ride='carousel'><div class='carousel-inner' role='listbox'><div class='carousel-item active'>＜17時間前＞<br>みんなありがと（by かわはらだゆうま）<br><img src='/img/jf_gc_icon_001.png' width='30px'></div></div></div>					</div>
+
+					<div class='card mt-2 mb-2'><div class='card-header'>Sponsored Link</div><div class='card-block ad'><a href='https://chat-space.com/' target='_blank'><img class='mx-auto d-block img-fluid' src='https://chat-space.com/img/cs_top_ad.png'></a></div></div>
+					<div class="card mt-2 mb-2">
+						<div class="card-header card-title bg-dark">試合経過</div>
+						<ul class="list-group list-group-flush">
+							<li class='list-group-item'>＜22時間前＞&nbsp;同志社&nbsp;0（前半開始）0&nbsp;農芸						</ul>
+					</div>
+
+					<div class='card mt-2 mb-2'><div class='card-header'>Sponsored Link</div><div class='card-block ad'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- レスポ_002 -->
+<ins class="adsbygoogle"
+	 style="display:block"
+	 data-ad-client="ca-pub-1918899267106731"
+	 data-ad-slot="5449012402"
+	 data-ad-format="auto"
+	 data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+					
+					<!--------------------->
+					<!-- Main Body End -->
+					<!--------------------->
+
+				</div>
+				<!-- Left Side Bory End -->
+
+				<!-- Right Side Menu Start -->
+				<div class='col-md-3 col-xs-12'>
+	<!----------------------------------->
+	<!-- 人気キーワード                -->
+	<!----------------------------------->
+	<div class="card text-center">
+		<div class="card-header"><h2><span class="font-weight-bold">広告掲載等のご依頼</span></h2></div>
+		<div class="card-body">
+			広告掲載等のご依頼は、<a href='/form'>こちら</a>から<br>お問い合わせください。
+		</div>
+	</div>
+	<br>
+
+	<div class='card mt-2 mb-2'><div class='card-header'>Sponsored Link</div><div class='card-block ad'><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- レスポ_004 -->
+<ins class="adsbygoogle"
+	 style="display:block"
+	 data-ad-client="ca-pub-1918899267106731"
+	 data-ad-slot="2528396234"
+	 data-ad-format="auto"
+	 data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+</div>
+				<!-- Right Side Menu End -->
+
+			</div>
+			<!-- Body Low End -->
+
+		</div>
+		<!-- Container End -->
+
+		<!-- Footer Start -->
+				<!-- Footer Start -->
+
+        <hr>
+
+    	  <ul class="nav mb-3 justify-content-center">
+				  <li><a class="nav-link" href="/help">Help</a></li>
+				  <li><a class="nav-link" href="/form">お問い合わせ</a></li>
+					<li><a class="nav-link" href="https://fmdoffice.jp/term">利用規約</a></li>
+					<li><a class="nav-link" href="https://fmdoffice.jp/privacy">プライバシーポリシー</a></li>
+          <li><a class="nav-link" href="https://twitter.com/JAPAN_FB" target="_blank">Twitter</a></li>
+          <li><a class="nav-link" href="https://fmdoffice.jp/corp">Copyright &copy; 2016-2020 FMD OFFICE All Rights Reserved.</a></li>
+			  </ul>
+
+    <!-- Footer End -->
+		<!-- Footer End -->
+
+	</body>
+
+	<!-- SNS JS -->
+<script>window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));</script>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+<!-- SNS JS -->
+
+</html>

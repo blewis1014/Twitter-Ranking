@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow" /><title>オルンガを支える陰の立役者　江坂任 | データによってサッカーはもっと輝く | Football LAB</title>
+<meta name="keywords" content="サッカー,Jリーグ,データ,フットボールラボ,Football LAB,J1,J2,J3,オルンガを支える陰の立役者　江坂任,選手分析,シュート分析,J1,柏レイソル" />
+<meta name="description" content="フットボールラボ(Football LAB)はサッカーをデータで分析し、新しいサッカーの観戦方法を伝えるサッカー情報サイトです。選手のプレーを評価するチャンスビルディングポイントやプレースタイル指標、チームの戦術を評価するチームスタイル指標といった独自のデータを開発しています。データを活用してサッカーに新しい視点を提供するとともに、レポートやコラムを通してJリーグの試合を分析・解説します。" />
+
+<link rel="alternate" type="application/rss+xml" title="データによってサッカーはもっと輝く | Football LAB［フットボールラボ］" href="https://www.football-lab.jp/column.rss" />
+<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/common/normalize.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/common/styles.css?cashe=20180401" />
+<link rel="stylesheet" type="text/css" href="/css/common/layouts.css?cashe=2020014" />
+<script type="text/javascript" src="/js/jquery1.7.2.js"></script>
+<script type="text/javascript" src="/js/jquery.plugin.js?cashe=20180303"></script>
+<meta property="og:title" content="オルンガを支える陰の立役者　江坂任" />
+	<meta property="og:description" content="　一昨年以来、２年ぶりにＪ１へ復帰した柏レイソル。昇格１年目ながらリーグ戦２２試合を終え、８位と好調をキープしている。特に今シーズンは自慢の攻撃陣が火を吹いており、ここまでのチーム総得点は４３と上から数えて３番目の数字を誇る。さらに、リーグ戦２１試合出場２１ゴールと今季の得点ランキングを独走しているオルンガは手がつけられない状況にある。　そして、そのオルンガを一列後ろから支えているのが江坂任だ。今季は第２０節の横浜FC戦を除いたリーグ戦２０試合に先発出場し、チーム内で２番目に多い８ゴールを挙げ、チーム内トップの６アシストも記録している。今回はそんな江坂の攻撃面に焦点をあてていきたい。" />
+	<meta property="og:image" content="http://www.football-lab.jp/files/columns/748/6a51ebde5fe1d91a2616bc3780e48f2e.png" /><meta name="twitter:site" content="@football_lab" />
+<meta property="og:type" content="sport" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:url" content="https://www.football-lab.jp/column/entry/748/%0A" />
+<meta property="fb:admins" content="100003660892258" />
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-30450288-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+</head>
+<body id="column">
+	
+		<header id="header">
+	<div id="logo"><a href="https://www.football-lab.jp"><img src="/img/ui/logo.png" alt="Football LAB" /></a></div>
+	<div id="catchcopy"><img src="/img/ui/catchcopy.png" alt="Football LAB" /></div>
+	<!-- 検索 -->
+	<div id="searchBox">
+	<form id="cse-search-box" action="https://www.football-lab.jp/search/">
+	<input type="hidden" name="cx" value="010279501878509993225:vnpzk9jhfwe" />
+	<input type="hidden" name="ie" value="UTF-8" />
+	<input class="textBox" type="text" name="q" size="20" />
+	<input class="searchBtn" type="submit" name="sa" value="" />
+	</form>
+	</div>
+	<div class="socials">
+		<a class="tw" href="https://twitter.com/football_lab"><img src="/img/ui/twitter.png" alt="Twitter" /></a>
+		<a class="fb" href="https://ja-jp.facebook.com/footballlab/"><img src="/img/ui/facebook.png" alt="Facebook" /></a>
+	</div>
+	<!-- メニュー -->
+	<nav id="gNav">
+		<ul>
+		<li><a href="https://www.football-lab.jp">HOME</a></li>
+		<li><a href="https://www.football-lab.jp/summary/team_ranking/">Summary: <wbr>Team</a></li>
+		<li><a href="https://www.football-lab.jp/summary/player_ranking/">Summary: <wbr>Player</a></li>
+		<li><a href="https://www.football-lab.jp/japan/">JAPAN</a></li>
+		<li class="column"><a href="https://www.football-lab.jp/column/">Column</a></li>
+		<li class="lab"><a href="https://www.football-lab.jp/pages/about/">About</a></li>
+		<li class="teamMenuBtn"><a href="#" onclick="boxDoor('teamMenu');  return false;">Team <wbr>Select</a></li>
+		</ul>
+		<div id="searchBox" class="sp">
+		<form id="cse-search-box" action="https://www.football-lab.jp/search/">
+		<input type="hidden" name="cx" value="010279501878509993225:vnpzk9jhfwe" />
+		<input type="hidden" name="ie" value="UTF-8" />
+		<input class="textBox" type="text" name="q"/>
+		<input class="searchBtn" type="submit" name="sa" value="" />
+		</form>
+		</div>
+		<div class="socials sp">
+		<a class="tw" href="https://twitter.com/football_lab"><img src="/img/ui/twitter.png" alt="Twitter" /></a>
+		<a class="fb" href="https://ja-jp.facebook.com/footballlab/"><img src="/img/ui/facebook.png" alt="Facebook" /></a>
+		</div>
+	</nav>
+	<script type="text/javascript" src="https://www.google.com/cse/brand?form=cse-search-box&lang=ja"></script>
+</header>
+<div id="teamMenu">
+	<div class="teTtl">TEAM SELECT</div>
+	<ul class="teTab tabCtrl" data-target="teNav">
+	<li><a href="javascript:void('0')" data-id="1">J1 LEAGUE</a></li>
+	<li><a href="javascript:void('0')" data-id="2">J2 LEAGUE</a></li>
+	<li><a href="javascript:void('0')" data-id="3">J3 LEAGUE</a></li>
+	</ul>
+	<div class="teList tabBox" data-name="teNav">
+	<div class="tUnit" data-id="1">
+	<div class="lName">J1 LEAGUE</div>
+	<ul><li><a href="/sapp/"><img src="/img/team/SAPP_sdw.png" alt="北海道コンサドーレ札幌" /><span>札幌</span></a></li><li><a href="/send/"><img src="/img/team/SEND_sdw.png" alt="ベガルタ仙台" /><span>仙台</span></a></li><li><a href="/kasm/"><img src="/img/team/KASM_sdw.png" alt="鹿島アントラーズ" /><span>鹿島</span></a></li><li><a href="/uraw/"><img src="/img/team/URAW_sdw.png" alt="浦和レッズ" /><span>浦和</span></a></li><li><a href="/kasw/"><img src="/img/team/KASW_sdw.png" alt="柏レイソル" /><span>柏</span></a></li><li><a href="/fctk/"><img src="/img/team/FCTK_sdw.png" alt="ＦＣ東京" /><span>FC東京</span></a></li><li><a href="/ka-f/"><img src="/img/team/KA-F_sdw.png" alt="川崎フロンターレ" /><span>川崎Ｆ</span></a></li><li><a href="/y-fm/"><img src="/img/team/Y-FM_sdw.png" alt="横浜Ｆ・マリノス" /><span>横浜FM</span></a></li><li><a href="/y-fc/"><img src="/img/team/Y-FC_sdw.png" alt="横浜ＦＣ" /><span>横浜FC</span></a></li><li><a href="/shon/"><img src="/img/team/SHON_sdw.png" alt="湘南ベルマーレ" /><span>湘南</span></a></li><li><a href="/shim/"><img src="/img/team/SHIM_sdw.png" alt="清水エスパルス" /><span>清水</span></a></li><li><a href="/nago/"><img src="/img/team/NAGO_sdw.png" alt="名古屋グランパス" /><span>名古屋</span></a></li><li><a href="/g-os/"><img src="/img/team/G-OS_sdw.png" alt="ガンバ大阪" /><span>Ｇ大阪</span></a></li><li><a href="/c-os/"><img src="/img/team/C-OS_sdw.png" alt="セレッソ大阪" /><span>Ｃ大阪</span></a></li><li><a href="/kobe/"><img src="/img/team/KOBE_sdw.png" alt="ヴィッセル神戸" /><span>神戸</span></a></li><li><a href="/hiro/"><img src="/img/team/HIRO_sdw.png" alt="サンフレッチェ広島" /><span>広島</span></a></li><li><a href="/tosu/"><img src="/img/team/TOSU_sdw.png" alt="サガン鳥栖" /><span>鳥栖</span></a></li><li><a href="/oita/"><img src="/img/team/OITA_sdw.png" alt="大分トリニータ" /><span>大分</span></a></li></ul>
+	</div>
+	<div class="tUnit" data-id="2">
+	<div class="lName">J2 LEAGUE</div>
+	<ul><li><a href="/yama/"><img src="/img/team/YAMA_sdw.png" alt="モンテディオ山形" /><span>山形</span></a></li><li><a href="/mito/"><img src="/img/team/MITO_sdw.png" alt="水戸ホーリーホック" /><span>水戸</span></a></li><li><a href="/toch/"><img src="/img/team/TOCH_sdw.png" alt="栃木ＳＣ" /><span>栃木</span></a></li><li><a href="/gun/"><img src="/img/team/GUN_sdw.png" alt="ザスパクサツ群馬" /><span>群馬</span></a></li><li><a href="/omiy/"><img src="/img/team/OMIY_sdw.png" alt="大宮アルディージャ" /><span>大宮</span></a></li><li><a href="/chib/"><img src="/img/team/CHIB_sdw.png" alt="ジェフユナイテッド千葉" /><span>千葉</span></a></li><li><a href="/tk-v/"><img src="/img/team/TK-V_sdw.png" alt="東京ヴェルディ" /><span>東京Ｖ</span></a></li><li><a href="/mcd/"><img src="/img/team/MCD_sdw.png" alt="ＦＣ町田ゼルビア" /><span>町田</span></a></li><li><a href="/kofu/"><img src="/img/team/KOFU_sdw.png" alt="ヴァンフォーレ甲府" /><span>甲府</span></a></li><li><a href="/mats/"><img src="/img/team/MATS_sdw.png" alt="松本山雅ＦＣ" /><span>松本</span></a></li><li><a href="/niig/"><img src="/img/team/NIIG_sdw.png" alt="アルビレックス新潟" /><span>新潟</span></a></li><li><a href="/kana/"><img src="/img/team/KANA_sdw.png" alt="ツエーゲン金沢" /><span>金沢</span></a></li><li><a href="/iwat/"><img src="/img/team/IWAT_sdw.png" alt="ジュビロ磐田" /><span>磐田</span></a></li><li><a href="/kyot/"><img src="/img/team/KYOT_sdw.png" alt="京都サンガF.C." /><span>京都</span></a></li><li><a href="/okay/"><img src="/img/team/OKAY_sdw.png" alt="ファジアーノ岡山" /><span>岡山</span></a></li><li><a href="/r-ya/"><img src="/img/team/R-YA_sdw.png" alt="レノファ山口ＦＣ" /><span>山口</span></a></li><li><a href="/toku/"><img src="/img/team/TOKU_sdw.png" alt="徳島ヴォルティス" /><span>徳島</span></a></li><li><a href="/ehim/"><img src="/img/team/EHIM_sdw.png" alt="愛媛ＦＣ" /><span>愛媛</span></a></li><li><a href="/fuku/"><img src="/img/team/FUKU_sdw.png" alt="アビスパ福岡" /><span>福岡</span></a></li><li><a href="/kiky/"><img src="/img/team/KIKY_sdw.png" alt="ギラヴァンツ北九州" /><span>北九州</span></a></li><li><a href="/ngsk/"><img src="/img/team/NGSK_sdw.png" alt="Ｖ・ファーレン長崎" /><span>長崎</span></a></li><li><a href="/ryuk/"><img src="/img/team/RYUK_sdw.png" alt="ＦＣ琉球" /><span>琉球</span></a></li></ul>
+	</div>
+	<div class="tUnit" data-id="3">
+	<div class="lName">J3 LEAGUE</div>
+	<ul><li><a href="/hach/"><img src="/img/team/HACH_sdw.png" alt="ヴァンラーレ八戸" /><span>八戸</span></a></li><li><a href="/iwte/"><img src="/img/team/IWTE_sdw.png" alt="いわてグルージャ盛岡" /><span>岩手</span></a></li><li><a href="/aki/"><img src="/img/team/AKI_sdw.png" alt="ブラウブリッツ秋田" /><span>秋田</span></a></li><li><a href="/fksm/"><img src="/img/team/FKSM_sdw.png" alt="福島ユナイテッドＦＣ" /><span>福島</span></a></li><li><a href="/yscc/"><img src="/img/team/YSCC_sdw.png" alt="Ｙ．Ｓ．Ｃ．Ｃ．横浜" /><span>YS横浜</span></a></li><li><a href="/sagm/"><img src="/img/team/SAGM_sdw.png" alt="ＳＣ相模原" /><span>相模原</span></a></li><li><a href="/naga/"><img src="/img/team/NAGA_sdw.png" alt="ＡＣ長野パルセイロ" /><span>長野</span></a></li><li><a href="/toya/"><img src="/img/team/TOYA_sdw.png" alt="カターレ富山" /><span>富山</span></a></li><li><a href="/fuji/"><img src="/img/team/FUJI_sdw.png" alt="藤枝ＭＹＦＣ" /><span>藤枝</span></a></li><li><a href="/numa/"><img src="/img/team/NUMA_sdw.png" alt="アスルクラロ沼津" /><span>沼津</span></a></li><li><a href="/gifu/"><img src="/img/team/GIFU_sdw.png" alt="ＦＣ岐阜" /><span>岐阜</span></a></li><li><a href="/totr/"><img src="/img/team/TOTR_sdw.png" alt="ガイナーレ鳥取" /><span>鳥取</span></a></li><li><a href="/sanu/"><img src="/img/team/SANU_sdw.png" alt="カマタマーレ讃岐" /><span>讃岐</span></a></li><li><a href="/imab/"><img src="/img/team/IMAB_sdw.png" alt="ＦＣ今治" /><span>今治</span></a></li><li><a href="/kuma/"><img src="/img/team/KUMA_sdw.png" alt="ロアッソ熊本" /><span>熊本</span></a></li><li><a href="/kufc/"><img src="/img/team/KUFC_sdw.png" alt="鹿児島ユナイテッドＦＣ" /><span>鹿児島</span></a></li><li><a href="/g-23/"><img src="/img/team/G-23_sdw.png" alt="ガンバ大阪Ｕ−２３" /><span>Ｇ大23</span></a></li><li><a href="/c-23/"><img src="/img/team/C-23_sdw.png" alt="セレッソ大阪Ｕ−２３" /><span>Ｃ大23</span></a></li></ul></div>
+	</div>
+</div>
+			<!-- headerimage -->
+<h1 id="categoryImg"><span class="jpn">コラム</span><span class="eng">Columns</span><span class="clmTtl">オルンガを支える陰の立役者　江坂任。</span></h1>
+<!-- contents -->
+<article class="cFix">
+<div class="bcNavBox" id="bcTop">
+       
+	<div class="bcNav">
+		<a href="https://www.football-lab.jp">HOME</a> &raquo; オルンガを支える陰の立役者　江坂任	</div>
+</div>
+	<div class="clmHeader">
+		<div class="ttl">オルンガを支える陰の立役者　江坂任</div>
+		<div class="tagLine"><a href="/column/?tag=player">選手分析</a>, <a href="/column/?tag=shots">シュート分析</a>, <a href="/column/?tag=j1">J1</a>, <a href="/column/?tag=kasw">柏レイソル</a></div>
+		<div class="sSocials">
+			<em class="uiDate">2020.10.17</em>
+<em class="fbBtn"><iframe src="https://www.facebook.com/plugins/like.php?href=https://www.football-lab.jp/column/entry/748/%0A&width=153&layout=button_count&action=like&size=small&show_faces=true&share=true&height=32&appId" width="153" height="32" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></em>
+<em class="twBtn"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="footballlab" data-show-count="false">ツイート</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></em>
+		</div></div>	<div class="clmTypeB">
+		<p class="cpt"><p></p><div>　一昨年以来、２年ぶりにＪ１へ復帰した柏レイソル。昇格１年目ながらリーグ戦２２試合を終え、８位と好調をキープしている。特に今シーズンは自慢の攻撃陣が火を吹いており、ここまでのチーム総得点は４３と上から数えて３番目の数字を誇る。さらに、リーグ戦２１試合出場２１ゴールと今季の得点ランキングを独走しているオルンガは手がつけられない状況にある。</div><div><br></div><div>　そして、そのオルンガを一列後ろから支えているのが江坂任だ。今季は第２０節の横浜FC戦を除いたリーグ戦２０試合に先発出場し、チーム内で２番目に多い８ゴールを挙げ、チーム内トップの６アシストも記録している。今回はそんな江坂の攻撃面に焦点をあてていきたい。</div><p></p></p>
+				<div class="clmImg"><img src="/files/columns/748/6a51ebde5fe1d91a2616bc3780e48f2e.png" />
+		<p class="cap"></p>
+		</div>
+			</div>
+		<div class="clmTypeB">
+		<p class="cpt"><p></p><div>　江坂は２０１８年に柏に加入し、以降は主力選手として活躍。トップからサイド、オフェンシブミッドフィルダーなど多くの攻撃的なポジションをこなす万能的な選手だ。高いボールコントロールの技術だけでなく、スペースを見つける能力も秀でている。相手ディフェンスの背後を狙った攻撃を多用する柏において、間延びした相手のスペースでプレーできる江坂の存在はとても大きい。今季のＪ１開幕戦(コンサドーレ札幌戦)で決めた先制点は、まさにそれらの要素が詰まったゴールだろう。</div><div><b><a href="https://youtu.be/KdpjBWj6zwo?t=7" title="〈第１節札幌戦のゴール　ハイライト動画より〉" target="">〈第１節札幌戦のゴール　ハイライト動画より 〉</a></b></div><div><br></div><div><br></div><div><br></div><p></p></p>
+				<div class="clmImg"><img src="/files/columns/748/4d2952697ffbe1cfbf675a356bb4b1e1.png" />
+		<p class="cap"></p>
+		</div>
+			</div>
+		<div class="clmTypeT">
+				<p class="cpt"><p></p><div>　まず注目すべきなのは、江坂のラストパスの本数にある。家長昭博(川崎フロンターレ)の４１本より多い４９本と、Ｊ１でNo.1の数字を誇っている(セットプレーを除く)。クラブのスタイルや出場試合数、時間によって差が出てくる部分ではあるが、それだけ江坂がチャンスに絡んでいる証拠と言えるだろう。</div><div>　また、オルンガとの相性も抜群だ。オルンガに最もラストパスを送っているのは江坂で１８本。２位以降の選手との差も大きく、オルンガが流れの中で受けた全ラストパスの２６．５％を江坂が占めており、パスを受けてからのシュートシーンの１／４以上を直接演出していることになる（オルンガへのパス数、同アシスト数もチーム１位）。第８節の名古屋グランパス戦でもオルンガの動きを予測したピンポイントのロングパスでアシストを記録している。</div><div><b><a href="https://youtu.be/UMvhR7uTmQE?t=121" title="〈第８節名古屋戦のアシスト　ハイライト動画より〉" target="">〈第８節名古屋戦のアシスト　ハイライト動画より〉</a></b></div><div><br></div><div><br></div><p></p></p>
+	</div>
+		<div class="clmTypeT">
+				<div class="clmImg"><img src="/files/columns/748/dd67d16a57d0ab37768511545c727fe7.png" />
+		<p class="cap"></p>
+		</div>
+				<p class="cpt"><p></p><div>　シュートを打つ部位に偏りが少ないことも江坂の特徴だ。今季はリーグ戦２１試合出場時点で右足と左足でのシュートを５０本打っており、利き足の右足では２２本、逆の左足では２８本。シュート部位の偏り指数は１．２７(１が左右均等で数字が大きいほど偏りがあることを表す)と他の選手と比較しても最も偏りが少ない。シュート数５０本以上を記録している１０選手の偏り指数の平均値は３．６０であり、ここまで差が出ない選手は稀だ。</div><div>　さらに驚くのは、江坂のＪリーグ通算ゴールを部位別に見た時だ。計５６ゴールのうち右足では１９ゴール、左足では２０ゴール、そして頭でも１７ゴールと部位に関係なく得点を挙げている。<br></div><p></p></p>
+	</div>
+		<div class="clmTypeT">
+				<div class="clmImg"><img src="/files/columns/748/4cff4539b53c7b8887486e1813955d0c.png" />
+		<p class="cap"></p>
+		</div>
+				<p class="cpt"><p></p><div>　ただ、多才な江坂にも課題は残っている。ズバリ“枠内をとらえる力”だろう。今季はシュートを５７本打っており(セットプレーを除く)、これはリーグ８位となっている。しかし、シュートの枠内率に関してはシュート数上位１５選手の中で３番目に低い２９．８％であり、多くのシュートがＤＦにブロックされたり、枠外となってしまっている。４０％を上回る選手もいる中で、少し物足りない数字である。<br></div><div>　この要因の一つとして考えらえるのが、江坂はペナルティエリア外(ＰＡ外)からのシュートの比率が他の選手より高いというところである。いくら本数を打っても、ゴールから距離が遠いシュートであれば枠内シュートが増えづらいのは自然な考えだろう。</div><div>ＰＡ内とＰＡ外に分けて枠内率を見てみると、ＰＡ外からは２５本のシュートを放ち、枠内は５本で枠内率は２０.０％。ＰＡ内からのシュートは３２本で枠内が１２本、枠内率は３７．５％となっている。この数字はどちらもリーグ平均を下回っていた。</div><div>江坂は年々ＰＡ外からのシュートが多くなっており、今季の２５本はリーグで５番目の多さでそこから２ゴールを決めている。遠目からでも積極的に狙う姿勢に“枠内をとらえる力”が付いてくれば、もっと怖い選手となれるだろう。</div><p></p></p>
+	</div>
+		<div class="clmTypeT">
+				<div class="clmImg"><img src="/files/columns/748/d57b8a2cc8997704dd7a9510a4ef482d.png" />
+		<p class="cap"></p>
+		</div>
+				<p class="cpt"><p></p><div>　最後に江坂の各シーズン別のゴール数に注目したい。２０１５年にザスパクサツ群馬でプロデビューを飾って以降は毎年リーグ戦でゴールを記録。その群馬と２０１９年の柏の２シーズンでは二桁ゴールも達成している。しかし、どちらもＪ２のカテゴリーであり、Ｊ１ではまだ一度も二桁に届いていない。だが、今季は残り１０試合以上を残し、すでに８点と順調なペースでゴールを重ねている。このまま勢いを維持できれば、キャリア初のＪ１二桁ゴールも達成できそうだ。</div><div><br></div><div><br></div><div><div>　今季のリーグ戦はすでに折り返し地点を通過して２回戦目に入っているが、柏の攻撃力は衰え知らずだ。しかし、今後に対戦を控えているクラブはここまで目立っているオルンガに何かしらの対策をしてくるだろう。そんな時こそ、柏の背番号１０にかかる重圧は大きいはずだ。残りのシーズンも失速することなく終えられるかは、江坂任にかかっているのかもしれない。</div><div><br></div><div>執筆：鬼澤　優作</div></div><div><br></div><div><br></div><div><div>・関連ページ</div><div>フットボールラボ　江坂　任　選手ページ</div><div><a href="https://www.football-lab.jp/player/1500455/" title="" target="">https://www.football-lab.jp/player/1500455/</a></div></div><p></p></p>
+	</div>
+		<div class="clmTypeB">
+		<div class="sSocials">
+		<em class="uiDate">2020.10.17</em>
+		<em class="fbBtn"><iframe src="https://www.facebook.com/plugins/like.php?href=https://www.football-lab.jp/column/entry/748/%0A&width=153&layout=button_count&action=like&size=small&show_faces=true&share=true&height=32&appId" width="153" height="32" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></em>
+<em class="twBtn"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-hashtags="footballlab" data-show-count="false">ツイート</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></em>
+		</div>
+	</div>
+	<div class="clmTypeB">
+		
+		<div class="jstats r"><img src="/img/ui/JSTATs.png" alt="Ｊ ＳＴＡＴＳ" /></div>
+	</div>	<div class="unit contents listColumn">
+		
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- FBLABスクエア -->
+	<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="ca-pub-0055524121642699"
+		data-ad-slot="2112339743"
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>	<h2 class=" boxHeader"><span>Columns</span></h2><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/748/">
+<img src="/files/columns/748/6a51ebde5fe1d91a2616bc3780e48f2e.png" alt="コラム画像" style="height:200%" class="imgH clmTh" />
+<span></span><img src="/img/ui/icon_new_tab.png" alt="NEW" class="icon_new_tab" /></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.10.17</span>
+			<div class="cTtl"><a href="/column/entry/748/">オルンガを支える陰の立役者　江坂任</a></div>
+			<div class="tagLine"><a href="/column/?tag=player">選手分析</a>, <a href="/column/?tag=shots">シュート分析</a>, <a href="/column/?tag=j1">J1</a>, <a href="/column/?tag=kasw">柏レイソル</a></div>
+		</div>
+		</div><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/747/">
+<img src="/files/columns/747/f93a209a94b728cb55cb58318b7557bc.png" alt="コラム画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.10.9</span>
+			<div class="cTtl"><a href="/column/entry/747/">「新潟の至宝」本間至恩　進化の過程を分析</a></div>
+			<div class="tagLine"><a href="/column/?tag=player">選手分析</a>, <a href="/column/?tag=niig">アルビレックス新潟</a></div>
+		</div>
+		</div><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/746/">
+<img src="/files/columns/746/6ce2e623ce9e6ea419b3b935b67b8760.png" alt="コラム画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.10.7</span>
+			<div class="cTtl"><a href="/column/entry/746/">攻撃の終着点から始発点へ。データから浮き彫りになった愛媛の課題</a></div>
+			<div class="tagLine"><a href="/column/?tag=analyst">アナリストに訊く</a>, <a href="/column/?tag=offense">攻撃分析</a>, <a href="/column/?tag=j2">J2</a>, <a href="/column/?tag=ehim">愛媛FC</a></div>
+		</div>
+		</div><!--
+	--><div class="btLink1"><a href="https://www.football-lab.jp/column/">コラム一覧を見る<span class="mkLink1"></span></a></div>
+	</div>
+	<div class="unit contents listColumn">
+	<h2 class=" boxHeader"><span>Tips</span></h2><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/743/">
+<img src="/files/columns/743/5218cbaa800841f84bcce24cdf29132a.png" alt="ティップス画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.9.16</span>
+			<div class="cTtl"><a href="/column/entry/743/">2020シーズンのプレースキッカーまとめ</a></div>
+			<div class="tagLine"><a href="/column/?tag=setplay">セットプレー分析</a>, <a href="/column/?tag=j1">J1</a>, <a href="/column/?tag=j2">J2</a>, <a href="/column/?tag=j3">J3</a>, <a href="/column/?tag=sapp">コンサドーレ札幌</a>, <a href="/column/?tag=send">ベガルタ仙台</a>, <a href="/column/?tag=kasm">鹿島アントラーズ</a>, <a href="/column/?tag=uraw">浦和レッズ</a>, <a href="/column/?tag=kasw">柏レイソル</a>, <a href="/column/?tag=fctk">FC東京</a>, <a href="/column/?tag=ka-f">川崎フロンターレ</a>, <a href="/column/?tag=y-fm">横浜Fマリノス</a>, <a href="/column/?tag=y-fc">横浜FC</a>, <a href="/column/?tag=shon">湘南ベルマーレ</a>, <a href="/column/?tag=shim">清水エスパルス</a>, <a href="/column/?tag=nago">名古屋グランパス</a>, <a href="/column/?tag=g-os">ガンバ大阪</a>, <a href="/column/?tag=c-os">セレッソ大阪</a>, <a href="/column/?tag=kobe">ヴィッセル神戸</a>, <a href="/column/?tag=hiro">サンフレッチェ広島</a>, <a href="/column/?tag=tosu">サガン鳥栖</a>, <a href="/column/?tag=oita">大分トリニータ</a>, <a href="/column/?tag=yama">モンテディオ山形</a>, <a href="/column/?tag=mito">水戸ホーリーホック</a>, <a href="/column/?tag=toch">栃木SC</a>, <a href="/column/?tag=gun">ザスパクサツ群馬</a>, <a href="/column/?tag=omiy">大宮アルディージャ</a>, <a href="/column/?tag=chib">ジェフユナイテッド千葉</a>, <a href="/column/?tag=tk-v">東京ヴェルディ</a>, <a href="/column/?tag=mcd">FC町田ゼルビア</a>, <a href="/column/?tag=kofu">ヴァンフォーレ甲府</a>, <a href="/column/?tag=mats">松本山雅FC</a>, <a href="/column/?tag=niig">アルビレックス新潟</a>, <a href="/column/?tag=kana">ツエーゲン金沢</a>, <a href="/column/?tag=iwat">ジュビロ磐田</a>, <a href="/column/?tag=kyot">京都サンガF.C.</a>, <a href="/column/?tag=okay">ファジアーノ岡山</a>, <a href="/column/?tag=r-ya">レノファ山口</a>, <a href="/column/?tag=toku">徳島ヴォルティス</a>, <a href="/column/?tag=ehim">愛媛FC</a>, <a href="/column/?tag=fuku">アビスパ福岡</a>, <a href="/column/?tag=kiky">ギラヴァンツ北九州</a>, <a href="/column/?tag=ngsk">Ｖ・ファーレン長崎</a>, <a href="/column/?tag=hach">ヴァンラーレ八戸</a>, <a href="/column/?tag=iwte">いわてグルージャ盛岡</a>, <a href="/column/?tag=aki">ブラウブリッツ秋田</a>, <a href="/column/?tag=fksm">福島ユナイテッドＦＣ</a>, <a href="/column/?tag=yscc">Ｙ．Ｓ．Ｃ．Ｃ．横浜</a>, <a href="/column/?tag=sagm">ＳＣ相模原</a>, <a href="/column/?tag=naga">ＡＣ長野パルセイロ</a>, <a href="/column/?tag=toya">カターレ富山</a>, <a href="/column/?tag=fuji">藤枝ＭＹＦＣ</a>, <a href="/column/?tag=numa">アスルクラロ沼津</a>, <a href="/column/?tag=gifu">FC岐阜</a>, <a href="/column/?tag=totr">ガイナーレ鳥取</a>, <a href="/column/?tag=sanu">カマタマーレ讃岐</a>, <a href="/column/?tag=imab">ＦＣ今治</a>, <a href="/column/?tag=kuma">ロアッソ熊本</a>, <a href="/column/?tag=kufc">鹿児島ユナイテッドＦＣ</a>, <a href="/column/?tag=g-23">ガンバ大阪Ｕ－２３</a>, <a href="/column/?tag=c-23">セレッソ大阪Ｕ－２３</a></div>		</div>
+		</div><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/738/">
+<img src="/files/columns/738/ae79f8d7289e4e2b991344fa0f38eff4.png" alt="ティップス画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.6.26</span>
+			<div class="cTtl"><a href="/column/entry/738/">もしも前半だけで試合が終わっていたら…【2019年J3編】</a></div>
+			<div class="tagLine"><a href="/column/?tag=j3">J3</a>, <a href="/column/?tag=gun">ザスパクサツ群馬</a>, <a href="/column/?tag=kiky">ギラヴァンツ北九州</a>, <a href="/column/?tag=iwte">いわてグルージャ盛岡</a>, <a href="/column/?tag=toya">カターレ富山</a>, <a href="/column/?tag=fuji">藤枝ＭＹＦＣ</a>, <a href="/column/?tag=kuma">ロアッソ熊本</a></div>		</div>
+		</div><!--
+	--><div class="boxThird">
+		<div class="imgBox">
+		<a href="/column/entry/737/">
+<img src="/files/columns/737/31049a64df73ef03e417eb51eb359d33.png" alt="ティップス画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.6.26</span>
+			<div class="cTtl"><a href="/column/entry/737/">もしも前半だけで試合が終わっていたら…【2019年J2編】</a></div>
+			<div class="tagLine"><a href="/column/?tag=j2">J2</a>, <a href="/column/?tag=kasw">柏レイソル</a>, <a href="/column/?tag=y-fc">横浜FC</a>, <a href="/column/?tag=omiy">大宮アルディージャ</a>, <a href="/column/?tag=chib">ジェフユナイテッド千葉</a>, <a href="/column/?tag=kofu">ヴァンフォーレ甲府</a>, <a href="/column/?tag=niig">アルビレックス新潟</a>, <a href="/column/?tag=ehim">愛媛FC</a></div>		</div>
+		</div><!--
+	--><div class="btLink1"><a href="https://www.football-lab.jp/tips/">ティップス一覧を見る<span class="mkLink1"></span></a></div>
+	</div>
+	<div class="unit contents listColumn">
+	<h2 class=" boxHeader"><span>Graphics</span></h2><!--
+		--><div class="boxThird ">
+		<div class="imgBox">
+		<a href="/visual/entry/22/">
+<img src="/img/visual/22_1_Katayama.png" alt="画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.10.5</span>
+			<div class="cTtl"><a href="/visual/entry/22/">セレッソ大阪vs川崎フロンターレの急加速回数ランキング</a></div>
+		</div>
+		</div><!--
+	--><div class="boxThird dsktp">
+		<div class="imgBox">
+		<a href="/visual/entry/21/">
+<img src="/img/visual/21_Akita.png" alt="画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.9.29</span>
+			<div class="cTtl"><a href="/visual/entry/21/">J3第18節までのシュートに至った攻撃のプレーエリア</a></div>
+		</div>
+		</div><!--
+	--><div class="boxThird dsktp">
+		<div class="imgBox">
+		<a href="/visual/entry/20/">
+<img src="/img/visual/20_Chiba.png" alt="画像" style="height:200%" class="imgH clmTh" />
+<span></span></a>
+		</div>
+		<div class="textBox2">
+		<span class="uiDate">2020.9.15</span>
+			<div class="cTtl"><a href="/visual/entry/20/">J2第19節全チームのゴールキーパーのパス集</a></div>
+		</div>
+		</div><!--
+	--><div class="btLink1"><a href="https://www.football-lab.jp/visual/">グラフィック一覧を見る<span class="mkLink1"></span></a></div>
+	</div>
+</article>	
+	<div id="fb-root"></div>
+	<script type="text/javascript">(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.async = true;
+	  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.12';
+	  fjs.parentNode.insertBefore(js, fjs);
+	  }(document, 'script', 'facebook-jssdk'));</script>
+	<footer><div id="footer">
+	<div class="spfMenu">
+		<ul>
+			<li><a href="https://www.football-lab.jp">HOME<span class="mkLink1"></span></a></li>
+			<li><a href="https://www.football-lab.jp/summary/team_ranking/">Summary:Team<span class="mkLink1"></span></a></li>
+			<li><a href="https://www.football-lab.jp/summary/player_ranking/">Summary:Player<span class="mkLink1"></span></a></li>				<li><a href="https://www.football-lab.jp/japan/">JAPAN<span class="mkLink1"></span></a></li>
+			<li><a href="https://www.football-lab.jp/column/">Column<span class="mkLink1"></span></a></li>
+			<li><a href="https://www.football-lab.jp/pages/about/">About<span class="mkLink1"></span></a></li>
+		</ul>
+	</div>
+	<div class="fList">
+		<h6 id="footerj1Menu"><a href="#" onclick="boxAcc('footerj1Menu','footerj1');  return false;">J1 LEAGUE<em class="mkLink2"><span></span><span></span></em></a></h6>
+		<ul id="footerj1"><li><a href="/sapp/" title="北海道コンサドーレ札幌">北海道コンサドーレ札幌</a></li><li><a href="/send/" title="ベガルタ仙台">ベガルタ仙台</a></li><li><a href="/kasm/" title="鹿島アントラーズ">鹿島アントラーズ</a></li><li><a href="/uraw/" title="浦和レッズ">浦和レッズ</a></li><li><a href="/kasw/" title="柏レイソル">柏レイソル</a></li><li><a href="/fctk/" title="ＦＣ東京">ＦＣ東京</a></li><li><a href="/ka-f/" title="川崎フロンターレ">川崎フロンターレ</a></li><li><a href="/y-fm/" title="横浜Ｆ・マリノス">横浜Ｆ・マリノス</a></li><li><a href="/y-fc/" title="横浜ＦＣ">横浜ＦＣ</a></li><li><a href="/shon/" title="湘南ベルマーレ">湘南ベルマーレ</a></li><li><a href="/shim/" title="清水エスパルス">清水エスパルス</a></li><li><a href="/nago/" title="名古屋グランパス">名古屋グランパス</a></li><li><a href="/g-os/" title="ガンバ大阪">ガンバ大阪</a></li><li><a href="/c-os/" title="セレッソ大阪">セレッソ大阪</a></li><li><a href="/kobe/" title="ヴィッセル神戸">ヴィッセル神戸</a></li><li><a href="/hiro/" title="サンフレッチェ広島">サンフレッチェ広島</a></li><li><a href="/tosu/" title="サガン鳥栖">サガン鳥栖</a></li><li><a href="/oita/" title="大分トリニータ">大分トリニータ</a></li>	</div>
+	<div class="fList">
+		<h6 id="footerj2Menu"><a href="#" onclick="boxAcc('footerj2Menu','footerj2');  return false;">J2 LEAGUE<em class="mkLink2"><span></span><span></span></em></a></h6>
+		<ul id="footerj2"><li><a href="/yama/" title="モンテディオ山形">モンテディオ山形</a></li><li><a href="/mito/" title="水戸ホーリーホック">水戸ホーリーホック</a></li><li><a href="/toch/" title="栃木ＳＣ">栃木ＳＣ</a></li><li><a href="/gun/" title="ザスパクサツ群馬">ザスパクサツ群馬</a></li><li><a href="/omiy/" title="大宮アルディージャ">大宮アルディージャ</a></li><li><a href="/chib/" title="ジェフユナイテッド千葉">ジェフユナイテッド千葉</a></li><li><a href="/tk-v/" title="東京ヴェルディ">東京ヴェルディ</a></li><li><a href="/mcd/" title="ＦＣ町田ゼルビア">ＦＣ町田ゼルビア</a></li><li><a href="/kofu/" title="ヴァンフォーレ甲府">ヴァンフォーレ甲府</a></li><li><a href="/mats/" title="松本山雅ＦＣ">松本山雅ＦＣ</a></li><li><a href="/niig/" title="アルビレックス新潟">アルビレックス新潟</a></li><li><a href="/kana/" title="ツエーゲン金沢">ツエーゲン金沢</a></li><li><a href="/iwat/" title="ジュビロ磐田">ジュビロ磐田</a></li><li><a href="/kyot/" title="京都サンガF.C.">京都サンガF.C.</a></li><li><a href="/okay/" title="ファジアーノ岡山">ファジアーノ岡山</a></li><li><a href="/r-ya/" title="レノファ山口ＦＣ">レノファ山口ＦＣ</a></li><li><a href="/toku/" title="徳島ヴォルティス">徳島ヴォルティス</a></li><li><a href="/ehim/" title="愛媛ＦＣ">愛媛ＦＣ</a></li><li><a href="/fuku/" title="アビスパ福岡">アビスパ福岡</a></li><li><a href="/kiky/" title="ギラヴァンツ北九州">ギラヴァンツ北九州</a></li><li><a href="/ngsk/" title="Ｖ・ファーレン長崎">Ｖ・ファーレン長崎</a></li><li><a href="/ryuk/" title="ＦＣ琉球">ＦＣ琉球</a></li>	</div>
+	<div class="fList">
+		<h6 id="footerj3Menu"><a href="#" onclick="boxAcc('footerj3Menu','footerj3');  return false;">J3 LEAGUE<em class="mkLink2"><span></span><span></span></em></a></h6>
+		<ul id="footerj3"><li><a href="/hach/" title="ヴァンラーレ八戸">ヴァンラーレ八戸</a></li><li><a href="/iwte/" title="いわてグルージャ盛岡">いわてグルージャ盛岡</a></li><li><a href="/aki/" title="ブラウブリッツ秋田">ブラウブリッツ秋田</a></li><li><a href="/fksm/" title="福島ユナイテッドＦＣ">福島ユナイテッドＦＣ</a></li><li><a href="/yscc/" title="Ｙ．Ｓ．Ｃ．Ｃ．横浜">Ｙ．Ｓ．Ｃ．Ｃ．横浜</a></li><li><a href="/sagm/" title="ＳＣ相模原">ＳＣ相模原</a></li><li><a href="/naga/" title="ＡＣ長野パルセイロ">ＡＣ長野パルセイロ</a></li><li><a href="/toya/" title="カターレ富山">カターレ富山</a></li><li><a href="/fuji/" title="藤枝ＭＹＦＣ">藤枝ＭＹＦＣ</a></li><li><a href="/numa/" title="アスルクラロ沼津">アスルクラロ沼津</a></li><li><a href="/gifu/" title="ＦＣ岐阜">ＦＣ岐阜</a></li><li><a href="/totr/" title="ガイナーレ鳥取">ガイナーレ鳥取</a></li><li><a href="/sanu/" title="カマタマーレ讃岐">カマタマーレ讃岐</a></li><li><a href="/imab/" title="ＦＣ今治">ＦＣ今治</a></li><li><a href="/kuma/" title="ロアッソ熊本">ロアッソ熊本</a></li><li><a href="/kufc/" title="鹿児島ユナイテッドＦＣ">鹿児島ユナイテッドＦＣ</a></li><li><a href="/g-23/" title="ガンバ大阪Ｕ−２３">ガンバ大阪Ｕ−２３</a></li><li><a href="/c-23/" title="セレッソ大阪Ｕ−２３">セレッソ大阪Ｕ−２３</a></li>	</div>
+	<div class="fList">
+		<h6 id="footerSumMenu"><a href="#" onclick="boxAcc('footerSumMenu','footerSum');  return false;">Summary<em class="mkLink2"><span></span><span></span></em></a></h6>
+		<ul id="footerSum">
+		<li><a href="https://www.football-lab.jp/summary/team_ranking/j1/?year=2020">J1 リーグサマリーチーム</a></li>
+		<li><a href="https://www.football-lab.jp/summary/player_ranking/j1/?year=2020">J1 リーグサマリー選手</a></li>
+		<li><a href="https://www.football-lab.jp/summary/best11/j1/?year=2020">J1 ベストイレブン</a></li>
+		<li></li>
+		<li><a href="https://www.football-lab.jp/summary/team_ranking/j2/?year=2020">J2 リーグサマリーチーム</a></li>
+		<li><a href="https://www.football-lab.jp/summary/player_ranking/j2/?year=2020">J2 リーグサマリー選手</a></li>
+		<li><a href="https://www.football-lab.jp/summary/best11/j2/">J2 ベストイレブン</a></li>
+		<li></li>
+		<li><a href="https://www.football-lab.jp/summary/team_ranking/j3/?year=2020">J3 リーグサマリーチーム</a></li>
+		<li><a href="https://www.football-lab.jp/summary/player_ranking/j3/?year=2020">J3 リーグサマリー選手</a></li>
+		</ul>
+	</div>
+	<div class="fList">
+		<h6 id="footerOthMenu"><a href="#" onclick="boxAcc('footerOthMenu','footerOth');  return false;">Other<em class="mkLink2"><span></span><span></span></em></a></h6>
+		<ul id="footerOth">
+		<li><a href="https://www.football-lab.jp/column/">コラム</a></li>
+		<li><a href="https://www.football-lab.jp/japan/">日本代表</a></li>
+		<li><a href="https://www.football-lab.jp/pages/about/">フットボールラボとは</a></li>
+		<li><a href="https://www.football-lab.jp/pages/cb_point/">チャンスビルディングポイントとは</a></li>
+		<li><a href="https://www.football-lab.jp/pages/kagi/">KAGI,AGIとは</a></li>
+		<li><a href="https://www.football-lab.jp/pages/playing_style/">プレースタイル指標とは</a></li>
+		<li><a href="https://www.football-lab.jp/pages/team_style/">チームスタイル指標とは</a></li>
+		<li><a href="https://www.football-lab.jp/pages/simulation/">対戦予測シミュレーションとは</a>
+		<li><a href="https://www.football-lab.jp/pages/expected_goal/">ゴール期待値とは</a>
+		</li>
+		</ul>
+	</div>
+	<div class="fSocial">
+		<a href="https://twitter.com/football_lab"><img src="/img/ui/twitter_mono.png" alt="Twitter" /></a>
+		<a href="https://ja-jp.facebook.com/footballlab/"><img src="/img/ui/facebook_mono.png" alt="Facebook" /></a>
+	</div>
+	<div id="fNav">
+	|&nbsp;<!--
+		--><a href="https://www.football-lab.jp/pages/rules/">利用規約</a>&nbsp;|&nbsp;<!--
+		--><a href="https://www.football-lab.jp/pages/browser/">推奨環境</a>&nbsp;|&nbsp;<!--
+		--><a href="https://www.football-lab.jp/pages/privacypolicy/">プライバシーポリシー</a>&nbsp;|&nbsp;<!--
+		--><a href="https://www.datastadium.co.jp/" target="_blank">運営会社</a>&nbsp;|&nbsp;<!--
+		--><a href="https://www.football-lab.jp/contact/">お問い合わせ</a>&nbsp;|
+		<div id="license">
+			Jリーグ及びJクラブのロゴ、エンブレム等の使用に関する権利はすべてJリーグ及びJクラブに帰属します。
+		</div>
+	</div>
+	</div>
+</footer>
+<div id="copyright">
+	<p><span>&copy;copyright DataStadium Inc.&nbsp;&nbsp;All Rights Reserved.</span><a href="https://www.datastadium.co.jp/" target="_blank"><img src="/img/ui/logo_ds.png" width="110" height="30" alt="Data Stadium" /></a></p>
+</div></body>
+</html>

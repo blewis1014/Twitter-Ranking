@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<!-- /space/nasa-artifical-intelligence-spots-craters-on-mars%0A--><!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html lang="en-US"  class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US"  class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US"  class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US"  class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US"  class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--  <script>
+    if (window.location.pathname !== '/donate' && window.location.protocol !== 'http:') {
+      window.location.href = window.location.href.replace('https', 'http');
+    }
+  </script>-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-412478-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-412478-1');
+</script>
+<meta charset="UTF-8">
+<title>Nothing found for  Space Nasa Artifical Intelligence Spots Craters On Mars%0A</title>
+<link rel="apple-touch-icon" sizes="57x57" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/manifest.json">
+<link rel="mask-icon" href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="robots" content="noodp,noydir">
+<meta property="fb:app_id" content="126551857511356" />
+
+<link rel="pingback" href="https://earthsky.org/xmlrpc.php" />
+<link href="https://plus.google.com/102947030587425940801" rel="publisher">
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDi2CKQrdgV1efMsM8AQL5BL0_P4KYnJxw"></script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script>
+(function(w, d) {
+	w.adthrive = w.adthrive || {};
+	w.adthrive.cmd = w.adthrive.cmd || [];
+	w.adthrive.plugin = 'adthrive-ads-1.0.38';
+	w.adthrive.host = 'ads.adthrive.com';
+
+	var s = d.createElement('script');
+	s.async = true;
+	s.referrerpolicy='no-referrer-when-downgrade';
+	s.src = 'https://' + w.adthrive.host + '/sites/5d668609cc7cae09064f6362/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href);
+	var n = d.getElementsByTagName('script')[0];
+	n.parentNode.insertBefore(s, n);
+})(window, document);
+</script>
+
+<!-- All In One SEO Pack 3.6.2[1225,1232] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://earthsky.org/#organization","url":"https://earthsky.org/","name":"EarthSky","sameAs":[]},{"@type":"WebSite","@id":"https://earthsky.org/#website","url":"https://earthsky.org/","name":"EarthSky","publisher":{"@id":"https://earthsky.org/#organization"}}]}</script>
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//en.es-static.us' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//cdn.jotfor.ms' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//k4z6w9b5.stackpathcdn.com' />
+<link rel='dns-prefetch' href='//cdn.shareaholic.net' />
+<link rel='dns-prefetch' href='//www.shareaholic.net' />
+<link rel='dns-prefetch' href='//analytics.shareaholic.com' />
+<link rel='dns-prefetch' href='//recs.shareaholic.com' />
+<link rel='dns-prefetch' href='//go.shareaholic.com' />
+<link rel='dns-prefetch' href='//partner.shareaholic.com' />
+<link rel="alternate" type="application/rss+xml" title="EarthSky &raquo; Feed" href="https://earthsky.org/feed" />
+<link rel="alternate" type="application/rss+xml" title="EarthSky &raquo; Comments Feed" href="https://earthsky.org/comments/feed" />
+<!--[if (gte IE 6)&(lte IE 8)]><script type="text/javascript" src="/wp-content/themes/earthsky_v25//js/libs/selectivizr-min.js"></script><![endif]--><!--[if lt IE 8]><link rel="stylesheet" href="/wp-content/themes/earthsky_v25//css/ie.css" type="text/css" media="screen, projection"><![endif]--><!-- Powered by Shareaholic; Grow your Audience faster! - https://www.shareaholic.com -->
+<link rel='preload' href='//cdn.shareaholic.net/assets/pub/shareaholic.js' as='script'/>
+<script data-no-minify='1' data-cfasync='false'>
+//<![CDATA[
+_SHR_SETTINGS = {"endpoints":{"local_recs_url":"https:\/\/earthsky.org\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","ajax_url":"https:\/\/earthsky.org\/wp-admin\/admin-ajax.php","share_counts_url":"https:\/\/earthsky.org\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"},"site_id":"8ad6c9487a9a3c941e7f2ce240b43ca0"};
+//]]>
+</script>
+<script data-no-minify='1' data-cfasync='false' src='//cdn.shareaholic.net/assets/pub/shareaholic.js' data-shr-siteid='8ad6c9487a9a3c941e7f2ce240b43ca0' async ></script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='EarthSky' />
+<meta name='shareaholic:language' content='en-US' />
+<meta name='shareaholic:article_visibility' content='private' />
+<meta name='shareaholic:site_id' content='8ad6c9487a9a3c941e7f2ce240b43ca0' />
+<meta name='shareaholic:wp_version' content='9.3.3' />
+
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/earthsky.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- earthsky.org is managing ads with Advanced Ads --><script>
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+						</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='spm-css'  href='https://en.es-static.us/assets/mplayer/themes/es/es.css?ver=1.0.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='thick-box-css'  href='https://en.es-static.us/assets/js/thickbox/thick-box.css?ver=1.0.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='jotform-base-css'  href='https://cdn.jotfor.ms/static/formCss.css?ver=3.1.438' type='text/css' media='screen' />
+<link rel='stylesheet' id='jotform-nova-css'  href='https://cdn.jotfor.ms/css/styles/nova.css?ver=3.1.438' type='text/css' media='screen' />
+<link rel='stylesheet' id='font-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400&#038;ver=1.0.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://earthsky.org/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gravityview-featured-entries-css'  href='https://earthsky.org/wp-content/plugins/gravityview-featured-entries/assets/css/featured-entries.css?ver=2.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js'></script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/plugins/advanced-ads/public/assets/js/advanced.js?ver=1.18.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/plugins/advanced-ads-responsive/public/assets/js/script.js?ver=1.9'></script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/plugins/advanced-ads-pro/assets/advanced-ads-pro.js?ver=2.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/earthsky.org\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]},"moveintohidden":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.8.2'></script>
+<link rel='https://api.w.org/' href='https://earthsky.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://earthsky.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://earthsky.org/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Cabin:400,700,400italic|Open+Sans:400,400italic,700' rel='stylesheet' type='text/css'>
+<link href="https://earthsky.org/wp-content/themes/earthsky_techpines/static/style.css" rel="stylesheet" media="screen">
+<!--
+  ~ Copyright (C) 2014-2015 Media.net Advertising FZ-LLC All Rights Reserved
+  -->
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="//contextual.media.net/dmedianet.js?cid=8CUB43G60" async="async"></script>
+<!--
+  Taboola
+  -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/earthsky-earthsky/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<script>
+  function fixPostWidth() {
+    if ($('.sidebar-widget').is(':visible') && ($('body').hasClass('single') || window.location.pathname === "/tonight")) {
+      $('.wp-caption, .entry-content > p').css({'max-width': $(window).width() - 460 - ($(window).width() - $('#main > .main-row').width())});
+    } else {
+      $('.wp-caption, .entry-content > p').css({'max-width': '100%'});
+    }
+  }
+  $(function() {
+    setInterval(function(){
+      $('.page .shareaholic-resolved-canvas').remove();
+    }, 100);
+    var tonightLink = $('.recent-link').attr('href');
+
+    $('.menu-item.menu-item-241716').addClass('tonight-link');
+    $($('.tonight-link a')[0]).attr('href', tonightLink);
+    fixPostWidth();
+    setInterval(function() {
+      fixPostWidth();
+    }, 150);
+  });
+</script>
+</head>
+<body class="error404 adthrive-disable-all">
+<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1587751570114329",
+    enable_page_level_ads: true
+  });
+</script>-->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<div id="fb-root"></div>
+<script type='text/javascript' src='https://en.es-static.us/assets/js/fbsdk.js'></script>
+
+<div id="site_wrapper">
+<!--   /home/nginx/domains/earthsky.org/public/wp-content/themes/earthsky_techpines/page.php -->
+<div class="header">
+<!--   <div></div>    -->
+  	  	<div class="donate donate-callout" style="display: none">
+  		<a href="/donate?utm_source=Donate&utm_medium=EarthSky&utm_campaign=Donate">Help Support EarthSky with a <span>Donation</span>! </a>
+  	 <i class="material-icons close-donate">close</i>
+    </div>
+  	    
+  	<div class="masthead header-inner">
+
+      <div class="row header-row">
+        <div class="logo" style="">
+          <a href="https://earthsky.org/" title="EarthSky" rel="home">
+            <img src="https://earthsky.org/wp-content/themes/earthsky_techpines/static/logo.svg" alt="">
+            <strong>EarthSky</strong> 
+          </a>
+          <span class="tagline">Updates on your cosmos and world</span>
+        </div>
+        <div class="mobile-menu hide-for-large-up">
+          <div class="m-menu-trigger">
+            <i class="material-icons menu-icon">menu</i>
+          </div>
+          <!-- <div class="menu-overlay"></div> -->
+          <div class="m-menu-container">
+            <i class="material-icons close-icon">close</i>
+            <div class="position: relative; z-index: 2;"><div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class="menu"><li id="menu-item-241703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241703"><a href="https://earthsky.org/tonight">Tonight</a></li>
+<li id="menu-item-241700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241700"><a href="https://earthsky.org/space">Space</a></li>
+<li id="menu-item-241699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241699"><a href="https://earthsky.org/earth">Earth</a></li>
+<li id="menu-item-241701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241701"><a href="https://earthsky.org/human-world">Human World</a></li>
+<li id="menu-item-241708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241708"><a href="/stargazing">Stargaze</a></li>
+<li id="menu-item-304364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304364"><a href="https://earthsky.org/earthsky-community-photos">EarthSky Community Photos</a></li>
+<li id="menu-item-241707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241707"><a target="_blank" rel="noopener noreferrer" href="https://earthskystore.org/">Store</a></li>
+<li id="menu-item-241702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241702"><a href="https://earthsky.org/todays-image">Today&#8217;s Image</a></li>
+<li id="menu-item-294574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294574"><a href="https://helpsupportearthsky.org">Donate</a></li>
+<li id="menu-item-268679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268679"><a href="https://earthsky.us1.list-manage.com/subscribe?u=e56e7a92b1c5790f7343ef95a&#038;id=c643945d79">Subscribe</a></li>
+<li id="menu-item-241926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241926"><a href="/contact-us">Contact Us</a></li>
+</ul></div></div>
+          </div>
+        </div>
+      <div class="search-wrapper">
+        <a target="_blank" class="header-subscribe hide-for-medium hide-for-small" href="https://earthsky.us1.list-manage.com/subscribe?u=e56e7a92b1c5790f7343ef95a&id=c643945d79">subscribe</a> 
+		<a target="_blank" class="header-subscribe hide-for-medium hide-for-small" href="https://helpsupportearthsky.org">donate</a>
+        <div class="header-search">
+          <div id="search">
+              <form role="search" class="search-form" method="get" id="searchform" action="https://earthsky.org/" >
+    <div>
+      <label class="screen-reader-text" for="s">
+        Search for:      </label>
+      <input type="text" value="SEARCH" name="s" id="s" />
+      <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+  </form>
+            <i class="material-icons search-icon">search</i>
+          </div>
+        </div>
+      </div>
+
+      </div>
+  	</div><!-- #masthead -->
+    <div class="sub-nav hide-for-small hide-for-medium">
+            <a class="recent-link" href="https://earthsky.org/tonight/birth-of-young-moon-at-days-end"></a>
+      <div class="menu-sub-menu-container"><ul id="menu-sub-menu" class="menu"><li id="menu-item-241716" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-241716"><a href="https://earthsky.org/tonight">Tonight</a>
+<ul class="sub-menu">
+	<li id="menu-item-241723" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241723"><a href="https://earthsky.org/brightest-stars">Brightest Stars</a></li>
+	<li id="menu-item-241722" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241722"><a href="https://earthsky.org/astronomy-essentials">Astronomy Essentials</a></li>
+	<li id="menu-item-241725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241725"><a href="/moon-phases">Moon Phases</a></li>
+	<li id="menu-item-241724" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241724"><a href="https://earthsky.org/clusters-nebulae-galaxies">Clusters Nebulae Galaxies</a></li>
+	<li id="menu-item-241726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241726"><a href="/favorite-star-patterns">Favorite Star Patterns</a></li>
+	<li id="menu-item-241727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241727"><a href="/constellations">Constellations</a></li>
+</ul>
+</li>
+<li id="menu-item-241714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241714"><a href="https://earthsky.org/space">Space</a></li>
+<li id="menu-item-241713" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241713"><a href="https://earthsky.org/earth">Earth</a></li>
+<li id="menu-item-241715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241715"><a href="https://earthsky.org/human-world">Human World</a></li>
+<li id="menu-item-241721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241721"><a href="/stargazing">Stargaze</a></li>
+<li id="menu-item-304368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-304368"><a href="/earthsky-community-photos">Community Photos</a>
+<ul class="sub-menu">
+	<li id="menu-item-304440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-304440"><a href="/community-submissions">Submit a Photo</a></li>
+</ul>
+</li>
+<li id="menu-item-241720" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241720"><a href="https://earthsky.org/todays-image">Today&#8217;s Image</a></li>
+<li id="menu-item-241719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241719"><a href="https://earthskystore.org/">Store</a></li>
+</ul></div>    </div>
+ 
+</div><!-- #header -->
+
+<link rel='stylesheet' id='gravityview_default_style-css'  href='https://earthsky.org/wp-content/plugins/gravityview/templates/css/gv-default-styles.css?ver=1.22.55' type='text/css' media='all' />
+<div id="page-padding">
+  </div>
+	<div id="leaderboard" class="leaderboard-ad clearfix" style="margin: 0 auto">
+    <!-- /12836845/Top_Leaderboard -->
+    	</div>
+
+
+
+<div id="main">
+	<div class="row main-row">
+		<div id="content" class="columns medium-12 large-8 main-container">
+
+			<div id="post-0" class="post error404 not-found">
+				<h1 class="entry-title">Not Found</h1>
+				<div class="entry-content">
+					<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+					  <form role="search" class="search-form" method="get" id="searchform" action="https://earthsky.org/" >
+    <div>
+      <label class="screen-reader-text" for="s">
+        Search for:      </label>
+      <input type="text" value="SEARCH" name="s" id="s" />
+      <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+  </form>
+				</div><!-- .entry-content -->
+			</div><!-- #post-0 -->
+
+
+		</div><!-- #content -->
+
+	</div><!-- container -->
+</div><!-- main -->
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+
+	<div class="footer-leaderboard-wrapper" style="background: #f9f9f9; text-align: center; padding-top: 0.5rem">
+	<div id="footer-leaderboard">
+	</div>
+  </div>
+  <div id="footer" class="footer-wrapper">
+		<div class="container clearfix">
+<!--       <div class="ads-footer">
+        <div id='bottom_leaderboard' class="footer-unit">
+          <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('bottom_leaderboard'); });
+          </script>
+        </div>
+      </div> -->
+
+			<div class="footer-menu clearfix  hide-for-small hide-for-medium">
+        <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-268680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268680"><a target="_blank" rel="noopener noreferrer" href="https://earthsky.us1.list-manage.com/subscribe?u=e56e7a92b1c5790f7343ef95a&#038;id=c643945d79">Subscribe</a></li>
+<li id="menu-item-241694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241694"><a target="_blank" rel="noopener noreferrer" href="https://earthskystore.org/">Store</a></li>
+<li id="menu-item-241695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241695"><a href="/about">About</a></li>
+<li id="menu-item-299292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299292"><a href="https://helpsupportearthsky.org">Donate</a></li>
+<li id="menu-item-304365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304365"><a href="https://earthsky.org/community-submissions">Submit Your Image</a></li>
+<li id="menu-item-241698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241698"><a href="/contact-us">Contact Us</a></li>
+<li id="menu-item-344253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344253"><a href="https://earthsky.org/privacy-policy-2">Privacy Policy</a></li>
+</ul></div>    	</div>
+      
+			<!-- <span style="float:left;font-size:11px;"><a href='http://earthsky.org/privacy-policy'>Privacy Policy</a></span> -->
+      <script>
+        $(function() {
+          $('.copyright-year').html(new Date().getFullYear());
+        });
+      </script>
+			<span class="site-info">
+				<a href="https://earthsky.org/" title="EarthSky" rel="home">
+					&copy; <span class="copyright-year">2016</span> EarthSky Communications Inc.
+				</a>
+			</span><!-- #site-info -->
+
+		</div><!-- container -->
+
+	</div> <!-- #footer -->
+
+</div><!-- #site_wrapper -->
+<style>
+  #subscribeModal {
+    max-width: 30rem;
+    max-height: 16rem;
+  }
+</style>
+<!-- <div id="subscribeModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+<script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script type="text/javascript">
+var z7x4a3 = new WufooForm();
+z7x4a3.initialize({
+'ssl':false,
+'userName':'earthsky', 
+'formHash':'z7x4a3', 
+'autoResize':true,
+'height':'260'});
+z7x4a3.display();
+</script>
+</div> -->
+			
+
+    <noscript>
+			<div style="display:none;">
+				<img src="//pixel.quantserve.com/pixel/p-63Xiu7M6BwKtY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+			</div>
+		</noscript>
+		<!-- End Quantcast tag -->
+
+		<input type="hidden" name="OBKey" value="XdSkTyk7LTYukFUVdLZtRQ=="/> <script LANGUAGE="JavaScript">var OBCTm='1323287939948'; </script><script LANGUAGE="JavaScript" src="https://widgets.outbrain.com/claim.js"></script>
+		<!-- End Outbrain tag -->
+
+<!-- <script type="text/javascript">
+      function createCookie(name,value,days) {
+      if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+      }
+      else var expires = "";
+      document.cookie = name+"="+value+expires+"; path=/";
+    }
+
+    function readCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+    }
+
+    function showModal() {
+      tb_show('','#TB_inline?height=300&width=480&inlineId=promo',false);
+    }
+
+    function delayModal() {
+      setTimeout(function(){
+        jQuery( document ).ready(function( $ ) {
+          showModal();
+          createCookie('mypopup','no',365);
+        });
+      }, 45000)
+    }
+
+    var visited = readCookie('mypopup');
+
+    if (!visited) {
+      delayModal();
+    }
+  </script> -->
+  <!-- LiveConnectTag for advertisers -->
+  <script type="text/javascript" src="//b-code.liadm.com/a-018f.min.js" async="true" charset="utf-8"></script>
+<!-- LiveConnectTag for advertisers -->
+  <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/7730.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  </script>
+  <script src="https://earthsky.org/wp-content/themes/earthsky_techpines/static/app.js"></script>
+<script>
+window.adthrive.cmd.push(function() {    var adthrive_device = '_'.concat(window.adthrive.config.context.device);
+    var disabledForRefresh = ['AdThrive_Content_1', 'AdThrive_Content_2', 'AdThrive_Content_3', 'AdThrive_Content_4', 'AdThrive_Content_5'];
+
+    for (var i = 0; i < disabledForRefresh.length; i++) {
+        var slot_formal_name = disabledForRefresh[i].concat(adthrive_device);
+        top.window.adthrive.slotManager.updateRefreshTimeout(slot_formal_name, 0);
+        console.log("AdThrive Refresh extension code has run");
+    }
+});
+</script>
+<script>
+(function (w, d) {
+	var s = d.createElement('script');
+	s.src = "https://dstik9906m659.cloudfront.net/eVIfRVUUblIfRlskRCEyUu.js";
+	s.defer = true;
+	d.body.appendChild(s);
+})(window, document);
+</script>
+<script type='text/javascript' src='//en.es-static.us/assets/js/modernizr.min.js'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.5/jquery.tools.min.js'></script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/themes/earthsky_v25//js/plugins.js'></script>
+<script type='text/javascript' src='https://earthsky.org/wp-content/themes/earthsky_v25//js/script.js'></script>
+<script type='text/javascript' src='//en.es-static.us/assets/js/quantcast.js'></script>
+<script type='text/javascript' src='//en.es-static.us/assets/js/gplusone.js'></script>
+<script type='text/javascript' src='https://earthsky.org/wp-includes/js/wp-embed.min.js'></script>
+</body>
+</html>

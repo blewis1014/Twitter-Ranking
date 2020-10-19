@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8" />
+			<meta name="viewport" content="width=device-width">
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://wyoming-football.com/xmlrpc.php" />
+		<title>2020 Wyoming high school football schedule and scores &#8211; Wyoming-football.com</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Wyoming-football.com &raquo; Feed" href="http://wyoming-football.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wyoming-football.com &raquo; Comments Feed" href="http://wyoming-football.com/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wyoming-football.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://wyoming-football.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='ambition_style-css'  href='http://wyoming-football.com/wp-content/themes/ambition/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ambition-font-awesome-css'  href='http://wyoming-football.com/wp-content/themes/ambition/font-awesome/css/font-awesome.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ambition-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C300' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://wyoming-football.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://wyoming-football.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.8.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://wyoming-football.com/wp-content/themes/ambition/js/html5.min.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<script type='text/javascript' src='http://wyoming-football.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="http://wyoming-football.com/index.php/wp-json/" /><link rel="alternate" type="application/json" href="http://wyoming-football.com/index.php/wp-json/wp/v2/pages/5593" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wyoming-football.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wyoming-football.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="http://wyoming-football.com/index.php/results/results-by-year/2020-wyoming-high-school-football-scores/" />
+<link rel='shortlink' href='https://wp.me/P7mymk-1sd' />
+<link rel="alternate" type="application/json+oembed" href="http://wyoming-football.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwyoming-football.com%2Findex.php%2Fresults%2Fresults-by-year%2F2020-wyoming-high-school-football-scores%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://wyoming-football.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwyoming-football.com%2Findex.php%2Fresults%2Fresults-by-year%2F2020-wyoming-high-school-football-scores%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">
+			.featured-text {
+			display: none;
+			}
+		</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #4fff7b; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="2020 Wyoming high school football schedule and scores" />
+<meta property="og:url" content="http://wyoming-football.com/index.php/results/results-by-year/2020-wyoming-high-school-football-scores/" />
+<meta property="og:description" content="This page is available for sponsorship! Click here for more information on page sponsorship. Standings | Playoff brackets All times Mountain. Schedules subject to change without notice. NOTE: As of…" />
+<meta property="article:published_time" content="2020-02-06T16:12:37+00:00" />
+<meta property="article:modified_time" content="2020-10-17T22:30:55+00:00" />
+<meta property="og:site_name" content="Wyoming-football.com" />
+<meta property="og:image" content="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=512%2C512" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="2020 Wyoming high school football schedule and scores" />
+<meta name="twitter:image" content="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=240%2C240" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/wyoming-football.com/wp-content/uploads/2019/05/cropped-wyfblogosm_400x400.jpg?fit=270%2C270" />
+		</head>
+		<body class="page-template-default page page-id-5593 page-child parent-pageid-68 custom-background full-width-layout">
+			<div id="page" class="hfeed site">
+				<header id="masthead" class="site-header" role="banner">
+									<a href="http://wyoming-football.com/"><img src="http://wyoming-football.com/wp-content/uploads/2015/07/cropped-twitterheader2.jpg" class="header-image" width="1500" height="384" alt="Wyoming-football.com"> 
+			</a>
+		<div class="hgroup-wrap">
+		<div class="container clearfix">
+					<section id="site-logo" class="clearfix">
+							<h2 id="site-title">
+					<a href="http://wyoming-football.com/" title="Wyoming-football.com" rel="home"> <img src="" alt="Wyoming-football.com"></a>
+				</h2>
+							</section><!-- #site-logo -->
+						<button class="menu-toggle">Responsive Menu</button>
+						<section class="hgroup-right">
+							<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+					<ul class="nav-menu"><li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-92"><a href="http://wyoming-football.com/index.php/results/">Results</a>
+<ul class="sub-menu">
+	<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://wyoming-football.com/index.php/results/results-by-team/">Results by team</a></li>
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-94"><a href="http://wyoming-football.com/index.php/results/results-by-year/">Results by year</a></li>
+</ul>
+</li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-72"><a href="http://wyoming-football.com/index.php/champions/">Champions</a>
+<ul class="sub-menu">
+	<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://wyoming-football.com/index.php/champions/state-champions/">State champions</a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="http://wyoming-football.com/index.php/champions/state-championship-games/">State championship games</a></li>
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://wyoming-football.com/index.php/champions/state-runners-up/">State runners-up</a></li>
+</ul>
+</li>
+<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88"><a href="http://wyoming-football.com/index.php/records/">Records</a>
+<ul class="sub-menu">
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="http://wyoming-football.com/index.php/records/individual-records/">Individual records</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://wyoming-football.com/index.php/records/scoring-records/">Scoring records</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="http://wyoming-football.com/index.php/records/streaks/">Streaks</a></li>
+</ul>
+</li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84"><a href="http://wyoming-football.com/index.php/recognition/">Recognition</a>
+<ul class="sub-menu">
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://wyoming-football.com/index.php/recognition/all-state-teams/">All-state</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://wyoming-football.com/index.php/recognition/super-25/">Super 25</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://wyoming-football.com/index.php/recognition/all-america/">All-America</a></li>
+	<li id="menu-item-6112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6112"><a href="http://wyoming-football.com/index.php/recognition/nff-wyoming-chapter-awards/">NFF Wyoming Chapter awards</a></li>
+</ul>
+</li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-95"><a href="http://wyoming-football.com/index.php/standings/">Standings</a>
+<ul class="sub-menu">
+	<li id="menu-item-573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-573"><a href="http://wyoming-football.com/index.php/standings/all-time-standings/2020-wyoming-high-school-football-standings/">This year&#8217;s standings</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://wyoming-football.com/index.php/standings/all-time-standings/">All-time standings</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a href="http://wyoming-football.com/index.php/results/results-by-year/">Year-by-year standings</a></li>
+</ul>
+</li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="http://wyoming-football.com/index.php/more/">More</a>
+<ul class="sub-menu">
+	<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://wyoming-football.com/index.php/more/faq/">FAQ</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://wyoming-football.com/index.php/more/school-details/">School details</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://wyoming-football.com/index.php/more/stadiums/">Stadiums</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://wyoming-football.com/index.php/more/shrine-bowl/">Shrine Bowl</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114"><a href="http://www.lulu.com/shop/patrick-schmiedt/a-century-of-fridays/paperback/product-18854261.html">A Century of Fridays</a></li>
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="http://wyoming-football.com/index.php/more/you-can-help/">You can help!</a></li>
+	<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-572"><a href="http://wyoming-football.com/index.php/more/page-sponsorship/">Page sponsorship</a></li>
+	<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="http://wyoming-football.com/index.php/more/radio-guide/">Radio guide</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://wyoming-football.com/index.php/more/links-and-contact/">Links and contact</a></li>
+</ul>
+</li>
+<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="http://www.wyoming-football.com/blog">Blog</a></li>
+</ul>				</nav><!-- #access -->
+						<div class="search-toggle"></div><!-- .search-toggle -->
+				<div id="search-box" class="hide">
+						<form action="http://wyoming-football.com/" method="get" class="search-form clearfix">
+		<label class="assistive-text"> Search </label>
+		<input type="search" placeholder="Search" class="s field" name="s">
+		<input type="submit" value="Search" class="search-submit">
+	</form><!-- .search-form -->
+					<span class="arrow"></span>
+				</div><!-- #search-box -->
+									</section><!-- .hgroup-right -->
+		</div><!-- .container -->
+	</div><!-- .hgroup-wrap -->
+
+								<div class="page-title-wrap"  >
+						<div class="container clearfix">
+													<h1 class="page-title">2020 Wyoming high school football schedule and scores</h1><!-- .page-title -->
+												</div><!-- .container -->
+					</div><!-- .page-title-wrap -->
+							</header><!-- #masthead -->
+				<div id="content">
+													<div class="container clearfix">
+							<div id="main">												<p><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></p>
+<p><!-- horizontal --></p>
+<p><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-1159780496119875" data-ad-slot="3731021846"></ins></p>
+<p><script><br /> (adsbygoogle = window.adsbygoogle || []).push({});<br />
+</script><br />
+</center><br />
+<center></p>
+<table cellspacing="10" cellpadding="10" border="0">
+<tbody>
+<tr>
+<td bgcolor="#FFFF00">This page is available for sponsorship! <a href="http://wyoming-football.com/index.php/more/page-sponsorship/">Click here</a> for more information on page sponsorship.</td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://wyoming-football.com/index.php/standings/all-time-standings/2020-wyoming-high-school-football-standings/">Standings</a> | <a href="http://www.wyoming-football.com/2020b.html">Playoff brackets</a><br />
+All times Mountain. Schedules subject to change without notice. NOTE: As of Aug. 5, St. Stephens and Wyoming Indian have canceled their seasons.</p>
+<p></center></p>
+<p>Click on the desired week to jump to that portion of the schedule: <a href="#w0">Week 0</a> (Aug. 28) | <a href="#w1">Week 1</a> (Sept. 4) | <a href="#w2">Week 2</a> (Sept. 11) | <a href="#w3">Week 3</a> (Sept. 18) | <a href="#w4">Week 4</a> (Sept. 25) | <a href="#w5">Week 5</a> (Oct. 2) | <a href="#w6">Week 6</a> (Oct. 9) | <a href="#w7">Week 7</a> (Oct. 16) | <a href="#w8">Week 8</a> (Oct. 23) | <a href="#qf">Quarterfinals</a> (Oct. 30) | <a href="#sf">Semifinals</a> (Nov. 6) | <a href="#ch">Championships</a> (Nov. 13-14)</p>
+<p>Home teams for completed games in <b>bold</b>.</p>
+<p><strong><a name="w0">Week 0</a></strong><br />
+<b>Games</b><br />
+<b>Friday, Aug. 28</b><br />
+<b>Class 4A</b><br />
+Cheyenne Central 35, <b>Natrona</b> 21<br />
+<b>Kelly Walsh</b> 54, Cheyenne South 14<br />
+Rock Springs 35, <b>Campbell County</b> 6<br />
+<b>Sheridan</b> 42, Laramie 10<br />
+<b>Thunder Basin</b> 34, Cheyenne East 28<br />
+<b>Class 3A</b><br />
+<b>Powell</b> 37, Riverton 7<br />
+<b>Interclass</b><br />
+<b>Glenrock</b> 56, Natrona sophs 12<br />
+<b>Wheatland</b> 44, Rawlins 6<br />
+<b>Interstate</b><br />
+Ben Lomond, Utah, 29, <b>Evanston</b> 14<br />
+<b>Hot Springs, S.D.</b>, 13, Newcastle 7<br />
+Jackson 34, <b>Teton, Idaho</b>, 12<br />
+Lyman 24, <b>Malad, Idaho</b>, 6<br />
+Summit Academy, Utah, 24, <b>Star Valley</b> 14<br />
+Torrington 24, <b>Gering, Neb.</b>, 6<br />
+<b>Upton-Sundance</b> 44, Lead-Deadwood, S.D., 6 (at Upton)<br />
+Yuma, Colo., at Burns, canceled<br />
+<b>Scrimmages and Jamborees</b><br />
+<b>Thursday, Aug. 27</b><br />
+Meeteetse at Cody JV<br />
+<b>Friday, Aug. 28</b><br />
+Big Piney, Cokeville at Kemmerer jamboree<br />
+Cody at Douglas<br />
+Dubois, Farson, Guernsey-Sunrise at Encampment jamboree<br />
+Lander at Pinedale<br />
+Lingle at Pine Bluffs<br />
+Mountain View at Green River<br />
+<b>Saturday, Aug. 29</b><br />
+Big Horn at Buffalo<br />
+Greybull vs. Lusk, at Casper (Kelly Walsh)<br />
+Kelly Walsh frosh/sophs at Midwest<br />
+Moorcroft at Southeast<br />
+Rocky Mountain at Riverside<br />
+Shoshoni vs. Wright, at Casper (Natrona)<br />
+Thermopolis at Worland<br />
+Tongue River at Lovell<br />
+Open: Burlington, Burns, Hanna, Hulett, Kaycee, NSI, Saratoga, Snake River, Ten Sleep, Wind River.</p>
+<p><strong><a name="w1">Week 1</a></strong><br />
+<b>Thursday, Sept. 3</b><br />
+<b>Interclass</b><br />
+<b>Big Piney</b> 61, Evanston JV 0<br />
+<b>Lyman</b> 40, Rawlins 12<br />
+<b>Friday, Sept. 4</b><br />
+<b>Class 4A</b><br />
+<b>Cheyenne Central</b> 38, Kelly Walsh 12<br />
+<b>Cheyenne East</b> 34, Natrona 27<br />
+<b>Laramie</b> 35, Campbell County 22<br />
+Sheridan 63, <b>Cheyenne South</b> 8<br />
+Thunder Basin 41, <b>Rock Springs</b> 21<br />
+<b>Class 3A</b><br />
+<b>Cody</b> 44, Riverton 23<br />
+Lander 28, <b>Green River</b> 7<br />
+Powell 41, <b>Worland</b> 6<br />
+<b>Class 2A</b><br />
+<b>Glenrock</b> 48, Pinedale 20<br />
+Lovell 26, <b>Big Horn</b> 0<br />
+<b>Thermopolis</b> 22, Tongue River 7<br />
+<b>Wheatland</b> 50, Kemmerer 0<br />
+<b>Class 1A nine-man</b><br />
+<b>Lingle</b> 48, Wind River 12<br />
+<b>Moorcroft</b> 34, Greybull 7<br />
+<b>Pine Bluffs</b> 16, Riverside 6<br />
+<b>Rocky Mountain</b> 52, Wright 0<br />
+<b>Southeast</b> 22, Shoshoni 0<br />
+<b>Class 1A six-man</b><br />
+<b>Farson</b> 67, Guernsey-Sunrise 7<br />
+Kaycee 45, <b>Dubois</b> 10<br />
+<b>Interclass</b><br />
+Douglas 20, <b>Torrington</b> 7<br />
+<b>Evanston</b> 36, Mountain View 21<br />
+Newcastle at Buffalo, canceled<br />
+<b>Interstate</b><br />
+<b>Bridger, Mont.</b>, 63, Ten Sleep 0<br />
+<b>Cokeville</b> 34, Rich County, Utah, 6<br />
+Jackson 50, <b>Bear Lake, Idaho</b>, 21<br />
+<b>Mitchell, Neb.</b>, 43, Burns 0<br />
+Preston, Idaho, 34, <b>Star Valley</b> 15<br />
+<b>Saturday, Sept. 5</b><br />
+<b>Class 1A six-man</b><br />
+Burlington 57, <b>Hulett</b> 30<br />
+<b>Encampment</b> 63, Midwest 7<br />
+Meeteetse 68, <b>NSI</b> 25<br />
+Snake River 44, <b>Hanna</b> 19<br />
+<b>Interclass</b><br />
+<b>Lusk</b> 64, Kelly Walsh sophs 8<br />
+Upton-Sundance at Campbell County JV, canceled<br />
+Open: Saratoga, Upton-Sundance.</p>
+<p><strong><a name="w2">Week 2</a></strong><br />
+<b>Thursday, Sept. 10</b><br />
+<b>Interclass</b><br />
+Cheyenne Central JV 21, <b>Rawlins</b> 20<br />
+<b>Friday, Sept. 11</b><br />
+<b>Class 4A</b><br />
+Cheyenne Central 20, <b>Sheridan</b> 17<br />
+Cheyenne East 42, <b>Campbell County</b> 7<br />
+<b>Kelly Walsh</b> 24, Rock Springs 20<br />
+<b>Natrona</b> 48, Laramie 21<br />
+<b>Thunder Basin</b> 64, Cheyenne South 7<br />
+<b>Class 3A</b><br />
+<b>Cody</b> 42, Worland 6<br />
+<b>Green River</b> 8, Buffalo 6<br />
+<b>Powell</b> 31, Lander 0<br />
+<b>Riverton</b> 42, Evanston 14<br />
+<b>Class 2A</b><br />
+Big Piney 14, <b>Thermopolis</b> 12<br />
+<b>Burns</b> 16, Tongue River 7<br />
+Lyman 16, <b>Cokeville</b> 0<br />
+Mountain View 12, <b>Lovell</b> 9<br />
+Pinedale 34, <b>Kemmerer</b> 24<br />
+<b>Torrington</b> 39, Glenrock 0<br />
+Upton-Sundance 41, <b>Newcastle</b> 0<br />
+Wheatland 30, <b>Big Horn</b> 20<br />
+<b>Class 1A nine-man</b><br />
+<b>Lusk</b> 58, Pine Bluffs 35<br />
+Rocky Mountain 22, <b>Shoshoni</b> 20<br />
+<b>Southeast</b> 57, Lingle 0<br />
+Wind River 14, <b>Greybull</b> 13<br />
+<b>Wright</b> 37, Riverside 6<br />
+<b>Class 1A six-man</b><br />
+Farson 31, <b>Burlington</b> 24<br />
+<b>Interclass</b><br />
+Hulett 38, Sheridan JV 34 (at NSI)<br />
+<b>Interstate</b><br />
+Douglas 47, <b>Belle Fourche, S.D.</b>, 21<br />
+Pocatello, Idaho, 30, <b>Jackson</b> 14<br />
+<b>Sugar-Salem, Idaho</b>, 27, Star Valley 13<br />
+Moffat County, Colo., at Rawlins, canceled<br />
+<b>Saturday, Sept. 12</b><br />
+<b>Class 1A nine-man</b><br />
+Moorcroft 22, <b>Saratoga</b> 12<br />
+<b>Class 1A six-man</b><br />
+Dubois 85, <b>Midwest</b> 6<br />
+<b>Encampment</b> 56, Snake River 21<br />
+Kaycee 52, <b>NSI</b> 4<br />
+<b>Meeteetse</b> 73, Ten Sleep 0<br />
+<b>Interclass</b><br />
+<b>Guernsey-Sunrise</b> 66, Cheyenne South JV 43 (six-man)<br />
+<b>Natrona sophs</b> 60, Hanna 19 (six-man)</p>
+<p><strong><a name="w3">Week 3</a></strong><br />
+<b>Thursday, Sept. 17</b><br />
+<b>Interclass</b><br />
+Natrona sophs/frosh 58, <b>Midwest</b> 33 (six-man)<br />
+<b>Sheridan JV</b> 58, Greybull 12 (hybrid)<br />
+Shoshoni 46, <b>Evanston JV</b> 0 (nine-man)<br />
+<b>Friday, Sept. 18</b><br />
+<b>Class 4A</b><br />
+Campbell County 49, <b>Cheyenne South</b> 0<br />
+<b>Cheyenne Central</b> 38, Thunder Basin 26<br />
+<b>Cheyenne East</b> 56, Laramie 13<br />
+Natrona 35, <b>Kelly Walsh</b> 14<br />
+Sheridan 42, <b>Rock Springs</b> 12<br />
+<b>Class 3A</b><br />
+Cody 14, <b>Buffalo</b> 6<br />
+Jackson 57, <b>Riverton</b> 7<br />
+<b>Lander</b> 20, Evanston 13<br />
+<b>Star Valley</b> 48, Rawlins 8<br />
+<b>Worland</b> 35, Green River 22<br />
+Powell at Douglas, canceled<br />
+<b>Class 2A</b><br />
+Big Horn 35, <b>Newcastle</b> 12<br />
+Big Piney 48, <b>Pinedale</b> 2<br />
+<b>Glenrock</b> 38, Burns 6<br />
+<b>Mountain View</b> 23, Cokeville 13<br />
+Thermopolis 56, <b>Kemmerer</b> 16<br />
+<b>Upton-Sundance</b> 46, Wheatland 21 (at Upton)<br />
+<b>Class 1A nine-man</b><br />
+<b>Lingle</b> 56, Wright 8<br />
+Lusk 58, <b>Moorcroft</b> 8<br />
+<b>Pine Bluffs</b> 34, Saratoga 18<br />
+<b>Rocky Mountain</b> 62, Riverside 0<br />
+Southeast 47, <b>Wind River</b> 0<br />
+<b>Class 1A six-man</b><br />
+<b>Farson</b> 74, Encampment 32<br />
+Meeteetse 43, <b>Dubois</b> 33<br />
+<b>Saturday, Sept. 19</b><br />
+<b>Class 2A</b><br />
+<b>Lyman</b> 12, Lovell 7<br />
+Torrington 40, <b>Tongue River</b> 14<br />
+<b>Class 1A six-man</b><br />
+<b>Snake River</b> 34, Burlington 13<br />
+<b>Ten Sleep</b> 57, NSI 32<br />
+<b>Interclass</b><br />
+Cheyenne Central JV 33, <b>Guernsey-Sunrise</b> 31<br />
+<b>Kaycee</b> 78, Sheridan sophs 52 (six-man)<br />
+Open: Hanna, Hulett.</p>
+<p><strong><a name="w4">Week 4</a></strong><br />
+<b>Thursday, Sept. 24</b><br />
+<b>Class 1A nine-man</b><br />
+Shoshoni 36, <b>Wind River</b> 0<br />
+<b>Friday, Sept. 25</b><br />
+<b>Class 4A</b><br />
+Cheyenne Central 62, <b>Cheyenne South</b> 15<br />
+Cheyenne East 16, <b>Sheridan</b> 14<br />
+Rock Springs 21, <b>Natrona</b> 7<br />
+<b>Thunder Basin</b> 55, Campbell County 7<br />
+<b>Class 3A</b><br />
+Buffalo 14, <b>Rawlins</b> 8<br />
+Cody 14, <b>Powell</b> 0<br />
+Douglas 38, <b>Riverton</b> 14<br />
+Green River 23, <b>Evanston</b> 20<br />
+<b>Jackson</b> 21, Star Valley 14<br />
+<b>Lander</b> 41, Worland 21<br />
+<b>Class 2A</b><br />
+Big Horn 42, <b>Burns</b> 8<br />
+<b>Big Piney</b> 6, Lyman 0<br />
+<b>Cokeville</b> 41, Pinedale 6<br />
+<b>Lovell</b> 23, Thermopolis 20<br />
+<b>Tongue River</b> 30, Newcastle 0<br />
+<b>Torrington</b> 17, Upton-Sundance 14<br />
+<b>Wheatland</b> 48, Glenrock 26<br />
+<b>Class 1A nine-man</b><br />
+<b>Lusk</b> 54, Lingle 7<br />
+Rocky Mountain 60, <b>Greybull</b> 6<br />
+Southeast 41, <b>Pine Bluffs</b> 14<br />
+<b>Wright</b> 8, Moorcroft 6<br />
+<b>Class 1A six-man</b><br />
+<b>Kaycee</b> 25, Hulett 0<br />
+<b>Meeteetse</b> 42, Burlington 38<br />
+<b>Saturday, Sept. 26</b><br />
+<b>Class 4A</b><br />
+<b>Kelly Walsh</b> 49, Laramie 28<br />
+<b>Class 2A</b><br />
+<b>Mountain View</b> 40, Kemmerer 0<br />
+<b>Class 1A nine-man</b><br />
+Saratoga 31, <b>Riverside</b> 0<br />
+<b>Class 1A six-man</b><br />
+<b>Dubois</b> 32, Snake River 28<br />
+<b>Guernsey-Sunrise</b> 58, Hanna 33<br />
+Farson defeats Ten Sleep, forfeit<br />
+NSI defeats Midwest, forfeit<br />
+<b>Interclass</b><br />
+Encampment at Natrona sophs, canceled</p>
+<p><strong><a name="w5">Week 5</a></strong><br />
+<b>Thursday, Oct. 1</b><br />
+<b>Interclass</b><br />
+Greybull 49, <b>Worland JV</b> 6<br />
+Sheridan JV 77, <b>NSI</b> 40 (six-man)<br />
+<b>Friday, Oct. 2</b><br />
+<b>Class 4A</b><br />
+Cheyenne Central 19, <b>Campbell County</b> 6<br />
+<b>Cheyenne East</b> 55, Cheyenne South 8<br />
+<b>Natrona</b> 38, Sheridan 31, 4OT<br />
+<b>Rock Springs</b> 36, Laramie 15<br />
+Thunder Basin 35, <b>Kelly Walsh</b> 13<br />
+<b>Class 3A</b><br />
+<b>Cody</b> 61, Evanston 14<br />
+<b>Douglas</b> 20, Lander 13<br />
+Jackson 63, <b>Green River</b> 17<br />
+<b>Powell</b> 28, Star Valley 6<br />
+Riverton 13, <b>Buffalo</b> 6<br />
+Worland 42, <b>Rawlins</b> 6<br />
+<b>Class 2A</b><br />
+<b>Big Horn</b> 17, Torrington 7<br />
+Cokeville 31, <b>Thermopolis</b> 6<br />
+<b>Glenrock</b> 34, Newcastle 7<br />
+Lovell 29, <b>Big Piney</b> 8<br />
+<b>Lyman</b> 41, Kemmerer 0<br />
+Mountain View 42, <b>Pinedale</b> 6<br />
+<b>Upton-Sundance</b> 26, Tongue River 7 (at Sundance)<br />
+<b>Wheatland</b> 53, Burns 0<br />
+<b>Class 1A nine-man</b><br />
+Lusk 48, <b>Wright</b> 7<br />
+<b>Riverside</b> 14, Wind River 6<br />
+Saratoga 66, <b>Lingle</b> 43<br />
+<b>Southeast</b> 70, Moorcroft 22<br />
+<b>Class 1A six-man</b><br />
+<b>Burlington</b> 44, Dubois 12<br />
+Farson 47, <b>Kaycee</b> 13<br />
+<b>Saturday, Oct. 3</b><br />
+<b>Class 1A nine-man</b><br />
+<b>Shoshoni</b> 40, Pine Bluffs 13<br />
+<b>Class 1A six-man</b><br />
+<b>Hanna</b> 74, Midwest 14<br />
+<b>Hulett</b> 65, Guernsey-Sunrise 31<br />
+Meeteetse 68, <b>Encampment</b> 52<br />
+<b>Snake River</b> 59, Ten Sleep 6<br />
+Open: Rocky Mountain.</p>
+<p><strong><a name="w6">Week 6</a></strong><br />
+<b>Thursday, Oct. 8</b><br />
+<b>Interclass</b><br />
+<b>Wind River</b> 42, Natrona JV 28<br />
+<b>Friday, Oct. 9</b><br />
+<b>Class 4A</b><br />
+Cheyenne East 41, <b>Cheyenne Central</b> 18<br />
+Natrona 35, <b>Campbell County</b> 14<br />
+Rock Springs 61, <b>Cheyenne South</b> 6<br />
+Sheridan 41, <b>Kelly Walsh</b> 7<br />
+<b>Thunder Basin</b> 47, Laramie 7<br />
+<b>Class 3A</b><br />
+<b>Douglas</b> 63, Rawlins 0<br />
+<b>Jackson</b> 58, Evanston 7<br />
+Lander 45, <b>Riverton</b> 31<br />
+Powell 44, <b>Green River</b> 20<br />
+<b>Star Valley</b> 21, Cody 14<br />
+<b>Worland</b> 27, Buffalo 23<br />
+<b>Class 2A</b><br />
+Big Horn 42, <b>Glenrock</b> 8<br />
+Cokeville 48, <b>Kemmerer</b> 0<br />
+<b>Lovell</b> 44, Pinedale 0<br />
+<b>Mountain View</b> 37, Big Piney 21<br />
+Torrington 49, <b>Newcastle</b> 14<br />
+Upton-Sundance 54, <b>Burns</b> 14<br />
+Wheatland 38, <b>Tongue River</b> 20<br />
+<b>Class 1A nine-man</b><br />
+<b>Greybull</b> 28, Riverside 12<br />
+<b>Moorcroft</b> 41, Lingle 25<br />
+<b>Pine Bluffs</b> 29, Wright 8<br />
+Rocky Mountain 62, <b>Lusk</b> 50<br />
+Southeast 27, <b>Saratoga</b> 12<br />
+<b>Class 1A six-man</b><br />
+<b>Farson</b> 62, Dubois 28<br />
+Hulett 46, <b>Midwest</b> 7<br />
+Kaycee 70, <b>Guernsey-Sunrise</b> 6<br />
+<b>Meeteetse</b> 38, Snake River 22<br />
+<b>Saturday, Oct. 10</b><br />
+<b>Class 2A</b><br />
+<b>Lyman</b> 28, Thermopolis 0<br />
+<b>Class 1A six-man</b><br />
+Encampment defeats Ten Sleep, forfeit<br />
+Hanna 54, <b>NSI</b> 23<br />
+<b>Interclass</b><br />
+<b>Shoshoni</b> 58, Kelly Walsh JV 0<br />
+Open: Burlington.</p>
+<p><strong><a name="w7">Week 7</a></strong><br />
+<b>Wednesday, Oct. 14</b><br />
+<b>Class 3A</b><br />
+Star Valley 42, <b>Evanston</b> 14<br />
+<b>Thursday, Oct. 15</b><br />
+<b>Class 1A nine-man</b><br />
+<b>Shoshoni</b> 63, Greybull 8<br />
+<b>Interclass</b><br />
+<b>Snake River</b> 70, Natrona sophs 19<br />
+<b>Friday, Oct. 16</b><br />
+<b>Class 4A</b><br />
+<b>Cheyenne East</b> 34, Kelly Walsh 9<br />
+<b>Laramie</b> 55, Cheyenne South 2<br />
+Rock Springs 21, <b>Cheyenne Central</b> 14<br />
+<b>Sheridan</b> 49, Campbell County 0<br />
+Thunder Basin 40, <b>Natrona</b> 0<br />
+<b>Class 3A</b><br />
+<b>Cody</b> 40, Green River 0<br />
+Douglas 20, <b>Buffalo</b> 17<br />
+Jackson 21, <b>Powell</b> 14<br />
+<b>Lander</b> 37, Rawlins 8<br />
+Riverton 21, <b>Worland</b> 9<br />
+<b>Class 2A</b><br />
+<b>Big Horn</b> 49, Tongue River 7<br />
+<b>Cokeville</b> 19, Big Piney 14<br />
+Lovell 57, <b>Kemmerer</b> 8<br />
+Lyman 42, <b>Pinedale</b> 14<br />
+Mountain View 38, <b>Thermopolis</b> 14<br />
+<b>Torrington</b> 33, Wheatland 6<br />
+<b>Upton-Sundance</b> 61, Glenrock 8 (at Upton)<br />
+Burns at Newcastle, postponed to Oct. 29<br />
+<b>Class 1A nine-man</b><br />
+Pine Bluffs 61, <b>Lingle</b> 19<br />
+<b>Riverside</b> 28, Moorcroft 20<br />
+<b>Rocky Mountain</b> 54, Wind River 0<br />
+<b>Saratoga</b> 42, Wright 12<br />
+<b>Southeast</b> 35, Lusk 16<br />
+<b>Class 1A six-man</b><br />
+<b>Burlington</b> 68, Ten Sleep 6<br />
+<b>Guernsey-Sunrise</b> 63, NSI 6<br />
+<b>Kaycee</b> 58, Midwest 0<br />
+<b>Saturday, Oct. 17</b><br />
+<b>Class 1A six-man</b><br />
+Encampment 39, <b>Dubois</b> 28<br />
+<b>Farson</b> 35, Meeteetse 16<br />
+Hulett 54, Hanna 13 (at Midwest)</p>
+<p><strong><a name="w8">Week 8</a></strong><br />
+<b>Friday, Oct. 23</b><br />
+<b>Class 4A</b><br />
+Cheyenne Central at Laramie, 6 p.m.<br />
+Cheyenne East at Rock Springs, 6 p.m.<br />
+Kelly Walsh at Campbell County, 6 p.m.<br />
+Natrona at Cheyenne South, 6 p.m.<br />
+Thunder Basin at Sheridan, 6 p.m.<br />
+<b>Class 3A</b><br />
+Buffalo at Lander, 6 p.m.<br />
+Cody at Jackson, 6 p.m.<br />
+Green River at Star Valley, 6 p.m.<br />
+Powell at Evanston, 6 p.m.<br />
+Riverton at Rawlins, 6 p.m.<br />
+Worland at Douglas, 7 p.m.<br />
+<b>Class 2A</b><br />
+Big Horn at Upton-Sundance, 6 p.m. (at Sundance)<br />
+Cokeville at Lovell, 6 p.m.<br />
+Glenrock at Tongue River, noon<br />
+Kemmerer at Big Piney, 2 p.m.<br />
+Lyman at Mountain View, 3 p.m.<br />
+Newcastle at Wheatland, 6 p.m.<br />
+Thermopolis at Pinedale, 5 p.m.<br />
+Torrington at Burns, canceled<br />
+<b>Class 1A nine-man</b><br />
+Lingle at Greybull, 5 p.m.<br />
+Pine Bluffs at Moorcroft, 6 p.m.<br />
+Riverside at Shoshoni, 5 p.m.<br />
+Saratoga at Lusk, 5 p.m.<br />
+Southeast at Wright, 7 p.m.<br />
+<b>Class 1A six-man</b><br />
+Hanna at Kaycee, 1 p.m.<br />
+<b>Saturday, Oct. 24</b><br />
+<b>Class 1A six-man</b><br />
+Burlington at Encampment, 3 p.m.<br />
+Dubois at Ten Sleep, 2 p.m.<br />
+Farson at Snake River, 2 p.m.<br />
+Guernsey-Sunrise at Midwest, 2 p.m.<br />
+NSI at Hulett, noon<br />
+<b>Interclass</b><br />
+Cody JV at Meeteetse, 2 p.m. (six-man)<br />
+Open: Rocky Mountain, Wind River.</p>
+<p><b><strong><a name="qf">Quarterfinals</a></strong><br />
+<b>Friday, Oct. 30</b><br />
+At higher seed<br />
+<b>Non-playoff games</b><br />
+<b>Thursday, Oct. 29</b><br />
+Burns at Newcastle, 5 p.m.</b></p>
+<p><b><strong><a name="sf">Semifinals</a></strong><br />
+<b>Friday, Nov. 6</b><br />
+At higher seed</b></p>
+<p><b><strong><a name="ch">Championships</a></strong><br />
+<b>Friday, Nov. 13-Saturday, Nov. 14</b><br />
+At higher seed<br />
+If teams are equally seeded and haven&#8217;t played during the regular season, the following team will host:<br />
+Class 3A, Class 1A six-man: West Conference team<br />
+Class 2A, Class 1A nine-man: East Conference team</b></p>
+<p><b><br />
+</b><b></b><b></b><b></b><b></b></p>
+								<div id="comments" class="comments-area">
+      </div><!-- #comments .comments-area -->		</div><!-- #main -->						</div><!-- .container -->
+						</div><!-- #content -->
+									<footer id="colophon" class="site-footer clearfix" role="contentinfo">
+					<div class="widget-wrap">
+			<div class="container">
+				<div class="widget-area clearfix">
+					<div class="one-fourth">
+						<aside id="text-3" class="widget widget_text"><h3 class="widget-title">Follow us</h3>			<div class="textwidget">On <a href=https://www.facebook.com/wyomingfootballhistory>Facebook</a> and <a href=https://twitter.com/WyomingFootball>Twitter</a>.</div>
+		</aside>					</div><!-- .one-fourth -->
+					<div class="one-fourth">
+											</div><!-- .one-fourth -->
+					<div class="one-fourth">
+											</div><!-- .one-fourth -->
+					<div class="one-fourth">
+											</div><!-- .one-fourth -->
+				</div><!-- .widget-area --> 
+			</div><!-- .container --> 
+		</div><!-- .widget-wrap -->
+	<div class="site-info clearfix">
+		<div class="container">
+		<div class="social-profiles clearfix">
+		<ul><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children menu-item-92"><a href="http://wyoming-football.com/index.php/results/"><span class="screen-reader-text">Results</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-72"><a href="http://wyoming-football.com/index.php/champions/"><span class="screen-reader-text">Champions</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88"><a href="http://wyoming-football.com/index.php/records/"><span class="screen-reader-text">Records</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84"><a href="http://wyoming-football.com/index.php/recognition/"><span class="screen-reader-text">Recognition</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-95"><a href="http://wyoming-football.com/index.php/standings/"><span class="screen-reader-text">Standings</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-76"><a href="http://wyoming-football.com/index.php/more/"><span class="screen-reader-text">More</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="http://www.wyoming-football.com/blog"><span class="screen-reader-text">Blog</span></a></li>
+</ul>		</div><!-- .social-profiles -->
+	<div class="copyright">&copy; 2020 <a href="http://wyoming-football.com/" title="Wyoming-football.com" ><span>Wyoming-football.com</span></a> |  Theme by: <a href="http://themehorse.com" target="_blank" title="Theme Horse" ><span>Theme Horse</span></a> |  Proudly Powered by: <a href="http://wordpress.org" target="_blank" title="WordPress"><span>WordPress</span></a></div><!-- .copyright -->		</div><!-- .container -->
+	</div><!-- .site-info -->
+	<div class="back-to-top"><a title="Go to Top" href="#masthead"></a></div><!-- .back-to-top -->
+			</footer><!-- #colophon -->
+		</div><!-- #page -->
+		<script type='text/javascript' src='http://wyoming-football.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='http://wyoming-football.com/wp-content/themes/ambition/js/jquery.cycle.all.js?ver=3.0.3' id='jquery_cycle-js'></script>
+<script type='text/javascript' src='http://wyoming-football.com/wp-content/themes/ambition/js/scripts.js?ver=5.5.1' id='scripts-js'></script>
+<script type='text/javascript' src='http://wyoming-football.com/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.8.2',blog:'108809648',post:'5593',tz:'0',srv:'wyoming-football.com'} ]);
+	_stq.push([ 'clickTrackerInit', '108809648', '5593' ]);
+</script>
+	</body>
+</html>

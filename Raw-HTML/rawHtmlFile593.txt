@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>406: Not Acceptable</title>
+        <script language="javascript">
+
+    <!-- Hide from older browsers
+
+           // Print the name of the URL requested so it appears
+           // in the error message for the 404.
+           
+           function printDocumentName()
+           {
+                document.write(', ');
+                        document.write(encodeURIComponent(document.location.href));
+                        document.write(', ');
+           }
+           
+           // Produce an e-mail link if the client browser supports
+           // Javascript. 
+           
+           function printEmailLink()
+           {
+                        var domain = document.domain.toLowerCase();
+                        var uri_parts = domain.split('.');
+                        
+            // If the first array piece is 'www', then strip this from
+                        // the array. We don't use the 'www' portion of the URL we
+                        // have.
+
+                        if (uri_parts[0] == 'www') {
+                        
+                           domain = uri_parts[1]+'.'+uri_parts[2];
+
+                        }
+
+                        // If the domain is townnews.com or is not defined (blank),
+                        // we simply skip writing this e-mail a webmaster link.
+
+                        if ((domain != 'townnews.com') && (domain != '')) {
+
+                   document.write(', or contact the webmaster at <A href="mailto:webmaster@' +
+                                  domain + '">webmaster@' + domain + '</A>');
+
+                    }
+           }
+
+       // End hiding -->
+        
+
+</script>
+  </head>
+  <body bgcolor="#ffffff" style="font-family: Verdana,Arial,Helvetica,Sans-Serif; margin: 20%">
+           <h1 style="font-size: 14pt; font-weight: bold">406 - Not Acceptable</h1>
+           <p style="font-size: 10pt">The requested document<script>printDocumentName()</script> is not acceptable.
+           Please try your operation again <script>printEmailLink()</script>.</p>           
+  </body>
+</html>

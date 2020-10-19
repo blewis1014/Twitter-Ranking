@@ -1,0 +1,1006 @@
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en-GB">
+<head lang="en-US">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<meta name="theme-color" content="#e2001a">
+<title>JUST IN: LOCAL FOOTBALL GETS GREENLIGHT | H-Metro</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="H-Metro &raquo; JUST IN: LOCAL FOOTBALL GETS GREENLIGHT Comments Feed" href="https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/feed/" />
+<meta name="description" content="Real Life, Real Drama" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@hmetro_">
+<meta property="og:title" content="JUST IN: LOCAL FOOTBALL GETS GREENLIGHT" />
+<meta property="og:description" content="Real Life, Real Drama" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/" />
+<meta property="og:site_name" content="H-Metro" />
+<meta property="og:image" content="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-680x380.jpg" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hmetro.co.zw\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.14"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sirius-css' href='https://www.hmetro.co.zw/wp-content/themes/sirius/css/sirius.min.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.hmetro.co.zw/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hmetro.co.zw/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hmetro.co.zw/wp-includes/wlwmanifest.xml" />
+<link rel='prev' title='Stock market sustains bearish trend' href='https://www.hmetro.co.zw/stock-market-sustains-bearish-trend/' />
+<link rel="canonical" href="https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/" />
+<link rel='shortlink' href='https://www.hmetro.co.zw/?p=82111' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hmetro.co.zw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hmetro.co.zw%2Fjust-in-local-football-gets-greenlight%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hmetro.co.zw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hmetro.co.zw%2Fjust-in-local-football-gets-greenlight%2F&#038;format=xml" />
+<link rel="amphtml" href="https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/amp/"><link rel="icon" href="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/03/cropped-hmetro_site_icon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/03/cropped-hmetro_site_icon-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/03/cropped-hmetro_site_icon-200x200.png" />
+<meta name="msapplication-TileImage" content="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/03/cropped-hmetro_site_icon-360x360.png" />
+
+<link rel="preconnect" href="//fonts.googleapis.com/" crossorigin />
+<link rel="preconnect" href="//fonts.gstatic.com/" crossorigin />
+
+<link rel="preconnect" href="//disqus.com" crossorigin />
+<link rel="preconnect" href="//www.google-analytics.com/" crossorigin />
+
+<link rel="preconnect" href="//securepubads.g.doubleclick.net/" crossorigin />
+<link rel="preconnect" href="//tpc.googlesyndication.com/" crossorigin />
+<link rel="preconnect" href="//pagead2.googlesyndication.com/" crossorigin />
+<link rel="preconnect" href="//googleads.g.doubleclick.net/" crossorigin />
+<link rel="preconnect" href="//adservice.google.com/" crossorigin />
+<link rel="preconnect" href="//adservice.google.co.zw/" crossorigin />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3ZC37P');</script>
+
+<style>
+@media (min-width:1120px) {
+	#s-main-header { margin-top: 10px !important; }
+#s-main-header.has-big-backfill,
+	#s-main-header.has-takeover { margin-top: 250px !important; }
+	#s-main-header.has-backfill { margin-top: 130px !important; }
+	#s-main-header.has-no-ads { margin-top: 10px !important; }
+	#sirius-bg-takeover iframe[id^="google_ads_iframe_"][width="728"] { height: 130px !important; padding-top: 20px !important; }
+}
+@media (min-width:768px) and (max-width:1120px) { #s-headlines-section .row { padding: 20px 10% 50px 10%; } }
+
+#menu-item-402812 > a, #menu-item-42316 > a { color: #fff !important; } 
+.vcard {display: none;}
+</style>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+//Takeover Header Resize Function
+function siriusSetTakeOverHeader(event) {
+	var siriusSiteHeader = document.getElementById('s-main-header'),
+		loadedAd = $('#sirius-bg-takeover iframe[id^="google_ads_iframe_"]'),
+		isbgtakeoverDisplayed = $('#sirius-bg-takeover > div[id^="div-gpt-ad"]').is(":visible");
+	if (loadedAd.attr('width') >= 1366 && isbgtakeoverDisplayed == true ) { siriusSiteHeader.classList.add('has-takeover'); console.log('1366 loaded'); }
+	else if (loadedAd.attr('width') >= 970 && isbgtakeoverDisplayed == true ) { siriusSiteHeader.classList.add('has-big-backfill'); console.log('970 loaded'); }
+	else if (loadedAd.attr('width') <= 728 && isbgtakeoverDisplayed == true ) { siriusSiteHeader.classList.add('has-backfill'); console.log('728 loaded'); }
+	else { console.log('has no ads'); }
+}
+
+
+googletag.cmd.push(function() {
+
+
+//Mobile Only Leaderboard 
+var sMercuryVenus = googletag.sizeMapping().
+addSize([768, 480], []).
+addSize([0, 0], [320, 50]).
+build();
+
+googletag.defineSlot('/35406761/zp_hmetro_m_mercury-venus', [320, 50], 'div-gpt-ad-1552395407217-0').defineSizeMapping(sMercuryVenus).addService(googletag.pubads());
+
+
+
+//Header
+var sHeader = googletag.sizeMapping().
+addSize([768, 480], [320, 100]).
+addSize([0, 0], []).
+build();
+
+googletag.defineSlot('/35406761/zp_hmetro_mercury', [320, 100], 'div-gpt-ad-1552394109679-0').defineSizeMapping(sHeader).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_venus', [320, 100], 'div-gpt-ad-1552394143582-0').defineSizeMapping(sHeader).addService(googletag.pubads());
+
+
+
+
+//Takeovers
+var sTakeovers = googletag.sizeMapping().
+addSize([1600, 700], [1920, 900]).
+addSize([1280, 500], [1366, 768]).
+addSize([768, 480], [728, 90]).
+addSize([0, 0], []).
+build();
+
+var takeoverThree = googletag.defineSlot('/35406761/zp_hmetro_takeover_3', [[1366, 768], [1920, 900], [728, 90]], 'div-gpt-ad-1552395925618-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+var takeoverFive = googletag.defineSlot('/35406761/zp_hmetro_takeover_5', [[1366, 768], [1920, 900], [728, 90]], 'div-gpt-ad-1552396082075-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+var solTakeoverHome = googletag.defineSlot('/35406761/zp_hmetro_takeover_sol', [[728, 90], [1920, 900], [1366, 768]], 'div-gpt-ad-1552395954214-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+var takeoverTwo = googletag.defineSlot('/35406761/zp_hmetro_takeover_2', [[1920, 900], [1366, 768], [728, 90]], 'div-gpt-ad-1552395985193-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+var takeoverOne = googletag.defineSlot('/35406761/zp_hmetro_takeover_1', [[1920, 900], [1366, 768], [728, 90]], 'div-gpt-ad-1552396017096-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+var takeoverFour = googletag.defineSlot('/35406761/zp_hmetro_takeover_4', [[728, 90], [1366, 768], [1920, 900]], 'div-gpt-ad-1552396049993-0').defineSizeMapping(sTakeovers).addService(googletag.pubads());
+
+
+//Prime Ads
+var sPrime = googletag.sizeMapping().
+addSize([1120, 500], [160, 600]).
+addSize([0, 0], []).
+build();
+
+googletag.defineSlot('/35406761/zp_hmetro_earth', [160, 600], 'div-gpt-ad-1552395437121-0').defineSizeMapping(sPrime).addService(googletag.pubads());
+
+
+
+//Leaderboards
+var sLeaderboards = googletag.sizeMapping().
+addSize([768, 480], [728, 90]).
+addSize([0, 0], [320, 100]).
+build();
+
+googletag.defineSlot('/35406761/zp_hmetro_halley', [728, 90], 'div-gpt-ad-1552392812920-0').defineSizeMapping(sLeaderboards).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_saturn', [[728, 90], [320, 100]], 'div-gpt-ad-1552395359272-0').defineSizeMapping(sLeaderboards).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_jupiter', [[728, 90], [320, 100]], 'div-gpt-ad-1552395324463-0').defineSizeMapping(sLeaderboards).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_charon', [[728, 90], [320, 100]], 'div-gpt-ad-1552394079164-0').defineSizeMapping(sLeaderboards).addService(googletag.pubads());
+
+
+
+//Sidebar
+var sSidebar = googletag.sizeMapping().
+addSize([1120, 500], [336, 280]).
+addSize([0, 0], []).
+build();
+
+googletag.defineSlot('/35406761/zp_hmetro_uranus', [336, 280], 'div-gpt-ad-1552395577819-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_ganymede', [336, 280], 'div-gpt-ad-1552395606951-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_titan', [336, 280], 'div-gpt-ad-1552395637982-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_callisto', [336, 280], 'div-gpt-ad-1552395669593-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_lo', [336, 280], 'div-gpt-ad-1552395834439-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_europa', [336, 280], 'div-gpt-ad-1552395892381-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+googletag.defineSlot('/35406761/zp_hmetro_triton', [336, 280], 'div-gpt-ad-1552395862898-0').defineSizeMapping(sSidebar).addService(googletag.pubads());
+
+
+//Inarticle
+googletag.defineSlot('/35406761/zp_hmetro_pluto', [320, 100], 'div-gpt-ad-1552394211130-0').addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+
+	if( event.slot === solTakeoverHome) { siriusSetTakeOverHeader(event); }
+	else if( event.slot === takeoverOne) { siriusSetTakeOverHeader(event); }
+	else if( event.slot === takeoverTwo) { siriusSetTakeOverHeader(event); }
+	else if( event.slot === takeoverThree) { siriusSetTakeOverHeader(event); }
+	else if( event.slot === takeoverFour) { siriusSetTakeOverHeader(event); }
+	else if( event.slot === takeoverFive) { siriusSetTakeOverHeader(event); }
+	else {}
+
+});
+
+googletag.enableServices();
+
+});
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<style type="text/css">
+
+	body,
+	.s-base-color { color: #000000;}
+	
+	a,
+	.s-link-color { color: #000000;}
+
+	a:hover,
+	[class^="s-icon"]:hover,
+	a.active,
+	.s-accent-color,
+	.s-accent-link-color a,
+	li.current-menu-item a { color: #e2001a; }
+
+	.s-accent-hover-bg:hover,
+	.s-accent-hover-bg li:hover,
+	.menu-item-has-children:hover,
+	ul.slick-dots li.slick-active,
+	ul.dropdown.menu li.menu-item-has-children ul li:hover,
+	#s-user-menu ul li.s-user-subscribe,
+	.s-accent-btn,
+	.s-accent-link-bg-color a,
+	.s-accent-bg-color { background-color: #e2001a !important; }
+
+
+</style>
+</head>
+<body id="" class="post-template-default single single-post postid-82111 single-format-standard">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3ZC37P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="off-canvas position-left" id="s-off-canvas" data-off-canvas>
+</div>
+<div class="off-canvas-content" data-off-canvas-content>
+
+<header>
+
+<div id="mercury-venus-section">
+<div class="row">
+<div class="s-mercury-venus">
+
+<div id='div-gpt-ad-1552395407217-0' style='height:50px; width:320px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395407217-0'); });
+</script>
+</div> </div>
+</div>
+</div>
+<div id="s-top-bar">
+<div id="s-publisher-menu" class="float-left">
+<ul id="menu-zimpaper-links" class="dropdown menu float-left" data-dropdown-menu><li id="menu-item-41375" class="zimpapers-digital menu-item menu-item-type-post_type menu-item-object-page menu-item-41375"><a title="Zimpapers Digital" href="https://www.hmetro.co.zw/about-zimpapers/">Zimpapers Digital</a></li>
+<li id="menu-item-41334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41334"><a href="http://www.b-metro.co.zw/">B-Metro</a></li>
+<li id="menu-item-41356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41356"><a href="http://www.umthunywa.co.zw">uMthunywa</a></li>
+<li id="menu-item-41337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41337"><a href="https://www.herald.co.zw">The Herald</a></li>
+<li id="menu-item-41345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41345"><a href="https://www.chronicle.co.zw">Chronicle</a></li>
+<li id="menu-item-41339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41339"><a href="http://www.sundaymail.co.zw">The Sunday Mail</a></li>
+<li id="menu-item-41342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41342"><a href="http://ebusinessweekly.co.zw/">Business Weekly</a></li>
+<li id="menu-item-41348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41348"><a href="#">More +</a>
+<ul class="submenu menu vertical">
+<li id="menu-item-41347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41347"><a href="http://www.sundaynews.co.zw">Sunday News</a></li>
+<li id="menu-item-41350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41350"><a href="http://www.kwayedza.co.zw/">Kwayedza</a></li>
+<li id="menu-item-41351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41351"><a href="http://www.manicapost.co.zw/">Manicapost</a></li>
+<li id="menu-item-41352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41352"><a href="https://southernafrican.news/">The Southern Times</a></li>
+<li id="menu-item-41355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41355"><a href="http://www.ztn.co.zw/">ZTN</a></li>
+</ul>
+</li>
+<li id="menu-item-41359" class="radio all-player menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41359"><a title="Play Zimpapers Radio" href="#">Play Radio</a>
+<ul class="submenu menu vertical">
+<li id="menu-item-41362" class="starfm-player menu-item menu-item-type-custom menu-item-object-custom menu-item-41362"><a title="Play StarFM Radio" href="#">StarFM</a></li>
+<li id="menu-item-41365" class="diamondfm-player menu-item menu-item-type-custom menu-item-object-custom menu-item-41365"><a title="Play Diamond FM Radio" href="#">Diamond FM</a></li>
+<li id="menu-item-41368" class="capitalkfm-player menu-item menu-item-type-custom menu-item-object-custom menu-item-41368"><a title="Play Capitalk FM Radio" href="#">Capitalk FM</a></li>
+<li id="menu-item-41369" class="nyaminyamifm-player menu-item menu-item-type-custom menu-item-object-custom menu-item-41369"><a title="Play Nyami Nyami Radio" href="#">Nyami Nyami</a></li>
+</ul>
+</li>
+</ul> <div class="clear-float"></div>
+</div>
+<div id="s-user-menu" class="float-right">
+<ul id="menu-top-nav-user-menu" class="menu s-accent-hover-bg float-right"><li id="menu-item-41414" class="s-user-advertise menu-item menu-item-type-custom menu-item-object-custom menu-item-41414"><a title="Advertise on HMetro" target="_blank" href="http://printhub.co.zw/advertise">Advertise</a></li>
+<li id="menu-item-41416" class="s-user-subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-41416"><a title="Subscribe to HMetro" target="_blank" href="http://printhub.co.zw/subscribe">Subscribe</a></li>
+</ul> <div class="clear-float"></div>
+</div>
+<div class="clear-float"></div>
+</div> 
+<div id="halley-section"><div class="row"><div id="s-halley">
+<div id='div-gpt-ad-1552392812920-0' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552392812920-0'); });
+</script>
+</div></div></div></div>
+<div id="s-main-header">
+<div id="s-branding" class="row">
+<div id="s-logo">
+<a href="https://www.hmetro.co.zw" title="H-Metro">
+<img src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/hmetro_logo_small.jpg" alt="H-Metro" />
+</a>
+<div id="branding-meta">
+<span class="s-meta-social">
+<a class="social-link facebook" href="https://www.facebook.com/HMetroZimpapers" rel="nofollow" target="_blank" title="Follow us on Facebook"><i class="s-icon-facebook"></i></a>
+<a class="social-link twitter" href="https://twitter.com/hmetro_" rel="nofollow" target="_blank" title="Follow us on Twitter"><i class="s-icon-twitter"></i></a>
+</span>
+<span class="s-meta-date">16 October 2020</span>
+
+</div>
+<div class="clear-float"></div>
+</div>
+<div id="s-mobile-actions">
+<span id="s-trigger-search"><i class="s-icon-search"></i></span>
+</div>
+<div class="mobile-clear-float"></div>
+<form role="search" method="get" id="searchform" class="s-search searchform" action="https://www.hmetro.co.zw/">
+<div><label class="screen-reader-text" for="s">search for:</label>
+<input type="text" aria-label="search box" placeholder="search" value="" name="s" id="s" />
+<button type="submit" aria-label="submit search" id="searchsubmit" value="search"></button>
+</div>
+</form>
+<div id="s-mercury-venus">
+<div id="mercury">
+<div id='div-gpt-ad-1552394109679-0' style='height:100px; width:320px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552394109679-0'); });
+</script>
+</div></div>
+<div id="venus">
+<div id='div-gpt-ad-1552394143582-0' style='height:100px; width:320px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552394143582-0'); });
+</script>
+</div></div>
+<div class="clear-float"></div>
+</div>
+<div class="clear-float"></div>
+</div>
+<div id="s-navigation" class="row">
+<div id="s-main-menu">
+<ul id="menu-main-menu" class="dropdown menu" data-dropdown-menu><li id="menu-item-41295" class="hide-mobile home menu-item menu-item-type-custom menu-item-object-custom menu-item-41295"><a title="Home" href="/">Home</a></li>
+<li id="menu-item-80493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80493"><a href="https://www.hmetro.co.zw/category/top-stories/">Top Stories</a></li>
+<li id="menu-item-878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-878"><a href="https://www.hmetro.co.zw/category/news/">News</a></li>
+<li id="menu-item-43023" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-43023"><a href="https://www.hmetro.co.zw/category/sport/">Sports</a></li>
+<li id="menu-item-41600" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41600"><a href="https://www.hmetro.co.zw/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-80494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80494"><a href="https://www.hmetro.co.zw/category/crime-courts/">Crime &#038; Courts</a></li>
+<li id="menu-item-66247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66247"><a href="https://www.hmetro.co.zw/category/coronavirus-watch/">CORONAVIRUS WATCH</a></li>
+<li id="menu-item-41298" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41298"><a href="#">More +</a>
+<ul class="submenu menu vertical">
+<li id="menu-item-2220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2220"><a href="https://www.hmetro.co.zw/category/editorial/">Editorial</a></li>
+<li id="menu-item-2077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2077"><a href="https://www.hmetro.co.zw/category/cartoon/">Cartoon</a></li>
+<li id="menu-item-10219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10219"><a href="https://www.hmetro.co.zw/category/social-scene-2/">Social Scene</a></li>
+<li id="menu-item-1454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1454"><a href="https://www.hmetro.co.zw/category/religion/">Religion</a></li>
+</ul>
+</li>
+<li class="s-menu-search menu-item"><form role="search" method="get" class="search-form" action="https://www.hmetro.co.zw/"><input aria-label="search box" type="search" class="search-field" placeholder="search …" value="" name="s" title="search for:" /><button type="submit" aria-label="submit search" class="search-submit" value="Search"></button></form></li></ul> </div>
+<div class="clear-float"></div>
+</div>
+
+</div>
+</header>
+<div id="main-article-section">
+
+<script type="application/ld+json">
+					{
+					  "@context": "http://schema.org",
+					  "@type": "NewsArticle",
+					  "mainEntityOfPage": {
+					    "@type": "WebPage",
+					    "@id": "https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/"
+					  },
+					  "headline": "JUST IN: LOCAL FOOTBALL GETS GREENLIGHT",
+					  "image": [
+					    "https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-200x200.jpg",
+					    "https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-360x200.jpg",
+					    "https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-680x380.jpg"
+					   ],
+					  "datePublished": "2020-10-16T17:34:02+00:00",
+					  "dateModified": "2020-10-16T17:58:19+00:00",
+					  "author": {
+					    "@type": "Organization",
+					    "name": "H-Metro"
+					  },
+					   "publisher": {
+					    "@type": "Organization",
+					    "name": "H-Metro",
+					    "logo": {
+					      "@type": "ImageObject",
+					      "url": "https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/hmetro_logo_small.jpg"
+					    }
+					  },
+					  "description": "Latwell Nyangu, H-Metro Reporter LOCAL football has been given the greenlight to resume action by the Sports Commission, on condition that it will on the bubble concept. The greenlight is for the national teams, the Premier Soccer League and the Women Soccer League, which means Division One clubs will remain sidelined in the meantime. It [&hellip;]"
+					}
+				</script>
+<div id="post-82111" class="post-82111 post type-post status-publish format-standard has-post-thumbnail hentry category-headlines category-sport tag-prince-mupazviriho tag-tebogo-motlanthe tag-zifa" role="article">
+<div class="row article-header-row">
+<div id="sirius-sticky-pos">
+<div class="article-header">
+<div class="s-meta-category">
+<ul class="post-categories">
+<li><a href="https://www.hmetro.co.zw/category/sport/" rel="category tag">Sport</a></li></ul> </div>
+<h1 id="main-article-title" class="entry-title">JUST IN: LOCAL FOOTBALL GETS GREENLIGHT</h1>
+<div id="sirius-article-meta">
+<div class="s-meta-break">
+<span class="s-meta-published-date">
+<i class="s-icon-calendar"></i>
+16 Oct, 2020 - 17:10 <time class="hide-microdata updated" datetime="2020-10-16T17:58:19+00:00">2020-10-16T17:58:19+00:00</time>
+<time class="hide-microdata published" datetime="2020-10-16T17:34:02+00:00">2020-10-16T17:34:02+00:00</time>
+</span>
+<span class="s-meta-views"><i class="s-icon-views"></i>0 Views</span>
+</div>
+<div class="s-meta-break">
+<span class="s-meta-comments">
+<i class="s-icon-comments"></i>
+<a class="comment-count" href="https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/#disqus_thread">0 Comments</a>
+</span>
+<span class="s-meta-image-count"><i class="s-icon-images"></i></span>
+</div>
+</div>
+
+<div class="sirius-social-share">
+<a class="social-link facebook" href="" id="sirius-fb-share" rel="nofollow" target="_blank" title="Share on Facebook"><i class="s-icon-facebook"></i></a>
+<a class="social-link twitter" href="" id="sirius-tweet" rel="nofollow" target="_blank" title="Tweet this Page"><i class="s-icon-twitter"></i></a>
+<a class="social-link whatsapp" href="" id="sirius-whatsapp-share" title="Share on Whatsapp"><i class="s-icon-whatsapp"></i></a>
+<a class="social-link email" href="" id="sirius-email-share" title="Email to a Friend"><i class="s-icon-sendmail"></i></a>
+</div>
+<div class="clear-float"></div>
+</div>
+</div>
+</div>
+<div class="row">
+<div id="article-body" class="sirius-content">
+<div class="s-post-thumbnail">
+<picture>
+<source media="(max-width: 380px)" data-srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-360x200.jpg">
+<source media="(min-width: 768px)" data-srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-680x380.jpg">
+<img data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A2886-680x380.jpg" alt="JUST IN: LOCAL FOOTBALL GETS GREENLIGHT">
+</picture>
+<span class="s-caption-text">LOCAL football has been given the greenlight to resume action by the Sports Commission, on condition that it will be on the bubble concept</span>
+</div>
+<div id="pluto" class="sirius-dfp-inarticle"> 
+<div id='div-gpt-ad-1552394211130-0' style='height:100px; width:320px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552394211130-0'); });
+</script>
+</div> </div>
+<div id="article-content" class="entry-content">
+<div class="vcard"><p class="fn org">H-Metro</p><img class="photo" src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/hmetro_logo_small.jpg" /></div>
+<p><strong>Latwell Nyangu, H-Metro Reporter</strong></p>
+<p>LOCAL football has been given the greenlight to resume action by the Sports Commission, on condition that it will on the bubble concept.<span id="more-82111"></span></p>
+<p>The greenlight is for the national teams, the Premier Soccer League and the Women Soccer League, which means Division One clubs will remain sidelined in the meantime.</p>
+<p><img class="lazyload wp-image-82113 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/themes/sirius/img/default_medium.jpg" data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661.jpg" alt="" width="680" height="453" data-srcset=" https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /><noscript><img class="wp-image-82113 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661.jpg" alt="" width="680" height="453" srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A0661-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /></noscript></p><div class="sirius-dfp-inarticle"> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3993920789177136" data-ad-slot="2721990121"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<p>It also remains to be seen if the PSL will organise a championship under the conditions, as the bubble concept is a costly exercise, especially considering that matches will be before empty stadiums.</p>
+<p>&nbsp;</p>
+<p>When the South African Premiership and Division One resumed in July to complete the 2019/20 season, the bill for the bubble concept stood at R100 million, at least according to South African Football Association CEO, Tebogo Motlanthe.</p>
+<p><img class="lazyload wp-image-82112 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/themes/sirius/img/default_medium.jpg" data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139.jpg" alt="" width="680" height="453" data-srcset=" https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /><noscript><img class="wp-image-82112 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139.jpg" alt="" width="680" height="453" srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A5139-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /></noscript></p><div class="sirius-dfp-inarticle"> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3993920789177136" data-ad-slot="5085742661"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<p>Teams were expected to cover their own expenses, another requirement that makes it very difficult in Zimbabwe as most clubs have no solid financial backing and often forego camping and overnight accommodation.</p>
+<p>&nbsp;</p>
+<p>In a letter to ZIFA, SRC director general, Prince Mupazviriho said:</p>
+<p><img class="lazyload wp-image-82117 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/themes/sirius/img/default_medium.jpg" data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160.jpg" alt="" width="680" height="453" data-srcset=" https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /><noscript><img class="wp-image-82117 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160.jpg" alt="" width="680" height="453" srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/IMG_3160-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /></noscript></p>
+<p>“The Sports and Recreation (SRC) hereby gives your notice, following your application, that the Minister of Youth, Sport, Arts and Recreation approved the gradual and phased resumption of football activities effective October 16 in line with the provisions of Statutory instrument 200 of 2020.</p>
+<p>&nbsp;</p><div class="sirius-dfp-inarticle"> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3993920789177136" data-ad-slot="1855631015"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<p>“Please note that approval at this initial stage is for the following:</p>
+<p><img class="lazyload wp-image-82120 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/themes/sirius/img/default_medium.jpg" data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403.jpg" alt="" width="680" height="453" data-srcset=" https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /><noscript><img class="wp-image-82120 size-full aligncenter" src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403.jpg" alt="" width="680" height="453" srcset="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403.jpg 680w, https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/287A8403-360x240.jpg 360w" sizes="(max-width: 680px) 100vw, 680px" /></noscript></p><div class="sirius-related"><h3>Related Stories:</h3><ul class="sirius-linked-articles"><li>
+<a href="https://www.hmetro.co.zw/caf-explain-nss-ban-reprieve/" rel="bookmark" title="CAF explain NSS ban reprieve"><img class="lazyimg" data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/03/national-sports-4-1-100x100.jpg" src="" /><div><span class="s-linked-article-title">CAF explain NSS ban reprieve</span><span class="s-meta-date">16 Oct, 2020</span></div></a></li><li>
+ <a href="https://www.hmetro.co.zw/murwira-welcomes-delay/" rel="bookmark" title="Murwira welcomes delay"><img class="lazyimg" data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/01/Godknows-Murwira-100x100.jpg" src="" /><div><span class="s-linked-article-title">Murwira welcomes delay</span><span class="s-meta-date">08 May, 2020</span></div></a></li><li>
+<a href="https://www.hmetro.co.zw/psl-clubs-embrace-change/" rel="bookmark" title="PSL CLUBS EMBRACE CHANGE"><img class="lazyimg" data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/10/CAPS-United-100x100.jpg" src="" /><div><span class="s-linked-article-title">PSL CLUBS EMBRACE CHANGE</span><span class="s-meta-date">06 May, 2020</span></div></a></li></ul><div class="s-slick-nav"><span><i class="s-icon-circle-left"></i></span><span><i class="s-icon-circle-right"></i></span></div></div>
+<p>“Premier Soccer Leagues teams, Women soccer league team and national soccer teams.</p>
+<p>&nbsp;</p>
+<p>“The resumption of football activities shall take the format of the mini-league using the bubble concept adopted by yourselves.</p>
+<p>&nbsp;</p>
+<p>“The football activities shall in addition to the requirements specified by the World Health Organisation (WHO) for safe resumption of sports, Statutory Instrument 200 of 2020 submitted protocols, other legislation and police directives relating to the prevention and containment of Covid-19, be subject to the following conditions:</p>
+<p>&nbsp;</p><div class="sirius-dfp-inarticle"> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3993920789177136" data-ad-slot="6457877543"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<p>“Strict adherence to the bubble concept, implementation of Standard Operating Procedures (SOPs) and ZIFA and its affiliates to provide resources and finances to undertake these activities.</p>
+<p>&nbsp;</p>
+<p>Added the statement:</p>
+<p>&nbsp;</p>
+<p>“We reiterate that this is a phased approach to resumption of football activities in the country. Assessments will be done during this initial stage on whether or not all provisions are in place and adherence to set protocols in order to inform the complete resumption of all football activities.</p>
+<p>&nbsp;</p><div class="sirius-dfp-inarticle"> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-3993920789177136" data-ad-slot="1006240312"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<p>“Please not that all the protocols for the prevention and containment of Covid-19 must be observed at all times and SRC expect strict and full compliance by all your members.”</p>
+</div>
+<div id="article-footer-social-share">
+<h4>Share This:</h4>
+
+<div class="sirius-social-share">
+<a class="social-link facebook" href="" id="sirius-fb-share" rel="nofollow" target="_blank" title="Share on Facebook"><i class="s-icon-facebook"></i></a>
+<a class="social-link twitter" href="" id="sirius-tweet" rel="nofollow" target="_blank" title="Tweet this Page"><i class="s-icon-twitter"></i></a>
+<a class="social-link whatsapp" href="" id="sirius-whatsapp-share" title="Share on Whatsapp"><i class="s-icon-whatsapp"></i></a>
+<a class="social-link email" href="" id="sirius-email-share" title="Email to a Friend"><i class="s-icon-sendmail"></i></a>
+</div>
+</div>
+<div id="article-more-stories">
+<div class="sirius-more"><h3>More Stories:</h3><ul class="sirius-linked-articles"><li>
+<a href="https://www.hmetro.co.zw/stock-market-sustains-bearish-trend/" rel="bookmark" title="Stock market sustains bearish trend"><img data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/tRADE-100x100.jpg" /><div><span class="s-linked-article-title">Stock market sustains bearish trend</span><span class="s-meta-date">16 Oct, 2020</span></div></a></li><li>
+<a href="https://www.hmetro.co.zw/treasury-projects-7-4-gdp-growth-rate-for-2021-double-digit-inflation/" rel="bookmark" title="Treasury projects 7.4% GDP growth rate for 2021, double digit inflation"><img data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/12/mthuli-ncube-minister-of-finance-100x100.jpg" /><div><span class="s-linked-article-title">Treasury projects 7.4% GDP growth rate f...</span><span class="s-meta-date">16 Oct, 2020</span></div></a></li><li>
+<a href="https://www.hmetro.co.zw/zekumbawire-chickens-out/" rel="bookmark" title="Zekumbawire chickens out"><img data-lazy="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Francisco-Zekumbawire-100x100.jpg" /><div><span class="s-linked-article-title">Zekumbawire chickens out</span><span class="s-meta-date">16 Oct, 2020</span></div></a></li></ul><div class="s-slick-nav"><span><i class="s-icon-circle-left"></i></span><span><i class="s-icon-circle-right"></i></span></div></div> </div> 
+<div id="article-widgets">
+<div id="custom_html-6" class="widget_text sirius-inarticle widget widget_custom_html"><h3>Sponsored Links</h3><div class="textwidget custom-html-widget">
+<style>
+    table#wd-sponsored {
+      width: 100%;
+      /*max-width: 350px !important;*/
+      background: #fefefe !important;
+      margin: 0; 
+      border-collapse: collapse
+      border: none;
+      border-top: 6px solid #d26c07 !important; 
+      border-bottom: 6px solid #185ff9 !important; 
+      /*font-family: verdana, sans-serif !important; */
+      font-size: 13px !important; 
+      font-weight: 500 !important; 
+    }
+
+    #wd-sponsored td {border: none !important; padding: .5em 0 .6em !important;}
+
+    #wd-sponsored a { 
+      display: block !important; 
+      padding-bottom: .5em !important; 
+      text-decoration: none !important; 
+      /*font-family: verdana, sans-serif !important;*/
+      font-size: 13px !important; 
+      font-weight: 500 !important;
+    }
+
+    #wd-sponsored a:hover {text-decoration: underline !important;}
+    #wd-sponsored a.poto {color: #185ff9 !important;}
+    #wd-sponsored a.wdzw {color: #ee6628 !important;}
+    #wd-sponsored a.clzw {color: #5d4a41 !important;}
+    #wd-sponsored td a:last-child {padding-bottom: 0 !important;}
+
+
+    table#wd-sponsored.tablet-article-footer, table#wd-sponsored.mobile-article-footer {max-width: 100% !important}
+    table#wd-sponsored.tablet-article-footer a, table#wd-sponsored.mobile-article-footer a {padding-bottom: 1.2em !important;}
+    table#wd-sponsored.tablet-article-footer td {padding: 1em 0 1.2em !important;}
+
+    .sirius-inarticle.widget {border: none !important; padding: 0 !important;}
+
+    @media(min-width: 768px) and (max-width: 1120px){ table#wd-sponsored.tablet-article-footer { display: table !important; }  }
+    @media(max-width: 767px) { table#wd-sponsored.mobile-article-footer { display: table !important; } table#wd-sponsored.tablet-article-footer { display: none !important; } }
+    
+  </style>
+<table id="wd-sponsored" class="tablet-article-footer hide-desktop">
+<tbody>
+<tr>
+<td>
+<a class="clzw" href="https://www.classifieds.co.zw/" title="Zimbabwe Classifieds Property, Cars, Electronics, Jobs" target="_blank"><strong>Classifieds</strong></a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-electronics-160" title="Electronics for sale in Zimbabwe" target="_blank">Electronics</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-cars-vehicles-15" title="Cars & Vehicles for sale in Zimbabwe" target="_blank">Cars & Parts</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-building-supplies-24763" title="Building Supplies in Zimbabwe" target="_blank">Building Supplies</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-services-24369" title="Services in Zimbabwe" target="_blank">Services</a>
+<a class="clzw" href="https://www.property.co.zw" title="Property in Zimbabwe - Rent & Buy Real Estate" target="_blank">Property, Houses</a>
+</td>
+<td>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-home-garden-kids-17" title=" Home, Garden & Kids for sale in Zimbabwe" target="_blank">Home & Garden</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-leisure-sports-travel-24774" title="Leisure, Sports & Travel" target="_blank">Leisure & Travel</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-commercial-supplies-24778" title="Commercial Supplies for sale in Zimbabwe" target="_blank">Commercial Supplies</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-health-fashion-beauty-24733" title="Fashion & Beauty in Zimbabwe" target="_blank">Fashion & Beauty</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-jobs-14" title="Jobs in Zimbabwe" target="_blank">Jobs</a>
+<a class="clzw" href="#" title="blank" target="_blank">&nbsp;</a>
+</td>
+<td>
+<a class="poto" href="https://www.paynow.co.zw/" title="Zimbabwe Online Payments" target="_blank"><strong>Online Payments</strong></a>
+<a class="poto" href="https://www.topup.co.zw/" title="Pay Bills, Buy Airtime & Vouchers Online" target="blank">Airtime & Bills</a>
+<a class="poto" href="https://www.topup.co.zw/pay/zesa-prepaid-electricity-token" title="Buy ZESA Prepaid Electricity Online" target="_blank">Prepaid Electricity</a>
+<a class="poto" href="https://www.topup.co.zw/pay/city-of-harare" title="Pay City of Harare Rates Online" target="_blank">City of Harare</a>
+<a class="poto" href="https://www.topup.co.zw/buy-netone-onefusion-vouchers-online" title="Buy NetOne OneFusion Bundles Online" target="_blank">NetOne OneFusion</a>
+<a class="poto" href="https://www.topup.co.zw/buy-telone-adsl-vouchers-online" title="Pay TelOne ADSL Online" target="_blank">Pay TelOne ADSL</a>
+
+</td>
+<td>
+<a class="wdzw" href="https://www.webdev.co.zw/web-design-development/" title="Web Design & Development Zimbabwe" target="_blank"><strong>Web Development</strong></a>
+<a class="wdzw" href="https://www.webdev.co.zw/domain-registration/" title="Domain Registration Zimbabwe" target="_blank">Domain Registration</a>
+<a class="wdzw" href="https://www.webdev.co.zw/email-hosting/" title="Email Hosting Zimbabwe" target="_blank">Email Hosting</a>
+<a class="wdzw" href="https://www.webdev.co.zw/hosting/" title="Web Hosting Zimbabwe" target="_blank">Web Hosting</a>
+<a class="wdzw" href="#" title="blank" target="_blank">&nbsp;</a>
+<a class="wdzw" href="#" title="blank" target="_blank">&nbsp;</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="wd-sponsored" class="mobile-article-footer hide-desktop">
+<tbody>
+<tr>
+<td>
+<a class="clzw" href="https://www.classifieds.co.zw/" title="Zimbabwe Classifieds Property, Cars, Electronics, Jobs" target="_blank"><strong>Classifieds</strong></a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-electronics-160" title="Electronics for sale in Zimbabwe" target="_blank">Electronics</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-cars-vehicles-15" title="Cars & Vehicles for sale in Zimbabwe" target="_blank">Cars & Parts</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-building-supplies-24763" title="Building Supplies in Zimbabwe" target="_blank">Building Supplies</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-services-24369" title="Services in Zimbabwe" target="_blank">Services</a>
+<a class="clzw" href="https://www.property.co.zw" title="Property in Zimbabwe - Rent & Buy Real Estate" target="_blank">Property, Houses</a>
+</td>
+<td style="text-align: right;">
+<a class="poto" href="https://www.paynow.co.zw/" title="Zimbabwe Online Payments" target="_blank"><strong>Online Payments</strong></a>
+<a class="poto" href="https://www.topup.co.zw/" title="Pay Bills, Buy Airtime & Vouchers Online" target="_blank">Airtime & Bills</a>
+<a class="poto" href="https://www.topup.co.zw/pay/zesa-prepaid-electricity-token" title="Buy ZESA Prepaid Electricity Online" target="_blank">Prepaid Electricity</a>
+<a class="wdzw" href="https://www.webdev.co.zw/web-design-development/" title="Web Design & Development Zimbabwe" target="_blank"><strong>Web Development</strong></a>
+<a class="wdzw" href="https://www.webdev.co.zw/domain-registration/" title="Domain Registration Zimbabwe" target="_blank">Domain Registration</a>
+<a class="wdzw" href="https://www.webdev.co.zw/hosting/" title="Web Hosting Zimbabwe" target="_blank">Web Hosting</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div></div> </div> 
+<div id="article-comments">
+<div id="comments" class="comments-area">
+<div id="disqus_thread"></div>
+
+<script>
+
+	var disqus_config = function () {
+		this.page.url = "https://www.hmetro.co.zw/just-in-local-football-gets-greenlight/";
+		this.page.identifier = "82111 https://www.hmetro.co.zw/?p=82111";
+		//this.page.identifier = "82111";
+		this.page.title = "JUST IN: LOCAL FOOTBALL GETS GREENLIGHT";
+	};
+	(function() {
+		var d = document, s = d.createElement('script');
+			
+		s.src = 'https://hmetro.disqus.com/embed.js';
+			
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+	})();
+	</script>
+<noscript>Please enable JavaScript to view comments powered by Disqus.</noscript>
+</div> </div> 
+</div> 
+<aside id="sirius-sidebar">
+<div class="sirius-sidebar">
+<div id="custom_html-8" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395577819-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395577819-0'); });
+</script>
+</div></div></div><div id="custom_html-2" class="widget_text sirius-widget widget widget_custom_html"><h4 class="widgettitle">Sponsored Links</h4><div class="textwidget custom-html-widget">
+<style>
+    table#wd-sponsored {
+      width: 100%;
+      max-width: 350px !important;
+      background: #fefefe !important;
+      margin: 0; 
+      border-collapse: collapse
+      border: none;
+      border-top: 6px solid #d26c07 !important; 
+      border-bottom: 6px solid #185ff9 !important; 
+      /*font-family: verdana, sans-serif !important; */
+      font-size: 13px !important; 
+      font-weight: 500 !important; 
+    }
+
+    #wd-sponsored td { border: none !important; padding: .5em 0 .6em !important; }
+
+    #wd-sponsored a { 
+      display: block !important; 
+      padding-bottom: .5em !important; 
+      text-decoration: none !important; 
+      /*font-family: verdana, sans-serif !important;*/
+      font-size: 13px !important; 
+      font-weight: 500 !important;
+    }
+
+    #wd-sponsored a:hover { text-decoration: underline !important; }
+    #wd-sponsored a.poto {color: #185ff9 !important;}
+    #wd-sponsored a.wdzw {color: #ee6628 !important;}
+    #wd-sponsored a.clzw {color: #5d4a41 !important;}
+    #wd-sponsored td a:last-child { padding-bottom: 0 !important; }
+
+
+    #wd-sponsored.sponsored-sidebar a { padding-bottom: .8em !important; }
+    
+  </style>
+<table id="wd-sponsored" class="sponsored-sidebar">
+<tbody>
+<tr>
+<td>
+<a class="clzw" href="https://www.classifieds.co.zw/" title="Zimbabwe Classifieds Property, Cars, Electronics, Jobs" target="_blank"><strong>Classifieds</strong></a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-electronics-160" title="Electronics for sale in Zimbabwe" target="_blank">Electronics</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-cars-vehicles-15" title="Cars & Vehicles for sale in Zimbabwe" target="_blank">Cars & Parts</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-building-supplies-24763" title="Building Supplies in Zimbabwe" target="_blank">Building Supplies</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-services-24369" title="Services in Zimbabwe" target="_blank">Services</a>
+<a class="clzw" href="https://www.property.co.zw" title="Property in Zimbabwe - Rent & Buy Real Estate" target="_blank">Property, Houses</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-home-garden-kids-17" title=" Home, Garden & Kids for sale in Zimbabwe" target="_blank">Home & Garden</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-leisure-sports-travel-24774" title="Leisure, Sports & Travel" target="_blank">Leisure & Travel</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-commercial-supplies-24778" title="Commercial Supplies for sale in Zimbabwe" target="_blank">Commercial Supplies</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-health-fashion-beauty-24733" title="Fashion & Beauty in Zimbabwe" target="_blank">Fashion & Beauty</a>
+<a class="clzw" href="https://www.classifieds.co.zw/en/zimbabwe-jobs-14" title="Jobs in Zimbabwe" target="_blank">Jobs</a>
+</td>
+<td style="text-align: right;">
+<a class="wdzw" href="https://www.webdev.co.zw/web-design-development/" title="Web Design & Development Zimbabwe" target="_blank"><strong>Web Development</strong></a>
+<a class="wdzw" href="https://www.webdev.co.zw/domain-registration/" title="Domain Registration Zimbabwe" target="_blank">Domain Registration</a>
+<a class="wdzw" href="https://www.webdev.co.zw/email-hosting/" title="Email Hosting Zimbabwe" target="_blank">Email Hosting</a>
+<a class="wdzw" href="https://www.webdev.co.zw/hosting/" title="Web Hosting Zimbabwe" target="_blank">Web Hosting</a>
+<a class="poto" href="https://www.paynow.co.zw/" title="Zimbabwe Online Payments" target="_blank"><strong>Online Payments</strong></a>
+<a class="poto" href="https://www.topup.co.zw/" title="Pay Bills, Buy Airtime & Vouchers Online" target="_blank">Airtime & Bills</a>
+<a class="poto" href="https://www.topup.co.zw/pay/zesa-prepaid-electricity-token" title="Buy ZESA Prepaid Electricity Online" target="_blank">Prepaid Electricity</a>
+<a class="poto" href="https://www.topup.co.zw/pay/city-of-harare" title="Pay City of Harare Rates Online" target="_blank">City of Harare</a>
+<a class="poto" href="https://www.topup.co.zw/buy-netone-onefusion-vouchers-online" title="Buy NetOne OneFusion Bundles Online" target="_blank">NetOne OneFusion</a>
+<a class="poto" href="https://www.topup.co.zw/buy-telone-adsl-vouchers-online" title="Pay TelOne ADSL Online" target="_blank">Pay TelOne ADSL</a>
+<a class="poto" href="https://www.topup.co.zw/broadband" title="Pay for ADSL, Fibre & Mobile Broadband Subscriptions Online" target="_blank">Broadband Vouchers</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div></div><div id="custom_html-3" class="widget_text sirius-widget widget widget_custom_html"><h4 class="widgettitle">Sign Up To Our Newsletter</h4><div class="textwidget custom-html-widget"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-41417" method="post" data-id="41417" data-name="Daily Newsletter Subscription"><div class="mc4wp-form-fields"><p>Receive news headlines directly to your inbox, daily!</p>
+<p><input type="email" name="EMAIL" placeholder="Enter Your email address" required="" /></p>
+<p><input class="btn s-accent-btn" type="submit" value="Subscribe"></p>
+<label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1602863915" /><input type="hidden" name="_mc4wp_form_id" value="41417" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form></div></div><div id="custom_html-15" class="widget_text sirius-widget widget widget_custom_html"><h4 class="widgettitle">ZTN &#8211; The Mint</h4><div class="textwidget custom-html-widget"><iframe width="339" height="190" src="https://www.youtube.com/embed/videoseries?list= PL0iiXxxT9DUsoTAqzthAezt5VXuXTtJHi" frameborder="0" autoplay="1" controls="0" allowfullscreen modestbranding></iframe></div></div> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-9" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395606951-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395606951-0'); });
+</script>
+</div></div></div><div id="" class="sirius-widget widget miniloops"><h4 class="widgettitle">What's Trending</h4><ul class="sirius-loop-articles mcp"><li><a href="https://www.hmetro.co.zw/zim-artiste-shot-on-face-in-sa/" title="ZIM ARTISTE SHOT ON FACE IN SA"><picture><img data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/LEAD-200x100.jpg" class="loading" alt="ZIM ARTISTE SHOT ON FACE IN SA" width="200" height="100"></picture><h5>ZIM ARTISTE SHOT ON FACE IN SA</h5></a><span class="clear-float"></span></li><li><a href="https://www.hmetro.co.zw/nox-doubles-performance-fee/" title="Nox doubles performance fee"><picture><img data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Nox-200x100.jpg" class="loading" alt="Nox doubles performance fee" width="200" height="100"></picture><h5>Nox doubles performance fee</h5></a><span class="clear-float"></span></li><li><a href="https://www.hmetro.co.zw/muvheti-urges-use-of-shona/" title="Muvheti urges use of Shona"><picture><img data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Muvheti-urges-use-of-Shona-Muvheti-200x100.jpg" class="loading" alt="Muvheti urges use of Shona" width="200" height="100"></picture><h5>Muvheti urges use of Shona</h5></a><span class="clear-float"></span></li><li class="sponsored"><span>Sponsored Article</span><img src="https://placehold.it/339x101/ffffff?text=1"></li><li><a href="https://www.hmetro.co.zw/diamond-studio-turns-digital-signs-desolo-b/" title="Diamond Studio turns digital, signs Desolo B"><picture><img data-src="https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Diamond-boss1-200x100.jpg" class="loading" alt="Diamond Studio turns digital, signs Desolo B" width="200" height="100"></picture><h5>Diamond Studio turns digital, signs Desolo B</h5></a><span class="clear-float"></span></li></ul></div><style>.sirius-sidebar .sirius-loop-articles.mcp li::after{content:"";display:table;clear:both}.sirius-sidebar .sirius-loop-articles.mcp li{min-height:0}.sirius-sidebar .sirius-loop-articles.mcp li img{display:block;float:none}.sirius-sidebar .sirius-loop-articles.mcp li picture{float:left}.sponsored>span{display:block;margin:5px auto;font-size:10px;text-transform:uppercase;color:#676666;}.sponsored>span:after{content:"Ad";display:block;float:right;border:1px solid #00aecd;padding:0px 5px;color:#00aecd;font-weight:bold;text-transform:capitalize;border-radius:3px;}</style> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-10" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395637982-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395637982-0'); });
+</script>
+</div></div></div><div id="miniloops-3" class="sirius-widget widget miniloops"><h4 class="widgettitle">Entertainment</h4><ul class="sirius-loop-articles"><li>
+<a href="https://www.hmetro.co.zw/zim-artiste-shot-on-face-in-sa/" title="ZIM ARTISTE SHOT ON FACE IN SA"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/LEAD-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>ZIM ARTISTE SHOT ON FACE IN SA</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/nox-doubles-performance-fee/" title="Nox doubles performance fee"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Nox-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Nox doubles performance fee</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/muvheti-urges-use-of-shona/" title="Muvheti urges use of Shona"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Muvheti-urges-use-of-Shona-Muvheti-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Muvheti urges use of Shona</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/diamond-studio-turns-digital-signs-desolo-b/" title="Diamond Studio turns digital, signs Desolo B"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/10/Diamond-boss1-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Diamond Studio turns digital, signs Desolo B</h5></a>
+<span class="clear-float"></span>
+</li></ul></div> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-11" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395669593-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395669593-0'); });
+</script>
+</div></div></div><div id="miniloops-2" class="sirius-widget widget miniloops"><h4 class="widgettitle">Hot on Radio</h4><ul class="sirius-loop-articles"><li>
+<a href="https://www.hmetro.co.zw/noxy-in-new-venture/" title="Noxy in new venture"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/08/Noxy-1a-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Noxy in new venture</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/prize-money-for-star-fm-winners/" title="Prize money for Star FM winners"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2020/02/Alick-Macheso-dances-after-winning-an-award-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Prize money for Star FM winners</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/star-fm-listener-gets-makeover/" title="Star FM listener gets makeover"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/12/Phathisani-Sibanda-and-KVG-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Star FM listener gets makeover</h5></a>
+<span class="clear-float"></span>
+</li><li>
+<a href="https://www.hmetro.co.zw/mai-judah-scoops-award/" title="Mai Judah scoops award"><img src='https://www.hmetro.co.zw/wp-content/uploads/sites/33/2019/11/MAI-JUDAH-ml-200x100.jpg' width='200' height='100' class='' alt='' /><h5>Mai Judah scoops award</h5></a>
+<span class="clear-float"></span>
+</li></ul></div> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-12" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395834439-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395834439-0'); });
+</script>
+</div></div></div> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-13" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395862898-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395862898-0'); });
+</script>
+</div></div></div> </div>
+<div class="sirius-sidebar">
+<div id="custom_html-14" class="widget_text sirius-widget widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='div-gpt-ad-1552395892381-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552395892381-0'); });
+</script>
+</div></div></div> </div>
+</aside>
+<div class="clear-float"></div>
+</div> 
+</div>
+</div>
+<div id="charon-section">
+<div class="row">
+<div class="s-charon">
+
+<div id='div-gpt-ad-1552394079164-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1552394079164-0'); });
+</script>
+</div> </div>
+</div>
+</div>
+<div id="footer-section">
+<div id="sirius-extra-footer" class="row">
+</div>
+<div class="row">
+<div class="s-footer-column">
+<div id="custom_html-7" class="widget_text sirius-footer widget widget_custom_html"><h4 class="widgettitle">Contact Us</h4><div class="textwidget custom-html-widget"> 
+<div id="footer-social-share">
+<a class="footer-social-link facebook" href="https://www.facebook.com/HMetroZimpapers" rel="nofollow" target="_blank" title="Share on Facebook"><i class="s-icon-facebook-color"></i></a>
+<a class="footer-social-link twitter" href="https://twitter.com/hmetro_" rel="nofollow" target="_blank" title="Follow us on twitter"><i class="s-icon-twitter-color"></i></a>
+<a class="footer-social-link instagram" href="https://www.instagram.com/hmetrozimpapers" rel="nofollow" target="_blank" title="Find us on Instagram"><i class="s-icon-instagram-color"></i></a>
+<a class="footer-social-link youtube" href="https://www.youtube.com/channel/UCoG0dKssZ3Eh0vl9dRGDc2g?view_as=subscriber" rel="nofollow" target="_blank" title="Subscribe to our YouTube Channel"><i class="s-icon-youtube-color"></i></a>
+</div>
+<br>
+<p>Herald House<br />
+Cnr George Silundika & Sam Nujoma<br />
+Harare<br />
+Phone: +263 024 795771<br />
+Email Us: <a class="s-accent-color" href="/contact-us" title="Email us">Contact US</a>
+</p></div></div> </div>
+<div class="s-footer-column">
+<div id="nav_menu-2" class="sirius-footer widget widget_nav_menu"><h4 class="widgettitle">Other Publications</h4><div class="menu-footer-publications-container"><ul id="menu-footer-publications" class="menu"><li id="menu-item-41393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41393"><a href="http://www.b-metro.co.zw/">B-Metro</a></li>
+<li id="menu-item-41395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41395"><a href="http://www.umthunywa.co.zw/">uMthunywa</a></li>
+<li id="menu-item-41397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41397"><a href="https://www.herald.co.zw/">The Herald</a></li>
+<li id="menu-item-41400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41400"><a href="https://www.chronicle.co.zw/">Chronicle</a></li>
+<li id="menu-item-41401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41401"><a href="http://www.sundaymail.co.zw/">The Sunday Mail</a></li>
+</ul></div></div> </div>
+<div class="s-footer-column">
+<div id="nav_menu-3" class="sirius-footer widget widget_nav_menu"><h4 class="widgettitle">Categories</h4><div class="menu-footer-categories-container"><ul id="menu-footer-categories" class="menu"><li id="menu-item-41386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41386"><a href="https://www.hmetro.co.zw/category/celebrity/">Celebrity</a></li>
+<li id="menu-item-41385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41385"><a href="https://www.hmetro.co.zw/category/city-watch/">City Watch</a></li>
+<li id="menu-item-41383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41383"><a href="https://www.hmetro.co.zw/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-41389" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-41389"><a href="https://www.hmetro.co.zw/category/sport/">Sport</a></li>
+</ul></div></div> </div>
+<div class="s-footer-column">
+<div id="nav_menu-4" class="sirius-footer widget widget_nav_menu"><h4 class="widgettitle">Subscribe</h4><div class="menu-footer-subscribe-container"><ul id="menu-footer-subscribe" class="menu"><li id="menu-item-41406" class="s-user-printsub menu-item menu-item-type-custom menu-item-object-custom menu-item-41406"><a title="Paper Subscription" target="_blank" href="http://printhub.co.zw/subscribe">Paper Subscription</a></li>
+<li id="menu-item-41409" class="s-user-subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-41409"><a title="About Zimpapers" target="_blank" href="https://www.herald.co.zw/about-zimpapers/">About Zimpapers</a></li>
+<li id="menu-item-41411" class="s-user-newsletter menu-item menu-item-type-custom menu-item-object-custom menu-item-41411"><a title="Newsletter Subscription" href="/subscribe">Newsletter Subscription</a></li>
+<li id="menu-item-41413" class="s-user-advertise menu-item menu-item-type-custom menu-item-object-custom menu-item-41413"><a title="Advertise" target="_blank" href="http://printhub.co.zw/advertise">Advertise</a></li>
+</ul></div></div> </div>
+<div class="clear-float"></div>
+</div>
+</div>
+<div id="copyright-section">
+<div class="row">
+<div class="sirius-copyright-info">
+<p>&copy; 2020 H-Metro | <a href="/disclaimer">Disclaimer</a> | <a href="/copyright">Copyright</a></p>
+</div>
+<div class="sirius-site-info">
+<a href="http://www.webdev.co.zw/" title="Site By Webdev"><img src="https://www.hmetro.co.zw/wp-content/themes/sirius/img/sirius_logo.png" alt="WD-Sirius" /><p>Site & Hosting by Webdev</p></a>
+<div class="clear-float"></div>
+</div>
+<div class="clear-float"></div>
+</div>
+</div>
+</div> 
+<div id="s-mobile-utils">
+
+<div class="sirius-social-share">
+<a class="social-link facebook" href="" id="sirius-fb-share" rel="nofollow" target="_blank" title="Share on Facebook"><i class="s-icon-facebook"></i></a>
+<a class="social-link twitter" href="" id="sirius-tweet" rel="nofollow" target="_blank" title="Tweet this Page"><i class="s-icon-twitter"></i></a>
+<a class="social-link whatsapp" href="" id="sirius-whatsapp-share" title="Share on Whatsapp"><i class="s-icon-whatsapp"></i></a>
+<a class="social-link email" href="" id="sirius-email-share" title="Email to a Friend"><i class="s-icon-sendmail"></i></a>
+</div>
+</div>
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><link rel='stylesheet' id='merriweather-font-css' href='https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700|Merriweather:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='siriusicons-css' href='https://www.hmetro.co.zw/wp-content/themes/sirius/fonts/sirius_icons/sirius_icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.hmetro.co.zw/wp-content/themes/sirius/js/slick/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lightgallery-css' href='https://www.hmetro.co.zw/wp-content/themes/sirius/js/lg/css/lightgallery.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lgtransitions-css' href='https://www.hmetro.co.zw/wp-content/themes/sirius/js/lg/css/lg-transitions.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/themes/sirius/js/jquery-3.2.1.min.js'></script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/themes/sirius/js/verlok.lazyload.min.js'></script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/themes/sirius/js/slick/slick.min.js'></script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/themes/sirius/js/lg/js/lightgallery-all.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var siriusjs = {"home":"https:\/\/www.hmetro.co.zw\/wp-content\/themes\/sirius","twitter_username":"hmetro_","multimedia_pictures_api_url":"\/wp-json\/wp\/v2\/posts\/?categories=213&per_page=7&_embed","multimedia_cartoons_api_url":"\/wp-json\/wp\/v2\/posts\/?categories=225&per_page=7&_embed"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/themes/sirius/js/sirius.min.js'></script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-includes/js/wp-embed.min.js?ver=4.8.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.14'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://www.hmetro.co.zw/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.14'></script>
+<![endif]-->
+<script id="dsq-count-scr" src="https://hmetro.disqus.com/count.js" async></script>
+
+<script type="text/javascript" id="dsq-count-scr" src="//hmetro.disqus.com/count.js" async></script>
+<style>
+.s-yt-item img { width: 100%; }
+#article-body .s-meta-author { display: none; }
+#request-filesystem-credentials-form { display: none !important; }
+
+@media(max-width: 769px){
+#sirius-bg-takeover iframe[id^=google_ads_iframe_][width='728'] { height: 90px; padding-top: 0; }
+}
+#front-page #custom_html-2 { display: none; }
+#front-page .paged #custom_html-2 { display: block; }
+#sirius-sidebar table.sponsored { margin: 0; }
+#sirius-sidebar .sponsored a {display: block;padding-bottom: .5em; font-size: .8em; }
+.blogger-split { float: left; width: 50%; }
+.blogger img { float: left; margin-right: 1em; }
+@media(max-width: 769px){ 
+#menu-item-402812 { border-radius: 2px; margin-right: 1.5em; }
+.blogger-split { float: none; width: 100%; } 
+#s-top-stories-widgets { display:block !important; margin-top: 3em; }
+#s-top-stories-widgets .hide-mobile { display:none !important; }
+#s-top-stories-widgets .hide-desktop .sponsored a { padding-bottom: .7em; }
+ }
+#sm-top-stories-widgets .sponsored a { padding-bottom: .5em; color: grey; }
+.zimpapers-digital a { color: #dc3030; font-weight: bold; }
+body.page #page-content p {line-height: 1.5em;}
+.s-meta-views { display: none; }
+.liveblog-author-avatar,
+.liveblog-author-name {display: none;}
+</style>
+<style>
+/* article mobile footer sponsored links */
+.sirius-inarticle.widget {border: none !important; padding: 0 !important;}
+@media(min-width: 1121px) { #article-widgets #custom_html-18 { display: none !important; } }
+</style>
+<script type="text/javascript">
+// Radio Links Modal
+$(document).ready(function(){ 
+	$(".all-player > a").click(function() { window.open('http://starfm.co.zw/player/', 'Radio LiveStream', 'width=400,height=800,resizable=1'); });
+	$(".starfm-player > a").click(function() { window.open('http://www.starfm.co.zw/livestream', 'StarFM LiveStream', 'width=400,height=800,resizable=1'); });
+	$(".diamondfm-player > a").click(function() { window.open('http://diamondfm.co.zw/livestream', 'Diamond FM LiveStream', 'width=400,height=800,resizable=1'); });
+	$(".capitalkfm-player > a").click(function() { window.open('http://capitalkfm.com/livestream', 'Capitalk FM LiveStream', 'width=400,height=800,resizable=1'); });
+	$(".nyaminyamifm-player > a").click(function() { window.open('http://nyaminyamifm.co.zw/livestream', 'Nyami Nyami FM LiveStream', 'width=400,height=800,resizable=1'); });
+});
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.hmetro.co.zw",
+  "logo": "http://hmetro.zimpapersnetwork.co.zw/wp-content/uploads/sites/33/2019/03/hmetro_site_icon.png",
+  "sameAs": [
+    "https://www.facebook.com/HMetroZimpapers/",
+    "https://twitter.com/hmetro_",
+    "https://www.youtube.com/user/Zimpapers"
+  ]
+}
+</script>
+
+<script type="text/javascript">
+if(window.innerWidth < 767){ $("#menu-main-menu > .election-link").on('touchstart',function(e){ $(this).toggleClass( "s-m-s-highlight" ); e.preventDefault();  }); $("#menu-main-menu > .election-link .submenu li").on('touchstart',function(e){ e.stopPropagation();  }); }
+</script>
+<style type="text/css">
+ul.dropdown.menu li.menu-item-has-children.s-m-s-highlight:after { content: 'X - CLOSE'; display: block; box-sizing: border-box; width: 100%; height: auto; background: #000; color: #fff; padding: .8em !important; font-weight: bold; cursor: pointer; }
+ul.dropdown.menu li.menu-item-has-children.s-m-s-highlight ul { display:block; position: relative; width: auto; }
+ul.dropdown.menu li.menu-item-has-children.s-m-s-highlight .submenu li { padding-top: 1em; padding-bottom: 1em; }
+</style>
+</body>
+</html>
