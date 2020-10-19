@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+  
+  <head>
+    
+    <title>Build your digital presence with Paper.li</title>
+    <meta charset="utf-8">
+      <meta content="Build your digital presence with Paper.li" data-react-helmet="true" property="og:title" />
+  <meta content="We&#x27;ll bring you daily content on the topics you choose, to add to your own webpage, share on social and deploy your newsletter. Market yourself and your ideas." data-react-helmet="true" property="og:description" />
+  <meta content="website" property="og:type" />
+  <meta content="https://paper.li/chapin4u/1534892138?edition_id=d550afb0-1013-11eb-bc7e-0cc47a0d1605%0A" property="og:url" />
+  <meta content="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" rel="image_src" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="apple-touch-icon" href="/favicon.ico">
+
+    
+  <link rel="dns-prefetch" href="//img.paper.li">
+  <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.imageproxy_token = {"tokenValidity":"1602978312791","token":"f73625205893dcb0c913e9dc81d8e3629a640019"};
+      paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
+    </script>
+
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/application-2e0b5a091cefaa925fd5e0827bff4d30.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/icons-5e81c14961e53668202ba1529aa93dee.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>    
+
+    <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+  
+  // Wait for the asynchronous resources to load
+  twttr.ready(function(twttr) {
+    _ga.trackTwitter(); //Google Analytics tracking
+  });
+</script>
+
+
+    <!-- vendor plugins -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-a9c986d4e0336fcddaa6f475becab578.js" type="text/javascript"></script>
+
+    <!-- language -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-e10311ba0c4fa94784e06f873e57c7b7.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-bad07f6123cd7b8cb7b80ef15d047e3f.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-b7fb7788d0db87c7a1285ccc95fce495.js" type="text/javascript"></script>
+
+    <!-- plugin language initialization -->
+    
+    
+
+      <script type="text/javascript">
+        paperli.reCaptcha = '6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg';
+      </script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg" type="text/javascript"></script>
+    
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+
+    <!-- main inclusion -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-0dd6ef7a4a34b821ae726c841f1842be.js" type="text/javascript"></script>
+
+    
+    
+  </head>
+  <body class=" ">
+    <script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+  
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHR7NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+  
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="page-wrapper">
+      <!-- WEBSITE MAIN WRAPPER -->
+      <div id="wrapper" class="page-frame">
+          <!-- Main header with sidebar controls -->
+            <div class="nav-controls ">
+    
+    <div class="controls-left">
+      <a id="ls_control" href="/" class="cnt-sidebar">
+        <i class="fa fa-bars fa-lg visible-phone"></i>
+        <img class="paperli-logo logo-black" alt="Paper.li" src="//d2k854fi3lpqb8.cloudfront.net/assets/logos/logo_paperli_dark-703245db4e6e29c72e73634f6241a416.svg" />
+      </a>
+    </div>
+    
+    <div class="controls-right hidden-phone">
+    </div>
+  </div>
+
+          
+          <!-- Custom header -->
+  
+        <!-- Sticky container for flash messages -->
+        <div id="sticky-container">
+          
+          <div id="flash-message-js"></div>
+        </div>
+    
+        <!-- Main content -->
+        <div class="container">
+  <div class="hero-unit center-text margin-top-100px">
+    <h2>The page you were looking for doesn't exist.</h2>
+    <p>You may have mistyped the address or the page may have moved.</p>
+  </div>
+</div>
+  
+        <!-- ALERTS AND NOTIFICATIONS AREA -->
+        <div id="alerts">
+          
+<div id="cookies_banner" class="m-banner m-warning">
+  <div class="message"></div>
+</div>
+          
+<div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
+  <div class="message"></div>
+</div>
+
+          <noscript>
+  <div class="container">
+    <div class="hero-unit center-text margin-top-100px">
+      <h2>#Power BI* Daily</h2>
+      <p>A selection of articles, blog posts, videos and photos recommended by John O. Knoke</p>
+      <p class="muted">Please enable Javascript to correctly display the content on Paper.li</p>
+    </div>
+  </div>
+</noscript>
+        </div>
+  
+        <div id="push"></div>
+      </div>
+      <!-- Main footer -->
+      <div id="footer" class="page-row">
+        <div class="footer">
+  <ul class="footer-menu">
+    <li>
+        <a href="https://about.paper.li/about/" data-navigation="About Paper.li" rel="noopener" target="_blank">About Paper.li</a>
+    </li>
+    <li><a href="https://blog.paper.li" data-navigation="Blog">Blog</a></li>
+    <li><a href="https://support.paper.li" data-navigation="Help">Help</a></li>
+    <li><a href="/stop-mentions.html" data-navigation="Stop mentions">Stop mentions</a></li>
+    <li><a href="/terms.html" data-navigation="Terms">Terms</a></li>
+    <li><a href="/privacy.html" data-navigation="Privacy">Privacy</a> </li>
+  </ul>
+  <ul class="footer-social">
+    <li><a href="https://twitter.com/paper_li" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.facebook.com/pages/Paperli/199618576802286" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://www.instagram.com/paperli_/" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
+  </ul>
+  <ul class="footer-languages" >
+    <li><a href="/chapin4u/1534892138?lang=en" class="current">EN</a></li>
+    <li><a href="/chapin4u/1534892138?lang=de" class="">DE</a></li>
+    <li><a href="/chapin4u/1534892138?lang=fr" class="">FR</a></li>
+    <li><a href="/chapin4u/1534892138?lang=es" class="">ES</a></li>
+    <li><a href="/chapin4u/1534892138?lang=pt" class="">PT</a></li>
+  </ul>
+  <div class="copyright">
+    <p><a href="https://finity.ai/" target="_blank" rel="noopener">© Finity SA 2020</a></p>
+  </div>
+ </div>
+      </div>
+    </div>
+
+    <!-- Specific page javascripts -->
+      <script>
+      $(document).ready(function() {
+        if (navigator.cookieEnabled === false) {
+          $('#cookies_banner')
+            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
+            .slideDown();
+        }
+      });
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 8){
+        $('#ie_banner')
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
+        
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+
+
+  </body>
+</html>
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+  
+  <head>
+    
+    <title>Build your digital presence with Paper.li</title>
+    <meta charset="utf-8">
+      <meta content="Build your digital presence with Paper.li" data-react-helmet="true" property="og:title" />
+  <meta content="We&#x27;ll bring you daily content on the topics you choose, to add to your own webpage, share on social and deploy your newsletter. Market yourself and your ideas." data-react-helmet="true" property="og:description" />
+  <meta content="website" property="og:type" />
+  <meta content="https://paper.li/chapin4u/1534892138?edition_id=d550afb0-1013-11eb-bc7e-0cc47a0d1605%0A" property="og:url" />
+  <meta content="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" rel="image_src" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="apple-touch-icon" href="/favicon.ico">
+
+    
+  <link rel="dns-prefetch" href="//img.paper.li">
+  <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.imageproxy_token = {"tokenValidity":"1602983623870","token":"6687e62b7b9f9da6abaf1ec3dd22feee7bc99805"};
+      paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
+    </script>
+
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/application-2e0b5a091cefaa925fd5e0827bff4d30.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/icons-5e81c14961e53668202ba1529aa93dee.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>    
+
+    <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+  
+  // Wait for the asynchronous resources to load
+  twttr.ready(function(twttr) {
+    _ga.trackTwitter(); //Google Analytics tracking
+  });
+</script>
+
+
+    <!-- vendor plugins -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-a9c986d4e0336fcddaa6f475becab578.js" type="text/javascript"></script>
+
+    <!-- language -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-e10311ba0c4fa94784e06f873e57c7b7.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-bad07f6123cd7b8cb7b80ef15d047e3f.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-b7fb7788d0db87c7a1285ccc95fce495.js" type="text/javascript"></script>
+
+    <!-- plugin language initialization -->
+    
+    
+
+      <script type="text/javascript">
+        paperli.reCaptcha = '6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg';
+      </script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg" type="text/javascript"></script>
+    
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+
+    <!-- main inclusion -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-0dd6ef7a4a34b821ae726c841f1842be.js" type="text/javascript"></script>
+
+    
+    
+  </head>
+  <body class=" ">
+    <script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+  
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHR7NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+  
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="page-wrapper">
+      <!-- WEBSITE MAIN WRAPPER -->
+      <div id="wrapper" class="page-frame">
+          <!-- Main header with sidebar controls -->
+            <div class="nav-controls ">
+    
+    <div class="controls-left">
+      <a id="ls_control" href="/" class="cnt-sidebar">
+        <i class="fa fa-bars fa-lg visible-phone"></i>
+        <img class="paperli-logo logo-black" alt="Paper.li" src="//d2k854fi3lpqb8.cloudfront.net/assets/logos/logo_paperli_dark-703245db4e6e29c72e73634f6241a416.svg" />
+      </a>
+    </div>
+    
+    <div class="controls-right hidden-phone">
+    </div>
+  </div>
+
+          
+          <!-- Custom header -->
+  
+        <!-- Sticky container for flash messages -->
+        <div id="sticky-container">
+          
+          <div id="flash-message-js"></div>
+        </div>
+    
+        <!-- Main content -->
+        <div class="container">
+  <div class="hero-unit center-text margin-top-100px">
+    <h2>The page you were looking for doesn't exist.</h2>
+    <p>You may have mistyped the address or the page may have moved.</p>
+  </div>
+</div>
+  
+        <!-- ALERTS AND NOTIFICATIONS AREA -->
+        <div id="alerts">
+          
+<div id="cookies_banner" class="m-banner m-warning">
+  <div class="message"></div>
+</div>
+          
+<div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
+  <div class="message"></div>
+</div>
+
+          <noscript>
+  <div class="container">
+    <div class="hero-unit center-text margin-top-100px">
+      <h2>#Power BI* Daily</h2>
+      <p>A selection of articles, blog posts, videos and photos recommended by John O. Knoke</p>
+      <p class="muted">Please enable Javascript to correctly display the content on Paper.li</p>
+    </div>
+  </div>
+</noscript>
+        </div>
+  
+        <div id="push"></div>
+      </div>
+      <!-- Main footer -->
+      <div id="footer" class="page-row">
+        <div class="footer">
+  <ul class="footer-menu">
+    <li>
+        <a href="https://about.paper.li/about/" data-navigation="About Paper.li" rel="noopener" target="_blank">About Paper.li</a>
+    </li>
+    <li><a href="https://blog.paper.li" data-navigation="Blog">Blog</a></li>
+    <li><a href="https://support.paper.li" data-navigation="Help">Help</a></li>
+    <li><a href="/stop-mentions.html" data-navigation="Stop mentions">Stop mentions</a></li>
+    <li><a href="/terms.html" data-navigation="Terms">Terms</a></li>
+    <li><a href="/privacy.html" data-navigation="Privacy">Privacy</a> </li>
+  </ul>
+  <ul class="footer-social">
+    <li><a href="https://twitter.com/paper_li" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.facebook.com/pages/Paperli/199618576802286" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://www.instagram.com/paperli_/" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
+  </ul>
+  <ul class="footer-languages" >
+    <li><a href="/chapin4u/1534892138?lang=en" class="current">EN</a></li>
+    <li><a href="/chapin4u/1534892138?lang=de" class="">DE</a></li>
+    <li><a href="/chapin4u/1534892138?lang=fr" class="">FR</a></li>
+    <li><a href="/chapin4u/1534892138?lang=es" class="">ES</a></li>
+    <li><a href="/chapin4u/1534892138?lang=pt" class="">PT</a></li>
+  </ul>
+  <div class="copyright">
+    <p><a href="https://finity.ai/" target="_blank" rel="noopener">© Finity SA 2020</a></p>
+  </div>
+ </div>
+      </div>
+    </div>
+
+    <!-- Specific page javascripts -->
+      <script>
+      $(document).ready(function() {
+        if (navigator.cookieEnabled === false) {
+          $('#cookies_banner')
+            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
+            .slideDown();
+        }
+      });
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 8){
+        $('#ie_banner')
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
+        
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+
+
+  </body>
+</html>
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+  
+  <head>
+    
+    <title>Build your digital presence with Paper.li</title>
+    <meta charset="utf-8">
+      <meta content="Build your digital presence with Paper.li" data-react-helmet="true" property="og:title" />
+  <meta content="We&#x27;ll bring you daily content on the topics you choose, to add to your own webpage, share on social and deploy your newsletter. Market yourself and your ideas." data-react-helmet="true" property="og:description" />
+  <meta content="website" property="og:type" />
+  <meta content="https://paper.li/chapin4u/1534892138?edition_id=d550afb0-1013-11eb-bc7e-0cc47a0d1605%0A" property="og:url" />
+  <meta content="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" rel="image_src" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="apple-touch-icon" href="/favicon.ico">
+
+    
+  <link rel="dns-prefetch" href="//img.paper.li">
+  <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.imageproxy_token = {"tokenValidity":"1602984416550","token":"6b9a94b3d295fad26b7ee642443cbfae7bbb223b"};
+      paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
+    </script>
+
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/application-2e0b5a091cefaa925fd5e0827bff4d30.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/icons-5e81c14961e53668202ba1529aa93dee.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>    
+
+    <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+  
+  // Wait for the asynchronous resources to load
+  twttr.ready(function(twttr) {
+    _ga.trackTwitter(); //Google Analytics tracking
+  });
+</script>
+
+
+    <!-- vendor plugins -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-a9c986d4e0336fcddaa6f475becab578.js" type="text/javascript"></script>
+
+    <!-- language -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-e10311ba0c4fa94784e06f873e57c7b7.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-bad07f6123cd7b8cb7b80ef15d047e3f.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-b7fb7788d0db87c7a1285ccc95fce495.js" type="text/javascript"></script>
+
+    <!-- plugin language initialization -->
+    
+    
+
+      <script type="text/javascript">
+        paperli.reCaptcha = '6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg';
+      </script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg" type="text/javascript"></script>
+    
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+
+    <!-- main inclusion -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-0dd6ef7a4a34b821ae726c841f1842be.js" type="text/javascript"></script>
+
+    
+    
+  </head>
+  <body class=" ">
+    <script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+  
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHR7NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+  
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="page-wrapper">
+      <!-- WEBSITE MAIN WRAPPER -->
+      <div id="wrapper" class="page-frame">
+          <!-- Main header with sidebar controls -->
+            <div class="nav-controls ">
+    
+    <div class="controls-left">
+      <a id="ls_control" href="/" class="cnt-sidebar">
+        <i class="fa fa-bars fa-lg visible-phone"></i>
+        <img class="paperli-logo logo-black" alt="Paper.li" src="//d2k854fi3lpqb8.cloudfront.net/assets/logos/logo_paperli_dark-703245db4e6e29c72e73634f6241a416.svg" />
+      </a>
+    </div>
+    
+    <div class="controls-right hidden-phone">
+    </div>
+  </div>
+
+          
+          <!-- Custom header -->
+  
+        <!-- Sticky container for flash messages -->
+        <div id="sticky-container">
+          
+          <div id="flash-message-js"></div>
+        </div>
+    
+        <!-- Main content -->
+        <div class="container">
+  <div class="hero-unit center-text margin-top-100px">
+    <h2>The page you were looking for doesn't exist.</h2>
+    <p>You may have mistyped the address or the page may have moved.</p>
+  </div>
+</div>
+  
+        <!-- ALERTS AND NOTIFICATIONS AREA -->
+        <div id="alerts">
+          
+<div id="cookies_banner" class="m-banner m-warning">
+  <div class="message"></div>
+</div>
+          
+<div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
+  <div class="message"></div>
+</div>
+
+          <noscript>
+  <div class="container">
+    <div class="hero-unit center-text margin-top-100px">
+      <h2>#Power BI* Daily</h2>
+      <p>A selection of articles, blog posts, videos and photos recommended by John O. Knoke</p>
+      <p class="muted">Please enable Javascript to correctly display the content on Paper.li</p>
+    </div>
+  </div>
+</noscript>
+        </div>
+  
+        <div id="push"></div>
+      </div>
+      <!-- Main footer -->
+      <div id="footer" class="page-row">
+        <div class="footer">
+  <ul class="footer-menu">
+    <li>
+        <a href="https://about.paper.li/about/" data-navigation="About Paper.li" rel="noopener" target="_blank">About Paper.li</a>
+    </li>
+    <li><a href="https://blog.paper.li" data-navigation="Blog">Blog</a></li>
+    <li><a href="https://support.paper.li" data-navigation="Help">Help</a></li>
+    <li><a href="/stop-mentions.html" data-navigation="Stop mentions">Stop mentions</a></li>
+    <li><a href="/terms.html" data-navigation="Terms">Terms</a></li>
+    <li><a href="/privacy.html" data-navigation="Privacy">Privacy</a> </li>
+  </ul>
+  <ul class="footer-social">
+    <li><a href="https://twitter.com/paper_li" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.facebook.com/pages/Paperli/199618576802286" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://www.instagram.com/paperli_/" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
+  </ul>
+  <ul class="footer-languages" >
+    <li><a href="/chapin4u/1534892138?lang=en" class="current">EN</a></li>
+    <li><a href="/chapin4u/1534892138?lang=de" class="">DE</a></li>
+    <li><a href="/chapin4u/1534892138?lang=fr" class="">FR</a></li>
+    <li><a href="/chapin4u/1534892138?lang=es" class="">ES</a></li>
+    <li><a href="/chapin4u/1534892138?lang=pt" class="">PT</a></li>
+  </ul>
+  <div class="copyright">
+    <p><a href="https://finity.ai/" target="_blank" rel="noopener">© Finity SA 2020</a></p>
+  </div>
+ </div>
+      </div>
+    </div>
+
+    <!-- Specific page javascripts -->
+      <script>
+      $(document).ready(function() {
+        if (navigator.cookieEnabled === false) {
+          $('#cookies_banner')
+            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
+            .slideDown();
+        }
+      });
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 8){
+        $('#ie_banner')
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
+        
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+
+
+  </body>
+</html>
+<!DOCTYPE html>
+<!--
+                             _ _
+ _ __   __ _ _ __   ___ _ __| (_)
+| '_ \ / _` | '_ \ / _ \ '__| | |
+| |_) | (_| | |_) |  __/ | _| | |
+| .__/ \__,_| .__/ \___|_|(_)_|_|
+|_|         |_|
+
+
+-->
+<html
+  lang="en"
+  class="no-js"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:paperli="http://paper.li/ns#">
+  
+  <head>
+    
+    <title>Build your digital presence with Paper.li</title>
+    <meta charset="utf-8">
+      <meta content="Build your digital presence with Paper.li" data-react-helmet="true" property="og:title" />
+  <meta content="We&#x27;ll bring you daily content on the topics you choose, to add to your own webpage, share on social and deploy your newsletter. Market yourself and your ideas." data-react-helmet="true" property="og:description" />
+  <meta content="website" property="og:type" />
+  <meta content="https://paper.li/chapin4u/1534892138?edition_id=d550afb0-1013-11eb-bc7e-0cc47a0d1605%0A" property="og:url" />
+  <meta content="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" rel="image_src" />
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="apple-touch-icon" href="/favicon.ico">
+
+    
+  <link rel="dns-prefetch" href="//img.paper.li">
+  <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <script type="text/javascript">
+      paperli = window.paperli || {};
+      paperli.locale = 'en';
+      paperli.logged_in = false;
+      paperli.host = 'paper.li';
+      paperli.imageproxy_token = {"tokenValidity":"1602985848509","token":"07b9d34158e0c11bb2b206ef4c3323aaf3936c9e"};
+      paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
+    </script>
+
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/application-2e0b5a091cefaa925fd5e0827bff4d30.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/icons-5e81c14961e53668202ba1529aa93dee.css" media="all" rel="stylesheet" type="text/css" />
+    
+    <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>    
+
+    <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));
+  
+  // Wait for the asynchronous resources to load
+  twttr.ready(function(twttr) {
+    _ga.trackTwitter(); //Google Analytics tracking
+  });
+</script>
+
+
+    <!-- vendor plugins -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-a9c986d4e0336fcddaa6f475becab578.js" type="text/javascript"></script>
+
+    <!-- language -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-e10311ba0c4fa94784e06f873e57c7b7.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-bad07f6123cd7b8cb7b80ef15d047e3f.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-b7fb7788d0db87c7a1285ccc95fce495.js" type="text/javascript"></script>
+
+    <!-- plugin language initialization -->
+    
+    
+
+      <script type="text/javascript">
+        paperli.reCaptcha = '6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg';
+      </script>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg" type="text/javascript"></script>
+    
+    <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+
+    <!-- main inclusion -->
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-0dd6ef7a4a34b821ae726c841f1842be.js" type="text/javascript"></script>
+
+    
+    
+  </head>
+  <body class=" ">
+    <script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+  
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHR7NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+  
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="page-wrapper">
+      <!-- WEBSITE MAIN WRAPPER -->
+      <div id="wrapper" class="page-frame">
+          <!-- Main header with sidebar controls -->
+            <div class="nav-controls ">
+    
+    <div class="controls-left">
+      <a id="ls_control" href="/" class="cnt-sidebar">
+        <i class="fa fa-bars fa-lg visible-phone"></i>
+        <img class="paperli-logo logo-black" alt="Paper.li" src="//d2k854fi3lpqb8.cloudfront.net/assets/logos/logo_paperli_dark-703245db4e6e29c72e73634f6241a416.svg" />
+      </a>
+    </div>
+    
+    <div class="controls-right hidden-phone">
+    </div>
+  </div>
+
+          
+          <!-- Custom header -->
+  
+        <!-- Sticky container for flash messages -->
+        <div id="sticky-container">
+          
+          <div id="flash-message-js"></div>
+        </div>
+    
+        <!-- Main content -->
+        <div class="container">
+  <div class="hero-unit center-text margin-top-100px">
+    <h2>The page you were looking for doesn't exist.</h2>
+    <p>You may have mistyped the address or the page may have moved.</p>
+  </div>
+</div>
+  
+        <!-- ALERTS AND NOTIFICATIONS AREA -->
+        <div id="alerts">
+          
+<div id="cookies_banner" class="m-banner m-warning">
+  <div class="message"></div>
+</div>
+          
+<div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
+  <div class="message"></div>
+</div>
+
+          <noscript>
+  <div class="container">
+    <div class="hero-unit center-text margin-top-100px">
+      <h2>#Power BI* Daily</h2>
+      <p>A selection of articles, blog posts, videos and photos recommended by John O. Knoke</p>
+      <p class="muted">Please enable Javascript to correctly display the content on Paper.li</p>
+    </div>
+  </div>
+</noscript>
+        </div>
+  
+        <div id="push"></div>
+      </div>
+      <!-- Main footer -->
+      <div id="footer" class="page-row">
+        <div class="footer">
+  <ul class="footer-menu">
+    <li>
+        <a href="https://about.paper.li/about/" data-navigation="About Paper.li" rel="noopener" target="_blank">About Paper.li</a>
+    </li>
+    <li><a href="https://blog.paper.li" data-navigation="Blog">Blog</a></li>
+    <li><a href="https://support.paper.li" data-navigation="Help">Help</a></li>
+    <li><a href="/stop-mentions.html" data-navigation="Stop mentions">Stop mentions</a></li>
+    <li><a href="/terms.html" data-navigation="Terms">Terms</a></li>
+    <li><a href="/privacy.html" data-navigation="Privacy">Privacy</a> </li>
+  </ul>
+  <ul class="footer-social">
+    <li><a href="https://twitter.com/paper_li" target="_blank" rel="noopener"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="https://www.facebook.com/pages/Paperli/199618576802286" target="_blank" rel="noopener"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="https://www.instagram.com/paperli_/" target="_blank" rel="noopener"><i class="fa fa-instagram"></i></a></li>
+  </ul>
+  <ul class="footer-languages" >
+    <li><a href="/chapin4u/1534892138?lang=en" class="current">EN</a></li>
+    <li><a href="/chapin4u/1534892138?lang=de" class="">DE</a></li>
+    <li><a href="/chapin4u/1534892138?lang=fr" class="">FR</a></li>
+    <li><a href="/chapin4u/1534892138?lang=es" class="">ES</a></li>
+    <li><a href="/chapin4u/1534892138?lang=pt" class="">PT</a></li>
+  </ul>
+  <div class="copyright">
+    <p><a href="https://finity.ai/" target="_blank" rel="noopener">© Finity SA 2020</a></p>
+  </div>
+ </div>
+      </div>
+    </div>
+
+    <!-- Specific page javascripts -->
+      <script>
+      $(document).ready(function() {
+        if (navigator.cookieEnabled === false) {
+          $('#cookies_banner')
+            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
+            .slideDown();
+        }
+      });
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 8){
+        $('#ie_banner')
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
+        
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+
+
+  </body>
+</html>

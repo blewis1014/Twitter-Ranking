@@ -1,0 +1,2581 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta property="og:site_name" content="laprensa.mx"/>
+<meta property="og:url" content="http://laprensa.mx/notas.asp?id=631458" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suma Ssa 6 mil 751 casos más de Covid-19" />
+<meta property="og:description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661." />		
+<meta property="og:image" content="http://laprensa.mx/upload/foto/58/9/3/4895272.jpg" />
+
+<TITLE>Suma Ssa 6 mil 751 casos más de Covid-19 - La Prensa - Nacional</TITLE>
+
+<meta name="description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.">
+<SCRIPT type="text/javascript" src="includes/prototype.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="includes/general.js"></SCRIPT>
+<script type="text/javascript">
+
+</script>
+
+<link href="includes/css/CSSmenu.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnovus.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSheader.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSbox.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnotax.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSelementos.css" rel="stylesheet" type="text/css" />
+<style>
+#columna_foto1, #columna_foto2, #columna_foto3, #columna_foto4 {
+	float:left;
+	width:300px;
+	margin:0px 15px 10px 0px;
+	}	
+#columna_foto2 {
+	width:200px;
+	}
+#columna_foto3 {
+	width:400px;
+	}
+#columna_foto4 {
+	width:700px;
+	}
+</style>
+</head>
+<body>
+<div id="container">
+
+<script type="text/javascript">
+startList = function() {
+if (document.all && document.getElementById) {
+navRoot = document.getElementById("nav");
+for (i=0; i<navRoot.childNodes.length; i++) {
+  node = navRoot.childNodes[i];
+  if (node.nodeName=="LI") {
+  node.onmouseover=function() {
+  this.className+=" over";
+    }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+      (" over", "");
+   }
+   }
+  }
+ }
+}
+/*window.onload=startList;*/
+
+function logout(encuesta){
+	unpopp();
+	conectar=0
+	var url = 'w2/logout.asp';
+	var myAjax = new Ajax.Updater('AA2', url);
+}
+var conectar=0;
+
+</script>
+
+	<div id="header">
+<div id="advertise_6a"><a href="nvs.asp?id=258" target="_blank"><img src="upload/banner/imo.jpg" border="0"></a></div>
+<script language="javascript" type="text/javascript">
+
+document.body.style.backgroundImage="url(images/bg2_.gif)";
+
+</script>
+      
+		<div id="AA">
+        	<div id="AA13">			<div id="ediciones_h">
+				<form name="form_ea" method="post" action="">
+					<h4><span>Ediciones Anteriores</span></h4>	
+					<span class="fecha"> 
+					  <select name="edicion" id="edicion">
+						<option value="10/17/2020">Hoy</option>			  
+
+						<option value="10/16/2020" SELECTED>16/10/2020</option>
+						<option value="10/15/2020">15/10/2020</option>
+						<option value="10/14/2020">14/10/2020</option>
+						<option value="10/13/2020">13/10/2020</option>
+						<option value="10/12/2020">12/10/2020</option>
+						<option value="10/11/2020">11/10/2020</option>
+						<option value="10/10/2020">10/10/2020</option>
+						<option value="10/9/2020">09/10/2020</option>
+						<option value="10/8/2020">08/10/2020</option>
+						<option value="10/7/2020">07/10/2020</option>	
+						<option value="0">Otras</option>
+					  </select>
+					</span>
+					<span class="ir">
+						<a href="javascript:anterior();"><img src="images/header/ir.png" border="0" /></a>
+			    	</span>			
+				</form>
+			</div>	</div>
+ 
+        	<div id="block_AA0"><span><a href="default.asp"><img src="images/sp.gif" width="485" height="115" border="0" alt="Ir a Portada" /></a></span></div>
+
+			<div id="block_AA1">
+				<div id="buscar">
+					<form action="buscar_ava.asp" name="form1">
+					  <table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+						  <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+						  <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+						</tr>
+					  </table>
+				  </form>
+				</div>						
+			</div>
+		</div>
+		<div id="menu-container">
+			<ul id="nav">
+			  <li class="on1"><a class="mn1" href="default.asp">Noticias</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=1">Reynosa</a></li>
+				  <li class="mn3"><a href="default.asp?s=4">1/2 Tiempo</a></li>
+				  <li class="mn3"><a href="default.asp?s=11">Ribereña</a></li>
+				  <li class="mn3"><a href="default.asp?s=10">Rio Bravo</a></li>
+				  <li class="mn3"><a href="default.asp?s=19">Tamaulipas</a></li>
+				  <li class="mn3"><a href="default.asp?s=12">Alerta Policiaca</a></li>
+				  <li class="mn3"><a href="default.asp?s=5">Rostros y Famosos</a></li>
+				  <li class="mn3"><a href="default.asp?s=3">Internacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=2">Nacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=23">Valle de Texas</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=6">Opinión</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="multimedia.asp">Multimedia</a>
+			  <ul>
+				  <li class="mn2"><a href="multimedia.asp">Videos</a></li>
+				  <li class="mn3"><a href="galerias.asp">Galerías</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="blogs.asp">Blogs</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=7">Sociales</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=14">Status</a></li>
+				  <li class="mn3"><a href="default.asp?s=16">Espacio</a></li>
+			  </ul></li>
+			  <li class="off"><a class="mn1" href="default.asp?s=14">Status</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="imp.asp">Edición Impresa</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="#">Servicios</a>
+			  <ul>
+				  <li class="mn2"><a href="rss.asp">RSS</a></li>
+				  <li class="mn3"><a href="http://laprensa.mx/movil/">Móvil</a></li>
+				  <li class="mn3"><a href="info_pub.asp">Publicidad</a></li>
+				  <li class="mn3"><a href="info_dir.asp">Directorio</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="buscar_ava.asp">Buscar</a>
+			  <ul>
+			  </ul></li>		  
+              <li class="mrI"><a href="rss/?s=2"><img src="images/header/rss.png" alt="RSS" width="14" height="15" /></a></li>
+              <li class="mr"><a href="rss/?s=2">RSS</a></li>
+              <li class="mrI"><a href="movil"><img src="images/header/movil.gif" alt="M&oacute;vil" width="10" height="16" /></a></li>
+              <li class="mr"><a href="movil">M&oacute;vil</a></li>
+
+			</ul>	
+		</div>
+	</div>
+
+      <div id="sec_tools">    
+          <div id="seccion" class="color1">
+          
+          	<a class="color1" href="default.asp?s=2">Nacional</a><span class="subsec">&nbsp;&nbsp;/&nbsp;&nbsp;<a class="color1" href="subsec.asp?ss=10">Estados</a></span>
+          </div>	
+	
+          <div id="rssI"><a href="rss/?s=2"><img src="images/header/rss_.gif" width="14" height="15" /></a></div>
+          <div id="rss"><a href="rss/?s=2">Suscribete a esta Secci&oacute;n</a></div>
+
+      </div>
+<div id="block_pub"><div align="center">
+
+	<div id="advertise_1"><div align="center"> 
+	 		<div id="ban1"><a href="javascript:cambioB();"><img class="cerrar" src="images/cerrar2.png" width="75" height="17" /></a><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/carrera_1.jpg" border="0"></a></div>
+			<div id="ban2" style="display:none;"><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/idecccc_0.jpg" border="0"></a></div></div></div>
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+  
+  </div></div>      
+   	<div id="main_1">
+		<div id="nota"><span class="box1">
+
+		<div id="votarN">
+
+			<div id="votos1">0</div>
+			<div id="votos2">Votos</div>
+
+			<div id="votos3">
+				<div id="down"><a href="javascript:vota(631458,2)"><img src="images/bt_down.png" alt="Nota Aburrida" /></a></div>
+				<div id="up"><a href="javascript:vota(631458,1)"><img src="images/bt_up.png" alt="Nota Interesante" /></a></div>
+			</div>
+
+		</div>
+		<div id="titulo">Suma Ssa 6 mil 751 casos más de Covid-19</div>
+		<div id="texto"><p>
+
+        <div id="columna_foto1">      	
+		
+		<div id="fotos_t1">
+				
+				<div id="foto_0">						
+					<div id="imagen"><img src="upload/foto/58/9/3/4895272.jpg" class="img" /></div>
+
+				<div id="imagen_area">
+					<div id="imagen_desc">Así el panorama de Covid en México. Foto: Especial
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>        
+
+	<div id="rel_enc">
+		<div id="relacionado"><span class="box4">
+			<h3><span>Relacionado</span></h3>
+			
+			<div id="rel_notas">	
+				<ul class="list3">
+					
+					<li class="ini" >
+						<div id="liga"><a href="notas.asp?id=631537">Temen rebrote de Covid</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631535">Sube a 53% ocupación hospitalaria en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631515">Cierra Cruz Roja 5 bases en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631504">Detectan robo hormiga de vacunas contra influenza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631459">Liga hospitalización cinco días al alza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631434">Alerta en NL hospitalización por caso Covid</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631385">Contrae Covid el Obispo de Saltillo</a>&nbsp;<span class="hora">(15/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631384">Rebasa NL 4 mil decesos por Covid-19</a>&nbsp;<span class="hora">(15/10/2020)</span></div>
+					</li>
+					
+				</ul>
+			</div>
+		
+		</span></div>
+
+</div>
+<div id="resumen">La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.</div>
+<div id="aut_fech">
+	viernes, 16 de octubre de 2020<br />Por: Iris Velázquez
+</div>
+ 
+<div id="tools"><span class="box3">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20" valign="top"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Flaprensa.mx%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_facebook.gif" width="16" height="16" alt="Comparte esto en Facebook" /></a></td>
+  </tr>
+  <tr>
+    <td height="19" valign="top"><a href="https://twitter.com/intent/tweet?original_referer=http://laprensa.mx/%2Fnotas.asp?id=631458&text=Suma+Ssa+6+mil+751+casos+m%C3%A1s+de+Covid-19&tw_p=tweetbutton&url=http://laprensa.mx/%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_twitter.gif" width="16" height="16" alt="Comparte esto en Twitter" /></a></td>
+  </tr>
+  <tr>
+    <td height="27" valign="top"><a href="https://plus.google.com/share?url=http://laprensa.mx/notas.asp?id=631458" target="_blank"><img src="images/notas/ico_google.gif" width="16" height="16" alt="Comparte esto en Digg" /></a></td>
+  </tr>
+  <tr>
+    <td height="23" valign="top"><INPUT name="notaI" type=image onClick="openWindow('includes/pop/nota_imprimir.asp?id=631458','nota_imprimir','600','420','1');" onMouseOver="(window.status='Print');return true" onMouseOut="(window.status='');return true" src="images/notas/imprimir.gif" alt='Print this article' width=14 height=14 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><INPUT name="notaE" type=image onClick="openWindow('includes/pop/nota_email.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Email thsi article');return true" onMouseOut="(window.status='');return true" src="images/notas/enviar.gif" alt='Email this article' width=14 height=10 border=0></td>
+  </tr>
+  <tr>
+    <td height="25" valign="top"><INPUT name="notaC" type=image onClick="openWindow('includes/pop/nota_editor.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Comment to Editor');return true" onMouseOut="(window.status='');return true" src="images/notas/editor.gif" alt='Send comment to Editor' width=14 height=13 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><a href="javascript:ft(1)"><img src="images/notas/font-mas.gif" alt="Enlarge Font" width="15" height="15" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="15" valign="top"><a href="javascript:ft(-1)"><img src="images/notas/font-menus.gif" alt="Decrease Font" width="15" height="15" border="0"></a></td>
+  </tr>
+</table>
+</span></div>Agencia / Reforma</p><p>Cd. de M&eacute;xico (16 octubre 2020).- </p><p>La Secretar&iacute;a de Salud report&oacute; 419 muertes m&aacute;s por Covid-19, con lo que suman 85 mil 704, y registr&oacute; 6 mil 751 casos confirmados, para un total de 841 mil 661.</p><p>En conferencia de prensa, Jos&eacute; Luis Alom&iacute;a, director de Epidemiolog&iacute;a, inform&oacute; que un mill&oacute;n 4 mil personas han salido negativas al virus.</p><p>Indic&oacute; que 44 mil 558 est&aacute;n esperando su resultado para saber su clasificaci&oacute;n final y 176 mil 267 son sospechosos sin muestra.</p><p>Explic&oacute; que el porcentaje de positividad es del 38 por ciento en la semana 40.</p><p>El funcionario pidi&oacute; a la poblaci&oacute;n valorar el nivel de riesgo en sus ciudades para limitar acividades y, si se hacen, implementar medidas como sana distancia y lavarse las manos.</p><p>En tanto, el subsecretario Hugo L&oacute;pez-Gatell advirti&oacute; que ning&uacute;n Pa&iacute;s ha entrado en estado de completo control.</p><p>En la medida en que existan "epidemias", dijo, en otros pa&iacute;ses existe riesgo.</p>&nbsp;</div>
+<div id="opinar" class="box3">
+
+<script type="text/javascript">
+function opina() {
+	var checar = $F('autor') + $F('tituloC') + $F('coment');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('tituloC')=="") {
+		$('tituloC').focus()
+		$('tituloC').select()
+		alert("El campo de TITULO no puede estar vacío.")
+		return (false)
+	}
+	if ($F('coment')=="") {
+		$('coment').focus()
+		$('coment').select()
+		alert("El campo de COMENTARIO no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/opina.asp?'+Form.serialize('formOpina');
+	var myAjax = new Ajax.Updater('opina_forma', url);
+	return (false)
+}
+function responder(nota_coment_id){
+	unpopp();
+	var url = 'w2/argumenta_forma.asp';
+	var pars = 'nota_coment_id='+nota_coment_id;
+	var myAjax = new Ajax.Updater('arg_'+nota_coment_id, url, {method: 'get', parameters: pars});
+}
+function argumenta(cmt__MMColParam) {
+	var checar = $F('autor') + $F('discutir');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('discutir')=="") {
+		$('discutir').focus()
+		$('discutir').select()
+		alert("El campo de RESPUESTA no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/argumenta.asp?'+Form.serialize('formArg');
+	var myAjax = new Ajax.Updater('arg_'+cmt__MMColParam, url);
+	return (false)
+}
+</script>
+		<div id="opina">
+			<h3><img src="images/cmt.gif" alt="" />Opina sobre este art&iacute;culo</h3>
+		  <div id="opina_forma" class="box5">
+		    <form id="formOpina" name="formOpina" method="post" action="" onSubmit="return opina(this)">
+		      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="60" class="label">Nombre</td>
+                  <td width="232">
+				  <input name="nota_id" type="hidden" value="631458" />
+				  <input name="autor" type="text" class="nom_email" id="autor" value="" maxlength="50" /></td>
+				  <td width="18">&nbsp;</td>
+                  <td width="50" class="label">Email</td>
+                  <td> <input name="email" type="text" class="nom_email" id="email" value=""maxlength="100" /></td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">T&iacute;tulo</td>
+                  <td colspan="4"><input name="tituloC" type="text" class="titulo" id="tituloC" maxlength="120" /></td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">Opinion</td>
+                  <td colspan="4"><textarea name="coment" rows="4" class="opinion" id="coment"></textarea></td>
+				  <td valign="bottom" width="64"><div align="right"><input name="bt_enviar" type="image" src="images/notas/bt_enviar.png" alt="Enviar" border="0"></div></td>
+                </tr>
+              </table>
+            </form>
+	      </div>
+		</div>
+</div>
+		</span></div> 
+
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+            
+	</div></div>
+
+	<div id="main_2">
+
+			<div id="mas_vistas"><span class="box2">
+				<div id="vistas">
+					<h2>
+					<div id="m_vis">M&aacute;s Visto</div>
+					<div id="m_com"><a href="javascript:vistas(2)">+ Comentado</a></div>
+					</h2>
+					<ol class="list2">					
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=631463">Leen cargos a Cienfuegos; audiencia será el martes</a></div>
+						</li>					
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=631458">Suma Ssa 6 mil 751 casos más de Covid-19</a></div>
+						</li>					
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=631517">Anticipan Buen Fin electrónico</a></div>
+						</li>					
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=631456">Amplían cierre de frontera México-EU un mes más</a></div>
+						</li>					
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=631525">Toman normalistas caseta en Michoacán</a></div>
+						</li>
+					</ol>
+				</div>
+				<div id="comentadas" style="display:none;">
+					<h2>
+					<div id="m_vis"><a href="javascript:vistas(1)">+ Visto</a></div>
+					<div id="m_com">M&aacute;s Comentado</div>
+					</h2>
+					<ol class="list2">				
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=623479">Suma INE 745 mil solicitudes de constancia digital </a></div>
+						</li>				
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=623008">Suman 12 millones de casos de coronavirus en el mundo</a></div>
+						</li>				
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=623007">Murió Alcaldesa en Yucatán por Covid-19</a></div>
+						</li>				
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=623006">Demandan a Cinemex por 15 mdd en Corte de NY</a></div>
+						</li>				
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=623005">Visita fue corta, pero muy intensa.- AMLO</a></div>
+						</li>
+					</ol>
+				</div>
+			</span></div>
+    	<div id="pub_1">
+
+		</div>
+
+<div id="otras_noticias"><span class="box1">
+	<h3><span>Otras Noticias</span></h3>
+	<ul class="list1">
+
+            <li class="ini" >
+
+				<a class="img_izq" href="notas.asp?id=631541"><img src="upload/foto/58/9/4/_ch_4895751.jpg" alt="" /></a>
+				<a href="notas.asp?id=631541">Matan a cinco en bar en Tulum</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631539"><img src="upload/foto/58/9/4/_ch_4895745.jpg" alt="" /></a>
+				<a href="notas.asp?id=631539">Caen 2 por robo de medicamentos oncológicos</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631538"><img src="upload/foto/58/9/4/_ch_4619795.jpg" alt="" /></a>
+				<a href="notas.asp?id=631538">El 'Culiacanazo', una herida abierta</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631537"><img src="upload/foto/58/9/4/_ch_4895439.jpg" alt="" /></a>
+				<a href="notas.asp?id=631537">Temen rebrote de Covid</a>
+			</li>
+
+	</ul>
+</span></div>
+
+			<div id="galeria" class="box1">
+				<div id="barraG">
+					<h3><a href="galerias.asp">Galerias</a></h3>					<div id="bbbG1">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  						
+							<img src="images/notas/izqNo.png" alt="" border="0" />
+							
+							</td>
+							<td width="21">
+								
+							<a href="javascript:cambiarG(2);"><img src="images/notas/der.png" alt="Siguiente" border="0" /></a>
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+					<div id="bbbG2"style="display:none;">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  		
+							<a href="javascript:cambiarG(1);"><img src="images/notas/izq.png" alt="Anterior" border="0" /></a>
+							
+							</td>
+							<td width="21">
+												
+							<img src="images/notas/derNo.png" alt="" border="0" />
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+
+				</div>
+				<div id="listaG">
+					<ul>
+						<div id="aaaG1">
+							<li class="ini">
+								<a href="galeria.asp?g=4113"><img class="img" src="upload/galeria/_p2_martinprin.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4113">Celebra su primer cumpleaños</a></h4>
+							</li>
+
+						</div>						<div id="aaaG2"  style="display:none;" >
+							<li class="ini">
+								<a href="galeria.asp?g=4112"><img class="img" src="upload/galeria/_p2_CARMENBUENA.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4112">Celebra en familia</a></h4>
+							</li>
+
+						</div>														
+					</ul>
+				</div>
+			</div>
+
+<script type="text/javascript">
+var actualD = 1;
+function cambiarG(sec)
+{
+	$$('#listaG div').invoke('hide');
+	$('aaaG'+sec).show();
+	$$('#barraG div').invoke('hide');
+	$('bbbG'+sec).show();
+	actualD = sec;
+}
+</script>
+	</div>
+	<div id="footer">
+
+		<div id="footer-barra-1">
+			<div id="menu-footer">
+				<ul>
+                
+					<li class="prim"><a href="info_nosotros.asp">Nosotros</a></li>	
+                
+					<li><a href="info_dir.asp">Directorio</a></li>	
+                
+					<li><a href="info_aviso.asp">Aviso Legal</a></li>	
+                
+					<li><a href="info_dir.asp">Contacto</a></li>	
+                
+					<li><a href="rss">RSS</a></li>	
+                    			
+				</ul>			
+			</div>        
+            <div id="buscar">
+                <form action="buscar_ava.asp" name="form1">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+                      <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+                    </tr>
+                  </table>
+              </form>
+            </div>						
+		</div>
+
+		<div id="footer-barra-2">		
+			<div id="copy">&copy; Novus 2009</div>
+			<div id="novus"><a href="http://novus.com.mx" target="_blank">Powered by exPRESS</a></div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12628170-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta property="og:site_name" content="laprensa.mx"/>
+<meta property="og:url" content="http://laprensa.mx/notas.asp?id=631458" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suma Ssa 6 mil 751 casos más de Covid-19" />
+<meta property="og:description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661." />		
+<meta property="og:image" content="http://laprensa.mx/upload/foto/58/9/3/4895272.jpg" />
+
+<TITLE>Suma Ssa 6 mil 751 casos más de Covid-19 - La Prensa - Nacional</TITLE>
+
+<meta name="description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.">
+<SCRIPT type="text/javascript" src="includes/prototype.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="includes/general.js"></SCRIPT>
+<script type="text/javascript">
+
+</script>
+
+<link href="includes/css/CSSmenu.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnovus.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSheader.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSbox.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnotax.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSelementos.css" rel="stylesheet" type="text/css" />
+<style>
+#columna_foto1, #columna_foto2, #columna_foto3, #columna_foto4 {
+	float:left;
+	width:300px;
+	margin:0px 15px 10px 0px;
+	}	
+#columna_foto2 {
+	width:200px;
+	}
+#columna_foto3 {
+	width:400px;
+	}
+#columna_foto4 {
+	width:700px;
+	}
+</style>
+</head>
+<body>
+<div id="container">
+
+<script type="text/javascript">
+startList = function() {
+if (document.all && document.getElementById) {
+navRoot = document.getElementById("nav");
+for (i=0; i<navRoot.childNodes.length; i++) {
+  node = navRoot.childNodes[i];
+  if (node.nodeName=="LI") {
+  node.onmouseover=function() {
+  this.className+=" over";
+    }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+      (" over", "");
+   }
+   }
+  }
+ }
+}
+/*window.onload=startList;*/
+
+function logout(encuesta){
+	unpopp();
+	conectar=0
+	var url = 'w2/logout.asp';
+	var myAjax = new Ajax.Updater('AA2', url);
+}
+var conectar=0;
+
+</script>
+
+	<div id="header">
+<div id="advertise_6a"><a href="nvs.asp?id=258" target="_blank"><img src="upload/banner/imo.jpg" border="0"></a></div>
+<script language="javascript" type="text/javascript">
+
+document.body.style.backgroundImage="url(images/bg2_.gif)";
+
+</script>
+      
+		<div id="AA">
+        	<div id="AA13">			<div id="ediciones_h">
+				<form name="form_ea" method="post" action="">
+					<h4><span>Ediciones Anteriores</span></h4>	
+					<span class="fecha"> 
+					  <select name="edicion" id="edicion">
+						<option value="10/17/2020">Hoy</option>			  
+
+						<option value="10/16/2020" SELECTED>16/10/2020</option>
+						<option value="10/15/2020">15/10/2020</option>
+						<option value="10/14/2020">14/10/2020</option>
+						<option value="10/13/2020">13/10/2020</option>
+						<option value="10/12/2020">12/10/2020</option>
+						<option value="10/11/2020">11/10/2020</option>
+						<option value="10/10/2020">10/10/2020</option>
+						<option value="10/9/2020">09/10/2020</option>
+						<option value="10/8/2020">08/10/2020</option>
+						<option value="10/7/2020">07/10/2020</option>	
+						<option value="0">Otras</option>
+					  </select>
+					</span>
+					<span class="ir">
+						<a href="javascript:anterior();"><img src="images/header/ir.png" border="0" /></a>
+			    	</span>			
+				</form>
+			</div>	</div>
+ 
+        	<div id="block_AA0"><span><a href="default.asp"><img src="images/sp.gif" width="485" height="115" border="0" alt="Ir a Portada" /></a></span></div>
+
+			<div id="block_AA1">
+				<div id="buscar">
+					<form action="buscar_ava.asp" name="form1">
+					  <table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+						  <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+						  <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+						</tr>
+					  </table>
+				  </form>
+				</div>						
+			</div>
+		</div>
+		<div id="menu-container">
+			<ul id="nav">
+			  <li class="on1"><a class="mn1" href="default.asp">Noticias</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=1">Reynosa</a></li>
+				  <li class="mn3"><a href="default.asp?s=4">1/2 Tiempo</a></li>
+				  <li class="mn3"><a href="default.asp?s=11">Ribereña</a></li>
+				  <li class="mn3"><a href="default.asp?s=10">Rio Bravo</a></li>
+				  <li class="mn3"><a href="default.asp?s=19">Tamaulipas</a></li>
+				  <li class="mn3"><a href="default.asp?s=12">Alerta Policiaca</a></li>
+				  <li class="mn3"><a href="default.asp?s=5">Rostros y Famosos</a></li>
+				  <li class="mn3"><a href="default.asp?s=3">Internacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=2">Nacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=23">Valle de Texas</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=6">Opinión</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="multimedia.asp">Multimedia</a>
+			  <ul>
+				  <li class="mn2"><a href="multimedia.asp">Videos</a></li>
+				  <li class="mn3"><a href="galerias.asp">Galerías</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="blogs.asp">Blogs</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=7">Sociales</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=14">Status</a></li>
+				  <li class="mn3"><a href="default.asp?s=16">Espacio</a></li>
+			  </ul></li>
+			  <li class="off"><a class="mn1" href="default.asp?s=14">Status</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="imp.asp">Edición Impresa</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="#">Servicios</a>
+			  <ul>
+				  <li class="mn2"><a href="rss.asp">RSS</a></li>
+				  <li class="mn3"><a href="http://laprensa.mx/movil/">Móvil</a></li>
+				  <li class="mn3"><a href="info_pub.asp">Publicidad</a></li>
+				  <li class="mn3"><a href="info_dir.asp">Directorio</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="buscar_ava.asp">Buscar</a>
+			  <ul>
+			  </ul></li>		  
+              <li class="mrI"><a href="rss/?s=2"><img src="images/header/rss.png" alt="RSS" width="14" height="15" /></a></li>
+              <li class="mr"><a href="rss/?s=2">RSS</a></li>
+              <li class="mrI"><a href="movil"><img src="images/header/movil.gif" alt="M&oacute;vil" width="10" height="16" /></a></li>
+              <li class="mr"><a href="movil">M&oacute;vil</a></li>
+
+			</ul>	
+		</div>
+	</div>
+
+      <div id="sec_tools">    
+          <div id="seccion" class="color1">
+          
+          	<a class="color1" href="default.asp?s=2">Nacional</a><span class="subsec">&nbsp;&nbsp;/&nbsp;&nbsp;<a class="color1" href="subsec.asp?ss=10">Estados</a></span>
+          </div>	
+	
+          <div id="rssI"><a href="rss/?s=2"><img src="images/header/rss_.gif" width="14" height="15" /></a></div>
+          <div id="rss"><a href="rss/?s=2">Suscribete a esta Secci&oacute;n</a></div>
+
+      </div>
+<div id="block_pub"><div align="center">
+
+	<div id="advertise_1"><div align="center"> 
+	 		<div id="ban1"><a href="javascript:cambioB();"><img class="cerrar" src="images/cerrar2.png" width="75" height="17" /></a><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/carrera_1.jpg" border="0"></a></div>
+			<div id="ban2" style="display:none;"><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/idecccc_0.jpg" border="0"></a></div></div></div>
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+  
+  </div></div>      
+   	<div id="main_1">
+		<div id="nota"><span class="box1">
+
+		<div id="votarN">
+
+			<div id="votos1">0</div>
+			<div id="votos2">Votos</div>
+
+			<div id="votos3">
+				<div id="down"><a href="javascript:vota(631458,2)"><img src="images/bt_down.png" alt="Nota Aburrida" /></a></div>
+				<div id="up"><a href="javascript:vota(631458,1)"><img src="images/bt_up.png" alt="Nota Interesante" /></a></div>
+			</div>
+
+		</div>
+		<div id="titulo">Suma Ssa 6 mil 751 casos más de Covid-19</div>
+		<div id="texto"><p>
+
+        <div id="columna_foto1">      	
+		
+		<div id="fotos_t1">
+				
+				<div id="foto_0">						
+					<div id="imagen"><img src="upload/foto/58/9/3/4895272.jpg" class="img" /></div>
+
+				<div id="imagen_area">
+					<div id="imagen_desc">Así el panorama de Covid en México. Foto: Especial
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>        
+
+	<div id="rel_enc">
+		<div id="relacionado"><span class="box4">
+			<h3><span>Relacionado</span></h3>
+			
+			<div id="rel_notas">	
+				<ul class="list3">
+					
+					<li class="ini" >
+						<div id="liga"><a href="notas.asp?id=631545">Arman regios megafila por vacuna</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631537">Temen rebrote de Covid</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631535">Sube a 53% ocupación hospitalaria en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631515">Cierra Cruz Roja 5 bases en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631504">Detectan robo hormiga de vacunas contra influenza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631459">Liga hospitalización cinco días al alza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631434">Alerta en NL hospitalización por caso Covid</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631385">Contrae Covid el Obispo de Saltillo</a>&nbsp;<span class="hora">(15/10/2020)</span></div>
+					</li>
+					
+				</ul>
+			</div>
+		
+		</span></div>
+
+</div>
+<div id="resumen">La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.</div>
+<div id="aut_fech">
+	viernes, 16 de octubre de 2020<br />Por: Iris Velázquez
+</div>
+ 
+<div id="tools"><span class="box3">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20" valign="top"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Flaprensa.mx%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_facebook.gif" width="16" height="16" alt="Comparte esto en Facebook" /></a></td>
+  </tr>
+  <tr>
+    <td height="19" valign="top"><a href="https://twitter.com/intent/tweet?original_referer=http://laprensa.mx/%2Fnotas.asp?id=631458&text=Suma+Ssa+6+mil+751+casos+m%C3%A1s+de+Covid-19&tw_p=tweetbutton&url=http://laprensa.mx/%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_twitter.gif" width="16" height="16" alt="Comparte esto en Twitter" /></a></td>
+  </tr>
+  <tr>
+    <td height="27" valign="top"><a href="https://plus.google.com/share?url=http://laprensa.mx/notas.asp?id=631458" target="_blank"><img src="images/notas/ico_google.gif" width="16" height="16" alt="Comparte esto en Digg" /></a></td>
+  </tr>
+  <tr>
+    <td height="23" valign="top"><INPUT name="notaI" type=image onClick="openWindow('includes/pop/nota_imprimir.asp?id=631458','nota_imprimir','600','420','1');" onMouseOver="(window.status='Print');return true" onMouseOut="(window.status='');return true" src="images/notas/imprimir.gif" alt='Print this article' width=14 height=14 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><INPUT name="notaE" type=image onClick="openWindow('includes/pop/nota_email.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Email thsi article');return true" onMouseOut="(window.status='');return true" src="images/notas/enviar.gif" alt='Email this article' width=14 height=10 border=0></td>
+  </tr>
+  <tr>
+    <td height="25" valign="top"><INPUT name="notaC" type=image onClick="openWindow('includes/pop/nota_editor.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Comment to Editor');return true" onMouseOut="(window.status='');return true" src="images/notas/editor.gif" alt='Send comment to Editor' width=14 height=13 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><a href="javascript:ft(1)"><img src="images/notas/font-mas.gif" alt="Enlarge Font" width="15" height="15" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="15" valign="top"><a href="javascript:ft(-1)"><img src="images/notas/font-menus.gif" alt="Decrease Font" width="15" height="15" border="0"></a></td>
+  </tr>
+</table>
+</span></div>Agencia / Reforma</p><p>Cd. de M&eacute;xico (16 octubre 2020).- </p><p>La Secretar&iacute;a de Salud report&oacute; 419 muertes m&aacute;s por Covid-19, con lo que suman 85 mil 704, y registr&oacute; 6 mil 751 casos confirmados, para un total de 841 mil 661.</p><p>En conferencia de prensa, Jos&eacute; Luis Alom&iacute;a, director de Epidemiolog&iacute;a, inform&oacute; que un mill&oacute;n 4 mil personas han salido negativas al virus.</p><p>Indic&oacute; que 44 mil 558 est&aacute;n esperando su resultado para saber su clasificaci&oacute;n final y 176 mil 267 son sospechosos sin muestra.</p><p>Explic&oacute; que el porcentaje de positividad es del 38 por ciento en la semana 40.</p><p>El funcionario pidi&oacute; a la poblaci&oacute;n valorar el nivel de riesgo en sus ciudades para limitar acividades y, si se hacen, implementar medidas como sana distancia y lavarse las manos.</p><p>En tanto, el subsecretario Hugo L&oacute;pez-Gatell advirti&oacute; que ning&uacute;n Pa&iacute;s ha entrado en estado de completo control.</p><p>En la medida en que existan "epidemias", dijo, en otros pa&iacute;ses existe riesgo.</p>&nbsp;</div>
+<div id="opinar" class="box3">
+
+<script type="text/javascript">
+function opina() {
+	var checar = $F('autor') + $F('tituloC') + $F('coment');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('tituloC')=="") {
+		$('tituloC').focus()
+		$('tituloC').select()
+		alert("El campo de TITULO no puede estar vacío.")
+		return (false)
+	}
+	if ($F('coment')=="") {
+		$('coment').focus()
+		$('coment').select()
+		alert("El campo de COMENTARIO no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/opina.asp?'+Form.serialize('formOpina');
+	var myAjax = new Ajax.Updater('opina_forma', url);
+	return (false)
+}
+function responder(nota_coment_id){
+	unpopp();
+	var url = 'w2/argumenta_forma.asp';
+	var pars = 'nota_coment_id='+nota_coment_id;
+	var myAjax = new Ajax.Updater('arg_'+nota_coment_id, url, {method: 'get', parameters: pars});
+}
+function argumenta(cmt__MMColParam) {
+	var checar = $F('autor') + $F('discutir');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('discutir')=="") {
+		$('discutir').focus()
+		$('discutir').select()
+		alert("El campo de RESPUESTA no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/argumenta.asp?'+Form.serialize('formArg');
+	var myAjax = new Ajax.Updater('arg_'+cmt__MMColParam, url);
+	return (false)
+}
+</script>
+		<div id="opina">
+			<h3><img src="images/cmt.gif" alt="" />Opina sobre este art&iacute;culo</h3>
+		  <div id="opina_forma" class="box5">
+		    <form id="formOpina" name="formOpina" method="post" action="" onSubmit="return opina(this)">
+		      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="60" class="label">Nombre</td>
+                  <td width="232">
+				  <input name="nota_id" type="hidden" value="631458" />
+				  <input name="autor" type="text" class="nom_email" id="autor" value="" maxlength="50" /></td>
+				  <td width="18">&nbsp;</td>
+                  <td width="50" class="label">Email</td>
+                  <td> <input name="email" type="text" class="nom_email" id="email" value=""maxlength="100" /></td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">T&iacute;tulo</td>
+                  <td colspan="4"><input name="tituloC" type="text" class="titulo" id="tituloC" maxlength="120" /></td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">Opinion</td>
+                  <td colspan="4"><textarea name="coment" rows="4" class="opinion" id="coment"></textarea></td>
+				  <td valign="bottom" width="64"><div align="right"><input name="bt_enviar" type="image" src="images/notas/bt_enviar.png" alt="Enviar" border="0"></div></td>
+                </tr>
+              </table>
+            </form>
+	      </div>
+		</div>
+</div>
+		</span></div> 
+
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+            
+	</div></div>
+
+	<div id="main_2">
+
+			<div id="mas_vistas"><span class="box2">
+				<div id="vistas">
+					<h2>
+					<div id="m_vis">M&aacute;s Visto</div>
+					<div id="m_com"><a href="javascript:vistas(2)">+ Comentado</a></div>
+					</h2>
+					<ol class="list2">					
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=631463">Leen cargos a Cienfuegos; audiencia será el martes</a></div>
+						</li>					
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=631525">Toman normalistas caseta en Michoacán</a></div>
+						</li>					
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=631458">Suma Ssa 6 mil 751 casos más de Covid-19</a></div>
+						</li>					
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=631456">Amplían cierre de frontera México-EU un mes más</a></div>
+						</li>					
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=631517">Anticipan Buen Fin electrónico</a></div>
+						</li>
+					</ol>
+				</div>
+				<div id="comentadas" style="display:none;">
+					<h2>
+					<div id="m_vis"><a href="javascript:vistas(1)">+ Visto</a></div>
+					<div id="m_com">M&aacute;s Comentado</div>
+					</h2>
+					<ol class="list2">				
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=623479">Suma INE 745 mil solicitudes de constancia digital </a></div>
+						</li>				
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=623008">Suman 12 millones de casos de coronavirus en el mundo</a></div>
+						</li>				
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=623007">Murió Alcaldesa en Yucatán por Covid-19</a></div>
+						</li>				
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=623006">Demandan a Cinemex por 15 mdd en Corte de NY</a></div>
+						</li>				
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=623005">Visita fue corta, pero muy intensa.- AMLO</a></div>
+						</li>
+					</ol>
+				</div>
+			</span></div>
+    	<div id="pub_1">
+
+		</div>
+
+<div id="otras_noticias"><span class="box1">
+	<h3><span>Otras Noticias</span></h3>
+	<ul class="list1">
+
+            <li class="ini" >
+
+				<a class="img_izq" href="notas.asp?id=631547"><img src="upload/foto/58/9/4/_ch_4885148.jpg" alt="" /></a>
+				<a href="notas.asp?id=631547">Defiende Durazo honestidad de Fuerzas Armadas</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631546"><img src="upload/foto/58/9/4/_ch_4895801.jpg" alt="" /></a>
+				<a href="notas.asp?id=631546">Regresan al mercado 12 quesos y un yogur</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631545"><img src="upload/foto/58/9/4/_ch_9115898.jpg" alt="" /></a>
+				<a href="notas.asp?id=631545">Arman regios megafila por vacuna</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631544"><img src="upload/foto/58/9/4/_ch_4895573_0.jpg" alt="" /></a>
+				<a href="notas.asp?id=631544">Toman normalistas caseta en Michoacán</a>
+			</li>
+
+	</ul>
+</span></div>
+
+			<div id="galeria" class="box1">
+				<div id="barraG">
+					<h3><a href="galerias.asp">Galerias</a></h3>					<div id="bbbG1">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  						
+							<img src="images/notas/izqNo.png" alt="" border="0" />
+							
+							</td>
+							<td width="21">
+								
+							<a href="javascript:cambiarG(2);"><img src="images/notas/der.png" alt="Siguiente" border="0" /></a>
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+					<div id="bbbG2"style="display:none;">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  		
+							<a href="javascript:cambiarG(1);"><img src="images/notas/izq.png" alt="Anterior" border="0" /></a>
+							
+							</td>
+							<td width="21">
+												
+							<img src="images/notas/derNo.png" alt="" border="0" />
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+
+				</div>
+				<div id="listaG">
+					<ul>
+						<div id="aaaG1">
+							<li class="ini">
+								<a href="galeria.asp?g=4113"><img class="img" src="upload/galeria/_p2_martinprin.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4113">Celebra su primer cumpleaños</a></h4>
+							</li>
+
+						</div>						<div id="aaaG2"  style="display:none;" >
+							<li class="ini">
+								<a href="galeria.asp?g=4112"><img class="img" src="upload/galeria/_p2_CARMENBUENA.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4112">Celebra en familia</a></h4>
+							</li>
+
+						</div>														
+					</ul>
+				</div>
+			</div>
+
+<script type="text/javascript">
+var actualD = 1;
+function cambiarG(sec)
+{
+	$$('#listaG div').invoke('hide');
+	$('aaaG'+sec).show();
+	$$('#barraG div').invoke('hide');
+	$('bbbG'+sec).show();
+	actualD = sec;
+}
+</script>
+	</div>
+	<div id="footer">
+
+		<div id="footer-barra-1">
+			<div id="menu-footer">
+				<ul>
+                
+					<li class="prim"><a href="info_nosotros.asp">Nosotros</a></li>	
+                
+					<li><a href="info_dir.asp">Directorio</a></li>	
+                
+					<li><a href="info_aviso.asp">Aviso Legal</a></li>	
+                
+					<li><a href="info_dir.asp">Contacto</a></li>	
+                
+					<li><a href="rss">RSS</a></li>	
+                    			
+				</ul>			
+			</div>        
+            <div id="buscar">
+                <form action="buscar_ava.asp" name="form1">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+                      <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+                    </tr>
+                  </table>
+              </form>
+            </div>						
+		</div>
+
+		<div id="footer-barra-2">		
+			<div id="copy">&copy; Novus 2009</div>
+			<div id="novus"><a href="http://novus.com.mx" target="_blank">Powered by exPRESS</a></div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12628170-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta property="og:site_name" content="laprensa.mx"/>
+<meta property="og:url" content="http://laprensa.mx/notas.asp?id=631458" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suma Ssa 6 mil 751 casos más de Covid-19" />
+<meta property="og:description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661." />		
+<meta property="og:image" content="http://laprensa.mx/upload/foto/58/9/3/4895272.jpg" />
+
+<TITLE>Suma Ssa 6 mil 751 casos más de Covid-19 - La Prensa - Nacional</TITLE>
+
+<meta name="description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.">
+<SCRIPT type="text/javascript" src="includes/prototype.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="includes/general.js"></SCRIPT>
+<script type="text/javascript">
+
+</script>
+
+<link href="includes/css/CSSmenu.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnovus.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSheader.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSbox.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnotax.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSelementos.css" rel="stylesheet" type="text/css" />
+<style>
+#columna_foto1, #columna_foto2, #columna_foto3, #columna_foto4 {
+	float:left;
+	width:300px;
+	margin:0px 15px 10px 0px;
+	}	
+#columna_foto2 {
+	width:200px;
+	}
+#columna_foto3 {
+	width:400px;
+	}
+#columna_foto4 {
+	width:700px;
+	}
+</style>
+</head>
+<body>
+<div id="container">
+
+<script type="text/javascript">
+startList = function() {
+if (document.all && document.getElementById) {
+navRoot = document.getElementById("nav");
+for (i=0; i<navRoot.childNodes.length; i++) {
+  node = navRoot.childNodes[i];
+  if (node.nodeName=="LI") {
+  node.onmouseover=function() {
+  this.className+=" over";
+    }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+      (" over", "");
+   }
+   }
+  }
+ }
+}
+/*window.onload=startList;*/
+
+function logout(encuesta){
+	unpopp();
+	conectar=0
+	var url = 'w2/logout.asp';
+	var myAjax = new Ajax.Updater('AA2', url);
+}
+var conectar=0;
+
+</script>
+
+	<div id="header">
+<div id="advertise_6a"><a href="nvs.asp?id=258" target="_blank"><img src="upload/banner/imo.jpg" border="0"></a></div>
+<script language="javascript" type="text/javascript">
+
+document.body.style.backgroundImage="url(images/bg2_.gif)";
+
+</script>
+      
+		<div id="AA">
+        	<div id="AA13">			<div id="ediciones_h">
+				<form name="form_ea" method="post" action="">
+					<h4><span>Ediciones Anteriores</span></h4>	
+					<span class="fecha"> 
+					  <select name="edicion" id="edicion">
+						<option value="10/17/2020">Hoy</option>			  
+
+						<option value="10/16/2020" SELECTED>16/10/2020</option>
+						<option value="10/15/2020">15/10/2020</option>
+						<option value="10/14/2020">14/10/2020</option>
+						<option value="10/13/2020">13/10/2020</option>
+						<option value="10/12/2020">12/10/2020</option>
+						<option value="10/11/2020">11/10/2020</option>
+						<option value="10/10/2020">10/10/2020</option>
+						<option value="10/9/2020">09/10/2020</option>
+						<option value="10/8/2020">08/10/2020</option>
+						<option value="10/7/2020">07/10/2020</option>	
+						<option value="0">Otras</option>
+					  </select>
+					</span>
+					<span class="ir">
+						<a href="javascript:anterior();"><img src="images/header/ir.png" border="0" /></a>
+			    	</span>			
+				</form>
+			</div>	</div>
+ 
+        	<div id="block_AA0"><span><a href="default.asp"><img src="images/sp.gif" width="485" height="115" border="0" alt="Ir a Portada" /></a></span></div>
+
+			<div id="block_AA1">
+				<div id="buscar">
+					<form action="buscar_ava.asp" name="form1">
+					  <table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+						  <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+						  <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+						</tr>
+					  </table>
+				  </form>
+				</div>						
+			</div>
+		</div>
+		<div id="menu-container">
+			<ul id="nav">
+			  <li class="on1"><a class="mn1" href="default.asp">Noticias</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=1">Reynosa</a></li>
+				  <li class="mn3"><a href="default.asp?s=4">1/2 Tiempo</a></li>
+				  <li class="mn3"><a href="default.asp?s=11">Ribereña</a></li>
+				  <li class="mn3"><a href="default.asp?s=10">Rio Bravo</a></li>
+				  <li class="mn3"><a href="default.asp?s=19">Tamaulipas</a></li>
+				  <li class="mn3"><a href="default.asp?s=12">Alerta Policiaca</a></li>
+				  <li class="mn3"><a href="default.asp?s=5">Rostros y Famosos</a></li>
+				  <li class="mn3"><a href="default.asp?s=3">Internacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=2">Nacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=23">Valle de Texas</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=6">Opinión</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="multimedia.asp">Multimedia</a>
+			  <ul>
+				  <li class="mn2"><a href="multimedia.asp">Videos</a></li>
+				  <li class="mn3"><a href="galerias.asp">Galerías</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="blogs.asp">Blogs</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=7">Sociales</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=14">Status</a></li>
+				  <li class="mn3"><a href="default.asp?s=16">Espacio</a></li>
+			  </ul></li>
+			  <li class="off"><a class="mn1" href="default.asp?s=14">Status</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="imp.asp">Edición Impresa</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="#">Servicios</a>
+			  <ul>
+				  <li class="mn2"><a href="rss.asp">RSS</a></li>
+				  <li class="mn3"><a href="http://laprensa.mx/movil/">Móvil</a></li>
+				  <li class="mn3"><a href="info_pub.asp">Publicidad</a></li>
+				  <li class="mn3"><a href="info_dir.asp">Directorio</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="buscar_ava.asp">Buscar</a>
+			  <ul>
+			  </ul></li>		  
+              <li class="mrI"><a href="rss/?s=2"><img src="images/header/rss.png" alt="RSS" width="14" height="15" /></a></li>
+              <li class="mr"><a href="rss/?s=2">RSS</a></li>
+              <li class="mrI"><a href="movil"><img src="images/header/movil.gif" alt="M&oacute;vil" width="10" height="16" /></a></li>
+              <li class="mr"><a href="movil">M&oacute;vil</a></li>
+
+			</ul>	
+		</div>
+	</div>
+
+      <div id="sec_tools">    
+          <div id="seccion" class="color1">
+          
+          	<a class="color1" href="default.asp?s=2">Nacional</a><span class="subsec">&nbsp;&nbsp;/&nbsp;&nbsp;<a class="color1" href="subsec.asp?ss=10">Estados</a></span>
+          </div>	
+	
+          <div id="rssI"><a href="rss/?s=2"><img src="images/header/rss_.gif" width="14" height="15" /></a></div>
+          <div id="rss"><a href="rss/?s=2">Suscribete a esta Secci&oacute;n</a></div>
+
+      </div>
+<div id="block_pub"><div align="center">
+
+	<div id="advertise_1"><div align="center"> 
+	 		<div id="ban1"><a href="javascript:cambioB();"><img class="cerrar" src="images/cerrar2.png" width="75" height="17" /></a><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/carrera_1.jpg" border="0"></a></div>
+			<div id="ban2" style="display:none;"><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/idecccc_0.jpg" border="0"></a></div></div></div>
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+  
+  </div></div>      
+   	<div id="main_1">
+		<div id="nota"><span class="box1">
+
+		<div id="votarN">
+
+			<div id="votos1">0</div>
+			<div id="votos2">Votos</div>
+
+			<div id="votos3">
+				<div id="down"><a href="javascript:vota(631458,2)"><img src="images/bt_down.png" alt="Nota Aburrida" /></a></div>
+				<div id="up"><a href="javascript:vota(631458,1)"><img src="images/bt_up.png" alt="Nota Interesante" /></a></div>
+			</div>
+
+		</div>
+		<div id="titulo">Suma Ssa 6 mil 751 casos más de Covid-19</div>
+		<div id="texto"><p>
+
+        <div id="columna_foto1">      	
+		
+		<div id="fotos_t1">
+				
+				<div id="foto_0">						
+					<div id="imagen"><img src="upload/foto/58/9/3/4895272.jpg" class="img" /></div>
+
+				<div id="imagen_area">
+					<div id="imagen_desc">Así el panorama de Covid en México. Foto: Especial
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>        
+
+	<div id="rel_enc">
+		<div id="relacionado"><span class="box4">
+			<h3><span>Relacionado</span></h3>
+			
+			<div id="rel_notas">	
+				<ul class="list3">
+					
+					<li class="ini" >
+						<div id="liga"><a href="notas.asp?id=631550">Notifica Ssa 355 muertes más por Covid-19</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631545">Arman regios megafila por vacuna</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631537">Temen rebrote de Covid</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631535">Sube a 53% ocupación hospitalaria en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631515">Cierra Cruz Roja 5 bases en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631504">Detectan robo hormiga de vacunas contra influenza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631459">Liga hospitalización cinco días al alza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631434">Alerta en NL hospitalización por caso Covid</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+				</ul>
+			</div>
+		
+		</span></div>
+
+</div>
+<div id="resumen">La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.</div>
+<div id="aut_fech">
+	viernes, 16 de octubre de 2020<br />Por: Iris Velázquez
+</div>
+ 
+<div id="tools"><span class="box3">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20" valign="top"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Flaprensa.mx%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_facebook.gif" width="16" height="16" alt="Comparte esto en Facebook" /></a></td>
+  </tr>
+  <tr>
+    <td height="19" valign="top"><a href="https://twitter.com/intent/tweet?original_referer=http://laprensa.mx/%2Fnotas.asp?id=631458&text=Suma+Ssa+6+mil+751+casos+m%C3%A1s+de+Covid-19&tw_p=tweetbutton&url=http://laprensa.mx/%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_twitter.gif" width="16" height="16" alt="Comparte esto en Twitter" /></a></td>
+  </tr>
+  <tr>
+    <td height="27" valign="top"><a href="https://plus.google.com/share?url=http://laprensa.mx/notas.asp?id=631458" target="_blank"><img src="images/notas/ico_google.gif" width="16" height="16" alt="Comparte esto en Digg" /></a></td>
+  </tr>
+  <tr>
+    <td height="23" valign="top"><INPUT name="notaI" type=image onClick="openWindow('includes/pop/nota_imprimir.asp?id=631458','nota_imprimir','600','420','1');" onMouseOver="(window.status='Print');return true" onMouseOut="(window.status='');return true" src="images/notas/imprimir.gif" alt='Print this article' width=14 height=14 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><INPUT name="notaE" type=image onClick="openWindow('includes/pop/nota_email.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Email thsi article');return true" onMouseOut="(window.status='');return true" src="images/notas/enviar.gif" alt='Email this article' width=14 height=10 border=0></td>
+  </tr>
+  <tr>
+    <td height="25" valign="top"><INPUT name="notaC" type=image onClick="openWindow('includes/pop/nota_editor.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Comment to Editor');return true" onMouseOut="(window.status='');return true" src="images/notas/editor.gif" alt='Send comment to Editor' width=14 height=13 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><a href="javascript:ft(1)"><img src="images/notas/font-mas.gif" alt="Enlarge Font" width="15" height="15" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="15" valign="top"><a href="javascript:ft(-1)"><img src="images/notas/font-menus.gif" alt="Decrease Font" width="15" height="15" border="0"></a></td>
+  </tr>
+</table>
+</span></div>Agencia / Reforma</p><p>Cd. de M&eacute;xico (16 octubre 2020).- </p><p>La Secretar&iacute;a de Salud report&oacute; 419 muertes m&aacute;s por Covid-19, con lo que suman 85 mil 704, y registr&oacute; 6 mil 751 casos confirmados, para un total de 841 mil 661.</p><p>En conferencia de prensa, Jos&eacute; Luis Alom&iacute;a, director de Epidemiolog&iacute;a, inform&oacute; que un mill&oacute;n 4 mil personas han salido negativas al virus.</p><p>Indic&oacute; que 44 mil 558 est&aacute;n esperando su resultado para saber su clasificaci&oacute;n final y 176 mil 267 son sospechosos sin muestra.</p><p>Explic&oacute; que el porcentaje de positividad es del 38 por ciento en la semana 40.</p><p>El funcionario pidi&oacute; a la poblaci&oacute;n valorar el nivel de riesgo en sus ciudades para limitar acividades y, si se hacen, implementar medidas como sana distancia y lavarse las manos.</p><p>En tanto, el subsecretario Hugo L&oacute;pez-Gatell advirti&oacute; que ning&uacute;n Pa&iacute;s ha entrado en estado de completo control.</p><p>En la medida en que existan "epidemias", dijo, en otros pa&iacute;ses existe riesgo.</p>&nbsp;</div>
+<div id="opinar" class="box3">
+
+<script type="text/javascript">
+function opina() {
+	var checar = $F('autor') + $F('tituloC') + $F('coment');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('tituloC')=="") {
+		$('tituloC').focus()
+		$('tituloC').select()
+		alert("El campo de TITULO no puede estar vacío.")
+		return (false)
+	}
+	if ($F('coment')=="") {
+		$('coment').focus()
+		$('coment').select()
+		alert("El campo de COMENTARIO no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/opina.asp?'+Form.serialize('formOpina');
+	var myAjax = new Ajax.Updater('opina_forma', url);
+	return (false)
+}
+function responder(nota_coment_id){
+	unpopp();
+	var url = 'w2/argumenta_forma.asp';
+	var pars = 'nota_coment_id='+nota_coment_id;
+	var myAjax = new Ajax.Updater('arg_'+nota_coment_id, url, {method: 'get', parameters: pars});
+}
+function argumenta(cmt__MMColParam) {
+	var checar = $F('autor') + $F('discutir');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('discutir')=="") {
+		$('discutir').focus()
+		$('discutir').select()
+		alert("El campo de RESPUESTA no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/argumenta.asp?'+Form.serialize('formArg');
+	var myAjax = new Ajax.Updater('arg_'+cmt__MMColParam, url);
+	return (false)
+}
+</script>
+		<div id="opina">
+			<h3><img src="images/cmt.gif" alt="" />Opina sobre este art&iacute;culo</h3>
+		  <div id="opina_forma" class="box5">
+		    <form id="formOpina" name="formOpina" method="post" action="" onSubmit="return opina(this)">
+		      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="60" class="label">Nombre</td>
+                  <td width="232">
+				  <input name="nota_id" type="hidden" value="631458" />
+				  <input name="autor" type="text" class="nom_email" id="autor" value="" maxlength="50" /></td>
+				  <td width="18">&nbsp;</td>
+                  <td width="50" class="label">Email</td>
+                  <td> <input name="email" type="text" class="nom_email" id="email" value=""maxlength="100" /></td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">T&iacute;tulo</td>
+                  <td colspan="4"><input name="tituloC" type="text" class="titulo" id="tituloC" maxlength="120" /></td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">Opinion</td>
+                  <td colspan="4"><textarea name="coment" rows="4" class="opinion" id="coment"></textarea></td>
+				  <td valign="bottom" width="64"><div align="right"><input name="bt_enviar" type="image" src="images/notas/bt_enviar.png" alt="Enviar" border="0"></div></td>
+                </tr>
+              </table>
+            </form>
+	      </div>
+		</div>
+</div>
+		</span></div> 
+
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+            
+	</div></div>
+
+	<div id="main_2">
+
+			<div id="mas_vistas"><span class="box2">
+				<div id="vistas">
+					<h2>
+					<div id="m_vis">M&aacute;s Visto</div>
+					<div id="m_com"><a href="javascript:vistas(2)">+ Comentado</a></div>
+					</h2>
+					<ol class="list2">					
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=631463">Leen cargos a Cienfuegos; audiencia será el martes</a></div>
+						</li>					
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=631525">Toman normalistas caseta en Michoacán</a></div>
+						</li>					
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=631458">Suma Ssa 6 mil 751 casos más de Covid-19</a></div>
+						</li>					
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=631456">Amplían cierre de frontera México-EU un mes más</a></div>
+						</li>					
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=631517">Anticipan Buen Fin electrónico</a></div>
+						</li>
+					</ol>
+				</div>
+				<div id="comentadas" style="display:none;">
+					<h2>
+					<div id="m_vis"><a href="javascript:vistas(1)">+ Visto</a></div>
+					<div id="m_com">M&aacute;s Comentado</div>
+					</h2>
+					<ol class="list2">				
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=623479">Suma INE 745 mil solicitudes de constancia digital </a></div>
+						</li>				
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=623008">Suman 12 millones de casos de coronavirus en el mundo</a></div>
+						</li>				
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=623007">Murió Alcaldesa en Yucatán por Covid-19</a></div>
+						</li>				
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=623006">Demandan a Cinemex por 15 mdd en Corte de NY</a></div>
+						</li>				
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=623005">Visita fue corta, pero muy intensa.- AMLO</a></div>
+						</li>
+					</ol>
+				</div>
+			</span></div>
+    	<div id="pub_1">
+
+		</div>
+
+<div id="otras_noticias"><span class="box1">
+	<h3><span>Otras Noticias</span></h3>
+	<ul class="list1">
+
+            <li class="ini" >
+
+				<a class="img_izq" href="notas.asp?id=631550"><img src="upload/foto/58/9/4/_ch_4895878.jpg" alt="" /></a>
+				<a href="notas.asp?id=631550">Notifica Ssa 355 muertes más por Covid-19</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631549"><img src="upload/foto/58/9/4/_ch_4895827.jpg" alt="" /></a>
+				<a href="notas.asp?id=631549">Reparan aeropuerto o nos entregan concesión.-AMLO</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631547"><img src="upload/foto/58/9/4/_ch_4885148.jpg" alt="" /></a>
+				<a href="notas.asp?id=631547">Defiende Durazo honestidad de Fuerzas Armadas</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631546"><img src="upload/foto/58/9/4/_ch_4895801.jpg" alt="" /></a>
+				<a href="notas.asp?id=631546">Regresan al mercado 12 quesos y un yogur</a>
+			</li>
+
+	</ul>
+</span></div>
+
+			<div id="galeria" class="box1">
+				<div id="barraG">
+					<h3><a href="galerias.asp">Galerias</a></h3>					<div id="bbbG1">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  						
+							<img src="images/notas/izqNo.png" alt="" border="0" />
+							
+							</td>
+							<td width="21">
+								
+							<a href="javascript:cambiarG(2);"><img src="images/notas/der.png" alt="Siguiente" border="0" /></a>
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+					<div id="bbbG2"style="display:none;">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  		
+							<a href="javascript:cambiarG(1);"><img src="images/notas/izq.png" alt="Anterior" border="0" /></a>
+							
+							</td>
+							<td width="21">
+												
+							<img src="images/notas/derNo.png" alt="" border="0" />
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+
+				</div>
+				<div id="listaG">
+					<ul>
+						<div id="aaaG1">
+							<li class="ini">
+								<a href="galeria.asp?g=4113"><img class="img" src="upload/galeria/_p2_martinprin.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4113">Celebra su primer cumpleaños</a></h4>
+							</li>
+
+						</div>						<div id="aaaG2"  style="display:none;" >
+							<li class="ini">
+								<a href="galeria.asp?g=4112"><img class="img" src="upload/galeria/_p2_CARMENBUENA.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4112">Celebra en familia</a></h4>
+							</li>
+
+						</div>														
+					</ul>
+				</div>
+			</div>
+
+<script type="text/javascript">
+var actualD = 1;
+function cambiarG(sec)
+{
+	$$('#listaG div').invoke('hide');
+	$('aaaG'+sec).show();
+	$$('#barraG div').invoke('hide');
+	$('bbbG'+sec).show();
+	actualD = sec;
+}
+</script>
+	</div>
+	<div id="footer">
+
+		<div id="footer-barra-1">
+			<div id="menu-footer">
+				<ul>
+                
+					<li class="prim"><a href="info_nosotros.asp">Nosotros</a></li>	
+                
+					<li><a href="info_dir.asp">Directorio</a></li>	
+                
+					<li><a href="info_aviso.asp">Aviso Legal</a></li>	
+                
+					<li><a href="info_dir.asp">Contacto</a></li>	
+                
+					<li><a href="rss">RSS</a></li>	
+                    			
+				</ul>			
+			</div>        
+            <div id="buscar">
+                <form action="buscar_ava.asp" name="form1">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+                      <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+                    </tr>
+                  </table>
+              </form>
+            </div>						
+		</div>
+
+		<div id="footer-barra-2">		
+			<div id="copy">&copy; Novus 2009</div>
+			<div id="novus"><a href="http://novus.com.mx" target="_blank">Powered by exPRESS</a></div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12628170-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta property="og:site_name" content="laprensa.mx"/>
+<meta property="og:url" content="http://laprensa.mx/notas.asp?id=631458" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suma Ssa 6 mil 751 casos más de Covid-19" />
+<meta property="og:description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661." />		
+<meta property="og:image" content="http://laprensa.mx/upload/foto/58/9/3/4895272.jpg" />
+
+<TITLE>Suma Ssa 6 mil 751 casos más de Covid-19 - La Prensa - Nacional</TITLE>
+
+<meta name="description" content="La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.">
+<SCRIPT type="text/javascript" src="includes/prototype.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="includes/general.js"></SCRIPT>
+<script type="text/javascript">
+
+</script>
+
+<link href="includes/css/CSSmenu.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnovus.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSheader.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSbox.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSnotax.css" rel="stylesheet" type="text/css" />
+<link href="includes/css/CSSelementos.css" rel="stylesheet" type="text/css" />
+<style>
+#columna_foto1, #columna_foto2, #columna_foto3, #columna_foto4 {
+	float:left;
+	width:300px;
+	margin:0px 15px 10px 0px;
+	}	
+#columna_foto2 {
+	width:200px;
+	}
+#columna_foto3 {
+	width:400px;
+	}
+#columna_foto4 {
+	width:700px;
+	}
+</style>
+</head>
+<body>
+<div id="container">
+
+<script type="text/javascript">
+startList = function() {
+if (document.all && document.getElementById) {
+navRoot = document.getElementById("nav");
+for (i=0; i<navRoot.childNodes.length; i++) {
+  node = navRoot.childNodes[i];
+  if (node.nodeName=="LI") {
+  node.onmouseover=function() {
+  this.className+=" over";
+    }
+  node.onmouseout=function() {
+  this.className=this.className.replace
+      (" over", "");
+   }
+   }
+  }
+ }
+}
+/*window.onload=startList;*/
+
+function logout(encuesta){
+	unpopp();
+	conectar=0
+	var url = 'w2/logout.asp';
+	var myAjax = new Ajax.Updater('AA2', url);
+}
+var conectar=0;
+
+</script>
+
+	<div id="header">
+<div id="advertise_6a"><a href="nvs.asp?id=258" target="_blank"><img src="upload/banner/imo.jpg" border="0"></a></div>
+<script language="javascript" type="text/javascript">
+
+document.body.style.backgroundImage="url(images/bg2_.gif)";
+
+</script>
+      
+		<div id="AA">
+        	<div id="AA13">			<div id="ediciones_h">
+				<form name="form_ea" method="post" action="">
+					<h4><span>Ediciones Anteriores</span></h4>	
+					<span class="fecha"> 
+					  <select name="edicion" id="edicion">
+						<option value="10/17/2020">Hoy</option>			  
+
+						<option value="10/16/2020" SELECTED>16/10/2020</option>
+						<option value="10/15/2020">15/10/2020</option>
+						<option value="10/14/2020">14/10/2020</option>
+						<option value="10/13/2020">13/10/2020</option>
+						<option value="10/12/2020">12/10/2020</option>
+						<option value="10/11/2020">11/10/2020</option>
+						<option value="10/10/2020">10/10/2020</option>
+						<option value="10/9/2020">09/10/2020</option>
+						<option value="10/8/2020">08/10/2020</option>
+						<option value="10/7/2020">07/10/2020</option>	
+						<option value="0">Otras</option>
+					  </select>
+					</span>
+					<span class="ir">
+						<a href="javascript:anterior();"><img src="images/header/ir.png" border="0" /></a>
+			    	</span>			
+				</form>
+			</div>	</div>
+ 
+        	<div id="block_AA0"><span><a href="default.asp"><img src="images/sp.gif" width="485" height="115" border="0" alt="Ir a Portada" /></a></span></div>
+
+			<div id="block_AA1">
+				<div id="buscar">
+					<form action="buscar_ava.asp" name="form1">
+					  <table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+						  <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+						  <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+						</tr>
+					  </table>
+				  </form>
+				</div>						
+			</div>
+		</div>
+		<div id="menu-container">
+			<ul id="nav">
+			  <li class="on1"><a class="mn1" href="default.asp">Noticias</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=1">Reynosa</a></li>
+				  <li class="mn3"><a href="default.asp?s=4">1/2 Tiempo</a></li>
+				  <li class="mn3"><a href="default.asp?s=11">Ribereña</a></li>
+				  <li class="mn3"><a href="default.asp?s=10">Rio Bravo</a></li>
+				  <li class="mn3"><a href="default.asp?s=19">Tamaulipas</a></li>
+				  <li class="mn3"><a href="default.asp?s=12">Alerta Policiaca</a></li>
+				  <li class="mn3"><a href="default.asp?s=5">Rostros y Famosos</a></li>
+				  <li class="mn3"><a href="default.asp?s=3">Internacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=2">Nacional</a></li>
+				  <li class="mn3"><a href="default.asp?s=23">Valle de Texas</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=6">Opinión</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="multimedia.asp">Multimedia</a>
+			  <ul>
+				  <li class="mn2"><a href="multimedia.asp">Videos</a></li>
+				  <li class="mn3"><a href="galerias.asp">Galerías</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="blogs.asp">Blogs</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="default.asp?s=7">Sociales</a>
+			  <ul>
+				  <li class="mn2"><a href="default.asp?s=14">Status</a></li>
+				  <li class="mn3"><a href="default.asp?s=16">Espacio</a></li>
+			  </ul></li>
+			  <li class="off"><a class="mn1" href="default.asp?s=14">Status</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="imp.asp">Edición Impresa</a>
+			  <ul>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="#">Servicios</a>
+			  <ul>
+				  <li class="mn2"><a href="rss.asp">RSS</a></li>
+				  <li class="mn3"><a href="http://laprensa.mx/movil/">Móvil</a></li>
+				  <li class="mn3"><a href="info_pub.asp">Publicidad</a></li>
+				  <li class="mn3"><a href="info_dir.asp">Directorio</a></li>
+			  </ul></li>
+			  <li class="off1"><a class="mn1" href="buscar_ava.asp">Buscar</a>
+			  <ul>
+			  </ul></li>		  
+              <li class="mrI"><a href="rss/?s=2"><img src="images/header/rss.png" alt="RSS" width="14" height="15" /></a></li>
+              <li class="mr"><a href="rss/?s=2">RSS</a></li>
+              <li class="mrI"><a href="movil"><img src="images/header/movil.gif" alt="M&oacute;vil" width="10" height="16" /></a></li>
+              <li class="mr"><a href="movil">M&oacute;vil</a></li>
+
+			</ul>	
+		</div>
+	</div>
+
+      <div id="sec_tools">    
+          <div id="seccion" class="color1">
+          
+          	<a class="color1" href="default.asp?s=2">Nacional</a><span class="subsec">&nbsp;&nbsp;/&nbsp;&nbsp;<a class="color1" href="subsec.asp?ss=10">Estados</a></span>
+          </div>	
+	
+          <div id="rssI"><a href="rss/?s=2"><img src="images/header/rss_.gif" width="14" height="15" /></a></div>
+          <div id="rss"><a href="rss/?s=2">Suscribete a esta Secci&oacute;n</a></div>
+
+      </div>
+<div id="block_pub"><div align="center">
+
+	<div id="advertise_1"><div align="center"> 
+	 		<div id="ban1"><a href="javascript:cambioB();"><img class="cerrar" src="images/cerrar2.png" width="75" height="17" /></a><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/carrera_1.jpg" border="0"></a></div>
+			<div id="ban2" style="display:none;"><a href="nvs.asp?id=161" target="_blank"><img src="upload/banner/idecccc_0.jpg" border="0"></a></div></div></div>
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+  
+  </div></div>      
+   	<div id="main_1">
+		<div id="nota"><span class="box1">
+
+		<div id="votarN">
+
+			<div id="votos1">0</div>
+			<div id="votos2">Votos</div>
+
+			<div id="votos3">
+				<div id="down"><a href="javascript:vota(631458,2)"><img src="images/bt_down.png" alt="Nota Aburrida" /></a></div>
+				<div id="up"><a href="javascript:vota(631458,1)"><img src="images/bt_up.png" alt="Nota Interesante" /></a></div>
+			</div>
+
+		</div>
+		<div id="titulo">Suma Ssa 6 mil 751 casos más de Covid-19</div>
+		<div id="texto"><p>
+
+        <div id="columna_foto1">      	
+		
+		<div id="fotos_t1">
+				
+				<div id="foto_0">						
+					<div id="imagen"><img src="upload/foto/58/9/3/4895272.jpg" class="img" /></div>
+
+				<div id="imagen_area">
+					<div id="imagen_desc">Así el panorama de Covid en México. Foto: Especial
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>        
+
+	<div id="rel_enc">
+		<div id="relacionado"><span class="box4">
+			<h3><span>Relacionado</span></h3>
+			
+			<div id="rel_notas">	
+				<ul class="list3">
+					
+					<li class="ini" >
+						<div id="liga"><a href="notas.asp?id=631550">Notifica Ssa 355 muertes más por Covid-19</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631545">Arman regios megafila por vacuna</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631537">Temen rebrote de Covid</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631535">Sube a 53% ocupación hospitalaria en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631515">Cierra Cruz Roja 5 bases en NL</a>&nbsp;<span class="hora">(17/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631504">Detectan robo hormiga de vacunas contra influenza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631459">Liga hospitalización cinco días al alza</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+					<li>
+						<div id="liga"><a href="notas.asp?id=631434">Alerta en NL hospitalización por caso Covid</a>&nbsp;<span class="hora">(16/10/2020)</span></div>
+					</li>
+					
+				</ul>
+			</div>
+		
+		</span></div>
+
+</div>
+<div id="resumen">La Secretaría de Salud reportó 419 muertes más por Covid-19, con lo que suman 85 mil 704, y registró 6 mil 751 casos confirmados, para un total de 841 mil 661.</div>
+<div id="aut_fech">
+	viernes, 16 de octubre de 2020<br />Por: Iris Velázquez
+</div>
+ 
+<div id="tools"><span class="box3">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20" valign="top"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Flaprensa.mx%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_facebook.gif" width="16" height="16" alt="Comparte esto en Facebook" /></a></td>
+  </tr>
+  <tr>
+    <td height="19" valign="top"><a href="https://twitter.com/intent/tweet?original_referer=http://laprensa.mx/%2Fnotas.asp?id=631458&text=Suma+Ssa+6+mil+751+casos+m%C3%A1s+de+Covid-19&tw_p=tweetbutton&url=http://laprensa.mx/%2Fnotas.asp?id=631458" target="_blank"><img src="images/notas/ico_twitter.gif" width="16" height="16" alt="Comparte esto en Twitter" /></a></td>
+  </tr>
+  <tr>
+    <td height="27" valign="top"><a href="https://plus.google.com/share?url=http://laprensa.mx/notas.asp?id=631458" target="_blank"><img src="images/notas/ico_google.gif" width="16" height="16" alt="Comparte esto en Digg" /></a></td>
+  </tr>
+  <tr>
+    <td height="23" valign="top"><INPUT name="notaI" type=image onClick="openWindow('includes/pop/nota_imprimir.asp?id=631458','nota_imprimir','600','420','1');" onMouseOver="(window.status='Print');return true" onMouseOut="(window.status='');return true" src="images/notas/imprimir.gif" alt='Print this article' width=14 height=14 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><INPUT name="notaE" type=image onClick="openWindow('includes/pop/nota_email.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Email thsi article');return true" onMouseOut="(window.status='');return true" src="images/notas/enviar.gif" alt='Email this article' width=14 height=10 border=0></td>
+  </tr>
+  <tr>
+    <td height="25" valign="top"><INPUT name="notaC" type=image onClick="openWindow('includes/pop/nota_editor.asp?id=631458','nota_email','355','400');" onMouseOver="(window.status='Comment to Editor');return true" onMouseOut="(window.status='');return true" src="images/notas/editor.gif" alt='Send comment to Editor' width=14 height=13 border=0></td>
+  </tr>
+  <tr>
+    <td height="18" valign="top"><a href="javascript:ft(1)"><img src="images/notas/font-mas.gif" alt="Enlarge Font" width="15" height="15" border="0"></a></td>
+  </tr>
+  <tr>
+    <td height="15" valign="top"><a href="javascript:ft(-1)"><img src="images/notas/font-menus.gif" alt="Decrease Font" width="15" height="15" border="0"></a></td>
+  </tr>
+</table>
+</span></div>Agencia / Reforma</p><p>Cd. de M&eacute;xico (16 octubre 2020).- </p><p>La Secretar&iacute;a de Salud report&oacute; 419 muertes m&aacute;s por Covid-19, con lo que suman 85 mil 704, y registr&oacute; 6 mil 751 casos confirmados, para un total de 841 mil 661.</p><p>En conferencia de prensa, Jos&eacute; Luis Alom&iacute;a, director de Epidemiolog&iacute;a, inform&oacute; que un mill&oacute;n 4 mil personas han salido negativas al virus.</p><p>Indic&oacute; que 44 mil 558 est&aacute;n esperando su resultado para saber su clasificaci&oacute;n final y 176 mil 267 son sospechosos sin muestra.</p><p>Explic&oacute; que el porcentaje de positividad es del 38 por ciento en la semana 40.</p><p>El funcionario pidi&oacute; a la poblaci&oacute;n valorar el nivel de riesgo en sus ciudades para limitar acividades y, si se hacen, implementar medidas como sana distancia y lavarse las manos.</p><p>En tanto, el subsecretario Hugo L&oacute;pez-Gatell advirti&oacute; que ning&uacute;n Pa&iacute;s ha entrado en estado de completo control.</p><p>En la medida en que existan "epidemias", dijo, en otros pa&iacute;ses existe riesgo.</p>&nbsp;</div>
+<div id="opinar" class="box3">
+
+<script type="text/javascript">
+function opina() {
+	var checar = $F('autor') + $F('tituloC') + $F('coment');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('tituloC')=="") {
+		$('tituloC').focus()
+		$('tituloC').select()
+		alert("El campo de TITULO no puede estar vacío.")
+		return (false)
+	}
+	if ($F('coment')=="") {
+		$('coment').focus()
+		$('coment').select()
+		alert("El campo de COMENTARIO no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/opina.asp?'+Form.serialize('formOpina');
+	var myAjax = new Ajax.Updater('opina_forma', url);
+	return (false)
+}
+function responder(nota_coment_id){
+	unpopp();
+	var url = 'w2/argumenta_forma.asp';
+	var pars = 'nota_coment_id='+nota_coment_id;
+	var myAjax = new Ajax.Updater('arg_'+nota_coment_id, url, {method: 'get', parameters: pars});
+}
+function argumenta(cmt__MMColParam) {
+	var checar = $F('autor') + $F('discutir');
+	checar = checar.toLowerCase();
+	if (checar.indexOf("http")!=-1 || checar.indexOf("www")!=-1 || checar.indexOf("script")!=-1 || checar.indexOf("htm")!=-1) {
+		$('autor').focus()
+		$('autor').select()
+		alert("Su comentario no puede contener hypervínculos.")
+		return (false)
+	}
+	if ($F('autor')=="") {
+		$('autor').focus()
+		$('autor').select()
+		alert("El campo de NOMBRE no puede estar vacío.")
+		return (false)
+	}
+	if ($F('discutir')=="") {
+		$('discutir').focus()
+		$('discutir').select()
+		alert("El campo de RESPUESTA no puede estar vacío.")
+		return (false)
+	}
+	var url = 'w2/argumenta.asp?'+Form.serialize('formArg');
+	var myAjax = new Ajax.Updater('arg_'+cmt__MMColParam, url);
+	return (false)
+}
+</script>
+		<div id="opina">
+			<h3><img src="images/cmt.gif" alt="" />Opina sobre este art&iacute;culo</h3>
+		  <div id="opina_forma" class="box5">
+		    <form id="formOpina" name="formOpina" method="post" action="" onSubmit="return opina(this)">
+		      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="60" class="label">Nombre</td>
+                  <td width="232">
+				  <input name="nota_id" type="hidden" value="631458" />
+				  <input name="autor" type="text" class="nom_email" id="autor" value="" maxlength="50" /></td>
+				  <td width="18">&nbsp;</td>
+                  <td width="50" class="label">Email</td>
+                  <td> <input name="email" type="text" class="nom_email" id="email" value=""maxlength="100" /></td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">T&iacute;tulo</td>
+                  <td colspan="4"><input name="tituloC" type="text" class="titulo" id="tituloC" maxlength="120" /></td>
+                </tr>
+                <tr>
+                  <td width="60" class="label">Opinion</td>
+                  <td colspan="4"><textarea name="coment" rows="4" class="opinion" id="coment"></textarea></td>
+				  <td valign="bottom" width="64"><div align="right"><input name="bt_enviar" type="image" src="images/notas/bt_enviar.png" alt="Enviar" border="0"></div></td>
+                </tr>
+              </table>
+            </form>
+	      </div>
+		</div>
+</div>
+		</span></div> 
+
+<script type="text/javascript">
+function cambioB()
+{	
+	$('ban1').style.display = "none";
+	$('ban2').style.display = "";
+}
+intval=setInterval("cambioB()",17000);
+</script>
+            
+	</div></div>
+
+	<div id="main_2">
+
+			<div id="mas_vistas"><span class="box2">
+				<div id="vistas">
+					<h2>
+					<div id="m_vis">M&aacute;s Visto</div>
+					<div id="m_com"><a href="javascript:vistas(2)">+ Comentado</a></div>
+					</h2>
+					<ol class="list2">					
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=631525">Toman normalistas caseta en Michoacán</a></div>
+						</li>					
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=631463">Leen cargos a Cienfuegos; audiencia será el martes</a></div>
+						</li>					
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=631458">Suma Ssa 6 mil 751 casos más de Covid-19</a></div>
+						</li>					
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=631456">Amplían cierre de frontera México-EU un mes más</a></div>
+						</li>					
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=631517">Anticipan Buen Fin electrónico</a></div>
+						</li>
+					</ol>
+				</div>
+				<div id="comentadas" style="display:none;">
+					<h2>
+					<div id="m_vis"><a href="javascript:vistas(1)">+ Visto</a></div>
+					<div id="m_com">M&aacute;s Comentado</div>
+					</h2>
+					<ol class="list2">				
+						<li>
+							<div id="m_num">1</div>
+							<div id="m_tit"><a href="notas.asp?id=623479">Suma INE 745 mil solicitudes de constancia digital </a></div>
+						</li>				
+						<li>
+							<div id="m_num">2</div>
+							<div id="m_tit"><a href="notas.asp?id=623008">Suman 12 millones de casos de coronavirus en el mundo</a></div>
+						</li>				
+						<li>
+							<div id="m_num">3</div>
+							<div id="m_tit"><a href="notas.asp?id=623007">Murió Alcaldesa en Yucatán por Covid-19</a></div>
+						</li>				
+						<li>
+							<div id="m_num">4</div>
+							<div id="m_tit"><a href="notas.asp?id=623006">Demandan a Cinemex por 15 mdd en Corte de NY</a></div>
+						</li>				
+						<li>
+							<div id="m_num">5</div>
+							<div id="m_tit"><a href="notas.asp?id=623005">Visita fue corta, pero muy intensa.- AMLO</a></div>
+						</li>
+					</ol>
+				</div>
+			</span></div>
+    	<div id="pub_1">
+
+		</div>
+
+<div id="otras_noticias"><span class="box1">
+	<h3><span>Otras Noticias</span></h3>
+	<ul class="list1">
+
+            <li class="ini" >
+
+				<a class="img_izq" href="notas.asp?id=631550"><img src="upload/foto/58/9/4/_ch_4895878.jpg" alt="" /></a>
+				<a href="notas.asp?id=631550">Notifica Ssa 355 muertes más por Covid-19</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631549"><img src="upload/foto/58/9/4/_ch_4895827.jpg" alt="" /></a>
+				<a href="notas.asp?id=631549">Reparan aeropuerto o nos entregan concesión.-AMLO</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631547"><img src="upload/foto/58/9/4/_ch_4885148.jpg" alt="" /></a>
+				<a href="notas.asp?id=631547">Defiende Durazo honestidad de Fuerzas Armadas</a>
+			</li>
+
+            <li>
+
+				<a class="img_izq" href="notas.asp?id=631546"><img src="upload/foto/58/9/4/_ch_4895801.jpg" alt="" /></a>
+				<a href="notas.asp?id=631546">Regresan al mercado 12 quesos y un yogur</a>
+			</li>
+
+	</ul>
+</span></div>
+
+			<div id="galeria" class="box1">
+				<div id="barraG">
+					<h3><a href="galerias.asp">Galerias</a></h3>					<div id="bbbG1">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  						
+							<img src="images/notas/izqNo.png" alt="" border="0" />
+							
+							</td>
+							<td width="21">
+								
+							<a href="javascript:cambiarG(2);"><img src="images/notas/der.png" alt="Siguiente" border="0" /></a>
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+					<div id="bbbG2"style="display:none;">	
+						<table border="0" cellpadding="0" cellspacing="0">
+						  <tr>						  
+						  	<td width="9"><img src="images/blt1_.png" alt="" border="0" /></td>						  
+						  	<td width="9"><img src="images/blt1.png" alt="" border="0" /></td>						  	
+							<td width="7"><img src="images/sp.gif" alt="" width="9" height="9" border="0" /></td>		  
+						  	<td width="21">
+						  		
+							<a href="javascript:cambiarG(1);"><img src="images/notas/izq.png" alt="Anterior" border="0" /></a>
+							
+							</td>
+							<td width="21">
+												
+							<img src="images/notas/derNo.png" alt="" border="0" />
+							
+							</td>	
+						  </tr>
+						</table>
+					</div>
+
+				</div>
+				<div id="listaG">
+					<ul>
+						<div id="aaaG1">
+							<li class="ini">
+								<a href="galeria.asp?g=4113"><img class="img" src="upload/galeria/_p2_martinprin.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4113">Celebra su primer cumpleaños</a></h4>
+							</li>
+
+						</div>						<div id="aaaG2"  style="display:none;" >
+							<li class="ini">
+								<a href="galeria.asp?g=4112"><img class="img" src="upload/galeria/_p2_CARMENBUENA.jpg" alt="" /></a>			
+								<h4><a href="notas.asp?id=4112">Celebra en familia</a></h4>
+							</li>
+
+						</div>														
+					</ul>
+				</div>
+			</div>
+
+<script type="text/javascript">
+var actualD = 1;
+function cambiarG(sec)
+{
+	$$('#listaG div').invoke('hide');
+	$('aaaG'+sec).show();
+	$$('#barraG div').invoke('hide');
+	$('bbbG'+sec).show();
+	actualD = sec;
+}
+</script>
+	</div>
+	<div id="footer">
+
+		<div id="footer-barra-1">
+			<div id="menu-footer">
+				<ul>
+                
+					<li class="prim"><a href="info_nosotros.asp">Nosotros</a></li>	
+                
+					<li><a href="info_dir.asp">Directorio</a></li>	
+                
+					<li><a href="info_aviso.asp">Aviso Legal</a></li>	
+                
+					<li><a href="info_dir.asp">Contacto</a></li>	
+                
+					<li><a href="rss">RSS</a></li>	
+                    			
+				</ul>			
+			</div>        
+            <div id="buscar">
+                <form action="buscar_ava.asp" name="form1">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="122" height="16"><input name="p" type="text" class="clas_buscar_p" id="p" value="" /></td>
+                      <td height="16"><input type="image" onClick="submit" src="images/header/buscar.png" /></td>
+                    </tr>
+                  </table>
+              </form>
+            </div>						
+		</div>
+
+		<div id="footer-barra-2">		
+			<div id="copy">&copy; Novus 2009</div>
+			<div id="novus"><a href="http://novus.com.mx" target="_blank">Powered by exPRESS</a></div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12628170-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+</body>
+</html>

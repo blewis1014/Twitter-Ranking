@@ -1,0 +1,1668 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.windowsclub.com.br/xmlrpc.php">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club" />
+	<meta property="og:description" content="No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a&nbsp;[&hellip;]" />
+	<meta property="og:url" content="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:site_name" content="Windows Club" />
+	<meta property="article:author" content="https://www.facebook.com/jorge.henrique.5815" />
+	<meta property="article:published_time" content="2020-10-17T00:24:08+00:00" />
+	<meta property="og:image" content="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" />
+	<meta property="og:image:width" content="716" />
+	<meta property="og:image:height" content="392" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.windowsclub.com.br/#website","url":"https://www.windowsclub.com.br/","name":"Windows Club","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.windowsclub.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage","inLanguage":"pt-BR","url":"https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg","width":716,"height":392},{"@type":"WebPage","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#webpage","url":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/","name":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores - Windows Club","isPartOf":{"@id":"https://www.windowsclub.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage"},"datePublished":"2020-10-17T00:24:08+00:00","dateModified":"2020-10-17T00:24:08+00:00","author":{"@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/"]}]},{"@type":"Person","@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701","name":"Jorge Henrique","image":{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/#personlogo","inLanguage":"pt-BR","url":"https://secure.gravatar.com/avatar/8dc8759509fb81e500f4c6d1005f833b?s=96&r=g","caption":"Jorge Henrique"},"description":"Sou advogado, jornalista e f\u00e3 da plataforma Windows h\u00e1 cerca de 10 anos. Fa\u00e7o cobertura em eventos e estou diariamente atento a respeito do universo da Microsoft no que tange aos produtos para os consumidores. Respondo como editor-executivo do Windows Club. Estou no Facebook e no Instagram a sua disposi\u00e7\u00e3o.","sameAs":["https://www.facebook.com/jorge.henrique.5815"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Windows Club &raquo;" href="https://www.windowsclub.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo;" href="https://www.windowsclub.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo; MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.windowsclub.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.windowsclub.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-bootstrap-tooltip-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.css?ver=4.62' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-frontend-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/css/frontend.css?ver=4.62' type='text/css' media='all' />
+<style id='spacexchimp_p005-frontend-css-inline-css' type='text/css'>
+
+                    .sxc-follow-buttons {
+                        text-align: center !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button,
+                    .sxc-follow-buttons .sxc-follow-button a,
+                    .sxc-follow-buttons .sxc-follow-button a img {
+                        width: 64px !important;
+                        height: 64px !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button {
+                        margin: 5px !important;
+                    }
+                  
+</style>
+<link rel='stylesheet' id='talon-style-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='talon-style-inline-css' type='text/css'>
+.inner-bar,.lists-box ul li:before,.testimonials-box .slick-dots li.slick-active button::before,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce span.onsale,.woocommerce ul.products li.product .onsale,.check-box-active .checkbox-inner,.tags-links a:hover,.button,button,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce button.single_add_to_cart_button.button,.button:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce button.single_add_to_cart_button.button:hover	{ background-color:#348241;}
+.team-social a:hover,.portfolio-item h4 a:hover,.woocommerce-message:before { color:#348241;}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.portfolio-filter ul .active a,.woocommerce-message { border-color:#348241;}
+.button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .woocommerce button.single_add_to_cart_button.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover 
+					{ -webkit-box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);
+					  -moz-box-shadow:  0px 0px 40px 0px rgba(52,130,65,0.54);
+					  box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);}
+.site-title a,.site-title a:hover { color:#2d3142;}
+.site-description { color:#2d0000;}
+.site-header { background-color:#ffffff;}
+.main-navigation li a { color:#000a04;}
+.main-slider-caption h1 { color:#ffffff;}
+.main-slider-caption p { color:#ffffff;}
+.site-footer { background-color:#348241;}
+.site-footer, .site-footer a { color:#ffffff;}
+body { color:#828282;}
+body { font-family:Open Sans;}
+h1,h2,h3,h4,h5,h6,.site-title { font-family:Noto Sans;}
+.site-title { font-size:36px; }
+.site-description { font-size:16px; }
+body { font-size:16px; }
+.main-navigation li { font-size:13px; }
+.so-panel .widget-title { font-size:30px; }
+.post-item .post-content .entry-title { font-size:18px; }
+.single .entry-header .entry-title { font-size:36px; }
+.widget-area .widget-title span { font-size:18px; }
+
+</style>
+<link rel='stylesheet' id='talon-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%7CNoto+Sans%3A400%2C400italic%2C600%2C600italic&#038;subset=latin%2Clatin-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='talon-icons-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/icons/icons.min.css?ver=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/remove-disqus-ads/assets/js/frontend.js?ver=1.0.0' id='remove_disqus_ads-frontend-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.js?ver=4.62' id='spacexchimp_p005-bootstrap-tooltip-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.windowsclub.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.windowsclub.com.br/wp-json/wp/v2/posts/60807" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.windowsclub.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.windowsclub.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.windowsclub.com.br/?p=60807' />
+<link rel="alternate" type="application/json+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F&#038;format=xml" />
+        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.windowsclub.com.br");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '483d1601-d383-4ee8-9204-f5e028df7ea3';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "WindowsClub";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+
+<body class="post-template-default single single-post postid-60807 single-format-standard wp-custom-logo group-blog">
+	<div off-canvas="main-menu left shift">			
+		<div class="mobile-branding">
+				<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+			</div>			
+		<div class="menu-menu-principal-container"><ul id="mobile-menu" class="mobile-menu"><li id="menu-item-4029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li id="menu-item-4116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li id="menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li id="menu-item-10658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li id="menu-item-42698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>	</div>
+<div canvas="container" id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="header" class="site-header header-sticky">
+		<div class="main-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-12 col-xs-12 branding-container">
+						<div class="menu-btn-toggle">
+						<div class="menu-btn">
+						  <span></span>
+						  <span></span>
+						  <span></span>
+						</div>
+						</div>
+							<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+						</div>
+					<div class="col-md-8 menu-container">
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	
+	<div id="content" class="site-content">
+		<div class="container">
+<div class="row">
+	<div id="primary" class="content-area col-md-8">
+		<main id="main" class="site-main" role="main">
+
+		<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<article id="post-60807" class="post-60807 post type-post status-publish format-standard has-post-thumbnail hentry category-xbox-noticias tag-machinegames tag-xbox tag-xbox-game-studios post-item clearfix">
+
+	<header class="entry-header">
+		<h1 class="entry-title">MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores</h1>		<div class="entry-meta">
+			<span class="byline"><span class="author vcard"><a class="url fn n" href="https://www.windowsclub.com.br/author/jorgemoderador/">Jorge Henrique</a></span><span class="meta-dash">&ndash;</span></span><span class="cat-links"><a href="https://www.windowsclub.com.br/category/xbox-noticias/" rel="category tag">Xbox Notícias</a></span><span class="meta-dash">&ndash;</span><span class="posted-on"><time class="entry-date published updated" datetime="2020-10-16T21:24:08-03:00">16 de outubro de 2020</time></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		
+
+	<div class="entry-content">
+		<p><a href="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg"><img loading="lazy" class="aligncenter size-full wp-image-37540" src="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" alt="" width="716" height="392" srcset="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg 716w, https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II-300x164.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /></a></p>
+<p style="text-align: justify;">No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a ZeniMax Media, o que significa que a Bethesda Softworks agora é da equipe Xbox. Agora, como parte de uma série maior de <a href="https://bethesda.net/en/article/6TiCksNgkXvYTWgAEuWHd0/machinegames-looks-to-the-future?sf130636188=1&amp;utm_content=00%20id%20Software&amp;utm_medium=twitter&amp;utm_source=Community" target="_blank" rel="noopener noreferrer">entrevistas</a>, a desenvolvedora sueca MachineGames, uma subsidiária da ZeniMax Media mais conhecida por desenvolver os jogos <strong>Wolfenstein</strong>, falou mais sobre o que é empolgante para a equipe sobre a próxima geração de hardware e como fazer parte de Microsoft.</p>
+<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p style="text-align: justify;">John Jennings e Jim Kjellin, Diretor de Produção e Diretor de Tecnologia da MachineGames respectivamente, explicaram que a introdução de <strong>SSDs rápidos</strong> em novos consoles permite ao estúdio projetar mundos maiores com menos tempo de carregamento e <strong>mudar a maneira como a equipe pensa</strong> sobre o design de jogos.</p>
+<p style="text-align: justify;">Quando questionado sobre o que viria a seguir para o estúdio, o Diretor de Jogabilidade Fredrik Ljungdahl disse:</p>
+<blockquote>
+<p style="text-align: justify;">&#8220;<strong>Jogos, jogos e mais jogos!</strong> Também acho que fazer parte da <strong>Microsoft nos ajudará a fazer jogos</strong> ainda melhores no futuro. Eles têm um grande número de pessoas experientes, grandes desenvolvedores, soluções de tecnologia e hardware.&#8221;</p>
+</blockquote>
+<p style="text-align: justify;">MachineGames é um dos oito estúdios que está se juntando ao Xbox como parte dessa aquisição. O chefe do Xbox, Phil Spencer, afirmou recentemente que a <strong>Microsoft não precisa colocar os jogos da Bethesda em outras plataformas</strong> para que este negócio faça sentido. O Xbox Series X e o Xbox Series S serão lançados em novembro.</p>
+<!-- AI CONTENT END 2 -->
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-links">Tags <a href="https://www.windowsclub.com.br/tag/machinegames/" rel="tag">MachineGames</a> <a href="https://www.windowsclub.com.br/tag/xbox/" rel="tag">Xbox</a> <a href="https://www.windowsclub.com.br/tag/xbox-game-studios/" rel="tag">Xbox Game Studios</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Navegação de Post</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.windowsclub.com.br/phil-spencer-diz-que-um-novo-banjo-kazooie-ou-conker-e-com-a-rare/" rel="prev">Phil Spencer diz que um novo Banjo-Kazooie ou Conker &#8220;é com a Rare&#8221;</a></div><div class="nav-next"><a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/" rel="next">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a></div></div>
+	</nav><div id="disqus_thread">
+		</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-md-4" role="complementary">
+	<section id="search-7" class="widget widget_search"><h3 class="widget-title"><span>Pesquisar</span></h3><form role="search" method="get" class="search-form" action="https://www.windowsclub.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="text-29" class="widget widget_text"><h3 class="widget-title"><span>Siga o Windows Club</span></h3>			<div class="textwidget"><p><code>
+<ul class="sxc-follow-buttons">
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.facebook.com/windowsclubsite"
+                                        data-toggle="tooltip"
+                                        title="Facebook"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png"
+                                            alt="Facebook"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.instagram.com/windowsclub/"
+                                        data-toggle="tooltip"
+                                        title="Instagram"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/instagram.png"
+                                            alt="Instagram"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.youtube.com/channel/UCy1LHkAtLDMZx8mDOFJ0eIw"
+                                        data-toggle="tooltip"
+                                        title="YouTube"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/youtube.png"
+                                            alt="YouTube"
+                                        />
+                                    </a>
+                              </li>
+</ul>
+<script type='text/javascript'>
+                    jQuery(document).ready(function($) {
+
+                        // Enable Bootstrap Tooltips
+                        $('[data-toggle="tooltip"]').tooltip();
+
+                    });
+               </script></code></p>
+</div>
+		</section>
+		<section id="recent-posts-5" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Posts Recentes</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.windowsclub.com.br/roguelike-gonner2-chega-ao-xbox-game-pass-na-proxima-semana/">Roguelike Gonner2 chega ao Xbox Game Pass na próxima semana</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/call-of-duty-black-ops-cold-war-beta-esta-liberada-gratuitamente-no-xbox-one/">Call Of Duty: Black Ops Cold War Beta está liberada gratuitamente no Xbox One</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-series-venderao-o-dobro-do-playstation-5-no-natal-diz-empresa-de-analises/">Xbox Series venderão o dobro do PlayStation 5 no Natal, diz empresa de análises</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/enlisted-chega-como-lancamento-exclusivo-no-xbox-series-x-e-s/">Enlisted chega como lançamento exclusivo no Xbox Series X e S</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a>
+									</li>
+					</ul>
+
+		</section><section id="text-30" class="widget widget_text">			<div class="textwidget"><p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 2020 Quadrado --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><br />
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</section></aside><!-- #secondary -->
+</div>
+
+		</div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<div class="row">	
+					<div class="site-info col-md-6">
+			<a href="https://wordpress.org/" rel="nofollow">Powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: <a href="//athemes.com/theme/talon" rel="nofollow">Talon</a> by aThemes.		</div><!-- .site-info -->
+			<nav id="footer-navigation" class="footer-navigation col-md-6" role="navigation">
+			<div class="menu-menu-principal-container"><ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>		</nav>
+				</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11507207-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11507207-4');
+</script><script type='text/javascript' id='dcl_comments-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blogaomobile"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"60807 https:\/\/www.windowsclub.com.br\/?p=60807","disqusShortname":"blogaomobile","disqusTitle":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores","disqusUrl":"https:\/\/www.windowsclub.com.br\/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores\/","postId":"60807"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-count-scroll.min.js?ver=11.0.5' id='dcl_comments-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/skip-link-focus-fix.js?ver=20151215' id='talon-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/scripts.min.js?ver=5.5.1' id='talon-scripts-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/main.js?ver=5.5.1' id='talon-main-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/html5shiv.js?ver=5.5.1' id='talon-html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e3dc73e797c28d3',m:'c3298dc4baaadf0ff6167f40a1f565bc628b24fd-1602977121-1800-AQLPI0ReSDOoyBGrpumbEBtUGxqFS2CqdH6jU2WaCDE/wvOuhZt2jfJuodLTS14CLcx6OCW9bKvuOu7bulH5t0nxQCSeeQKFdQpk3sQzCXvWgPZ7xPXuF4A0Se/mNymeYh5dwg7Vw7gd8ZF9qlx8VkGYcfV8gZcWNfLvIVzKOvbCpmPo/D7zZ/IpNmz6xsvX0mmJHb3WKJFV+3UY0yTLcSBOpZuRjs++Dhmb0MkBl9mT',s:[0x7ed9612163,0x73bb2015c0],}})();</script></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.windowsclub.com.br/xmlrpc.php">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club" />
+	<meta property="og:description" content="No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a&nbsp;[&hellip;]" />
+	<meta property="og:url" content="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:site_name" content="Windows Club" />
+	<meta property="article:author" content="https://www.facebook.com/jorge.henrique.5815" />
+	<meta property="article:published_time" content="2020-10-17T00:24:08+00:00" />
+	<meta property="og:image" content="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" />
+	<meta property="og:image:width" content="716" />
+	<meta property="og:image:height" content="392" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.windowsclub.com.br/#website","url":"https://www.windowsclub.com.br/","name":"Windows Club","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.windowsclub.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage","inLanguage":"pt-BR","url":"https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg","width":716,"height":392},{"@type":"WebPage","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#webpage","url":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/","name":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores - Windows Club","isPartOf":{"@id":"https://www.windowsclub.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage"},"datePublished":"2020-10-17T00:24:08+00:00","dateModified":"2020-10-17T00:24:08+00:00","author":{"@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/"]}]},{"@type":"Person","@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701","name":"Jorge Henrique","image":{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/#personlogo","inLanguage":"pt-BR","url":"https://secure.gravatar.com/avatar/8dc8759509fb81e500f4c6d1005f833b?s=96&r=g","caption":"Jorge Henrique"},"description":"Sou advogado, jornalista e f\u00e3 da plataforma Windows h\u00e1 cerca de 10 anos. Fa\u00e7o cobertura em eventos e estou diariamente atento a respeito do universo da Microsoft no que tange aos produtos para os consumidores. Respondo como editor-executivo do Windows Club. Estou no Facebook e no Instagram a sua disposi\u00e7\u00e3o.","sameAs":["https://www.facebook.com/jorge.henrique.5815"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Windows Club &raquo;" href="https://www.windowsclub.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo;" href="https://www.windowsclub.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo; MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.windowsclub.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.windowsclub.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-bootstrap-tooltip-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.css?ver=4.62' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-frontend-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/css/frontend.css?ver=4.62' type='text/css' media='all' />
+<style id='spacexchimp_p005-frontend-css-inline-css' type='text/css'>
+
+                    .sxc-follow-buttons {
+                        text-align: center !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button,
+                    .sxc-follow-buttons .sxc-follow-button a,
+                    .sxc-follow-buttons .sxc-follow-button a img {
+                        width: 64px !important;
+                        height: 64px !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button {
+                        margin: 5px !important;
+                    }
+                  
+</style>
+<link rel='stylesheet' id='talon-style-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='talon-style-inline-css' type='text/css'>
+.inner-bar,.lists-box ul li:before,.testimonials-box .slick-dots li.slick-active button::before,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce span.onsale,.woocommerce ul.products li.product .onsale,.check-box-active .checkbox-inner,.tags-links a:hover,.button,button,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce button.single_add_to_cart_button.button,.button:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce button.single_add_to_cart_button.button:hover	{ background-color:#348241;}
+.team-social a:hover,.portfolio-item h4 a:hover,.woocommerce-message:before { color:#348241;}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.portfolio-filter ul .active a,.woocommerce-message { border-color:#348241;}
+.button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .woocommerce button.single_add_to_cart_button.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover 
+					{ -webkit-box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);
+					  -moz-box-shadow:  0px 0px 40px 0px rgba(52,130,65,0.54);
+					  box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);}
+.site-title a,.site-title a:hover { color:#2d3142;}
+.site-description { color:#2d0000;}
+.site-header { background-color:#ffffff;}
+.main-navigation li a { color:#000a04;}
+.main-slider-caption h1 { color:#ffffff;}
+.main-slider-caption p { color:#ffffff;}
+.site-footer { background-color:#348241;}
+.site-footer, .site-footer a { color:#ffffff;}
+body { color:#828282;}
+body { font-family:Open Sans;}
+h1,h2,h3,h4,h5,h6,.site-title { font-family:Noto Sans;}
+.site-title { font-size:36px; }
+.site-description { font-size:16px; }
+body { font-size:16px; }
+.main-navigation li { font-size:13px; }
+.so-panel .widget-title { font-size:30px; }
+.post-item .post-content .entry-title { font-size:18px; }
+.single .entry-header .entry-title { font-size:36px; }
+.widget-area .widget-title span { font-size:18px; }
+
+</style>
+<link rel='stylesheet' id='talon-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%7CNoto+Sans%3A400%2C400italic%2C600%2C600italic&#038;subset=latin%2Clatin-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='talon-icons-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/icons/icons.min.css?ver=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/remove-disqus-ads/assets/js/frontend.js?ver=1.0.0' id='remove_disqus_ads-frontend-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.js?ver=4.62' id='spacexchimp_p005-bootstrap-tooltip-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.windowsclub.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.windowsclub.com.br/wp-json/wp/v2/posts/60807" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.windowsclub.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.windowsclub.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.windowsclub.com.br/?p=60807' />
+<link rel="alternate" type="application/json+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F&#038;format=xml" />
+        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.windowsclub.com.br");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '483d1601-d383-4ee8-9204-f5e028df7ea3';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "WindowsClub";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+
+<body class="post-template-default single single-post postid-60807 single-format-standard wp-custom-logo group-blog">
+	<div off-canvas="main-menu left shift">			
+		<div class="mobile-branding">
+				<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+			</div>			
+		<div class="menu-menu-principal-container"><ul id="mobile-menu" class="mobile-menu"><li id="menu-item-4029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li id="menu-item-4116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li id="menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li id="menu-item-10658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li id="menu-item-42698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>	</div>
+<div canvas="container" id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="header" class="site-header header-sticky">
+		<div class="main-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-12 col-xs-12 branding-container">
+						<div class="menu-btn-toggle">
+						<div class="menu-btn">
+						  <span></span>
+						  <span></span>
+						  <span></span>
+						</div>
+						</div>
+							<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+						</div>
+					<div class="col-md-8 menu-container">
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	
+	<div id="content" class="site-content">
+		<div class="container">
+<div class="row">
+	<div id="primary" class="content-area col-md-8">
+		<main id="main" class="site-main" role="main">
+
+		<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<article id="post-60807" class="post-60807 post type-post status-publish format-standard has-post-thumbnail hentry category-xbox-noticias tag-machinegames tag-xbox tag-xbox-game-studios post-item clearfix">
+
+	<header class="entry-header">
+		<h1 class="entry-title">MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores</h1>		<div class="entry-meta">
+			<span class="byline"><span class="author vcard"><a class="url fn n" href="https://www.windowsclub.com.br/author/jorgemoderador/">Jorge Henrique</a></span><span class="meta-dash">&ndash;</span></span><span class="cat-links"><a href="https://www.windowsclub.com.br/category/xbox-noticias/" rel="category tag">Xbox Notícias</a></span><span class="meta-dash">&ndash;</span><span class="posted-on"><time class="entry-date published updated" datetime="2020-10-16T21:24:08-03:00">16 de outubro de 2020</time></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		
+
+	<div class="entry-content">
+		<p><a href="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg"><img loading="lazy" class="aligncenter size-full wp-image-37540" src="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" alt="" width="716" height="392" srcset="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg 716w, https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II-300x164.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /></a></p>
+<p style="text-align: justify;">No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a ZeniMax Media, o que significa que a Bethesda Softworks agora é da equipe Xbox. Agora, como parte de uma série maior de <a href="https://bethesda.net/en/article/6TiCksNgkXvYTWgAEuWHd0/machinegames-looks-to-the-future?sf130636188=1&amp;utm_content=00%20id%20Software&amp;utm_medium=twitter&amp;utm_source=Community" target="_blank" rel="noopener noreferrer">entrevistas</a>, a desenvolvedora sueca MachineGames, uma subsidiária da ZeniMax Media mais conhecida por desenvolver os jogos <strong>Wolfenstein</strong>, falou mais sobre o que é empolgante para a equipe sobre a próxima geração de hardware e como fazer parte de Microsoft.</p>
+<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p style="text-align: justify;">John Jennings e Jim Kjellin, Diretor de Produção e Diretor de Tecnologia da MachineGames respectivamente, explicaram que a introdução de <strong>SSDs rápidos</strong> em novos consoles permite ao estúdio projetar mundos maiores com menos tempo de carregamento e <strong>mudar a maneira como a equipe pensa</strong> sobre o design de jogos.</p>
+<p style="text-align: justify;">Quando questionado sobre o que viria a seguir para o estúdio, o Diretor de Jogabilidade Fredrik Ljungdahl disse:</p>
+<blockquote>
+<p style="text-align: justify;">&#8220;<strong>Jogos, jogos e mais jogos!</strong> Também acho que fazer parte da <strong>Microsoft nos ajudará a fazer jogos</strong> ainda melhores no futuro. Eles têm um grande número de pessoas experientes, grandes desenvolvedores, soluções de tecnologia e hardware.&#8221;</p>
+</blockquote>
+<p style="text-align: justify;">MachineGames é um dos oito estúdios que está se juntando ao Xbox como parte dessa aquisição. O chefe do Xbox, Phil Spencer, afirmou recentemente que a <strong>Microsoft não precisa colocar os jogos da Bethesda em outras plataformas</strong> para que este negócio faça sentido. O Xbox Series X e o Xbox Series S serão lançados em novembro.</p>
+<!-- AI CONTENT END 2 -->
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-links">Tags <a href="https://www.windowsclub.com.br/tag/machinegames/" rel="tag">MachineGames</a> <a href="https://www.windowsclub.com.br/tag/xbox/" rel="tag">Xbox</a> <a href="https://www.windowsclub.com.br/tag/xbox-game-studios/" rel="tag">Xbox Game Studios</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Navegação de Post</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.windowsclub.com.br/phil-spencer-diz-que-um-novo-banjo-kazooie-ou-conker-e-com-a-rare/" rel="prev">Phil Spencer diz que um novo Banjo-Kazooie ou Conker &#8220;é com a Rare&#8221;</a></div><div class="nav-next"><a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/" rel="next">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a></div></div>
+	</nav><div id="disqus_thread">
+		</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-md-4" role="complementary">
+	<section id="search-7" class="widget widget_search"><h3 class="widget-title"><span>Pesquisar</span></h3><form role="search" method="get" class="search-form" action="https://www.windowsclub.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="text-29" class="widget widget_text"><h3 class="widget-title"><span>Siga o Windows Club</span></h3>			<div class="textwidget"><p><code>
+<ul class="sxc-follow-buttons">
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.facebook.com/windowsclubsite"
+                                        data-toggle="tooltip"
+                                        title="Facebook"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png"
+                                            alt="Facebook"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.instagram.com/windowsclub/"
+                                        data-toggle="tooltip"
+                                        title="Instagram"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/instagram.png"
+                                            alt="Instagram"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.youtube.com/channel/UCy1LHkAtLDMZx8mDOFJ0eIw"
+                                        data-toggle="tooltip"
+                                        title="YouTube"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/youtube.png"
+                                            alt="YouTube"
+                                        />
+                                    </a>
+                              </li>
+</ul>
+<script type='text/javascript'>
+                    jQuery(document).ready(function($) {
+
+                        // Enable Bootstrap Tooltips
+                        $('[data-toggle="tooltip"]').tooltip();
+
+                    });
+               </script></code></p>
+</div>
+		</section>
+		<section id="recent-posts-5" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Posts Recentes</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.windowsclub.com.br/roguelike-gonner2-chega-ao-xbox-game-pass-na-proxima-semana/">Roguelike Gonner2 chega ao Xbox Game Pass na próxima semana</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/call-of-duty-black-ops-cold-war-beta-esta-liberada-gratuitamente-no-xbox-one/">Call Of Duty: Black Ops Cold War Beta está liberada gratuitamente no Xbox One</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-series-venderao-o-dobro-do-playstation-5-no-natal-diz-empresa-de-analises/">Xbox Series venderão o dobro do PlayStation 5 no Natal, diz empresa de análises</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/enlisted-chega-como-lancamento-exclusivo-no-xbox-series-x-e-s/">Enlisted chega como lançamento exclusivo no Xbox Series X e S</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a>
+									</li>
+					</ul>
+
+		</section><section id="text-30" class="widget widget_text">			<div class="textwidget"><p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 2020 Quadrado --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><br />
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</section></aside><!-- #secondary -->
+</div>
+
+		</div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<div class="row">	
+					<div class="site-info col-md-6">
+			<a href="https://wordpress.org/" rel="nofollow">Powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: <a href="//athemes.com/theme/talon" rel="nofollow">Talon</a> by aThemes.		</div><!-- .site-info -->
+			<nav id="footer-navigation" class="footer-navigation col-md-6" role="navigation">
+			<div class="menu-menu-principal-container"><ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>		</nav>
+				</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11507207-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11507207-4');
+</script><script type='text/javascript' id='dcl_comments-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blogaomobile"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"60807 https:\/\/www.windowsclub.com.br\/?p=60807","disqusShortname":"blogaomobile","disqusTitle":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores","disqusUrl":"https:\/\/www.windowsclub.com.br\/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores\/","postId":"60807"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-count-scroll.min.js?ver=11.0.5' id='dcl_comments-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/skip-link-focus-fix.js?ver=20151215' id='talon-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/scripts.min.js?ver=5.5.1' id='talon-scripts-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/main.js?ver=5.5.1' id='talon-main-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/html5shiv.js?ver=5.5.1' id='talon-html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e3e48e6da96f0b5',m:'022ba1183d17a8c4a3a40610299a0c62ea319ee4-1602982432-1800-AZS56KUXQNgoiSBdULZGZh56aQHVoKuIyIhdQU3mtElmc1vF4tdXbmphNTxJM19ICAHKxFQe8I4PXEYenyjU/6enEWJTBm4IIdF1rwAUyAeSIImLxjgmZ+vssSltaOiJq6Pw8LZk3eAOGyvTnHnWxUs/ZW7raCTCMIdamEMUowTQndKUmZutEWfqrMsJy9jGBpElcQivlgmWXX0MuY0EcVdCsEMDZ16wexTcN/PpNgqr',s:[0x187396b886,0x10a67a9d84],}})();</script></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.windowsclub.com.br/xmlrpc.php">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club" />
+	<meta property="og:description" content="No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a&nbsp;[&hellip;]" />
+	<meta property="og:url" content="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:site_name" content="Windows Club" />
+	<meta property="article:author" content="https://www.facebook.com/jorge.henrique.5815" />
+	<meta property="article:published_time" content="2020-10-17T00:24:08+00:00" />
+	<meta property="og:image" content="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" />
+	<meta property="og:image:width" content="716" />
+	<meta property="og:image:height" content="392" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.windowsclub.com.br/#website","url":"https://www.windowsclub.com.br/","name":"Windows Club","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.windowsclub.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage","inLanguage":"pt-BR","url":"https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg","width":716,"height":392},{"@type":"WebPage","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#webpage","url":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/","name":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores - Windows Club","isPartOf":{"@id":"https://www.windowsclub.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage"},"datePublished":"2020-10-17T00:24:08+00:00","dateModified":"2020-10-17T00:24:08+00:00","author":{"@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/"]}]},{"@type":"Person","@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701","name":"Jorge Henrique","image":{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/#personlogo","inLanguage":"pt-BR","url":"https://secure.gravatar.com/avatar/8dc8759509fb81e500f4c6d1005f833b?s=96&r=g","caption":"Jorge Henrique"},"description":"Sou advogado, jornalista e f\u00e3 da plataforma Windows h\u00e1 cerca de 10 anos. Fa\u00e7o cobertura em eventos e estou diariamente atento a respeito do universo da Microsoft no que tange aos produtos para os consumidores. Respondo como editor-executivo do Windows Club. Estou no Facebook e no Instagram a sua disposi\u00e7\u00e3o.","sameAs":["https://www.facebook.com/jorge.henrique.5815"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Windows Club &raquo;" href="https://www.windowsclub.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo;" href="https://www.windowsclub.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo; MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.windowsclub.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.windowsclub.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-bootstrap-tooltip-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.css?ver=4.62' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-frontend-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/css/frontend.css?ver=4.62' type='text/css' media='all' />
+<style id='spacexchimp_p005-frontend-css-inline-css' type='text/css'>
+
+                    .sxc-follow-buttons {
+                        text-align: center !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button,
+                    .sxc-follow-buttons .sxc-follow-button a,
+                    .sxc-follow-buttons .sxc-follow-button a img {
+                        width: 64px !important;
+                        height: 64px !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button {
+                        margin: 5px !important;
+                    }
+                  
+</style>
+<link rel='stylesheet' id='talon-style-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='talon-style-inline-css' type='text/css'>
+.inner-bar,.lists-box ul li:before,.testimonials-box .slick-dots li.slick-active button::before,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce span.onsale,.woocommerce ul.products li.product .onsale,.check-box-active .checkbox-inner,.tags-links a:hover,.button,button,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce button.single_add_to_cart_button.button,.button:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce button.single_add_to_cart_button.button:hover	{ background-color:#348241;}
+.team-social a:hover,.portfolio-item h4 a:hover,.woocommerce-message:before { color:#348241;}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.portfolio-filter ul .active a,.woocommerce-message { border-color:#348241;}
+.button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .woocommerce button.single_add_to_cart_button.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover 
+					{ -webkit-box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);
+					  -moz-box-shadow:  0px 0px 40px 0px rgba(52,130,65,0.54);
+					  box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);}
+.site-title a,.site-title a:hover { color:#2d3142;}
+.site-description { color:#2d0000;}
+.site-header { background-color:#ffffff;}
+.main-navigation li a { color:#000a04;}
+.main-slider-caption h1 { color:#ffffff;}
+.main-slider-caption p { color:#ffffff;}
+.site-footer { background-color:#348241;}
+.site-footer, .site-footer a { color:#ffffff;}
+body { color:#828282;}
+body { font-family:Open Sans;}
+h1,h2,h3,h4,h5,h6,.site-title { font-family:Noto Sans;}
+.site-title { font-size:36px; }
+.site-description { font-size:16px; }
+body { font-size:16px; }
+.main-navigation li { font-size:13px; }
+.so-panel .widget-title { font-size:30px; }
+.post-item .post-content .entry-title { font-size:18px; }
+.single .entry-header .entry-title { font-size:36px; }
+.widget-area .widget-title span { font-size:18px; }
+
+</style>
+<link rel='stylesheet' id='talon-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%7CNoto+Sans%3A400%2C400italic%2C600%2C600italic&#038;subset=latin%2Clatin-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='talon-icons-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/icons/icons.min.css?ver=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/remove-disqus-ads/assets/js/frontend.js?ver=1.0.0' id='remove_disqus_ads-frontend-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.js?ver=4.62' id='spacexchimp_p005-bootstrap-tooltip-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.windowsclub.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.windowsclub.com.br/wp-json/wp/v2/posts/60807" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.windowsclub.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.windowsclub.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.windowsclub.com.br/?p=60807' />
+<link rel="alternate" type="application/json+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F&#038;format=xml" />
+        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.windowsclub.com.br");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '483d1601-d383-4ee8-9204-f5e028df7ea3';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "WindowsClub";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+
+<body class="post-template-default single single-post postid-60807 single-format-standard wp-custom-logo group-blog">
+	<div off-canvas="main-menu left shift">			
+		<div class="mobile-branding">
+				<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+			</div>			
+		<div class="menu-menu-principal-container"><ul id="mobile-menu" class="mobile-menu"><li id="menu-item-4029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li id="menu-item-4116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li id="menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li id="menu-item-10658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li id="menu-item-42698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>	</div>
+<div canvas="container" id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="header" class="site-header header-sticky">
+		<div class="main-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-12 col-xs-12 branding-container">
+						<div class="menu-btn-toggle">
+						<div class="menu-btn">
+						  <span></span>
+						  <span></span>
+						  <span></span>
+						</div>
+						</div>
+							<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+						</div>
+					<div class="col-md-8 menu-container">
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	
+	<div id="content" class="site-content">
+		<div class="container">
+<div class="row">
+	<div id="primary" class="content-area col-md-8">
+		<main id="main" class="site-main" role="main">
+
+		<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<article id="post-60807" class="post-60807 post type-post status-publish format-standard has-post-thumbnail hentry category-xbox-noticias tag-machinegames tag-xbox tag-xbox-game-studios post-item clearfix">
+
+	<header class="entry-header">
+		<h1 class="entry-title">MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores</h1>		<div class="entry-meta">
+			<span class="byline"><span class="author vcard"><a class="url fn n" href="https://www.windowsclub.com.br/author/jorgemoderador/">Jorge Henrique</a></span><span class="meta-dash">&ndash;</span></span><span class="cat-links"><a href="https://www.windowsclub.com.br/category/xbox-noticias/" rel="category tag">Xbox Notícias</a></span><span class="meta-dash">&ndash;</span><span class="posted-on"><time class="entry-date published updated" datetime="2020-10-16T21:24:08-03:00">16 de outubro de 2020</time></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		
+
+	<div class="entry-content">
+		<p><a href="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg"><img loading="lazy" class="aligncenter size-full wp-image-37540" src="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" alt="" width="716" height="392" srcset="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg 716w, https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II-300x164.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /></a></p>
+<p style="text-align: justify;">No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a ZeniMax Media, o que significa que a Bethesda Softworks agora é da equipe Xbox. Agora, como parte de uma série maior de <a href="https://bethesda.net/en/article/6TiCksNgkXvYTWgAEuWHd0/machinegames-looks-to-the-future?sf130636188=1&amp;utm_content=00%20id%20Software&amp;utm_medium=twitter&amp;utm_source=Community" target="_blank" rel="noopener noreferrer">entrevistas</a>, a desenvolvedora sueca MachineGames, uma subsidiária da ZeniMax Media mais conhecida por desenvolver os jogos <strong>Wolfenstein</strong>, falou mais sobre o que é empolgante para a equipe sobre a próxima geração de hardware e como fazer parte de Microsoft.</p>
+<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p style="text-align: justify;">John Jennings e Jim Kjellin, Diretor de Produção e Diretor de Tecnologia da MachineGames respectivamente, explicaram que a introdução de <strong>SSDs rápidos</strong> em novos consoles permite ao estúdio projetar mundos maiores com menos tempo de carregamento e <strong>mudar a maneira como a equipe pensa</strong> sobre o design de jogos.</p>
+<p style="text-align: justify;">Quando questionado sobre o que viria a seguir para o estúdio, o Diretor de Jogabilidade Fredrik Ljungdahl disse:</p>
+<blockquote>
+<p style="text-align: justify;">&#8220;<strong>Jogos, jogos e mais jogos!</strong> Também acho que fazer parte da <strong>Microsoft nos ajudará a fazer jogos</strong> ainda melhores no futuro. Eles têm um grande número de pessoas experientes, grandes desenvolvedores, soluções de tecnologia e hardware.&#8221;</p>
+</blockquote>
+<p style="text-align: justify;">MachineGames é um dos oito estúdios que está se juntando ao Xbox como parte dessa aquisição. O chefe do Xbox, Phil Spencer, afirmou recentemente que a <strong>Microsoft não precisa colocar os jogos da Bethesda em outras plataformas</strong> para que este negócio faça sentido. O Xbox Series X e o Xbox Series S serão lançados em novembro.</p>
+<!-- AI CONTENT END 2 -->
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-links">Tags <a href="https://www.windowsclub.com.br/tag/machinegames/" rel="tag">MachineGames</a> <a href="https://www.windowsclub.com.br/tag/xbox/" rel="tag">Xbox</a> <a href="https://www.windowsclub.com.br/tag/xbox-game-studios/" rel="tag">Xbox Game Studios</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Navegação de Post</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.windowsclub.com.br/phil-spencer-diz-que-um-novo-banjo-kazooie-ou-conker-e-com-a-rare/" rel="prev">Phil Spencer diz que um novo Banjo-Kazooie ou Conker &#8220;é com a Rare&#8221;</a></div><div class="nav-next"><a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/" rel="next">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a></div></div>
+	</nav><div id="disqus_thread">
+		</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-md-4" role="complementary">
+	<section id="search-7" class="widget widget_search"><h3 class="widget-title"><span>Pesquisar</span></h3><form role="search" method="get" class="search-form" action="https://www.windowsclub.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="text-29" class="widget widget_text"><h3 class="widget-title"><span>Siga o Windows Club</span></h3>			<div class="textwidget"><p><code>
+<ul class="sxc-follow-buttons">
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.facebook.com/windowsclubsite"
+                                        data-toggle="tooltip"
+                                        title="Facebook"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png"
+                                            alt="Facebook"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.instagram.com/windowsclub/"
+                                        data-toggle="tooltip"
+                                        title="Instagram"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/instagram.png"
+                                            alt="Instagram"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.youtube.com/channel/UCy1LHkAtLDMZx8mDOFJ0eIw"
+                                        data-toggle="tooltip"
+                                        title="YouTube"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/youtube.png"
+                                            alt="YouTube"
+                                        />
+                                    </a>
+                              </li>
+</ul>
+<script type='text/javascript'>
+                    jQuery(document).ready(function($) {
+
+                        // Enable Bootstrap Tooltips
+                        $('[data-toggle="tooltip"]').tooltip();
+
+                    });
+               </script></code></p>
+</div>
+		</section>
+		<section id="recent-posts-5" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Posts Recentes</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.windowsclub.com.br/roguelike-gonner2-chega-ao-xbox-game-pass-na-proxima-semana/">Roguelike Gonner2 chega ao Xbox Game Pass na próxima semana</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/call-of-duty-black-ops-cold-war-beta-esta-liberada-gratuitamente-no-xbox-one/">Call Of Duty: Black Ops Cold War Beta está liberada gratuitamente no Xbox One</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-series-venderao-o-dobro-do-playstation-5-no-natal-diz-empresa-de-analises/">Xbox Series venderão o dobro do PlayStation 5 no Natal, diz empresa de análises</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/enlisted-chega-como-lancamento-exclusivo-no-xbox-series-x-e-s/">Enlisted chega como lançamento exclusivo no Xbox Series X e S</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a>
+									</li>
+					</ul>
+
+		</section><section id="text-30" class="widget widget_text">			<div class="textwidget"><p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 2020 Quadrado --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><br />
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</section></aside><!-- #secondary -->
+</div>
+
+		</div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<div class="row">	
+					<div class="site-info col-md-6">
+			<a href="https://wordpress.org/" rel="nofollow">Powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: <a href="//athemes.com/theme/talon" rel="nofollow">Talon</a> by aThemes.		</div><!-- .site-info -->
+			<nav id="footer-navigation" class="footer-navigation col-md-6" role="navigation">
+			<div class="menu-menu-principal-container"><ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>		</nav>
+				</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11507207-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11507207-4');
+</script><script type='text/javascript' id='dcl_comments-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blogaomobile"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"60807 https:\/\/www.windowsclub.com.br\/?p=60807","disqusShortname":"blogaomobile","disqusTitle":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores","disqusUrl":"https:\/\/www.windowsclub.com.br\/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores\/","postId":"60807"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-count-scroll.min.js?ver=11.0.5' id='dcl_comments-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/skip-link-focus-fix.js?ver=20151215' id='talon-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/scripts.min.js?ver=5.5.1' id='talon-scripts-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/main.js?ver=5.5.1' id='talon-main-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/html5shiv.js?ver=5.5.1' id='talon-html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e3e5c3fb948c170',m:'a994cad4643f417d0531597a0cbcf112b261c254-1602983224-1800-AXfsG9ooO+cIzEOQQoVLuKN7gKhNpzfTAxAnMJCE8jPDiTEIsH2W2u89T0qdW7P4U1Xe4Sw4QXM1Ndz748Va05wdnA3QF344A6ikvJsT+9RgFTo9TJJTILDzxKteG63+je7X2ralU8m55/3IREOPhkfDGZWqHkyrCPiha6NLcXWdmIMslz2xPtaoCUYNkxLQHeToll5oIrK+KF20CPyx9QmKPrW5fxJdHCUY49xCw+Vb',s:[0x3cc087d987,0xbaaeb793b9],}})();</script></body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.windowsclub.com.br/xmlrpc.php">
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores - Windows Club" />
+	<meta property="og:description" content="No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a&nbsp;[&hellip;]" />
+	<meta property="og:url" content="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/" />
+	<meta property="og:site_name" content="Windows Club" />
+	<meta property="article:author" content="https://www.facebook.com/jorge.henrique.5815" />
+	<meta property="article:published_time" content="2020-10-17T00:24:08+00:00" />
+	<meta property="og:image" content="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" />
+	<meta property="og:image:width" content="716" />
+	<meta property="og:image:height" content="392" />
+	<meta name="twitter:card" content="summary" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.windowsclub.com.br/#website","url":"https://www.windowsclub.com.br/","name":"Windows Club","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.windowsclub.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage","inLanguage":"pt-BR","url":"https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg","width":716,"height":392},{"@type":"WebPage","@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#webpage","url":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/","name":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores - Windows Club","isPartOf":{"@id":"https://www.windowsclub.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/#primaryimage"},"datePublished":"2020-10-17T00:24:08+00:00","dateModified":"2020-10-17T00:24:08+00:00","author":{"@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/"]}]},{"@type":"Person","@id":"https://www.windowsclub.com.br/#/schema/person/306be2a4d566eb275a09ac8642d9a701","name":"Jorge Henrique","image":{"@type":"ImageObject","@id":"https://www.windowsclub.com.br/#personlogo","inLanguage":"pt-BR","url":"https://secure.gravatar.com/avatar/8dc8759509fb81e500f4c6d1005f833b?s=96&r=g","caption":"Jorge Henrique"},"description":"Sou advogado, jornalista e f\u00e3 da plataforma Windows h\u00e1 cerca de 10 anos. Fa\u00e7o cobertura em eventos e estou diariamente atento a respeito do universo da Microsoft no que tange aos produtos para os consumidores. Respondo como editor-executivo do Windows Club. Estou no Facebook e no Instagram a sua disposi\u00e7\u00e3o.","sameAs":["https://www.facebook.com/jorge.henrique.5815"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Windows Club &raquo;" href="https://www.windowsclub.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo;" href="https://www.windowsclub.com.br/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Windows Club &raquo; MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores" href="https://www.windowsclub.com.br/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.windowsclub.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.windowsclub.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-bootstrap-tooltip-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.css?ver=4.62' type='text/css' media='all' />
+<link rel='stylesheet' id='spacexchimp_p005-frontend-css-css'  href='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/css/frontend.css?ver=4.62' type='text/css' media='all' />
+<style id='spacexchimp_p005-frontend-css-inline-css' type='text/css'>
+
+                    .sxc-follow-buttons {
+                        text-align: center !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button,
+                    .sxc-follow-buttons .sxc-follow-button a,
+                    .sxc-follow-buttons .sxc-follow-button a img {
+                        width: 64px !important;
+                        height: 64px !important;
+                    }
+                    .sxc-follow-buttons .sxc-follow-button {
+                        margin: 5px !important;
+                    }
+                  
+</style>
+<link rel='stylesheet' id='talon-style-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='talon-style-inline-css' type='text/css'>
+.inner-bar,.lists-box ul li:before,.testimonials-box .slick-dots li.slick-active button::before,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce span.onsale,.woocommerce ul.products li.product .onsale,.check-box-active .checkbox-inner,.tags-links a:hover,.button,button,input[type="button"],input[type="reset"],input[type="submit"],.woocommerce button.single_add_to_cart_button.button,.button:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.woocommerce button.single_add_to_cart_button.button:hover	{ background-color:#348241;}
+.team-social a:hover,.portfolio-item h4 a:hover,.woocommerce-message:before { color:#348241;}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active,.portfolio-filter ul .active a,.woocommerce-message { border-color:#348241;}
+.button:hover, button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .woocommerce button.single_add_to_cart_button.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce input.button.alt:hover 
+					{ -webkit-box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);
+					  -moz-box-shadow:  0px 0px 40px 0px rgba(52,130,65,0.54);
+					  box-shadow: 0px 0px 40px 0px rgba(52,130,65,0.54);}
+.site-title a,.site-title a:hover { color:#2d3142;}
+.site-description { color:#2d0000;}
+.site-header { background-color:#ffffff;}
+.main-navigation li a { color:#000a04;}
+.main-slider-caption h1 { color:#ffffff;}
+.main-slider-caption p { color:#ffffff;}
+.site-footer { background-color:#348241;}
+.site-footer, .site-footer a { color:#ffffff;}
+body { color:#828282;}
+body { font-family:Open Sans;}
+h1,h2,h3,h4,h5,h6,.site-title { font-family:Noto Sans;}
+.site-title { font-size:36px; }
+.site-description { font-size:16px; }
+body { font-size:16px; }
+.main-navigation li { font-size:13px; }
+.so-panel .widget-title { font-size:30px; }
+.post-item .post-content .entry-title { font-size:18px; }
+.single .entry-header .entry-title { font-size:36px; }
+.widget-area .widget-title span { font-size:18px; }
+
+</style>
+<link rel='stylesheet' id='talon-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C600%2C600italic%7CNoto+Sans%3A400%2C400italic%2C600%2C600italic&#038;subset=latin%2Clatin-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='talon-icons-css'  href='https://www.windowsclub.com.br/wp-content/themes/talon/icons/icons.min.css?ver=1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/remove-disqus-ads/assets/js/frontend.js?ver=1.0.0' id='remove_disqus_ads-frontend-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/lib/bootstrap-tooltip/bootstrap-tooltip.js?ver=4.62' id='spacexchimp_p005-bootstrap-tooltip-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.windowsclub.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.windowsclub.com.br/wp-json/wp/v2/posts/60807" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.windowsclub.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.windowsclub.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.windowsclub.com.br/?p=60807' />
+<link rel="alternate" type="application/json+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.windowsclub.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.windowsclub.com.br%2Fmachinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores%2F&#038;format=xml" />
+        <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.windowsclub.com.br");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '483d1601-d383-4ee8-9204-f5e028df7ea3';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['subdomainName'] = "WindowsClub";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+
+<body class="post-template-default single single-post postid-60807 single-format-standard wp-custom-logo group-blog">
+	<div off-canvas="main-menu left shift">			
+		<div class="mobile-branding">
+				<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+			</div>			
+		<div class="menu-menu-principal-container"><ul id="mobile-menu" class="mobile-menu"><li id="menu-item-4029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li id="menu-item-4116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li id="menu-item-6092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li id="menu-item-10658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li id="menu-item-42698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>	</div>
+<div canvas="container" id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="header" class="site-header header-sticky">
+		<div class="main-header">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-12 col-xs-12 branding-container">
+						<div class="menu-btn-toggle">
+						<div class="menu-btn">
+						  <span></span>
+						  <span></span>
+						  <span></span>
+						</div>
+						</div>
+							<div class="site-branding">
+	<a href="https://www.windowsclub.com.br/" class="custom-logo-link" rel="home"><img width="200" height="39" src="https://www.windowsclub.com.br/wp-content/uploads/2020/07/cropped-logo-2020-windowsclub.jpg" class="custom-logo" alt="Windows Club" /></a>	</div>
+						</div>
+					<div class="col-md-8 menu-container">
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	
+	
+	<div id="content" class="site-content">
+		<div class="container">
+<div class="row">
+	<div id="primary" class="content-area col-md-8">
+		<main id="main" class="site-main" role="main">
+
+		<div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<article id="post-60807" class="post-60807 post type-post status-publish format-standard has-post-thumbnail hentry category-xbox-noticias tag-machinegames tag-xbox tag-xbox-game-studios post-item clearfix">
+
+	<header class="entry-header">
+		<h1 class="entry-title">MachineGames diz que fazer parte da Microsoft permitirá que criar jogos melhores</h1>		<div class="entry-meta">
+			<span class="byline"><span class="author vcard"><a class="url fn n" href="https://www.windowsclub.com.br/author/jorgemoderador/">Jorge Henrique</a></span><span class="meta-dash">&ndash;</span></span><span class="cat-links"><a href="https://www.windowsclub.com.br/category/xbox-noticias/" rel="category tag">Xbox Notícias</a></span><span class="meta-dash">&ndash;</span><span class="posted-on"><time class="entry-date published updated" datetime="2020-10-16T21:24:08-03:00">16 de outubro de 2020</time></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+		
+
+	<div class="entry-content">
+		<p><a href="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg"><img loading="lazy" class="aligncenter size-full wp-image-37540" src="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg" alt="" width="716" height="392" srcset="https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II.jpg 716w, https://www.windowsclub.com.br/wp-content/uploads/2017/11/Wolfenstein-II-300x164.jpg 300w" sizes="(max-width: 716px) 100vw, 716px" /></a></p>
+<p style="text-align: justify;">No início deste mês, a Microsoft chocou a indústria de jogos com o anúncio de que está planejando adquirir a ZeniMax Media, o que significa que a Bethesda Softworks agora é da equipe Xbox. Agora, como parte de uma série maior de <a href="https://bethesda.net/en/article/6TiCksNgkXvYTWgAEuWHd0/machinegames-looks-to-the-future?sf130636188=1&amp;utm_content=00%20id%20Software&amp;utm_medium=twitter&amp;utm_source=Community" target="_blank" rel="noopener noreferrer">entrevistas</a>, a desenvolvedora sueca MachineGames, uma subsidiária da ZeniMax Media mais conhecida por desenvolver os jogos <strong>Wolfenstein</strong>, falou mais sobre o que é empolgante para a equipe sobre a próxima geração de hardware e como fazer parte de Microsoft.</p>
+<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2020 Quadrado -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<p style="text-align: justify;">John Jennings e Jim Kjellin, Diretor de Produção e Diretor de Tecnologia da MachineGames respectivamente, explicaram que a introdução de <strong>SSDs rápidos</strong> em novos consoles permite ao estúdio projetar mundos maiores com menos tempo de carregamento e <strong>mudar a maneira como a equipe pensa</strong> sobre o design de jogos.</p>
+<p style="text-align: justify;">Quando questionado sobre o que viria a seguir para o estúdio, o Diretor de Jogabilidade Fredrik Ljungdahl disse:</p>
+<blockquote>
+<p style="text-align: justify;">&#8220;<strong>Jogos, jogos e mais jogos!</strong> Também acho que fazer parte da <strong>Microsoft nos ajudará a fazer jogos</strong> ainda melhores no futuro. Eles têm um grande número de pessoas experientes, grandes desenvolvedores, soluções de tecnologia e hardware.&#8221;</p>
+</blockquote>
+<p style="text-align: justify;">MachineGames é um dos oito estúdios que está se juntando ao Xbox como parte dessa aquisição. O chefe do Xbox, Phil Spencer, afirmou recentemente que a <strong>Microsoft não precisa colocar os jogos da Bethesda em outras plataformas</strong> para que este negócio faça sentido. O Xbox Series X e o Xbox Series S serão lançados em novembro.</p>
+<!-- AI CONTENT END 2 -->
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="tags-links">Tags <a href="https://www.windowsclub.com.br/tag/machinegames/" rel="tag">MachineGames</a> <a href="https://www.windowsclub.com.br/tag/xbox/" rel="tag">Xbox</a> <a href="https://www.windowsclub.com.br/tag/xbox-game-studios/" rel="tag">Xbox Game Studios</a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Navegação de Post</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.windowsclub.com.br/phil-spencer-diz-que-um-novo-banjo-kazooie-ou-conker-e-com-a-rare/" rel="prev">Phil Spencer diz que um novo Banjo-Kazooie ou Conker &#8220;é com a Rare&#8221;</a></div><div class="nav-next"><a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/" rel="next">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a></div></div>
+	</nav><div id="disqus_thread">
+		</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-md-4" role="complementary">
+	<section id="search-7" class="widget widget_search"><h3 class="widget-title"><span>Pesquisar</span></h3><form role="search" method="get" class="search-form" action="https://www.windowsclub.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></section><section id="text-29" class="widget widget_text"><h3 class="widget-title"><span>Siga o Windows Club</span></h3>			<div class="textwidget"><p><code>
+<ul class="sxc-follow-buttons">
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.facebook.com/windowsclubsite"
+                                        data-toggle="tooltip"
+                                        title="Facebook"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/facebook.png"
+                                            alt="Facebook"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.instagram.com/windowsclub/"
+                                        data-toggle="tooltip"
+                                        title="Instagram"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/instagram.png"
+                                            alt="Instagram"
+                                        />
+                                    </a>
+                              </li>
+<li class="sxc-follow-button">
+                                    <a
+                                        href="https://www.youtube.com/channel/UCy1LHkAtLDMZx8mDOFJ0eIw"
+                                        data-toggle="tooltip"
+                                        title="YouTube"
+                                        target="_blank"
+                                    >
+                                        <img
+                                            src="https://www.windowsclub.com.br/wp-content/plugins/social-media-buttons-toolbar/inc/img/social-media-icons/youtube.png"
+                                            alt="YouTube"
+                                        />
+                                    </a>
+                              </li>
+</ul>
+<script type='text/javascript'>
+                    jQuery(document).ready(function($) {
+
+                        // Enable Bootstrap Tooltips
+                        $('[data-toggle="tooltip"]').tooltip();
+
+                    });
+               </script></code></p>
+</div>
+		</section>
+		<section id="recent-posts-5" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Posts Recentes</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.windowsclub.com.br/roguelike-gonner2-chega-ao-xbox-game-pass-na-proxima-semana/">Roguelike Gonner2 chega ao Xbox Game Pass na próxima semana</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/call-of-duty-black-ops-cold-war-beta-esta-liberada-gratuitamente-no-xbox-one/">Call Of Duty: Black Ops Cold War Beta está liberada gratuitamente no Xbox One</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-series-venderao-o-dobro-do-playstation-5-no-natal-diz-empresa-de-analises/">Xbox Series venderão o dobro do PlayStation 5 no Natal, diz empresa de análises</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/enlisted-chega-como-lancamento-exclusivo-no-xbox-series-x-e-s/">Enlisted chega como lançamento exclusivo no Xbox Series X e S</a>
+									</li>
+											<li>
+					<a href="https://www.windowsclub.com.br/xbox-game-studios-a-microsoft-comprou-a-ubisoft-diz-rumor/">Xbox Game Studios: a Microsoft comprou a Ubisoft, diz rumor</a>
+									</li>
+					</ul>
+
+		</section><section id="text-30" class="widget widget_text">			<div class="textwidget"><p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<!-- 2020 Quadrado --><br />
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2902759059398436"
+     data-ad-slot="3658854500"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><br />
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+		</section></aside><!-- #secondary -->
+</div>
+
+		</div>
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<div class="row">	
+					<div class="site-info col-md-6">
+			<a href="https://wordpress.org/" rel="nofollow">Powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: <a href="//athemes.com/theme/talon" rel="nofollow">Talon</a> by aThemes.		</div><!-- .site-info -->
+			<nav id="footer-navigation" class="footer-navigation col-md-6" role="navigation">
+			<div class="menu-menu-principal-container"><ul id="footer-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4029"><a href="https://www.windowsclub.com.br/?page_id=4027">Windows Phone</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4116"><a href="https://www.windowsclub.com.br/tag/windows-10/">Windows 10</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6092"><a href="https://www.windowsclub.com.br/?tag=xbox-one">Xbox One</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10658"><a href="https://www.windowsclub.com.br/?cat=14">Matérias</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42698"><a href="https://www.windowsclub.com.br/contact-me/">Entre em contato</a></li>
+</ul></div>		</nav>
+				</div>
+		</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11507207-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11507207-4');
+</script><script type='text/javascript' id='dcl_comments-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"blogaomobile"};
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"60807 https:\/\/www.windowsclub.com.br\/?p=60807","disqusShortname":"blogaomobile","disqusTitle":"MachineGames diz que fazer parte da Microsoft permitir\u00e1 que criar jogos melhores","disqusUrl":"https:\/\/www.windowsclub.com.br\/machinegames-diz-que-fazer-parte-da-microsoft-permitira-que-criar-jogos-melhores\/","postId":"60807"};
+var dclCustomVars = {"dcl_progress_text":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/plugins/disqus-conditional-load/assets/js/public/embed-count-scroll.min.js?ver=11.0.5' id='dcl_comments-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/skip-link-focus-fix.js?ver=20151215' id='talon-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/scripts.min.js?ver=5.5.1' id='talon-scripts-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/main.js?ver=5.5.1' id='talon-main-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-content/themes/talon/js/html5shiv.js?ver=5.5.1' id='talon-html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.windowsclub.com.br/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e3e7f32bb552ad8',m:'75d2f756ee1b16b932a33b19f9e83586d7d275cd-1602984656-1800-AQ8N48r4cD++cxgZ/8V962lS4zJPhTL7XHdrM/WF4bcqJsmvZbpa2qH/XVeXZwrX7DM6TVS3p9fJnpB7Iy5C2K7pYTwVSba9LOGzJgx6tZctGdQzZ90Zb4fp/bxfq+8Iio51c7Y37msMThqO73x0WhIk2Xr53p2/B0pP8BIsCIzbnxb4EX2QN0PQ7LUxnXNCNDBwleS3G/JfWq3XNoqP++ZA/38jy5cKeAEHn4GPF8a7',s:[0xc88f91685a,0x9f718c89c9],}})();</script></body>
+</html>
