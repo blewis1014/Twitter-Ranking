@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="web_author" content="Ideas Digitales Aplicadas SpA https://www.ida.cl">
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10248741-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10248741-1');
+</script>    <title>Carabinero infiltrado en Lo Hermida: joven de Alto Hospicio denuncia suplantación de identidad &#8211; CIPER Chile</title>
+<script type='text/javascript'>console.log('PixelYourSite Free version 7.1.9');</script>
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpfp-css' href='https://www.ciperchile.cl/wp-content/plugins/wp-favorite-posts_prod/wpfp.css' type='text/css' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://www.ciperchile.cl/wp-content/plugins/tablepress/css/default.min.css?ver=1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wppb_stylesheet-css'  href='https://www.ciperchile.cl/wp-content/plugins/profile-builder-pro/assets/css/style-front-end.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='css-ui-css'  href='//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css?ver=4.9.15' type='text/css' media='all' />
+<link rel='stylesheet' id='main_style-css'  href='https://www.ciperchile.cl/wp-content/themes/ciper-ida/css/main.css?ver=4.9.15' type='text/css' media='all' />
+<link rel='stylesheet' id='font_style-css'  href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A400i%7CMerriweather%3A300%2C400%2C500%2C700%7CMontserrat%3A300%2C400%2C500%2C600%2C700&#038;ver=4.9.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ciperchile.cl/wp-content/themes/ciper-ida/scripts/min/main.min.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/ui/1.12.1/jquery-ui.js?ver=1'></script>
+<script type='text/javascript' src='https://www.ciperchile.cl/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3'></script>
+<link rel='https://api.w.org/' href='https://www.ciperchile.cl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ciperchile.cl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ciperchile.cl/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Contraloría revisa contrato de residencia sanitaria: esposa de diputado integra sociedad dueña del hotel' href='https://www.ciperchile.cl/2020/10/16/contraloria-revisa-contrato-de-residencia-sanitaria-esposa-de-diputado-integra-sociedad-duena-del-hotel/' />
+<link rel='next' title='“Si se obstruye, debo aspirarle la tráquea”: así viven ahora las familias golpeadas por violaciones de DDHH durante el 18/O' href='https://www.ciperchile.cl/2020/10/17/si-se-obstruye-debo-aspirarle-la-traquea-asi-viven-ahora-las-familias-golpeadas-por-violaciones-de-ddhh-durante-el-18-o/' />
+<meta name="generator" content="WordPress 4.9.15" />
+<link rel="canonical" href="https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" />
+<link rel='shortlink' href='https://www.ciperchile.cl/?p=143713' />
+<!-- Basic-SEO start -->
+<!-- Basic-SEO end -->
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0005/7282.js" async="async"></script>		<style type="text/css" id="wp-custom-css">
+			main{
+	margin-top: .6em;
+}
+
+/* Player */
+
+#media{
+	border-bottom: 1px solid #092334;
+	border-top: 1px solid #092334;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	padding-bottom:10px;
+	margin-top:20px;
+}
+
+#media #link_hazte_socio{
+	margin-top:10px;
+	display:flex;
+	justify-content:center;
+}
+
+/* #media #link_hazte_socio a{
+	background: #092334;
+  color: white !important;
+  border-color: #092334;
+	padding:10px 20px;
+	border-radius:6px;
+}
+ */
+#media #link_hazte_socio a{
+	background: #FFFF00;
+  color: #092334 !important;
+  border-color: #FFFF00;
+	padding:20px 30px;
+	border-radius:6px;
+	font-weight:bold;
+}
+
+.common-box__figure img{
+	border: none !important;
+}
+
+.single__commentary__who_destacado {
+	    display: inline-block;
+    padding: .60rem 0 .60rem .40rem;
+    color: #fff;
+    background-color: #B80C09;
+    font-size: .75rem;
+    position: relative;
+}
+
+.single__commentary__whowhen_destacado{
+	padding: .50rem !important; 
+}
+
+.single__commentary__whowhen:after {
+    border-left: 10px solid #fff;
+    border-top: 6px solid #092334;
+    border-right: 10px solid #fff;
+}
+
+.single_commentary_when_destacado:after {
+    content: "|";
+    font-weight: 300;
+    margin: 0 .5rem;
+}
+
+.medalla{
+	font-weight: 700;
+}
+
+.single__commentary__who_destacado:after {
+    content: "|";
+    font-weight: 300;
+    margin: 0 .5rem;
+}
+
+.single_commentary_when_destacado{
+	margin-left:0;
+}
+
+/* .single__commentary__who_destacado:after {
+		content: url(https://dev.ciperchile.cl/wp-content/uploads/medalla4.svg);
+	  position: absolute;
+		top:10%;
+    width: 30px;
+    height: 30px;
+} */
+
+.single__commentary__whowhen_destacado:after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid #fff;
+    border-top: 6px solid #B80C09;
+    border-right: 10px solid #fff;
+}
+
+.single__commentary__whowhen_destacado {
+    display: inline-block;
+    padding: .75rem;
+    color: #fff;
+    background-color: #B80C09;
+    font-size: .75rem;
+    position: relative;
+}
+
+.single__commentary__who_destacado {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#socios {
+background:#FFFF00;
+color:#092334 !important;
+border-color:#FFFF00;
+margin-top: 5px;
+}
+
+.button--top{
+	text-transform: none !important;
+	font-weight: bolder;
+	padding:6px 15px;
+}
+
+.button--top img{
+	padding-right:6px;
+}
+
+#btnIngreso{
+	background: #FFFFFF;
+  color: #0E2738!important;
+  border-color: #0E2738;
+  margin-top: 5px;
+	padding: 6px 15px;
+	font-size: 11px;
+	font-weight: bolder;
+	border-radius: 3px;
+	margin-right:14px;
+	text-decoration: none;
+}
+
+#btnIngreso img{
+	padding-right:6px;
+}
+
+/* Box Libro */
+
+.box_libro{
+	font-size:15px !important;
+	font-weight:normal;
+	margin-bottom:0 !important;
+	line-height:18px;
+}
+
+.box_bajada_libro img{
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100px;
+	height:auto;
+}
+
+.box_bajada_libro p{
+	font-size:13px;
+}
+
+/* Login */
+
+.wppb-user-forms{
+	margin-top: 50px;
+}
+
+.negrita{
+	line-height: 50px;
+}
+
+/* Pagina de socios */
+
+.socio_principal{
+	display: flex;
+	flex-direction: row;
+	align-items:center;
+	width:100%;
+	margin-top:30px;
+	justify-content: space-between;
+	padding:20px;
+}
+
+.socio_principal .socio_right{
+	display: flex;
+	justify-content: flex-start;
+	align-items:center;
+}
+
+.socio_principal .socio_foto img{
+	border-radius:50%;
+	border:4px solid #092334;
+	width:100px;
+	height:100px;
+}
+
+.socio_principal .socio_bienvenida{
+	display: flex;
+	flex-direction: column;
+}
+
+.socio_principal .socio_bienvenida .socio_nombre{
+	border-bottom:1px solid #092334;
+	font-size:25px;
+	padding:10px;
+}
+
+.socio_principal .socio_bienvenida .socio_tiempo{
+	font-size:20px;
+	padding:10px;
+}
+
+.socio_principal .socio_bienvenida .socio_tiempo img{
+	width:25px;
+}
+
+.socio_principal #boton-editar a{
+	background: #FFF;
+  color: #092334;
+	font-size: 14px;
+	font-weight:bold;
+  border:2px solid #092334;
+	padding:10px;
+	border-radius: 4px;
+}
+
+.socio_principal #boton-editar img{
+	width:26px;
+	padding-right:6px;
+}
+
+.socio_principal #boton-editar a:last-child{
+	color:#85929A;
+	border:2px solid #85929A;
+	margin-left:20px;
+}
+
+.caja_registro{
+	background-color:#0E2738;
+	padding:30px;
+	text-align:center;
+	color:#FFF;
+	font-size:20px;
+	margin-bottom:30px;
+}
+
+.caja_registro h1{
+	padding:0;
+	margin:0 0 25px 0;
+	font-weight:bold;
+	font-size:20px;
+}
+
+.caja_registro p{
+	padding:0;
+	margin-top:30px;
+	line-height:30px;
+	font-size:18px;
+}
+
+.caja_registro a{
+  color: #092334!important;
+	cursor:pointer;
+	text-decoration:none;
+	font-size:14px;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+#boton-registro{
+	padding:15px;
+	border-radius:4px;
+	background: #FFFF00;
+	width:80%;
+	margin: 0 auto;
+}
+
+.caja_registro a img{
+	padding-right: 8px;
+}
+
+.caja_favorito{
+	padding:20px;
+	border:1px solid #0E2738;
+	display: flex;
+	flex-direction: row;
+	align-items:center;
+	margin-bottom:10px;
+}
+
+.caja_favorito .common-box_excerpt p{
+	margin-bottom: 10px !important;
+}
+
+.favorito_texto{
+	line-height:28px;
+	padding-right:10px;
+}
+
+.caja_intereses{
+	padding:10px;
+	display: flex;
+	flex-direction: row;
+	align-items:center;
+	margin-bottom:5px;
+}
+
+.caja_intereses .texto_intereses{
+	font-size:30px;
+}
+
+.caja_intereses .lista_intereses{
+	padding-left:20px;
+}
+
+.caja_intereses .lista_intereses span a{
+	color:#FFF;
+	text-decoration:none;
+	padding:5px 10px;
+	background-color:#0E2738;
+	border-radius:20px;
+	margin-right:5px;
+	font-size:11px;
+}
+
+.horizon{
+	padding-top:0 !important;
+}
+
+.caja_misfavoritos{
+	display: flex;
+	flex-direction:row;
+	align-items:center;
+	margin-bottom:20px;
+}
+
+.caja_misfavoritos .horizon__subtitle{
+	font-size:30px;
+	text-transform:uppercase;
+	border-right: 1px solid #0E2738;
+	border-bottom: none;
+	font-weight:600;
+	width:290px;
+}
+
+.caja_misfavoritos .horizon__subtitle::before{
+	content: url(https://dev.ciperchile.cl/wp-content/uploads/chevron.svg);
+	padding-right: 10px;
+}
+
+.caja_misfavoritos .wpfp-link::before{
+	content: url(https://dev.ciperchile.cl/wp-content/uploads/basura.svg);
+	padding-right: 5px;
+}
+
+.caja_misfavoritos .wpfp-link{
+	color:#0E2738;
+	font-size:14px;
+	padding-top:20px;
+}
+
+.common-box__figure img{
+	border: 1px solid #0E2738;
+}
+
+.common-box__figure img{
+	border: 1px solid #0E2738;
+}
+
+/* .common-box__body h4{
+	color:#D0021B;
+} */
+
+/* Login  */
+
+.login-username, .login-password, .login-remember{
+	font-size:12px;
+}
+
+#wppb-loginform label{
+	padding-top:5px;
+	font-weight:bold;
+}
+
+.login-username input, .login-password input{
+	margin-top: 10px;
+	padding:5px;
+	width:50%;
+}
+
+.login-password{
+	margin-bottom: 20px !important;
+}
+
+.login-remember input{
+	margin-top: 5px;
+  margin-right: 5px;
+}
+
+.login-submit .button{
+  font-size: .875rem;
+  text-decoration: none;
+  background: transparent;
+  color: #0E2738;
+  border: 1px solid #0E2738;
+  border-radius: 4px;
+  margin: 10px 0;
+  transition: .4s ease;
+	padding:10px;
+}
+
+.login-submit .button--fixed:hover, .button:hover{
+  color: #fff;
+  background: #0E2738;
+  border-color: #0E2738;
+}
+
+/* Recuperar contraseña */
+
+.form-submit .button{
+  font-size: .875rem;
+  text-decoration: none;
+  background: transparent;
+  color: #0E2738;
+  border: 1px solid #0E2738;
+  border-radius: 4px;
+  margin: 10px 0;
+  transition: .4s ease;
+	padding:10px;
+}
+
+.wppb-username-email label{
+	padding-top:5px;
+	font-weight:bold;
+	font-size:12px;
+}
+
+.wppb-username-email input{
+	margin-top: 10px;
+	padding:5px;
+	width:50%;
+}
+
+#wppb-recover-password-container p:first-child{
+	display:none;
+}
+
+
+/* Caja Regalos Notas */
+
+.common-box--donacionRegalo{
+	padding: 1.5rem;
+	border:1px solid #092334;
+	text-align:center;
+}
+
+.common-box--donacionRegalo h3{
+	margin-bottom:5px;
+}
+
+.common-box--donacionRegalo h3::before{
+	content: url(https://www.ciperchile.cl/wp-content/uploads/regalo.svg);
+	padding-right: 0;
+}
+
+.common-box--donacionRegalo p{
+	margin-bottom:10px;
+}
+
+.single__commentary__who_destacado:after {
+    content: "|";
+    font-weight: 300;
+    margin: 0 .5rem;
+}
+
+.single_commentary_when_destacado{
+	margin-left:0;
+}
+
+
+/* Editar Perfil */
+
+#wppb-edit-user .wppb-user-forms, .wppb-edit-user, .wppb-user-role-pmpro_role_1{
+	margin-top: 0 !important;
+}
+
+#wppb-edit-user h4{
+	border-bottom: 1px solid #0E2738;
+	padding:5px;
+	font-size:18px;
+}
+
+#wppb-edit-user label{
+	padding-top: 8px;
+	font-size:14px;
+}
+
+#wppb-edit-user input{
+	padding: 5px;
+	margin-bottom:10px;
+}
+
+#wppb-edit-user select{
+	padding: 5px;
+	margin-bottom:10px;
+}
+
+#wppb-edit-user textarea{
+	padding: 5px;
+	margin-bottom:10px;
+}
+
+#wppb-edit-user .wppb-description-delimiter{
+	padding-top: 5px;
+}
+
+#wppb-edit-user .wppb-checkbox li{
+	padding-bottom:8px;
+	font-size:12px !important;
+}
+
+#wppb-edit-user .wppb-checkbox span{
+	line-height:20px;
+	word-spacing:3px;
+}
+
+#wppb-edit-user .wppb-default-password{
+	margin-top:10px;
+}
+
+#wppb-edit-user .button, .button--fixed{
+	color: #0E2738;
+  border: 1px solid #0E2738;
+	padding:10px;
+}
+
+#wppb-edit-user .button--fixed:hover, .button:hover{
+  color: #fff !important;
+}
+
+/* Tab Mapa */
+
+.ctu-ultimate-wrapper-1{
+	border: 1px solid #85929A;
+}
+
+.ctu-ultimate-wrapper-1 .ctu-ultimate-style-1-content h1{
+	font-size:22px !important;
+	font-weight:bold !important;
+}
+
+.ctu-ultimate-wrapper-1 .ctu-ultimate-style-1-content a::before{
+	content: "·";
+	padding-right:5px;
+}
+
+.ctu-ultimate-wrapper-1 .ctu-ultimate-style-1-content a{
+	color:#407abe; 
+}
+
+/* Espacio Indice Noticias */
+
+.common-box__title:first-child, .horizon__subtitle:first-child, .horizon__title:first-child, .sidebar--fixed .sidebar__title:first-child, .single__bajada:first-child, .single__mintitle:first-child {
+	margin-top: 20px;
+}
+
+/* 	Pantallas Responsive */
+	
+@media (max-width: 900px){
+	
+	main{
+		margin-top:0;
+	}
+	
+	.horizon:first-child{
+		padding-top:5rem !important;
+	}
+	
+	.socio_principal{
+		padding-top:50px
+	}
+	
+}
+
+@media (max-width: 941px){
+	
+	.socio_principal{
+		flex-direction: column;
+		padding-bottom:30px;
+	}
+	
+	.socio_right{
+		padding-bottom:40px;
+	}
+	
+}
+
+@media (max-width: 785px){
+	
+	.caja_intereses .lista_intereses span {
+		float:left;
+		height:35px;
+	}
+	
+}
+
+@media (max-width: 443px){
+	
+	#boton-editar {
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+	}
+	
+	.socio_principal #boton-editar a:last-child{
+		margin-left:20px;
+		margin-top:10px;
+		width:160px;
+	}
+	
+	.caja_favorito{
+		flex-direction: column;
+	}
+}		</style>
+	</head>
+
+<body class="post-template-default single single-post postid-143713 single-format-standard no-scrolled" data-path="https://www.ciperchile.cl/wp-content/themes/ciper-ida/">
+    <div id="fb-root"></div>
+    <script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.10";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+        
+     <style>
+        #button2 {
+    background: #FFFF00;
+    color: #092334!important;
+	border-color:#FFFF00;
+	margin-top:5px;
+}
+   
+</style>
+
+        
+    <header id="top" class="header-bar print-hide">
+    
+      <script type='text/javascript'>
+        (function() {
+            /** CONFIGURATION START **/
+            var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+            _sf_async_config.uid = 66074; //CHANGE THIS
+            _sf_async_config.domain = 'ciperchile.cl'; //CHANGE THIS
+            _sf_async_config.flickerControl = false;
+            _sf_async_config.useCanonical = true;
+            _sf_async_config.useCanonicalDomain = true;
+            _sf_async_config.sections = ''; //CHANGE THIS TO YOUR SECTION NAME(s)
+            _sf_async_config.authors = ''; //CHANGE THIS TO YOUR AUTHOR NAME(s)
+            /** CONFIGURATION END **/
+            function loadChartbeat() {
+                var e = document.createElement('script');
+                var n = document.getElementsByTagName('script')[0];
+                e.type = 'text/javascript';
+                e.async = true;
+                e.src = '//static.chartbeat.com/js/chartbeat.js';
+                n.parentNode.insertBefore(e, n);
+            }
+            loadChartbeat();
+         })();
+	</script>
+    
+    
+    
+        <section class="top-bar">
+
+			<div class="container" data-area-name="menu-top">
+				<div class="top-bar__items" data-mq-change="tablet" data-match-area="menu-top@tablet" data-unmatch-area="menu-top" >
+                    <div class="top-bar__items top-bar__items--left">
+                    <a href="https://www.ciperchile.cl/sobre-ciper/" class="top-bar__item" title="Ir a Sobre CIPER">Sobre CIPER</a><a href="https://www.ciperchile.cl/contacto/" class="top-bar__item" title="Ir a Contacto">Contacto</a>                    </div>
+                    <div class="top-bar__items top-bar__items--right">
+                        <span class="top-bar__item upper">Archivo:</span>
+                    <a href="#" class="top-bar__item" title="Ir a Temas" data-module="modal" data-role="modal-btn" data-target="https://www.ciperchile.cl/modal/">Temas</a><a href="/multimedia/" class="top-bar__item" title="Ir a Especiales">Especiales</a><a href="https://www.ciperchile.cl/autores/" class="top-bar__item" title="Ir a Autores">Autores</a>                       
+                                                  <!--<a href="/donaciones/" title="Ir a donaciones" class="button button--top">Donar</a>-->
+                       <!--<a href="/suscripcion/" title="Ir a Sociedad" id="button2" class="button button--top">Hazte Socio</a>-->
+                        
+                        <a href="/log-in/" title="Ir a Sociedad" id="btnIngreso" class="ingreso"><img src="/wp-content/uploads/user.svg"> Acceso Comunidad +C</a><a href="/socios/" title="Ir a Sociedad" id="button2" class="button button--top">Hazte Socio</a>                        
+                    </div>
+				</div>
+			</div>
+		</section>
+        <nav class="nav-bar" data-module="nav-bar" data-offtop="25" data-stopper="#footer">
+            <div class="container">
+                <div class="nav-bar__holder">
+                    <div class="nav-bar__brand">
+                        <a class="app-brand app-brand--inline" title="Ir a inicio" href="https://www.ciperchile.cl">
+                             <img class="app-brand__logo" src="https://www.ciperchile.cl/wp-content/themes/ciper-ida/dist/img/logos/ciper_logo_light.svg" alt="Logo Ciper"/>
+                        </a>
+                    </div>
+                    <div class="nav-bar__body" data-role="nav-body">
+                        <button class="nav-bar__deploy-button" aria-label="Ver menú" data-role="nav-deployer">
+							          <span></span>
+                        </button>
+                        <div class="search-form">
+                            <button id="search-deployer" class="search-btn icon-elem icon-elem--search">
+                            </button>
+                        </div>
+                        <div class="nav-bar__menu-holder">
+                            <ul class="nav-bar__menu nav-bar__menu--primary">
+                                <!--li class="menu-item hideme showme--at-midlarge menu-item--donaciones"-->
+                                    <!--<a href="https://www.ciperchile.cl/suscripcion/" id="button2" title="Ir a donaciones">Hazte Socio</a>-->
+                        			<!--a href="https://www.ciperchile.cl/socios/" id="button2" title="Ir a socios">Hazte Socio</a-->                        			
+                                <!--/li-->
+                                
+                                <li class="menu-item hideme showme--at-midlarge menu-item--donaciones"><a href="https://www.ciperchile.cl/log-in/" title="Ir a Sociedad" id="btnIngreso" class="ingreso"><img src="/wp-content/uploads/user.svg"> Acceso Comunidad +C</a></li><li class="menu-item hideme showme--at-midlarge menu-item--donaciones"><a href="https://www.ciperchile.cl/socios/" title="Ir a Sociedad" id="button2" class="button button--top">Hazte Socio</a></li>                                
+                                
+                                <li class="menu-item hideme showme--at-midlarge">
+                                    <a href="https://www.ciperchile.cl" title="Ir a inicio">Inicio</a>
+                                </li>
+                            <li class="menu-item"><a href="https://www.ciperchile.cl/investigacion/" title="Ir a Investigación">Investigación</a></li><li class="menu-item"><a href="https://www.ciperchile.cl/actualidad/" title="Ir a Actualidad">Actualidad</a></li><li class="menu-item"><a href="https://www.ciperchile.cl/academico/" title="Ir a CIPER Académico">CIPER Académico</a></li><li class="menu-item menu-item--has-submenu" data-role="touch-submenu"><a href="https://www.ciperchile.cl/debate/" title="Ir a Debate">Debate</a><ul class="submenu"><li class="submenu__item"><a href="https://www.ciperchile.cl/debate/columna/" title="Ir a Columnas">Columnas</a></li><li class="submenu__item"><a href="https://www.ciperchile.cl/debate/opinion/" title="Ir a Opinión">Opinión</a></li><li class="submenu__item"><a href="https://www.ciperchile.cl/debate/opinion-del-lector/" title="Ir a Opinión del lector">Opinión del lector</a></li></ul><span class="icon-elem icon-elem--chevron_down click-handler"  data-role="touch-submenu-deployer"></span></li><li class="menu-item"><a href="https://www.ciperchile.cl/transparencia/" title="Ir a Transparencia">Transparencia</a></li><li class="menu-item"><a href="https://www.ciperchile.cl/radar/" title="Ir a Radar">Radar</a></li>                                <li class="menu-item hideme--at-midlarge">
+                                    <form action="/" method="get" class="search-box">
+                                        <input name="s" type="text" class="search-box__input hideme--at-large" placeholder="Buscar" required>
+                                        <button type="submit" class="search-box__btn icon-elem icon-elem--search"></button>
+                                    </form>
+                                </li>
+                            </ul>
+                            <!--menu--mobile-->
+                            <ul class="nav-bar__menu nav-bar__menu--primary hideme showme--at-midlarge">
+                                <li class="menu-item"><a href="https://www.ciperchile.cl/sobre-ciper/" title="Ir a Sobre CIPER">Sobre CIPER</a></li><li class="menu-item"><a href="https://www.ciperchile.cl/contacto/" title="Ir a Contacto">Contacto</a></li>                                <li class="menu-item menu-item--has-submenu" data-role="touch-submenu">
+                                    <a href="#" title="title">Archivo Ciper</a>
+                                    <ul class="submenu">
+                                <li class="menu-item"><a href="https://www.ciperchile.cl/temas/" title="Ir a Temas">Temas</a></li><li class="menu-item"><a href="/multimedia/" title="Ir a Especiales">Especiales</a></li><li class="menu-item"><a href="https://www.ciperchile.cl/autores/" title="Ir a Autores">Autores</a></li>                                    </ul>
+                                    <span class="icon-elem icon-elem--chevron_down click-handler"  data-role="touch-submenu-deployer"></span>
+                                </li>
+                                <!-- <li class="menu-item">
+                                    <a href="/denuncias-y-datos/" title="Ir a denuncias" title="title">Denuncias y datos</a>
+                                </li> -->
+                                <!-- <li class="menu-item">
+                                    <a href="/donaciones/" title="Ir a donaciones" class="button button--top">Donar.</a>
+                                </li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <form action="/" method="get" id="search-deploy" class="search--mobile">
+                <input type="text" name="s" class="search-box__input" placeholder="Buscar" required>
+                <button type="submit" class="search-box__btn icon-elem icon-elem--arrow_forward hideme--at-midlarge"></button>
+            </form>
+        </nav>
+        <a href="https://www.ciperchile.cl/socios/" class="hideme showme--at-midlarge button--fixed" id="button2" title="Ir a donaciones" data-scroll-fix>Hazte Socio</a>            
+   
+            
+            
+    </header><main>
+  <section class="horizon container">
+    <div class="gridle-row">
+      <article class="gridle-gr-10 gridle-prefix-2 gridle-gr-12@midlarge gridle-prefix-0@midlarge single__encabezado print-full">
+        <p class="common-box__metacat">
+          <a href="https://www.ciperchile.cl/category/actualidad/" title="Ver publicaciones de Actualidad" class="link">
+            Actualidad            <!--cambio 1 inicio-->
+            <script>
+              _sf_async_config.sections = "Actualidad";
+            </script>
+            <!--cambio 1 fin-->
+          </a>
+        </p>
+                  <p class="single__bajada">
+            REGISTRO CIVIL SE NIEGA A RESPONDER SOBRE IDENTIDADES FALSAS ENTREGADAS A LA POLICÍA          </p>
+                  <h1 class="single__title ">
+          Carabinero infiltrado en Lo Hermida: joven de Alto Hospicio denuncia suplantación de identidad        </h1>
+        <p class="common-box__date">
+          16.10.2020        </p>
+        <p class="common-box__author">Por
+          <a class="link link--small" href="/author/nsepulveda" title="Artículos de Nicolás Sepúlveda" >Nicolás Sepúlveda</a>          <!--cambio2 inicio-->
+                    <script>
+            _sf_async_config.authors = "Nicolás Sepúlveda,";
+          </script>
+          <!--cambio2 fin-->
+        </p>
+                  <div class="common-box__meta">Temas:
+            <a href="https://www.ciperchile.cl/tag/alto-hospicio/" title="Ver publicaciones de Alto Hospicio">Alto Hospicio</a>, <a href="https://www.ciperchile.cl/tag/carabineros/" title="Ver publicaciones de Carabineros">Carabineros</a>, <a href="https://www.ciperchile.cl/tag/lo-hermida/" title="Ver publicaciones de Lo Hermida">Lo Hermida</a>, <a href="https://www.ciperchile.cl/tag/penalolen/" title="Ver publicaciones de Peñalolén">Peñalolén</a>, <a href="https://www.ciperchile.cl/tag/plebiscito/" title="Ver publicaciones de Plebiscito">Plebiscito</a>, <a href="https://www.ciperchile.cl/tag/registro-civil/" title="Ver publicaciones de Registro Civil">Registro Civil</a>, <a href="https://www.ciperchile.cl/tag/servel/" title="Ver publicaciones de Servel">Servel</a>, <a href="https://www.ciperchile.cl/tag/servicio-electoral/" title="Ver publicaciones de Servicio Electoral">Servicio Electoral</a>          </div>
+                </article>
+    </div>
+  </section>
+
+  <section class="horizon--bottom container">
+    <div class="gridle-row">
+      <!--sidebar-->      
+      <div class="gridle-gr-2 hideme--at-midlarge no-padding--vertical print-hide">      
+                
+        <aside data-module="stickyParent" class="sidebar--fixed">
+        
+          <h4 class="sidebar__title">Índice</h4>
+          <ul class="sidebar__indice">
+            <li class="sidebar__item sidebar__item--current">
+              <a href="#top" title="Ir a principio" data-func="scrollToTarget" data-offset="40">INICIO</a>
+            </li>
+          </ul>
+        </aside>
+            </div>
+      <!--the content holder-->
+      <div class="gridle-gr-10 gridle-gr-12@midlarge single__holder print-full">
+        
+      <div class="gridle-row gridle-row--flex-top gridle-row"><div class="gridle-gr-9 gridle-gr-12@tablet single__content"><img src="https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513.jpg" class="elastic-img wp-post-image" alt="" width="100%" heigth="auto" srcset="https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513.jpg 900w, https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513-160x90.jpg 160w, https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513-350x197.jpg 350w, https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513-768x432.jpg 768w, https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513-558x314.jpg 558w, https://www.ciperchile.cl/wp-content/uploads/Q663RWP6SNCJXIHDGVQ7EHSTGQ-e1602187491513-279x157.jpg 279w" sizes="(max-width: 900px) 100vw, 900px" /></div><div class="gridle-gr-3 gridle-gr-12@tablet single__side"><div class="aside"><ul class="share-list share-list--row  print-hide"><li class="share-list__item hideme--at-tablet"><button data-func="printPage" title="Imprimir" class="icon-elem icon-elem--print"></button></li><li class="share-list__item"><a href="https://www.linkedin.com/cws/share?url=https://www.ciperchile.cl/?p=143713" data-type="linkedin" data-url="https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" class="icon-elem icon-elem--linkedin" target="_blank"></a></li><li class="share-list__item"><a href="https://twitter.com/intent/tweet?text=Carabinero+infiltrado+en+Lo+Hermida%3A+joven+de+Alto+Hospicio+denuncia+suplantaci%C3%B3n+de+identidad+https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" data-type="twitter" data-url="https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" class="icon-elem icon-elem--twitter" target="_blank"></a></li><li class="share-list__item"><a href="http://www.facebook.com/sharer.php?u=https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" data-type="facebook" data-url="https://www.ciperchile.cl/2020/10/16/carabinero-infiltrado-en-lo-hermida-joven-de-alto-hospicio-denuncia-suplantacion-de-identidad/" class="icon-elem icon-elem--facebook" target="_blank"></a></li><li class="share-list__item"><a href="#" data-module="modal" data-role="modal-btn" data-method="get" data-query="postid=143713&uri=https://www.ciperchile.cl/wp-content/themes/ciper-ida" data-target="https://www.ciperchile.cl/mailshare/" class="icon-elem icon-elem--mail_outline"></a></li></ul></div><div class="aside"><div class="common-box common-box--donacion common-box--donacion_min">
+<style>
+
+#socio {
+background:#FFFF00;
+color:#092334 !important;
+border-color:#FFFF00;
+margin-top: 5px;
+}
+
+</style>
+
+
+
+   <h3 class="common-box__title common-box__title--medium box_libro">Hazte socio de la</h3><h3 class="common-box__title common-box__title--medium box_libro"><strong>Comunidad +CIPER</strong></h3>
+<form class="common-box__form" method="post" action="https://www.ciperchile.cl/socios/">
+            <div class="common-box__excerpt box_bajada_libro">
+			<img src="/wp-content/uploads/libro-1.png" alt="Libro - Lo mejor de CIPER 4">
+             <p>Si te sumas durante octubre, participas en el sorteo de uno de los veinte ejemplares de <strong>"Lo mejor de CIPER 4: el periodismo que remece a Chile".</strong></p>
+
+                     </div>
+		 
+		 
+		 
+                            <!--<input type="submit" class="button button--dark button--full" href="https://ciperchile.cl/socios/" id="socio" value="Hazte socio">-->
+		
+
+                <a class="button button--dark button--full"  id="socio" href="https://ciperchile.cl/socios/">¡Hazte Socio!</a>
+      
+
+            </form></div></div></div></div><div class="gridle-row gridle-row--flex-top gridle-row--flex-top"><div class="gridle-gr-9 gridle-gr-12@tablet single__content"><div class="single__excerpt"><p>El verdadero Giovanni Arévalo, un joven de la comuna de Alto Hospicio, denuncia que en junio de este año fue detenido por Carabineros, y que en ese contexto se le perdió su billetera y su carnet de identidad. Por esos mismos días, un agente de la policía uniformada llegó hasta la población Lo Hermida, en Santiago, diciendo que su nombre era Giovanni Arévalo, y mostrando un carnet que contenía el mismo RUT del joven de Alto Hospicio. Desde el gobierno señalaron que la operación de Carabineros se enmarca en la legalidad.</p>
+</div><p>“Lo que pasa es que, por esas fechas, a mi me tomaron detenido los Carabineros. Y se me perdió la billetera con mi carnet y otros documentos. Se me perdió durante la detención que me hicieron. Y esa billetera nunca más apareció”. El que habla es Giovanni Arévalo, el verdadero. Un joven de 21 años de la comuna de Alto Hospicio, en el norte del país.</p>
+<p>De esa misma comuna es originario el carabinero que se infiltró en una organización social de Lo Hermida, en junio de este año, una fecha que coincide con la detención del joven de Alto Hospicio. El carabinero, en la primera reunión que sostuvo con una organización social de Peñalolén, mostró un carnet de identidad que señalaba que se llamaba Giovanni Arévalo, y que tenía el RUT asociado 19.979.XXX-X.</p>
+<p>La información es coincidente, el carabinero utilizó los datos de identidad del joven de Alto Hospicio, el mismo que por esas fechas había perdido su billetera con su carnet durante una detención realizada por los mismos carabineros.</p>
+<p>“Después tuve que renovar el carnet”, dice el verdadero Giovanni.  “Porque cuando los carabineros me soltaron, fui al lugar donde me tomaron detenido, y la billetera no estaba. Los carabineros tampoco me hicieron devolución de mis cosas. Yo creo que Carabineros suplantó mi identidad”, agregó.</p>
+<p>El joven señaló a CIPER que se enteró que sus datos estaban  publicados en las redes sociales durante este viernes. “Esto pone en riesgo mi integridad física, y también a mi familia. Esto está super mal. Con mi familia estamos analizando la presentación de acciones legales”, aseguró.</p>
+<p>Luego de que CIPER revelara la historia del carabinero que se infiltró en Lo Hermida y que fue descubierto porque había aparecido en un docureality de Canal 13, surgieron nuevos antecedentes que complican a Carabineros, La Moneda y el Registro Civil. Sin que hasta ahora nadie haya entregado respuestas a las preguntas surgidas con la investigación periodística (vea aquí el reportaje “<a href="https://www.ciperchile.cl/2020/10/15/carabinero-infiltrado-en-lo-hermida-fue-descubierto-porque-protagonizo-programa-de-canal-13-con-su-identidad-real/" target="_blank" rel="noopener">Carabinero infiltrado en Lo Hermida fue descubierto porque protagonizó programa de Canal 13 con su identidad real</a>”).</p>
+<p>Cuando el agente “Giovany” (nombre ficticio utilizado por el policía para su operación de infiltración) se presentó antes los dirigentes sociales de Peñalolén, a mediados de junio de este año, les exhibió un carnet de identidad donde aparecían los siguientes datos:</p>
+<ul>
+<li>Nombre: Giovanni Arevalo Álvarez</li>
+<li>Rut: 19.979.XXX-X</li>
+</ul>
+<p>Tiempo después, cuando depositó dinero para ayudar a financiar las ollas comunes y el reparto de mercadería que se hacía en el sector de Lo Hermida, figuraba con otro rut en una cuenta del Banco Estado: 14.876.XXX-X. Ese antecedente contribuyó a aumentar las sospechas de los vecinos de la población de Peñalolén sobre este nuevo vecino que desde mediados de junio se había incorporado a sus actividades.</p>
+<p>Ahora el problema radica en que uno de los dos RUT asociados a “Giovany” está habilitado para votar en el plebiscito del próximo domingo 25 de octubre. El periodista Tomás González, de la <i>Radio Universidad de Chile</i>, halló la información luego de escarbar en las bases de datos del Servicio Electoral (Servel). Eso se explica porque Giovanni Arévalo sí existe, y no es una identidad inventada por el Registro Civil.</p>
+<p>CIPER comprobó que los certificados de nacimiento asociados a los dos RUT que el agente “Giovany” utilizó para presentarse ante los vecinos de Lo Hermida, tienen una diferencia fundamental: además de pequeñas variaciones en el nombre (en un rut aparece como “Giovanni” y en el otro como “Giovany”, aunque los dos apellidos son idénticos), las principales diferencias se relacionan con su árbol genealógico.</p>
+<p>Mientras que con el RUT que parte con 19 millones se puede hacer un seguimiento de sus padres y abuelos, en el segundo RUT utilizado (que parte con 14 millones), esa tarea es imposible porque sus supuestos padres no tienen ningún número de identificación asociado.</p>
+<p>Desde antes de la publicación del primer reportaje, CIPER le preguntó al Registro Civil cómo operaba el mecanismo de otorgamiento de identidades falsas a los agentes policiales, pero ya entonces su Departamento de Comunicaciones señaló que no se iban a referir al tema.</p>
+<p>Fuentes del Registro Civil señalaron a CIPER que Carabinero debe aclarar el uso de dos RUT distintos por parte del agente “Giovany”, porque puede ser que la primera identificación utilizada (la que parte con 19 millones) sea una suplantación de identidad.</p>
+<h2>RENUNCIA DIRECTOR DEL REGISTRO CIVIL </h2><p>A las 14:50 de este viernes 16 se difundió un comunicado público del Ministerio de Justicia (del que depende el Registro Civil) señalando que el director del servicio, Jorge Álvarez Vásquez, salía de su cargo a solicitud del ministro de la cartera. “<i>La decisión se tomó debido a la necesidad de un nuevo liderazgo para enfrentar una nueva etapa</i>”, señaló el comunicado. Fuentes del Registro Civil dijeron a CIPER que su salida del cargo no tenía relación con el caso del carabinero infiltrado en Lo Hermida, pero tampoco señalaron los motivos reales.</p>
+<p>La Asociación Nacional de Funcionarios del Registro Civil publicó un comunicado donde rechazan que el carabinero infiltrado en Lo Hermida utilizara una identidad falsa otorgada por el servicio: “<i>Creemos que este hecho trastoca la esencia de la función pública y el rol de las instituciones, en un contexto en que el cuerpo policial adquiere rasgos propios de una policía política destinada a la destrucción de la oposición social</i>”. Los funcionarios también llamaron a que se transparente la cifra total de identidades falsas otorgadas a agentes policiales durante el último año.</p>
+<p>Tanto el intendente de la Región Metropolitana, Felipe Guevara, como el vocero de gobierno, Jaime Bellolio, evitaron referirse a los antecedentes dados a conocer por CIPER, amparándose en el secreto al que los obliga la Ley de Inteligencia. Quien sí se pronunció fue el ministro del Interior, Victor Pérez:</p>
+<p>“Él fue mandado a infiltrar una organización y poder detectar a quienes estaban atacando (la Subcomisaría de Peñalolén) usando armas y bombas molotov (…). Él no está infiltrado en un jardín infantil, está infiltrado en una organización criminal”, afirmó el ministro según declaraciones recogidas por <a href="https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2020/10/16/gobierno-defiende-infiltracion-de-carabinero-en-lo-hermida-su-tarea-es-imprescindible.shtml">Radio Biobío</a>. A diferencia de lo expuesto por el ministro Pérez, los antecedentes recabados por CIPER indican que el agente “Giovany” operó encubierto en una organización de pobladores que en esos momentos mantenían una olla común y repartían alimentos a familias afectadas por el desempleo, en los momentos más duros de la pandemia de Covid.</p>
+<p>El ministro no se pronunció sobre el mensaje enviado por el agente a los pobladores incitándolos a atacar la subcomisaría del sector, revelado en un audio expuesto en el reportaje de CIPER. Tampoco se refirió a si instigar la comisión de delitos de esta gravedad está dentro de lo que permite la Ley de Inteligencia a los agentes encubiertos.</p>
+<p>Pérez calificó la labor del agente como “trascendental” y agregó: “Le aseguro que esa persona no vota dos veces. Le aseguro que esa persona no tiene doble beneficios sociales por el hecho de tener dos carné de identidad. Es la manera que el Estado tiene de cubrir a esa persona a la cual le está pidiendo que realice una tarea arriesgada”.</p>
+<p>Lo que no dijo el ministro Pérez, es que el ciudadano Giovanni Arévalo sí existe, pero que no es un carabinero. Y que sus datos fueron utilizados por la policía uniformada durante una operación de infiltración que fue descubierta.</p>
+</div><div class="gridle-gr-3 gridle-gr-12@tablet single__side"><div class="aside"><article class="common-box common-box--module_min"><h4 class="common-box__title">Especial</h4><p class="common-box__text">Especial Pandemia</p><a href="https://www.ciperchile.cl/multimedia/especial-pandemia/" title="Leer Especial" class="link">Leer Especial</a></article></div><div class="aside"><div class="common-box common-box--module_min"><h4 class="common-box__title">Información adicional</h4><p class="common-box__text"> Carabinero infiltrado en Lo Hermida fue descubierto porque protagonizó programa de Canal 13 con su identidad real </p><a href="https://www.ciperchile.cl/2020/10/15/carabinero-infiltrado-en-lo-hermida-fue-descubierto-porque-protagonizo-programa-de-canal-13-con-su-identidad-real/" class="link">Ver link</a></div><div class="common-box common-box--module_min"><h4 class="common-box__title">Información adicional</h4><p class="common-box__text"> Contraloría revisa contrato de residencia sanitaria: esposa de diputado integra sociedad dueña del hotel </p><a href="https://www.ciperchile.cl/2020/10/16/contraloria-revisa-contrato-de-residencia-sanitaria-esposa-de-diputado-integra-sociedad-duena-del-hotel/" class="link">Ver link</a></div><div class="common-box common-box--module_min"><h4 class="common-box__title">Información adicional</h4><p class="common-box__text"> Un intento de suicidio en Unión Española: jugadora sub17 fue acosada por un funcionario del club </p><a href="https://www.ciperchile.cl/2020/10/14/un-intento-de-suicidio-en-union-espanola-jugadora-sub17-fue-acosada-por-un-funcionario-del-club/" class="link">Ver link</a></div></div></div></div>      </div>
+    </div>
+  </section>
+
+      <section class="bg-gray horizon print-hide">
+        <div class="container">
+                    <div class="gridle-row">
+                <div class="gridle-gr-10 gridle-prefix-2 gridle-gr-12@tablet gridle-prefix-0@tablet no-padding">
+                    <div class="gridle-row">
+                        <div class="gridle-gr-9 gridle-sufix-2 gridle-gr-12@tablet gridle-sufix-0@tablet no-padding">
+                            <form id="comment_form" action="https://www.ciperchile.cl/wp-comments-post.php" method="post" class="gridle-row form-datos form-comment" data-module="common-form" data-validation="generic_submit" data-validzr-handled="true" novalidate>
+                                <div class="form-control gridle-gr-12 no-padding--vertical">
+                                    <h2 class="common-box__title common-box__title--medium">¿Algo que agregar?</h2>
+                                </div>
+                                                                   <div class="form-control gridle-gr-6 gridle-gr-12@tablet" data-error-message="Debe contener sólo valores alfabéticos">
+                                       <input type="hidden" name="action" value="contact_form_top">
+                                       <label for="nombre-single" class="form-control__label">* Nombre</label>
+                                       <input type="text" name="author" id="author" class="form-control__field" placeholder="Ingrese su nombre" required>
+                                       <span class="form-control__text">Debe contener sólo valores alfabéticos</span>
+                                   </div>
+                                   <div class="form-control gridle-gr-6 gridle-gr-12@tablet" data-error-message="Debe llenar este campo con un e-mail válido">
+                                       <label for="email-single" class="form-control__label">* Email (no será publicado)</label>
+                                       <input type="email" name="email" id="email" class="form-control__field" placeholder="ejemplo@ciper.cl" required>
+                                       <span class="form-control__text">Debe llenar este campo con un e-mail válido</span>
+                                   </div>
+                                                                                                      <div class="form-control gridle-gr-12" data-error-message="Debe contener sólo valores alfabéticos">
+                                       <label for="comment" class="form-control__label">* Comentario</label>
+                                       <textarea name="comment" id="comment" rows="5" placeholder="Ingrese su comentario" class="form-control__field form-control__field--area" required></textarea>
+                                   </div>
+                                   <div class="form-control gridle-gr-12 font-centered">
+                                       <input type="hidden" name="hidden-single" value="true" />
+                                       <input type='hidden' name='comment_post_ID' value='143713' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+                                       <input type="submit" class="button button--wide button--dark" name="postcomment" value="Publicar comentario">
+                                       <div class="form-control__pop form-control__pop--danger hide">Revise los campos nuevamente</div>
+                                   </div>
+                                   <p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="70d39e7abc" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="169"/></p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+    <footer id="footer" class="footer-bar print-hide">
+		<div class="container gridle-no-gutter">
+			<div class="gridle-row">
+				<div class="gridle-gr-3 gridle-gr-12@tablet border--right no-padding--vertical--but-tablet">
+					<a class="app-brand" href="https://www.ciperchile.cl" title="Ir a inicio">
+						<img src="https://www.ciperchile.cl/wp-content/uploads/ciper_logo_full_dark.svg" alt="Logo Ciper" class="app-brand__logo">
+                    </a>
+                    <div class="footer-bar__data">
+                        <p class="footer-bar__par">Director: Pedro Ramírez</p>
+                        <p class="footer-bar__par">Editor:
+                        Juan Andrés Guzmán                        </p>
+                    </div>
+                    <div class="footer-bar__data">
+                        <p class="footer-bar__par">
+                            <a href="http://www.google.com/maps/place/Jos%C3%A9+Miguel+de+la+Barra+412%2C+Santiago+de+Chile" title="Ir a googlemaps" target="_blank">José Miguel de la Barra 412, Santiago de Chile</a>
+                        </p>
+                                            <p class="footer-bar__par">Fono: <a href="tel:(56-2) 26382629" title="Teléfono Ciper" target="_blank">(56-2) 26382629</a>
+                    / Fax: <a href="fax:(56-2) 26382629" title="Fax Ciper" target="_blank">(56-2) 26382629</a></p>                        <p class="footer-bar__par">Todos los derechos reservados ©2017</p>
+                    </div>
+				</div>
+				<div class="gridle-gr-2 gridle-gr-6@tablet gridle-prefix-1 gridle-prefix-0@tablet no-padding--vertical--but-tablet">
+                    <h4 class="footer-bar__title">Secciones</h4>
+                <a href="https://www.ciperchile.cl/investigacion/" title="Ir a Investigación" class="footer-bar__link">Investigación</a><a href="https://www.ciperchile.cl/actualidad/" title="Ir a Actualidad" class="footer-bar__link">Actualidad</a><a href="https://www.ciperchile.cl/academico/" title="Ir a CIPER Académico" class="footer-bar__link">CIPER Académico</a><a href="https://www.ciperchile.cl/debate/" title="Ir a Debate" class="footer-bar__link">Debate</a><a href="https://www.ciperchile.cl/transparencia/" title="Ir a Transparencia" class="footer-bar__link">Transparencia</a><a href="https://www.ciperchile.cl/radar/" title="Ir a Radar" class="footer-bar__link">Radar</a>				</div>
+				<div class="gridle-gr-2 gridle-gr-6@tablet no-padding--vertical--but-tablet">
+                    <h4 class="footer-bar__title">Archivo Ciper</h4>
+                <a href="https://www.ciperchile.cl/temas/" title="Ir a Temas" class="footer-bar__link">Temas</a><a href="/multimedia/" title="Ir a Especiales" class="footer-bar__link">Especiales</a><a href="https://www.ciperchile.cl/autores/" title="Ir a Autores" class="footer-bar__link">Autores</a>                </div>
+                <div class="gridle-gr-2 gridle-gr-6@tablet no-padding--vertical--but-tablet">
+                    <h4 class="footer-bar__title">Sobre Ciper</h4>
+                <a href="https://www.ciperchile.cl/donaciones/" title="Ir a Donaciones" class="footer-bar__link">Donaciones</a><a href="https://www.ciperchile.cl/lista-donaciones/" title="Ir a Donantes" class="footer-bar__link">Donantes</a><a href="https://www.ciperchile.cl/contacto/" title="Ir a Contacto" class="footer-bar__link">Contacto</a><a href="https://www.ciperchile.cl/newsletter/" title="Ir a Newsletter" class="footer-bar__link">Newsletter</a><a href="https://www.ciperchile.cl/blog/" title="Ir a Blog" class="footer-bar__link">Blog</a><a href="https://www.ciperchile.cl/socios/" title="Ir a socios" class="footer-bar__link">socios</a>                </div>
+                <div class="gridle-gr-2 gridle-gr-6@tablet no-padding--vertical--but-tablet">
+                    <p class="footer-bar__social">
+                    <a href="http://twitter.com/ciper" title="Ir a Twitter" target="_blank" class="social-link social-link--twitter"></a><a href="http://facebook.com/ciperchile" title="Ir a Facebook" target="_blank" class="social-link social-link--facebook"></a><a href="http://instagram.com/ciper_chile/" title="Ir a Instagram" target="_blank" class="social-link social-link--instagram"></a>                    </p>
+				</div>
+			</div>
+		</div>
+        <div class="subfooter">
+            <div class="container">
+                <div class="subfooter_container">
+                    <figure class="subfooter__figure">
+                        <img src="https://www.ciperchile.cl/wp-content/themes/ciper-ida/dist/img/logos/open-society.png" alt="Logo open society" class="elastic-img">
+                    </figure>
+                    <div class="subfooter__body">
+                        <p class="footer-bar__par">El rediseño y desarollo de este nuevo sitio web fue posible gracias al financiamiento de la Open Society, que apoya al periodismo independiente</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+                      
+     
+	</footer>
+    <noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=2703554993081640&ev=PageView&noscript=1" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=2703554993081640&ev=GeneralEvent&noscript=1&cd[post_type]=post&cd[post_id]=143713&cd[content_name]=Carabinero+infiltrado+en+Lo+Hermida%3A+joven+de+Alto+Hospicio+denuncia+suplantaci%C3%B3n+de+identidad&cd[categories]=Actualidad&cd[tags]=Alto+Hospicio%2C+Carabineros%2C+Lo+Hermida%2C+Pe%C3%B1alol%C3%A9n%2C+Plebiscito%2C+Registro+Civil%2C+Servel%2C+Servicio+Electoral" alt="facebook_pixel"></noscript>
+<script async="async" type='text/javascript' src='https://www.ciperchile.cl/wp-content/plugins/akismet/_inc/form.js?ver=4.0.3'></script>
+    <a style="display:none;" href="https://www.ida.cl/" title="Diseño relizado por IDA">Ideas Digitales Aplicadas</a>
+        
+  <label for="hide">
+	<span></span>
+</label>
+<input type="radio" id="hide" name="group">
+
+      
+        
+</body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1602982574 -->

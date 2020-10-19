@@ -1,0 +1,1044 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>The Sea Foam Classic Muscle Car Sweepstakes</title>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="The Sea Foam Classic Muscle Car Sweepstakes">
+        
+                
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="The Sea Foam Classic Muscle Car Sweepstakes" />
+        <meta name="twitter:description" content="Enter for a chance to win this 1969 Chevrolet Camaro built on Detroit Muscle and Engine Power!&nbsp;For more information about Sea Foam High Mileage and other Sea Foam products, visit www.seafoamworks.com" />
+        <meta name="twitter:image" content="https://res.cloudinary.com/viralsweep/image/upload/v1587748026/bnqewmlcaykqovvmzynp.jpg" />
+        
+        <meta property="og:url" content="https://app.viralsweep.com/sweeps/full/e4d84b-66798?framed=1"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="The Sea Foam Classic Muscle Car Sweepstakes"/>
+        <meta property="og:image" content="https://res.cloudinary.com/viralsweep/image/upload/v1587748026/bnqewmlcaykqovvmzynp.jpg"/>
+        <meta property="og:site_name" content="ViralSweep"/>
+
+        <meta property="og:description" content="Enter for a chance to win this 1969 Chevrolet Camaro built on Detroit Muscle and Engine Power!&nbsp;For more information about Sea Foam High Mileage and other Sea Foam products, visit www.seafoamworks.com"/>
+        <meta property="fb:admins" content="1088490351"/>
+        <meta property="fb:admins" content="11512735"/>
+        <meta property="fb:admins" content="1088490312"/>
+        
+	<!-- Social Meta -->
+	<meta>
+	<!-- //Social Meta -->
+
+	<link rel="stylesheet" href="/assets/css/template/css_v3.css?v=3.23.3" />    
+                
+        <link rel="stylesheet" href="/assets/fonts/vsfont/css/vsfont.css?v=3.23.3" />
+	<!-- We'll have a base template and apply our own 'Custom CSS' on top of it. Give customers option to set their giveaway to base template for super customization -->
+        
+        <link rel="stylesheet" href="/vendor/phone_country_codes/build/css/intlTelInput.css?v=3.23.3" />
+        
+                
+                
+       
+            
+                <style> body.fullpage .container { max-width: 900px !important; } </style>
+        
+        
+                    
+               
+	<link rel="stylesheet" href="/assets/css/template/ie.css?v=3.23.3" />
+
+        
+        <script type="text/javascript">var VS_DIR = '';</script>
+        <script type="text/javascript">var VS_DOMAIN = 'https://app.viralsweep.com';</script>
+        <script type="text/javascript">var PID = '66798';</script>
+        <script type="text/javascript">var PHID = 'e4d84b-66798';</script>
+        
+                
+        
+        <link rel="stylesheet" href="/assets/js/vendor/fontawesome/css/all.css?v=3.23.3" />
+        <link href="https://fonts.googleapis.com/css?family=Lato|Lora|Merriweather|Muli|Noto+Sans|Open+Sans|Open+Sans+Condensed:300|Oswald|PT+Sans|PT+Serif|Playfair+Display|Poppins|Raleway|Roboto|Roboto+Condensed|Roboto+Mono|Roboto+Slab|Slabo+27px|Source+Sans+Pro|Ubuntu" rel="stylesheet" />
+        
+        <style>
+:not(label) > p, .pre-entry form .content_block_content, .pre .email-verification, form .email-verification a, form .email-verification a:hover {font-family:Arial,Helvetica,Arial,sans-serif;} .description, .description span {font-family:Arial,Helvetica,Arial,sans-serif!important;} .gallery > ul.submissions > .category .option li {font-family:Arial,Helvetica,Arial,sans-serif} /* default_font_family */
+h1, h2, h3, h4, h5, h6, h1 p, h2 p, h3 p, h4 p, h5 p, h6 p, h1 li, h2 li, h3 li, h4 li, h5 li, h6 li {font-family:Arial,Helvetica,Arial,sans-serif;} .title, .title span, .footer li > span {font-family:Arial,Helvetica,Arial,sans-serif!important;} /* header_font_family */
+form label, .form label {font-family:Arial,Helvetica,Arial,sans-serif;} /* label_font_family */
+form label, .form label, .actions div label {color:rgb(0, 0, 0);} .jp-card .jp-card-front, .jp-card .jp-card-back {background:rgb(0, 0, 0)!important;} .stripe-logo svg {color:rgb(0, 0, 0);} /* label_color */
+form input[type], form input[type=number], form input[type=password], form input[type=tel], form select, form textarea {color:rgb(0, 0, 0);} *::-webkit-input-placeholder {color:rgb(0, 0, 0);opacity:1;} *::-moz-placeholder {color:rgb(0, 0, 0);opacity:1;} *:-moz-placeholder {color:rgb(0, 0, 0);opacity:1;} *:-ms-input-placeholder {color:rgb(0, 0, 0);opacity:1;} *::-ms-input-placeholder {color:rgb(0, 0, 0);opacity:1;} *:focus::-webkit-input-placeholder {color:rgb(0, 0, 0);opacity:1;} *:focus::-moz-placeholder {color:rgb(0, 0, 0);opacity:1;} *:focus:-moz-placeholder {color:rgb(0, 0, 0);opacity:1;} *:focus:-ms-input-placeholder {color:rgb(0, 0, 0);opacity:1;} *:focus::-ms-input-placeholder {color:rgb(0, 0, 0);opacity:1;} form select, form select:invalid, form select:valid, form select:focus {color:rgb(0, 0, 0);} form select, form select:invalid, form select:valid, form select:focus {background-image:url(data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22utf-8%22%3F%3E%0A%3C%21DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%2228%22%20height%3D%2232%22%20viewBox%3D%220%200%2028%2032%22%3E%0A%3Cpath%20fill%3D%22rgb%280%2C+0%2C+0%29%22%20d%3D%22M2.016%208.96l11.84%2011.392%2011.904-11.392q0.704-0.832%201.536%200%200.832%200.704%200%201.536l-12.672%2012.544q-0.704%200.704-1.536%200l-12.672-12.544q-0.832-0.832%200-1.536%200.768-0.768%201.6%200z%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E%0A);background-repeat:no-repeat;background-position:right 1em center;background-size:1.15em;} form .checkbox span label p, form .radio > div > span label p, form .multi_check > div > span label p, .actions .question_radio label p, .actions div.poll-results-wrapper label {color:rgb(0, 0, 0);} form .checkbox span label:after, form .radio > div > span label:after, form .multi_check > div > span label:after, .actions .question_radio label:after {background:rgb(0, 0, 0);} form .dual_type_wrapper label, .single_upload_wrapper label {color:rgb(0, 0, 0);} form input.referral-link + span.trigger-copy i, form input.referral-link + span.trigger-copy-wrapper i {color:rgb(0, 0, 0);} form input.referral-link + span.trigger-copy.success:after, form input.referral-link + span.trigger-copy-wrapper.success:after {color:rgb(0, 0, 0);} span.upload_photo_action_wrapper input.file_name_input {color:rgb(0, 0, 0);} /* form_field_font_color */
+form input[type], form input[type=number], form input[type=password], form input[type=tel], form select, form textarea {font-family:Arial,Helvetica,Arial,sans-serif;} /* form_field_font_family */
+.submit:not(.enter_sweeps), a.button:not(.enter_sweeps) {background:rgb(0, 0, 0);} .images .slidesjs-pagination li a.active:before, .gallery > .details ul.information li.more > ul li:before, .gallery > .details .image > ul.more li.active:before {background:rgb(0, 0, 0);} /* button_color_primary */
+.submit:not(.enter_sweeps):after, a.button:not(.enter_sweeps):after {background:rgb(173, 14, 14);} /* button_color_primary_hover */
+.submit:not(.enter_sweeps), a.button:not(.enter_sweeps) {font-family:Arial,Helvetica,Arial,sans-serif;} /* button_font_family */
+.submit:not(.enter_sweeps) {border-style:solid;} /* button_border_style */
+.submit:not(.enter_sweeps):hover {border-style:solid;} /* button_border_style_hover */
+.promotion {border-style:solid;} /* promotion_border_style */
+.description {border-style:solid;} /* description_border_style */
+.form {border-style:solid;} /* form_border_style */
+.images {border-style:solid;} /* images_border_style */
+.actions > ul {border-style:solid;} /* actions_border_style */
+.submit.enter_sweeps {background:rgb(0, 0, 0);} /* enter_color_primary */
+.submit.enter_sweeps:after {background:rgb(173, 14, 14);} /* enter_color_primary_hover */
+.submit.enter_sweeps {font-family:Arial,Helvetica,Arial,sans-serif;} /* enter_font_family */
+.submit.enter_sweeps {border-style:solid;} /* enter_border_style */
+.submit.enter_sweeps:hover {border-style:solid;} /* enter_border_style_hover */
+.logo, .logo_above {max-width:450px;} /* logo_max_width */
+</style>
+        
+        </head>
+<body data-cap-lang="" class="        vote_captcha     width-custom fullpage background-stretch images-top pre    type_sweeps ">    
+    
+ <div class="background"><img src="https://res.cloudinary.com/viralsweep/image/upload/f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1587590798/apugcsqzown1r44ayifp.jpg"></div>
+ <div class="container">
+
+    
+            <div class="tep logo logo_above" data-tep="logo" data-tep-section="images"><img src="https://res.cloudinary.com/viralsweep/image/upload/f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1587505032/wlkmshlcto3mkjo8lban.png" alt="logo" /></div>
+        
+        
+    <div data-tep="product" data-tep-section="images" class="tep images slidejs " id="slides" data-width="400" data-height="235">
+        <div class="images_wrapper" data-width="400" data-height="235">
+                  <div class="slide-image-wrapper">
+              <img class="cld-responsive" data-src="https://res.cloudinary.com/viralsweep/image/upload/w_auto,f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1587748026/bnqewmlcaykqovvmzynp.jpg">
+          </div>
+                  <div class="slide-image-wrapper">
+              <img class="cld-responsive" data-src="https://res.cloudinary.com/viralsweep/image/upload/w_auto,f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1592583839/bzmth3qkspweh3jqfanp.jpg">
+          </div>
+                  <div class="slide-image-wrapper">
+              <img class="cld-responsive" data-src="https://res.cloudinary.com/viralsweep/image/upload/w_auto,f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1592583848/b01urgwpteytf0xfzj9j.jpg">
+          </div>
+                     
+        <!-- /Images -->
+        </div>
+        
+        <div class="clear"></div>
+        <div class="border top"></div>
+        <div class="border right"></div>
+        <div class="border bottom"></div>
+        <div class="border left"></div>
+    </div>
+        
+        
+    <div class="promotion">
+        
+                
+        
+        <div class="test-mode">
+            <i class="icon-lab-flask"></i>Test Mode
+        </div>
+
+        <div class="over-entry">
+                                <h1 class="title tep" data-tep="title" data-tep-section="title"><p><strong><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0);">The Sea Foam Classic Muscle Car Sweepstakes</span></strong></p></h1>
+                <div class="description">
+                        <h3 class="center tep" data-tep-section="language" data-tep="sweeps_ended">This sweepstakes ended on 12-16-2020 12:00 PM</h3>
+                </div>                
+        </div>
+        
+        <div class="waiting-entry">
+                                <h1 class="title tep" data-tep="title" data-tep-section="title"><p><strong><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0);">The Sea Foam Classic Muscle Car Sweepstakes</span></strong></p></h1>
+                <div class="description">
+                        <h3 class="center tep" data-tep-section="language" data-tep="sweeps_will_start">This sweepstakes will start on 5-27-2020 12:00 PM</h3>
+                </div>       
+        </div>
+        
+        <div class="invalid-geo">
+                <div class="description">
+                        <h3 class="center">Sorry, this campaign is not available in your location.</h3>
+                </div>       
+        </div>
+
+        <div class="pre-entry">
+
+                
+                                
+                                
+                <!-- Order: Logo -->
+                                <!-- /Order: Logo -->
+
+                <!-- Order: Title -->
+                <h1 class="title tep" data-tep="title" data-tep-section="title"><p><strong><span style="font-family: Arial, sans-serif; color: rgb(0, 0, 0);">The Sea Foam Classic Muscle Car Sweepstakes</span></strong></p></h1>
+                <!-- /Order: Title -->
+
+                <!-- Order: Description -->
+                                <div class="description tep" data-tep="description" data-tep-section="description">
+                    <p>Enter for a chance to win this 1969 Chevrolet Camaro built on Detroit Muscle and Engine Power!&nbsp;</p><p>For more information about Sea Foam High Mileage and other Sea Foam products, visit <a href="https://www.seafoamworks.com" rel="noopener noreferrer" target="_blank">www.seafoamworks.com</a></p>                </div>
+                                <!-- /Order: Description -->
+            
+                <!-- Order: Form -->
+                                <div class="form">
+                    
+                    <!-- Cookie Warning -->
+                    
+                                        
+                    <form id="entry-form" method="post" action="">
+                        <input type="hidden" name="id" value="e4d84b-66798" />
+                        <input type="hidden" name="type" value="full" id="hidden_sweeps_type" />
+                        <input type="hidden" name="rfid" id="rfid" value="" />
+                        <input type="hidden" name="cpid" id="cpid" value="" />
+
+                        <input type="hidden" name="tv" value="" id="tv" />
+                        <input type="hidden" name="ti" value="609814||=dd89d1713b85106a6a758a3800b1baf8" id="ti" />
+                       
+                                                    <input type="hidden" name="refer_source" value="" />
+                            <input id="entry_source" type="hidden" name="entry_source" value="https://app.viralsweep.com/sweeps/full/e4d84b-66798?framed=1" data-url="" />
+                            <input id="landing_source" type="hidden" value="" />                        
+                                                                                                <div class="alert warning hide">
+                            <h3 class="title"></h3>
+                            <p class="message"></p>
+                        </div>
+                        <div class="alert success hide">
+                            <h3 class="title"></h3>
+                            <p class="message"></p>
+                        </div>
+                        
+                                <div class="email form_item_wrapper tep" data-tep="email" data-tep-section="forms">
+            <span>
+                <label for="email" class="form_label_text"></label>
+                <div class="form-item icon"><input value="" data-error="Enter a valid email address" id="email" type="email" class="email-checker form_item is_required has_required" name="email" placeholder="Email Address"><i style="color:rgba(70,75,106,0.5)" class="vs icon-mail"></i></div>
+                <span data-text="Did you mean" id="email_verify" class="email-verification"></span>
+            </span>
+        </div>  
+        <div class="email_again form_item_wrapper" style="display: none;">
+            <span>
+                <label for="email_again" class="form_label_text"></label>
+                <input id="email_again" type="text" class="" name="email_again" placeholder="Email Address"> 
+            </span>
+        </div>  
+            <div data-tep="name" data-tep-section="forms" class="tep name form_item_wrapper  is_required ">
+            <span>
+                <label class="first_name_label form_label_text"></label>
+                <div class="clear"></div>
+                <div class="form-item icon">
+                  <input value="" data-error="Name is required" id="first_name" type="text" name="first_name" class="form_item  is_required" placeholder="First Name">
+                  <i style="color:rgba(70,75,106,0.5)" class="vs icon-user"></i>                </div>
+                                <div class="form-item icon">
+                  <input value="" data-error="Name is required" id="last_name" type="text" name="last_name" class="form_item  is_required" placeholder="Last Name">
+                  <i style="color:rgba(70,75,106,0.5)" class="vs icon-user"></i>                </div>
+                <div class="clear"></div>
+                            </span>
+        </div>
+                
+  
+            <div data-tep="birthday" data-tep-section="forms" class="tep birthday form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text">Birthday*</label>            
+            <div class="clear"></div>
+            <div class="form-item icon"><select required data-error="Birthday is required" name="birthday_month" id="birthday-month" class="form_item  is_required"><option invalid value="">Month</option><option  value="January">January</option><option  value="February">February</option><option  value="March">March</option><option  value="April">April</option><option  value="May">May</option><option  value="June">June</option><option  value="July">July</option><option  value="August">August</option><option  value="September">September</option><option  value="October">October</option><option  value="November">November</option><option  value="December">December</option></select> <i style="color:rgba(70,75,106,0.5)" class="vs icon-birthday"></i></div>       
+            <div class="form-item icon"><select required data-error="Birthday is required" name="birthday_day" id="birthday-day" class="form_item  is_required"><option invalid value="">Day</option><option  value="1">1</option><option  value="2">2</option><option  value="3">3</option><option  value="4">4</option><option  value="5">5</option><option  value="6">6</option><option  value="7">7</option><option  value="8">8</option><option  value="9">9</option><option  value="10">10</option><option  value="11">11</option><option  value="12">12</option><option  value="13">13</option><option  value="14">14</option><option  value="15">15</option><option  value="16">16</option><option  value="17">17</option><option  value="18">18</option><option  value="19">19</option><option  value="20">20</option><option  value="21">21</option><option  value="22">22</option><option  value="23">23</option><option  value="24">24</option><option  value="25">25</option><option  value="26">26</option><option  value="27">27</option><option  value="28">28</option><option  value="29">29</option><option  value="30">30</option><option  value="31">31</option></select> <i style="color:rgba(70,75,106,0.5)" class="vs icon-birthday"></i></div>           
+            <div class="form-item icon"><select required data-min-age-error="You are not old enough to enter" data-min-age="18" data-error="Birthday is required" name="birthday_year" id="birthday-year" class="form_item  is_required"><option invalid value="">Year</option><option  value="2020">2020</option><option  value="2019">2019</option><option  value="2018">2018</option><option  value="2017">2017</option><option  value="2016">2016</option><option  value="2015">2015</option><option  value="2014">2014</option><option  value="2013">2013</option><option  value="2012">2012</option><option  value="2011">2011</option><option  value="2010">2010</option><option  value="2009">2009</option><option  value="2008">2008</option><option  value="2007">2007</option><option  value="2006">2006</option><option  value="2005">2005</option><option  value="2004">2004</option><option  value="2003">2003</option><option  value="2002">2002</option><option  value="2001">2001</option><option  value="2000">2000</option><option  value="1999">1999</option><option  value="1998">1998</option><option  value="1997">1997</option><option  value="1996">1996</option><option  value="1995">1995</option><option  value="1994">1994</option><option  value="1993">1993</option><option  value="1992">1992</option><option  value="1991">1991</option><option  value="1990">1990</option><option  value="1989">1989</option><option  value="1988">1988</option><option  value="1987">1987</option><option  value="1986">1986</option><option  value="1985">1985</option><option  value="1984">1984</option><option  value="1983">1983</option><option  value="1982">1982</option><option  value="1981">1981</option><option  value="1980">1980</option><option  value="1979">1979</option><option  value="1978">1978</option><option  value="1977">1977</option><option  value="1976">1976</option><option  value="1975">1975</option><option  value="1974">1974</option><option  value="1973">1973</option><option  value="1972">1972</option><option  value="1971">1971</option><option  value="1970">1970</option><option  value="1969">1969</option><option  value="1968">1968</option><option  value="1967">1967</option><option  value="1966">1966</option><option  value="1965">1965</option><option  value="1964">1964</option><option  value="1963">1963</option><option  value="1962">1962</option><option  value="1961">1961</option><option  value="1960">1960</option><option  value="1959">1959</option><option  value="1958">1958</option><option  value="1957">1957</option><option  value="1956">1956</option><option  value="1955">1955</option><option  value="1954">1954</option><option  value="1953">1953</option><option  value="1952">1952</option><option  value="1951">1951</option><option  value="1950">1950</option><option  value="1949">1949</option><option  value="1948">1948</option><option  value="1947">1947</option><option  value="1946">1946</option><option  value="1945">1945</option><option  value="1944">1944</option><option  value="1943">1943</option><option  value="1942">1942</option><option  value="1941">1941</option><option  value="1940">1940</option><option  value="1939">1939</option><option  value="1938">1938</option><option  value="1937">1937</option><option  value="1936">1936</option><option  value="1935">1935</option><option  value="1934">1934</option><option  value="1933">1933</option><option  value="1932">1932</option><option  value="1931">1931</option><option  value="1930">1930</option><option  value="1929">1929</option><option  value="1928">1928</option><option  value="1927">1927</option><option  value="1926">1926</option><option  value="1925">1925</option><option  value="1924">1924</option><option  value="1923">1923</option><option  value="1922">1922</option><option  value="1921">1921</option><option  value="1920">1920</option></select> <i style="color:rgba(70,75,106,0.5)" class="vs icon-birthday"></i></div>            <div class="clear"></div>
+            </span>
+        </div>
+  
+            <div data-tep="address" data-tep-section="forms" class="tep address form_item_wrapper  is_required">
+            <span>
+                <label class="label form_label_text"></label>
+                <div class="clear"></div>
+                <div class="form-item icon">
+                    <input value="" data-error="Address is required" id="address" type="text" name="address" class="form_item  is_required" placeholder="Street Address">
+                    <i style="color:rgba(70,75,106,0.5)" class="vs icon-location"></i>                </div>
+            </span>
+        </div>        
+  
+            <div data-tep="city" data-tep-section="forms" class="tep city form_item_wrapper  is_required">
+            <span>
+                <label class="label form_label_text"></label>
+                <div class="clear"></div>
+                <div class="form-item icon">
+                    <input value="" data-error="City is required" id="city" type="text" name="city" class="form_item  is_required" placeholder="City" />
+                    <i style="color:rgba(70,75,106,0.5)" class="vs icon-location"></i>               </div>
+            </span>
+        </div>        
+  
+            <div data-tep="state" data-tep-section="forms" class="tep state form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text"> </label>
+            <div class="form-item icon">
+                <select required id="state" data-error="Invalid Selection!" name="state" class="form_item  is_required" >
+                    <option invalid value="">Select State</option>
+                                    <option  value="Armed Forces Americas">Armed Forces Americas</option>
+                                    <option  value="Armed Forces Europe Middle East & Canada">Armed Forces Europe Middle East & Canada</option>
+                                    <option  value="Armed Forces Pacific">Armed Forces Pacific</option>
+                                    <option  value="Alabama">Alabama</option>
+                                    <option  value="Alaska">Alaska</option>
+                                    <option  value="Arizona">Arizona</option>
+                                    <option  value="Arkansas">Arkansas</option>
+                                    <option  value="California">California</option>
+                                    <option  value="Colorado">Colorado</option>
+                                    <option  value="Connecticut">Connecticut</option>
+                                    <option  value="Delaware">Delaware</option>
+                                    <option  value="District of Columbia">District of Columbia</option>
+                                    <option  value="Florida">Florida</option>
+                                    <option  value="Georgia">Georgia</option>
+                                    <option  value="Hawaii">Hawaii</option>
+                                    <option  value="Idaho">Idaho</option>
+                                    <option  value="Illinois">Illinois</option>
+                                    <option  value="Indiana">Indiana</option>
+                                    <option  value="Iowa">Iowa</option>
+                                    <option  value="Kansas">Kansas</option>
+                                    <option  value="Kentucky">Kentucky</option>
+                                    <option  value="Lousiana">Lousiana</option>
+                                    <option  value="Maine">Maine</option>
+                                    <option  value="Maryland">Maryland</option>
+                                    <option  value="Massachusetts">Massachusetts</option>
+                                    <option  value="Michigan">Michigan</option>
+                                    <option  value="Minnesota">Minnesota</option>
+                                    <option  value="Mississippi">Mississippi</option>
+                                    <option  value="Missouri">Missouri</option>
+                                    <option  value="Montana">Montana</option>
+                                    <option  value="Nebraska">Nebraska</option>
+                                    <option  value="Nevada">Nevada</option>
+                                    <option  value="New Hampshire">New Hampshire</option>
+                                    <option  value="New Jersey">New Jersey</option>
+                                    <option  value="New Mexico">New Mexico</option>
+                                    <option  value="New York">New York</option>
+                                    <option  value="North Carolina">North Carolina</option>
+                                    <option  value="North Dakota">North Dakota</option>
+                                    <option  value="Ohio">Ohio</option>
+                                    <option  value="Oklahoma">Oklahoma</option>
+                                    <option  value="Oregon">Oregon</option>
+                                    <option  value="Pennsylvania">Pennsylvania</option>
+                                    <option  value="Rhode Island">Rhode Island</option>
+                                    <option  value="South Carolina">South Carolina</option>
+                                    <option  value="South Dakota">South Dakota</option>
+                                    <option  value="Tennessee">Tennessee</option>
+                                    <option  value="Texas">Texas</option>
+                                    <option  value="Utah">Utah</option>
+                                    <option  value="Vermont">Vermont</option>
+                                    <option  value="Virginia">Virginia</option>
+                                    <option  value="Washington">Washington</option>
+                                    <option  value="West Virginia">West Virginia</option>
+                                    <option  value="Wisconsin">Wisconsin</option>
+                                    <option  value="Wyoming">Wyoming</option>
+                                    <option  value=""></option>
+                                </select>
+                <i style="color:rgba(70,75,106,0.5)" class="vs icon-location"></i>            </div>
+            </span>
+        </div>
+  
+            <div data-tep="country" data-tep-section="forms" class="tep country form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text"> </label>
+            <div class="form-item icon">
+                <select required data-error="Invalid Selection!" id="country" name="country" class="form_item  is_required" >
+                    <option invalid value="">Select Country</option>   
+                                    <option  value="USA">USA</option>
+                                </select>
+                <i style="color:rgba(70,75,106,0.5)" class="vs icon-globe"></i>            </div>
+            </span>
+        </div>
+  
+            <div data-tep="zip" data-tep-section="forms" class="tep zip text form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text"></label>
+            <div class="form-item icon">
+                <input value="" id="zip_field" data-chars="both" data-min-length="5" data-error="Invalid Zipcode!" type="text" name="zip" class="form_item  is_required" placeholder="Zip Code">
+                <i style="color:rgba(70,75,106,0.5)" class="vs icon-location"></i>            </div>
+            </span>
+        </div>
+  
+            <div data-tep="phone" data-tep-section="forms" class="tep phone form_item_wrapper  is_required has_required has_country">
+            <span>
+                <label class="form_label_text"></label>
+                <div class="form-item ">
+                    <input onkeypress="return is_num_key(event)"  value="" data-min-length="10" id="phone" data-dc="US" data-error="Phone is required" type="tel" name="phone" class="form_item  is_required has_required  phone_country_code" placeholder="Phone">
+                                    </div>
+                                <input type="hidden" name="phone_country_code" id="phone_country_code" value="1" />
+                            </span>
+        </div>
+        <script>
+        function is_num_key(evt)
+        {
+           var charCode = (evt.which) ? evt.which : event.keyCode
+           if (charCode > 31 && (charCode < 48 || charCode > 57))
+              return false;
+           return true;
+        }
+        </script>
+  
+            <div data-tep="68670_1481132954" data-tep-section="forms" class="tep dropdown form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text">Your Primary Vehicle Year* </label>
+            <div class="form-item ">
+                <select required data-error="Invalid Selection!" name="68670_1481132954" class="form_item  is_required" >
+                    <option invalid value="">Select</option>   
+                                    <option value="I don't have a vehicle">I don't have a vehicle</option>
+                                    <option value="2020">2020</option>
+                                    <option value="2019">2019</option>
+                                    <option value="2018">2018</option>
+                                    <option value="2017">2017</option>
+                                    <option value="2016">2016</option>
+                                    <option value="2015">2015</option>
+                                    <option value="2014">2014</option>
+                                    <option value="2013">2013</option>
+                                    <option value="2012">2012</option>
+                                    <option value="2011">2011</option>
+                                    <option value="2010">2010</option>
+                                    <option value="2009">2009</option>
+                                    <option value="2008">2008</option>
+                                    <option value="2007">2007</option>
+                                    <option value="2006">2006</option>
+                                    <option value="2005">2005</option>
+                                    <option value="2004">2004</option>
+                                    <option value="2003">2003</option>
+                                    <option value="2002">2002</option>
+                                    <option value="2001">2001</option>
+                                    <option value="2000">2000</option>
+                                    <option value="1999">1999</option>
+                                    <option value="1998">1998</option>
+                                    <option value="1997">1997</option>
+                                    <option value="1996">1996</option>
+                                    <option value="1995">1995</option>
+                                    <option value="1994">1994</option>
+                                    <option value="1993">1993</option>
+                                    <option value="1992">1992</option>
+                                    <option value="1991">1991</option>
+                                    <option value="1990">1990</option>
+                                    <option value="1989">1989</option>
+                                    <option value="1988">1988</option>
+                                    <option value="1987">1987</option>
+                                    <option value="1986">1986</option>
+                                    <option value="1985">1985</option>
+                                    <option value="1984">1984</option>
+                                    <option value="1983">1983</option>
+                                    <option value="1982">1982</option>
+                                    <option value="1981">1981</option>
+                                    <option value="1980">1980</option>
+                                    <option value="1979">1979</option>
+                                    <option value="1978">1978</option>
+                                    <option value="1977">1977</option>
+                                    <option value="1976">1976</option>
+                                    <option value="1975">1975</option>
+                                    <option value="1974">1974</option>
+                                    <option value="1973">1973</option>
+                                    <option value="1972">1972</option>
+                                    <option value="1971">1971</option>
+                                    <option value="1970">1970</option>
+                                    <option value="1969">1969</option>
+                                    <option value="1968">1968</option>
+                                    <option value="1967">1967</option>
+                                    <option value="1966">1966</option>
+                                    <option value="1965">1965</option>
+                                    <option value="1964">1964</option>
+                                    <option value="1963">1963</option>
+                                    <option value="1962">1962</option>
+                                    <option value="1961">1961</option>
+                                    <option value="1960">1960</option>
+                                    <option value="1959">1959</option>
+                                    <option value="1958">1958</option>
+                                    <option value="1957">1957</option>
+                                    <option value="1956">1956</option>
+                                    <option value="1955">1955</option>
+                                    <option value="1954">1954</option>
+                                    <option value="1953">1953</option>
+                                    <option value="1952">1952</option>
+                                    <option value="1951">1951</option>
+                                    <option value="1950">1950</option>
+                                    <option value=""></option>
+                                </select>
+                            </div>
+            </span>
+        </div>
+  
+            <div data-tep="48566_1481133562" data-tep-section="forms" class="tep dropdown form_item_wrapper  is_required">
+            <span>
+            <label class="form_label_text">Your Primary Vehicle Make* </label>
+            <div class="form-item ">
+                <select required data-error="Invalid Selection!" name="48566_1481133562" class="form_item  is_required" >
+                    <option invalid value="">Select</option>   
+                                    <option value="I don't have a vehicle">I don't have a vehicle</option>
+                                    <option value="ACURA">ACURA</option>
+                                    <option value="ALFA ROMEO">ALFA ROMEO</option>
+                                    <option value="AM GENERAL">AM GENERAL</option>
+                                    <option value="AMERICAN MOTORS">AMERICAN MOTORS</option>
+                                    <option value="ASTON MARTIN">ASTON MARTIN</option>
+                                    <option value="ASUNA">ASUNA</option>
+                                    <option value="AUDI">AUDI</option>
+                                    <option value="AUSTIN">AUSTIN</option>
+                                    <option value="AVANTI">AVANTI</option>
+                                    <option value="BENTLEY">BENTLEY</option>
+                                    <option value="BERTONE">BERTONE</option>
+                                    <option value="BMW">BMW</option>
+                                    <option value="BRICKLIN">BRICKLIN</option>
+                                    <option value="BUICK">BUICK</option>
+                                    <option value="CADILLAC">CADILLAC</option>
+                                    <option value="CHECKER">CHECKER</option>
+                                    <option value="CHEVROLET">CHEVROLET</option>
+                                    <option value="CHRYSLER">CHRYSLER</option>
+                                    <option value="CITROEN">CITROEN</option>
+                                    <option value="CUNNINGHAM">CUNNINGHAM</option>
+                                    <option value="DAEWOO">DAEWOO</option>
+                                    <option value="DAIHATSU">DAIHATSU</option>
+                                    <option value="DAIMLER">DAIMLER</option>
+                                    <option value="DELOREAN">DELOREAN</option>
+                                    <option value="DESOTO">DESOTO</option>
+                                    <option value="DETOMASO">DETOMASO</option>
+                                    <option value="DODGE">DODGE</option>
+                                    <option value="EAGLE">EAGLE</option>
+                                    <option value="EDSEL">EDSEL</option>
+                                    <option value="EXCALIBUR">EXCALIBUR</option>
+                                    <option value="FACEL VEGA">FACEL VEGA</option>
+                                    <option value="FERRARI">FERRARI</option>
+                                    <option value="FIAT">FIAT</option>
+                                    <option value="FMC">FMC</option>
+                                    <option value="FORD">FORD</option>
+                                    <option value="FREIGHTLINER">FREIGHTLINER</option>
+                                    <option value="GENERAL MOTORS">GENERAL MOTORS</option>
+                                    <option value="GEO">GEO</option>
+                                    <option value="GMC">GMC</option>
+                                    <option value="HONDA">HONDA</option>
+                                    <option value="HUDSON">HUDSON</option>
+                                    <option value="HUMMER">HUMMER</option>
+                                    <option value="HYUNDAI">HYUNDAI</option>
+                                    <option value="INFINITI">INFINITI</option>
+                                    <option value="INTERNATIONAL">INTERNATIONAL</option>
+                                    <option value="ISUZU">ISUZU</option>
+                                    <option value="JAGUAR">JAGUAR</option>
+                                    <option value="JEEP">JEEP</option>
+                                    <option value="JENSEN">JENSEN</option>
+                                    <option value="KENWORTH">KENWORTH</option>
+                                    <option value="KIA">KIA</option>
+                                    <option value="LADA">LADA</option>
+                                    <option value="LAFORZA">LAFORZA</option>
+                                    <option value="LAMBORGHINI">LAMBORGHINI</option>
+                                    <option value="LANCIA">LANCIA</option>
+                                    <option value="LAND ROVER">LAND ROVER</option>
+                                    <option value="LEXUS">LEXUS</option>
+                                    <option value="LINCOLN">LINCOLN</option>
+                                    <option value="LOTUS">LOTUS</option>
+                                    <option value="MASERATI">MASERATI</option>
+                                    <option value="MAYBACH">MAYBACH</option>
+                                    <option value="MAZDA">MAZDA</option>
+                                    <option value="MERCEDES-BENZ">MERCEDES-BENZ</option>
+                                    <option value="MERCURY">MERCURY</option>
+                                    <option value="MERKUR">MERKUR</option>
+                                    <option value="METROPOLITAN">METROPOLITAN</option>
+                                    <option value="MG">MG</option>
+                                    <option value="MINI">MINI</option>
+                                    <option value="MITSUBISHI">MITSUBISHI</option>
+                                    <option value="MONTERVERDI">MONTERVERDI</option>
+                                    <option value="MORGAN">MORGAN</option>
+                                    <option value="MORRIS">MORRIS</option>
+                                    <option value="MOTORHOME">MOTORHOME</option>
+                                    <option value="NASH">NASH</option>
+                                    <option value="NISSAN">NISSAN</option>
+                                    <option value="OLDSMOBILE">OLDSMOBILE</option>
+                                    <option value="OPEL">OPEL</option>
+                                    <option value="PACKARD">PACKARD</option>
+                                    <option value="PANZ">PANZ</option>
+                                    <option value="PEUGEOT">PEUGEOT</option>
+                                    <option value="PLYMOUTH">PLYMOUTH</option>
+                                    <option value="PONTIAC">PONTIAC</option>
+                                    <option value="PORSCHE">PORSCHE</option>
+                                    <option value="QVALE">QVALE</option>
+                                    <option value="RELIANT">RELIANT</option>
+                                    <option value="REAULT">REAULT</option>
+                                    <option value="ROLLS ROYCE">ROLLS ROYCE</option>
+                                    <option value="ROVER">ROVER</option>
+                                    <option value="SAAB">SAAB</option>
+                                    <option value="SALEEN">SALEEN</option>
+                                    <option value="SATURN">SATURN</option>
+                                    <option value="SCION">SCION</option>
+                                    <option value="SHELBY">SHELBY</option>
+                                    <option value="SIMCA">SIMCA</option>
+                                    <option value="SKODA">SKODA</option>
+                                    <option value="SMART">SMART</option>
+                                    <option value="STERLING">STERLING</option>
+                                    <option value="STREET ROD">STREET ROD</option>
+                                    <option value="STUDEBAKER">STUDEBAKER</option>
+                                    <option value="SUBARU">SUBARU</option>
+                                    <option value="SUNBEAM">SUNBEAM</option>
+                                    <option value="SUZUKI">SUZUKI</option>
+                                    <option value="TESLA">TESLA</option>
+                                    <option value="TOYOTA">TOYOTA</option>
+                                    <option value="TRIUMPH">TRIUMPH</option>
+                                    <option value="TVR">TVR</option>
+                                    <option value="VAUXHALL">VAUXHALL</option>
+                                    <option value="VICTOR">VICTOR</option>
+                                    <option value="VOLKSWAGEN">VOLKSWAGEN</option>
+                                    <option value="VOLVO">VOLVO</option>
+                                    <option value="WILLY'S">WILLY'S</option>
+                                    <option value="WORKHORSE">WORKHORSE</option>
+                                    <option value="YUGO">YUGO</option>
+                                    <option value=""></option>
+                                </select>
+                            </div>
+            </span>
+        </div>
+  
+            <div data-tep="56585_1481134250" data-tep-section="forms" class="tep text form_item_wrapper  is_required">
+            <span>
+                <label class="form_label_text">Your Primary Vehicle Model*</label>
+                <div class="form-item ">
+                    <input value="" data-error="Required (Type N/A if you do not have a vehicle)" type="text" name="56585_1481134250" class="form_item  is_required" placeholder="">
+                                </div>
+            </span>
+        </div>
+  
+            <div data-tep="rules" data-tep-section="forms" class="tep checkbox form_item_wrapper  is_required">
+            <span>
+                <input data-error="You must agree to the rules!" checked="checked" type="checkbox" name="agree_to_rules" class="form_item  is_required"  value="yes" id="agree_to_rules">
+                <label class="form_label_text" for="agree_to_rules"><p>Agree to Rules</p></label>
+            </span>
+        </div>
+  
+                        
+                        <div class="form_item_wrapper tep tep-button" data-tep="enter_button_text" data-tep-section="forms" >
+                            <a class="submit enter_sweeps"><span>ENTER</span>
+                                <div class="spinner-small">
+                                    <div class="bounce1"></div>
+                                    <div class="bounce2"></div>
+                                    <div class="bounce3"></div>
+                                </div>
+                            </a>
+                            <input type="submit" value="Go" style="opacity: 0; position: fixed; left: -5000px;">
+                        </div>
+                        <div class="forms_under_button">
+                                                </div>
+                    </form>
+                </div>
+                <!-- /Order: Form -->
+
+        </div><!-- /Pre-Entry -->
+
+        
+        <div class="post-entry  ">
+            
+                        
+            
+                        <div class="social_actions_details_wrapper"  >
+                
+                <!-- Order: Post Title -->
+                                <h2 class="title tep" data-tep="youre_entered" data-tep-section="language">You're Entered!</h2>
+                                
+                                <!-- /Order: Post Title -->
+
+                <!-- Order: Entry Information -->
+                                
+                                    <ul class="entry-details">
+                        <li class="entry-count tep" data-tep="your_entries" data-tep-section="language"><i class="icon-trophy entry-icon"></i>Your Entries<h3><span class="main_total">1</span><em>/</em><em class="total_available">Unlimited</em></h3></li>
+
+          
+                                 
+                        
+                        <div class="clear"></div>
+                        <span class="toggle-entry-breakdown tep" data-tep="view_entries" data-tep-section="language"><i class="icon-eye"></i>View Entries</span>
+                    </ul>
+
+                    <ul id="entry-breakdown" class="entry-breakdown entry-breakdown-toggle">
+                                <li><span><h3 class="tep" data-tep-section="language" data-tep="your_entries">Your Entries</h3></span><span class="close close-entries"><i class="icon-cancel"></i></span></li>
+                <li>
+            <span><h5>Entering</h5></span>
+            <span class="reward">+1</span>
+        </li>
+         
+        
+                        <li class="total">
+            <span class="tep" data-tep="total" data-tep-section="language"><h6>Total</h6></span>
+            <span class="reward total_entries_counted" data-available="18">1</span>
+        </li>
+                        </ul>
+                
+                
+                    
+               
+                                <!-- /Order: Entry Information -->
+                
+                
+                
+                <!-- Order: Actions -->
+                                                
+                                <h3 class="tep" data-tep="earn_more" data-tep-section="language">Earn more entries for completing these actions.</h3>
+                                <div class="actions">             
+                    <ul>  
+                         <li data-tep="28675_1585853272" data-tep-section="social"  class="tep aid_04512b4b732529aa784525f8b9370f0b  auto_expand extra extra">
+        <span>
+            <span class="icon">
+                <i class="icon-monitor" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Watch An Episode of POWERNATION</h5>
+        </span>
+        <span><h6>+1<br><em>Daily </em></h6></span>
+        <span class="expand hide">
+            
+                        <div class="divider">  
+                <a data-aid="04512b4b732529aa784525f8b9370f0b" target="_blank" href="https://www.youtube.com/watch?v=kCS6heSd_LI" class="complete-website-click update-website-url" style="display:block;width:100%;text-align:center;"><img src="https://res.cloudinary.com/viralsweep/image/upload/f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1597347566/hzjnjfhwnxujhrhqmkwd.jpg" /></a>
+            </div>
+                        
+                        
+            <div class="divider">
+                <a data-aid="04512b4b732529aa784525f8b9370f0b" target="_blank" href="https://www.youtube.com/watch?v=kCS6heSd_LI" class="submit complete-website-click update-website-url"><span>Watch Episode</span></a>
+            </div>
+                        <div class="divider">
+                <p class="center">Come back tomorrow to visit for more entries!</p>
+            </div>
+                    </span>
+    </li>
+        <li data-tep="77719_1554155235" data-tep-section="social"  class="tep aid_refer_friend extra  " data-max="10">
+        <span>
+            <span class="icon">
+                <i class="icon-megaphone" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Share With Your Friends</h5>
+        </span>
+        <span><h6>+1<br><em>Each</em></h6></span>
+        <span class="expand hide">
+            <form class="referral-link">                
+                <div class="max_referrals_alert alert success hide">
+                    <h3>You've earned the maximum amount of referrals</h3>
+                </div>
+                                <h5 class="center">Get a referral bonus when a friend enters via this link:</h5>
+                                                <div><input class="referral-link" type="text" data-dfe="https%3A%2F%2Fswee.ps%2Fexample"  data-df="https://swee.ps/example" placeholder="https://swee.ps/example" id="referral-link" name="referral-link" onclick="this.select()" value="https://swee.ps/example" readonly="readonly"><span class="trigger-copy" data-clipboard-target="#referral-link" data-clipboard-action="copy"><i class="icon-scissors"></i></span></div>
+
+                                <h5 class="center">Share to:</h5>
+                                                <ul class="share">        
+                                                <li class="share_on_facebook"
+                                data-link="https://swee.ps/example"
+                                data-name="The Sea Foam Classic Muscle Car Sweepstakes"
+                                data-description="Enter for a chance to win this 1969 Chevrolet Camaro built on Detroit Muscle and Engine Power!&nbsp;For more information about Sea Foam High Mileage and other Sea Foam products, visit www.seafoamworks.com"
+                                data-caption="https://app.viralsweep.com/sweeps/full/e4d84b-66798?framed=1"
+                                data-redirect_uri="https://app.viralsweep.com/sweeps/full/e4d84b-66798?framed=1"
+                                data-picture="https://res.cloudinary.com/viralsweep/image/upload/v1587504901/xxsqzmszeliokq7jmyaa.jpg"><i class="icon-facebook"></i></li>
+                                                                        <li class="share_on_twitter"
+                                                                data-link="https://swee.ps/example"
+                                                                data-text="Enter To Win The Sea Foam Classic Muscle Car Sweepstakes! "><i class="icon-twitter"></i></li>
+                                                                                                <li class="share_on_linkedin"
+                                data-link="https://swee.ps/example"
+                                data-title="The Sea Foam Classic Muscle Car Sweepstakes"
+                                data-summary="Enter for a chance to win this 1969 Chevrolet Camaro built on Detroit Muscle and Engine Power!&nbsp;For more information about Sea Foam High Mileage and other Sea Foam products, visit www.seafoamworks.com"><i class="icon-linkedin"></i></li>
+                                                                        <li class="share_on_pinterest"
+                                data-link="https://app.viralsweep.com/sweeps/full/e4d84b-66798?framed=1"
+                                data-description="Enter To Win The Sea Foam Classic Muscle Car Sweepstakes! "
+                                data-media="https://res.cloudinary.com/viralsweep/image/upload/v1587590400/lnrwlomtcypwdsjhymj3.jpg"><i class="icon-pinterest"></i></li>
+                                                                        <li><i class="icon-mail"></i><a target="_top" class="share_on_mail_click" href="mailto:?subject=I%20think%20you%20might%20like%20this&body=Hey%2C%20I%20found%20this%20giveaway%20and%20think%20you%20might%20want%20a%20chance%20to%20win%20too.%20Enter%20To%20Win%20The%20Sea%20Foam%20Classic%20Muscle%20Car%20Sweepstakes%20here%3A%20https%3A%2F%2Fswee.ps%2Fexample"></a>
+                        </li>
+                         
+                                                
+                                                
+                                                                        <li class="share_on_fb_messenger_desktop"
+                                data-link="https://swee.ps/example"><i class="icon-facebook-messenger"></i></li>
+                        
+                                                <li><i class="icon-telegram"></i><a target="_top" class="share_on_mail_click" target="_blank" href="https://telegram.me/share/url?url=https%3A%2F%2Fswee.ps%2Fexample&text=Enter%20To%20Win%20The%20Sea%20Foam%20Classic%20Muscle%20Car%20Sweepstakes%21%20"></a>
+                        </li>
+                                        </ul>
+                
+            </form>
+             
+                                      <p class="center">You can refer 10 friends for 10 total entries.</p>
+                    </span>
+    </li>           
+         <li data-tep="54095_1481149107" data-tep-section="social"  class="tep aid_d28385345fa503f25de9b82debe207e3   extra extra">
+        <span>
+            <span class="icon">
+                <i class="icon-monitor" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Visit The POWERNATION Website</h5>
+        </span>
+        <span><h6>+1<br><em>Daily </em></h6></span>
+        <span class="expand hide">
+            
+                        <div class="divider">  
+                <a data-aid="d28385345fa503f25de9b82debe207e3" target="_blank" href="https://www.powernationtv.com/episode/DM2020-12/sea-foam-camaro-part-2" class="complete-website-click update-website-url" style="display:block;width:100%;text-align:center;"><img src="https://res.cloudinary.com/viralsweep/image/upload/f_auto,dpr_auto,fl_lossy,c_limit,q_auto/v1597347716/pdyjgxakfk2wrxjcph9y.jpg" /></a>
+            </div>
+                        
+                        <div class="divider">  
+                <h5 class="center">Watch part 2 of the Sea Foam Camaro build!</h5>
+            </div>
+                        
+            <div class="divider">
+                <a data-aid="d28385345fa503f25de9b82debe207e3" target="_blank" href="https://www.powernationtv.com/episode/DM2020-12/sea-foam-camaro-part-2" class="submit complete-website-click update-website-url"><span>Visit The POWERNATION Website</span></a>
+            </div>
+                        <div class="divider">
+                <p class="center">Come back tomorrow to visit for more entries!</p>
+            </div>
+                    </span>
+    </li>
+         <li data-tep="79849_1481149146" data-tep-section="social"  class="tep aid_1ab594694f2b3196a6b9c1f73183d3f7   extra extra">
+        <span>
+            <span class="icon">
+                <i class="icon-monitor" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Visit The Sea Foam Website</h5>
+        </span>
+        <span><h6>+1<br><em>Daily </em></h6></span>
+        <span class="expand hide">
+            
+                        
+                        
+            <div class="">
+                <a data-aid="1ab594694f2b3196a6b9c1f73183d3f7" target="_blank" href="https://seafoamworks.com/" class="submit complete-website-click update-website-url"><span>Visit The Sea Foam Website</span></a>
+            </div>
+                        <div class="divider">
+                <p class="center">Come back tomorrow to visit for more entries!</p>
+            </div>
+                    </span>
+    </li>
+         <li data-tep="78452_1481225887" data-tep-section="social"  data-aid="f38ce03dffa0f3c1db7c78cd51915c68" class="tep vs_twfollow_wrapper aid_f38ce03dffa0f3c1db7c78cd51915c68   extra">
+        <span>
+            <span class="icon">
+                <i class="icon-twitter" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Follow POWERNATION on Twitter</h5>
+        </span>
+        <span><h6>+1<br><em>Entry</em></h6></span>
+        <span class="expand hide">
+                        <div class="twitter_frame">
+                <div class="ie_helper" style="display: none;">
+                    <a data-aid="f38ce03dffa0f3c1db7c78cd51915c68" class="twitter-follow-button-helper" href="https://twitter.com/PowerNationTV" data-size="large"></a>
+                </div>
+                <a data-aid="f38ce03dffa0f3c1db7c78cd51915c68" class="twitter-follow-button" href="https://twitter.com/PowerNationTV" data-size="large"></a>
+            </div>
+                    </span>
+    </li>
+         <li data-tep="53546_1481225889" data-tep-section="social"  data-aid="ed9ed7d8a6884c6ab9175a95da072baa" class="tep vs_twfollow_wrapper aid_ed9ed7d8a6884c6ab9175a95da072baa   extra">
+        <span>
+            <span class="icon">
+                <i class="icon-twitter" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Follow Sea Foam on Twitter</h5>
+        </span>
+        <span><h6>+1<br><em>Entry</em></h6></span>
+        <span class="expand hide">
+                        <div class="twitter_frame">
+                <div class="ie_helper" style="display: none;">
+                    <a data-aid="ed9ed7d8a6884c6ab9175a95da072baa" class="twitter-follow-button-helper" href="https://twitter.com/SeaFoamSales" data-size="large"></a>
+                </div>
+                <a data-aid="ed9ed7d8a6884c6ab9175a95da072baa" class="twitter-follow-button" href="https://twitter.com/SeaFoamSales" data-size="large"></a>
+            </div>
+                    </span>
+    </li>
+        <li data-tep="28690_1481226063" data-tep-section="social"  data-aid="0e1e27364266211ef2d10148b4414305" class="tep   aid_0e1e27364266211ef2d10148b4414305 extra">
+        <span>
+            <span class="icon">
+                <i class="icon-youtube-squared" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Subscribe to the POWERNATION YouTube Channel</h5>
+        </span>
+        <span><h6>+1<br><em>Entry</em></h6></span>
+        <span class="expand hide">
+            <div>
+                <a data-aid="0e1e27364266211ef2d10148b4414305" href="https://www.youtube.com/user/PowerNationTV?sub_confirmation=1" target="_blank" class="visit-youtube-channel submit"><span>Subscribe to the POWERNATION YouTube Channel</span></a>
+            </div>
+            <div class="divider google_frame">
+                <div class="ie_helper" style="display: none;"><div class="g-ytsubscribe-helper" data-channel="PowerNationTV" data-layout="full" data-count="default"></div></div>
+                <div class="g-ytsubscribe" data-channel="PowerNationTV" data-layout="full" data-count="default"></div>
+            </div>
+            <!--
+            <div class="divider">
+                <a data-aid="0e1e27364266211ef2d10148b4414305" class="submit small right incomplete complete-youtube-channel">Complete</a>
+            </div>
+            -->
+        </span>
+    </li>
+        <li data-tep="91301_1481226115" data-tep-section="social"  data-aid="fa1a042e80151b3ee45dc33eb3c7cfbd" class="tep   aid_fa1a042e80151b3ee45dc33eb3c7cfbd extra">
+        <span>
+            <span class="icon">
+                <i class="icon-youtube-squared" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Subscribe to the Sea Foam YouTube Channel</h5>
+        </span>
+        <span><h6>+1<br><em>Entry</em></h6></span>
+        <span class="expand hide">
+            <div>
+                <a data-aid="fa1a042e80151b3ee45dc33eb3c7cfbd" href="https://www.youtube.com/user/SeaFoamsales?sub_confirmation=1" target="_blank" class="visit-youtube-channel submit"><span>Subscribe to the Sea Foam YouTube Channel</span></a>
+            </div>
+            <div class="divider google_frame">
+                <div class="ie_helper" style="display: none;"><div class="g-ytsubscribe-helper" data-channel="SeaFoamsales" data-layout="full" data-count="default"></div></div>
+                <div class="g-ytsubscribe" data-channel="SeaFoamsales" data-layout="full" data-count="default"></div>
+            </div>
+            <!--
+            <div class="divider">
+                <a data-aid="fa1a042e80151b3ee45dc33eb3c7cfbd" class="submit small right incomplete complete-youtube-channel">Complete</a>
+            </div>
+            -->
+        </span>
+    </li>
+         <li data-tep="20194_1482944046" data-tep-section="social" class="tep aid_5ecc4d5fb6e486d9484226a0554ea241   extra">
+        <span>
+            <span class="icon">
+                <i class="icon-mobile" style="color:rgba(70,75,106,0.5)"></i>            </span>
+            <h5>Download The POWERNATION App</h5>
+        </span>
+        <span></span>
+        <span class="expand hide">
+                        <div class="download_app_wrapper">
+                <h5 class="download_app_text">Download The POWERNATION iOS App</h5>
+                <a data-aid="5ecc4d5fb6e486d9484226a0554ea241" target="_blank" href="https://itunes.apple.com/us/app/powernation/id844272057?mt=8" class="complete-app-click"><img src="/assets/img2/appstore_ios.png" alt="download ios app" /></a>
+            </div> 
+                                    <div class="download_app_wrapper divider">
+                <h5 class="download_app_text">Download The POWERNATION Android App</h5>
+                <a data-aid="5ecc4d5fb6e486d9484226a0554ea241" target="_blank" href="https://play.google.com/store/apps/details?id=com.rtmtv.powernation" class="complete-app-click"><img src="/assets/img2/appstore_google.png" alt="download android app" /></a>
+            </div> 
+                    </span>
+    </li>
+          
+                    </ul>
+                    <div class="clear"></div>
+                    
+                                    </div>
+                <!-- /Order: Actions -->
+            </div>
+            
+                        
+            <input id="entry_hash" type="hidden" value="" />
+        </div><!-- /Post-Entry -->
+        
+        
+
+        
+                        <div class="footer">
+
+                <ul class="promotion-details"><li data-tep="setup" data-tep-section="setup" id="end-date" class="tep"><i class="icon-calendar"></i><span>Ends 12-16-2020</span></li><li data-tep="setup" data-tep-section="setup" id="time-left" class="tep"><i class="icon-clock"></i><span>9 Weeks Left</span></li><li data-tep="rules" data-tep-section="rules" class="tep toggle-popup toggle-rules" id="rules"><i class="icon-doc"></i><span>View Rules</span><a href="javascript:void(0)"></a></li><li data-tep="setup" data-tep-section="setup" id="winners" class="tep"><i class="icon-users"></i><span>1 Winner</span></li></ul>
+                
+                                                                             </div>
+            <div class="clear"></div><!-- /Footer -->
+            
+            <div class="popup hide-popup" id="top">
+                    <div class="close-popup toggle-popup"><i class="icon-cancel"></i></div>
+                    <div data-tep="rules" data-tep-section="rules" class="rules">                 
+                            <h5>Rules</h5>
+                            <p>" The Sea Foam Classic Muscle Car Sweepstakes”</p><p>OFFICIAL SWEEPSTAKES RULES</p><p>Dated: April 14, 2020</p><p>&nbsp;</p><p>NO PURCHASE, CONTRIBUTION OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. A PURCHASE OR PAYMENT OF ANY KIND WILL NOT INCREASE YOUR CHANCES OF WINNING. &nbsp;PROMOTION IS SUBJECT TO LOCAL, STATE AND FEDERAL LAW AND IS VOID WHERE PROHIBITED OR RESTRICTED. &nbsp; &nbsp;</p><p><br></p><p>This Sweepstakes (as defined below) is sponsored by RTM Studios (“RTM”), located at 130 Southeast Parkway Court, Franklin, TN 37064. &nbsp; &nbsp;RTM is also the administrator of the Sweepstakes. &nbsp;By entering this Sweepstakes (as defined below), participants accept and agree to be bound by these Official Rules. Any violation of these rules may, at RTM’s discretion, result in disqualification. &nbsp;All decisions of RTM regarding this Sweepstakes are final and binding in all respects.</p><p>&nbsp;</p><p>1.ENTRY PERIOD: The Sea Foam Classic Muscle Car Sweepstakes (this “Sweepstakes”) begins at 12:00:01 PM Central Time (“CT”) on May 27, 2020 and ends at 11:59:59 AM CT on December 16, 2020 (the “Sweepstakes Period”). &nbsp;All entries must be received by 11:59:59 AM CT on December 16, 2020.</p><p>&nbsp;</p><p>2.ELIGIBILITY: This Sweepstakes is open only to legal residents of the 50 United States and the District of Columbia (specifically excluding Guam, Puerto Rico, and all other U.S. and foreign territories and possessions) (the “Eligibility Area”), who &nbsp;are the age of majority in their state of residence at the time of entry, and currently reside in (and are physically located in) the Eligibility Area at the time of entry (“Participants”). &nbsp;Only individuals may enter; no entry from any corporation or other entity shall be accepted. This Sweepstakes is VOID outside of the Eligibility Area and where otherwise taxed, prohibited or restricted. Employees, directors, agents and suppliers of RTM, Auto-Mark Inc. (“Sea Foam”) and their affiliates, subsidiaries, advertising, promotion, fulfillment, marketing agencies, public relation firms, consultants and contractors, their immediate families (defined as spouse, child, sibling, parent, grandparent, step-parent, step-children and step-siblings) and those living in their same households are ineligible to participate in this Sweepstakes. &nbsp;By participating in this Sweepstakes, each Participant, (a) accepts the terms and conditions stated in these Official Rules, (b) agrees to be bound by these Official Rules and by the decisions of RTM, which are final and binding in all respects, (c) warrants that he/she is eligible to participate in this Sweepstakes, and (d) agrees to receive additional marketing communications from RTM and Sea Foam which Participant may opt-out of at any time.</p><p>&nbsp;</p><p>3. HOW TO ENTER: &nbsp;No purchase necessary to enter or win. &nbsp;There is one (1) way to enter this Sweepstakes. &nbsp;You may enter online by visiting <u><a href="https://seafoam.powernationtv.com">https://seafoam.powernationtv.com</a></u> or <a href="http://www.powernationtv.com">www.powernationtv.com</a>&nbsp; (RTM’s website) or <a href="http://www.seafoamsales.com/carsweepstakes">www.seafoamsales.com/carsweepstakes</a> (Sea Foam’s website) during the Sweepstakes Period and correctly follow the instructions to complete and submit all required registration information (which may include your name, a valid and active email address, mailing address, and phone number) in order to complete an entry into this Sweepstakes (individually, an “Entry” or collectively, the “Entries”). &nbsp;To be eligible as a Participant in this Sweepstakes, Entries must be received by 11:59:59 AM CT on December 16, 2020. All entry information must be complete to qualify. &nbsp;No changes to any Entry, Entry materials or information are permitted once submitted. &nbsp;All Entries become the property of RTM and Sea Foam Sales Company (“Sea Foam”) and &nbsp;will not be acknowledged or returned. &nbsp;LIMIT ONE ENTRY PER PERSON PER EMAIL PER WEEK. &nbsp;<a name="_Hlk536542220">&nbsp;In addition, a Participant can receive a bonus entry for the following actions:</a></p><p><br></p><p>(a) &nbsp;sharing the Sweepstakes with an eligible person, who enters the Sweepstakes (maximum of 10 bonus entries/referrals per Participant);</p><p>(b) visiting Sea Foam’s website or RTM’s website (maximum of 1 bonus per day entry per Participant);</p><p>(c) &nbsp;following PowerNation or Sea Foam on Twitter (maximum of 1 bonus entry per Participant); and or</p><p>(d) &nbsp;subscribing to PowerNation’s or Sea Foam’s YouTube Account (maximum of 1 bonus entry per Participant).</p><p>(e) follow the link to watch an episode of a PowerNation show.</p><p>&nbsp;After entering the Sweepstakes, there will be a link to each of the above actions.</p><p><br></p><p><br></p><p>Entries received by RTM after the end of the Sweepstakes or incomplete entries will be discarded and deemed VOID. &nbsp;In the event of a dispute regarding the identity of a Participant, the Entry will be deemed submitted by the natural person who is the registered holder of the email account, at the time of Entry, used to enter the Sweepstakes. &nbsp;The potential winner may be required, at RTM’s sole discretion, to show proof of being the registered holder of a particular email as a condition to receiving the prize award. &nbsp;Proof of entering this Sweepstakes online will not be deemed to constitute proof of receipt by RTM of Entry. RTM shall not be responsible for technical failures or any other errors in Entry transmission. &nbsp;The potential winner will be chosen by random drawing on or about &nbsp;December 18, 2020 and will be notified by overnight delivery, e-mail and/or phone on or about December 21, 2020. &nbsp;If the potential prize winner does not respond BY EMAIL OR PHONE to RTM’S AWARD notice within three (3) calendar days of being notified by any method specified above, the potential winner will be ineligible. &nbsp;The prize winner is subject to verification.&nbsp;</p><p>&nbsp;</p><p>All information you submit as part of an Entry, including email address, is subject to the Privacy Policy of RTM, available at RTM’s website &nbsp;and the Privacy Policy of Sea Foam available at its website. &nbsp; By submitting an Entry, you acknowledge and agree that any personal information you submit in connection with an Entry will be used by RTM to administer this Sweepstakes and will be provided to Sea Foam. &nbsp; RTM is not responsible for Sea Foam’s use of such information.</p><p><br></p><p>4.ODDS OF WINNING: &nbsp;Odds of winning are determined by and depend upon the total number of eligible entries received. &nbsp;A purchase will not improve your chances of winning.</p><p>&nbsp;</p><p>5.PRIZE: The prize will be awarded subject to these rules. &nbsp;One (1) Prize Winner will receive one (1) prize consisting of: a 1969 Chevrolet &nbsp;Camaro with performance upgrades valued at approximately $40,000.00 USD.</p><p>&nbsp;</p><p>RTM AND SEA FOAM EXPRESSLY DISCLAIM AND MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION &nbsp;ANY IMPLIED WARRANTIES OF TITLE, NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE PRIZE AWARDED.</p><p>&nbsp;</p><p>PRIZE CONDITIONS &amp; RESTRICTIONS: Potential winner must take delivery of the prize no earlier than January 12, 2021 and no later than January 26, 2021 at RTM Studios, 130 Southeast Parkway Court, Franklin, TN 37064 or prize will be forfeited. The winner will be solely responsible for all federal, state and local taxes, registration, license, title and insurance fees and for all costs and expenses associated with acceptance, taking delivery of and/or use of all elements of the prize, in whole or in part, not specified herein, including but not limited to all taxes, fees, insurance, travel costs and expenses, shipping costs and/or any other expenses associated with acceptance, use of and/or taking delivery of the prize. Potential winner is solely and exclusively responsible for possessing a current, valid driver’s license before taking possession and delivery of prize.</p><p><br></p><p>RTM AND SEA FOAM SHALL HAVE NO RESPONSIBILITY OR LIABILITY TO A WINNER OR POTENTIAL WINNER WHO IS UNABLE OR UNAVAILABLE TO ACCEPT OR UTILIZE THE PRIZE, IN WHOLE OR IN PART, AS DESCRIBED HEREIN.</p><p>&nbsp;</p><p>PRIZE CONDITIONS &amp; RESTRICTIONS: All Prize Elements: The winner will be solely responsible for all federal, state and local taxes, registration, license, title and insurance fees and for all costs and expenses associated with acceptance, taking possession of and/or use of all elements of the prize, in whole or in part, not specified herein, including but not limited to all taxes, fees, insurance, shipping costs, travel expenses and/or any other expenses associated with acceptance and/or taking possession of the prize. By accepting prize, in whole or in part, if applicable, the winner accepts sole responsibility for titling and registering the prize, and for insuring the prize. POTENTIAL WINNER SHOULD CONSULT WITH HIS OR HER TAX ADVISORS REGARDING THE PRIZE AND APPLICABLE TAXES. &nbsp;EACH PARTICIPANT ACKNOWLEDGES AND AGREES THAT THE WINNER WILL BE SOLELY RESPONSIBLE FOR ALL APPLICABLE FEDERAL, STATE, AND LOCAL TAXES AND FEES ASSOCIATED WITH ACCEPTANCE OF THE PRIZE AND WILL BE ISSUED AN IRS FORM 1099 FOR THE VALUE OF THE PRIZE. The prize will be awarded in the name of the winner and is not transferable or exchangeable for cash except as stated in the Prize description in Section 5, in whole or in part; however, RTM reserves the right to substitute a prize of comparable or greater value due to unavailability. No substitution or transfer of prize by winner is permitted. Except where prohibited by law, acceptance of a prize constitutes permission for RTM and/or Sea Foam to use winner’s name, hometown, likeness, statements and other personally identifiable information for promotional, commercials, advertising and marketing purposes in any media throughout the world without additional prize, incentive, consideration, consent or review.&nbsp;</p><p><br></p><p>6.PRIZE AWARDING; WINNER ANNOUNCEMENT: The potential winner and prize award is subject to verification and will be awarded only upon validation and verification by RTM. The potential prize winner will be chosen by random drawing on or about December 18, 2020 and notified on or about December 21, 2020 from all eligible entries received. &nbsp;The potential winner will be notified by RTM by UPS overnight delivery, e-mail and/or by phone, and the potential prize winner’s name will be posted on <a href="http://www.powernationtv.com">www.powernationtv.com</a> on or about January 5, 2021. &nbsp; &nbsp;No substitution, transfer, or assignment of the prize will be permitted, except that RTM reserves the right, in its sole discretion, to substitute the prize with either the cash value of the prize that would have been awarded, or a prize of equal or greater value. &nbsp;The prize may not be combined with any other offer. &nbsp;If the potential prize winner does not respond by email OR PHONE to RTM’s AWARD notice within three (3) calendar days of being notified by any method specified above, the potential winner will be ineligible. &nbsp;In addition, if a prize notification is returned as undeliverable, or a potential prize winner is ineligible for any reason whatsoever as determined by RTM, fails to complete and return any required documents within the required timeframe as described in these Official Rules, or fails to claim and/or take possession of the prize by January 26, 2021, the prize will be forfeited and an alternate potential winner may be selected by random drawing from among the remaining eligible Entries using the criteria set forth herein.</p><p>&nbsp;</p><p>7.WINNER VERIFICATION: The potential winner must prove eligibility, including without limitation, age and residence, by signing and returning to RTM (or its designated agent) an Affidavit of Eligibility (including his/her Social Security Number and/or U.S. personal tax identification number for tax reporting purposes) and, except where prohibited by law, a Liability Release and a Publicity Release within five (5) calendar days of notification, or the potential winner is disqualified and forfeits the prize, and an alternate potential winner may be chosen by random drawing from among the remaining eligible Entries. At RTM’s request, a copy of a driver’s license, passport or other official government ID approved by RTM will be required to be provided to RTM. &nbsp;The potential winner agrees, as allowed by law, to allow RTM and/or Sea Foam and its designees the right to use the potential winner’s name, hometown, likenesses, biographical information and prize information for advertising, commercial, promotion, and publicity purposes worldwide in perpetuity in all media, now or hereafter known, without additional compensation. The potential winner must fulfill all the terms of these Official Rules as a condition to being awarded the prize. &nbsp;RTM expressly reserves the right to delay the announcement of the winner for technical reasons or for any other reason RTM deems necessary. &nbsp;&nbsp;</p><p>&nbsp;</p><p>THE POTENTIAL WINNER THAT IS RANDOMLY SELECTED IS SUBJECT TO VERIFICATION BY RTM. THE POTENTIAL WINNER IS NOT THE WINNER OF THE PRIZE UNLESS AND UNTIL HIS OR HER ELIGIBILITY HAS BEEN VERIFIED, HE OR SHE HAS BEEN NOTIFIED THAT ELIGIBILITY VERIFICATION IS COMPLETE, HE OR SHE RESPONDS TO RTM’S AWARD NOTICE within three (3) calendar days of being notified AND HE OR SHE TAKES POSSESSION OF THE PRIZE NO LATER THAN JANUARY 26, 2021.&nbsp;</p><p>&nbsp;</p><p>8.DISQUALIFICATION; DISCLAIMERS: Any software-generated, robotic, programmed, script, macro or other automated online entries or methods is strictly prohibited and will result in disqualification of all such entries. &nbsp;RTM reserves the right in its sole discretion to disqualify any person it finds: (a) to have tampered with the entry process or the operation of this Sweepstakes; (b) to be acting in violation of these Official Rules; or (c) to be acting in an unsportsmanlike or disruptive manner, or with intent to annoy, abuse, threaten or harass any other person or to have provided inaccurate information on any legal documents submitted in connection with this Sweepstakes. &nbsp;If so disqualified, RTM reserves the right to terminate the person’s eligibility to participate in this and future promotions and sweepstakes offered by RTM. &nbsp;RTM reserves the right to request proof of any eligibility requirements in a form acceptable to RTM from a Participant at any time. &nbsp;Failure to provide such proof, if requested, may result in Participant’s disqualification, at RTM’s sole discretion. &nbsp;Any false information provided by any person concerning his/her identity or mailing address or any non-compliance by a Participant with these Officials Rules may result in the immediate disqualification of the Participant from the Sweepstakes. ANY ATTEMPT BY A PARTICIPANT OR ANY OTHER INDIVIDUAL OR ENTITY TO DAMAGE THE SWEEPSTAKES WEBSITE OR UNDERMINE THE LEGITIMATE OPERATION OF THIS SWEEPSTAKES IS A VIOLATION OF CRIMINAL AND CIVIL LAWS AND, SHOULD SUCH AN ATTEMPT BE MADE, RTM RESERVES THE RIGHT TO TAKE LEGAL ACTION.</p><p>&nbsp;</p><p>Neither RTM nor Sea Foam is responsible for: (i) any typographical or other errors in the printing of the offer, these Official Rules, or any related advertisements; (ii) errors, whether human, mechanical or electronic, in the administration of the Sweepstakes or the announcement of the prize or potential prize winner; (iii) late, lost, illegible, incomplete, stolen, deleted, or misdirected entries due to any reason; or (iv) other error of any kind, whether human, mechanical or electronic. Neither RTM nor Sea Foam assume any responsibility or liability for incorrect or inaccurate entry information, whether caused by a Participant or by any of the equipment or programming associated with or utilized in this Sweepstakes or by any human error which may occur in connection with this Sweepstakes. &nbsp;Neither RTM nor Sea Foam are responsible or liable for any problems, incompatibility or technical malfunction of any telephone network or lines, computer online systems, servers, or providers, computer equipment, software, failure of any e-mail on account of technical problems or traffic congestion on the Internet or at any web site or any combination thereof, including without limitation, any injury or damage to any Participant’s or any other person's computer related to or resulting from participation in this Sweepstakes. Participants acknowledge that neither RTM nor Sea Foam has made, and is not in any manner responsible or liable for, any warranty, representation, or guarantee, expressed or implied, in fact or in law, relating to this Sweepstakes or the prize, in whole or in part.&nbsp;</p><p>&nbsp;</p><p>In the event any portion of this Sweepstakes is not capable of running as planned, including without limitation, due to infection by computer virus, bugs, non-authorized human intervention, fraud, technical failures, force majeure, insufficient qualified Entries or winner, or any other causes beyond the control of RTM which, in the sole opinion of RTM, corrupt, impair or affect the administration, security, fairness, integrity or proper play of this Sweepstakes, RTM reserves the right in its sole discretion to cancel, suspend, modify or terminate this Sweepstakes. &nbsp;Should this Sweepstakes be terminated prior to the stated expiration date of the Sweepstakes Period, notice will be posted at <a href="http://www.powernationtv.com">www.powernationtv.com</a> and <a href="http://www.seafoamsales.com">www.seafoamsales.com</a> and the prize will be awarded to a potential winner selected by random drawing from among the eligible Entries submitted up until the time of termination. In no event will more prizes be awarded than the one listed above.</p><p><br></p><p>SEA FOAM is a trademark of Sea Foam Sales Company. &nbsp; PowerNation, Truck Tech, Engine Power, Detroit Muscle and Carcass are trademarks of RTM Studios.</p><p>&nbsp;</p><p>9.RELEASE; LIMITATION OF LIABILITY: &nbsp;By participating in this Sweepstakes, each Participant releases RTM, Sea Foam, and their respective affiliates, subsidiaries, marketing partners, advertising, promotion, fulfillment, marketing agencies, public relation firms, consultants and contractors and the director and employees of each of them (“Released Parties”) from any and all liabilities, claims and actions of any kind whatsoever for injuries, damages or losses to persons (including death) and property which may be sustained in connection with the receipt, ownership, possession, use or misuse of the prize, or arising out of participation in this Sweepstakes, or while preparing for, participating in, and/or traveling to and from taking possession of the prize or any prize-related activity, and each participant agrees to indemnify and hold harmless such parties from the same. &nbsp;The Released Parties expressly disclaim any responsibility or liability for injury or loss to any person or property relating to the possession and/or subsequent use or misuse of any prize awarded. IN NO EVENT WILL THE RELEASED PARTIES BE RESPONSIBLE OR LIABLE FOR ANY DAMAGES OR LOSSES OF ANY KIND, INCLUDING WITHOUT LIMITATION DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, ARISING OUT OF THIS SWEEPSTAKES OR ANY ACCEPTANCE, POSSESSION, USE OR MISUSE OF THE PRIZE AWARDED IN CONNECTION WITH THIS SWEEPSTAKES, INCLUDING WITHOUT LIMITATION, PERSONAL INJURY, DEATH AND/OR PROPERTY DAMAGE, AS WELL AS ANY CLAIMS BASED ON DEFAMATION, PUBLICITY RIGHTS, MISAPPROPRIATION OF LIKENESS, FALSE LIGHT, INVASION OF PRIVACY, OR COPYRIGHT OR TRADEMARK INFRINGEMENT. IN NO EVENT SHALL RTM’S OR SEA FOAM’S AGGREGATE LIABILITY FOR ALL CLAIMS ARISING OUT OF THIS SWEEPSTAKES EXCEED ONE HUNDRED U.S. DOLLARS ($100.00 USD).</p><p>&nbsp;</p><p>10.GOVERNING LAW; DISPUTE RESOLUTION: &nbsp;This Sweepstakes is governed by U.S. law and is subject to all applicable federal, state and local laws and regulations. Void where prohibited by law. All issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, or the rights and obligations of Participants and RTM in connection with this Sweepstakes, shall be governed by, and construed in accordance with, the laws of the State of Tennessee without giving effect to the conflict of laws, rules thereof, and any matters or proceedings shall take place in the courts of Nashville, Tennessee. &nbsp;Each Participant waives any and all objections to jurisdiction and venue in these courts and hereby submits to the jurisdiction of these courts. &nbsp;Any and all lawsuits or other disputes that arise relating to this Sweepstakes must be filed within one (1) year from the date that the winner is selected. &nbsp;Except where prohibited, as a condition of participating in this Sweepstakes, Participants agree that any and all disputes which cannot be resolved between or among the parties, and any claims and causes of action arising out of or connected with this Sweepstakes, the prize awarded, or the determination of the winner, shall be resolved individually, without resort to any form of class action.</p><p>&nbsp;</p><p>11.NO WAIVER; SEVERABILITY: The failure of RTM to exercise or enforce any right or provision of these Official Rules shall not constitute a waiver of such right or provision. &nbsp;If any part of these Official Rules is held by a court of competent jurisdiction to be invalid or unenforceable, that part will be enforced to the maximum extent permitted by law, and the remainder of these Official Rules will remain fully in force.</p><p>&nbsp;</p><p>12.RULES REQUEST; WINNER’S NAME: &nbsp;For a copy of these Official Rules or for the name of the winner, please send a stamped, self-addressed envelope to RTM Studios., Attn: “The Sea Foam Classic Muscle Car Sweepstakes”, 130 Southeast Parkway Court, Franklin, TN 37064, by December 18, 2020. &nbsp;Residents of WA and VT may omit return postage.</p><p><br></p><p>13.SPONSOR/ADMINISTRATOR: The sponsor and administrator of this Sweepstakes is RTM Studios, a division of Tupelo Honey Raycom, LLC, &nbsp;130 Southeast Parkway Court, Franklin, TN 37064. | © 2020 RTM Studios.</p>                            <div style="height: 15px;"></div>
+                            <a class="submit toggle-popup"><span>Close Rules</span></a>
+                    </div>
+            </div><!-- /Popup -->
+            <div class="popup-shadow toggle-popup"></div>
+
+    </div><!-- /Promotion -->
+    
+     
+    <div class="clear"></div>
+</div><!-- /Container -->
+
+</body>
+
+    
+
+<script src="/temp/8ddea6c9c2d50361a6237eb3b18c697d.js"></script>
+
+
+
+
+
+
+            
+
+
+<script>
+function relay_entry()
+{	
+    var message = 'true';
+    var json = {"entry": message, "id": "0", "rnd": "0"};
+    window.parent.postMessage(json, "*");
+}
+
+var parent_page_offset = 0;    
+var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+var eventer = window[eventMethod];
+var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+eventer(messageEvent, function (e) { 
+var obj = e.data;
+if(obj !== null && typeof obj === 'object' && ("parent_top" in obj) && ("parent_position" in obj))
+{
+    parent_page_offset = obj.parent_top - obj.parent_position;
+}
+
+if(obj !== null && typeof obj === 'object' && ("prefill" in obj))
+{
+    var o = JSON.parse(obj.prefill);
+    $('input[name="'+o.name+'"]').val(o.value);
+    $('select[name="'+o.name+'"]').val(o.value);
+    $('textarea[name="'+o.name+'"]').val(o.value);
+}
+
+if(obj !== null && typeof obj === 'object' && ("gallery_category" in obj))
+{    
+    var gc = JSON.parse(obj.gallery_category);
+    $('ul.submissions').find('li[data-value="'+gc.option+'"]').click();
+}
+
+// Do whatever you want to do with the data got from IFrame in Parent form.
+}, false); 
+</script>
+
+<!-- Google Plus -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {parsetags: 'explicit'}
+</script>
+
+<script type="text/javascript">
+    $(document).ready( function() { render_google_buttons(0); });
+</script>
+<!-- Facebook SDK (Comments) -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '424426844274364',
+      xfbml            : true,
+      version          : 'v5.0'
+    });
+        
+    FB.Event.subscribe('send_to_messenger', function(e) {
+        // callback for events triggered by the plugin
+        if (e.event=='opt_in') 
+        {
+            var m_aid = $('.fb_messenger_action').attr('data-aid');
+            log_bonus(m_aid,'fb_messenger');
+        }
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+</script>
+<!-- /Social Scripts -->
+
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-34544759-2', 'auto' );
+    ga('send', 'pageview');
+ 
+        ga('create', 'UA-93280-18', {'name':'vs' });  
+                ga('vs.send', 'pageview'); 
+    
+  function track_click()
+  {
+    ga('send', 'event', 'Entry', 'click', 'Entry button clicked'); 
+        ga('vs.send', 'event', 'Entry', 'click', 'Entry button clicked');
+      }
+  function track_entry()
+  {
+    ga('send', 'event', 'Entry', 'success', 'Entry success');  
+        ga('vs.send', 'event', 'Entry', 'success', 'Entry success');  
+      }
+</script>
+
+
+<script>
+</script>
+
+    <span class="RED"></span><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl="></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1555100874578026');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1555100874578026&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+        <script>
+    function track_fb_lead() {
+        fbq('track', "Lead");
+    }
+    </script>
+    
+
+</html>

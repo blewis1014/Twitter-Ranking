@@ -1,0 +1,1050 @@
+<!DOCTYPE html> <html lang="en-US"><head>
+		    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <link rel="profile" href="https://gmpg.org/xfn/11">
+	    <link rel="pingback" href="http://formula1.life/xmlrpc.php">
+	    
+<title>McLaren need to &quot;make next step with the car&quot; in fight for third | RaceFans Round-up | Formula 1</title>
+
+<!-- All In One SEO Pack 3.7.1[273,382] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://formula1.life/#organization","url":"http://formula1.life/","name":"Formula 1","sameAs":[]},{"@type":"WebSite","@id":"http://formula1.life/#website","url":"http://formula1.life/","name":"Formula 1","publisher":{"@id":"http://formula1.life/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://formula1.life/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage","url":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","inLanguage":"en-US","name":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up","isPartOf":{"@id":"http://formula1.life/#website"},"breadcrumb":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#breadcrumblist"},"description":"In the round-up: McLaren need to \"make next step with the car\" in fight for third • Portugal may bar fans from race • Fan vote to decide Extreme E grids • Ex-CART boss dies","datePublished":"2020-10-16T23:01:00+03:00","dateModified":"2020-10-16T23:01:00+03:00"},{"@type":"Article","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#article","isPartOf":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage"},"author":{"@id":"http://formula1.life/author/keith-collantine/#author"},"headline":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up","datePublished":"2020-10-16T23:01:00+03:00","dateModified":"2020-10-16T23:01:00+03:00","commentCount":0,"mainEntityOfPage":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage"},"publisher":{"@id":"http://formula1.life/#organization"},"articleSection":"Fan club, Formula 1, f1, formula 1, formula one, fun club f1"},{"@type":"Person","@id":"http://formula1.life/author/keith-collantine/#author","name":"Keith Collantine","sameAs":[],"image":{"@type":"ImageObject","@id":"http://formula1.life/#personlogo","url":"http://2.gravatar.com/avatar/ea76e05832dde0d298952b521344dc5e?s=96&r=g","width":96,"height":96,"caption":"Keith Collantine"}},{"@type":"BreadcrumbList","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://formula1.life/","url":"http://formula1.life/","name":"Formula 1"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","url":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","name":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up"}}]}]}</script>
+<link rel="canonical" href="http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Formula 1 &raquo; Feed" href="http://formula1.life/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Formula 1 &raquo; Comments Feed" href="http://formula1.life/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/formula1.life\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://formula1.life/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://formula1.life/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://formula1.life/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-crestafont-css'  href='http://formula1.life/wp-content/plugins/cresta-social-share-counter/css/csscfont.min.css?ver=2.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-wp-style-css'  href='http://formula1.life/wp-content/plugins/cresta-social-share-counter/css/cresta-wp-css.min.css?ver=2.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-googlefonts-css'  href='//fonts.googleapis.com/css?family=Noto+Sans:400,700&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://formula1.life/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://formula1.life/wp-content/themes/magazine-plus/third-party/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-plus-google-fonts-css'  href='//fonts.googleapis.com/css?family=Rajdhani%3A400%2C300%2C500%2C600%7CSource+Sans+Pro%3A400%2C300%2C500%2C600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-sidr-css'  href='http://formula1.life/wp-content/themes/magazine-plus/third-party/sidr/css/jquery.sidr.dark.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-plus-style-css'  href='http://formula1.life/wp-content/themes/magazine-plus/style.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bos_sb_main_css-css'  href='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/css/bos_searchbox.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bdotcom_ttl_public_css-css'  href='http://formula1.life/wp-content/plugins/bookingcom-text2links/css/bdotcom_ttl_public.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://formula1.life/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"http:\/\/formula1.life\/wp-admin\/admin-ajax.php","nonce":"24e8ea2c4a","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"0","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="http://formula1.life/wp-json/" /><link rel="alternate" type="application/json" href="http://formula1.life/wp-json/wp/v2/posts/114125" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://formula1.life/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://formula1.life/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Venturi promotes reserve driver Nato in place of Massa | Formula E' href='http://formula1.life/venturi-promotes-reserve-driver-nato-in-place-of-massa-formula-e/' />
+<link rel='next' title='Leclerc: F1’s new aero handicap rules can help “struggling” Ferrari | 2020 F1 season' href='http://formula1.life/leclerc-f1s-new-aero-handicap-rules-can-help-struggling-ferrari-2020-f1-season/' />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='http://formula1.life/?p=114125' />
+<link rel="alternate" type="application/json+oembed" href="http://formula1.life/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://formula1.life/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&#038;format=xml" />
+<style id='cresta-social-share-counter-inline-css'>.cresta-share-icon .sbutton {font-family: 'Noto Sans', sans-serif;}
+			@media (max-width : 640px) {
+				#crestashareicon {
+					display:none !important;
+				}
+			}
+		#crestashareicon {position:fixed; top:20%; left:20px; float:left;z-index:99;}
+
+		#crestashareicon .sbutton {clear:both;display:none;}
+		#crestashareicon .sbutton { float:left;}#crestashareiconincontent {float: right;}</style><link rel="icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-180x180.png" />
+<meta name="msapplication-TileImage" content="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-270x270.png" />
+</head>
+
+<body class="post-template-default single single-post postid-114125 single-format-standard wp-embed-responsive cookies-not-set group-blog global-layout-right-sidebar">
+
+	<div id="page" class="hfeed site"><a class="skip-link screen-reader-text" href="#content">Skip to content</a>		<div class="mobile-nav-wrap">
+			<a id="mobile-trigger" href="#mob-menu"><i class="fa fa-bars"></i></a>
+			<div id="mob-menu">
+				<ul id="menu-menu" class="menu"><li class="home-menu"><a href="http://formula1.life/"><span class="screen-reader-text">Home</span></a></li><li id="menu-item-23218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23218"><a href="http://formula1.life">Home</a></li>
+<li id="menu-item-23220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23220"><a href="http://formula1.life/formula-one-also-formula-1-or-f1/">Formula One (also Formula 1 or F1)</a></li>
+<li id="menu-item-23219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23219"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li id="menu-item-23221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23221"><a href="http://formula1.life/forum/">Forum</a></li>
+<li id="menu-item-23223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23223"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a>
+<ul class="sub-menu">
+	<li id="menu-item-23224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23224"><a href="http://formula1.life/official-twitter/f1-twitter-account-scuderiaferrari/">F1  –  Twitter Account ScuderiaFerrari</a></li>
+	<li id="menu-item-23225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23225"><a href="http://formula1.life/official-twitter/f1-mercedesamgf1-twitter-account/">F1  – MercedesAMGF1 Twitter Account</a></li>
+	<li id="menu-item-23226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23226"><a href="http://formula1.life/official-twitter/f1-hrtf1team-twitter-account/">F1  -HRTF1Team Twitter Account</a></li>
+</ul>
+</li>
+<li id="menu-item-23222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23222"><a href="http://formula1.life/official-facebook/">Official facebook</a></li>
+<li id="menu-item-46046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46046"><a href="http://formula1.life/category/f1-2017/">F1 2017</a>
+<ul class="sub-menu">
+	<li id="menu-item-46047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46047"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR</a></li>
+	<li id="menu-item-63624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63624"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-heineken-ditalia-2017-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza</a></li>
+	<li id="menu-item-63622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63622"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-pirelli-belgian-grand-prix-spa-francorchamps/">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps</a></li>
+	<li id="menu-item-59695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59695"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-pirelli-magyar-nagydij-2017-budapest/">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest</a></li>
+	<li id="menu-item-58737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58737"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-british-grand-prix-silverstone/">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone</a></li>
+	<li id="menu-item-57071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57071"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-grosser-preis-von-osterreich-2017-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg</a></li>
+	<li id="menu-item-57066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57066"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-azerbaijan-grand-prix-baku/">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku</a></li>
+	<li id="menu-item-57070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57070"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-de-espana-pirelli-2017-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya</a></li>
+	<li id="menu-item-57069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57069"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-vtb-russian-grand-prix-sochi/">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi</a></li>
+	<li id="menu-item-48922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48922"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/">2017 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li id="menu-item-57068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57068"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-heineken-chinese-grand-prix-shanghai/">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai</a></li>
+	<li id="menu-item-46048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46048"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-australian-grand-prix-melbourne/">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne</a></li>
+</ul>
+</li>
+<li id="menu-item-46049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46049"><a href="http://formula1.life/category/formula-1/bet/">Bet</a></li>
+<li id="menu-item-46050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46050"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li id="menu-item-46051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46051"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a>
+<ul class="sub-menu">
+	<li id="menu-item-46052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46052"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-gulf-air-bahrain-grand-prix-sakhir-f1-2016-championchip/">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li id="menu-item-46053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46053"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-pirelli-chinese-grand-prix/">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX</a></li>
+	<li id="menu-item-46054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46054"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-grand-prix-of-europe-baku/">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku</a></li>
+	<li id="menu-item-46055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46055"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-belgian-grand-prix-spa-francorchamps/">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS</a></li>
+	<li id="menu-item-46056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46056"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-singapore-airlines-singapore-grand-prix-singapore/">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore</a></li>
+	<li id="menu-item-46057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46057"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-petronas-malaysia-grand-prix-kuala-lumpur/">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR</a></li>
+	<li id="menu-item-46058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46058"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-emirates-japanese-grand-prix-suzuka/">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka</a></li>
+	<li id="menu-item-46059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46059"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-united-states-grand-prix-united-states/">2016 FORMULA 1 UNITED STATES GRAND PRIX United States</a></li>
+	<li id="menu-item-46060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46060"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-etihad-airways-abu-dhabi-grand-prix-yas-marina/">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina</a></li>
+	<li id="menu-item-46062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46062"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya</a></li>
+	<li id="menu-item-46063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46063"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya-f1-2016-championchip/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016</a></li>
+	<li id="menu-item-46064" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46064"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-de-monaco-2016/">FORMULA 1 GRAND PRIX DE MONACO 2016</a></li>
+	<li id="menu-item-46065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46065"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-du-canada-2016-montreal/">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal</a></li>
+	<li id="menu-item-46066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46066"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-osterreich-2016-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg</a></li>
+	<li id="menu-item-46067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46067"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-british-grand-prix-silverstone/">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE</a></li>
+	<li id="menu-item-46068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46068"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-magyar-nagydij-2016-hungaroring/">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring</a></li>
+	<li id="menu-item-46069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46069"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-deutschland-2016-hockenheim/">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim</a></li>
+	<li id="menu-item-46070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46070"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-heineken-ditalia-2016-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza</a></li>
+	<li id="menu-item-46071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46071"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-mexico-2016-mexico/">FORMULA 1 GRAN PREMIO DE MÉXICO 2016 Mexico</a></li>
+	<li id="menu-item-46072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46072"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grande-premio-do-brasil-2016-sao-paulo/">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo</a></li>
+</ul>
+</li>
+<li id="menu-item-46073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46073"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li id="menu-item-46075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46075"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a>
+<ul class="sub-menu">
+	<li id="menu-item-46074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46074"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+	<li id="menu-item-57065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57065"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/">Youtube.com &#8211; Russia</a>
+	<ul class="sub-menu">
+		<li id="menu-item-57076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57076"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/%d1%81%d0%b0%d0%bc%d1%8b%d0%b5-%d1%81%d0%bb%d0%b8%d0%ba%d0%b8/">Самые слики</a></li>
+	</ul>
+</li>
+	<li id="menu-item-59696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59696"><a href="http://formula1.life/category/formula1-video/www-youtube-com-deuche/">www.youtube.com Deuche</a></li>
+	<li id="menu-item-59697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59697"><a href="http://formula1.life/category/formula1-video/www-youtube-com-eng/">www.youtube.com Eng</a></li>
+	<li id="menu-item-59698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59698"><a href="http://formula1.life/category/formula1-video/www-youtube-com-espana/">www.youtube.com Espana</a></li>
+</ul>
+</li>
+<li id="menu-item-46076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46076"><a href="http://formula1.life/category/history-f1/">History F1</a></li>
+<li id="menu-item-48923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48923"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/formula-1-live-streaming/">formula 1 live streaming</a></li>
+</ul>			</div><!-- #mob-menu -->
+
+					</div> <!-- mobile-nav-wrap -->
+		
+    		<div id="tophead">
+			<div class="container">
+									<div class="head-date">
+						18 Oct, 2020					</div><!-- .head-date -->
+													<div class="top-news">
+						<span class="top-news-title">
+												Latest News						</span>
+								<div id="news-ticker">
+			<div class="news-ticker-inner-wrap">
+									<div class="list">
+						<a href="http://formula1.life/ricciardo-lauds-coolest-gift-from-schumacher-family-to-hamilton/">Ricciardo lauds &#8220;coolest gift&#8221; from Schumacher family to Hamilton</a>
+					</div>
+									<div class="list">
+						<a href="http://formula1.life/f1-conducted-very-broad-search-to-find-carey-replacement-2/">F1 conducted &#8220;very broad search&#8221; to find Carey replacement</a>
+					</div>
+									<div class="list">
+						<a href="http://formula1.life/f1-conducted-very-broad-search-to-find-carey-replacement/">F1 conducted &#8220;very broad search&#8221; to find Carey replacement</a>
+					</div>
+							</div> <!-- .news-ticker-inner-wrap -->
+		</div><!-- #news-ticker -->
+							</div> <!-- #top-news -->
+				
+								
+
+
+			</div><!-- .container -->
+		</div><!-- #tophead -->
+		<header id="masthead" class="site-header" role="banner"><div class="container"><div class="inner-wrapper">			    <div class="site-branding">
+
+			
+										    </div><!-- .site-branding -->
+	    <div id="header-ads">
+		    		    	<div id="header-right-widget-area">
+			    	<aside id="text-29" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOmNMEuF_8KqQmNd7ZgqdRLk&amp;media=9930&amp;campaign=1"></script></p>
+</div>
+		</aside>		    	</div><!-- #header-right-widget-area -->
+		    
+	    </div><!-- .right-header -->
+	        </div> <!-- .inner-wrapper --></div><!-- .container --></header><!-- #masthead -->	    <div id="main-nav" class="clear-fix">
+	    	<div class="container">
+		        <nav id="site-navigation" class="main-navigation" role="navigation">
+		            <div class="wrap-menu-content">
+						<div class="menu-menu-container"><ul id="primary-menu" class="menu"><li class="home-menu"><a href="http://formula1.life/"><span class="screen-reader-text">Home</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23218"><a href="http://formula1.life">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23220"><a href="http://formula1.life/formula-one-also-formula-1-or-f1/">Formula One (also Formula 1 or F1)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23219"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23221"><a href="http://formula1.life/forum/">Forum</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23223"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23224"><a href="http://formula1.life/official-twitter/f1-twitter-account-scuderiaferrari/">F1  –  Twitter Account ScuderiaFerrari</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23225"><a href="http://formula1.life/official-twitter/f1-mercedesamgf1-twitter-account/">F1  – MercedesAMGF1 Twitter Account</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23226"><a href="http://formula1.life/official-twitter/f1-hrtf1team-twitter-account/">F1  -HRTF1Team Twitter Account</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23222"><a href="http://formula1.life/official-facebook/">Official facebook</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46046"><a href="http://formula1.life/category/f1-2017/">F1 2017</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46047"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63624"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-heineken-ditalia-2017-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63622"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-pirelli-belgian-grand-prix-spa-francorchamps/">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59695"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-pirelli-magyar-nagydij-2017-budapest/">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58737"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-british-grand-prix-silverstone/">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57071"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-grosser-preis-von-osterreich-2017-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57066"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-azerbaijan-grand-prix-baku/">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57070"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-de-espana-pirelli-2017-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57069"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-vtb-russian-grand-prix-sochi/">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48922"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/">2017 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57068"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-heineken-chinese-grand-prix-shanghai/">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46048"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-australian-grand-prix-melbourne/">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46049"><a href="http://formula1.life/category/formula-1/bet/">Bet</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46050"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46051"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46052"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-gulf-air-bahrain-grand-prix-sakhir-f1-2016-championchip/">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46053"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-pirelli-chinese-grand-prix/">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46054"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-grand-prix-of-europe-baku/">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46055"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-belgian-grand-prix-spa-francorchamps/">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46056"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-singapore-airlines-singapore-grand-prix-singapore/">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46057"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-petronas-malaysia-grand-prix-kuala-lumpur/">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46058"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-emirates-japanese-grand-prix-suzuka/">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46059"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-united-states-grand-prix-united-states/">2016 FORMULA 1 UNITED STATES GRAND PRIX United States</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46060"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-etihad-airways-abu-dhabi-grand-prix-yas-marina/">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46062"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46063"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya-f1-2016-championchip/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46064"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-de-monaco-2016/">FORMULA 1 GRAND PRIX DE MONACO 2016</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46065"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-du-canada-2016-montreal/">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46066"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-osterreich-2016-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46067"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-british-grand-prix-silverstone/">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46068"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-magyar-nagydij-2016-hungaroring/">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46069"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-deutschland-2016-hockenheim/">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46070"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-heineken-ditalia-2016-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46071"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-mexico-2016-mexico/">FORMULA 1 GRAN PREMIO DE MÉXICO 2016 Mexico</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46072"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grande-premio-do-brasil-2016-sao-paulo/">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46073"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46075"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46074"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57065"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/">Youtube.com &#8211; Russia</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57076"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/%d1%81%d0%b0%d0%bc%d1%8b%d0%b5-%d1%81%d0%bb%d0%b8%d0%ba%d0%b8/">Самые слики</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59696"><a href="http://formula1.life/category/formula1-video/www-youtube-com-deuche/">www.youtube.com Deuche</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59697"><a href="http://formula1.life/category/formula1-video/www-youtube-com-eng/">www.youtube.com Eng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59698"><a href="http://formula1.life/category/formula1-video/www-youtube-com-espana/">www.youtube.com Espana</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46076"><a href="http://formula1.life/category/history-f1/">History F1</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48923"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/formula-1-live-streaming/">formula 1 live streaming</a></li>
+</ul></div>		            </div><!-- .menu-content -->
+		        </nav><!-- #site-navigation -->
+		        <div class="header-search-box">
+		        	<a href="#" class="search-icon"><i class="fa fa-search"></i></a>
+		        	<div class="search-box-wrap">
+		        		<form role="search" method="get" class="search-form" action="http://formula1.life/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		        	</div><!-- .search-box-wrap -->
+		        </div><!-- .header-search-box -->
+
+	        </div> <!-- .container -->
+	    </div> <!-- #main-nav -->
+		
+	<div id="breadcrumb"><div class="container"><div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://formula1.life" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a href="http://formula1.life/category/formula-1/"><span itemprop="name">Formula 1</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">McLaren need to “make next step with the car” in fight for third | RaceFans Round-up</span><meta itemprop="position" content="3" /></li></ul></div></div><!-- .container --></div><!-- #breadcrumb --><div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-114125" class="post-114125 post type-post status-publish format-standard hentry category-fan-club category-formula-1 tag-f1 tag-formula-1 tag-formula-one tag-fun-club-f1">
+	<header class="entry-header">
+		<h1 class="entry-title">McLaren need to “make next step with the car” in fight for third | RaceFans Round-up</h1>		<div class="entry-meta">
+			<span class="posted-on"><a href="http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/" rel="bookmark"><time class="entry-date published updated" datetime="2020-10-17T02:01:00+03:00">17.10.2020</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://formula1.life/author/keith-collantine/">Keith Collantine</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+	<div class="entry-content-wrapper">
+		<div class="entry-content">
+			In the round-up: McLaren need to "make next step with the car" in fight for third • Portugal may bar fans from race • Fan vote to decide Extreme E grids • Ex-CART boss dies					</div><!-- .entry-content -->
+	</div><!-- .entry-content-wrapper -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="http://formula1.life/category/fan-club/" rel="category tag">Fan club</a>, <a href="http://formula1.life/category/formula-1/" rel="category tag">Formula 1</a></span><span class="tags-links"><a href="http://formula1.life/tag/f1/" rel="tag">f1</a>, <a href="http://formula1.life/tag/formula-1/" rel="tag">formula 1</a>, <a href="http://formula1.life/tag/formula-one/" rel="tag">formula one</a>, <a href="http://formula1.life/tag/fun-club-f1/" rel="tag">fun club f1</a></span>	</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+			
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://formula1.life/venturi-promotes-reserve-driver-nato-in-place-of-massa-formula-e/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous</span> <span class="screen-reader-text">Previous post:</span> <span class="post-title">Venturi promotes reserve driver Nato in place of Massa | Formula E</span></a></div><div class="nav-next"><a href="http://formula1.life/leclerc-f1s-new-aero-handicap-rules-can-help-struggling-ferrari-2020-f1-season/" rel="next"><span class="meta-nav" aria-hidden="true">Next</span> <span class="screen-reader-text">Next post:</span> <span class="post-title">Leclerc: F1’s new aero handicap rules can help “struggling” Ferrari | 2020 F1 season</span></a></div></div>
+	</nav>			
+<a href="https://po.trade/register?utm_source=affiliate&a=j9IBCSAyjqdBE7&ac=cpa"><img src="https://affiliate.po.trade/uploads/banners/vqth6x2rhjettu29wr.jpg"/></a>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="sidebar-primary" class="widget-area sidebar" role="complementary">
+			<aside id="text-27" class="widget widget_text"><h2 class="widget-title"><span>cex</span></h2>			<div class="textwidget"><p><script src="https://atraff.com/im.js?serial=1511&#038;creative_id=532&#038;anid="></script></p>
+</div>
+		</aside><aside id="text-5" class="widget widget_text"><h2 class="widget-title"><span>twitter</span></h2>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/formula1_press" data-widget-id="711079989953822720">Твиты от @formula1_press</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.forex4you.com/?affid=ae89d5a" rel="nofollow"><img src="https://cdn.eglobal-group.com/marketing-materials/banners/web/5b336f55f3eeb957737639b15bc293f3.jpg"
+                                                     width="300"
+                                                     height="250"
+                                                     border="0"/></a></div></aside><aside id="text-22" class="widget widget_text"><h2 class="widget-title"><span>binarymate.com</span></h2>			<div class="textwidget"><p><a href="https://secure.iqmining.com/tiny/mSKc9"><img src="https://secure.iqmining.com/tiny/3hqvw" /></a></p>
+</div>
+		</aside><aside id="text-11" class="widget widget_text"><h2 class="widget-title"><span>IP</span></h2>			<div class="textwidget"><div align="center"><iframe frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://lastvisit.myip.ms/?n=formula1.life&n2=325565661&w=310&c=5&h=0&t=0"></iframe><a href="https://myip.ms/"></a></div></div>
+		</aside><aside id="categories-3" class="widget widget_categories"><h2 class="widget-title"><span>Categories</span></h2><form action="http://formula1.life" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="239">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="280">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="299">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="169">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="75">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="77">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="275">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="92">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="106">2016 FORMULA 1 RUSSIAN GRAND PRIX Sochi&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="255">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="285">2016 FORMULA 1 UNITED STATES GRAND PRIX United States&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="339">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="323">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="372">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="310">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="352">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="330">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="309">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="382">2018 Formula&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="408">2020 Formula 1&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="405">2020 Formula1&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="116">Aston Martin Racing&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="3">autosport.com&nbsp;&nbsp;(10,198)</option>
+	<option class="level-0" value="15">autoweek.com&nbsp;&nbsp;(1,334)</option>
+	<option class="level-0" value="10">bbci.co.uk&nbsp;&nbsp;(2,316)</option>
+	<option class="level-0" value="243">Bet&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="315">Bet&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="16">dailymail.co.uk&nbsp;&nbsp;(2,380)</option>
+	<option class="level-0" value="65">DRIVERS&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="7">en.espnf1.com&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="76">F1 2016 Championchip&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="305">F1 2017&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="162">F1 history&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="52">Fan club&nbsp;&nbsp;(6,167)</option>
+	<option class="level-0" value="12">Formel1.de&nbsp;&nbsp;(816)</option>
+	<option class="level-0" value="5">Formula 1&nbsp;&nbsp;(49,294)</option>
+	<option class="level-0" value="392">FORMULA 1 2018 JOHNNIE WALKER BELGIAN GRAND PRIX&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="195">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="388">FORMULA 1 EMIRATES GROSSER PREIS VON DEUTSCHLAND 2018 &#8211; QUALIFYING&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="142">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="119">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="332">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="240">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="375">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="401">FORMULA 1 GRAND PRIX 2019&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="143">FORMULA 1 GRAND PRIX DE MONACO 2016&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="383">FORMULA 1 GRAND PRIX DE MONACO 2018 Monte Carlo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="164">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="295">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="209">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="184">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="341">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="328">formula 1 live streaming&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="197">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="357">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="390">FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2018 Budapest&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="110">Formula 1 Russian Grand Prix&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="400">FORMULA 1 SOCAR AZERBAIJAN GRAND PRIX 2019&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1">Formula1-video&nbsp;&nbsp;(243)</option>
+	<option class="level-0" value="24">formula1blog.com&nbsp;&nbsp;(1,080)</option>
+	<option class="level-0" value="238">Foto&nbsp;&nbsp;(2,540)</option>
+	<option class="level-0" value="251">Full Races&nbsp;&nbsp;(246)</option>
+	<option class="level-0" value="14">GPToday.com&nbsp;&nbsp;(2,984)</option>
+	<option class="level-0" value="214">History F1&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="9">jamesallenonf1.com&nbsp;&nbsp;(1,101)</option>
+	<option class="level-0" value="11">joesaward&nbsp;&nbsp;(646)</option>
+	<option class="level-0" value="46">McLaren Honda&nbsp;&nbsp;(708)</option>
+	<option class="level-0" value="140">Mercedes AMG F1&nbsp;&nbsp;(2,507)</option>
+	<option class="level-0" value="265">Offline&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="124">Sebastian Vettel &#8211; A Worthy Racer? &#8211; Moaning Myrtle&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="189">Sport&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="350">Torrent&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="316">williamhill.com&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="360">www.youtube.com Eng&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="343">Youtube.com &#8211; Russia&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="345">Самые слики&nbsp;&nbsp;(8)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</aside><aside id="text-28" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOk2uqM7ONISCGNd7ZgqdRLk&amp;media=10059&amp;campaign=1"></script><br />
+<script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOmNMEuF_8KqQmNd7ZgqdRLk&amp;media=9997&amp;campaign=1"></script></p>
+</div>
+		</aside><aside id="text-24" class="widget widget_text">			<div class="textwidget"><script src="https://atraff.com/im.js?serial=1511&creative_id=194&anid="></script></div>
+		</aside><aside id="text-25" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="http://feedjit.com/serve/?vv=1515&amp;tft=3&amp;dd=0&amp;wid=&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=160&amp;wne=3&amp;srefs=0"></script><noscript><a href="http://feedjit.com/">Live Traffic Stats</a></noscript></p>
+</div>
+		</aside><aside id="text-4" class="widget widget_text"><h2 class="widget-title"><span>YA</span></h2>			<div class="textwidget"><p><!-- Yandex.Metrika counter --><br />
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36037900 = new Ya.Metrika({
+                    id:36037900,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });</p>
+<p>        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";</p>
+<p>        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><br />
+<noscript></p>
+<div><img src="https://mc.yandex.ru/watch/36037900" style="position:absolute; left:-9999px;" alt="" /></div>
+<p></noscript><br />
+<!-- /Yandex.Metrika counter --></p>
+</div>
+		</aside>	</div><!-- #sidebar-primary -->
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+	<div  id="footer-widgets" ><div class="container"><div class="inner-wrapper"><div class="footer-active-2 footer-widget-area"><aside id="text-20" class="widget widget_text">			<div class="textwidget"><a href="http://s11.flagcounter.com/more/EL8H"><img src="http://s11.flagcounter.com/count2/EL8H/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></div>
+		</aside></div><!-- .footer-widget-area --><div class="footer-active-2 footer-widget-area"><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="http://formula1.life/sitemap.xml" rel="noopener noreferrer" target="_blank">sitemap.xml</a></div></aside></div><!-- .footer-widget-area --></div><!-- .inner-wrapper --></div><!-- .container --></div><footer id="colophon" class="site-footer" role="contentinfo"><div class="container">    
+		<div class="colophon-inner colophon-grid-3">
+
+		    			    <div class="colophon-column">
+			    	<div class="copyright">
+			    		2016 F1 Racing – News and Updates http://formula1.life/ is not affiliated with Formula 1, Formula One Management, Formula One Administration, Formula One Licensing BV or any other subsidiary associated with the official Formula One governing organizations The website is an unofficial website, all names and logos used here are property of their respective owners, more specially FORMULA 1, FORMULA ONE, F1, GRAND PRIX and logos and the wide Curves logo are trademarks of Formula One Licensing BV, a Formula One Group Company. Use or depiction of images or trademarks throughout this website is for illustrative and editorial purposes only. Official Formula One information can be found at www.formula1.com <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e28386a2848d908f978e83d3cc8e8b8487">[email&#160;protected]</a>			    	</div><!-- .copyright -->
+			    </div><!-- .colophon-column -->
+		    
+		    		    	<div class="colophon-column">
+					<div id="footer-navigation" class="menu-1-container"><ul id="menu-1" class="menu"><li id="menu-item-42212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-42212"><a href="http://formula1.life/category/f1-2017/">F1 2017</a></li>
+<li id="menu-item-23227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23227"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li id="menu-item-23228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23228"><a href="http://formula1.life/forum/">Forum</a></li>
+<li id="menu-item-23230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23230"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a></li>
+<li id="menu-item-45635" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-45635"><a href="http://formula1.life/category/formula-1/">Formula 1</a></li>
+<li id="menu-item-45636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45636"><a href="http://formula1.life/category/bet-2/">Bet</a></li>
+<li id="menu-item-45643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45643"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li id="menu-item-45644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-45644"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a></li>
+<li id="menu-item-45667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45667"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li id="menu-item-45668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45668"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+<li id="menu-item-45670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45670"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a></li>
+</ul></div>		    	</div><!-- .colophon-column -->
+		    
+		    			    <div class="colophon-column">
+			    	<div class="site-info">
+			    		Magazine Plus by <a target="_blank" rel="designer" href="https://wenthemes.com/">WEN Themes</a>			    	</div><!-- .site-info -->
+			    </div><!-- .colophon-column -->
+		    
+		</div><!-- .colophon-inner -->
+
+	    	</div><!-- .container --></footer><!-- #colophon -->
+</div><!-- #page --><a href="#page" class="scrollup" id="btn-scrollup"><i class="fa fa-angle-up"></i></a>
+<!--www.crestaproject.com Social Button Floating Start--><div id="crestashareicon" class="cresta-share-icon  first_style show-count-active"><div class="sbutton crestaShadow facebook-cresta-share float" id="facebook-cresta"><a rel="nofollow" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;t=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-facebook"></i></a></div><div class="sbutton crestaShadow twitter-cresta-share float noCountTwo noCountThree" id="twitter-cresta"><a rel="nofollow" href="https://twitter.com/intent/tweet?text=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up&amp;url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-twitter"></i></a></div><div class="sbutton crestaShadow googleplus-cresta-share float" id="googleplus-cresta"><a rel="nofollow" href="https://plus.google.com/share?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" title="Share on Google Plus" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-gplus"></i></a></div><div class="sbutton crestaShadow linkedin-cresta-share float" id="linkedin-cresta"><a rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;title=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up&amp;source=http://formula1.life/" title="Share on LinkedIn" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-linkedin"></i></a></div><div class="sbutton crestaShadow pinterest-cresta-share float" id="pinterest-cresta"><a rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;media=http://formula1.life/wp-content/plugins/cresta-social-share-counter/images/no-image-found.png&amp;description=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up" title="Share on Pinterest" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-pinterest"></i></a></div><div class="sbutton" id="total-shares"><span class="cresta-the-total-count" id="total-count"><i class="cs c-icon-cresta-spinner animate-spin"></i></span><span class="cresta-the-total-text">Shares</span></div><div style="clear: both;"></div></div>
+
+<!--www.crestaproject.com Social Button Floating End-->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' id='cresta-social-counter-js-js-extra'>
+/* <![CDATA[ */
+var crestaShareSSS = {"FacebookCount":"nope"};
+var crestaPermalink = {"thePermalink":"http:\/\/formula1.life\/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up\/","themorezero":"nomore","themorenumber":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cresta-social-share-counter/js/jquery.cresta-social-share-counter.min.js?ver=2.9.3' id='cresta-social-counter-js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cresta-social-share-counter/js/jquery.cresta-social-effect.min.js?ver=2.9.3' id='cresta-social-effect-js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/js/skip-link-focus-fix.min.js?ver=20130115' id='magazine-plus-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/sidr/js/jquery.sidr.min.js?ver=2.2.1' id='jquery-sidr-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/easytabs/js/jquery.easytabs.min.js?ver=3.2.0' id='jquery-easytabs-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6' id='jquery-cycle2-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/ticker/jquery.easy-ticker.min.js?ver=2.0' id='jquery-easy-ticker-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/js/custom.min.js?ver=1.0.4' id='magazine-plus-custom-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/js/bos_main.js?ver=1.2' id='bos_main_js-js'></script>
+<script type='text/javascript' id='bos_date_js-js-extra'>
+/* <![CDATA[ */
+var objectL10n = {"destinationErrorMsg":"Sorry, we need at least part of the name to start searching.","tooManyDays":"Your check-out date is more than 30 nights after your check-in date. Bookings can only be made for a maximum period of 30 nights. Please enter alternative dates and try again.","dateInThePast":"Your check-in date is in the past. Please check your dates and try again.","cObeforeCI":"Please check your dates, the check-out date appears to be earlier than the check-in date.","calendar_nextMonth":"Next month","calendar_open":"Open calendar and pick a date","calendar_prevMonth":"Prev month","calendar_closeCalendar":"Close calendar","january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December","mo":"Mo","tu":"Tu","we":"We","th":"Th","fr":"Fr","sa":"Sa","su":"Su","updating":"Updating...","close":"Close","placeholder":"e.g. city, region, district or specific hotel","aid":"382821","dest_type":"select","calendar":"0","month_format":"short","flexible_dates":"0","logodim":"blue_150x25","logopos":"left","buttonpos":"right","bgcolor":"#FEBA02","textcolor":"#003580","submit_bgcolor":"#0896FF","submit_bordercolor":"#0896FF","submit_textcolor":"#FFFFFF","aid_starts_with_four":"affiliate ID is different from partner ID: should start with a 1, 3, 8 or 9. Please change it.","images_js_path":"http:\/\/formula1.life\/wp-content\/plugins\/bookingcom-official-searchbox\/images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/js/bos_date.js?ver=1.0' id='bos_date_js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Ok">Ok</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --></body>
+</html>
+<!DOCTYPE html> <html lang="en-US"><head>
+		    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <link rel="profile" href="https://gmpg.org/xfn/11">
+	    <link rel="pingback" href="http://formula1.life/xmlrpc.php">
+	    
+<title>McLaren need to &quot;make next step with the car&quot; in fight for third | RaceFans Round-up | Formula 1</title>
+
+<!-- All In One SEO Pack 3.7.1[273,382] -->
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://formula1.life/#organization","url":"http://formula1.life/","name":"Formula 1","sameAs":[]},{"@type":"WebSite","@id":"http://formula1.life/#website","url":"http://formula1.life/","name":"Formula 1","publisher":{"@id":"http://formula1.life/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://formula1.life/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage","url":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","inLanguage":"en-US","name":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up","isPartOf":{"@id":"http://formula1.life/#website"},"breadcrumb":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#breadcrumblist"},"description":"In the round-up: McLaren need to \"make next step with the car\" in fight for third • Portugal may bar fans from race • Fan vote to decide Extreme E grids • Ex-CART boss dies","datePublished":"2020-10-16T23:01:00+03:00","dateModified":"2020-10-16T23:01:00+03:00"},{"@type":"Article","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#article","isPartOf":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage"},"author":{"@id":"http://formula1.life/author/keith-collantine/#author"},"headline":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up","datePublished":"2020-10-16T23:01:00+03:00","dateModified":"2020-10-16T23:01:00+03:00","commentCount":0,"mainEntityOfPage":{"@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#webpage"},"publisher":{"@id":"http://formula1.life/#organization"},"articleSection":"Fan club, Formula 1, f1, formula 1, formula one, fun club f1"},{"@type":"Person","@id":"http://formula1.life/author/keith-collantine/#author","name":"Keith Collantine","sameAs":[],"image":{"@type":"ImageObject","@id":"http://formula1.life/#personlogo","url":"http://2.gravatar.com/avatar/ea76e05832dde0d298952b521344dc5e?s=96&r=g","width":96,"height":96,"caption":"Keith Collantine"}},{"@type":"BreadcrumbList","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://formula1.life/","url":"http://formula1.life/","name":"Formula 1"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","url":"http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/","name":"McLaren need to “make next step with the car” in fight for third | RaceFans Round-up"}}]}]}</script>
+<link rel="canonical" href="http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/" />
+<!-- All In One SEO Pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Formula 1 &raquo; Feed" href="http://formula1.life/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Formula 1 &raquo; Comments Feed" href="http://formula1.life/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/formula1.life\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://formula1.life/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://formula1.life/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://formula1.life/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-crestafont-css'  href='http://formula1.life/wp-content/plugins/cresta-social-share-counter/css/csscfont.min.css?ver=2.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-wp-style-css'  href='http://formula1.life/wp-content/plugins/cresta-social-share-counter/css/cresta-wp-css.min.css?ver=2.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cresta-social-googlefonts-css'  href='//fonts.googleapis.com/css?family=Noto+Sans:400,700&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://formula1.life/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://formula1.life/wp-content/themes/magazine-plus/third-party/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-plus-google-fonts-css'  href='//fonts.googleapis.com/css?family=Rajdhani%3A400%2C300%2C500%2C600%7CSource+Sans+Pro%3A400%2C300%2C500%2C600&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-sidr-css'  href='http://formula1.life/wp-content/themes/magazine-plus/third-party/sidr/css/jquery.sidr.dark.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-plus-style-css'  href='http://formula1.life/wp-content/themes/magazine-plus/style.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bos_sb_main_css-css'  href='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/css/bos_searchbox.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bdotcom_ttl_public_css-css'  href='http://formula1.life/wp-content/plugins/bookingcom-text2links/css/bdotcom_ttl_public.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://formula1.life/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"http:\/\/formula1.life\/wp-admin\/admin-ajax.php","nonce":"0fb0a9835b","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"0","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="http://formula1.life/wp-json/" /><link rel="alternate" type="application/json" href="http://formula1.life/wp-json/wp/v2/posts/114125" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://formula1.life/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://formula1.life/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Venturi promotes reserve driver Nato in place of Massa | Formula E' href='http://formula1.life/venturi-promotes-reserve-driver-nato-in-place-of-massa-formula-e/' />
+<link rel='next' title='Leclerc: F1’s new aero handicap rules can help “struggling” Ferrari | 2020 F1 season' href='http://formula1.life/leclerc-f1s-new-aero-handicap-rules-can-help-struggling-ferrari-2020-f1-season/' />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='http://formula1.life/?p=114125' />
+<link rel="alternate" type="application/json+oembed" href="http://formula1.life/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://formula1.life/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&#038;format=xml" />
+<style id='cresta-social-share-counter-inline-css'>.cresta-share-icon .sbutton {font-family: 'Noto Sans', sans-serif;}
+			@media (max-width : 640px) {
+				#crestashareicon {
+					display:none !important;
+				}
+			}
+		#crestashareicon {position:fixed; top:20%; left:20px; float:left;z-index:99;}
+
+		#crestashareicon .sbutton {clear:both;display:none;}
+		#crestashareicon .sbutton { float:left;}#crestashareiconincontent {float: right;}</style><link rel="icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-180x180.png" />
+<meta name="msapplication-TileImage" content="http://formula1.life/wp-content/uploads/2016/07/cropped-1f3c6-270x270.png" />
+</head>
+
+<body class="post-template-default single single-post postid-114125 single-format-standard wp-embed-responsive cookies-not-set group-blog global-layout-right-sidebar">
+
+	<div id="page" class="hfeed site"><a class="skip-link screen-reader-text" href="#content">Skip to content</a>		<div class="mobile-nav-wrap">
+			<a id="mobile-trigger" href="#mob-menu"><i class="fa fa-bars"></i></a>
+			<div id="mob-menu">
+				<ul id="menu-menu" class="menu"><li class="home-menu"><a href="http://formula1.life/"><span class="screen-reader-text">Home</span></a></li><li id="menu-item-23218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23218"><a href="http://formula1.life">Home</a></li>
+<li id="menu-item-23220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23220"><a href="http://formula1.life/formula-one-also-formula-1-or-f1/">Formula One (also Formula 1 or F1)</a></li>
+<li id="menu-item-23219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23219"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li id="menu-item-23221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23221"><a href="http://formula1.life/forum/">Forum</a></li>
+<li id="menu-item-23223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23223"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a>
+<ul class="sub-menu">
+	<li id="menu-item-23224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23224"><a href="http://formula1.life/official-twitter/f1-twitter-account-scuderiaferrari/">F1  –  Twitter Account ScuderiaFerrari</a></li>
+	<li id="menu-item-23225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23225"><a href="http://formula1.life/official-twitter/f1-mercedesamgf1-twitter-account/">F1  – MercedesAMGF1 Twitter Account</a></li>
+	<li id="menu-item-23226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23226"><a href="http://formula1.life/official-twitter/f1-hrtf1team-twitter-account/">F1  -HRTF1Team Twitter Account</a></li>
+</ul>
+</li>
+<li id="menu-item-23222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23222"><a href="http://formula1.life/official-facebook/">Official facebook</a></li>
+<li id="menu-item-46046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46046"><a href="http://formula1.life/category/f1-2017/">F1 2017</a>
+<ul class="sub-menu">
+	<li id="menu-item-46047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46047"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR</a></li>
+	<li id="menu-item-63624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63624"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-heineken-ditalia-2017-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza</a></li>
+	<li id="menu-item-63622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63622"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-pirelli-belgian-grand-prix-spa-francorchamps/">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps</a></li>
+	<li id="menu-item-59695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59695"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-pirelli-magyar-nagydij-2017-budapest/">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest</a></li>
+	<li id="menu-item-58737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58737"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-british-grand-prix-silverstone/">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone</a></li>
+	<li id="menu-item-57071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57071"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-grosser-preis-von-osterreich-2017-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg</a></li>
+	<li id="menu-item-57066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57066"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-azerbaijan-grand-prix-baku/">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku</a></li>
+	<li id="menu-item-57070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57070"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-de-espana-pirelli-2017-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya</a></li>
+	<li id="menu-item-57069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57069"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-vtb-russian-grand-prix-sochi/">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi</a></li>
+	<li id="menu-item-48922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48922"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/">2017 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li id="menu-item-57068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57068"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-heineken-chinese-grand-prix-shanghai/">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai</a></li>
+	<li id="menu-item-46048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46048"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-australian-grand-prix-melbourne/">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne</a></li>
+</ul>
+</li>
+<li id="menu-item-46049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46049"><a href="http://formula1.life/category/formula-1/bet/">Bet</a></li>
+<li id="menu-item-46050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46050"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li id="menu-item-46051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46051"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a>
+<ul class="sub-menu">
+	<li id="menu-item-46052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46052"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-gulf-air-bahrain-grand-prix-sakhir-f1-2016-championchip/">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li id="menu-item-46053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46053"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-pirelli-chinese-grand-prix/">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX</a></li>
+	<li id="menu-item-46054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46054"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-grand-prix-of-europe-baku/">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku</a></li>
+	<li id="menu-item-46055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46055"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-belgian-grand-prix-spa-francorchamps/">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS</a></li>
+	<li id="menu-item-46056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46056"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-singapore-airlines-singapore-grand-prix-singapore/">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore</a></li>
+	<li id="menu-item-46057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46057"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-petronas-malaysia-grand-prix-kuala-lumpur/">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR</a></li>
+	<li id="menu-item-46058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46058"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-emirates-japanese-grand-prix-suzuka/">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka</a></li>
+	<li id="menu-item-46059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46059"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-united-states-grand-prix-united-states/">2016 FORMULA 1 UNITED STATES GRAND PRIX United States</a></li>
+	<li id="menu-item-46060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46060"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-etihad-airways-abu-dhabi-grand-prix-yas-marina/">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina</a></li>
+	<li id="menu-item-46062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46062"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya</a></li>
+	<li id="menu-item-46063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46063"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya-f1-2016-championchip/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016</a></li>
+	<li id="menu-item-46064" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46064"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-de-monaco-2016/">FORMULA 1 GRAND PRIX DE MONACO 2016</a></li>
+	<li id="menu-item-46065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46065"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-du-canada-2016-montreal/">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal</a></li>
+	<li id="menu-item-46066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46066"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-osterreich-2016-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg</a></li>
+	<li id="menu-item-46067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46067"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-british-grand-prix-silverstone/">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE</a></li>
+	<li id="menu-item-46068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46068"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-magyar-nagydij-2016-hungaroring/">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring</a></li>
+	<li id="menu-item-46069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46069"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-deutschland-2016-hockenheim/">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim</a></li>
+	<li id="menu-item-46070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46070"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-heineken-ditalia-2016-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza</a></li>
+	<li id="menu-item-46071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46071"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-mexico-2016-mexico/">FORMULA 1 GRAN PREMIO DE MÉXICO 2016 Mexico</a></li>
+	<li id="menu-item-46072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46072"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grande-premio-do-brasil-2016-sao-paulo/">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo</a></li>
+</ul>
+</li>
+<li id="menu-item-46073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46073"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li id="menu-item-46075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46075"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a>
+<ul class="sub-menu">
+	<li id="menu-item-46074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46074"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+	<li id="menu-item-57065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57065"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/">Youtube.com &#8211; Russia</a>
+	<ul class="sub-menu">
+		<li id="menu-item-57076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57076"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/%d1%81%d0%b0%d0%bc%d1%8b%d0%b5-%d1%81%d0%bb%d0%b8%d0%ba%d0%b8/">Самые слики</a></li>
+	</ul>
+</li>
+	<li id="menu-item-59696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59696"><a href="http://formula1.life/category/formula1-video/www-youtube-com-deuche/">www.youtube.com Deuche</a></li>
+	<li id="menu-item-59697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59697"><a href="http://formula1.life/category/formula1-video/www-youtube-com-eng/">www.youtube.com Eng</a></li>
+	<li id="menu-item-59698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59698"><a href="http://formula1.life/category/formula1-video/www-youtube-com-espana/">www.youtube.com Espana</a></li>
+</ul>
+</li>
+<li id="menu-item-46076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46076"><a href="http://formula1.life/category/history-f1/">History F1</a></li>
+<li id="menu-item-48923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48923"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/formula-1-live-streaming/">formula 1 live streaming</a></li>
+</ul>			</div><!-- #mob-menu -->
+
+					</div> <!-- mobile-nav-wrap -->
+		
+    		<div id="tophead">
+			<div class="container">
+									<div class="head-date">
+						18 Oct, 2020					</div><!-- .head-date -->
+													<div class="top-news">
+						<span class="top-news-title">
+												Latest News						</span>
+								<div id="news-ticker">
+			<div class="news-ticker-inner-wrap">
+									<div class="list">
+						<a href="http://formula1.life/ricciardo-lauds-coolest-gift-from-schumacher-family-to-hamilton/">Ricciardo lauds &#8220;coolest gift&#8221; from Schumacher family to Hamilton</a>
+					</div>
+									<div class="list">
+						<a href="http://formula1.life/f1-conducted-very-broad-search-to-find-carey-replacement-2/">F1 conducted &#8220;very broad search&#8221; to find Carey replacement</a>
+					</div>
+									<div class="list">
+						<a href="http://formula1.life/f1-conducted-very-broad-search-to-find-carey-replacement/">F1 conducted &#8220;very broad search&#8221; to find Carey replacement</a>
+					</div>
+							</div> <!-- .news-ticker-inner-wrap -->
+		</div><!-- #news-ticker -->
+							</div> <!-- #top-news -->
+				
+								
+
+
+			</div><!-- .container -->
+		</div><!-- #tophead -->
+		<header id="masthead" class="site-header" role="banner"><div class="container"><div class="inner-wrapper">			    <div class="site-branding">
+
+			
+										    </div><!-- .site-branding -->
+	    <div id="header-ads">
+		    		    	<div id="header-right-widget-area">
+			    	<aside id="text-29" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOmNMEuF_8KqQmNd7ZgqdRLk&amp;media=9930&amp;campaign=1"></script></p>
+</div>
+		</aside>		    	</div><!-- #header-right-widget-area -->
+		    
+	    </div><!-- .right-header -->
+	        </div> <!-- .inner-wrapper --></div><!-- .container --></header><!-- #masthead -->	    <div id="main-nav" class="clear-fix">
+	    	<div class="container">
+		        <nav id="site-navigation" class="main-navigation" role="navigation">
+		            <div class="wrap-menu-content">
+						<div class="menu-menu-container"><ul id="primary-menu" class="menu"><li class="home-menu"><a href="http://formula1.life/"><span class="screen-reader-text">Home</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23218"><a href="http://formula1.life">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23220"><a href="http://formula1.life/formula-one-also-formula-1-or-f1/">Formula One (also Formula 1 or F1)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23219"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23221"><a href="http://formula1.life/forum/">Forum</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23223"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23224"><a href="http://formula1.life/official-twitter/f1-twitter-account-scuderiaferrari/">F1  –  Twitter Account ScuderiaFerrari</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23225"><a href="http://formula1.life/official-twitter/f1-mercedesamgf1-twitter-account/">F1  – MercedesAMGF1 Twitter Account</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23226"><a href="http://formula1.life/official-twitter/f1-hrtf1team-twitter-account/">F1  -HRTF1Team Twitter Account</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23222"><a href="http://formula1.life/official-facebook/">Official facebook</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46046"><a href="http://formula1.life/category/f1-2017/">F1 2017</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46047"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63624"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-heineken-ditalia-2017-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63622"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-pirelli-belgian-grand-prix-spa-francorchamps/">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59695"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-pirelli-magyar-nagydij-2017-budapest/">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58737"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-british-grand-prix-silverstone/">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57071"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-grosser-preis-von-osterreich-2017-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57066"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-azerbaijan-grand-prix-baku/">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57070"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/formula-1-gran-premio-de-espana-pirelli-2017-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57069"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-vtb-russian-grand-prix-sochi/">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48922"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/">2017 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57068"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-heineken-chinese-grand-prix-shanghai/">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46048"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-rolex-australian-grand-prix-melbourne/">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46049"><a href="http://formula1.life/category/formula-1/bet/">Bet</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46050"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46051"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46052"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-gulf-air-bahrain-grand-prix-sakhir-f1-2016-championchip/">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46053"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-pirelli-chinese-grand-prix/">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46054"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-grand-prix-of-europe-baku/">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46055"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-belgian-grand-prix-spa-francorchamps/">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46056"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-singapore-airlines-singapore-grand-prix-singapore/">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46057"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-petronas-malaysia-grand-prix-kuala-lumpur/">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46058"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-emirates-japanese-grand-prix-suzuka/">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46059"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-united-states-grand-prix-united-states/">2016 FORMULA 1 UNITED STATES GRAND PRIX United States</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46060"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/2016-formula-1-etihad-airways-abu-dhabi-grand-prix-yas-marina/">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46062"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46063"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-espana-pirelli-2016-catalunya-f1-2016-championchip/">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46064"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-de-monaco-2016/">FORMULA 1 GRAND PRIX DE MONACO 2016</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46065"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grand-prix-du-canada-2016-montreal/">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46066"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-osterreich-2016-spielberg/">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46067"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-british-grand-prix-silverstone/">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46068"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-magyar-nagydij-2016-hungaroring/">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46069"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grosser-preis-von-deutschland-2016-hockenheim/">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46070"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-heineken-ditalia-2016-monza/">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46071"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-gran-premio-de-mexico-2016-mexico/">FORMULA 1 GRAN PREMIO DE MÉXICO 2016 Mexico</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46072"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/formula-1-grande-premio-do-brasil-2016-sao-paulo/">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46073"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46075"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46074"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57065"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/">Youtube.com &#8211; Russia</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57076"><a href="http://formula1.life/category/formula1-video/youtube-com-russia/%d1%81%d0%b0%d0%bc%d1%8b%d0%b5-%d1%81%d0%bb%d0%b8%d0%ba%d0%b8/">Самые слики</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59696"><a href="http://formula1.life/category/formula1-video/www-youtube-com-deuche/">www.youtube.com Deuche</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59697"><a href="http://formula1.life/category/formula1-video/www-youtube-com-eng/">www.youtube.com Eng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59698"><a href="http://formula1.life/category/formula1-video/www-youtube-com-espana/">www.youtube.com Espana</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46076"><a href="http://formula1.life/category/history-f1/">History F1</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48923"><a href="http://formula1.life/category/formula-1/2017-formula-one-world-championship-calendar/2017-formula-1-gulf-air-bahrain-grand-prix-sakhir/formula-1-live-streaming/">formula 1 live streaming</a></li>
+</ul></div>		            </div><!-- .menu-content -->
+		        </nav><!-- #site-navigation -->
+		        <div class="header-search-box">
+		        	<a href="#" class="search-icon"><i class="fa fa-search"></i></a>
+		        	<div class="search-box-wrap">
+		        		<form role="search" method="get" class="search-form" action="http://formula1.life/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		        	</div><!-- .search-box-wrap -->
+		        </div><!-- .header-search-box -->
+
+	        </div> <!-- .container -->
+	    </div> <!-- #main-nav -->
+		
+	<div id="breadcrumb"><div class="container"><div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://formula1.life" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item"><a href="http://formula1.life/category/formula-1/"><span itemprop="name">Formula 1</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">McLaren need to “make next step with the car” in fight for third | RaceFans Round-up</span><meta itemprop="position" content="3" /></li></ul></div></div><!-- .container --></div><!-- #breadcrumb --><div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-114125" class="post-114125 post type-post status-publish format-standard hentry category-fan-club category-formula-1 tag-f1 tag-formula-1 tag-formula-one tag-fun-club-f1">
+	<header class="entry-header">
+		<h1 class="entry-title">McLaren need to “make next step with the car” in fight for third | RaceFans Round-up</h1>		<div class="entry-meta">
+			<span class="posted-on"><a href="http://formula1.life/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up/" rel="bookmark"><time class="entry-date published updated" datetime="2020-10-17T02:01:00+03:00">17.10.2020</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://formula1.life/author/keith-collantine/">Keith Collantine</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+    
+	<div class="entry-content-wrapper">
+		<div class="entry-content">
+			In the round-up: McLaren need to "make next step with the car" in fight for third • Portugal may bar fans from race • Fan vote to decide Extreme E grids • Ex-CART boss dies					</div><!-- .entry-content -->
+	</div><!-- .entry-content-wrapper -->
+
+	<footer class="entry-footer">
+		<span class="cat-links"><a href="http://formula1.life/category/fan-club/" rel="category tag">Fan club</a>, <a href="http://formula1.life/category/formula-1/" rel="category tag">Formula 1</a></span><span class="tags-links"><a href="http://formula1.life/tag/f1/" rel="tag">f1</a>, <a href="http://formula1.life/tag/formula-1/" rel="tag">formula 1</a>, <a href="http://formula1.life/tag/formula-one/" rel="tag">formula one</a>, <a href="http://formula1.life/tag/fun-club-f1/" rel="tag">fun club f1</a></span>	</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+			
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://formula1.life/venturi-promotes-reserve-driver-nato-in-place-of-massa-formula-e/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous</span> <span class="screen-reader-text">Previous post:</span> <span class="post-title">Venturi promotes reserve driver Nato in place of Massa | Formula E</span></a></div><div class="nav-next"><a href="http://formula1.life/leclerc-f1s-new-aero-handicap-rules-can-help-struggling-ferrari-2020-f1-season/" rel="next"><span class="meta-nav" aria-hidden="true">Next</span> <span class="screen-reader-text">Next post:</span> <span class="post-title">Leclerc: F1’s new aero handicap rules can help “struggling” Ferrari | 2020 F1 season</span></a></div></div>
+	</nav>			
+<a href="https://po.trade/register?utm_source=affiliate&a=j9IBCSAyjqdBE7&ac=cpa"><img src="https://affiliate.po.trade/uploads/banners/vqth6x2rhjettu29wr.jpg"/></a>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="sidebar-primary" class="widget-area sidebar" role="complementary">
+			<aside id="text-27" class="widget widget_text"><h2 class="widget-title"><span>cex</span></h2>			<div class="textwidget"><p><script src="https://atraff.com/im.js?serial=1511&#038;creative_id=532&#038;anid="></script></p>
+</div>
+		</aside><aside id="text-5" class="widget widget_text"><h2 class="widget-title"><span>twitter</span></h2>			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/formula1_press" data-widget-id="711079989953822720">Твиты от @formula1_press</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.forex4you.com/?affid=ae89d5a" rel="nofollow"><img src="https://cdn.eglobal-group.com/marketing-materials/banners/web/5b336f55f3eeb957737639b15bc293f3.jpg"
+                                                     width="300"
+                                                     height="250"
+                                                     border="0"/></a></div></aside><aside id="text-22" class="widget widget_text"><h2 class="widget-title"><span>binarymate.com</span></h2>			<div class="textwidget"><p><a href="https://secure.iqmining.com/tiny/mSKc9"><img src="https://secure.iqmining.com/tiny/3hqvw" /></a></p>
+</div>
+		</aside><aside id="text-11" class="widget widget_text"><h2 class="widget-title"><span>IP</span></h2>			<div class="textwidget"><div align="center"><iframe frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://lastvisit.myip.ms/?n=formula1.life&n2=325565661&w=310&c=5&h=0&t=0"></iframe><a href="https://myip.ms/"></a></div></div>
+		</aside><aside id="categories-3" class="widget widget_categories"><h2 class="widget-title"><span>Categories</span></h2><form action="http://formula1.life" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="239">2016 FORMULA 1 BELGIAN GRAND PRIX SPA-FRANCORCHAMPS&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="280">2016 FORMULA 1 EMIRATES JAPANESE GRAND PRIX Suzuka&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="299">2016 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX Yas Marina&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="169">2016 FORMULA 1 GRAND PRIX OF EUROPE Baku&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="75">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="77">2016 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX Sakhir&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="275">2016 FORMULA 1 PETRONAS MALAYSIA GRAND PRIX KUALA LUMPUR&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="92">2016 FORMULA 1 PIRELLI CHINESE GRAND PRIX&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="106">2016 FORMULA 1 RUSSIAN GRAND PRIX Sochi&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="255">2016 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX Singapore&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="285">2016 FORMULA 1 UNITED STATES GRAND PRIX United States&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="339">2017 FORMULA 1 AZERBAIJAN GRAND PRIX Baku&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="323">2017 FORMULA 1 HEINEKEN CHINESE GRAND PRIX Shanghai&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="372">2017 FORMULA 1 PIRELLI BELGIAN GRAND PRIX Spa-Francorchamps&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="310">2017 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX Melbourne&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="352">2017 FORMULA 1 ROLEX BRITISH GRAND PRIX Silverstone&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="330">2017 FORMULA 1 VTB RUSSIAN GRAND PRIX Sochi&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="309">2017 FORMULA ONE WORLD CHAMPIONSHIP™ CALENDAR&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="382">2018 Formula&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="408">2020 Formula 1&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="405">2020 Formula1&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="116">Aston Martin Racing&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="3">autosport.com&nbsp;&nbsp;(10,198)</option>
+	<option class="level-0" value="15">autoweek.com&nbsp;&nbsp;(1,334)</option>
+	<option class="level-0" value="10">bbci.co.uk&nbsp;&nbsp;(2,316)</option>
+	<option class="level-0" value="243">Bet&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="315">Bet&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="16">dailymail.co.uk&nbsp;&nbsp;(2,380)</option>
+	<option class="level-0" value="65">DRIVERS&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="7">en.espnf1.com&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="76">F1 2016 Championchip&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="305">F1 2017&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="162">F1 history&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="52">Fan club&nbsp;&nbsp;(6,167)</option>
+	<option class="level-0" value="12">Formel1.de&nbsp;&nbsp;(816)</option>
+	<option class="level-0" value="5">Formula 1&nbsp;&nbsp;(49,294)</option>
+	<option class="level-0" value="392">FORMULA 1 2018 JOHNNIE WALKER BELGIAN GRAND PRIX&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="195">FORMULA 1 BRITISH GRAND PRIX SILVERSTONE&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="388">FORMULA 1 EMIRATES GROSSER PREIS VON DEUTSCHLAND 2018 &#8211; QUALIFYING&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="142">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="119">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2016 Catalunya&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="332">FORMULA 1 GRAN PREMIO DE ESPAÑA PIRELLI 2017 Catalunya&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="240">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2016 Monza&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="375">FORMULA 1 GRAN PREMIO HEINEKEN D&#8217;ITALIA 2017 Monza&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="401">FORMULA 1 GRAND PRIX 2019&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="143">FORMULA 1 GRAND PRIX DE MONACO 2016&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="383">FORMULA 1 GRAND PRIX DE MONACO 2018 Monte Carlo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="164">FORMULA 1 GRAND PRIX DU CANADA 2016 Montreal&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="295">FORMULA 1 GRANDE PRÊMIO DO BRASIL 2016 São Paulo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="209">FORMULA 1 GROSSER PREIS VON DEUTSCHLAND 2016 Hockenheim&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="184">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2016 Spielberg&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="341">FORMULA 1 GROSSER PREIS VON ÖSTERREICH 2017 Spielberg&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="328">formula 1 live streaming&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="197">FORMULA 1 MAGYAR NAGYDÍJ 2016 Hungaroring&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="357">FORMULA 1 PIRELLI MAGYAR NAGYDÍJ 2017 Budapest&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="390">FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2018 Budapest&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="110">Formula 1 Russian Grand Prix&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="400">FORMULA 1 SOCAR AZERBAIJAN GRAND PRIX 2019&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1">Formula1-video&nbsp;&nbsp;(243)</option>
+	<option class="level-0" value="24">formula1blog.com&nbsp;&nbsp;(1,080)</option>
+	<option class="level-0" value="238">Foto&nbsp;&nbsp;(2,540)</option>
+	<option class="level-0" value="251">Full Races&nbsp;&nbsp;(246)</option>
+	<option class="level-0" value="14">GPToday.com&nbsp;&nbsp;(2,984)</option>
+	<option class="level-0" value="214">History F1&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="9">jamesallenonf1.com&nbsp;&nbsp;(1,101)</option>
+	<option class="level-0" value="11">joesaward&nbsp;&nbsp;(646)</option>
+	<option class="level-0" value="46">McLaren Honda&nbsp;&nbsp;(708)</option>
+	<option class="level-0" value="140">Mercedes AMG F1&nbsp;&nbsp;(2,507)</option>
+	<option class="level-0" value="265">Offline&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="124">Sebastian Vettel &#8211; A Worthy Racer? &#8211; Moaning Myrtle&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="189">Sport&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="350">Torrent&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="316">williamhill.com&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="360">www.youtube.com Eng&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="343">Youtube.com &#8211; Russia&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="345">Самые слики&nbsp;&nbsp;(8)</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</aside><aside id="text-28" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOk2uqM7ONISCGNd7ZgqdRLk&amp;media=10059&amp;campaign=1"></script><br />
+<script type="text/javascript" src="https://js.partners.easymarkets.com/javascript.php?prefix=_cYIXbK9OOmNMEuF_8KqQmNd7ZgqdRLk&amp;media=9997&amp;campaign=1"></script></p>
+</div>
+		</aside><aside id="text-24" class="widget widget_text">			<div class="textwidget"><script src="https://atraff.com/im.js?serial=1511&creative_id=194&anid="></script></div>
+		</aside><aside id="text-25" class="widget widget_text">			<div class="textwidget"><p><script type="text/javascript" src="http://feedjit.com/serve/?vv=1515&amp;tft=3&amp;dd=0&amp;wid=&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=160&amp;wne=3&amp;srefs=0"></script><noscript><a href="http://feedjit.com/">Live Traffic Stats</a></noscript></p>
+</div>
+		</aside><aside id="text-4" class="widget widget_text"><h2 class="widget-title"><span>YA</span></h2>			<div class="textwidget"><p><!-- Yandex.Metrika counter --><br />
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36037900 = new Ya.Metrika({
+                    id:36037900,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });</p>
+<p>        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";</p>
+<p>        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><br />
+<noscript></p>
+<div><img src="https://mc.yandex.ru/watch/36037900" style="position:absolute; left:-9999px;" alt="" /></div>
+<p></noscript><br />
+<!-- /Yandex.Metrika counter --></p>
+</div>
+		</aside>	</div><!-- #sidebar-primary -->
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+	<div  id="footer-widgets" ><div class="container"><div class="inner-wrapper"><div class="footer-active-2 footer-widget-area"><aside id="text-20" class="widget widget_text">			<div class="textwidget"><a href="http://s11.flagcounter.com/more/EL8H"><img src="http://s11.flagcounter.com/count2/EL8H/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></div>
+		</aside></div><!-- .footer-widget-area --><div class="footer-active-2 footer-widget-area"><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="http://formula1.life/sitemap.xml" rel="noopener noreferrer" target="_blank">sitemap.xml</a></div></aside></div><!-- .footer-widget-area --></div><!-- .inner-wrapper --></div><!-- .container --></div><footer id="colophon" class="site-footer" role="contentinfo"><div class="container">    
+		<div class="colophon-inner colophon-grid-3">
+
+		    			    <div class="colophon-column">
+			    	<div class="copyright">
+			    		2016 F1 Racing – News and Updates http://formula1.life/ is not affiliated with Formula 1, Formula One Management, Formula One Administration, Formula One Licensing BV or any other subsidiary associated with the official Formula One governing organizations The website is an unofficial website, all names and logos used here are property of their respective owners, more specially FORMULA 1, FORMULA ONE, F1, GRAND PRIX and logos and the wide Curves logo are trademarks of Formula One Licensing BV, a Formula One Group Company. Use or depiction of images or trademarks throughout this website is for illustrative and editorial purposes only. Official Formula One information can be found at www.formula1.com <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="79181d391f160b140c1518485715101f1c">[email&#160;protected]</a>			    	</div><!-- .copyright -->
+			    </div><!-- .colophon-column -->
+		    
+		    		    	<div class="colophon-column">
+					<div id="footer-navigation" class="menu-1-container"><ul id="menu-1" class="menu"><li id="menu-item-42212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-42212"><a href="http://formula1.life/category/f1-2017/">F1 2017</a></li>
+<li id="menu-item-23227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23227"><a href="http://formula1.life/driver-standings-constructor-standings-2016/">DRIVER STANDINGS CONSTRUCTOR STANDINGS 2016</a></li>
+<li id="menu-item-23228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23228"><a href="http://formula1.life/forum/">Forum</a></li>
+<li id="menu-item-23230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23230"><a href="http://formula1.life/official-twitter/">Official twitter F1  -The Official Formula 1® Twitter Account</a></li>
+<li id="menu-item-45635" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-45635"><a href="http://formula1.life/category/formula-1/">Formula 1</a></li>
+<li id="menu-item-45636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45636"><a href="http://formula1.life/category/bet-2/">Bet</a></li>
+<li id="menu-item-45643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45643"><a href="http://formula1.life/category/formula-1/drivers/">DRIVERS</a></li>
+<li id="menu-item-45644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-45644"><a href="http://formula1.life/category/formula-1/f1-2016-championchip/">F1 2016 Championchip</a></li>
+<li id="menu-item-45667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45667"><a href="http://formula1.life/category/formula-1/foto/">Foto</a></li>
+<li id="menu-item-45668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45668"><a href="http://formula1.life/category/formula-1/full-races/">Full Races</a></li>
+<li id="menu-item-45670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45670"><a href="http://formula1.life/category/formula1-video/">Formula1-video</a></li>
+</ul></div>		    	</div><!-- .colophon-column -->
+		    
+		    			    <div class="colophon-column">
+			    	<div class="site-info">
+			    		Magazine Plus by <a target="_blank" rel="designer" href="https://wenthemes.com/">WEN Themes</a>			    	</div><!-- .site-info -->
+			    </div><!-- .colophon-column -->
+		    
+		</div><!-- .colophon-inner -->
+
+	    	</div><!-- .container --></footer><!-- #colophon -->
+</div><!-- #page --><a href="#page" class="scrollup" id="btn-scrollup"><i class="fa fa-angle-up"></i></a>
+<!--www.crestaproject.com Social Button Floating Start--><div id="crestashareicon" class="cresta-share-icon  first_style show-count-active"><div class="sbutton crestaShadow facebook-cresta-share float" id="facebook-cresta"><a rel="nofollow" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;t=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-facebook"></i></a></div><div class="sbutton crestaShadow twitter-cresta-share float noCountTwo noCountThree" id="twitter-cresta"><a rel="nofollow" href="https://twitter.com/intent/tweet?text=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up&amp;url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-twitter"></i></a></div><div class="sbutton crestaShadow googleplus-cresta-share float" id="googleplus-cresta"><a rel="nofollow" href="https://plus.google.com/share?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F" title="Share on Google Plus" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-gplus"></i></a></div><div class="sbutton crestaShadow linkedin-cresta-share float" id="linkedin-cresta"><a rel="nofollow" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;title=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up&amp;source=http://formula1.life/" title="Share on LinkedIn" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-linkedin"></i></a></div><div class="sbutton crestaShadow pinterest-cresta-share float" id="pinterest-cresta"><a rel="nofollow" href="https://pinterest.com/pin/create/bookmarklet/?url=http%3A%2F%2Fformula1.life%2Fmclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up%2F&amp;media=http://formula1.life/wp-content/plugins/cresta-social-share-counter/images/no-image-found.png&amp;description=McLaren+need+to+%E2%80%9Cmake+next+step+with+the+car%E2%80%9D+in+fight+for+third+%7C+RaceFans+Round-up" title="Share on Pinterest" onclick="window.open(this.href,'targetWindow','toolbars=0,location=0,status=0,menubar=0,scrollbars=1,resizable=1,width=640,height=320,left=200,top=200');return false;"><i class="cs c-icon-cresta-pinterest"></i></a></div><div class="sbutton" id="total-shares"><span class="cresta-the-total-count" id="total-count"><i class="cs c-icon-cresta-spinner animate-spin"></i></span><span class="cresta-the-total-text">Shares</span></div><div style="clear: both;"></div></div>
+
+<!--www.crestaproject.com Social Button Floating End-->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' id='cresta-social-counter-js-js-extra'>
+/* <![CDATA[ */
+var crestaShareSSS = {"FacebookCount":"nope"};
+var crestaPermalink = {"thePermalink":"http:\/\/formula1.life\/mclaren-need-to-make-next-step-with-the-car-in-fight-for-third-racefans-round-up\/","themorezero":"nomore","themorenumber":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cresta-social-share-counter/js/jquery.cresta-social-share-counter.min.js?ver=2.9.3' id='cresta-social-counter-js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/cresta-social-share-counter/js/jquery.cresta-social-effect.min.js?ver=2.9.3' id='cresta-social-effect-js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/js/skip-link-focus-fix.min.js?ver=20130115' id='magazine-plus-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/sidr/js/jquery.sidr.min.js?ver=2.2.1' id='jquery-sidr-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/easytabs/js/jquery.easytabs.min.js?ver=3.2.0' id='jquery-easytabs-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6' id='jquery-cycle2-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/third-party/ticker/jquery.easy-ticker.min.js?ver=2.0' id='jquery-easy-ticker-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/themes/magazine-plus/js/custom.min.js?ver=1.0.4' id='magazine-plus-custom-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/js/bos_main.js?ver=1.2' id='bos_main_js-js'></script>
+<script type='text/javascript' id='bos_date_js-js-extra'>
+/* <![CDATA[ */
+var objectL10n = {"destinationErrorMsg":"Sorry, we need at least part of the name to start searching.","tooManyDays":"Your check-out date is more than 30 nights after your check-in date. Bookings can only be made for a maximum period of 30 nights. Please enter alternative dates and try again.","dateInThePast":"Your check-in date is in the past. Please check your dates and try again.","cObeforeCI":"Please check your dates, the check-out date appears to be earlier than the check-in date.","calendar_nextMonth":"Next month","calendar_open":"Open calendar and pick a date","calendar_prevMonth":"Prev month","calendar_closeCalendar":"Close calendar","january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December","mo":"Mo","tu":"Tu","we":"We","th":"Th","fr":"Fr","sa":"Sa","su":"Su","updating":"Updating...","close":"Close","placeholder":"e.g. city, region, district or specific hotel","aid":"382821","dest_type":"select","calendar":"0","month_format":"short","flexible_dates":"0","logodim":"blue_150x25","logopos":"left","buttonpos":"right","bgcolor":"#FEBA02","textcolor":"#003580","submit_bgcolor":"#0896FF","submit_bordercolor":"#0896FF","submit_textcolor":"#FFFFFF","aid_starts_with_four":"affiliate ID is different from partner ID: should start with a 1, 3, 8 or 9. Please change it.","images_js_path":"http:\/\/formula1.life\/wp-content\/plugins\/bookingcom-official-searchbox\/images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://formula1.life/wp-content/plugins/bookingcom-official-searchbox/js/bos_date.js?ver=1.0' id='bos_date_js-js'></script>
+<script type='text/javascript' src='http://formula1.life/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Ok">Ok</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --></body>
+</html>

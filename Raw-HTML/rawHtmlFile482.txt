@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=false;__ez.queue=(function(){var count=0,incr=0,items=[],timeDelayFired=false,hpItems=[],lpItems=[],allowLoad=true;var obj={func:function(name,funcName,parameters,isBlock,blockedBy,deleteWhenComplete,proceedIfError){var self=this;this.name=name;this.funcName=funcName;this.parameters=parameters===null?null:(parameters instanceof Array)?parameters:[parameters];this.isBlock=isBlock;this.blockedBy=blockedBy;this.deleteWhenComplete=deleteWhenComplete;this.isError=false;this.isComplete=false;this.isInitialized=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){log("... func = "+name);self.isInitialized=true;self.isComplete=true;log("... func.apply: "+name);var funcs=self.funcName.split('.');var func=null;if(funcs.length>3){}else if(funcs.length===3){func=window[funcs[0]][funcs[1]][funcs[2]];}else if(funcs.length===2){func=window[funcs[0]][funcs[1]];}else{func=window[self.funcName];}
+if(typeof func!=='undefined'&&func!==null){func.apply(null,this.parameters);}
+if(self.deleteWhenComplete===true)delete items[name];if(self.isBlock===true){log("----- F'D: "+self.name);processAll();}}},file:function(name,path,isBlock,blockedBy,async,defer,proceedIfError){var self=this;this.name=name;this.path=path;this.async=async;this.defer=defer;this.isBlock=isBlock;this.blockedBy=blockedBy;this.isInitialized=false;this.isError=false;this.isComplete=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){self.isInitialized=true;log("... file = "+name);var scr=document.createElement('script');scr.src=path;if(async===true)scr.async=true;else if(defer===true)scr.defer=true;scr.onerror=function(){log("----- ERR'D: "+self.name);self.isError=true;if(self.isBlock===true){processAll();}};scr.onreadystatechange=scr.onload=function(){var state=scr.readyState;log("----- F'D: "+self.name);if((!state||/loaded|complete/.test(state))){self.isComplete=true;if(self.isBlock===true){processAll();}}};document.getElementsByTagName('head')[0].appendChild(scr);}}};function init(){window.addEventListener("load",function(){setTimeout(function(){timeDelayFired=true;log('TDELAY -----');processAll();},5000);},false);}
+function addFile(name,path,isBlock,blockedBy,async,defer,proceedIfError,priority){var item=new obj.file(name,path,isBlock,blockedBy,async,defer,proceedIfError);if(priority===true){hpItems[name]=item}else{lpItems[name]=item}
+items[name]=item;checkIfBlocked(item);}
+function setallowLoad(settobool){allowLoad=settobool}
+function addFunc(name,func,parameters,isBlock,blockedBy,autoInc,deleteWhenComplete,proceedIfError,priority){if(autoInc===true)name=name+"_"+incr++;var item=new obj.func(name,func,parameters,isBlock,blockedBy,deleteWhenComplete,proceedIfError);if(priority===true){hpItems[name]=item}else{lpItems[name]=item}
+items[name]=item;checkIfBlocked(item);}
+function addTimeDelayFile(name,path){var item=new obj.file(name,path,false,[],false,false,true);item.isTimeDelay=true;log(name+' ... '+' FILE! TDELAY');lpItems[name]=item;items[name]=item;checkIfBlocked(item);}
+function addTimeDelayFunc(name,func,parameters){var item=new obj.func(name,func,parameters,false,[],true,true);item.isTimeDelay=true;log(name+' ... '+' FUNCTION! TDELAY');lpItems[name]=item;items[name]=item;checkIfBlocked(item);}
+function checkIfBlocked(item){if(isBlocked(item)===true||allowLoad==false)return;item.process();}
+function isBlocked(item){if(item.isTimeDelay===true&&timeDelayFired===false){log(item.name+" blocked = TIME DELAY!");return true;}
+if(item.blockedBy instanceof Array){for(var i=0;i<item.blockedBy.length;i++){var block=item.blockedBy[i];if(items.hasOwnProperty(block)===false){log(item.name+" blocked = "+block);return true;}else if(item.proceedIfError===true&&items[block].isError===true){return false;}else if(items[block].isComplete===false){log(item.name+" blocked = "+block);return true;}}}
+return false;}
+function log(msg){var href=window.location.href;var reg=new RegExp('[?&]ezq=([^&#]*)','i');var string=reg.exec(href);var res=string?string[1]:null;if(res==="1")console.debug(msg);}
+function processAll(){count++;if(count>200)return;log("let's go");processItems(hpItems);processItems(lpItems);}
+function processItems(list){for(var i in list){if(list.hasOwnProperty(i)===false)continue;var item=list[i];if(item.isComplete===true||isBlocked(item)||item.isInitialized===true||item.isError===true){if(item.isError===true){log(item.name+': error')}else if(item.isComplete===true){log(item.name+': complete already')}else if(item.isInitialized===true){log(item.name+': initialized already')}}else{item.process();}}}
+init();return{addFile:addFile,addDelayFile:addTimeDelayFile,addFunc:addFunc,addDelayFunc:addTimeDelayFunc,items:items,processAll:processAll,setallowLoad:setallowLoad};})();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.queue.addFile('/detroitchicago/boise.js', '//g.ezoic.net/detroitchicago/boise.js?gcb=191-2&cb=1', false, [], true, false, true, false);__ez.dot={};__ez.queue.addFile('/detroitchicago/memphis.js', '//g.ezoic.net/detroitchicago/memphis.js?gcb=191-2&cb=2', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/minneapolis.js', '//g.ezoic.net/detroitchicago/minneapolis.js?gcb=191-2&cb=1', false, [], true, false, true, false);__ez.vep=(function(){var pixels=[],pxURL="/detroitchicago/grapefruit.gif";function AddPixel(vID,pixelData){if(__ez.dot.isDefined(vID)&&__ez.dot.isValid(pixelData)){pixels.push({type:'video',video_impression_id:vID,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(pixelData)});}}
+function Fire(){if(typeof document.visibilityState!=='undefined'&&document.visibilityState==="prerender"){return;}
+if(__ez.dot.isDefined(pixels)&&pixels.length>0){while(pixels.length>0){var j=5;if(j>pixels.length){j=pixels.length;}
+var pushPixels=pixels.splice(0,j);(new Image()).src=__ez.dot.getURL(pxURL)+"?orig="+(__ez.template.isOrig===true?1:0)+"&v="+btoa(JSON.stringify(pushPixels));}}
+pixels=[];}
+return{Add:AddPixel,Fire:Fire};})();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.pel=(function(){var pixels=[],pxURL="/porpoiseant/army.gif";function AddAndFirePixel(adSlot,pixelData){AddPixel(adSlot,pixelData,0,0,0,0,0);Fire();}
+function AddAndFireOrigPixel(adSlot,pixelData){AddPixel(adSlot,pixelData,0,0,0,0,0,true);Fire();}
+function GetCurrentPixels(){return pixels;}
+function AddPixel(adSlot,pixelData,revenue,est_revenue,bid_floor_filled,bid_floor_prev,stat_source_id,isOrig){if(!__ez.dot.isDefined(adSlot)||__ez.dot.isAnyDefined(adSlot.getSlotElementId,adSlot.ElementId)==false){return;}
+var ad_position_id=parseInt(__ez.dot.getTargeting(adSlot,'ap'));var impId=__ez.dot.getSlotIID(adSlot),adUnit=__ez.dot.getAdUnit(adSlot,isOrig);var compId=parseInt(__ez.dot.getTargeting(adSlot,"compid"));var lineItemId=0;var creativeId=0;var ezimData=getEzimData(adSlot);if(typeof ezimData=='object'){if(ezimData.creative_id!==undefined){creativeId=ezimData.creative_id;}
+if(ezimData.line_item_id!==undefined){lineItemId=ezimData.line_item_id;}}
+if(__ez.dot.isDefined(impId,adUnit)&&__ez.dot.isValid(pixelData)){pixels.push({type:"impression",impression_id:impId,domain_id:__ez.dot.getDID(),unit:adUnit,t_epoch:__ez.dot.getEpoch(0),revenue:revenue,est_revenue:est_revenue,ad_position:ad_position_id,ad_size:"",bid_floor_filled:bid_floor_filled,bid_floor_prev:bid_floor_prev,stat_source_id:stat_source_id,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:compId,line_item_id:lineItemId,creative_id:creativeId,data:__ez.dot.dataToStr(pixelData),is_orig:isOrig||__ez.template.isOrig,});}}
+function AddPixelById(impFullId,pixelData,isOrig){var vals=impFullId.split('/');if(__ez.dot.isDefined(impFullId)&&vals.length===3&&__ez.dot.isValid(pixelData)){var adUnit=vals[0],impId=vals[2];pixels.push({type:"impression",impression_id:impId,domain_id:__ez.dot.getDID(),unit:adUnit,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(pixelData),is_orig:isOrig||__ez.template.isOrig});}}
+function Fire(){if(typeof document.visibilityState!=='undefined'&&document.visibilityState==="prerender")return;if(__ez.dot.isDefined(pixels)&&pixels.length>0){var allPixels=[pixels.filter(pixel=>pixel.is_orig),pixels.filter(pixel=>!pixel.is_orig)];allPixels.forEach(pixels=>{while(pixels.length>0){var isOrig=pixels[0].is_orig||false;var j=5;if(j>pixels.length){j=pixels.length;}
+var pushPixels=pixels.splice(0,j);var pixelURL=__ez.dot.getURL(pxURL)+"?orig="+(isOrig===true?1:0)+"&sts="+btoa(JSON.stringify(pushPixels));if(typeof window.isAmp!=='undefined'&&isAmp&&typeof window._ezaq!=='undefined'&&_ezaq.hasOwnProperty("domain_id")){pixelURL+="&visit_uuid="+_ezaq['visit_uuid'];}
+(new Image()).src=pixelURL;}})}
+pixels=[];}
+function getEzimData(adSlot){if(typeof _ezim_d=="undefined"){return false}
+var adUnitName=__ez.dot.getAdUnitPath(adSlot).split('/').pop();if(typeof _ezim_d==='object'&&_ezim_d.hasOwnProperty(adUnitName)){return _ezim_d[adUnitName];}
+for(var ezimKey in _ezim_d){if(ezimKey.split('/').pop()===adUnitName){return _ezim_d[ezimKey];}}
+return false;}
+return{Add:AddPixel,AddAndFire:AddAndFirePixel,AddAndFireOrig:AddAndFireOrigPixel,AddById:AddPixelById,Fire:Fire,GetPixels:GetCurrentPixels,};})();__ez.queue.addFile('/detroitchicago/raleigh.js', '//g.ezoic.net/detroitchicago/raleigh.js?gcb=191-2&cb=2', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '//g.ezoic.net/detroitchicago/tampa.js?gcb=191-2&cb=1', false, [], true, false, true, false);</script>
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":0,"ad_count_adjustment":0,"ad_lazyload_version":0,"ad_location_ids":"","ad_transform_level":0,"adx_ad_count":0,"bidder_method":1,"bidder_version":3,"city":"Virginia Beach","country":"US","days_since_last_visit":-1,"display_ad_count":0,"domain_id":187940,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"iab_category":"","is_from_recommended_pages":false,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":0,"metro_code":544,"optimization_version":1,"page_ad_positions":"","page_view_count":0,"page_view_id":"960f968f-7046-4ddd-7494-269b16b3f30e","position_selection_id":0,"postal_code":"23452","pv_event_count":0,"response_time_orig":0,"serverid":"3.90.148.254:9362","state":"VA","sub_page_ad_positions":"","t_epoch":1602985386,"template_id":0,"time_on_site_visit":0,"url":"https://thegloriousamerican.com/2020-election/report-high-voter-turnout-of-dog-faced-pony-soldiers-could-spell-trouble-for-biden-campaign/%0A","user_id":0,"visit_uuid":"e73930c6-be48-4dea-7d5c-8288ff760aea","word_count":0,"worst_bad_word_level":0};var _ezim_d = null;var _ezat = {"domain_id":187940,"form_factor_id":1,"framework_id":1,"pageview_date":"2020-10-17","pageview_id":"960f968f-7046-4ddd-7494-269b16b3f30e","template_id":0,"url":"https://thegloriousamerican.com/2020-election/report-high-voter-turnout-of-dog-faced-pony-soldiers-could-spell-trouble-for-biden-campaign/%0A","visit_uuid":"e73930c6-be48-4dea-7d5c-8288ff760aea"};</script><script data-ezscrex='false' data-cfasync='false' type="text/javascript">var ezWp = true;</script><script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type="text/javascript">__ez.queue.addFile('banger.js', '//g.ezoic.net/porpoiseant/banger.js?cb=191-2&bv=89&v=35&PageSpeed=off', true, [], true, false, false, true);</script>
+<script>__ez.queue.addFile('/detroitchicago/anaheim.js', '//g.ezoic.net/detroitchicago/anaheim.js?gcb=2&cb=1', false, ['/detroitchicago/minneapolis.js'], true, false, true, false);</script>
+<script data-ezscrex="false" data-cfasync="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-ezscrex="false" data-cfasync="false">__ez.queue.addFile('/detroitchicago/tulsa.js', '//g.ezoic.net/detroitchicago/tulsa.js?gcb=191-2&cb=2', false, [], true, false, true, false);</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Page not found | The Glorious American</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found | The Glorious American" />
+<meta property="og:site_name" content="The Glorious American" />
+<meta property="fb:app_id" content="3115396292019415" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found | The Glorious American" />
+<meta name="twitter:site" content="@TheGloriousA" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://thegloriousamerican.com/#organization","name":"The Glorious American","url":"https://thegloriousamerican.com/","sameAs":["https://www.facebook.com/GloriousAmerican","https://twitter.com/TheGloriousA"],"logo":{"@type":"ImageObject","@id":"https://thegloriousamerican.com/#logo","inLanguage":"en-US","url":"https://thegloriousamerican.com/wp-content/uploads/2020/04/FB-Ad-pic.jpg","width":880,"height":462,"caption":"The Glorious American"},"image":{"@id":"https://thegloriousamerican.com/#logo"}},{"@type":"WebSite","@id":"https://thegloriousamerican.com/#website","url":"https://thegloriousamerican.com/","name":"The Glorious American","inLanguage":"en-US","publisher":{"@id":"https://thegloriousamerican.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://thegloriousamerican.com/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Glorious American &raquo; Feed" href="https://thegloriousamerican.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Glorious American &raquo; Comments Feed" href="https://thegloriousamerican.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thegloriousamerican.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='cnss_font_awesome_css-css'  href='https://thegloriousamerican.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_font_awesome_v4_shims-css'  href='https://thegloriousamerican.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/v4-shims.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cnss_css-css'  href='https://thegloriousamerican.com/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-swiper-css'  href='https://thegloriousamerican.com/wp-content/themes/waylard/assets/css/swiper.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://thegloriousamerican.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='quads-style-css-css'  href='https://thegloriousamerican.com/wp-content/plugins/quick-adsense-reloaded/includes/gutenberg/dist/blocks.style.build.css?ver=1.8.17' type='text/css' media='all' />
+<link rel='stylesheet' id='ezoic-integration-css'  href='https://thegloriousamerican.com/wp-content/plugins/ezoic-integration/public/css/ezoic-integration-public.css?ver=1.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='https://thegloriousamerican.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://thegloriousamerican.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://thegloriousamerican.com/wp-content/themes/waylard/assets/css/font-awesome.min.css?ver=4.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='material-icons-css'  href='https://thegloriousamerican.com/wp-content/themes/waylard/assets/css/material-icons.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://thegloriousamerican.com/wp-content/themes/waylard/assets/css/magnific-popup.min.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='waylard-theme-style-css'  href='https://thegloriousamerican.com/wp-content/themes/waylard/style.css?ver=1.0.0' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='waylard-fonts-css'  href='https://fonts.googleapis.com/css?family=Playfair+Display%3A400%2C400italic%2C700%2C700italic%2C900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='cherry-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A500%2C700%2C600%2C400%2C300%7CPlayfair+Display%3A900&#038;subset=latin&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://thegloriousamerican.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/thegloriousamerican.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"","token":"7fcba3c640","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.0.2'></script>
+<link rel='https://api.w.org/' href='https://thegloriousamerican.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thegloriousamerican.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thegloriousamerican.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<style type="text/css">
+		ul.cnss-social-icon li.cn-fa-icon a{background-color:#ffffff!important;}
+		ul.cnss-social-icon li.cn-fa-icon a:hover{background-color:#ffffff!important;color:#777777!important;}
+		</style><meta name="generator" content="Site Kit by Google 1.5.1" /><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script>
+(adsbygoogle = window.adsbygoogle || []).push({
+google_ad_client: "ca-pub-1284976604297050",
+enable_page_level_ads: true,
+tag_partner: "site_kit"
+});
+</script>
+		<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://thegloriousamerican.com/wp-content/uploads/2020/03/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://thegloriousamerican.com/wp-content/uploads/2020/03/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://thegloriousamerican.com/wp-content/uploads/2020/03/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://thegloriousamerican.com/wp-content/uploads/2020/03/cropped-favicon-270x270.png" />
+<style type="text/css">/* #Typography */body {font-style: normal;font-weight: 500;font-size: 18px;line-height: 1.45;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: left;color: #282828;}h1 {font-style: normal;font-weight: 500;font-size: 23px;line-height: 1.2;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: inherit;color: #282828;}h2 {font-style: normal;font-weight: 500;font-size: 18px;line-height: 1.3;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: inherit;color: #282828;}h3 {font-style: normal;font-weight: 700;font-size: 18px;line-height: 1.2;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: inherit;color: #282828;}h4 {font-style: normal;font-weight: 700;font-size: 24px;line-height: 1.3;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: inherit;color: #282828;}h5 {font-style: normal;font-weight: 600;font-size: 15px;line-height: 1.7;font-family: Roboto, sans-serif;letter-spacing: 3px;text-align: inherit;color: #282828;}h6 {font-style: normal;font-weight: 400;font-size: 18px;line-height: 1.7;font-family: Roboto, sans-serif;letter-spacing: 0px;text-align: inherit;color: #282828;}@media (min-width: 992px) {h1 { font-size: 45px; }h2 { font-size: 30px; }h3 { font-size: 20px; }h4 { font-size: 24px; }}.site-header,.site-footer,.widget-area span {font-family: Roboto, sans-serif;}.site-header .top-panel__message {font-family: Roboto, sans-serif;color: #888888;}a { color: #888888; }a:hover { color: #282828; }h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {color: #282828;}/* #Invert Color Scheme */.invert { color: #ffffff; }.invert h1 { color: #fff; }.invert h2 { color: #fff; }.invert h3 { color: #fff; }.invert h4 { color: #fff; }.invert h5 { color: #fff; }.invert h6 { color: #fff; }.invert a { color: #ffffff; }.invert a:hover { color: #dd3333; }/* #Layout */@media (min-width: 1200px) {.container {max-width: 1505px;}}/* #Elements */blockquote {font-family: Roboto, sans-serif;font-weight: 500;line-height: 1.3;}blockquote cite {font-family: Roboto, sans-serif;}blockquote a:hover {color: #888888;}code {color: #ffffff;background: #282828;}.entry-content ul li::before,.entry-content ol li::before {color: #282828;}/* #Header */.header-container {background-color: #ffffff;background-image: url();background-repeat: repeat;background-position: center top;background-attachment: scroll;}/* ##Logo */.site-logo {font-style: normal;font-weight: 900;font-size: 40px;font-family: 'Playfair Display', serif;}.site-branding .site-logo,.site-logo__link,.site-logo:hover {color: #282828;}.site-description {font-family: 'Playfair Display', serif;color: #888888;}/* ##Top Panel */.top-panel__menu-list .menu-item::after {color: #888888;}.top-panel__message .fa,.top-panel__message .material-icons {color: #282828;}/* #Search Form */.search-form__field {color: #282828;}.top-panel .search-form__submit {color: #282828;}.top-panel .search-form__submit:hover {color: #282828;}.search-form .search-form__field {color: #888888;}.search-form_wrap .close-btn .close-btn-link {border-color: #282828;}/* #Comment, Contact, Password Forms */.comment-form .submit,.wpcf7-submit,.post-password-form label + input {color: #282828;border-color: #282828;}.comment-form .submit:hover,.wpcf7-submit:hover,.post-password-form label + input:hover {color: #dd3333;background-color: #282828;border-color: #282828;}/* #Input Placeholders */::-webkit-input-placeholder { color: #888888; font-family: Roboto, sans-serif; }::-moz-placeholder{ color: #888888; font-family: Roboto, sans-serif; }:-moz-placeholder{ color: #888888; font-family: Roboto, sans-serif; }:-ms-input-placeholder{ color: #888888; font-family: Roboto, sans-serif; }input[type='text'],input[type='email'],input[type='url'],input[type='password'],input[type='search'],input[type='number'],input[type='tel'],input[type='range'],input[type='date'],input[type='month'],input[type='week'],input[type='time'],input[type='datetime'],input[type='datetime-local'],input[type='color'],select,textarea {font-family: Roboto, sans-serif;color: #888888;}/* #Social */.social-list a:hover,.share-btns__link:hover {color: #282828;display:none;}.social-list a:hover::before,.share-btns__link:hover {color: #282828;display:none;}.posts-list .share-btns__link {color: #282828;display:none;}.posts-list .share-btns__link:hover {color: #282828;display:none;}.social-list--footer .menu-item a:hover { color: #ffffff; }.social-list--footer .menu-item a:hover::before { background-color: rgba(255,255,255,0.1);display:none;}/* #Social (invert scheme) */.invert .social-list a {color: #dd3333;}.invert .social-list a:hover,.invert .social-list a:hover::before,.invert .share-btns__link:hover {color: #dd3333;display:none;}.invert .social-list .menu-item > a::after {background-color: #dd3333;}/* #Main Menu */.main-navigation .sub-menu li.menu-item-has-children::after {color: #888888;}.minimal .main-navigation .menu > li > a::after {background-color: #282828;}.default .main-navigation.invert .menu > li.menu-hover > a,.default .main-navigation.invert .menu > li.menu-hover .menu-item__desc,.centered .main-navigation.invert .menu > li.menu-hover > a,.centered .main-navigation.invert .menu > li.menu-hover .menu-item__desc {color: #dd3333;}.default .main-navigation .menu > li.current_page_item > a,.centered .main-navigation .menu > li.current_page_item > a {color: #dd3333;}.menu-item__desc {color: #888888;}.menu-toggle:hover {color: #dd3333;}/* #Footer Menu */.invert .footer-menu__items li.current-menu-item a,.invert .footer-menu__items li.current_page_item a {color: #dd3333;}.site-footer.default .footer-copyright + .footer-menu .footer-menu__items,.site-footer.centered .footer-copyright + .footer-menu .footer-menu__items {border-color: #888888;}/* #Entry Meta */.sticky__label {color: #282828;}.has-post-thumbnail .sticky__label {border-top-color: #dd3333;}.post__cats a {color: #282828;font-family: Roboto, sans-serif;}.post__cats a:hover {color: #888888;}.invert .post__cats a {color: #888888;}.invert .post__cats a:hover {color: #dd3333;}.post .entry-meta,.post .entry-meta a,.comment-metadata,.single .post span.post__comments {font-family: Roboto, sans-serif;color: #888888;}/*icon:material:star_border*/.entry-meta .material-icons,.post__tags .material-icons,.entry-meta .fa,.post__tags .fa {color: rgba(40,40,40,0.3);}.post-featured-content {color: #282828;}.post .entry-meta a:hover {color: #282828;}.invert .post .entry-meta a:hover {color: #dd3333;}.post .entry-content .btn {color: #282828;}/* #Post Format */.post-format-link {font-family: Roboto, sans-serif;color: #ffffff;background-color: rgba(40,40,40,0.8);}.post-format-link {color: #dd3333;background-color: #282828;}.post-format-link:hover, .post-format-link:before {color: #dd3333;}/* #Author Bio */.post-author__title a:hover {color: #dd3333;}/* #Comments */.comment-reply-title {font-style: normal;font-weight: 600;font-size: 15px;line-height: 1.7;font-family: Roboto, sans-serif;letter-spacing: 3px;text-align: inherit;color: #282828;}.comments-title,.comment-reply-title {color: #282828;}#cancel-comment-reply-link {color: #282828;}#cancel-comment-reply-link:hover {color: #282828;}.comment-reply-link {color: #282828;}.comment-reply-link:hover {color: #888888;}.invert .custom-posts__item .entry-content h3 a {color: #ffffff;}.invert .custom-posts__item .entry-content h3 a {color: #dd3333;}.post-author__title a:hover {color: #282828;}.post-author-bio,.post-navigation,.comments-area,.comment-list {border-color: #282828;}/* #Paginations */.pagination,.navigation {font-family: Roboto, sans-serif;}.page-numbers,.page-links a {color: #282828;}a.page-numbers:hover,.page-numbers.current,.page-links a:hover,.page-links > .page-links__item {color: #282828;}.page-numbers.next,.page-numbers.prev,.page-links > .page-links__item,.navigation .nav-links a {color: #282828;border-color: #282828;}.navigation .nav-links a:hover {color: #282828;}.post-navigation .nav-links .nav-next a:hover,.post-navigation .nav-links .nav-previous a:hover {box-shadow: inset 0 0 0 2px #282828;}.page-links > .page-links__item {border-color: transparent;}.page-links a {color: #282828;border-color: #282828;}.page-links a:hover {background-color: #282828;}.page-links a .page-links__item {color: #282828;border-color: #282828;}.page-links a:hover .page-links__item {color: #ffffff;}.post-navigation__post-title {font-style: normal;font-weight: 400;font-size: 18px;line-height: 1.7;font-family: Roboto, sans-serif;letter-spacing: 0px;}/* #Breadcrumbs */.breadcrumbs__item {font-style: normal;font-weight: 300;font-size: 14px;line-height: 1.6;font-family: Roboto, sans-serif;letter-spacing: 0px;}.breadcrumbs__item-sep {color: #888888;}.entry-content a {color: #282828;}/* #Footer */.site-footer {background-color: #1c1c1c;}.footer-area-wrap {background-color: #1c1c1c;border-color: #282828;}.footer-copyright {color: #888888;}.invert .site-info a:hover {color: #dd3333;}.invert .site-info a::before {color: #888888;}/* #ToTop button */#toTop {color: #282828;background-color: #dd3333;border-color: #282828;}#toTop:hover {box-shadow: inset 0 0 0 2px #282828;}/* #Page Preloader */.page-preloader-cover .cssload-loader:before,.page-preloader-cover .cssload-loader:after {background-color: #282828;}/* #Button Appearance Styles (regular scheme) */.btn,button,input[type='button'],input[type='reset'],input[type='submit'] {font-family: Roboto, sans-serif;}.btn-default,.btn-primary,.btn-secondary,.btn-default:hover,.btn-primary:hover,.btn-secondary:hover {color: #282828;}.btn-default {background-color: #888888;border-color: #888888;}.btn:hover {box-shadow: inset 0 0 0 2px #282828;}.btn-default:focus {box-shadow: 0 0 10px #888888;}.btn-primary {border-color: #282828;}.btn-primary:hover {box-shadow: inset 0 0 0 2px #282828;}.btn-secondary {background-color: #282828;border-color: #282828;}.btn-secondary:focus {box-shadow: 0 0 10px #282828;}/* #Button Appearance Styles (invert scheme) */.invert .btn-default {color: #888888;background-color: #ffffff;border-color: #ffffff;}.invert .btn-default:hover {color: #888888;background-color: #dd3333;border-color: #dd3333;}.invert .btn-default:focus {box-shadow: 0 0 10px #ffffff;}.invert .btn-primary {color: #888888;border-color: #ffffff;}.invert .btn-primary:hover {color: #888888;border-color: rgb(230,230,230);}.invert .btn-primary:focus {box-shadow: 0 0 10px #ffffff;}.invert .btn-secondary {color: #888888;background-color: #ffffff;border-color: #ffffff;}.invert .btn-secondary:hover {color: #888888;background-color: rgb(230,230,230);border-color: rgb(230,230,230);}.invert .btn-secondary:focus {box-shadow: 0 0 10px #ffffff;}.invert .btn,.invert .widget .btn {color: #dd3333;border-color: #dd3333;}.invert .btn:hover {box-shadow: inset 0 0 0 2px #dd3333;}.close-btn-link {color: #282828;}/* #Widgets (defaults) */.widget li {color: #888888;}.invert .widget li {color: #ffffff;}.widget > ul > li > a,.widget > ul > li > ul > li a {font-family: Roboto, sans-serif;}.invert .widget select {color: #282828;}.widget .btn {color: #282828;}/* #Widget Calendar */.widget_calendar tr {font-family: Roboto, sans-serif;color: #888888;}.widget_calendar table tbody a::before {color: #dd3333;}.widget-area .widget.widget_calendar table tbody a{color: #dd3333;background-color: #282828;}.widget-area .widget.widget_calendar table tbody a:hover {box-shadow: inset 0 0 0 2px #dd3333;}.invert .widget-area .widget_calendar table tbody a {color: #282828;background-color: #dd3333;}.invert .widget-area .widget_calendar table tbody a:hover {box-shadow: inset 0 0 0 2px #282828;}.widget_calendar table th {color: #282828;}.invert .widget_calendar th {color: #ffffff;}/* #Widget Tag Cloud */.invert .tagcloud a:hover {color: #ffffff;}.tagcloud a {font-family: Roboto, sans-serif;}/* #Widget Recent Posts */.widget_recent_entries .post-date {color: #282828;}.widget_recent_entries li a {color: #282828;}.widget_recent_entries li a:hover {color: #282828;}.invert .widget_recent_entries li a {color: #ffffff;}.invert .widget_recent_entries li a:hover {color: #dd3333;}.invert .widget_recent_entries .post-date {color: rgb(230,230,230);}/* #Widget Smart Box News */.news-smart-box .entry-title a {color: #282828;}.widget_recent_entries .post-date {color: #888888;}.news-smart-box__navigation .terms-list .term-item:hover {color: #282828;}.sidebar-secondary .widget .custom-posts__item .post-inner,.widget .custom-posts__item .post-inner,.widget_recent_comments li + li,.widget_calendar th, .widget_calendar tbody td,.widget + .widget,.widget + .widget:not(.widget-banner),.before-loop-area,.before-loop-area,.before-content-area,.header-fullwidth-area {border-color: #282828;}/* #Widget Recent Comments */.recentcomments {font-family: Roboto, sans-serif;}.widget_recent_comments > ul > li > a {color: #282828;font-family: Roboto, sans-serif;}.invert .widget_recent_comments > ul > li > a {color: #dd3333;}/* Messages */.follow-block__message,.subscribe-block__message,.subscribe-block__messages,.subscribe-block__success,.wpcf7 .wpcf7-not-valid-tip {font-family: Roboto, sans-serif;}.widget-taxonomy-tiles__inner:hover .widget-taxonomy-tiles__content::before {background-color: #282828;}.invert .widget-taxonomy-tiles__content a:hover {color: #282828;}.widget-taxonomy-tiles .tiles-columns .widget-taxonomy-tiles__holder:first-child .widget-taxonomy-tiles__title {font-size: 45px;}.widget-taxonomy-tiles .tiles-columns .widget-taxonomy-tiles__holder:last-child .widget-taxonomy-tiles__title {font-size: 30px;}.widget-taxonomy-tiles .widget-taxonomy-tiles__title a,.widget-taxonomy-tiles .widget-taxonomy-tiles__title a:hover {color: #dd3333;}.invert .widget-image-grid__title a:hover,.invert .widget-image-grid__link:hover {color: #282828;}.widget-image-grid .post-terms a,.widget-image-grid .post-terms a:hover {color: #dd3333;}.widget-image-grid .widget-image-grid__title a,.widget-image-grid .widget-image-grid__title a:hover {color: #dd3333;}.widget-image-grid .widget-image-grid__link,.widget-image-grid .widget-image-grid__link:hover {color: #dd3333;}/* #Carousel */.swiper-pagination-bullet {background-color: #282828;}.swiper-button-next,.swiper-button-prev {color: #282828;background-color: #dd3333;}.swiper-button-next:not(.swiper-button-disabled):hover {color: #dd3333;background-color: #282828;}.swiper-button-prev:not(.swiper-button-disabled):hover {color: #dd3333;background-color: #282828;}.swiper-pagination .swiper-pagination-bullet {border-color: #282828;}.swiper-pagination-bullet.swiper-pagination-bullet-active {background-color: #282828;}.invert .swiper-pagination .swiper-pagination-bullet {border-color: #dd3333;}.invert .swiper-pagination-bullet.swiper-pagination-bullet-active {background-color: #dd3333;}.smart-slider__instance .sp-arrow {background-color: #ffffff;color: #282828;}.smart-slider__instance .sp-next-arrow:hover,.smart-slider__instance .sp-previous-arrow:hover {color: #ffffff;background-color: #282828;}.smart-slider__instance.invert .sp-arrow {background-color: #dd3333;color: #282828;}.smart-slider__instance.invert .sp-arrow:hover {background-color: #282828;;color: #dd3333;}.smart-slider__instance .sp-button{border-color: #282828;}.smart-slider__instance .sp-button.sp-selected-button {background-color: #282828;}.smart-slider__instance.invert .sp-button {border-color: #dd3333;}.smart-slider__instance.invert .sp-button.sp-selected-button {background-color: #dd3333;}.slider-pro p.sp-layer {color: #282828;}.smart-slider__instance.invert .sp-title a,.smart-slider__instance.invert .sp-title a:hover {color: #dd3333;}.smart-slider .invert .sp-content {color: #ffffff;}.slider-pro .sp-more a {color: #ffffff;border-color: #ffffff;}.slider-pro .sp-more a:hover {color: #282828;background-color: #ffffff;border-color: #ffffff;}.smart-slider .invert .sp-more a {color: #dd3333;border-color: #dd3333;}.smart-slider .invert .sp-more a:hover {color: #dd3333;border-color: #dd3333;box-shadow: inset 0 0 0 2px #dd3333;background-color: transparent;}.invert .instagram__cover {background-color: #282828;color: #dd3333;}.subscribe-block__input { color: #282828; }</style>		<style type="text/css" id="wp-custom-css">
+			.site-description {
+    font-family: Arial;
+    color: #ec0034!important;
+	padding-top:20px;
+	font-size:20px;
+	font-weight:600;
+	font-style:inherit;
+}
+.main-navigation .menu > li > a {
+    border-bottom: none;
+    margin: 1.85em .75em;
+    font-size: 12px;
+	}
+.widget > ul > li > a, .widget > ul > li > ul > li a {
+	font-size: 18px;
+}
+.post .entry-meta, .post .entry-meta a, .comment-metadata, .single .post span.post__comments {
+    display: none!important;
+}
+.post__cats a {
+    display: none!important;
+}
+.widget .entry-meta span a {
+    display: none!important;
+}.widget .entry-meta, .widget .entry-footer {
+    display: none!important;
+}.news-smart-box .mini-type .post__cats a {
+    display: none!important;
+}
+.news-smart-box .mini-type .post__cats {
+    margin-top: 11px;
+    display: none;
+	}.post-author__title {
+    display: none!important;
+}
+.post-author__avatar .avatar {
+    width: auto;
+    display: none!important;
+	}
+	.post-author__holder {
+    padding: 1em;
+    display: none!important;
+}
+	.post-author-bio {
+    margin: 2.2em 0 1.2em;
+    border-top: 3px solid;
+    display: none!important;
+}
+	.post-navigation__post-title {
+    font-style: normal;
+		color:#ee0000!important;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0px;
+}@media (min-width: 992px)
+{}	#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: left;
+    padding: 10px 0 10px 3%;
+    background-color: #e0e0e0!important;
+}
+.post .entry-content .btn {
+    color: #ff0000;
+    height: 40px;
+    width: 150px;
+}
+	.btn-primary {
+    border-color: #000000;
+		font-size:12px;
+		text-align:center!important;
+	}
+.news-smart-box .mini-type .post__cats a {
+    display: none!important;
+}
+.widget .entry-header .post__cats a {
+    display: none!important;
+	}
+	.single .post__cats {
+    margin-top: 0px;
+    display: none!important;
+}
+.site-header.centered .main-navigation::before {
+	height: 30px!important;
+    background: #000!important;
+    top: .2em!important;
+    left: -2000%;
+    content: '';
+    display: block;
+    z-index: 0;
+	}
+	.main-navigation {
+    display: block;
+    clear: both;
+    width: 100%;
+    position: relative;
+    max-height: 40px;
+    margin-bottom: 0px!important;
+		margin-top:0px!important;
+}
+.main-navigation.toggled ul#main-menu > li {
+    padding: 0px 0px 0px 0px;
+    border-top: 1px solid #494949;
+	}.main-navigation .menu > li > a {
+    border-bottom: none;
+    margin: 10px 10px;
+    font-size: 11px;
+	}
+.main-navigation .sub-menu a {
+    width: 16em;
+    padding: 1em 2.2em;
+    background-color: #333!important;
+}
+.main-navigation .sub-menu a {
+   background-color:#333!important;
+	font-size: 14px;
+    font-size: 0.875rem;
+    padding: 0.2em;
+    font-weight: 300;
+	}
+.header_search-wrap {
+	    width: calc(100% - 0px);
+    padding: 12px 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    position: relative;
+    left: 0;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+.swiper-button-next, .swiper-button-prev {
+    color: #fff;
+    background-color: #dd3333;
+    margin-top: -145px!important;
+}
+@media (max-width: 776px)
+	{.header_search-wrap {
+	background-color:#1c1c1c;
+		}		@media (max-width: 767px)
+{.menu-toggle {
+    display: block;
+}
+	@media (max-width: 776px)
+		{.header_search-wrap .top-panel__search .search-form .search-form__field[type='search'] {
+    width: 70%;
+    height: 30px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+   margin-left:135px;
+}
+			}}}		</style>
+		
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-161918346-19";</script>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(function(){
+	_gat._createTracker('UA-161918346-19', 'e');
+});
+_gaq.push(function(){
+	_gat._createTracker('UA-38339005-1', 'f');
+});
+_gaq.push(['e._setDomainName', 'thegloriousamerican.com']);
+_gaq.push(['f._setDomainName', 'thegloriousamerican.com']);
+_gaq.push(['e._setCustomVar',1,'template','pub_site_noads',3]);
+_gaq.push(['e._setCustomVar',2,'t','147',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod1',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','pub_site_noads',3]);
+_gaq.push(['f._setCustomVar',2,'domain','thegloriousamerican.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><base href="https://thegloriousamerican.com/2020-election/report-high-voter-turnout-of-dog-faced-pony-soldiers-could-spell-trouble-for-biden-campaign/%0A"><script type='text/javascript'>
+var ezoTemplate = 'pub_site_noads';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 187940;
+var ezdomain = 'thegloriousamerican.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>
+__ez.queue.addFile('__ezf_ezosuigeneris', '//g.ezoic.net/ezosuigeneris.js', true, [], true, false, false, false);
+var __ez_ezosuigenerisEvt = function() { if(typeof(ezosuigeneris) != 'undefined'){__ez.bit.AddAndFire(_ezaq['page_view_id'], [(new __ezDotData('universal_user_id', ezosuigeneris))]); }};
+__ez.queue.addFunc('__ez_ezosuigenerisEvt', '__ez_ezosuigenerisEvt', null, false, ['__ezf_ezosuigeneris','/detroitchicago/minneapolis.js','/detroitchicago/memphis.js'], false, false, false, false);</script><script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false' type='text/javascript' style='display:none'>__ez.queue.addFile('__ezf_ezosuigenerisc', '//g.ezoic.net/ezosuigenerisc.js?nogen=1', true, ["/detroitchicago/boise.js"], true, false, false, false);</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl(pvID, rv) {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_187940=" + new Date().getTime() + "|" + pvID + "|" + rv + "; " + expires, 3);
+}
+function attach_ezolpl(pvID, rv) {
+    if (document.readyState === "complete") {
+        create_ezolpl(pvID, rv);
+    }
+    if(window.attachEvent) {
+        window.attachEvent("onload", create_ezolpl, pvID, rv);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl(pvID, rv);
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl.bind(null, pvID, rv);
+        }
+    }
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["960f968f-7046-4ddd-7494-269b16b3f30e", "false"], false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head>
+
+<body class="error404 hfeed layout-fullwidth blog-default position-one-right-sidebar sidebar-1-4">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148151857-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-148151857-1');
+</script>
+
+<div class="page-preloader-cover">
+				<div class="tm-folding-cube">
+					<div class="loader">
+						<div class="wrapper">
+							<div class="cssload-loader"></div>
+						</div>
+					</div>
+				</div>
+			</div><div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header centered" role="banner">
+				
+<div class="top-panel">
+	<div class="top-panel_inner container">
+		<div class="top-panel__wrap"><div class="top-panel__message">Satire for the Right. And the Wrong.</div><div class="top-panel__menu"><ul id="menu-top" class="top-panel__menu-list inline-list"><li id="menu-item-1741" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1741"><a href="https://thegloriousamerican.com/">Home</a></li>
+<li id="menu-item-1742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1742"><a href="https://thegloriousamerican.com/about-d21/">About</a></li>
+</ul></div></div>
+	</div>
+</div><!-- .top-panel -->		<div class="header-container">
+			<div class="container">
+				<div class="header-container_wrap">
+						
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 header_social-wrap">
+		<ul id="" class="cnss-social-icon " style="text-align:left;"><li class="cn-fa-email" style="display:inline-block;"><a class="" target="_blank" href="mailto:editor@thegloriousamerican.com" title="Email" style=""><img src="https://thegloriousamerican.com/wp-content/uploads/2020/03/email-icon-black.png" border="0" width="40" height="40" alt="Email" title="Email" style="margin:3px;" /></a></li><li class="cn-fa-facebook" style="display:inline-block;"><a class="" target="_blank" href="https://www.facebook.com/GloriousAmerican/" title="Facebook" style=""><img src="https://thegloriousamerican.com/wp-content/uploads/2020/03/black-facebook-small.png" border="0" width="40" height="40" alt="Facebook" title="Facebook" style="margin:3px;" /></a></li><li class="cn-fa-twitter" style="display:inline-block;"><a class="" target="_blank" href="https://twitter.com/TheGloriousA" title="Twitter" style=""><img src="https://thegloriousamerican.com/wp-content/uploads/2020/03/black-twitter-icon.png" border="0" width="40" height="40" alt="Twitter" title="Twitter" style="margin:3px;" /></a></li></ul>	</div>
+
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 header_branding-wrap">
+		<div class="site-branding">
+			<div class="site-logo"><a class="site-logo__link" href="https://thegloriousamerican.com/" rel="home"><img src="https://thegloriousamerican.com/wp-content/uploads/2020/02/The-Glorious-American.cdr-1.cdr-final.png" alt="The Glorious American" class="site-link__img"  width="1396" height="411"></a></div>					</div>
+	</div>
+
+	<div class="col-md-4 col-lg-4 col-xl-4 header_search-wrap">
+		<div class="top-panel__search"><div class="search-form_wrap">
+	<form role="search" method="get" class="search-form" action="https://thegloriousamerican.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-form__field"
+			placeholder="Search &hellip;"
+			value="" name="s"
+			title="Search for:" />
+	</label>
+	<button type="submit" class="search-form__submit btn btn-primary"><i class="fa fa-search"></i></button>
+	</form>
+
+	<span class="close-btn"><a href="#" class="close-btn-link"><i class="fa fa-close"></i></a></span>
+	<span class="open-btn"><a href="#" class="open-btn-link btn btn-primary"><i class="fa fa-search"></i></a></span>
+</div></div>	</div>
+
+		<nav id="site-navigation" class="main-navigation invert" role="navigation">
+		<button class="menu-toggle" aria-controls="main-menu" aria-expanded="false">
+			<span class="menu-toggle__menu"> menu </span>
+		</button>
+		<ul id="main-menu" class="menu"><li id="menu-item-1365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1365"><a href="https://thegloriousamerican.com/category/faith/">Faith<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1359"><a href="https://thegloriousamerican.com/category/health/">Health<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1358"><a href="https://thegloriousamerican.com/category/u-s-news/">US News<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1367"><a href="https://thegloriousamerican.com/category/sports/">Sports<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1368"><a href="https://thegloriousamerican.com/category/studiesscience/">Studies &#038; Science<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1362"><a href="https://thegloriousamerican.com/category/entertainment/">Entertainment<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1364"><a href="https://thegloriousamerican.com/category/trump/">Trump<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1357"><a href="https://thegloriousamerican.com/category/2020-election/">2020 Election<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1363"><a href="https://thegloriousamerican.com/category/economic/">Economic<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1360"><a href="https://thegloriousamerican.com/category/mediatech/">Media &#038; Tech<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1361"><a href="https://thegloriousamerican.com/category/worldweather/">World &#038; Weather<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+<li id="menu-item-1671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1671"><a href="https://thegloriousamerican.com/category/law/">Law<a class="sublinklink"><i class="material-icons">keyboard_arrow_down</i></a></a></li>
+</ul>	</nav><!-- #site-navigation -->
+	</div>
+				</div>
+			</div>
+		</div><!-- .header-container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	
+	
+	<div class="container">
+
+		
+		<div class="row">
+
+			<div id="primary" class="col-xs-12 col-md-12">
+
+				
+				<main id="main" class="site-main" role="main">
+
+					
+<section class="error-404 not-found">
+	<header class="page-header">
+		<h5 class="page-title">Page 404</h5>
+	</header><!-- .page-header -->
+
+	<div class="page-content">
+		<p>The page not found.</p>
+		<p><a class="btn btn-primary" href="https://thegloriousamerican.com/">Visit home page</a></p>
+		<div class="error-404_delimiter"></div>
+		<p class="desc_404">Unfortunately the page you were looking for could not be found. Maybe search can help.</p>
+
+		<div class="search-form_wrap">
+	<form role="search" method="get" class="search-form" action="https://thegloriousamerican.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-form__field"
+			placeholder="Search &hellip;"
+			value="" name="s"
+			title="Search for:" />
+	</label>
+	<button type="submit" class="search-form__submit btn btn-primary"><i class="fa fa-search"></i></button>
+	</form>
+
+	<span class="close-btn"><a href="#" class="close-btn-link"><i class="fa fa-close"></i></a></span>
+	<span class="open-btn"><a href="#" class="open-btn-link btn btn-primary"><i class="fa fa-search"></i></a></span>
+</div>
+	</div><!-- .page-content -->
+</section><!-- .error-404 -->
+				</main><!-- #main -->
+
+				
+			</div><!-- #primary -->
+
+			
+			
+		</div><!-- .row -->
+
+		
+	</div><!-- .container -->
+
+	
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer minimal" role="contentinfo">
+		
+<div class="footer-area-wrap invert">
+	<div class="container">
+			</div>
+</div>
+
+<div class="footer-container invert">
+	<div class="container">
+		<div class="site-info">
+			<div class="site-info__flex">
+				<div class="footer-logo"><a href="https://thegloriousamerican.com/" class="footer-logo_link"><img src="https://thegloriousamerican.com/wp-content/uploads/2020/02/The-Glorious-American.cdr-1-footer.png" alt="The Glorious American" class="footer-logo_img"  width="350" height="103"></a></div>				<div class="footer-copyright">2020 (c) The Glorious American. All Rights Reserved <a href="https://thegloriousamerican.com/privacy-policy/">Privacy Policy</a></div>	<nav id="footer-navigation" class="footer-menu" role="navigation">
+		</nav><!-- #footer-navigation -->
+					
+				
+				
+				
+			</div>
+		</div><!-- .site-info -->
+	</div>
+</div><!-- .container -->	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+        <script type="text/javascript">
+            (function(){
+                document.addEventListener('DOMContentLoaded', function(){
+                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                    if ( wpp_widgets ) {
+                        for (let i = 0; i < wpp_widgets.length; i++) {
+                            let wpp_widget = wpp_widgets[i];
+                            WordPressPopularPosts.theme(wpp_widget);
+                        }
+                    }
+                });
+            })();
+        </script>
+                <script>
+            var WPPImageObserver = null;
+
+            function wpp_load_img(img) {
+                if ( ! 'imgSrc' in img.dataset || ! img.dataset.imgSrc )
+                    return;
+
+                img.src = img.dataset.imgSrc;
+
+                if ( 'imgSrcset' in img.dataset ) {
+                    img.srcset = img.dataset.imgSrcset;
+                    img.removeAttribute('data-img-srcset');
+                }
+
+                img.classList.remove('wpp-lazyload');
+                img.removeAttribute('data-img-src');
+                img.classList.add('wpp-lazyloaded');
+            }
+
+            function wpp_observe_imgs(){
+                let wpp_images = document.querySelectorAll('img.wpp-lazyload'),
+                    wpp_widgets = document.querySelectorAll('.popular-posts-sr');
+
+                if ( wpp_images.length || wpp_widgets.length ) {
+                    if ( 'IntersectionObserver' in window ) {
+                        WPPImageObserver = new IntersectionObserver(function(entries, observer) {
+                            entries.forEach(function(entry) {
+                                if (entry.isIntersecting) {
+                                    let img = entry.target;
+                                    wpp_load_img(img);
+                                    WPPImageObserver.unobserve(img);
+                                }
+                            });
+                        });
+
+                        if ( wpp_images.length ) {
+                            wpp_images.forEach(function(image) {
+                                WPPImageObserver.observe(image);
+                            });
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var i = 0; i < wpp_widgets.length; i++) {
+                                let wpp_widget_images = wpp_widgets[i].querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widgets[i].shadowRoot ) {
+                                    wpp_widget_images = wpp_widgets[i].shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    wpp_widget_images.forEach(function(image) {
+                                        WPPImageObserver.observe(image);
+                                    });
+                                }
+                            }
+                        }
+                    } /** Fallback for older browsers */
+                    else {
+                        if ( wpp_images.length ) {
+                            for (var i = 0; i < wpp_images.length; i++) {
+                                wpp_load_img(wpp_images[i]);
+                                wpp_images[i].classList.remove('wpp-lazyloaded');
+                            }
+                        }
+
+                        if ( wpp_widgets.length ) {
+                            for (var j = 0; j < wpp_widgets.length; j++) {
+                                let wpp_widget = wpp_widgets[j],
+                                    wpp_widget_images = wpp_widget.querySelectorAll('img.wpp-lazyload');
+
+                                if ( ! wpp_widget_images.length && wpp_widget.shadowRoot ) {
+                                    wpp_widget_images = wpp_widget.shadowRoot.querySelectorAll('img.wpp-lazyload');
+                                }
+
+                                if ( wpp_widget_images.length ) {
+                                    for (var k = 0; k < wpp_widget_images.length; k++) {
+                                        wpp_load_img(wpp_widget_images[k]);
+                                        wpp_widget_images[k].classList.remove('wpp-lazyloaded');
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+                wpp_observe_imgs();
+
+                // When an ajaxified WPP widget loads,
+                // Lazy load its images
+                document.addEventListener('wpp-onload', function(){
+                    wpp_observe_imgs();
+                });
+            });
+        </script>
+        <script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_load_style = ["cnss_font_awesome_css.css","cnss_font_awesome_v4_shims.css","cnss_css.css","jquery-swiper.css","wp-block-library.css","quads-style-css.css","ezoic-integration.css","mc4wp-form-themes.css","wordpress-popular-posts-css.css","waylard-theme-style.css","waylard-fonts.css","cherry-google-fonts.css","addtoany.css","quads-styles.css"];
+var wp_load_script = ["jquery.js","jquery-ui-sortable.js","cnss_js.js","cherry-js-core.js","jquery-swiper.js","addtoany.js","wpp-js.js","waylard-theme-script.js","cherry-post-formats.js"];
+var cherry_ajax = "33175267c0";
+var ui_init_object = {"auto_init":"false","targets":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/cherry-framework//modules/cherry-js-core/assets/js/min/cherry-js-core.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/assets/js/swiper.jquery.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/assets/js/super-guacamole.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/assets/js/jquery.stickup.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/assets/js/jquery.ui.totop.min.js?ver=1.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var waylard = {"ajaxurl":"https:\/\/thegloriousamerican.com\/wp-admin\/admin-ajax.php","labels":{"totop_button":"","hidden_menu_items_title":"More"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/assets/js/theme-script.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-content/themes/waylard/cherry-framework/modules/cherry-post-formats-api/assets/js/min/cherry-post-formats.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://thegloriousamerican.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+
+<script type="text/javascript" style='display:none;'>var __ez_dims = (function() {
+		var setCookie = function( name, content, expiry ) {
+			return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+		};
+		var ffid = 1;
+		var oh = window.screen.height;
+		var ow = window.screen.width;
+		var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+		var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+		var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+		var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+		setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+		setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+	})();</script><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '//g.ezoic.net/detroitchicago/edmonton.webp?a=a&cb=191-2&shcb=34', true, ['/detroitchicago/minneapolis.js'], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//g.ezoic.net/porpoiseant/jellyfish.webp?a=a&cb=191-2&shcb=34', false, [], true, false, false, false);
+</script>
+
+<script type='text/javascript' data-cfasync='false'></script></body>
+</html>

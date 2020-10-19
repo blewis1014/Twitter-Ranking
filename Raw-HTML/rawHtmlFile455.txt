@@ -1,0 +1,1223 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://jobs20.in/xmlrpc.php" />
+<meta property="og:title" content="WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts - Govt Jobs 2020" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western" />
+<meta property="og:url" content="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/" />
+<meta property="og:site_name" content="Govt Jobs 2020" />
+
+<title>WCL Recruitment 2020-21 Nagpur Latest Jobs Vacancy Western Coalfields Limited</title>
+<meta name="description" content="WCL Recruitment 2020, WCL Employee list, WCL Online Application Form, Graduate/ Technician Apprentice, Apprenticeship, WCL Nagpur Vacancy 2020, Sarkari Job Nagpur, Maharashtra Government Jobs 2020" />
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+<link rel="canonical" href="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/" />
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="WCL Recruitment 2020-21 Nagpur Latest Jobs Vacancy Western Coalfields Limited">
+<meta property="og:description" content="WCL Recruitment 2020, WCL Employee list, WCL Online Application Form, Graduate/ Technician Apprentice, Apprenticeship, WCL Nagpur Vacancy 2020, Sarkari Job Nagpur, Maharashtra Government Jobs 2020">
+<meta property="og:url" content="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/">
+<meta property="og:site_name" content="Govt Jobs 2020">
+<meta property="article:tag" content="Apprentice Recruitment">
+<meta property="article:tag" content="Sarkari Naukri">
+<meta property="article:section" content="Jobs in Nagpur">
+<meta property="article:published_time" content="2020-10-17T08:20:03+05:30">
+<meta property="article:modified_time" content="2020-10-17T08:21:05+05:30">
+<meta property="og:updated_time" content="2020-10-17T08:21:05+05:30">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="WCL Recruitment 2020-21 Nagpur Latest Jobs Vacancy Western Coalfields Limited">
+<meta name="twitter:description" content="WCL Recruitment 2020, WCL Employee list, WCL Online Application Form, Graduate/ Technician Apprentice, Apprenticeship, WCL Nagpur Vacancy 2020, Sarkari Job Nagpur, Maharashtra Government Jobs 2020">
+<meta name="twitter:site" content="@https://twitter.com/Jobs207">
+<meta name="twitter:creator" content="@https://twitter.com/Jobs207">
+<script type="application/ld+json" class="rank-math-schema">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://jobs20.in/#organization",
+            "name": "Govt Jobs 2020",
+            "url": "https://jobs20.in",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://jobs20.in/wp-content/uploads/2020/10/Jobs20-Latest-8th-10th-12th-Pass-Govt-Job-Career-Vacancy.png"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://jobs20.in/#website",
+            "url": "https://jobs20.in",
+            "name": "Govt Jobs 2020",
+            "publisher": {
+                "@id": "https://jobs20.in/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://jobs20.in/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/#webpage",
+            "url": "https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/",
+            "name": "WCL Recruitment 2020-21 Nagpur Latest Jobs Vacancy Western Coalfields Limited",
+            "datePublished": "2020-10-17T08:20:03+05:30",
+            "dateModified": "2020-10-17T08:21:05+05:30",
+            "isPartOf": {
+                "@id": "https://jobs20.in/#website"
+            },
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "JobPosting",
+            "title": "WCL Recruitment 2020 Nagpur Computer Operator and Programming Assistant Jobs Vacancy",
+            "description": "WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited\nNotification for Inviting applications for Trade Apprentices for Apprenticeship Training under the Apprentices Act 1961 and NAPS at the establishment Skill Development Centre, Nagpur (WCL\n\nWCL Recruitment 2020-21 Nagpur Western Coalfields Limited Jobs Vacancy. There is a latest jobs Notification has announced by the Western Coalfields Limited (WCL), Nagpur, Maharashtra. Interested candidates who fulfilling essential qualification may Apply Online for the Computer Operator and Programming Assistant Posts in WCL On or Before 24th November, 2020.",
+            "baseSalary": {
+                "@type": "MonetaryAmount",
+                "currency": "INR",
+                "value": {
+                    "@type": "QuantitativeValue",
+                    "value": "8000-9000",
+                    "unitText": "MONTH"
+                }
+            },
+            "datePosted": "2020-10-17",
+            "validThrough": "2020-11-24",
+            "employmentType": [
+                "FULL_TIME"
+            ],
+            "hiringOrganization": {
+                "@type": "Organization",
+                "name": "western coalfields - WCL",
+                "sameAs": "http://www.westerncoal.in/"
+            },
+            "jobLocation": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "WCL Nagpur Maharashtra",
+                    "addressLocality": "Nagpur",
+                    "addressRegion": "Maharashtra",
+                    "postalCode": "440001",
+                    "addressCountry": "India"
+                }
+            },
+            "@id": "https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/#schema-50749",
+            "mainEntityOfPage": {
+                "@id": "https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/#webpage"
+            }
+        }
+    ]
+}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Govt Jobs 2020 &raquo; Feed" href="https://jobs20.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Govt Jobs 2020 &raquo; Comments Feed" href="https://jobs20.in/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Govt Jobs 2020 &raquo; WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts Comments Feed" href="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jobs20.in\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://jobs20.in/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-email-sub-style-css' href='https://jobs20.in/wp-content/plugins/wp-feedburner-email-subscriber/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-icomoon-css' href='https://jobs20.in/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css' href='https://jobs20.in/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 105%;}
+</style>
+<link rel='stylesheet' id='tie-style-css' href='https://jobs20.in/wp-content/themes/sahifa/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-ilightbox-skin-css' href='https://jobs20.in/wp-content/themes/sahifa/css/ilightbox/dark-skin/skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Droid+Sans-css' href='https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700' type='text/css' media='all' />
+<script type='text/javascript' src='https://jobs20.in/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://jobs20.in/wp-json/" /><link rel="alternate" type="application/json" href="https://jobs20.in/wp-json/wp/v2/posts/2414" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jobs20.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jobs20.in/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://jobs20.in/?p=2414' />
+<link rel="alternate" type="application/json+oembed" href="https://jobs20.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjobs20.in%2Fwcl-recruitment-nagpur-western-coalfields-limited-online%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jobs20.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjobs20.in%2Fwcl-recruitment-nagpur-western-coalfields-limited-online%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://jobs20.in/wp-content/uploads/2019/12/android-chrome-512x512-1.png" title="Favicon" />
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://jobs20.in/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="https://jobs20.in/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://jobs20.in/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://jobs20.in/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://jobs20.in/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="google-site-verification" content="cMoAE1QcBDRmbtnxkJLuFwWY2xqyhG-fKHNvCCeljAU" />
+<script data-ad-client="ca-pub-5316800217193180" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<style type="text/css" media="screen">
+
+body{
+	font-family: 'Droid Sans';
+	font-size : 14px;
+}
+
+p.post-meta, p.post-meta a{
+	color :#171617;
+}
+
+#main-nav,
+.cat-box-content,
+#sidebar .widget-container,
+.post-listing,
+#commentform {
+	border-bottom-color: #37b8eb;
+}
+
+.search-block .search-button,
+#topcontrol,
+#main-nav ul li.current-menu-item a,
+#main-nav ul li.current-menu-item a:hover,
+#main-nav ul li.current_page_parent a,
+#main-nav ul li.current_page_parent a:hover,
+#main-nav ul li.current-menu-parent a,
+#main-nav ul li.current-menu-parent a:hover,
+#main-nav ul li.current-page-ancestor a,
+#main-nav ul li.current-page-ancestor a:hover,
+.pagination span.current,
+.share-post span.share-text,
+.flex-control-paging li a.flex-active,
+.ei-slider-thumbs li.ei-slider-element,
+.review-percentage .review-item span span,
+.review-final-score,
+.button,
+a.button,
+a.more-link,
+#main-content input[type="submit"],
+.form-submit #submit,
+#login-form .login-button,
+.widget-feedburner .feedburner-subscribe,
+input[type="submit"],
+#buddypress button,
+#buddypress a.button,
+#buddypress input[type=submit],
+#buddypress input[type=reset],
+#buddypress ul.button-nav li a,
+#buddypress div.generic-button a,
+#buddypress .comment-reply-link,
+#buddypress div.item-list-tabs ul li a span,
+#buddypress div.item-list-tabs ul li.selected a,
+#buddypress div.item-list-tabs ul li.current a,
+#buddypress #members-directory-form div.item-list-tabs ul li.selected span,
+#members-list-options a.selected,
+#groups-list-options a.selected,
+body.dark-skin #buddypress div.item-list-tabs ul li a span,
+body.dark-skin #buddypress div.item-list-tabs ul li.selected a,
+body.dark-skin #buddypress div.item-list-tabs ul li.current a,
+body.dark-skin #members-list-options a.selected,
+body.dark-skin #groups-list-options a.selected,
+.search-block-large .search-button,
+#featured-posts .flex-next:hover,
+#featured-posts .flex-prev:hover,
+a.tie-cart span.shooping-count,
+.woocommerce span.onsale,
+.woocommerce-page span.onsale ,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle,
+#check-also-close,
+a.post-slideshow-next,
+a.post-slideshow-prev,
+.widget_price_filter .ui-slider .ui-slider-handle,
+.quantity .minus:hover,
+.quantity .plus:hover,
+.mejs-container .mejs-controls .mejs-time-rail .mejs-time-current,
+#reading-position-indicator  {
+	background-color:#37b8eb;
+}
+
+::-webkit-scrollbar-thumb{
+	background-color:#37b8eb !important;
+}
+
+#theme-footer,
+#theme-header,
+.top-nav ul li.current-menu-item:before,
+#main-nav .menu-sub-content ,
+#main-nav ul ul,
+#check-also-box {
+	border-top-color: #37b8eb;
+}
+
+.search-block:after {
+	border-right-color:#37b8eb;
+}
+
+body.rtl .search-block:after {
+	border-left-color:#37b8eb;
+}
+
+#main-nav ul > li.menu-item-has-children:hover > a:after,
+#main-nav ul > li.mega-menu:hover > a:after {
+	border-color:transparent transparent #37b8eb;
+}
+
+.widget.timeline-posts li a:hover,
+.widget.timeline-posts li a:hover span.tie-date {
+	color: #37b8eb;
+}
+
+.widget.timeline-posts li a:hover span.tie-date:before {
+	background: #37b8eb;
+	border-color: #37b8eb;
+}
+
+#order_review,
+#order_review_heading {
+	border-color: #37b8eb;
+}
+
+
+a {
+	color: #1faef0;
+}
+		
+body.single .post .entry a, body.page .post .entry a {
+	color: #13a6f5;
+}
+		
+.breaking-news span.breaking-news-title {background: #099ade;}
+
+</style>
+<script type="text/javascript">
+			/* <![CDATA[ */
+				var sf_position = '0';
+				var sf_templates = "<a href=\"{search_url_escaped}\">View All Results<\/a>";
+				var sf_input = '.search-live';
+				jQuery(document).ready(function(){
+					jQuery(sf_input).ajaxyLiveSearch({"expand":false,"searchUrl":"https:\/\/jobs20.in\/?s=%s","text":"Search","delay":500,"iwidth":180,"width":315,"ajaxUrl":"https:\/\/jobs20.in\/wp-admin\/admin-ajax.php","rtl":0});
+					jQuery(".live-search_ajaxy-selective-input").keyup(function() {
+						var width = jQuery(this).val().length * 8;
+						if(width < 50) {
+							width = 50;
+						}
+						jQuery(this).width(width);
+					});
+					jQuery(".live-search_ajaxy-selective-search").click(function() {
+						jQuery(this).find(".live-search_ajaxy-selective-input").focus();
+					});
+					jQuery(".live-search_ajaxy-selective-close").click(function() {
+						jQuery(this).parent().remove();
+					});
+				});
+			/* ]]> */
+		</script>
+<link rel="icon" href="https://jobs20.in/wp-content/uploads/2019/12/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jobs20.in/wp-content/uploads/2019/12/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://jobs20.in/wp-content/uploads/2019/12/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jobs20.in/wp-content/uploads/2019/12/cropped-android-chrome-512x512-1-270x270.png" />
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e9d3bcf3650cb7a"></script>
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+<body data-rsssl=1 id="top" class="post-template-default single single-post postid-2414 single-format-standard lazy-enabled">
+<div class="wrapper-outer">
+<div class="background-cover"></div>
+<aside id="slide-out">
+<div class="search-mobile">
+<form method="get" id="searchform-mobile" action="https://jobs20.in/">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input type="text" id="s-mobile" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+</form>
+</div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://jobs20.in/feed/" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/Jobs207" target="_blank"><i class="fa fa-twitter"></i></a>
+</div>
+<div id="mobile-menu"></div>
+</aside>
+<div id="wrapper" class="boxed">
+<div class="inner-wrapper">
+<header id="theme-header" class="theme-header">
+<div id="top-nav" class="top-nav">
+<div class="container">
+<span class="today-date">Sunday , October 18 2020</span>
+<div class="top-menu"><ul id="menu-privacy-menu" class="menu"><li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="https://jobs20.in/about-us/">about us</a></li>
+<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://jobs20.in/contact-us/">Contact Us</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://jobs20.in/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-683"><a href="https://jobs20.in/privacy-policy/">Privacy Policy</a></li>
+</ul></div>
+<div class="search-block">
+<form method="get" id="searchform-header" action="https://jobs20.in/">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input class="search-live" type="text" id="s-header" name="s" title="Search" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}" />
+</form>
+</div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://jobs20.in/feed/" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/Jobs207" target="_blank"><i class="fa fa-twitter"></i></a>
+</div>
+</div>
+</div>
+<div class="header-content">
+<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+<div class="logo" style=" margin-top:15px; margin-bottom:15px;">
+<h2> <a title="Govt Jobs 2020" href="https://jobs20.in/">
+<img src="https://jobs20.in/wp-content/uploads/2020/01/Jobs20-pmg-1.png" alt="Govt Jobs 2020" /><strong>Govt Jobs 2020 Latest Career Notifications for Government Jobs in India</strong>
+</a>
+</h2> </div>
+<div class="e3lan e3lan-top"> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5316800217193180" data-ad-slot="7588573531" data-ad-format="link" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div> <div class="clear"></div>
+</div>
+<nav id="main-nav" class="fixed-enabled">
+<div class="container">
+<div class="main-menu"><ul id="menu-home" class="menu"><li id="menu-item-1835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1835"><a href="https://jobs20.in/">Home</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="https://jobs20.in/8th-pass-job/">8th Pass Job</a></li>
+<li id="menu-item-88" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-88"><a href="https://jobs20.in/10th-pass-job/">10th Pass Job</a></li>
+<li id="menu-item-93" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-93"><a href="https://jobs20.in/iti-jobs/">ITI Jobs</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-89"><a href="https://jobs20.in/12th-pass-job/">12th Pass Job</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-92"><a href="https://jobs20.in/graduate-jobs/">Graduate Jobs</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-91"><a href="https://jobs20.in/bank-recruitment/">Bank Recruitment</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349"><a href="https://jobs20.in/railway-recruitment/">Railway Recruitment</a></li>
+<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358"><a href="https://jobs20.in/army-recruitment-rally/">Army Recruitment Rally</a></li>
+</ul></div> <a href="https://jobs20.in/?tierand=1" class="random-article ttip" title="Random Article"><i class="fa fa-random"></i></a>
+</div>
+</nav>
+</header>
+<div class="clear"></div>
+<div id="breaking-news" class="breaking-news">
+<span class="breaking-news-title"><i class="fa fa-bolt"></i> <span>New Jobs Opening</span></span>
+<ul>
+<li><a href="https://jobs20.in/general-insurance-corporation-of-india-recruitment-gic/" title="General Insurance Corporation of India Recruitment 2020-21 Actuarial Apprentices Posts">General Insurance Corporation of India Recruitment 2020-21 Actuarial Apprentices Posts</a></li>
+<li><a href="https://jobs20.in/iit-hyderabad-recruitment-vancancy/" title="IIT Hyderabad Recruitment 2020-21 Apply For Work Inspector Jobs Vacancy">IIT Hyderabad Recruitment 2020-21 Apply For Work Inspector Jobs Vacancy</a></li>
+<li><a href="https://jobs20.in/national-school-of-drama-nsd-recruitment-jobs-vacancy/" title="National School of Drama Recruitment 2020-21 Apply For Librarian, LDC, UDC &#038; Others Posts">National School of Drama Recruitment 2020-21 Apply For Librarian, LDC, UDC &#038; Others Posts</a></li>
+<li><a href="https://jobs20.in/tnau-recruitment-agricultural-university-coimbatore-jobs/" title="TNAU Recruitment 2020-21 Apply for Programme Assistant, Driver &#038; Other Posts">TNAU Recruitment 2020-21 Apply for Programme Assistant, Driver &#038; Other Posts</a></li>
+<li><a href="https://jobs20.in/msme-tool-room-hyderabad-recruitment-citd-jobs-vacancy/" title="MSME Tool Room Hyderabad Recruitment 2020-21 Apply for Stipendiary Trainee Posts">MSME Tool Room Hyderabad Recruitment 2020-21 Apply for Stipendiary Trainee Posts</a></li>
+<li><a href="https://jobs20.in/kolkata-niced-recruitment-jobs-career-vacancy/" title="NICED Recruitment 2020-21 Apply for Senior Research Fellow Posts">NICED Recruitment 2020-21 Apply for Senior Research Fellow Posts</a></li>
+<li><a href="https://jobs20.in/sai-sports-authority-of-india-recruitment/" title="Sports Authority of India Recruitment 2020 Apply For Sports Medicine Doctor Posts">Sports Authority of India Recruitment 2020 Apply For Sports Medicine Doctor Posts</a></li>
+<li><a href="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/" title="WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts">WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts</a></li>
+<li><a href="https://jobs20.in/upsc-exam-foreman-senior-assistant-professor-posts/" title="UPSC Foreman, Senior Scientific Assistant, Assistant Professor Exam 2020 Apply Online for 44 Posts">UPSC Foreman, Senior Scientific Assistant, Assistant Professor Exam 2020 Apply Online for 44 Posts</a></li>
+<li><a href="https://jobs20.in/supreme-court-of-india-recruitment-sci-jobs-vacancy/" title="Supreme Court of India Recruitment 2020-21 Apply For Branch Officer &#038; Junior Court Assistant Jobs">Supreme Court of India Recruitment 2020-21 Apply For Branch Officer &#038; Junior Court Assistant Jobs</a></li>
+</ul>
+<script type="text/javascript">
+			jQuery(document).ready(function(){
+								jQuery('#breaking-news ul').innerFade({animationType: 'fade', speed: 750 , timeout: 3500});
+							});
+					</script>
+</div> 
+<div id="main-content" class="container">
+<div class="content">
+<nav id="crumbs"><a href="https://jobs20.in/"><span class="fa fa-home" aria-hidden="true"></span> Home</a><span class="delimiter">&raquo;</span><a href="https://jobs20.in/maharashtra/">Maharashtra</a><span class="delimiter">&raquo;</span><a href="https://jobs20.in/maharashtra/jobs-in-nagpur/">Jobs in Nagpur</a><span class="delimiter">&raquo;</span><span class="current">WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts</span></nav><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","@id":"#Breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/jobs20.in\/"}},{"@type":"ListItem","position":2,"item":{"name":"Maharashtra","@id":"https:\/\/jobs20.in\/maharashtra\/"}},{"@type":"ListItem","position":3,"item":{"name":"Jobs in Nagpur","@id":"https:\/\/jobs20.in\/maharashtra\/jobs-in-nagpur\/"}}]}</script>
+<article class="post-listing post-2414 post type-post status-publish format-standard  category-jobs-in-nagpur category-10th-pass-job category-12th-pass-job category-diploma-job category-engineer-recruitment category-graduate-jobs category-iti-jobs category-maharashtra category-technician-jobs tag-apprentice-recruitment tag-sarkari-naukri" id="the-post">
+<div class="post-inner">
+<h1 class="name post-title entry-title"><span itemprop="name">WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts</span></h1>
+<p class="post-meta">
+<span class="post-meta-author"><i class="fa fa-user"></i><a href="https://jobs20.in/author/govtjobalert/" title="">Government Jobalert </a></span>
+<span class="tie-date"><i class="fa fa-clock-o"></i>October 17, 2020</span>
+<span class="post-cats"><i class="fa fa-folder"></i><a href="https://jobs20.in/maharashtra/jobs-in-nagpur/" rel="category tag">Jobs in Nagpur</a>, <a href="https://jobs20.in/10th-pass-job/" rel="category tag">10th Pass Job</a>, <a href="https://jobs20.in/12th-pass-job/" rel="category tag">12th Pass Job</a>, <a href="https://jobs20.in/diploma-job/" rel="category tag">Diploma Job</a>, <a href="https://jobs20.in/engineer-recruitment/" rel="category tag">Engineer Recruitment</a>, <a href="https://jobs20.in/graduate-jobs/" rel="category tag">Graduate Jobs</a>, <a href="https://jobs20.in/iti-jobs/" rel="category tag">ITI Jobs</a>, <a href="https://jobs20.in/maharashtra/" rel="category tag">Maharashtra</a>, <a href="https://jobs20.in/technician-jobs/" rel="category tag">Technician Jobs</a></span>
+<span class="post-comments"><i class="fa fa-comments"></i><a href="https://jobs20.in/wcl-recruitment-nagpur-western-coalfields-limited-online/#respond">Leave a comment</a></span>
+<span class="post-views"><i class="fa fa-eye"></i>359 Views</span> </p>
+<div class="clear"></div>
+<div class="entry">
+<div id="ez-toc-container" class="ez-toc-v2_0_11 counter-hierarchy counter-decimal ez-toc-light-blue">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title">Highlights of the Current Recruitment Notification:</p>
+<span class="ez-toc-title-toggle"><a class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"><i class="ez-toc-glyphicon ez-toc-icon-toggle"></i></a></span></div>
+<nav><ul class="ez-toc-list ez-toc-list-level-1"><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-1" href="#WCL_Recruitment_2020_Apply_Online_for_Computer_Operator_and_Programming_Assistant_Vacancy_in_Western_Coalfields_Limited" title="WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited">WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-2" href="#Western_Coalfields_Limited_Recruitment_2020_Complete_Details" title="Western Coalfields Limited Recruitment 2020 Complete Details">Western Coalfields Limited Recruitment 2020 Complete Details</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-3" href="#Educational_Qualification_for_WCL_Recruitment_2020" title="Educational Qualification for WCL Recruitment 2020:">Educational Qualification for WCL Recruitment 2020:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-4" href="#Stipend" title="Stipend:">Stipend:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-5" href="#Selection_Process" title="Selection Process:">Selection Process:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-6" href="#How_to_Apply_for_Nagpur_WCL_Jobs_202021" title="How to Apply for Nagpur WCL Jobs 2020-21">How to Apply for Nagpur WCL Jobs 2020-21</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-7" href="#WCL_Nagpur_Jobs_2020_Important_Dates" title="WCL Nagpur Jobs 2020 Important Dates">WCL Nagpur Jobs 2020 Important Dates</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-8" href="#Find_Other_Latest_Government_Jobs_2020" title="Find Other Latest Government Jobs 2020">Find Other Latest Government Jobs 2020</a></li></ul></li><li class="ez-toc-page-1 ez-toc-heading-level-2"><a class="ez-toc-link ez-toc-heading-9" href="#WCL_Jobs_Career_Notification_2020_Apply_Online_for_Graduate/_Technician_Apprentice_Vacancy_in_Western_Coalfields_Limited" title="WCL Jobs Career Notification 2020 Apply Online for Graduate/ Technician Apprentice Vacancy in Western Coalfields Limited">WCL Jobs Career Notification 2020 Apply Online for Graduate/ Technician Apprentice Vacancy in Western Coalfields Limited</a><ul class="ez-toc-list-level-3"><li class="ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-10" href="#Western_Coalfields_Limited_Recruitment_2020_Complete_Details-2" title="Western Coalfields Limited Recruitment 2020 Complete Details">Western Coalfields Limited Recruitment 2020 Complete Details</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-11" href="#Educational_Qualification_for_WCL_Recruitment_2020-2" title="Educational Qualification for WCL Recruitment 2020:">Educational Qualification for WCL Recruitment 2020:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-12" href="#Stipend-2" title="Stipend:">Stipend:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-13" href="#Place_of_Apprenticeship" title="Place of Apprenticeship:">Place of Apprenticeship:</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-14" href="#How_to_Apply_for_WCL_Jobs_202021" title="How to Apply for WCL Jobs 2020-21">How to Apply for WCL Jobs 2020-21</a></li><li class="ez-toc-page-1 ez-toc-heading-level-3"><a class="ez-toc-link ez-toc-heading-15" href="#WCL_Nagpur_Jobs_2020_Important_Dates-2" title="WCL Nagpur Jobs 2020 Important Dates">WCL Nagpur Jobs 2020 Important Dates</a></li></ul></li></ul></nav></div>
+<h2><span class="ez-toc-section" id="WCL_Recruitment_2020_Apply_Online_for_Computer_Operator_and_Programming_Assistant_Vacancy_in_Western_Coalfields_Limited"></span><span style="font-family: verdana, geneva, sans-serif;">WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited</span><span class="ez-toc-section-end"></span></h2>
+<p><span style="font-family: verdana, geneva, sans-serif;">Notification for Inviting applications for Trade Apprentices for Apprenticeship Training under the Apprentices Act 1961 and NAPS at the establishment Skill Development Centre, Nagpur (WCL</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;"><strong>WCL Recruitment 2020-21 Nagpur Western Coalfields Limited Jobs Vacancy</strong>. There is a latest jobs Notification has announced by the Western Coalfields Limited (WCL), Nagpur, Maharashtra. Interested candidates who fulfilling essential qualification may Apply Online for the Computer Operator and Programming Assistant Posts in WCL On or Before 24th November, 2020.</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">Read all the details and requirements for the Western Coalfields Limited Recruitment 2020-21 Job openings application form, age limit, minimum qualification, number of vacancies, pay scale, selection Process and apply accordingly.</span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h3><span class="ez-toc-section" id="Western_Coalfields_Limited_Recruitment_2020_Complete_Details"></span><span style="font-family: verdana, geneva, sans-serif;">Western Coalfields Limited Recruitment 2020 Complete Details</span><span class="ez-toc-section-end"></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Name of the Post</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Number of Seats</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Computer Operator and Programming Assistant</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">06 Posts</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Last Date</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">24-11-2020</span></td>
+</tr>
+</tbody>
+</table>
+<h3><span class="ez-toc-section" id="Educational_Qualification_for_WCL_Recruitment_2020"></span><span style="font-family: verdana, geneva, sans-serif;">Educational Qualification for WCL Recruitment 2020:</span><span class="ez-toc-section-end"></span></h3>
+<ol>
+<li><span style="font-family: verdana, geneva, sans-serif;"><strong>For Computer Operator and Programming Assistant:</strong> ITI in Computer Operator and Programming Assistant.</span></li>
+<li><span style="font-family: verdana, geneva, sans-serif;">Domicile from Nagpur District shall be given first preference in selection. Candidates from other district of Maharashtra shall be given second preference and candidates outside Maharashtra shall be given third preference</span></li>
+</ol>
+<p><span style="font-family: verdana, geneva, sans-serif;"><strong>Period of Apprenticeship Training: </strong></span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">Period of Apprenticeship Training Shall be 12 Months from Commencing of the Contract of Apprenticeship.</span></p>
+<h3><span class="ez-toc-section" id="Stipend"></span><span style="font-family: verdana, geneva, sans-serif;">Stipend:</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Monthly Stipend to the Apprentices from the date of engagement shall be paid as below:</span></p>
+<ol>
+<li><span style="font-family: verdana, geneva, sans-serif;">Monthly Rate of Stipend Rs.7700/-</span></li>
+</ol>
+<h3><span class="ez-toc-section" id="Selection_Process"></span><span style="font-family: verdana, geneva, sans-serif;">Selection Process:</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Selection shall be made based on the percentage of marks obtained in the qualifying examination.</span></p>
+<h3><span class="ez-toc-section" id="How_to_Apply_for_Nagpur_WCL_Jobs_202021"></span><span style="font-family: verdana, geneva, sans-serif;">How to Apply for Nagpur WCL Jobs 2020-21</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Eligible candidates are required to Register themselves on the National Apprenticeship Training Scheme (NATS) web portal www.mhrdnats.gov.in. Further, they have to apply in web application form available at official website of WCL www.wessterncoal.in from 9th to 24th November, 2020</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">This Article Information Purpose Only, We advise to the candidates that you must read the official notification before sending Application Form for Nagpur WCL Recruitment 2020-21.</span></p>
+<h3><span class="ez-toc-section" id="WCL_Nagpur_Jobs_2020_Important_Dates"></span><span style="font-family: verdana, geneva, sans-serif;"><span id="Important_Dates-2" class="ez-toc-section"></span>WCL Nagpur Jobs 2020 Important Dates</span><span class="ez-toc-section-end"></span></h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Online Application Starts On</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">9th November, 2020</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Last Date for Online Application through WCL website</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">24th November, 2020 17.00 HRS</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Official Notification of WCL Recruitment 2020</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;"><a title="WCL Nagpur Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Jobs Vacancy" href="http://www.westerncoal.in/sites/default/files/userfiles/notice_HRD_50.pdf" target="_blank" rel="noopener noreferrer">Click Here</a></span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">WCL Official Website</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;"><a title="Nagpur WCL Recruitment 2020-21 Apply Online 10th 12th Pass Government Jobs Vacancy" href="http://www.westerncoal.in/" target="_blank" rel="noopener noreferrer">www.westerncoal.in</a></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="width: 100%; border-collapse: collapse;">
+<tbody>
+<tr>
+<td>
+<h3><span class="ez-toc-section" id="Find_Other_Latest_Government_Jobs_2020"></span><span style="font-family: verdana, geneva, sans-serif;">Find Other Latest Government Jobs 2020</span><span class="ez-toc-section-end"></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-collapse: collapse;">
+<tbody>
+<tr>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/8th-pass-job/" target="_blank" rel="nofollow noopener noreferrer">8th Pass Govt Job</a></span></td>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/10th-pass-job/" target="_blank" rel="nofollow noopener noreferrer">10th Pass Govt Job</a></span></td>
+</tr>
+<tr>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/12th-pass-job/" target="_blank" rel="nofollow noopener noreferrer">12th Pass Govt Job</a></span></td>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/graduate-jobs/" target="_blank" rel="nofollow noopener noreferrer">After Graduation Govt Job</a></span></td>
+</tr>
+<tr>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/bank-recruitment/" target="_blank" rel="nofollow noopener noreferrer">Latest Bank Jobs</a></span></td>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/railway-recruitment/" target="_blank" rel="nofollow noopener noreferrer">Indian Railway Recruitment</a></span></td>
+</tr>
+<tr>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/army-recruitment-rally/" target="_blank" rel="nofollow noopener noreferrer">Army Rally Bharti</a></span></td>
+<td><span style="font-family: verdana, geneva, sans-serif;"><a href="https://jobs20.in/hospital-jobs/" target="_blank" rel="nofollow noopener noreferrer">Hospital Jobs</a></span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2><span class="ez-toc-section" id="WCL_Jobs_Career_Notification_2020_Apply_Online_for_Graduate/_Technician_Apprentice_Vacancy_in_Western_Coalfields_Limited"></span><span style="font-family: verdana, geneva, sans-serif;">WCL Jobs Career Notification 2020 Apply Online for Graduate/ Technician Apprentice Vacancy in Western Coalfields Limited</span><span class="ez-toc-section-end"></span></h2>
+<p><span style="font-family: verdana, geneva, sans-serif;">Get the latest Jobs Openings in Nagpur district <a href="https://jobs20.in/maharashtra/" target="_blank" rel="nofollow noopener noreferrer">Maharashtra</a> 2020-21 Apply for Diploma, B.E/ B.Tech Pass Job in WCL.</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;"><strong>WCL Recruitment 2020-21 Nagpur Western Coalfields Limited Posts</strong>. There is a latest jobs Notification has announced by the Western Coalfields Limited, Nagpur, Maharashtra. Interested candidates who fulfilling essential qualification may Apply Online for the Graduate/ Technician Apprentice Posts in WCL On or Before 19th May, 2020.</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">Read all the details and requirements for the Western Coalfields Limited Recruitment 2020-21 Job openings application form, age limit, minimum qualification, number of vacancies, pay scale, selection Process and apply accordingly.</span></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<h3><span class="ez-toc-section" id="Western_Coalfields_Limited_Recruitment_2020_Complete_Details-2"></span><span style="font-family: verdana, geneva, sans-serif;">Western Coalfields Limited Recruitment 2020 Complete Details</span><span class="ez-toc-section-end"></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Apprenticeship Trade</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Number of Seats</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Graduate Apprentice</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">101</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Technician Apprentice</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">202</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Total</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">303</span></td>
+</tr>
+</tbody>
+</table>
+<h3><span class="ez-toc-section" id="Educational_Qualification_for_WCL_Recruitment_2020-2"></span><span style="font-family: verdana, geneva, sans-serif;">Educational Qualification for WCL Recruitment 2020:</span><span class="ez-toc-section-end"></span></h3>
+<ol>
+<li><span style="font-family: verdana, geneva, sans-serif;"><strong>For Graduate Apprentice:</strong> Full time Degree Course (BE/ B.Tech/ AMIE) in Mining Engineering from Institutions duly Recognised by UGC/ AICTE/ State Govt./ Central Govt. and Enrolled at NATS Portal</span></li>
+<li><span style="font-family: verdana, geneva, sans-serif;"><strong>For Technician Apprentice:</strong> Full time Diploma in Mining/ Mining and Mine Surveying from Institutions duly Recognised by UGC/ AICTE/ State Govt./ Central Govt. and Enrolled at NATS Portal.</span></li>
+</ol>
+<p><span style="font-family: verdana, geneva, sans-serif;"><strong>Period of Apprenticeship Training: </strong></span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">Period of Apprenticeship Training Shall be 12 Months from Commencing of the Contract of Apprenticeship.</span></p>
+<h3><span class="ez-toc-section" id="Stipend-2"></span><span style="font-family: verdana, geneva, sans-serif;">Stipend:</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Monthly Stipend to the Apprentices from the date of engagement shall be paid as below:</span></p>
+<ol>
+<li><span style="font-family: verdana, geneva, sans-serif;">Graduate Apprentice: Rs.9000/- per month</span></li>
+<li><span style="font-family: verdana, geneva, sans-serif;">Technician Apprentice: Rs.8000/- per month</span></li>
+</ol>
+<h3><span class="ez-toc-section" id="Place_of_Apprenticeship"></span><span style="font-family: verdana, geneva, sans-serif;">Place of Apprenticeship:</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Selected Candidates will be posted for Apprenticeship at Different Mines of WCL</span></p>
+<h3><span class="ez-toc-section" id="How_to_Apply_for_WCL_Jobs_202021"></span><span style="font-family: verdana, geneva, sans-serif;">How to Apply for WCL Jobs 2020-21</span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-family: verdana, geneva, sans-serif;">Eligible candidates are required to Register themselves on the National Apprenticeship Training Scheme (NATS) web portal www.mhrdnats.gov.in. Further, they have to apply in web application form available at official website of WCL www.wessterncoal.in from 5th May to 19th May, 2020</span></p>
+<p><span style="font-family: verdana, geneva, sans-serif;">This Article Information Purpose Only, We advise to the candidates that you must read the official notification before sending Application Form for WCL Recruitment 2020-21.</span></p>
+<h3><span class="ez-toc-section" id="WCL_Nagpur_Jobs_2020_Important_Dates-2"></span><span style="font-family: verdana, geneva, sans-serif;"><span id="Important_Dates-2" class="ez-toc-section"></span>WCL Nagpur Jobs 2020 Important Dates</span><span class="ez-toc-section-end"></span></h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Online Application Starts On</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">5th May, 2020 10.00 am</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Last Date for Online Application through WCL website</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">19th May, 2020 12.00 Midnight</span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">Official Notification of WCL Recruitment 2020</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;"><a title="WCL Nagpur Recruitment 2020 Apply Online for Apprentice Western Coalfields Limited" href="https://drive.google.com/file/d/1nfg-viZ_YchOIQTGEocGO8mf72hCI43O/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Here</a></span></td>
+</tr>
+<tr>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;">WCL Official Website</span></td>
+<td style="width: 50%;"><span style="font-family: verdana, geneva, sans-serif;"><a title="Nagpur WCL Recruitment 2020-21 Apply Online 10th 12th Pass Government Jobs Vacancy" href="http://www.westerncoal.in/" target="_blank" rel="noopener noreferrer">www.westerncoal.in</a></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="share-post">
+<span class="share-text">Share</span>
+<ul class="flat-social">
+<li><a href="https://www.facebook.com/sharer.php?u=https://jobs20.in/?p=2414" class="social-facebook" rel="external" target="_blank"><i class="fa fa-facebook"></i> <span>Facebook</span></a></li>
+<li><a href="https://twitter.com/intent/tweet?text=WCL+Recruitment+2020+Apply+Online+Computer+Operator+and+Programming+Assistant+Posts&url=https://jobs20.in/?p=2414" class="social-twitter" rel="external" target="_blank"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li>
+<li><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://jobs20.in/?p=2414&title=WCL+Recruitment+2020+Apply+Online+Computer+Operator+and+Programming+Assistant+Posts" class="social-linkedin" rel="external" target="_blank"><i class="fa fa-linkedin"></i> <span>LinkedIn</span></a></li>
+</ul>
+<div class="clear"></div>
+</div> 
+<div class="clear"></div>
+</div>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","dateCreated":"2020-10-17T08:20:03+05:30","datePublished":"2020-10-17T08:20:03+05:30","dateModified":"2020-10-17T08:21:05+05:30","headline":"WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts","name":"WCL Recruitment 2020 Apply Online Computer Operator and Programming Assistant Posts","keywords":"Apprentice Recruitment,Sarkari Naukri","url":"https:\/\/jobs20.in\/wcl-recruitment-nagpur-western-coalfields-limited-online\/","description":"WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited Notification for Inviting applications for Trade Apprentices for Apprenticeship","copyrightYear":"2020","publisher":{"@id":"#Publisher","@type":"Organization","name":"Govt Jobs 2020","logo":{"@type":"ImageObject","url":"https:\/\/jobs20.in\/wp-content\/uploads\/2020\/01\/Jobs20-pmg-1.png"},"sameAs":["https:\/\/twitter.com\/Jobs207"]},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/jobs20.in\/wcl-recruitment-nagpur-western-coalfields-limited-online\/","breadcrumb":{"@id":"#Breadcrumb"}},"author":{"@type":"Person","name":"Government Jobalert","url":"https:\/\/jobs20.in\/author\/govtjobalert\/"},"articleSection":"Jobs in Nagpur,10th Pass Job,12th Pass Job,Diploma Job,Engineer Recruitment,Graduate Jobs,ITI Jobs,Maharashtra,Technician Jobs","articleBody":"WCL Recruitment 2020 Apply Online for Computer Operator and Programming Assistant Vacancy in Western Coalfields Limited\r\nNotification for Inviting applications for Trade Apprentices for Apprenticeship Training under the Apprentices Act 1961 and NAPS at the establishment Skill Development Centre, Nagpur (WCL\r\n\r\nWCL Recruitment 2020-21 Nagpur Western Coalfields Limited Jobs Vacancy. There is a latest jobs Notification has announced by the Western Coalfields Limited (WCL), Nagpur, Maharashtra. Interested candidates who fulfilling essential qualification may Apply Online for the Computer Operator and Programming Assistant Posts in WCL On or Before 24th November, 2020.\r\n\r\nRead all the details and requirements for the Western Coalfields Limited Recruitment 2020-21 Job openings application form, age limit, minimum qualification, number of vacancies, pay scale, selection Process and apply accordingly.\r\n\r\n\r\n\r\n\r\nWestern Coalfields Limited Recruitment 2020 Complete Details\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nName of the Post\r\nNumber of Seats\r\n\r\n\r\nComputer Operator and Programming Assistant\r\n06 Posts\r\n\r\n\r\nLast Date\r\n24-11-2020\r\n\r\n\r\n\r\nEducational Qualification for WCL Recruitment 2020:\r\n\r\n \tFor Computer Operator and Programming Assistant: ITI in Computer Operator and Programming Assistant.\r\n \tDomicile from Nagpur District shall be given first preference in selection. Candidates from other district of Maharashtra shall be given second preference and candidates outside Maharashtra shall be given third preference\r\n\r\nPeriod of Apprenticeship Training: \r\n\r\nPeriod of Apprenticeship Training Shall be 12 Months from Commencing of the Contract of Apprenticeship.\r\nStipend:\r\nMonthly Stipend to the Apprentices from the date of engagement shall be paid as below:\r\n\r\n \tMonthly Rate of Stipend Rs.7700\/-\r\n\r\nSelection Process:\r\nSelection shall be made based on the percentage of marks obtained in the qualifying examination.\r\nHow to Apply for Nagpur WCL Jobs 2020-21\r\nEligible candidates are required to Register themselves on the National Apprenticeship Training Scheme (NATS) web portal www.mhrdnats.gov.in. Further, they have to apply in web application form available at official website of WCL www.wessterncoal.in from 9th to 24th November, 2020\r\n\r\nThis Article Information Purpose Only, We advise to the candidates that you must read the official notification before sending Application Form for Nagpur WCL Recruitment 2020-21.\r\nWCL Nagpur Jobs 2020 Important Dates\r\n\r\n\r\n\r\nOnline Application Starts On\r\n9th November, 2020\r\n\r\n\r\nLast Date for Online Application through WCL website\r\n24th November, 2020 17.00 HRS\r\n\r\n\r\nOfficial Notification of WCL Recruitment 2020\r\nClick Here\r\n\r\n\r\nWCL Official Website\r\nwww.westerncoal.in\r\n\r\n\r\n\r\n&nbsp;\r\n\r\n\r\n\r\n\r\nFind Other Latest Government Jobs 2020\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n8th Pass Govt Job\r\n10th Pass Govt Job\r\n\r\n\r\n12th Pass Govt Job\r\nAfter Graduation Govt Job\r\n\r\n\r\nLatest Bank Jobs\r\nIndian Railway Recruitment\r\n\r\n\r\nArmy Rally Bharti\r\nHospital Jobs\r\n\r\n\r\n\r\n\r\n\r\n\r\nWCL Jobs Career Notification 2020 Apply Online for Graduate\/ Technician Apprentice Vacancy in Western Coalfields Limited\r\nGet the latest Jobs Openings in Nagpur district Maharashtra 2020-21 Apply for Diploma, B.E\/ B.Tech Pass Job in WCL.\r\n\r\nWCL Recruitment 2020-21 Nagpur Western Coalfields Limited Posts. There is a latest jobs Notification has announced by the Western Coalfields Limited, Nagpur, Maharashtra. Interested candidates who fulfilling essential qualification may Apply Online for the Graduate\/ Technician Apprentice Posts in WCL On or Before 19th May, 2020.\r\n\r\nRead all the details and requirements for the Western Coalfields Limited Recruitment 2020-21 Job openings application form, age limit, minimum qualification, number of vacancies, pay scale, selection Process and apply accordingly.\r\n\r\n\r\n\r\n\r\nWestern Coalfields Limited Recruitment 2020 Complete Details\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApprenticeship Trade\r\nNumber of Seats\r\n\r\n\r\nGraduate Apprentice\r\n101\r\n\r\n\r\nTechnician Apprentice\r\n202\r\n\r\n\r\nTotal\r\n303\r\n\r\n\r\n\r\nEducational Qualification for WCL Recruitment 2020:\r\n\r\n \tFor Graduate Apprentice: Full time Degree Course (BE\/ B.Tech\/ AMIE) in Mining Engineering from Institutions duly Recognised by UGC\/ AICTE\/ State Govt.\/ Central Govt. and Enrolled at NATS Portal\r\n \tFor Technician Apprentice: Full time Diploma in Mining\/ Mining and Mine Surveying from Institutions duly Recognised by UGC\/ AICTE\/ State Govt.\/ Central Govt. and Enrolled at NATS Portal.\r\n\r\nPeriod of Apprenticeship Training: \r\n\r\nPeriod of Apprenticeship Training Shall be 12 Months from Commencing of the Contract of Apprenticeship.\r\nStipend:\r\nMonthly Stipend to the Apprentices from the date of engagement shall be paid as below:\r\n\r\n \tGraduate Apprentice: Rs.9000\/- per month\r\n \tTechnician Apprentice: Rs.8000\/- per month\r\n\r\nPlace of Apprenticeship:\r\nSelected Candidates will be posted for Apprenticeship at Different Mines of WCL\r\nHow to Apply for WCL Jobs 2020-21\r\nEligible candidates are required to Register themselves on the National Apprenticeship Training Scheme (NATS) web portal www.mhrdnats.gov.in. Further, they have to apply in web application form available at official website of WCL www.wessterncoal.in from 5th May to 19th May, 2020\r\n\r\nThis Article Information Purpose Only, We advise to the candidates that you must read the official notification before sending Application Form for WCL Recruitment 2020-21.\r\nWCL Nagpur Jobs 2020 Important Dates\r\n\r\n\r\n\r\nOnline Application Starts On\r\n5th May, 2020 10.00 am\r\n\r\n\r\nLast Date for Online Application through WCL website\r\n19th May, 2020 12.00 Midnight\r\n\r\n\r\nOfficial Notification of WCL Recruitment 2020\r\nClick Here\r\n\r\n\r\nWCL Official Website\r\nwww.westerncoal.in\r\n\r\n\r\n"}</script>
+</article>
+<p class="post-tag">Tags <a href="https://jobs20.in/Online/apprentice-recruitment/" rel="tag">Apprentice Recruitment</a> <a href="https://jobs20.in/Online/sarkari-naukri/" rel="tag">Sarkari Naukri</a></p>
+<section id="author-box">
+<div class="block-head">
+<h3>About Government Jobalert </h3><div class="stripe-line"></div>
+</div>
+<div class="post-listing">
+<div class="author-bio">
+<div class="author-avatar">
+<img alt='' src='https://secure.gravatar.com/avatar/b941acd6aed3a5d389753f5d1ede60ff?s=90&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b941acd6aed3a5d389753f5d1ede60ff?s=180&#038;d=mm&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' loading='lazy' /> </div>
+<div class="author-description">
+</div>
+<div class="author-social flat-social">
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+<div class="post-navigation">
+<div class="post-previous"><a href="https://jobs20.in/upsc-exam-foreman-senior-assistant-professor-posts/" rel="prev"><span>Previous</span> UPSC Foreman, Senior Scientific Assistant, Assistant Professor Exam 2020 Apply Online for 44 Posts</a></div>
+<div class="post-next"><a href="https://jobs20.in/sai-sports-authority-of-india-recruitment/" rel="next"><span>Next</span> Sports Authority of India Recruitment 2020 Apply For Sports Medicine Doctor Posts</a></div>
+</div>
+<section id="related_posts">
+<div class="block-head">
+<h3>Related Articles</h3><div class="stripe-line"></div>
+</div>
+<div class="post-listing">
+<div class="related-item">
+<h3><a href="https://jobs20.in/general-insurance-corporation-of-india-recruitment-gic/" rel="bookmark">General Insurance Corporation of India Recruitment 2020-21 Actuarial Apprentices Posts</a></h3>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 18, 2020</span></p>
+</div>
+<div class="related-item">
+<h3><a href="https://jobs20.in/iit-hyderabad-recruitment-vancancy/" rel="bookmark">IIT Hyderabad Recruitment 2020-21 Apply For Work Inspector Jobs Vacancy</a></h3>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 17, 2020</span></p>
+</div>
+<div class="related-item">
+<h3><a href="https://jobs20.in/national-school-of-drama-nsd-recruitment-jobs-vacancy/" rel="bookmark">National School of Drama Recruitment 2020-21 Apply For Librarian, LDC, UDC &#038; Others Posts</a></h3>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 17, 2020</span></p>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<section id="check-also-box" class="post-listing check-also-right">
+<a href="#" id="check-also-close"><i class="fa fa-close"></i></a>
+<div class="block-head">
+<h3>Check Also</h3>
+</div>
+<div class="check-also-post">
+<h2 class="post-title"><a href="https://jobs20.in/tnau-recruitment-agricultural-university-coimbatore-jobs/" rel="bookmark">TNAU Recruitment 2020-21 Apply for Programme Assistant, Driver &#038; Other Posts</a></h2>
+<p>TNAU Jobs Notification 2020 Apply for Programme Assistant, Driver &amp; Other Vacancy in Tamil Nadu &hellip;</p>
+</div>
+</section>
+<div id="comments">
+<div class="clear"></div>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wcl-recruitment-nagpur-western-coalfields-limited-online/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://jobs20.in/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="aiowps-captcha"><label for="aiowps-captcha-answer">Please enter an answer in digits:</label><div class="aiowps-captcha-equation"><strong>three &#215; 3 = <input type="hidden" name="aiowps-captcha-string-info" id="aiowps-captcha-string-info" value="ffihv5m9o4" /><input type="hidden" name="aiowps-captcha-temp-string" id="aiowps-captcha-temp-string" value="1602985352" /><input type="text" size="2" id="aiowps-captcha-answer" name="aiowps-captcha-answer" value="" autocomplete="off" /></strong></div></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='2414' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form> </div>
+</div>
+</div>
+<aside id="sidebar">
+<div class="theiaStickySidebar">
+<div id="search-2" class="widget widget_search"><div class="widget-top"><h4> </h4><div class="stripe-line"></div></div>
+<div class="widget-container"><form role="search" method="get" class="search-form" action="https://jobs20.in/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form></div></div>
+<div id="recent-posts-2" class="widget widget_recent_entries">
+<div class="widget-top"><h4>Latest Recruitment</h4><div class="stripe-line"></div></div>
+<div class="widget-container">
+<ul>
+<li>
+<a href="https://jobs20.in/general-insurance-corporation-of-india-recruitment-gic/">General Insurance Corporation of India Recruitment 2020-21 Actuarial Apprentices Posts</a>
+</li>
+<li>
+<a href="https://jobs20.in/iit-hyderabad-recruitment-vancancy/">IIT Hyderabad Recruitment 2020-21 Apply For Work Inspector Jobs Vacancy</a>
+</li>
+<li>
+<a href="https://jobs20.in/national-school-of-drama-nsd-recruitment-jobs-vacancy/">National School of Drama Recruitment 2020-21 Apply For Librarian, LDC, UDC &#038; Others Posts</a>
+</li>
+<li>
+<a href="https://jobs20.in/tnau-recruitment-agricultural-university-coimbatore-jobs/">TNAU Recruitment 2020-21 Apply for Programme Assistant, Driver &#038; Other Posts</a>
+</li>
+<li>
+<a href="https://jobs20.in/msme-tool-room-hyderabad-recruitment-citd-jobs-vacancy/">MSME Tool Room Hyderabad Recruitment 2020-21 Apply for Stipendiary Trainee Posts</a>
+</li>
+</ul>
+</div></div><div id="text-3" class="widget widget_text"><div class="widget-top"><h4>State Wise Jobs</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="textwidget"><p><a title="Latest 8th 10th 12th Pass Govt Jobs Career Vacancy Andaman Nicobar" href="https://jobs20.in/andaman-nicobar/" target="_blank" rel="noopener noreferrer">Andaman Nicobar UT</a></p>
+<p><a title="8th 10th 12th Pass Govt Job Andhra Pradesh Sarkari Naukri" href="https://jobs20.in/andhra-pradesh/" target="_blank" rel="noopener noreferrer">Andhra Pradesh</a></p>
+<p><a title="Sarkari Naukri for 8th 10th 12th Pass Govt Job Arunachal" href="https://jobs20.in/arunachal-pradesh/" target="_blank" rel="noopener noreferrer">Arunachal Pradesh</a></p>
+<p><a title="Latest Jobs Career Vacancy After 8th 10th 12th Pass Freshers Bharti Assam" href="https://jobs20.in/assam/" target="_blank" rel="nofollow noopener noreferrer">Assam</a></p>
+<p><a title="8th 10th Pass Govt Job in Bihar Sarkari Naukri" href="https://jobs20.in/bihar/" target="_blank" rel="noopener noreferrer">Bihar</a></p>
+<p><a title="After 8th 10th 12th Pass Freshers Jobs Career Vacancy Chandigarh" href="https://jobs20.in/chandigarh/" target="_blank" rel="noopener noreferrer">Chandigarh</a></p>
+<p><a title="Sarkari Naukri for 8th 10th 12th Pass Govt Job CG Bharti" href="https://jobs20.in/chhattisgarh/" target="_blank" rel="noopener noreferrer">Chhattisgarh</a></p>
+<p><a title="Jobs Career Vacancy New Delhi NCR for 10th 12th Freshers Hiring" href="https://jobs20.in/delhi/" target="_blank" rel="noopener noreferrer">New Delhi</a></p>
+<p><a title="Govt Jobs in Dadra and Nagar Haveli After 8th Pass, 10th 12th Pass" href="https://jobs20.in/dadra-and-nagar-haveli/" target="_blank" rel="noopener noreferrer">Dadra and Nagar Haveli</a></p>
+<p><a title="After 8th 9th Pass Fail, 10th 12th Passed Govt Job Vacancy Daman Diu" href="https://jobs20.in/daman-diu/" target="_blank" rel="noopener noreferrer">Daman Diu</a></p>
+<p><a title="Latest Govt Jobs in Goa for 8th 10th 12th Pass Freshers" href="https://jobs20.in/goa/" target="_blank" rel="noopener noreferrer">Goa</a></p>
+<p><a title="8th 10th 12th Pass Govt Jobs Career Vacancy Gujarat Bharti" href="https://jobs20.in/gujarat/" target="_blank" rel="noopener noreferrer">Gujarat</a></p>
+<p><a title="Latest Jobs Career Vacancy Notification J&amp;K After 8th 10th 12th Pass Bharti" href="https://jobs20.in/jammu-and-kashmir/" target="_blank" rel="noopener noreferrer">Jammu and Kashmir</a></p>
+<p><a title="Govt Job in Jharkhand After 8th 10th 12th Pass Vacancy" href="https://jobs20.in/jharkhand/" target="_blank" rel="noopener noreferrer">Jharkhand</a></p>
+<p><a title="8th 10th+2 12th Pass Jobs in Haryana Vacancy" href="https://jobs20.in/haryana/" target="_blank" rel="noopener noreferrer">Haryana</a></p>
+<p><a title="Get the Latest 8th 9th 10th 12th Pass Govt Job in Himachal Pradesh HP" href="https://jobs20.in/himachal-pradesh/" target="_blank" rel="nofollow noopener noreferrer">Himachal Pradesh</a></p>
+<p><a title="8th 10th 12th Pass Govt Job Karnataka" href="https://jobs20.in/karnataka/" target="_blank" rel="noopener noreferrer">Karnataka</a></p>
+<p><a title="Govt Jobs Career Vacancy Kerala" href="https://jobs20.in/kerala/" target="_blank" rel="noopener noreferrer">Kerala</a></p>
+<p><a title="8th 10th 12th Pass Govt Jobs Career Vacancy MP" href="https://jobs20.in/madhya-pradesh/" target="_blank" rel="noopener noreferrer">Madhya Pradesh</a></p>
+<p><a title="Sarkari Naukri Govt Jobs Career Vacancy Maharashtra Bharti" href="https://jobs20.in/maharashtra/" target="_blank" rel="noopener noreferrer">Maharashtra</a></p>
+<p><a href="https://jobs20.in/meghalaya/" target="_blank" rel="noopener noreferrer">Meghalaya</a></p>
+<p><a title="After 10th 12th Pass Diploma Govt Job Manipur" href="https://jobs20.in/manipur/" target="_blank" rel="nofollow noopener noreferrer">Manipur</a></p>
+<p><a title="8th 10th 12th Pass Govt Job Career Vacancy Mizoram" href="https://jobs20.in/mizoram/" target="_blank" rel="noopener noreferrer">Mizoram</a></p>
+<p><a href="https://jobs20.in/nagaland/" target="_blank" rel="noopener noreferrer">Nagaland</a></p>
+<p><a href="https://jobs20.in/odisha/" target="_blank" rel="noopener noreferrer">Odisha</a></p>
+<p><a href="https://jobs20.in/punjab/" target="_blank" rel="noopener noreferrer">Punjab</a></p>
+<p><a title="8th 10th 12th Pass Vacancy Notification" href="https://jobs20.in/rajasthan/" target="_blank" rel="noopener noreferrer">Rajasthan</a></p>
+<p><a title="8th 10th 12th Pass Govt Job Vacancy Sikkim" href="https://jobs20.in/sikkim/" target="_blank" rel="noopener noreferrer">Sikkim</a></p>
+<p><a title="Govt Jobs in Tamil Nadu" href="https://jobs20.in/tamilnadu/" target="_blank" rel="noopener noreferrer">Tamil Nadu</a></p>
+<p><a title="Latest Jobs Career Vacancy Telangana 2020 for 8th Pass 10th 12th Pass" href="https://jobs20.in/telangana/" target="_blank" rel="noopener noreferrer">Telangana</a></p>
+<p><a title="Tripura Vacancy for 8th 10th 12th Pass" href="https://jobs20.in/tripura/" target="_blank" rel="noopener noreferrer">Tripura</a></p>
+<p><a title="Govt Jobs Career Vacancy Sarkari Naukri UP" href="https://jobs20.in/uttar-pradesh/" target="_blank" rel="noopener noreferrer">Uttar Pradesh</a></p>
+<p><a title="8th Pass 10th 12th Pass Jobs Career Vacancy Uttarakhand" href="https://jobs20.in/uttarakhand/" target="_blank" rel="noopener noreferrer">Uttarakhand</a></p>
+<p><a title="Jobs Career Vacancy Sarkari Kajri Khobor WB" href="https://jobs20.in/west-bengal/" target="_blank" rel="noopener noreferrer">West Bengal</a></p>
+</div>
+</div></div><div id="cb_email_subscribes-2" class="widget widget_cb_email_subscribes"><div class="widget-top"><h4>Subscribe Jobs20.in for Fresh New Govt Jobs </h4><div class="stripe-line"></div></div>
+<div class="widget-container"><div class="sidebar-email-subscribe-area">
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/jobs20', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<p>
+<input class="email-subscribe" placeholder="Enter your email address:" type="email" name="email" />
+<input type="hidden" value="http://feeds.feedburner.com/jobs20" name="uri" /><input type="hidden" name="loc" value="en_US" /><input class="email-subscribe-submit" type="submit" value="Subscribe" />
+</p>
+</form>
+<p class="sidebar-email-sub-total">
+<a href="https://feeds.feedburner.com/http://feeds.feedburner.com/jobs20"><img src="https://feeds.feedburner.com/~fc/http://feeds.feedburner.com/jobs20?bg=99CCFF&amp;fg=444444&amp;anim=1" height="26" width="88" style="border:0" alt="" /></a>
+</p>
+</div></div></div> </div>
+</aside> <div class="clear"></div>
+</div>
+<footer id="theme-footer">
+<div id="footer-widget-area" class="footer-3c">
+<div id="footer-first" class="footer-widgets-box">
+<div id="categories-2" class="footer-widget widget_categories"><div class="footer-widget-top"><h4>Govt Jobs</h4></div>
+<div class="footer-widget-container"><form action="https://jobs20.in" method="get"><label class="screen-reader-text" for="cat">Govt Jobs</label><select name='cat' id='cat' class='postform'>
+<option value='-1'>Select Category</option>
+<option class="level-0" value="57">10th Pass Job</option>
+<option class="level-0" value="35">12th Pass Job</option>
+<option class="level-0" value="471">5th Pass Govt Job</option>
+<option class="level-0" value="25">8th Pass Job</option>
+<option class="level-0" value="315">9th Pass Job</option>
+<option class="level-0" value="435">Accountant</option>
+<option class="level-0" value="365">Andaman Nicobar</option>
+<option class="level-1" value="366">&nbsp;&nbsp;&nbsp;Jobs in Port Blair</option>
+<option class="level-0" value="21">Andhra Pradesh</option>
+<option class="level-1" value="551">&nbsp;&nbsp;&nbsp;Govt Jobs in Anantapur</option>
+<option class="level-1" value="547">&nbsp;&nbsp;&nbsp;Govt Jobs in Kadapa</option>
+<option class="level-1" value="200">&nbsp;&nbsp;&nbsp;Jobs in Chittoor</option>
+<option class="level-1" value="556">&nbsp;&nbsp;&nbsp;Jobs in East Godavari</option>
+<option class="level-1" value="516">&nbsp;&nbsp;&nbsp;Jobs in Eluru</option>
+<option class="level-1" value="363">&nbsp;&nbsp;&nbsp;Jobs in Guntur</option>
+<option class="level-1" value="458">&nbsp;&nbsp;&nbsp;Jobs in Krishna</option>
+<option class="level-1" value="539">&nbsp;&nbsp;&nbsp;Jobs in Kurnool</option>
+<option class="level-1" value="459">&nbsp;&nbsp;&nbsp;Jobs in Nellore</option>
+<option class="level-1" value="460">&nbsp;&nbsp;&nbsp;Jobs in Prakasam</option>
+<option class="level-1" value="461">&nbsp;&nbsp;&nbsp;Jobs in Srikakulam</option>
+<option class="level-1" value="22">&nbsp;&nbsp;&nbsp;Jobs in Visakhapatnam</option>
+<option class="level-1" value="533">&nbsp;&nbsp;&nbsp;Jobs in Vizianagaram</option>
+<option class="level-1" value="545">&nbsp;&nbsp;&nbsp;Jobs in West Godavari</option>
+<option class="level-0" value="357">ANM</option>
+<option class="level-0" value="76">Army Rally Bharti</option>
+<option class="level-0" value="75">Army Recruitment Rally</option>
+<option class="level-1" value="135">&nbsp;&nbsp;&nbsp;Soldier GD Bharti</option>
+<option class="level-0" value="113">Arunachal Pradesh</option>
+<option class="level-1" value="114">&nbsp;&nbsp;&nbsp;Jobs in Changlang</option>
+<option class="level-1" value="390">&nbsp;&nbsp;&nbsp;Jobs in Itanagar</option>
+<option class="level-1" value="247">&nbsp;&nbsp;&nbsp;Jobs in Papumpare</option>
+<option class="level-1" value="377">&nbsp;&nbsp;&nbsp;Tirap District</option>
+<option class="level-0" value="233">Assam</option>
+<option class="level-1" value="391">&nbsp;&nbsp;&nbsp;Cachar District</option>
+<option class="level-1" value="350">&nbsp;&nbsp;&nbsp;Chirang District</option>
+<option class="level-1" value="268">&nbsp;&nbsp;&nbsp;Dhemaji District</option>
+<option class="level-1" value="241">&nbsp;&nbsp;&nbsp;Dibrugarh District</option>
+<option class="level-1" value="323">&nbsp;&nbsp;&nbsp;Govt Jobs in Golaghat 2020-21 Sarkari Naukri Golaghat Assam</option>
+<option class="level-1" value="352">&nbsp;&nbsp;&nbsp;Job in Hailakandi</option>
+<option class="level-1" value="351">&nbsp;&nbsp;&nbsp;Job in Udalguri</option>
+<option class="level-1" value="395">&nbsp;&nbsp;&nbsp;Jobs in Barpeta</option>
+<option class="level-1" value="301">&nbsp;&nbsp;&nbsp;Jobs in Charaideo</option>
+<option class="level-1" value="633">&nbsp;&nbsp;&nbsp;Jobs in Dhubri</option>
+<option class="level-1" value="383">&nbsp;&nbsp;&nbsp;Jobs in Goalpara</option>
+<option class="level-1" value="234">&nbsp;&nbsp;&nbsp;Jobs in Guwahati</option>
+<option class="level-1" value="519">&nbsp;&nbsp;&nbsp;Jobs in Hojai</option>
+<option class="level-1" value="521">&nbsp;&nbsp;&nbsp;Jobs in Jorhat</option>
+<option class="level-1" value="341">&nbsp;&nbsp;&nbsp;Jobs in Karbi Anglong</option>
+<option class="level-1" value="385">&nbsp;&nbsp;&nbsp;Jobs in Karimganj</option>
+<option class="level-1" value="349">&nbsp;&nbsp;&nbsp;Jobs in Morigaon</option>
+<option class="level-1" value="392">&nbsp;&nbsp;&nbsp;Jobs in Silchar</option>
+<option class="level-1" value="453">&nbsp;&nbsp;&nbsp;Jobs in Sivasagar</option>
+<option class="level-1" value="434">&nbsp;&nbsp;&nbsp;Jobs in Tezpur</option>
+<option class="level-1" value="348">&nbsp;&nbsp;&nbsp;Jobs in Tinsukia</option>
+<option class="level-1" value="280">&nbsp;&nbsp;&nbsp;Karbi Anglone</option>
+<option class="level-1" value="387">&nbsp;&nbsp;&nbsp;Nagaon District</option>
+<option class="level-1" value="449">&nbsp;&nbsp;&nbsp;North Lakhimpur</option>
+<option class="level-0" value="17">Bank Recruitment</option>
+<option class="level-0" value="108">BDS Govt Jobs</option>
+<option class="level-0" value="164">Bhartiya Nausena Bharti</option>
+<option class="level-0" value="140">Bihar</option>
+<option class="level-1" value="229">&nbsp;&nbsp;&nbsp;Jobs in Bhagalpur</option>
+<option class="level-1" value="342">&nbsp;&nbsp;&nbsp;Jobs in Gaya</option>
+<option class="level-1" value="141">&nbsp;&nbsp;&nbsp;Jobs in Patna</option>
+<option class="level-1" value="612">&nbsp;&nbsp;&nbsp;Jobs in Saran</option>
+<option class="level-0" value="290">BSF</option>
+<option class="level-0" value="28">Cantonment Board Recruitment</option>
+<option class="level-0" value="447">Career in BAMS</option>
+<option class="level-0" value="448">Career in BHMS</option>
+<option class="level-0" value="472">Central Govt Jobs</option>
+<option class="level-0" value="237">Chandigarh</option>
+<option class="level-0" value="2">Chhattisgarh</option>
+<option class="level-1" value="576">&nbsp;&nbsp;&nbsp;Balod Govt Job</option>
+<option class="level-1" value="3">&nbsp;&nbsp;&nbsp;Dantewada</option>
+<option class="level-1" value="584">&nbsp;&nbsp;&nbsp;Govt Job Kanker</option>
+<option class="level-1" value="427">&nbsp;&nbsp;&nbsp;Jobs in Balrampur</option>
+<option class="level-1" value="428">&nbsp;&nbsp;&nbsp;Jobs in Bastar</option>
+<option class="level-1" value="557">&nbsp;&nbsp;&nbsp;Jobs in Bemetara</option>
+<option class="level-1" value="648">&nbsp;&nbsp;&nbsp;Jobs in Durg</option>
+<option class="level-1" value="306">&nbsp;&nbsp;&nbsp;Jobs in Kawardha</option>
+<option class="level-1" value="470">&nbsp;&nbsp;&nbsp;Jobs in Kondagaon</option>
+<option class="level-1" value="167">&nbsp;&nbsp;&nbsp;Jobs in Raipur</option>
+<option class="level-1" value="386">&nbsp;&nbsp;&nbsp;Jobs in Sukma</option>
+<option class="level-1" value="559">&nbsp;&nbsp;&nbsp;Jobs in Surajpur</option>
+<option class="level-1" value="575">&nbsp;&nbsp;&nbsp;Jobs in Surguja</option>
+<option class="level-1" value="645">&nbsp;&nbsp;&nbsp;Raigarh Jobs</option>
+<option class="level-0" value="14">Clerk Vacancy</option>
+<option class="level-0" value="187">Constable Bharti</option>
+<option class="level-0" value="97">Court Recruitment</option>
+<option class="level-0" value="558">CRPF Bharti</option>
+<option class="level-0" value="549">Dadra and Nagar Haveli</option>
+<option class="level-1" value="550">&nbsp;&nbsp;&nbsp;Silvassa</option>
+<option class="level-0" value="433">Daman Diu</option>
+<option class="level-0" value="4">Data Entry Operator</option>
+<option class="level-0" value="50">Delhi</option>
+<option class="level-0" value="287">Diploma Job</option>
+<option class="level-0" value="455">DRDO</option>
+<option class="level-0" value="71">Driver Jobs</option>
+<option class="level-0" value="47">Engineer Recruitment</option>
+<option class="level-0" value="155">Forest Department</option>
+<option class="level-0" value="143">Goa</option>
+<option class="level-1" value="479">&nbsp;&nbsp;&nbsp;Jobs in Panaji</option>
+<option class="level-0" value="53">Graduate Jobs</option>
+<option class="level-0" value="24">Group D Recruitment</option>
+<option class="level-0" value="12">Gujarat</option>
+<option class="level-1" value="374">&nbsp;&nbsp;&nbsp;Devbhumi Dwarka</option>
+<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Jobs in Ahmedabad</option>
+<option class="level-1" value="495">&nbsp;&nbsp;&nbsp;Jobs in Bharuch</option>
+<option class="level-1" value="494">&nbsp;&nbsp;&nbsp;Jobs in Bhavnagar</option>
+<option class="level-1" value="251">&nbsp;&nbsp;&nbsp;Jobs in Gandhinagar</option>
+<option class="level-1" value="203">&nbsp;&nbsp;&nbsp;Jobs in Jamnagar</option>
+<option class="level-1" value="525">&nbsp;&nbsp;&nbsp;Jobs in Kutch</option>
+<option class="level-1" value="250">&nbsp;&nbsp;&nbsp;Jobs in Mehsana</option>
+<option class="level-1" value="543">&nbsp;&nbsp;&nbsp;Jobs in Panchmahal</option>
+<option class="level-1" value="594">&nbsp;&nbsp;&nbsp;Jobs in Patan</option>
+<option class="level-1" value="276">&nbsp;&nbsp;&nbsp;Jobs in Surat</option>
+<option class="level-1" value="231">&nbsp;&nbsp;&nbsp;Jobs in Vadodara</option>
+<option class="level-1" value="417">&nbsp;&nbsp;&nbsp;Junagadh District</option>
+<option class="level-0" value="88">Haryana</option>
+<option class="level-1" value="444">&nbsp;&nbsp;&nbsp;Charkhi Dadri</option>
+<option class="level-1" value="581">&nbsp;&nbsp;&nbsp;Govt Job Mewat</option>
+<option class="level-1" value="281">&nbsp;&nbsp;&nbsp;HSSC</option>
+<option class="level-1" value="368">&nbsp;&nbsp;&nbsp;Jobs in Ambala</option>
+<option class="level-1" value="443">&nbsp;&nbsp;&nbsp;Jobs in Bhiwani</option>
+<option class="level-1" value="423">&nbsp;&nbsp;&nbsp;Jobs in Faridabad</option>
+<option class="level-1" value="485">&nbsp;&nbsp;&nbsp;Jobs in Fatehabad</option>
+<option class="level-1" value="314">&nbsp;&nbsp;&nbsp;Jobs in Gurugram</option>
+<option class="level-1" value="313">&nbsp;&nbsp;&nbsp;Jobs in Hisar</option>
+<option class="level-1" value="90">&nbsp;&nbsp;&nbsp;Jobs in Jhajjar</option>
+<option class="level-1" value="436">&nbsp;&nbsp;&nbsp;Jobs in Jind</option>
+<option class="level-1" value="252">&nbsp;&nbsp;&nbsp;Jobs in Kaithal</option>
+<option class="level-1" value="104">&nbsp;&nbsp;&nbsp;Jobs in Mahendergarh</option>
+<option class="level-1" value="262">&nbsp;&nbsp;&nbsp;Jobs in Palwal</option>
+<option class="level-1" value="535">&nbsp;&nbsp;&nbsp;Jobs in Panchkula</option>
+<option class="level-1" value="92">&nbsp;&nbsp;&nbsp;Jobs in Panipat</option>
+<option class="level-1" value="445">&nbsp;&nbsp;&nbsp;Jobs in Rewari</option>
+<option class="level-1" value="89">&nbsp;&nbsp;&nbsp;Jobs in Rohtak</option>
+<option class="level-1" value="484">&nbsp;&nbsp;&nbsp;Jobs in Sirsa</option>
+<option class="level-1" value="91">&nbsp;&nbsp;&nbsp;Jobs in Sonipat</option>
+<option class="level-1" value="367">&nbsp;&nbsp;&nbsp;Jobs in Yamunanagar</option>
+<option class="level-0" value="253">Himachal Pradesh</option>
+<option class="level-1" value="462">&nbsp;&nbsp;&nbsp;Jobs in Shimla</option>
+<option class="level-1" value="598">&nbsp;&nbsp;&nbsp;Jobs in Una</option>
+<option class="level-1" value="285">&nbsp;&nbsp;&nbsp;Kinnaur District</option>
+<option class="level-1" value="282">&nbsp;&nbsp;&nbsp;Mandi District</option>
+<option class="level-1" value="284">&nbsp;&nbsp;&nbsp;Sirmaur District</option>
+<option class="level-1" value="254">&nbsp;&nbsp;&nbsp;Solan District</option>
+<option class="level-0" value="409">Home Guard Bharti</option>
+<option class="level-0" value="431">Hospital Jobs</option>
+<option class="level-0" value="482">ICAR Exam</option>
+<option class="level-0" value="303">India Post</option>
+<option class="level-0" value="210">Indian Air Force</option>
+<option class="level-1" value="513">&nbsp;&nbsp;&nbsp;AFCAT Exam</option>
+<option class="level-0" value="574">Indian Army Jobs</option>
+<option class="level-0" value="286">Indian Coast Guard</option>
+<option class="level-0" value="163">Indian Navy</option>
+<option class="level-0" value="256">ITBP Bharti</option>
+<option class="level-0" value="58">ITI Jobs</option>
+<option class="level-0" value="239">Jammu and Kashmir</option>
+<option class="level-1" value="404">&nbsp;&nbsp;&nbsp;Bandipora District</option>
+<option class="level-1" value="552">&nbsp;&nbsp;&nbsp;Govt Jobs in Srinagar</option>
+<option class="level-1" value="553">&nbsp;&nbsp;&nbsp;Jobs in Baramulla</option>
+<option class="level-1" value="442">&nbsp;&nbsp;&nbsp;Jobs in Ganderbal</option>
+<option class="level-1" value="446">&nbsp;&nbsp;&nbsp;Jobs in Kargil</option>
+<option class="level-1" value="308">&nbsp;&nbsp;&nbsp;Jobs in Rajouri</option>
+<option class="level-1" value="240">&nbsp;&nbsp;&nbsp;Jobs in Samba</option>
+<option class="level-0" value="419">Jharkhand</option>
+<option class="level-1" value="465">&nbsp;&nbsp;&nbsp;East Singhbhum</option>
+<option class="level-1" value="473">&nbsp;&nbsp;&nbsp;Jobs in Dhanbad</option>
+<option class="level-1" value="467">&nbsp;&nbsp;&nbsp;Jobs in Giridih</option>
+<option class="level-1" value="502">&nbsp;&nbsp;&nbsp;Jobs in Koderma</option>
+<option class="level-1" value="468">&nbsp;&nbsp;&nbsp;Jobs in Ramgarh</option>
+<option class="level-1" value="422">&nbsp;&nbsp;&nbsp;Jobs in Ranchi</option>
+<option class="level-1" value="616">&nbsp;&nbsp;&nbsp;Jobs in Sahibganj</option>
+<option class="level-0" value="560">Jobs in Education Department</option>
+<option class="level-0" value="51">JRF Recruitment</option>
+<option class="level-0" value="36">Karnataka</option>
+<option class="level-1" value="372">&nbsp;&nbsp;&nbsp;Jobs in Ballari</option>
+<option class="level-1" value="149">&nbsp;&nbsp;&nbsp;Jobs in Bengaluru</option>
+<option class="level-1" value="279">&nbsp;&nbsp;&nbsp;Jobs in Bijapur</option>
+<option class="level-1" value="153">&nbsp;&nbsp;&nbsp;Jobs in Chikkaballapur</option>
+<option class="level-1" value="223">&nbsp;&nbsp;&nbsp;Jobs in Davangere</option>
+<option class="level-1" value="564">&nbsp;&nbsp;&nbsp;Jobs in Dharwad</option>
+<option class="level-1" value="501">&nbsp;&nbsp;&nbsp;Jobs in Kalaburagi</option>
+<option class="level-1" value="401">&nbsp;&nbsp;&nbsp;Jobs in Mandya</option>
+<option class="level-1" value="37">&nbsp;&nbsp;&nbsp;Jobs in Udupi</option>
+<option class="level-0" value="207">Kerala</option>
+<option class="level-1" value="246">&nbsp;&nbsp;&nbsp;Jobs in Ernakulam</option>
+<option class="level-1" value="398">&nbsp;&nbsp;&nbsp;Jobs in Kannur</option>
+<option class="level-1" value="527">&nbsp;&nbsp;&nbsp;Jobs in Kasaragod</option>
+<option class="level-1" value="396">&nbsp;&nbsp;&nbsp;Jobs in Kochi</option>
+<option class="level-1" value="272">&nbsp;&nbsp;&nbsp;Jobs in Kozhikode</option>
+<option class="level-1" value="425">&nbsp;&nbsp;&nbsp;Jobs in Palakkad</option>
+<option class="level-1" value="339">&nbsp;&nbsp;&nbsp;Jobs in Trivandrum</option>
+<option class="level-0" value="111">Land Surveyor</option>
+<option class="level-0" value="483">Librarian Jobs</option>
+<option class="level-0" value="133">Madhya Pradesh</option>
+<option class="level-1" value="583">&nbsp;&nbsp;&nbsp;Govt Job Chhindwara</option>
+<option class="level-1" value="134">&nbsp;&nbsp;&nbsp;Jobs in Anuppur</option>
+<option class="level-1" value="430">&nbsp;&nbsp;&nbsp;Jobs in Bhopal</option>
+<option class="level-1" value="157">&nbsp;&nbsp;&nbsp;Jobs in Jabalpur</option>
+<option class="level-1" value="639">&nbsp;&nbsp;&nbsp;Jobs in Rewa District</option>
+<option class="level-1" value="319">&nbsp;&nbsp;&nbsp;Jobs in Singrauli</option>
+<option class="level-0" value="18">Maharashtra</option>
+<option class="level-1" value="19">&nbsp;&nbsp;&nbsp;Akola District</option>
+<option class="level-1" value="591">&nbsp;&nbsp;&nbsp;Amravati Govt Jobs</option>
+<option class="level-1" value="607">&nbsp;&nbsp;&nbsp;Jobs in Bhandara</option>
+<option class="level-1" value="154">&nbsp;&nbsp;&nbsp;Jobs in Chandrapur</option>
+<option class="level-1" value="638">&nbsp;&nbsp;&nbsp;Jobs in Gondia</option>
+<option class="level-1" value="492">&nbsp;&nbsp;&nbsp;Jobs in Kolhapur</option>
+<option class="level-1" value="198">&nbsp;&nbsp;&nbsp;Jobs in Mumbai</option>
+<option class="level-1" value="160">&nbsp;&nbsp;&nbsp;Jobs in Nagpur</option>
+<option class="level-1" value="354">&nbsp;&nbsp;&nbsp;Jobs in Nashik</option>
+<option class="level-1" value="487">&nbsp;&nbsp;&nbsp;Jobs in Palghar</option>
+<option class="level-1" value="204">&nbsp;&nbsp;&nbsp;Jobs in Pune</option>
+<option class="level-1" value="491">&nbsp;&nbsp;&nbsp;Jobs in Sangli</option>
+<option class="level-1" value="505">&nbsp;&nbsp;&nbsp;Jobs in Thane</option>
+<option class="level-1" value="402">&nbsp;&nbsp;&nbsp;Satara District</option>
+<option class="level-0" value="601">Manipur</option>
+<option class="level-1" value="602">&nbsp;&nbsp;&nbsp;Jobs in Imphal</option>
+<option class="level-0" value="174">MBA</option>
+<option class="level-0" value="107">MBBS</option>
+<option class="level-0" value="29">Meghalaya</option>
+<option class="level-1" value="542">&nbsp;&nbsp;&nbsp;Jobs in Ri Bhoi District</option>
+<option class="level-1" value="30">&nbsp;&nbsp;&nbsp;Jobs in Shillong</option>
+<option class="level-0" value="121">Ministry of Defence</option>
+<option class="level-0" value="265">Mizoram</option>
+<option class="level-1" value="266">&nbsp;&nbsp;&nbsp;Jobs in Serchhip</option>
+<option class="level-0" value="248">MTS Recruitment</option>
+<option class="level-0" value="213">Nagaland</option>
+<option class="level-1" value="214">&nbsp;&nbsp;&nbsp;Jobs in Dimapur</option>
+<option class="level-0" value="277">Nagar Palika Bharti</option>
+<option class="level-0" value="208">NHM</option>
+<option class="level-0" value="95">Odisha</option>
+<option class="level-1" value="267">&nbsp;&nbsp;&nbsp;Angul District</option>
+<option class="level-1" value="590">&nbsp;&nbsp;&nbsp;Govt Job Nuapada</option>
+<option class="level-1" value="589">&nbsp;&nbsp;&nbsp;Jharsuguda District</option>
+<option class="level-1" value="410">&nbsp;&nbsp;&nbsp;Jobs in Bhubaneswar</option>
+<option class="level-1" value="225">&nbsp;&nbsp;&nbsp;Jobs in Boudh</option>
+<option class="level-1" value="259">&nbsp;&nbsp;&nbsp;Jobs in Cuttack</option>
+<option class="level-1" value="532">&nbsp;&nbsp;&nbsp;Jobs in Gajapati</option>
+<option class="level-1" value="463">&nbsp;&nbsp;&nbsp;Jobs in Ganjam</option>
+<option class="level-1" value="258">&nbsp;&nbsp;&nbsp;Jobs in Jagatsinghpur</option>
+<option class="level-1" value="531">&nbsp;&nbsp;&nbsp;Jobs in Jajpur</option>
+<option class="level-1" value="592">&nbsp;&nbsp;&nbsp;Jobs in Khordha</option>
+<option class="level-1" value="464">&nbsp;&nbsp;&nbsp;Jobs in Koraput</option>
+<option class="level-1" value="510">&nbsp;&nbsp;&nbsp;Jobs in Mayurbhanj</option>
+<option class="level-1" value="630">&nbsp;&nbsp;&nbsp;Jobs in Nayagarh</option>
+<option class="level-1" value="96">&nbsp;&nbsp;&nbsp;Jobs in Sambalpur</option>
+<option class="level-1" value="216">&nbsp;&nbsp;&nbsp;Jobs in Sundergarh</option>
+<option class="level-1" value="451">&nbsp;&nbsp;&nbsp;Kalahandi District</option>
+<option class="level-1" value="450">&nbsp;&nbsp;&nbsp;Puri District</option>
+<option class="level-1" value="588">&nbsp;&nbsp;&nbsp;Rayagada District</option>
+<option class="level-0" value="544">Ongc Recruitment</option>
+<option class="level-0" value="242">Patwari Bharti</option>
+<option class="level-0" value="102">Police Recruitment</option>
+<option class="level-0" value="534">Post Graduate Job</option>
+<option class="level-0" value="343">PSC Jobs</option>
+<option class="level-0" value="414">Puducherry</option>
+<option class="level-0" value="127">Punjab</option>
+<option class="level-1" value="475">&nbsp;&nbsp;&nbsp;Fatehgarh Sahib</option>
+<option class="level-1" value="578">&nbsp;&nbsp;&nbsp;Govt Job Ferozepur</option>
+<option class="level-1" value="617">&nbsp;&nbsp;&nbsp;Jobs in Amritsar</option>
+<option class="level-1" value="476">&nbsp;&nbsp;&nbsp;Jobs in Barnala</option>
+<option class="level-1" value="577">&nbsp;&nbsp;&nbsp;Jobs in Bathinda</option>
+<option class="level-1" value="526">&nbsp;&nbsp;&nbsp;Jobs in Faridkot</option>
+<option class="level-1" value="128">&nbsp;&nbsp;&nbsp;Jobs in Ludhiana</option>
+<option class="level-1" value="477">&nbsp;&nbsp;&nbsp;Jobs in Mansa</option>
+<option class="level-1" value="619">&nbsp;&nbsp;&nbsp;Jobs in Moga District</option>
+<option class="level-1" value="538">&nbsp;&nbsp;&nbsp;Jobs in Mohali</option>
+<option class="level-1" value="335">&nbsp;&nbsp;&nbsp;Jobs in Patiala</option>
+<option class="level-1" value="478">&nbsp;&nbsp;&nbsp;Jobs in Sangrur</option>
+<option class="level-0" value="69">Railway Recruitment</option>
+<option class="level-0" value="184">Rajasthan</option>
+<option class="level-1" value="570">&nbsp;&nbsp;&nbsp;Bhilwara District</option>
+<option class="level-1" value="571">&nbsp;&nbsp;&nbsp;Chittorgarh District</option>
+<option class="level-1" value="568">&nbsp;&nbsp;&nbsp;Govt Job Baran</option>
+<option class="level-1" value="569">&nbsp;&nbsp;&nbsp;Govt Job in Bundi</option>
+<option class="level-1" value="573">&nbsp;&nbsp;&nbsp;Govt Job in Rajsamand</option>
+<option class="level-1" value="528">&nbsp;&nbsp;&nbsp;Jobs in Ajmer</option>
+<option class="level-1" value="609">&nbsp;&nbsp;&nbsp;Jobs in Bikaner</option>
+<option class="level-1" value="529">&nbsp;&nbsp;&nbsp;Jobs in Churu</option>
+<option class="level-1" value="186">&nbsp;&nbsp;&nbsp;Jobs in Jaipur</option>
+<option class="level-1" value="572">&nbsp;&nbsp;&nbsp;Jobs in Jhalawar</option>
+<option class="level-1" value="185">&nbsp;&nbsp;&nbsp;Jobs in Jhunjhunu</option>
+<option class="level-1" value="332">&nbsp;&nbsp;&nbsp;Jobs in Jodhpur</option>
+<option class="level-1" value="567">&nbsp;&nbsp;&nbsp;Jobs in Kota</option>
+<option class="level-1" value="530">&nbsp;&nbsp;&nbsp;Jobs in Sikar</option>
+<option class="level-1" value="540">&nbsp;&nbsp;&nbsp;Jobs in Tonk</option>
+<option class="level-0" value="38">Revenue Department Recruitment</option>
+<option class="level-0" value="646">Sail Steel Plant Job</option>
+<option class="level-0" value="63">Sainik School Recruitment</option>
+<option class="level-0" value="193">Sikkim</option>
+<option class="level-1" value="194">&nbsp;&nbsp;&nbsp;Jobs in Gangtok</option>
+<option class="level-0" value="188">Sports Quota</option>
+<option class="level-0" value="52">SRF Recruitment</option>
+<option class="level-0" value="325">SSB Bharti</option>
+<option class="level-0" value="311">SSC</option>
+<option class="level-0" value="16">Staff Nurse Vacancy</option>
+<option class="level-0" value="40">Tamilnadu</option>
+<option class="level-1" value="626">&nbsp;&nbsp;&nbsp;Coimbatore Jobs</option>
+<option class="level-1" value="586">&nbsp;&nbsp;&nbsp;Govt Job Thanjavur</option>
+<option class="level-1" value="379">&nbsp;&nbsp;&nbsp;Jobs in Ariyalur</option>
+<option class="level-1" value="41">&nbsp;&nbsp;&nbsp;Jobs in Chennai</option>
+<option class="level-1" value="376">&nbsp;&nbsp;&nbsp;Jobs in Dindigul</option>
+<option class="level-1" value="555">&nbsp;&nbsp;&nbsp;Jobs in Kanyakumari</option>
+<option class="level-1" value="604">&nbsp;&nbsp;&nbsp;Jobs in Madurai</option>
+<option class="level-1" value="393">&nbsp;&nbsp;&nbsp;Jobs in Namakkal</option>
+<option class="level-1" value="606">&nbsp;&nbsp;&nbsp;Jobs in Salem</option>
+<option class="level-1" value="361">&nbsp;&nbsp;&nbsp;Jobs in Tiruchirappalli</option>
+<option class="level-1" value="336">&nbsp;&nbsp;&nbsp;Jobs in Tiruvannamalai</option>
+<option class="level-1" value="381">&nbsp;&nbsp;&nbsp;Jobs in Virudhunagar</option>
+<option class="level-1" value="378">&nbsp;&nbsp;&nbsp;Perambalur District</option>
+<option class="level-0" value="9">Teacher Jobs</option>
+<option class="level-0" value="474">Technical Assistant</option>
+<option class="level-0" value="15">Technician Jobs</option>
+<option class="level-0" value="293">Telangana</option>
+<option class="level-1" value="298">&nbsp;&nbsp;&nbsp;Hyderabad District</option>
+<option class="level-1" value="517">&nbsp;&nbsp;&nbsp;Jobs in Adilabad</option>
+<option class="level-1" value="294">&nbsp;&nbsp;&nbsp;Nalgonda District</option>
+<option class="level-1" value="599">&nbsp;&nbsp;&nbsp;Yadadri Bhuvanagiri Job</option>
+<option class="level-0" value="85">Tripura</option>
+<option class="level-1" value="86">&nbsp;&nbsp;&nbsp;Jobs in Agartala</option>
+<option class="level-0" value="499">UPSC Exam</option>
+<option class="level-0" value="67">Uttar Pradesh</option>
+<option class="level-1" value="611">&nbsp;&nbsp;&nbsp;Govt Jobs Noida</option>
+<option class="level-1" value="117">&nbsp;&nbsp;&nbsp;Jobs in Agra</option>
+<option class="level-1" value="119">&nbsp;&nbsp;&nbsp;Jobs in Aligarh</option>
+<option class="level-1" value="81">&nbsp;&nbsp;&nbsp;Jobs in Amethi</option>
+<option class="level-1" value="615">&nbsp;&nbsp;&nbsp;Jobs in Ayodhya</option>
+<option class="level-1" value="518">&nbsp;&nbsp;&nbsp;Jobs in Bareilly</option>
+<option class="level-1" value="74">&nbsp;&nbsp;&nbsp;Jobs in Fatehpur</option>
+<option class="level-1" value="120">&nbsp;&nbsp;&nbsp;Jobs in Firozabad</option>
+<option class="level-1" value="637">&nbsp;&nbsp;&nbsp;Jobs in Ghaziabad</option>
+<option class="level-1" value="109">&nbsp;&nbsp;&nbsp;Jobs in Gorakhpur</option>
+<option class="level-1" value="118">&nbsp;&nbsp;&nbsp;Jobs in Hathras</option>
+<option class="level-1" value="199">&nbsp;&nbsp;&nbsp;Jobs in Jhansi</option>
+<option class="level-1" value="78">&nbsp;&nbsp;&nbsp;Jobs in Kanpur</option>
+<option class="level-1" value="388">&nbsp;&nbsp;&nbsp;Jobs in Lucknow</option>
+<option class="level-1" value="68">&nbsp;&nbsp;&nbsp;Jobs in Mainpuri</option>
+<option class="level-1" value="116">&nbsp;&nbsp;&nbsp;Jobs in Mathura</option>
+<option class="level-1" value="622">&nbsp;&nbsp;&nbsp;Jobs in Mirzapur</option>
+<option class="level-1" value="439">&nbsp;&nbsp;&nbsp;Jobs in Varanasi</option>
+<option class="level-0" value="55">Uttarakhand</option>
+<option class="level-1" value="548">&nbsp;&nbsp;&nbsp;Govt Jobs in Nainital</option>
+<option class="level-1" value="151">&nbsp;&nbsp;&nbsp;Jobs in Almora</option>
+<option class="level-1" value="359">&nbsp;&nbsp;&nbsp;Jobs in Dehradun</option>
+<option class="level-1" value="56">&nbsp;&nbsp;&nbsp;Jobs in Haridwar</option>
+<option class="level-1" value="394">&nbsp;&nbsp;&nbsp;Pauri Garhwal</option>
+<option class="level-1" value="355">&nbsp;&nbsp;&nbsp;Tehri Garhwal</option>
+<option class="level-1" value="429">&nbsp;&nbsp;&nbsp;Udham Singh Nagar</option>
+<option class="level-0" value="217">Walk in Interview</option>
+<option class="level-0" value="610">WCD Jobs</option>
+<option class="level-0" value="7">West Bengal</option>
+<option class="level-1" value="137">&nbsp;&nbsp;&nbsp;Jobs in Alipurduar</option>
+<option class="level-1" value="296">&nbsp;&nbsp;&nbsp;Jobs in Bankura</option>
+<option class="level-1" value="330">&nbsp;&nbsp;&nbsp;Jobs in Basirhat</option>
+<option class="level-1" value="300">&nbsp;&nbsp;&nbsp;Jobs in Birbhum</option>
+<option class="level-1" value="177">&nbsp;&nbsp;&nbsp;Jobs in Cooch Behar</option>
+<option class="level-1" value="100">&nbsp;&nbsp;&nbsp;Jobs in Dakshin Dinajpur</option>
+<option class="level-1" value="305">&nbsp;&nbsp;&nbsp;Jobs in Darjeeling</option>
+<option class="level-1" value="171">&nbsp;&nbsp;&nbsp;Jobs in Hooghly</option>
+<option class="level-1" value="317">&nbsp;&nbsp;&nbsp;Jobs in Howrah</option>
+<option class="level-1" value="380">&nbsp;&nbsp;&nbsp;Jobs in Jalpaiguri</option>
+<option class="level-1" value="139">&nbsp;&nbsp;&nbsp;Jobs in Jhargram</option>
+<option class="level-1" value="98">&nbsp;&nbsp;&nbsp;Jobs in Kalimpong</option>
+<option class="level-1" value="227">&nbsp;&nbsp;&nbsp;Jobs in Kolkata</option>
+<option class="level-1" value="329">&nbsp;&nbsp;&nbsp;Jobs in Malda</option>
+<option class="level-1" value="221">&nbsp;&nbsp;&nbsp;Jobs in Murshidabad</option>
+<option class="level-1" value="196">&nbsp;&nbsp;&nbsp;Jobs in Nadia</option>
+<option class="level-1" value="138">&nbsp;&nbsp;&nbsp;Jobs in Purulia</option>
+<option class="level-1" value="421">&nbsp;&nbsp;&nbsp;North 24 Parganas</option>
+<option class="level-1" value="585">&nbsp;&nbsp;&nbsp;Paschim Bardhaman</option>
+<option class="level-1" value="8">&nbsp;&nbsp;&nbsp;Paschim Medinipur</option>
+<option class="level-1" value="320">&nbsp;&nbsp;&nbsp;Purba Medinipur</option>
+<option class="level-1" value="370">&nbsp;&nbsp;&nbsp;South 24 Parganas</option>
+<option class="level-1" value="595">&nbsp;&nbsp;&nbsp;UttarDinajpur District</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+</div></div> </div>
+<div id="footer-third" class="footer-widgets-box">
+<div id="text-4" class="footer-widget widget_text"><div class="footer-widget-top"><h4>Search Jobs Website</h4></div>
+<div class="footer-widget-container"> <div class="textwidget"><p><a title="Latest Jobs Career Notification for 8th 10th 12th Pass Govt Job" href="https://jobs20.in/" target="_blank" rel="noopener noreferrer">Jobs20.in</a> is a New Job Website for Rozgar Announcements and Jobs Career Notification Publish of Recruitment in India for All Type of Indian Sarkari Naukri Jobs. Search Latest Job Career Vacancy Openings for all India Job Sectors. Govt. Railway, Bank, Court, Police, Army Rally, Navy, Air Force Bharti Openings. After 8th 9th Pass, 10th 12th Pass, Graduates/ Post Graduate, Degree Diploma Vacancies in all States of India and District Wise Current Advertisement. Please Subscribe our Mailing List to Get Suitable and latest Indian Jobs in Your Mail Box &#8211; Free for All!! Search Government Jobs in India</p>
+</div>
+</div></div> </div>
+</div>
+<div class="clear"></div>
+</footer>
+<div class="clear"></div>
+<div class="footer-bottom">
+<div class="container">
+<div class="alignright">
+<a href="https://jobs20.in/sitemap.html">Sitemap</a>| Powered by <a href="https://jobs20.in">Jobs20.in</a> </div>
+<div class="social-icons">
+<a class="ttip-none" title="Rss" href="https://jobs20.in/feed/" target="_blank"><i class="fa fa-rss"></i></a><a class="ttip-none" title="Twitter" href="https://twitter.com/Jobs207" target="_blank"><i class="fa fa-twitter"></i></a>
+</div>
+<div class="alignleft">
+© Copyright 2020, All Rights Reserved </div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="topcontrol" class="fa fa-angle-up" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153516868-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153516868-1');
+</script><div id="reading-position-indicator"></div><script type='text/javascript' id='tie-scripts-js-extra'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"true","lightbox_gallery":"true","woocommerce_lightbox":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"","sticky_sidebar":"1","is_singular":"1","reading_indicator":"true","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/themes/sahifa/js/tie-scripts.js' id='tie-scripts-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/themes/sahifa/js/ilightbox.packed.js' id='tie-ilightbox-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/themes/sahifa/js/search.js' id='tie-search-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/plugins/easy-table-of-contents/vendor/smooth-scroll/jquery.smooth-scroll.min.js' id='jquery-smooth-scroll-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/plugins/easy-table-of-contents/vendor/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js' id='jquery-sticky-kit-js'></script>
+<script type='text/javascript' id='ez-toc-js-js-extra'>
+/* <![CDATA[ */
+var ezTOC = {"smooth_scroll":"1","visibility_hide_by_default":"","width":"auto","scroll_offset":"30"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jobs20.in/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js' id='ez-toc-js-js'></script>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e3e902449dc28f2',m:'59b960f0a5e7cea5b76e598b2b0fb652093a9e7c-1602985352-1800-ASSj06JNgXCKGpNyO7+1S07XG9HfpfYoLKT4CpGLMbAdp3jB0ViuE6/SFyYON8YLPlhLjILu8XIXDsPZFn3UcEE3KnmD2+I5sAcfwZkaDswinB3dM7BHirfQthMfA0859Ma41ljUVotUfeK6FYxDtR+CxXKXqv/IDHXNgm4npUQnG0zXxqiY4HrGjqpWmkY5Tw==',s:[0xc9a25acd4e,0xe3cbf6c9f3],}})();</script></body>
+</html>

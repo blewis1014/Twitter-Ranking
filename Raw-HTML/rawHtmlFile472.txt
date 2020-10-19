@@ -1,0 +1,1257 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>GFN 98.7MHz - Social Distancing Level 1 explained !</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="X-UA-Compatible" content="Chrome=1" />
+<link href="../img/gfn.ico" rel="shortcut icon">
+<link rel="stylesheet" href="../css/style.css" type="text/css" />
+<link rel="stylesheet" href="../css/style_object.css" type="text/css" />
+<link rel="stylesheet" href="../css/style_button.css" type="text/css" />
+<link rel="stylesheet" href="../css/colorbox.css" type="text/css" />
+<link rel="stylesheet" href="../css/simple-slider-volume.css" type="text/css" />
+<link rel="stylesheet" href="../css/jquery.bxslider.min.css" type="text/css" />
+
+
+<script type="text/javascript" src="../js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="../js/jClocksGMT.js"></script>
+<script type="text/javascript" src="../js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="../js/jquery.rollingBanner.js"></script>
+<script type="text/javascript" src="../js/fadeSlideShow.js"></script>
+<script type="text/javascript" src="../js/simple-slider.min.js"></script>
+<script type="text/javascript" src="../js/jquery.slides.min.js"></script>
+<script type="text/javascript" src="../js/common.js"></script>
+<script type="text/javascript" src="../js/jquery.menu.js"></script>
+<script type="text/javascript" src="../js/jquery.bxslider.min.js"></script>
+
+<script type="text/javascript">
+
+function getCookieVal (offset) {
+   var endstr = document.cookie.indexOf (";", offset);
+   if (endstr == -1) endstr = document.cookie.length;
+   return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+   var arg = name + "=";
+   var alen = arg.length;
+   var clen = document.cookie.length;
+   var i = 0;
+   while (i < clen) {	//while open
+      var j = i + alen;
+      if (document.cookie.substring(i, j) == arg)
+         return getCookieVal (j);
+      i = document.cookie.indexOf(" ", i) + 1;
+      if (i == 0) break; 
+   }	//while close
+   return null;
+}
+
+function SetCookie (name, value) {
+   var argv = SetCookie.arguments;
+   var argc = SetCookie.arguments.length;
+   var expires = (2 < argc) ? argv[2] : null;
+   var path = (3 < argc) ? argv[3] : null;
+   var domain = (4 < argc) ? argv[4] : null;
+   var secure = (5 < argc) ? argv[5] : false;
+   document.cookie = name + "=" + escape (value) +
+      ((expires == null) ? "" : 
+         ("; expires=" + expires.toGMTString())) +
+      ((path == null) ? "" : ("; path=" + path)) +
+      ((domain == null) ? "" : ("; domain=" + domain)) +
+      ((secure == true) ? "; secure" : "");
+} 
+
+$(function() {
+	$(".language a").click(function(e) {
+		//alert($(this).attr("href"));
+		
+		var lang = $(this).text();
+		var lang_cokie = "";
+
+		
+
+		if(lang == "CHINESE") {
+			lang_cookie = "cn";
+		} else if(lang == "KOREAN") {
+			lang_cookie = "ko";
+		} else {
+			lang_cookie = "en";
+		}
+		
+		//alert("lang_cookie : " + lang_cookie);
+		$.get('../ajax_lang_cookie.php', { lang: lang_cookie},  function(data) {
+			location.reload();
+		});
+		
+		/*
+		 * 만료일을 쿠키가 생성된 후 1시간으로 설정하겠다면 위의 예제에서 24(시간)를 
+		 * 1(시간) 로 바꾸어 주면 됩니다.	
+		 */
+		/*
+		var ExpDate = new Date();
+
+		ExpDate.setTime(ExpDate.getTime() + 1000*60*60*24);
+		SetCookie('lang_cookie', lang_cookie, ExpDate);
+		*/
+
+		e.preventDefault();
+	});
+});
+</script>
+
+<script type="text/javascript">
+	$(function() {
+		//Modal ColorBox
+		/* 익스플로러에서 오류를 발생시켜서 일단 주석처리함. 19.03.11 용도파악이 안됨. 
+		$(".preview").colorbox({rel:'preview', transition:"fade"});	
+		*/
+		
+
+	});
+</script>
+
+<script type="text/javascript">
+// 자바스크립트에서 사용하는 전역변수 선언
+var g4_path      = "..";
+var g4_bbs       = "bbs";
+var g4_bbs_img   = "img";
+var g4_url       = "http://www.gfn.or.kr";
+var g4_is_member = "";
+var g4_is_admin  = "";
+var g4_bo_table  = "afternoon_ado";
+var g4_sca       = "";
+var g4_charset   = "utf-8";
+var g4_cookie_domain = ".gfn.or.kr";
+var g4_is_gecko  = navigator.userAgent.toLowerCase().indexOf("gecko") != -1;
+var g4_is_ie     = navigator.userAgent.toLowerCase().indexOf("msie") != -1;
+</script>
+
+<script type="text/javascript">
+<!-- 
+	function live_open() 
+	{ 
+		window_with = 420; //새창의 너비 
+		window_height = 641; //새창의 높이 
+		screen_width = screen.availWidth; //화면 너비 (해상도) 
+		screen_height = screen.availHeight; //화면 높이 (해상도) 
+
+		//새창의 위치 
+		open_x = (screen_width - window_with) / 2; 
+		open_y = (screen_height - window_height) / 2; 
+		window.open("../live.php", "GFN_LIVE", "height=" + window_height + ", width=" + window_with + ", left=" + open_x + ", top=" + open_y + "directories=no,toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no"); 
+	} 
+//--> 
+</script>
+
+
+<!-- 리포트2.0 로그분석코드 시작 -->
+<script type="text/javascript">
+var JsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+var uname = escape("광주영어방송재단");
+document.write(unescape("%3Cscript id='log_script' src='" + JsHost + "gfn9870.weblog.cafe24.com/weblog.js?uid=gfn9870&uname="+uname+"' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- 리포트2.0  로그분석코드 완료 -->
+
+</head>
+
+
+
+<body>
+<a name="g4_head"></a>
+
+
+
+<div id="layout_top_wrap">
+
+	<div id="layout_top">	
+	
+		<div id="layout_top_left">
+			<a href="../index.php"><img src="../img/logo.jpg" alt="GFN Home" /></a>
+		</div>
+	
+		<div id="layout_top_right">
+			<div id="slogun">
+				<img src="../img/slogun.png" alt="Good times, great music, better life!" />
+			</div>
+			<div id="layout_top_right_top">
+				<ul id="selector">
+									<li class="active"><a href="../bbs/login.php?url=%2Fbbs%2Fboard.php%3Fbo_table%3Dafternoon_ado%26wr_id%3D900%250A" class="bold700 black">SIGN IN</a></li>
+					<li><a href="../bbs/register.php" class="bold700 red">REGISTER NOW</a></li>
+									<li class="language"></li>
+					<li class="language"><a href="../?lang=cn" class="bold700 black">CHINESE</a></li>
+					<li class="language"><a href="../?lang=en" class="bold700 black">ENGLISH</a></li>
+					<li class="language"><a href="../?lang=ko" class="bold700 black">KOREAN</a></li>
+				</ul>
+			</div>
+			<div id="layout_top_right_bottom">
+				<div id="todaydate">
+					<div class="9px bold700 black">
+						<div id="kst" class="clock_container">
+							<div class="digital">
+								<span class="dt"></span> <span class="hr"></span><span class="minute"></span><span class="sec"></span> <span class="period"></span> (KST)
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+	
+
+	</div>	
+</div>
+<!-- 서브 상단 출력 시작 -->
+
+<div id="layout_navigation_sub_wrap">
+		<div id="layout_navigation_bg">
+			<div id="layout_navigation">
+				<div id="layout_navigator_left">
+					<ul id='navigator'><li class='sub1 gnb_1dli'><a href='../page.php?menu_id=83' target='_self'   id="depth2_wrap1">GFN RADIO</a></li>
+<li class='sub2 gnb_1dli'><a href='../radio_intro.php?menu_id=84' target='_self'   id="depth2_wrap2">GFN NEWS</a></li>
+<li class='sub3 gnb_1dli'><a href='../bbs/board.php?bo_table=comm_notice&amp;menu_id=85' target='_self'   id="depth2_wrap3">COMMUNITY</a></li>
+<li class='sub4 gnb_1dli'><a href='../page.php?menu_id=86' target='_self'   id="depth2_wrap4">FOUNDATION</a></li>
+<li class='sub5 gnb_1dli'><a href='../bbs/board.php?bo_table=ELearning&amp;menu_id=470' target='_self'   id="depth2_wrap5">GFN / E_ Learning</a></li>
+</ul>				</div>
+				
+			<div id="layout_navigator_center" >
+					<!--
+			        <div id="contestlink">
+						<a href="http://www.debategfn.or.kr/main_7th.html" target="_blank"><img src="../images/menu_icon04.png"  alt="GFN Contest"></a>						
+					</div>
+					-->
+					<div id="snslink">
+							<a href="www.facebook.com/gfnradio" target="_blank"><img src="../images/menu_sns_icon01.png" alt="GFN Facebook"></a>
+							<a href="#" target="_blank"><img src="../images/menu_sns_icon02.png" alt="GFN Twitter"></a>
+							<a href="https://www.youtube.com/channel/UCkx6vtPZqXYgrmhXVc3uXnQ " target="_blank"><img src="../images/menu_sns_icon03.png" alt="GFN Youtube"></a>
+					</div>
+
+				</div>
+				<div id="layout_navigator_right">
+					<a href="http://www.gfn.or.kr/bbs/board.php?bo_table=supporters_mission&menu_id=288"><img src="../images/menu_icon03.png" alt="" /></a>
+				</div>
+
+			</div>		
+		</div>
+		<!-- 하단 메뉴 -->
+		<div class='depth2wrap depth2_wrap1  hide' >
+<ul class='depth2_menu sub1_1'>
+<li><a href='../page.php?menu_id=91' target='_self'>GFN Program</a></li>
+<li><a href='../page.php?menu_id=92' target='_blank'>tbs eFM Program</a></li>
+<li><a href='../bbs/board.php?bo_table=radio_special&amp;menu_id=93' target='_self'>Special Program</a></li>
+<li><a href='../page.php?menu_id=94' target='_self'>Schedule</a></li>
+</ul>
+</div>
+<div class='depth2wrap depth2_wrap2  hide' >
+<ul class='depth2_menu sub2_1'>
+<li><a href='../radio_intro.php?menu_id=95' target='_self'>Introduction</a></li>
+<li><a href='../bbs/board.php?bo_table=news_gfn&amp;menu_id=96' target='_self'>English News</a></li>
+<li><a href='../bbs/board.php?bo_table=news_chinese&amp;menu_id=280' target='_self'>Chinese News</a></li>
+<li><a href='../bbs/board.php?bo_table=info_covid&amp;menu_id=454' target='_self'>COVID-19 Update</a></li>
+<li><a href='../bbs/board.php?bo_table=news_aod&amp;menu_id=98' target='_self'>AOD Service</a></li>
+</ul>
+</div>
+<div class='depth2wrap depth2_wrap3  hide' >
+<ul class='depth2_menu sub3_1'>
+<li><a href='../bbs/board.php?bo_table=comm_notice&amp;menu_id=99' target='_self'>Foundation News & Notice</a></li>
+<li><a href='../bbs/board.php?bo_table=comm_free&amp;menu_id=102' target='_self'>Free Board</a></li>
+<li><a href='../bbs/board.php?bo_table=comm_notice&amp;sca=DOWNLOAD&amp;menu_id=100' target='_self'>Download</a></li>
+<li><a href='../bbs/board.php?bo_table=creative_notice&amp;menu_id=448' target='_self'>Be A Changemaker</a></li>
+<li><a href='../bbs/board.php?bo_table=supporters_mission&amp;menu_id=288' target='_self'>GFN Glocal supporters</a></li>
+<li><a href='../bbs/board.php?bo_table=comm_take&amp;menu_id=436' target='_self'>Comment/Complain/Contribute</a></li>
+</ul>
+</div>
+<div class='depth2wrap depth2_wrap4  hide' >
+<ul class='depth2_menu sub4_1'>
+<li><a href='../page.php?menu_id=103' target='_self'>Greetings</a></li>
+<li><a href='../page.php?menu_id=104' target='_self'>Overview</a></li>
+<li><a href='../bbs/board.php?bo_table=foundation_plan&amp;menu_id=210' target='_self'>Business plan</a></li>
+<li><a href='../page.php?menu_id=105' target='_self'>Organization</a></li>
+<li><a href='../page.php?menu_id=106' target='_self'>History</a></li>
+<li><a href='../bbs/board.php?bo_table=budget&amp;menu_id=107' target='_self'>IR</a></li>
+<li><a href='../page.php?menu_id=108' target='_self'>Charter</a></li>
+<li><a href='../bbs/board.php?bo_table=charter&amp;menu_id=206' target='_self'>Ethics charter</a></li>
+<li><a href='../page.php?menu_id=109' target='_self'>Advisory Council</a></li>
+<li><a href='../bbs/board.php?bo_table=predicament&amp;menu_id=110' target='_self'>Predicament</a></li>
+<li><a href='../page.php?menu_id=111' target='_self'>Reports</a></li>
+<li><a href='../page.php?menu_id=112' target='_self'>Location</a></li>
+<li><a href='../bbs/board.php?bo_table=charter01&amp;menu_id=445' target='_self'>인권경영 헌장</a></li>
+</ul>
+</div>
+<div class='depth2wrap depth2_wrap5  hide' >
+<ul class='depth2_menu sub5_1'>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=A-Ha+Korea%21&amp;menu_id=471' target='_self'>A-Ha Korea!</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=Common+Mistakes&amp;menu_id=472' target='_self'>Common Mistakes</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=English+Trouble+Shooter&amp;menu_id=473' target='_self'>English Trouble Shooter</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=This+Morning+English&amp;menu_id=474' target='_self'>This Morning English</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=%EC%98%81%EC%96%B4%EB%A1%9C+%EC%96%B4%EB%96%BB%EA%B2%8C%3F&amp;menu_id=475' target='_self'>영어로 어떻게?</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=Speaking+Easy&amp;menu_id=476' target='_self'>Speaking Easy</a></li>
+<li><a href='../bbs/board.php?bo_table=ELearning&amp;sca=GFN+Audio+Book&amp;menu_id=477' target='_self'>GFN Audio Book</a></li>
+</ul>
+</div>
+
+</div>
+<!--  서브 시작 -->
+<div id="layout_navigation_sub_bottom">
+</div>
+<!-- 서브 상단 출력 끝 -->
+<div id="layout_main_content_wrap">
+	<div id="layout_sub_content">
+		<div id="layout_sub_content_top">
+			<!-- 페이지 타이틀 -->
+			<h1>
+				The Afternoon Show with JD			</h1>
+
+			
+											<span class="dayofweek">Everyday (mon-sun)</span><span class="local"> 12:10 - 14:00</span>
+										
+
+				
+			<div class="alignright">TEXT US TO <span class="pinkred">#9870</span></div>
+					</div>
+		<div id="layout_sub_content_left">
+
+			<!-- GPN 각 프로그램별 서브 메뉴 시작 -->
+						<div style="clear: both;position:relative;width: 190px;margin: 0 auto;height: 30px;">
+				<img src="../img/radio_prog_menu.jpg" alt="" />
+			</div>			
+			<ul class="sub_left_munu">
+				<li><a href='../radio_intro.php?menu_id=303' target='_self'>INTRODUCTION</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_playlist&amp;menu_id=304' target='_self'>PLAY LIST</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_gallery&amp;menu_id=305' target='_self'>PHOTO GALLERY</a></li>
+<li class='active'><a href='../bbs/board.php?bo_table=afternoon_ado&amp;menu_id=306' target='_self'>AOD SERVICE</a></li>
+<li>
+<ul class='sub_left_munu_list'>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=Try+it+1%2C+2&amp;menu_id=330' target='_self'>Try it 1, 2(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;menu_id=339' target='_self'>Bus tour(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=Bitgoeul+Center&amp;menu_id=342' target='_self'>Bitgoeul Center(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;menu_id=343' target='_self'>Get Active 1, 2 (Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=disaster+management&amp;menu_id=356' target='_self'>disaster management(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=WLB&amp;menu_id=358' target='_self'>WLB(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=jeolla+1000+years&amp;menu_id=357' target='_self'>jeolla 1000 years(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=New+Trending+Words%282020%29&amp;menu_id=478' target='_self'>New Trending Words(2020)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=Inspire+Me%282020%29&amp;menu_id=479' target='_self'>Inspire Me(2020)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=idiom+story&amp;menu_id=377' target='_self'>idiom story(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;menu_id=378' target='_self'>gwangju art(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=Special+Documentary&amp;menu_id=420' target='_self'>Special Documentary(Archive)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=Home+cooking+%282020%29&amp;menu_id=481' target='_self'>Home cooking (2020)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=%28K%29+Pop+singalong+%282020%29&amp;menu_id=482' target='_self'>(K) Pop singalong (2020)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=ESL+101+drills+%282020%29&amp;menu_id=484' target='_self'>ESL 101 drills (2020)</a></li>
+<li><a href='../bbs/board.php?bo_table=afternoon_ado&amp;sca=JD+and+Guests+%282020%29&amp;menu_id=485' target='_self'>JD and Guests (2020)</a></li>
+</ul>
+</li>
+			</ul>
+			<div class="height40"></div>
+						<!-- GPN 각 프로그램별 서브 메뉴 끝 -->
+
+			<div style="clear: both;position:relative;width: 190px;margin: 0 auto; height: 30px;">
+								<img src="../data/menu/en_83" alt="" />
+							</div>						
+			<ul class="sub_left_munu">
+			<li><a href='../page.php?menu_id=91' target='_self'>GFN Program</a></li><li>
+<ul class='sub_left_munu_list'><li><a href='../radio_intro.php?menu_id=216' target='_self'>This Morning Gwangju</a></li><li><a href='../radio_intro.php?menu_id=113' target='_self'>City of Light</a></li><li><a href='../radio_intro.php?menu_id=116' target='_self'>Hello Korea</a></li><li><a href='../radio_intro.php?menu_id=119' target='_self'>Listen to China</a></li><li><a href='../radio_intro.php?menu_id=117' target='_self'>The Drop with Danno</a></li><li><a href='../radio_intro.php?menu_id=360' target='_self'>Real Talk</a></li><li><a href='../radio_intro.php?menu_id=211' target='_self'>music plus</a></li><li><a href='../radio_intro.php?menu_id=123' target='_self'>Sunday Talk</a></li><li><a href='../radio_intro.php?menu_id=292' target='_self'>VIVA DJ</a></li><li><a href='../radio_intro.php?menu_id=317' target='_self'>Xin Chào  Vietnam</a></li><li><a href='../radio_intro.php?menu_id=302' target='_self'>The Afternoon Show with JD</a></li><li><a href='../radio_intro.php?menu_id=395' target='_self'>Wide&Wise</a></li><li><a href='../radio_intro.php?menu_id=404' target='_self'>Request 987</a></li><li><a href='../radio_intro.php?menu_id=408' target='_self'>Behind the News</a></li><li><a href='../radio_intro.php?menu_id=423' target='_self'>Hello Gwangju & Hello Busan</a></li></ul></li>
+<li><a href='../page.php?menu_id=92' target='_blank'>tbs eFM Program</a></li><li><a href='../bbs/board.php?bo_table=radio_special&amp;menu_id=93' target='_self'>Special Program</a></li><li>
+<ul class='sub_left_munu_list'><li><a href='../bbs/board.php?bo_table=special_aod&amp;menu_id=195' target='_self'>엄마나라 말 배우는 아이들</a></li><li><a href='../bbs/board.php?bo_table=special_aod_03&amp;menu_id=240' target='_self'>섬마을라디오스타</a></li><li><a href='../bbs/board.php?bo_table=special_aod_01&amp;menu_id=197' target='_self'>BROKEN ENGLISH</a></li><li><a href='../bbs/board.php?bo_table=special_aod_07&amp;menu_id=334' target='_self'>The Hidden History of Korea</a></li><li><a href='../bbs/board.php?bo_table=special_aod_08&amp;menu_id=337' target='_self'>A Memory Never Lost</a></li><li><a href='../bbs/board.php?bo_table=special_aod_09&amp;menu_id=372' target='_self'>‘A Mother’s 38 Year Dark Silence’</a></li><li><a href='../bbs/board.php?bo_table=special_aod_10&amp;menu_id=384' target='_self'>전라도정도 천년 특집다큐</a></li><li><a href='../bbs/board.php?bo_table=special_aod_11&amp;menu_id=386' target='_self'>Making Waves Behind Bars</a></li><li><a href='../bbs/board.php?bo_table=special_aod_12&amp;menu_id=387' target='_self'>Forgotten Tears, Forgotten songs</a></li><li><a href='../bbs/board.php?bo_table=special_aod_13&amp;menu_id=421' target='_self'>Do You Know May 18?</a></li><li><a href='../bbs/board.php?bo_table=special_aod_14&amp;menu_id=429' target='_self'>A Step Toward Hope</a></li><li><a href='../bbs/board.php?bo_table=special_aod_15&amp;menu_id=430' target='_self'>반쪽의 유산</a></li><li><a href='../bbs/board.php?bo_table=special_aod_16&amp;menu_id=452' target='_self'>세계의 알파벳 &#39;돌민정음&#39;</a></li><li><a href='../bbs/board.php?bo_table=special_aod_17&amp;menu_id=486' target='_self'>FALL INTO JAZZ</a></li></ul></li>
+<li><a href='../page.php?menu_id=94' target='_self'>Schedule</a></li>			</ul>
+			
+					</div>
+
+		
+		<div id="layout_sub_content_right">
+						<div id="content_area">
+						<div id="navigation_map">
+				<span class="middlegray">HOME</span> - <span class="middlegray">GFN RADIO</span> - <span class="middlegray">GFN Program</span> - <span class="middlegray">The Afternoon Show with JD</span> - <span class="black bold700">AOD SERVICE</span>			</div>
+						<div id="page_content">
+			
+				<br /><script type="text/javascript" src="../js/sideview.js"></script>
+<script type='text/javascript' src='../js/ajax.js'></script><link rel='stylesheet' type='text/css' href='../skin/board/aod_service/style.css' />
+<div class="jyboard" style="width:97%">
+
+	<!-- 게시물 상단 !-->
+	<div class="article_head">
+		<div class="article_etc">
+			<a class="btn_sizeplus" href="javascript:size_font(18);">BIGGER</a>
+			<a class="btn_sizeminus" href="javascript:size_font(12);">SMALLER</a>
+			<a class="btn_print" href="javascript:print_article('900');">PRINT</a>
+		</div>
+		<!-- 게시물 제목 !-->
+		<h4 id="article_title" class="article_tit"><span class="category">[New Trending Words(2020)]</span>Social Distancing Level 1 explained</h4>
+		<!-- //게시물 제목 !-->
+		<div class="article_info">
+			<div class="fleft">
+				<span id="article_writer" class="txt_writer"><span class='member'>gfn3</span></span>
+							</div>
+			<div class="fright">
+				<span id="article_time">2020-10-16 21:25:05</span>
+				<span class="bar">|</span>
+				<span id="article_hit"><span>VIEWS</span> 140</span>
+				<span class="bar">|</span>
+				<span id="article_comment"><span>COMMENTS</span> 0</span>
+								<!--
+				<span class="bar">|</span><span><span>신고</span>0</span>
+!-->
+			</div>
+		</div>
+	</div>
+	<!-- //게시물 상단 !-->
+	<!-- 게시물 본문 !-->
+	<div class="article_body">
+	<ul class='ad_list_area'><li id='file_sector_0' class='first'><a href='#'>Social_distancin_Level_1.m4a</a> <a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_T9ceY2xs_Social_distancin_Level_1.m4a&bo_table=afternoon_ado&wr_id=900&no=0")' class='play_btn'>&nbsp;<img src='../img/ico_aod.jpg' alt='play' style='vertical-align:text-bottom' /></a><span class='txt_size'>(5.7M)</span></li></ul>		<!-- 게시물 내용 !-->
+		<div id="writeContents"><p><span style="font-size: 12pt;">Korea recently moved back to social distancing level !&nbsp;</span></p><p>&nbsp;</p><p><span style="font-size: 12pt;">What does it mean and entail?&nbsp;</span></p><p>&nbsp;</p><p><span style="font-size: 12pt;">Find out more with Stacey in our AOD podcast ! Just click and listen&nbsp;</span></p><p>&nbsp;</p><p><span style="font-size: 16px;">You can tune into fresh updates with Stacey every Tuesday from 12:30-1pm on&nbsp;</span></p><p><span style="font-size: 16px;"><a href="http://www.gfn.or.kr">www.gfn.or.kr</a>&nbsp;</span></p><p>&nbsp;</p><p>&nbsp;</p></div>
+		<!-- //게시물 내용 !-->
+		<!-- 추천영역 !-->
+				<!-- //추천영역 !-->
+			</div>
+	<!-- //게시물 본문 !-->
+	<!-- 게시물 하단 !-->
+	<div class="article_foot">
+		<div class="fleft">
+									<a class="btn_list" href="./board.php?bo_table=afternoon_ado&page=" title="LIST">LIST</a>
+		</div>
+		<div class="fright">
+			<!--  -->
+			<!-- 스크랩 레이어 !-->
+			<dl id="scrap_layer" class="scrap_wrap">
+				<dt>SCRAP</dt>
+				<dd class="btn_facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gfn.or.kr%2Fbbs%2Fboard.php%3Fbo_table%3Dafternoon_ado%26wr_id%3D900%250A" target="_blank">FACEBOOK</a></dd>
+				<dd class="btn_twitter"><a href="http://twitter.com/home/?status=http%3A%2F%2Fwww.gfn.or.kr%2Fbbs%2Fboard.php%3Fbo_table%3Dafternoon_ado%26wr_id%3D900%250A" target="_blank">TWITTER</a></dd>
+			</dl>
+			<!-- //스크랩 레이어 !-->
+			<a id="btn_scrap" class="btn_scrap" href="javascript:layer_scrap();" title="SCRAP">SCRAP</a>
+<!--
+			<a class="btn_claim" href="javascript:layer_claim();" title="REPORT TO A SPAM">REPORT TO A SPAM</a>
+!-->
+		</div>
+	</div>
+	<!-- //게시물 하단 !-->
+	
+	<!-- 게시판 하단 버튼 !-->
+	<div class="bo_btn bo_btm">
+		<div class="fleft">
+		<a class="btn_list" href="./board.php?bo_table=afternoon_ado&page=" title="LIST">LIST</a>
+						</div>
+		<div class="fright">
+								<a class="btn_write" href="" title="NEW POST">NEW POST</a>
+		</div>
+
+	</div>
+	<!-- //게시판 하단 버튼 !-->	
+	
+			<div>
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+		var disqus_shortname = 'gfnradio'; // required: replace example with your forum shortname
+
+		/* * * DON'T EDIT BELOW THIS LINE * * */
+		(function() {
+			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+			dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		})();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>	
+	</div>
+
+</div>
+<script type="text/javascript" src="../js/board.js"></script>
+<script type="text/javascript">
+
+// play
+/*
+$(".play_btn").live("click", function(e) {
+	var url = $(this).attr("href");
+	if(url) 
+	{
+		var h_h=260; //높이 
+		var w_h=250; //넓이 
+		var screen_height=parent.screen.height; 
+		var screen_width=parent.screen.width; 
+		var h_size = (screen_height) ? (screen_height-h_h)/2 : 0; //창위치(상단) 
+		var w_size = (screen_width) ? (screen_width-w_h)/2 : 0; //창위치(가로) 
+
+		opt = 'scrollbars=yes,width=250,height=260,top=' + h_size + ',left=' + w_size;
+		window.open(url, "play_win", opt);
+		e.preventDefault();
+	}
+});
+*/
+function play_aod_win(url)
+{
+		var h_h=260; //높이 
+		var w_h=250; //넓이 
+		var screen_height=parent.screen.height; 
+		var screen_width=parent.screen.width; 
+		var h_size = (screen_height) ? (screen_height-h_h)/2 : 0; //창위치(상단) 
+		var w_size = (screen_width) ? (screen_width-w_h)/2 : 0; //창위치(가로) 
+
+		opt = 'scrollbars=yes,width=250,height=260,top=' + h_size + ',left=' + w_size;
+		window.open(url, "play_win", opt);
+}
+
+// 스크랩레이어
+var layer_scrap = function() {
+
+	$button = jQuery("#btn_scrap");
+	$layer = jQuery("#scrap_layer");
+
+	if($button.hasClass("on")) {
+		$button.removeClass("on");
+		$layer.hide('fast');
+	} else {
+		$button.addClass("on");
+		$layer.show('fast');
+		
+	}
+}
+
+// 인쇄
+function print_article(wr_id) { 
+
+	var page_width = jQuery("#writeContents").width()+70;
+	var page_height = jQuery("#writeContents").height()+285;
+	var PrintPage = window.open("about:blank", "article"+wr_id, "menubar=no,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,width=" + page_width + ",height=" + page_height + ",left=0,top=0");
+	var $page = PrintPage.document;
+
+	$page.open(); 
+	//<![CDATA[
+	var page_html = "<html>";
+	page_html += "\n<head>";
+	page_html += "\n<title>GFN 98.7MHz</title>";
+	page_html += "\n<style type='text/css'>";
+	page_html += "\nbody {margin:0;}";
+	page_html += "\n* {font-family:dotum; font-size:12px;}";
+	page_html += "\n.head {padding:17px 0 18px 30px; border-top:2px solid #bdbdbd; border-bottom:1px solid #efefef; background:#f9f9f9;}";
+	page_html += "\n.head .info {padding-top:7px; font-size:11px; color:#999; *zoom:1;}";
+	page_html += "\n.head .info:after {content:''; display:block; clear:both;}";
+	page_html += "\n.head .info span {float:left; font-size:11px;}";
+	page_html += "\n.head .info span.txt_writer {color:#666;}";
+	page_html += "\n.head .info span.bar {width:19px; background:url('../skin/board/aod_service/img/sprites_ico.gif') no-repeat 4px -731px; text-indent:-9000px;}";
+	page_html += "\n.body {padding:30px 30px 40px 30px; color:#444;}";
+	page_html += "\n.foot p {margin:0; padding:20px 0 20px 29px; border-top:1px solid #e4e4e4; border-bottom:1px solid #e4e4e4; color:#666; *zoom:1;}";
+	page_html += "\n.foot p:after {content:''; display:block; clear:both;}";
+	page_html += "\n.foot p span {float:left; height:13px; font-size:11px;}";
+	page_html += "\n.foot p span.txt_title {padding:0 8px 0 19px; font-weight:bold; background:url('../skin/board/aod_service/img/sprites_ico.gif') no-repeat 0 -71px;}";
+	page_html += "\n.foot .btn {padding:20px 0; text-align:center;}";
+	page_html += "\n.foot .btn a {display:inline-block; height:21px; background:url('../skin/board/aod_service/img/sprites_btn.gif') no-repeat; text-indent:-9000px; overflow:hidden; *display:inline; *zoom:1;}";
+	page_html += "\n.foot .btn a.btn_print {margin-right:1px; width:56px; background-position:-1275px 0;}";
+	page_html += "\n.foot .btn a.btn_close {width:37px; height:21px; background-position:-1191px 0;}";
+	page_html += "\n</style>";
+	page_html += "\n</head>";
+	page_html += "\n<body>";
+		page_html += "\n<div class='head'>";
+			page_html += "\n<h4 style='padding:2px 20px 0 0; font-size:14px; font-weight:bold; color:#101010;'>\n";
+			page_html +=jQuery("#article_title").html();
+			page_html += "\n</h4>";
+			page_html += "\n<div class='info'>";
+			page_html += "\n<span class='txt_writer'>"+jQuery("#article_writer").text()+"</span>";
+			page_html += "\n<span class='bar'>|</span>";
+			page_html += "\n<span>"+jQuery("#article_time").text()+"</span>";
+			page_html += "\n<span class='bar'>|</span>";
+			page_html += "\n<span>"+jQuery("#article_hit").text()+"</span>";
+			page_html += "\n<span class='bar'>|</span>";
+			page_html += "\n<span>"+jQuery("#article_comment").text()+"</span>";
+			page_html += "\n</div>";
+	page_html += "\n</div>";
+	page_html += "\n<div class='body'>\n";
+	page_html +=jQuery("#writeContents").html(); 
+	page_html += "\n</div>";
+	page_html += "\n<div class='foot'>";
+		page_html += "\n<p>";
+		page_html += "\n<span class='txt_title'>URL:</span>";
+		page_html += "\n<span class='txt_url'>"+location.href+"</span>";
+		page_html += "\n</p>";
+		page_html += "\n<div class='btn'>&nbsp;";
+		page_html += "\n<a href='javascript:window.print();'; class='btn_print' title='PRINT'>PRINT</a>";
+		page_html += "<a href='javascript:window.close();'; class='btn_close' title='CANCEL'>CANCEL</a>";
+		page_html += "\n</div>";
+	page_html += "\n</div>";
+	page_html += "\n</body>"; 
+	page_html += "\n</html>"; 
+	//]]>
+	$page.write(page_html);
+	$page.close(); 
+}
+
+
+var size_font = function(size) {
+
+	jQuery("#writeContents").css({"font-size":size+"px"});
+
+}
+
+var layer_file = function(file) {
+
+	var $file = jQuery("#file_sector_"+file);
+
+	if($file.children(".btn_handle").hasClass("on")) {
+		$file.children(".btn_handle").removeClass("on");
+		$file.children(".txt_file_content").hide();
+	} else {
+		$file.children(".btn_handle").addClass("on");
+		$file.children(".txt_file_content").show();
+	}
+}
+
+var layer_claim = function() {
+
+	jQuery.ajax({
+		type: "POST",
+		url: "../skin/board/aod_service/claim.php",
+		data:
+			{
+			},
+		dataType : "html",
+		success: function(msg) {
+
+			jQuery("body").prepend(decodeURIComponent(msg));
+			jQuery('#popupLayer').find('>.bg_opacity').mousedown(function(event) {
+				close_layer();
+			});
+			jQuery(window).bind("resize", function() {
+				jQuery("#popupLayer").css("height", document.documentElement.clientHeight+"px").show();
+				jQuery(".bg_opacity").css("height", document.documentElement.clientHeight+"px").show();
+			}).trigger("resize");
+		}
+	});
+}
+
+var close_layer = function() {
+
+	jQuery('#popupLayer').remove();
+	return false;
+}
+</script>
+<script type="text/javascript">
+function file_download(link, file) {
+		document.location.href=link;
+}
+
+window.onload=function() {
+	resizeBoardImage(600);
+	drawFont();
+}
+</script>
+<script type='text/javascript' src='../skin/board/aod_service/js/common.js'></script>
+<div class="jyboard" style="width:97%">
+	<div class="list_top jybo_top">
+		<div class="fleft">
+		<span class="txt_bo_name">afternoon_aod</span>
+		<span class="bar">|</span>
+		<span class="txt_count">TOTAL <em>851</em></span>
+		</div>
+		<div class="fright">
+						<div id="se-ctgr" class="jyselect se_ctgr">
+				<a class="selected selected_ctgr" href="javascript:;" title="ALL">ALL</a>
+				<ul><li><a href="./board.php?bo_table=afternoon_ado&sca=Home+cooking+%282020%29">Home cooking (2020)</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=%28K%29+Pop+singalong+%282020%29">(K) Pop singalong (2020)</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=JD+and+Guests+%282020%29+">JD and Guests (2020) </a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=ESL+101+drills+%282020%29+">ESL 101 drills (2020) </a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=New+Trending+Words%282020%29">New Trending Words(2020)</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=+Inspire+Me%282020%29"> Inspire Me(2020)</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=Try+it+1%2C+2">Try it 1, 2</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=Bus+tour">Bus tour</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=Bitgoeul+Center">Bitgoeul Center</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=Get+Active+1%2C+2">Get Active 1, 2</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=disaster+management">disaster management</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=jeolla+1000+years">jeolla 1000 years</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=WLB">WLB</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=idiom+story">idiom story</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=gwangju+art">gwangju art</a></li><li><a href="./board.php?bo_table=afternoon_ado&sca=Special+Documentary">Special Documentary</a></li></ul>
+			</div>
+					</div>
+	</div>
+	<form name="fboardlist" action="#boardlist" method="post">
+	<input type='hidden' name='bo_table'	value='afternoon_ado' />
+	<input type='hidden' name='sfl'		value='' />
+	<input type='hidden' name='stx'		value='' />
+	<input type='hidden' name='spt'		value='' />
+	<input type='hidden' name='page'	value='1' />
+	<input type='hidden' name='sw'		value='' />
+	<table class="list_body" summary="afternoon_aodLIST">
+	<caption>afternoon_aodLIST</caption>
+	<colgroup>
+	<col width="50px" />
+		<col width="" />
+	<col width="50px" />
+	</colgroup>
+	<thead>
+		<tr>
+			<th>NO</th>
+						<th>TITLE</th>
+			<th><a href='/bbs/board.php?bo_table=afternoon_ado&sop=and&amp;sst=wr_hit&amp;sod=desc&amp;sfl=&amp;stx=&amp;page=1'>COUNT</a></th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr class="">
+			<td class="item_no">851</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=900'>[New Trending Words(2020)]</a><span class='current'>Social Distancing Level 1 explained</span></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_T9ceY2xs_Social_distancin_Level_1.m4a&bo_table=afternoon_ado&wr_id=900&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>141</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">850</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=899'>[ESL 101 drills (2020) ]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=899'>Common Fruit Names</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_56kAEDTK_ESL_common_fruit.m4a&bo_table=afternoon_ado&wr_id=899&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>127</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">849</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=898'>[ESL 101 drills (2020) ]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=898'>Common Vegetable Names</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_gy0SNCVJ_Common_vegetables.m4a&bo_table=afternoon_ado&wr_id=898&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>116</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">848</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=897'>[(K) Pop singalong (2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=897'>Really bad singing - Blackpink Ice Cream cover by JD + Autum…</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_rZGoCguq_sing_BP_ice_cream.m4a&bo_table=afternoon_ado&wr_id=897&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>108</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">847</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=896'>[(K) Pop singalong (2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=896'>Really bad singing - Bilie Eilish My future cover by JD + Au…</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_ZjEd6eFV_sing_billie_e_my_future.m4a&bo_table=afternoon_ado&wr_id=896&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><span>84</span></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">846</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=895'>[(K) Pop singalong (2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=895'>Really bad singing - Hyuna Ice Cream cover by JD + Autumn</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_z3VLuyJH_sing_hyuna_ice_cream.m4a&bo_table=afternoon_ado&wr_id=895&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><span>83</span></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">845</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=894'>[ Inspire Me(2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=894'>Inspiring Quotes from Pengsoo (Eng and Kor)</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_WV6XNSoR_Pengsoo.m4a&bo_table=afternoon_ado&wr_id=894&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>108</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">844</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=893'>[ Inspire Me(2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=893'>Inspiring Quotes from Helen Keller (Eng and Kor)</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_qPRBUTJm_Hellen_Keller.m4a&bo_table=afternoon_ado&wr_id=893&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><span>92</span></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">843</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=892'>[New Trending Words(2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=892'>All about 한글날 / Hangeul Day 9th October</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_pWR3cU0g_Hangeul_Day_New_words.m4a&bo_table=afternoon_ado&wr_id=892&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>232</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">842</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=891'>[ Inspire Me(2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=891'>Inspiring Quotes from KING SEJONG 세종대왕 / 한글날  …</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_0yxbLjI4_King_Sejong.m4a&bo_table=afternoon_ado&wr_id=891&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>214</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">841</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=890'>[JD and Guests (2020) ]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=890'>JD & Elie tallk about Street food in Peru</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_T0d1MkYD_Streetfood_Peru.m4a&bo_table=afternoon_ado&wr_id=890&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>178</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">840</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=889'>[JD and Guests (2020) ]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=889'>JD & Ellie talk about Street food in Brazil</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_FZevj7rU_Streetfood_Brazil.m4a&bo_table=afternoon_ado&wr_id=889&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>172</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">839</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=888'>[JD and Guests (2020) ]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=888'>JD & Ellie talk about Street food in Mexico</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_uZoXGfaU_Streetfood_Mexico.m4a&bo_table=afternoon_ado&wr_id=888&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>174</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">838</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=887'>[Home cooking (2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=887'>Chuseok Leftovers recipe : Meat Jeon Pizza (Eng & Kor)</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_615IfeHZ_meat_jeon_pizza.m4a&bo_table=afternoon_ado&wr_id=887&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>215</em></td>
+		</tr>
+				<tr class="">
+			<td class="item_no">837</td>
+						<td class="item_subject">
+								<span class="article_type"><span class='ico_pack2 ico_txt2'>TEXT</span></span>
+				<div class="subject_area"><a class='txt_category' href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=886'>[Home cooking (2020)]</a><a href='../bbs/board.php?bo_table=afternoon_ado&amp;wr_id=886'>Chuseok Leftovers recipe : Fried Songpyeon (Eng & Kor)</a></div>								
+				<!-- //////////////////////////////////////////////////////////////////////////
+				mp3 링크
+				////////////////////////////////////////////////////////////////////////////////-->
+				&nbsp;<a href='#' onclick='play_aod_win("../player_aod.php?pdir=afternoon_ado&pname=3667713566_6WtkvZf5_fried_songpyeon.m4a&bo_table=afternoon_ado&wr_id=886&no=0")' class='play_btn'><img src='../img/ico_aod.jpg' alt='play' /></a> 			</td>
+			<td class="item_hit"><em>145</em></td>
+		</tr>
+			</tbody>
+	</table>
+	</form>
+	<div class="paging_area"><div class='new_page'>&nbsp;<span class='pre2' title='맨앞'>맨앞</span><span class='pre' title='이전'>이전</span><span class='first curent'>1</span><a href='./board.php?bo_table=afternoon_ado&page=2'>2</a><a href='./board.php?bo_table=afternoon_ado&page=3'>3</a><a href='./board.php?bo_table=afternoon_ado&page=4'>4</a><a href='./board.php?bo_table=afternoon_ado&page=5'>5</a><a href='./board.php?bo_table=afternoon_ado&page=6'>6</a><a href='./board.php?bo_table=afternoon_ado&page=7'>7</a><a href='./board.php?bo_table=afternoon_ado&page=8'>8</a><a href='./board.php?bo_table=afternoon_ado&page=9'>9</a><a href='./board.php?bo_table=afternoon_ado&page=10'>10</a><a href='./board.php?bo_table=afternoon_ado&page=11'>11</a><a href='./board.php?bo_table=afternoon_ado&page=12'>12</a><a href='./board.php?bo_table=afternoon_ado&page=13'>13</a><a href='./board.php?bo_table=afternoon_ado&page=14'>14</a><a href='./board.php?bo_table=afternoon_ado&page=15'>15</a><a href='./board.php?bo_table=afternoon_ado&page=16' class='next' title='다음'></a><a href='./board.php?bo_table=afternoon_ado&page=57' class='next2' title='맨뒤'></a></div></div>	<div class="list_btm">
+		<div class="fleft">
+		<a class="btn_search" href="javascript:layer_search();" title="admin">ADMIN</a>
+		<div id="se_sector" class="fleft" style="display:none;">
+		<form name="fsearch" method="get">
+		<input type="hidden" name="bo_table" value="afternoon_ado">
+		<input type="hidden" name="sca" value="">
+		<input type="hidden" name="sfl" value="wr_subject">
+		<input type="hidden" name="sop" value="and">
+			<div id="se-sfl" class="jyselect se_sfl">
+				<a class="selected selected_sfl" href="javascript:;" title="SEARCH ITEM">TITLE</a>
+				<ul>
+					<li><a href="javascript:;" onclick="click_select(this, 'wr_subject');" title="TITLE">TITLE</a></li>
+					<li><a href="javascript:;" onclick="click_select(this, 'wr_content');" title="CONTENT">CONTENT</a></li>
+					<li><a href="javascript:;" onclick="click_select(this, 'wr_subject||wr_content');" title="TITLE+CONTENT">TITLE+CONTENT</a></li>
+				</ul>
+			</div>
+			<div class="input_stx_wrap">
+			<input id="stx" name="stx" class="inputbox" maxlength="15" itemname="KEYWORD" required value='' style="width:104px;">
+			<label for="stx">KEYWORD</label>
+			</div>
+			<div id="se-sop" class="jyselect se_sop">
+				<a class="selected selected_sop" href="javascript:;" title="">AND</a>
+				<ul>
+					<li><a href="javascript:;" onclick="click_select(this, 'and');" title="AND">AND</a></li>
+					<li><a href="javascript:;" onclick="click_select(this, 'or');" title="OR">OR</a></li>
+				</ul>
+			</div>
+			<input type="image" src="../skin/board/aod_service/img/btn_search.gif" class="btn_submit" alt="SEARCH" />
+		</form>
+		</div>
+		</div>
+		<div class="fright">
+									
+			<a class="btn_write" href="../bbs/write.php?bo_table=afternoon_ado" title="NEW POST">NEW POST</a>
+
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+// play
+
+/*
+$(".play_btn").live("click", function(e) {
+	var url = $(this).attr("href");
+	if(url)
+	{
+		var h_h=260; //높이
+		var w_h=250; //넓이
+		var screen_height=parent.screen.height;
+		var screen_width=parent.screen.width;
+		var h_size = (screen_height) ? (screen_height-h_h)/2 : 0; //창위치(상단)
+		var w_size = (screen_width) ? (screen_width-w_h)/2 : 0; //창위치(가로)
+
+		opt = 'scrollbars=yes,width=250,height=260,top=' + h_size + ',left=' + w_size;
+		window.open(url, "play_win", opt);
+		e.preventDefault();
+	}
+});
+*/
+function play_aod_win(url)
+{
+		var h_h=260; //높이
+		var w_h=250; //넓이
+		var screen_height=parent.screen.height;
+		var screen_width=parent.screen.width;
+		var h_size = (screen_height) ? (screen_height-h_h)/2 : 0; //창위치(상단)
+		var w_size = (screen_width) ? (screen_width-w_h)/2 : 0; //창위치(가로)
+
+		opt = 'scrollbars=yes,width=250,height=260,top=' + h_size + ',left=' + w_size;
+		window.open(url, "play_win", opt);
+}
+
+// 검색 레이어
+var layer_search = function() {
+	if(jQuery("#se_sector").is(":hidden")) {
+		jQuery("#se_sector").show();
+		jQuery("#stx").focus();
+	} else {
+		jQuery("#se_sector").hide();
+	}
+}
+
+/* 안내 열기,닫기 */
+var layer_point = function() {
+
+	$handle = jQuery("#btn_anno_point");
+	$target = jQuery("#point_layer");
+
+	if($handle.hasClass("on")) {
+		$handle.removeClass("on");
+		$target.hide();
+		jQuery("#point_layer_arrow").remove();
+	} else {
+		var $offset = $handle.offset();
+		var $offset = $handle.offset();
+		var $top = $offset.top+29;
+		var $left = $offset.left+16;
+		jQuery("#fixed-top-layer").append("<div id='point_layer_arrow' class='ico_arrow' style='top:"+$top+"px; left:"+$left+"px'><span class='ico_up_dgray'></span></div>");
+		$handle.addClass("on");
+		$target.show();
+
+	}
+}
+
+var click_select = function(el, value) {
+	event_select(jQuery(el), value);
+}
+
+var load_select = function(sfl) {
+	$this = jQuery("a[onclick*="+sfl+"]:first");
+	event_select($this, sfl);
+};
+
+var event_select = function($this, value) {
+
+	$li = $this.parent();
+	$a = $li.parent().prev();
+	$input = jQuery("input[name="+$a.parent().attr("id").split("-")[1]+"]");
+
+	$a.html($this.html());
+	$input.val(value);
+	$li.parent().children(".on").removeClass("on");
+	$li.addClass("on");
+}
+
+load_select('and');
+jQuery(function() {
+
+	// 목록에서 내용 사용
+	jQuery("body").prepend("<div id='fixed-top-layer' class='fixed_top_layer'><div class='box_content_view'></div></div>");
+
+	// tr hover 효과
+	jQuery(".list_body tbody tr").hover(
+		function() {
+			var $tr = jQuery(this);
+			$tr.addClass("over");
+
+			// 목록에서 내용 사용
+					},
+		function() {
+			var $tr = jQuery(this);
+			var $td = $tr.children(".item_subject");
+			$tr.removeClass("over");
+		}
+	);
+
+	// 박스 활성화
+	jQuery('.inputbox').focus(function() {
+		jQuery(this).addClass('focusbox');
+		jQuery("label[for="+jQuery(this).attr("id")+"]").hide();
+	}).blur(function() {
+		jQuery(this).removeClass('focusbox');
+		if(!jQuery.trim(jQuery(this).val())) jQuery("label[for="+jQuery(this).attr("id")+"]").show();
+		else jQuery("label[for="+jQuery(this).attr("id")+"]").hide();
+	});
+
+	// 검색창 blur
+	jQuery("#stx").blur()
+
+	// 셀렉트박스
+	selectbox("#se-ctgr");
+	selectbox("#se-func");
+	selectbox("#se-sfl");
+	selectbox("#se-sop");
+});
+</script>
+<br />				
+			</div>
+									</div>
+					</div>
+		
+<div id="layout_sub_bottom_banner">
+	<div id="layout_sub_bottom_banner_top">
+		<div id="rolling-banner">
+			<div class="wrapper">
+					<!--div class="item" js-class="rollingBanner-item"><a href="./banner_link.php?bnlink=http%3A%2F%2Fwww.gwangju2015.com&bntitle=Universiade+Gwangju+2015"  target="_blank"><img src="../img/banner_01.jpg" alt="" /></a></div-->
+					<div class="item" js-class="rollingBanner-item">
+					<a href="./banner_link.php?bnlink=http%3A%2F%2Feng.gwangju.go.kr&bntitle=%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%EC%B2%AD+%EC%98%81%EB%AC%B8+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80"  target="_blank"><img src="../img/banner_02.jpg" alt="" /></a></div>
+					<div class="item" js-class="rollingBanner-item">
+					<a href="./banner_link.php?bnlink=http%3A%2F%2Fwww.acrc.go.kr%2Fen%2Findex.do&bntitle=%EA%B5%AD%EB%AF%BC%EA%B6%8C%EC%9D%B5%EC%9C%84%EC%9B%90%ED%9A%8C+%EC%98%81%EB%AC%B8+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80"  target="_blank"><img src="../img/banner_03.jpg" alt="" /></a></div>
+					<div class="item" js-class="rollingBanner-item">
+					<a href="./banner_link.php?bnlink=http%3A%2F%2Ftbsefm.seoul.kr&bntitle=%EC%84%9C%EC%9A%B8%EA%B5%90%ED%86%B5%EB%B0%A9%EC%86%A1+%EC%98%81%EB%AC%B8+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80"  target="_blank">
+					<img src="../img/banner_04.jpg" alt="" /></a></div>
+					<div class="item" js-class="rollingBanner-item">
+					<a href="./banner_link.php?bnlink=http%3A%2F%2Fwww.befm.or.kr&bntitle=%EB%B6%80%EC%82%B0%EC%98%81%EC%96%B4%EB%B0%A9%EC%86%A1+%EC%98%81%EB%AC%B8+%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80"  target="_blank">
+					<img src="../img/banner_05.jpg" alt="" /></a></div>
+					<!--div class="item" js-class="rollingBanner-item">
+						<a href="./banner_link.php?bnlink=http%3A%2F%2Fwww.debategfn.or.kr%2Fmain_9th.html&bntitle=%EC%99%B8%EA%B5%AD%EC%96%B4%ED%86%A0%EB%A1%A0%ED%86%B5%EC%97%AD%EB%8C%80%ED%9A%8C"  target="_blank">
+							<img src="../img/banner_06.jpg" alt="" />
+						</a>
+					</div-->
+					<div class="item" js-class="rollingBanner-item">
+						<a href="./banner_link.php?bnlink=http%3A%2F%2Fwww.jnu.ac.kr%2F&bntitle=%EC%A0%84%EB%82%A8%EB%8C%80%ED%95%99%EA%B5%90"  target="_blank">
+							<img src="../img/banner_07.jpg" alt="" />
+						</a>
+					</div>
+					<div class="item" js-class="rollingBanner-item">
+						<a href="./banner_link.php?bnlink=https%3A%2F%2Fwww.kdjcenter.or.kr%2Fkor&bntitle=%EA%B9%80%EB%8C%80%EC%A4%91%EC%BB%A8%EB%B2%A4%EC%85%98%EC%84%BC%ED%84%B0"  target="_blank">
+							<img src="../img/banner_08.jpg" alt="" />
+						</a>
+					</div>
+			</div>
+			<div class="clear"></div>
+		</div>		
+	</div>
+	<div id="layout_sub_bottom_banner_bottom">
+		<div id="layout_sub_bottom_banner_menu_wrap">
+
+		<ul class="bottom_banner_menu" >
+			<li><a href="../page.php?menu_id=86">ABOUT GFN (FOUNDATION)</a></li>			
+			<li><a href="../bbs/board.php?bo_table=comm_notice">NOTICE & GFN (FOUNDATION) NEWS</a></li>
+			<li><a href="../bbs/board.php?bo_table=comm_notice&amp;sca=JOB">JOB OPPORTUNITY</a></li>			
+			<li><a href="../bbs/board.php?bo_table=comm_notice&amp;sca=DOWNLOAD">DOWNLOAD</a></li>
+			<li><a href="../page_privacy.php" class="red bold800">PRIVACY & TERMS</a></li>
+		</ul>
+
+		</div>
+	</div>
+</div>
+	</div>
+</div>
+
+
+<div id="layout_bottom_top">
+	<div id="layout_bottom_top_bmenu">
+		<div id="layout_bottom_top_left">
+			<div id="information_top" class="middlegray">
+				CONTACT GFN
+			</div>
+			<div id="information_bottom">
+				<ul id="infodesk">
+					<li><span class="bold700">TEL : +82-62-460-0987</span></li>
+					<li><span class="bold700">FAX : +82-62-461-0987</span></li>
+					<li><span class="bold700">EMAIL : gfn@gfn.or.kr</span></li>
+					<li><span class="bold700">ADDRESS</span> : 17 SA-JIK STREET NAMGU, <br />GWANGJU METROPOLITAN CITY,<br /> KOREA REPUBLIC <a href="https://www.google.co.kr/maps/place/%EA%B4%91%EC%A3%BC%EC%98%81%EC%96%B4%EB%B0%A9%EC%86%A1%EC%9E%AC%EB%8B%A8/@35.142477,126.914628,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xe3dcffd9ab336e9c" target="_blank" class="middlegray bold700">VIEW MAP</a><br />(ZIPCODE 61640) </li>
+				</ul>	
+			</div>
+		</div>
+		<div id="layout_bottom_top_center">
+			<div id="program_top" class="middlegray">
+				RADIO PROGRAMS
+			</div>
+			<div id="program_bottom">
+
+				<ul id="programs">
+					<li>
+<a href='./radio_intro.php?menu_id=113'>City of Light</a><br/>
+<a href='./radio_intro.php?menu_id=116'>Hello Korea</a><br/>
+<a href='./radio_intro.php?menu_id=117'>The Drop with Danno</a><br/>
+<a href='./radio_intro.php?menu_id=119'>Listen to China</a><br/>
+<a href='./radio_intro.php?menu_id=123'>Sunday Talk</a><br/>
+<a href='./radio_intro.php?menu_id=211'>music plus</a><br/>
+<a href='./radio_intro.php?menu_id=216'>This Morning Gwangju</a><br/>
+<a href='./radio_intro.php?menu_id=292'>VIVA DJ</a><br/>
+</li>
+<li>
+<a href='./radio_intro.php?menu_id=317'>Xin Chào  Vietnam</a><br/>
+<a href='./radio_intro.php?menu_id=302'>The Afternoon Show with JD</a><br/>
+<a href='./radio_intro.php?menu_id=360'>Real Talk</a><br/>
+<a href='./radio_intro.php?menu_id=404'>REQUEST987</a><br/>
+<a href='./radio_intro.php?menu_id=408'>Behind the News</a><br/>
+<a href='./radio_intro.php?menu_id=395'>Wide&Wise</a><br/>
+<a href='./radio_intro.php?menu_id=401'>GFN House Concert</a><br/>
+<a href='./radio_intro.php?menu_id=423'>Hello Gwangju & Hello Busan</a><br/>
+</li>
+				</ul>	
+				<!--
+				<ul id="programs">
+					<li>
+						<a href="../radio_cityoflight.php">City of light</a> <br />
+						<a href="../radio_greatdebaters.php">Great debaters</a> <br />
+						<a href="../radio_hellokorea.php">Hello Korea</a> <br />
+						<a href="../radio_inthemix.php">In the mix	</a>	 <br />	
+						<a href="../radio_kpopular.php">K-Popular</a><br />			
+					</li>
+					<li>
+						<a href="../radio_listentochina.php">Listen to China</a><br />
+						<a href="../radio_radiostar.php">Radio star</a><br />
+						<a href="../radio_saturdaybrunch.php">Saturday brunch</a><br />
+						<a href="../radio_weeklyreview.php">Weekly review</a>
+					</li>
+					<li>
+						<a href="../news.php">GFN News</a><br />
+						<a href="javascript:alert('Sorry still under construction.');">Visual Radio</a>
+					</li>
+				</ul>	
+				-->
+			</div>
+		</div>
+		<div id="layout_bottom_top_right">
+			<div id="relation_top" class="middlegray">
+				RELATION NETWORK
+			</div>
+			<div id="relation_bottom">
+				<ul id="relations">					
+					<li><a href="http://tbsefm.seoul.kr/eFm/index.do" target="_blank"><img src="../img/efm.png" alt="" /> tbs eFM</a> </li>
+					<li><a href="http://www.befm.or.kr" target="_blank"><img src="../img/busan.png" alt="" /> Busan E-FM</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="layout_bottom_bottom">
+	<div id="layout_bottom_copyright">
+		<div id="layout_bottom_copyright_left">
+			&copy; 2008 - 2020 <span class="bold800 8px">GFN</span> All Rights Reserved.
+		</div>
+		<div id="layout_bottom_copyright_right">
+			
+Today : 1,748&nbsp;&nbsp;&nbsp;&nbsp;
+Yesterday : 2,374&nbsp;&nbsp;&nbsp;&nbsp;
+Max : 4,146&nbsp;&nbsp;&nbsp;&nbsp;
+Average : 1,108&nbsp;&nbsp;&nbsp;&nbsp;
+Total : 2,607,924
+ 					
+					</div>
+	</div>
+</div>
+
+
+
+
+
+<script type="text/javascript" src="../js/wrest.js"></script>
+<iframe style='width:0; height:0; display:none' name='hiddenframe' title='프로그램 영역'></iframe>
+
+<script type="text/javascript">
+
+function play_aod_win(url)
+{
+		var h_h=260; //높이 
+		var w_h=250; //넓이 
+		var screen_height=parent.screen.height; 
+		var screen_width=parent.screen.width; 
+		var h_size = (screen_height) ? (screen_height-h_h)/2 : 0; //창위치(상단) 
+		var w_size = (screen_width) ? (screen_width-w_h)/2 : 0; //창위치(가로) 
+
+		opt = 'scrollbars=yes,width=250,height=260,top=' + h_size + ',left=' + w_size;
+		window.open(url, "play_win", opt);
+}
+
+
+
+//<![CDATA[
+	$(document).ready(function(){
+	
+		$('#rolling-banner').rolling_banner({fps:30, speed:1});
+
+		
+				$('.depth2_wrap').mouseleave(function(){
+								
+						
+				
+
+					
+		})
+	});
+//]]>			
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function(){
+		$('#kst').jClocksGMT({offset: '+9', hour24: true, digital: true});
+	});
+//]]>	
+</script>
+
+
+<script type='text/javascript'></script>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'gfnradio'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+	var s = document.createElement('script'); s.async = true;
+	s.type = 'text/javascript';
+	s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+	(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+<!-- 리포트2.0 로그분석코드 시작 -->
+<script type="text/javascript">
+var sTime = new Date().getTime();
+(function(i,s,o,g,r,a,m){i['webObject']=g;i['webUid']=r;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})
+(window,document,'script','//gfn460.weblog.cafe24.com/weblog.js?v='+sTime,'gfn460');
+</script>
+<!-- 리포트2.0 로그분석코드 완료 -->
+<!-- 리포트2.0 로그분석코드 시작 -->
+<!-- 2020.03.30 새로운 웹로그분석 소스 삽입
+<script type="text/javascript">
+var JsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+var uname = escape("광주영어방송");
+document.write(unescape("%3Cscript id='log_script' src='" + JsHost + "gfn460.weblog.cafe24.com/weblog.js?uid=gfn460&amp;uname="+uname+"' type='text/javascript'%3E%3C/script%3E"));
+</script>-->
+<!-- 리포트2.0  로그분석코드 완료 -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-102422537-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</body>
+</html>
+
+<!-- : aod_service -->

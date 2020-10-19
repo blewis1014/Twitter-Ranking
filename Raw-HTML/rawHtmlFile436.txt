@@ -1,0 +1,946 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script type="text/javascript">
+		var ajaxurl = 'https://www.gizmodo.com.au/wp/wp-admin/admin-ajax.php';
+		</script>
+<script type="text/javascript">
+				!function (e, f, u) {
+					e.async = 1;
+					e.src = u;
+					f.parentNode.insertBefore(e, f);
+				}(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/alluremedia-gizmodoau/loader.js');
+			</script>
+<script>
+			var siteads = siteads || {},
+				googletag = googletag || {};
+			siteads.queue = siteads.queue || [];
+			googletag.cmd = googletag.cmd || [];
+		</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+			window.scrollInViewport = {
+				direction: 'down',
+				sections: {
+					loaded: 1,
+					current: 1,
+					sectionsInViewport: [ 1 ],
+					count() {
+						return window.scrollInViewport.sections.sectionsInViewport.length;
+					},
+				},
+				setup() {
+					var scrollPos = 0;
+					window.addEventListener( 'scroll', function() {
+						var top = ( document.body.getBoundingClientRect() ).top;
+						window.scrollInViewport.direction = ( top > scrollPos ) ? 'up' : 'down';
+						scrollPos = top;
+					} );
+				},
+			};
+			window.scrollInViewport.setup();
+			window.getLoadTargeting = function() {
+				return window.scrollInViewport.sections.loaded <= 10 ? window.scrollInViewport.sections.loaded.toString() : 'any';
+			};
+		</script>
+
+<title>Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts</title>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts" />
+<meta property="og:description" content="A couple of days ago, Twitter user Douglas Sonders showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, has so far defied identification. And it’s driving me bonkers. Here’s the tweet in question,..." />
+<meta property="og:url" content="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" />
+<meta property="og:site_name" content="Gizmodo Australia" />
+<meta property="article:publisher" content="https://www.facebook.com/GizmodoAustralia/" />
+<meta property="article:published_time" content="2020-10-15T03:00:27+00:00" />
+<meta property="article:modified_time" content="2020-10-14T21:44:11+00:00" />
+<meta property="og:image" content="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-1280x718.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="718" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@GizmodoAU" />
+<meta name="twitter:site" content="@GizmodoAU" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.gizmodo.com.au/#organization","name":"Gizmodo Australia","url":"https://www.gizmodo.com.au/","sameAs":["https://www.facebook.com/GizmodoAustralia/","https://www.instagram.com/gizmodoau/?hl=en","https://www.youtube.com/user/gizmodoAU","https://twitter.com/GizmodoAU"],"logo":{"@type":"ImageObject","@id":"https://www.gizmodo.com.au/#logo","inLanguage":"en-AU","url":"https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/07/gizmodo-logo-copy.png","width":600,"height":60,"caption":"Gizmodo Australia"},"image":{"@id":"https://www.gizmodo.com.au/#logo"}},{"@type":"WebSite","@id":"https://www.gizmodo.com.au/#website","url":"https://www.gizmodo.com.au/","name":"Gizmodo Australia","description":"The News Of Tomorrow, Today","publisher":{"@id":"https://www.gizmodo.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.gizmodo.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":"ImageObject","@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#primaryimage","inLanguage":"en-AU","url":"https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily.png","width":1593,"height":893},{"@type":"WebPage","@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#webpage","url":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/","name":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","isPartOf":{"@id":"https://www.gizmodo.com.au/#website"},"primaryImageOfPage":{"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#primaryimage"},"datePublished":"2020-10-15T03:00:27+00:00","dateModified":"2020-10-14T21:44:11+00:00","breadcrumb":{"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/"]}]},{"@type":"BreadcrumbList","@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.gizmodo.com.au/","url":"https://www.gizmodo.com.au/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.gizmodo.com.au/cars/","url":"https://www.gizmodo.com.au/cars/","name":"Cars"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/","url":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/","name":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts"}}]},{"@type":["Article","NewsArticle"],"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#article","isPartOf":{"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#webpage"},"author":{"@id":"https://www.gizmodo.com.au/#/schema/person/f8462571db95ebf52a69a8048e4a81b4"},"headline":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","datePublished":"2020-10-15T03:00:27+00:00","dateModified":"2020-10-14T21:44:11+00:00","mainEntityOfPage":{"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#webpage"},"publisher":{"@id":"https://www.gizmodo.com.au/#organization"},"image":{"@id":"https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/#primaryimage"},"keywords":"car id,car identification,thailand","articleSection":"Cars","inLanguage":"en-AU","copyrightYear":"2020","copyrightHolder":{"@id":"https://www.gizmodo.com.au/#organization"}},{"@type":"Person","@id":"https://www.gizmodo.com.au/#/schema/person/f8462571db95ebf52a69a8048e4a81b4","name":"Jalopnik International","image":{"@type":"ImageObject","@id":"https://www.gizmodo.com.au/#personlogo","inLanguage":"en-AU","url":"https://secure.gravatar.com/avatar/cad68bd80291df581343a754b855d0f8?s=96&d=mm&r=g","caption":"Jalopnik International"}}]}</script>
+
+<link href="https://cdn.taboola.com" rel="preconnect"><link href="https://connect.facebook.net" rel="preconnect"><link href="https://farm.plista.com" rel="preconnect"><link href="https://images.taboola.com" rel="preconnect"><link href="https://js.gleam.io" rel="preconnect"><link href="https://sb.scorecardresearch.com" rel="preconnect"><link href="https://secure.quantserve.com" rel="preconnect"><link href="https://securepubads.g.doubleclick.net" rel="preconnect"><link href="https://static.plista.com" rel="preconnect"><link href="https://tpc.googlesyndication.com" rel="preconnect"><link href="https://trc-events.taboola.com" rel="preconnect"><link href="https://trc.taboola.com" rel="preconnect"><link href="https://www.facebook.com" rel="preconnect"><link href="https://www.google-analytics.com" rel="preconnect"><link href="https://www.googletagmanager.com" rel="preconnect"><link href="https://www.googletagservices.com" rel="preconnect"><link href="https://media.plista.com" rel="preconnect"><link href="https://secure.gravatar.com" rel="preconnect"><link href="https://www.gizmodo.com.au/content/themes/gmg/dist/fonts/ProximaNovaCond-Regular.ttf" rel="preload" as="font" type="font/ttf" crossorigin><link href="https://www.gizmodo.com.au/content/themes/gmg/dist/fonts/ProximaNovaCond-Bold.ttf" rel="preload" as="font" type="font/ttf" crossorigin><link href="https://www.gizmodo.com.au/content/themes/gmg/dist/fonts/Merriweather-Light.ttf" rel="preload" as="font" type="font/ttf" crossorigin><link href="https://www.gizmodo.com.au/content/themes/gmg/dist/fonts/Merriweather-Bold.ttf" rel="preload" as="font" type="font/ttf" crossorigin><link href="https://imgix.gizmodo.com.au" rel="preconnect"><link rel="amphtml" href="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/amp/" /><meta name="generator" content="AMP for WP 1.0.62.2" /><link rel='dns-prefetch' href='//www.gizmodo.com.au' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Gizmodo Australia &raquo; Feed" href="https://www.gizmodo.com.au/feed/" />
+<link rel='stylesheet' id='main-css-css' async href='https://www.gizmodo.com.au/content/themes/gmg/dist/css/main.min.css?ver=1602984421' type='text/css' media='' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.gizmodo.com.au/content/plugins/jetpack/css/jetpack.css?ver=9.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/jquery.js?ver=5.5.1' id='jquery-js'></script>
+<script type='text/javascript' id='jetpack_related-posts-js-extra'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20191011' id='jetpack_related-posts-js'></script>
+<script type='text/javascript' id='ads-ad-tech-js-js-extra'>
+/* <![CDATA[ */
+var adsConfig = {"plista":{"public_key":"fd66840312ad39ba1b312c58"},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":false,"enableSingleRequest":false,"defineOutOfPageSlot":false},"ad_paths":{"default":"\/1027487\/gizmodoreplatforming","homepage":"\/1027487\/gizmodoreplatforming","page":"\/1027487\/gizmodoreplatforming","index":"\/1027487\/gizmodoreplatforming","article":"\/1027487\/gizmodoreplatforming","truskin":"\/1027487\/gizmododesktoptruskin"},"locations":{"left-skyscraper":{"sizes":[160,600],"size_mapping":[[[0,0],[]],[[1350,600],[160,600]]],"targeting":{"pos":"left","functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-skyscraper ad-slot-skyscraper-left sticky sticky-top","data_atts":{"data-sticky-position":"top","data-sticky-offset":0},"js_callback":"loadDependentAds"}},"right-skyscraper":{"sizes":[160,600],"size_mapping":[[[0,0],[]],[[1350,600],[160,600]]],"targeting":{"pos":"right","functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-skyscraper ad-slot-skyscraper-right sticky sticky-top","data_atts":{"data-sticky-position":"top","data-sticky-offset":0},"js_callback":"loadDependentAds"}},"top-leader-wide":{"sizes":[[728,90],[970,250]],"size_mapping":[[[0,0],[]],[[1024,600],[[728,90],[970,250]]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-leader ad-slot-leader-top ad-slot-leader-top-wide","js_callback":"loadDependentAds"}},"top-leader-tablet":{"sizes":[[728,90]],"size_mapping":[[[0,0],[]],[[768,0],[728,90]],[[1024,0],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-leader ad-slot-leader-top ad-slot-leader-top-tablet","js_callback":"contentAds"}},"mrec-sidebar-tablet":{"sizes":[[300,250]],"size_mapping":[[[0,0],[]],[[768,0],[300,250]],[[1024,0],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide ad-slot","js_callback":"sidebarAds"}},"mrec-sidebar-wide":{"sizes":[[300,250]],"size_mapping":[[[0,0],[]],[[1024,600],[300,250]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide","js_callback":"sidebarAds"}},"mrec-sidebar-tablet-sticky":{"sizes":[[300,250]],"size_mapping":[[[0,0],[]],[[768,0],[300,250]],[[1024,0],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide sticky sticky-bottom","data_atts":{"data-sticky-position":"bottom","data-sticky-offset":0},"js_callback":"sidebarAds"}},"mrec-sidebar-wide-sticky":{"sizes":[[300,250]],"size_mapping":[[[0,0],[]],[[1024,600],[300,250]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide sticky sticky-bottom","data_atts":{"data-sticky-position":"bottom","data-sticky-offset":0},"js_callback":"sidebarAds"}},"mrec-content-mobile":{"amp":true,"amp_sticky":false,"sizes":[[300,250]],"size_mapping":[[[0,0],[]],[[300,0],[300,250]],[[768,200],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-mrec ad-slot-mrec-mobile","data_atts":{"data-slot":"\/1027487\/gizamp","width":"320","height":"250","data-multi-size":"300x250"},"js_callback":"contentAds"}},"hpu-sidebar-wide":{"sizes":[[300,600]],"size_mapping":[[[0,0],[]],[[1024,600],[[300,600]]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-hpu ad-slot-hpu-sidebar ad-slot-hpu-wide","js_callback":"sidebarAds"}},"banner-content-mobile":{"amp":true,"amp_sticky":false,"sizes":[[320,50]],"size_mapping":[[[0,0],[]],[[300,0],[320,50]],[[768,200],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-banner ad-slot-banner-mobile","data_atts":{"data-slot":"\/1027487\/gizamp","width":"320","height":"50","data-multi-size":"320x50"},"js_callback":"contentAds"}},"bottom-banner-mobile-sticky":{"amp":true,"amp_sticky":true,"sizes":[[320,50]],"size_mapping":[[[0,0],[]],[[300,0],[320,50]],[[768,200],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-banner ad-slot-banner-mobile ad-slot-banner-top sticky sticky-bottom","data_atts":{"data-slot":"\/1027487\/gizamp","width":"320","height":"50","data-multi-size":"320x50","data-sticky-position":"bottom","data-sticky-offset":0},"js_callback":"contentAds"}},"fireplace":{"sizes":[1,1],"size_mapping":[[[0,0],[]],[[1350,600],[1,1]]],"targeting":{"location":"fireplace","functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true,"defineOutOfPageSlot":true},"template_params":{"class":"ad-slot-fireplace","js_callback":"fireplaceAds"}},"out-of-page":{"sizes":[1,1],"size_mapping":[],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true,"defineOutOfPageSlot":true},"template_params":{"class":"ad-slot-out-of-page"}},"out-of-page-mobile":{"sizes":[1,1],"size_mapping":[[[0,0],[]],[[300,0],[1,1]],[[768,200],[]]],"targeting":{"functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true,"defineOutOfPageSlot":true},"template_params":{"class":"ad-slot-out-of-page ad-slot-out-of-page-mobile","js_callback":"contentAds"}},"truskin":{"sizes":[[728,90]],"size_mapping":[[[0,0],[]],[[1350,600],[[728,90]]]],"targeting":{"location":"truskin","functions":{"load":"getLoadTargeting"}},"settings":{"setCollapseEmptyDiv":false,"enableLazyLoad":true},"template_params":{"class":"ad-slot-truskin","js_callback":"truskinAds"}},"plista-sidebar-sponsored":{"provider":"plista","template_params":{"class":"ad-slot-plista ad-slot-plista-sidebar-sponsored","data_atts":{"data-widget":"plista_widget_sidebar_sponsored"}}},"plista-homepage-river":{"provider":"plista","template_params":{"class":"ad-slot-plista ad-slot-plista-homepage-river","data_atts":{"data-widget":"plista_widget_homepage_river"}}},"plista-homepage-hero":{"provider":"plista","template_params":{"class":"ad-slot-plista ad-slot-plista-homepage-hero","data_atts":{"data-widget":"plista_widget_homepage_hero"}}},"plista-trending-carousel":{"provider":"plista","template_params":{"class":"ad-slot-plista ad-slot-plista-trending-carousel","data_atts":{"data-widget":"plista_widget_sidebar_trending"}}},"plista-under-article":{"provider":"plista","template_params":{"class":"ad-slot-plista ad-slot-plista-under-article","data_atts":{"data-widget":"plista_widget_underArticle"}}}}};
+/* ]]> */
+</script>
+<script type='text/javascript' async src='https://www.gizmodo.com.au/content/mu-plugins/ads/view/dist/js/ad-tech.min.js?ver=1592445381' id='ads-ad-tech-js-js'></script>
+<script type='text/javascript' id='ad-tech-theme-js-js-extra'>
+/* <![CDATA[ */
+var adTechThemeConfig = {"plista":{"public_key":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' async src='https://www.gizmodo.com.au/content/themes/gmg/dist/js/ad-tech-theme.min.js?ver=1602025163' id='ad-tech-theme-js-js'></script>
+<link rel='shortlink' href='https://www.gizmodo.com.au/?p=1519934' />
+<script>
+			window.onDOMLoad = function( callback, params ) {
+				const callbackFunc = function() {
+					if ( 'function' === typeof callback ) {
+						'undefined' === typeof params ? callback() : callback( params );
+					}
+				}
+				if ( document.readyState !== 'loading' ) {
+					// Document is already ready, call the callback directly
+					callbackFunc();
+				} else if ( document.addEventListener ) {
+					// All modern browsers to register DOMContentLoaded
+					document.addEventListener( 'DOMContentLoaded', callbackFunc );
+				} else {
+					// Old IE browsers
+					document.attachEvent( 'onreadystatechange', function() {
+						console.log( 'onreadystatechange trig' );
+						if ( document.readyState === 'complete' ) {
+							callbackFunc();
+						}
+					} );
+				}
+			}
+		</script>
+<script>
+	var digitalData = {"page":{"pageInfo":{"pageID":1519934,"pageName":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","brand":"gizmodo","generator":"WP","author":"Jason Torchinsky","effectiveDate":"2020-10-15 14:00:27","issueDate":"2020-10-15 08:44:11","sysEnv":"desktop"},"category":{"pageType":"single","primaryCategory":"cars","subCategory1":""},"ctype":"article","tags":["car id","car identification","thailand"],"tagsString":"car id,car identification,thailand"},"user":{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]},"version":"1.0","events":[],"nielsen":{"apid":"P4B8C101F-DE35-4168-93A9-87CB56894B75","sitename":"gizmodo","section":"Gizmodo Sites - brand only","sfcode":"dcr","nol_sdkDebug":""}};
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WT4MKNJ');</script>
+
+
+<meta name="wp-parsely_version" id="wp-parsely_version" content="2.1.3" />
+<meta name="parsely-title" content="Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts" />
+<meta name="parsely-link" content="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" />
+<meta name="parsely-type" content="post" />
+<meta name="parsely-image-url" content="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-150x150.png" />
+<meta name="parsely-pub-date" content="2020-10-15T03:00:27Z" />
+<meta name="parsely-section" content="Cars" />
+<meta name="parsely-author" content="Jalopnik International" />
+<meta name="parsely-tags" content="car id,car identification,thailand" />
+
+<link rel="icon" href="https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/23/cropped-favicon_gizmodo_200-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/23/cropped-favicon_gizmodo_200-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/23/cropped-favicon_gizmodo_200-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.gizmodo.com.au/content/uploads/sites/2/2020/05/23/cropped-favicon_gizmodo_200-270x270.png" />
+
+</head>
+<body class="post-template-default single single-post postid-1519934 single-format-standard">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WT4MKNJ"
+				  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <div id="page" class="site-container">
+
+<header class="site-header">
+<div class="gmg-network-navigation">
+<div class="cntr">
+<a href="#" class="network-menu-link">
+<img src="https://www.gizmodo.com.au/content/themes/gmg/src/images/pg--logo-min.png" alt="PG Logo" class="pg-custom-logo">
+<span class="arrow-down"></span>
+</a>
+<nav id="site-navigation" class="network-navigation js-network-menu">
+<ul class="gmg-network-navigation__container"><li id="menu-item-1217616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217616"><a target="_blank" rel="external noopener" href="https://www.businessinsider.com.au/">Business Insider</a></li>
+<li id="menu-item-1217617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217617"><a target="_blank" rel="external noopener" href="https://www.kotaku.com.au/">Kotaku</a></li>
+<li id="menu-item-1217618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217618"><a target="_blank" rel="external noopener" href="https://www.lifehacker.com.au/">Lifehacker</a></li>
+<li id="menu-item-1217619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217619"><a target="_blank" rel="external noopener" href="https://www.openaircinemas.com.au/">Openair Cinemas</a></li>
+<li id="menu-item-1217620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217620"><a target="_blank" rel="external noopener" href="https://www.pedestrian.tv/">Pedestrian.TV</a></li>
+<li id="menu-item-1217621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1217621"><a target="_blank" rel="external noopener" href="https://www.popsugar.com.au/">Popsugar</a></li>
+</ul> </nav>
+</div>
+</div>
+<div class="main-header">
+<div class="cntr cntr--flex cntr--align-center">
+<button class="hamburger-link">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="site-branding col col--no-pad-left">
+<a href="https://www.gizmodo.com.au/" rel="home" class="custom-logo">
+<img class="logo" src="https://www.gizmodo.com.au/content/themes/gizmodo/src/images/logo-gizmodo.svg" alt="Logo">
+</a>
+<span class="branding-desc">The News Of Tomorrow, Today</span>
+</div>
+<div class="col col--auto col--no-pad-right action-block">
+<button class="search-link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" aria-label="Search24 icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M15.31 1a7.69 7.69 0 1 1-5.06 13.48l-8.37 8.37a.51.51 0 1 1-.73-.72l8.37-8.38A7.69 7.69 0 0 1 15.31 1zm0 1.03a6.66 6.66 0 1 0 0 13.32 6.66 6.66 0 0 0 0-13.32z"></path></svg></button>
+<a href="#" class="subscribe-link" data-modal="#subscribe-modal">
+<span class="sub-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="MailFilled icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M17 5v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V5c0-.12.01-.24.03-.35L8.7 10.4a.5.5 0 0 0 .6 0l7.67-5.75c.02.11.03.23.03.35zm-2-2a2 2 0 0 1 1.54.72L9 9.37 1.46 3.72A2 2 0 0 1 3 3h12z"></path></svg> </span>
+<span class="sub-text">Subscribe</span>
+</a>
+<a href="#" class="avatar-login" data-modal="#login-modal">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="UserFilled icon" viewBox="0 0 18 18"><path fill="#FFFFFF" fill-rule="evenodd" d="M11.28 10.23c.02.02.05.03.08-.06l.21-.33.06-.09c.44-.69.64-1.06.96-1.87.66-1.7.4-3.9-.57-5.3A3.32 3.32 0 0 0 9 1c-1.47 0-2.25.45-3.03 1.57a6.04 6.04 0 0 0-.56 5.3 10.24 10.24 0 0 0 1.27 2.35c0 .03-.03.04-.16.1l-1.94.79-.06.02c-1.3.54-1.88.78-2.01.88a3 3 0 0 0-1.23 1.97A52.5 52.5 0 0 0 1 16.46c-.03.3.2.54.49.54l15-.01a.5.5 0 0 0 .5-.54 50.52 50.52 0 0 0-.27-2.43l-.09-.39a3 3 0 0 0-1.15-1.62c-.13-.1-.21-.13-2.06-.88h-.02a30.86 30.86 0 0 1-2.16-.95l.03.05z"></path></svg> </a>
+</div>
+</div>
+</div>
+<div class="search search--wrapper">
+<div class="cntr cntr--flex h-100">
+<div class="col search__inner">
+<button class="close-search-link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" aria-label="Close24 icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M21.73 2.15c.2.2.2.51 0 .7l-9.08 9.09 9.2 9.2c.18.18.2.45.06.64l-.06.07a.5.5 0 0 1-.7 0l-9.21-9.2-9.08 9.08a.5.5 0 0 1-.71-.71l9.08-9.08-8.96-8.96a.5.5 0 0 1-.06-.64l.06-.07c.2-.2.52-.2.71 0l8.96 8.96 9.08-9.08c.2-.2.51-.2.7 0z"></path></svg></button>
+<form role="search" method="get" class="search-form" action="https://www.gizmodo.com.au/">
+<input type="search" class="search-field" placeholder="Search for..." value="" name="s" />
+<input type="hidden" name="post_type[]" value="post" />
+<button type="submit" class="search-submit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" aria-label="Search24 icon" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M15.31 1a7.69 7.69 0 1 1-5.06 13.48l-8.37 8.37a.51.51 0 1 1-.73-.72l8.37-8.38A7.69 7.69 0 0 1 15.31 1zm0 1.03a6.66 6.66 0 1 0 0 13.32 6.66 6.66 0 0 0 0-13.32z"></path></svg></button>
+</form>
+</div>
+</div>
+</div>
+<div class="gmg-regular-navigation--mobile">
+<div class="cntr">
+<button class="close-menu-link">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="close-span">Close</span>
+</button>
+<nav id="site-navigation" class="regular-navigation">
+<ul class="gmg-regular-navigation--mobile__container"><li id="menu-item-1004161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1004161"><a href="https://www.gizmodo.com.au/reviews/">Reviews</a>
+<ul class="sub-menu">
+<li id="menu-item-1222918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222918"><a href="https://www.gizmodo.com.au/reviews/camera-reviews/">Camera</a></li>
+<li id="menu-item-1222919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222919"><a href="https://www.gizmodo.com.au/reviews/car-reviews/">Car</a></li>
+<li id="menu-item-1222920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222920"><a href="https://www.gizmodo.com.au/reviews/entertainment-reviews/">Entertainment</a></li>
+<li id="menu-item-1222921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222921"><a href="https://www.gizmodo.com.au/reviews/gadget-and-smart-home-reviews/">Gadgets &#038; Smart Home</a></li>
+<li id="menu-item-1222922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222922"><a href="https://www.gizmodo.com.au/reviews/gaming-reviews/">Gaming</a></li>
+<li id="menu-item-1222923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222923"><a href="https://www.gizmodo.com.au/reviews/laptop-and-tablet-reviews/">Laptop &#038; Tablet</a></li>
+<li id="menu-item-1222924" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222924"><a href="https://www.gizmodo.com.au/reviews/pc-reviews/">PC &#038; Peripheral</a></li>
+<li id="menu-item-1222925" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222925"><a href="https://www.gizmodo.com.au/reviews/smartphone-reviews/">Smartphone</a></li>
+<li id="menu-item-1222926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222926"><a href="https://www.gizmodo.com.au/reviews/smartwatch-and-fitness-tracker-reviews/">Smartwatch and Fitness Tracker</a></li>
+<li id="menu-item-1222927" class="mobile-only menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222927"><a href="https://www.gizmodo.com.au/reviews/">View All Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-490570" class="colour-gadgets menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490570"><a href="https://www.gizmodo.com.au/gadgets/">Smart Home &#038; Gadgets</a></li>
+<li id="menu-item-490572" class="colour-mobile menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490572"><a href="https://www.gizmodo.com.au/mobile/">Mobile</a></li>
+<li id="menu-item-490580" class="colour-cars menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-490580"><a href="https://www.gizmodo.com.au/cars/">Cars</a></li>
+<li id="menu-item-490578" class="colour-online menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490578"><a href="https://www.gizmodo.com.au/online/">Online</a></li>
+<li id="menu-item-490576" class="colour-science menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490576"><a href="https://www.gizmodo.com.au/science/">Science &#038; Health</a></li>
+<li id="menu-item-490579" class="colour-cameras menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490579"><a href="https://www.gizmodo.com.au/cameras/">Cameras</a></li>
+<li id="menu-item-490574" class="colour-computing menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490574"><a href="https://www.gizmodo.com.au/computing/">Computing</a></li>
+<li id="menu-item-490577" class="colour-gaming menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490577"><a href="https://www.gizmodo.com.au/gaming/">Gaming</a></li>
+<li id="menu-item-490575" class="colour-entertainment menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490575"><a href="https://www.gizmodo.com.au/entertainment/">Entertainment</a></li>
+</ul> </nav>
+</div>
+</div>
+<div class="gmg-regular-navigation">
+<div class="cntr">
+<nav id="site-navigation" class="regular-navigation">
+<ul class="gmg-regular-navigation__container"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1004161"><a href="https://www.gizmodo.com.au/reviews/">Reviews</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222918"><a href="https://www.gizmodo.com.au/reviews/camera-reviews/">Camera</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222919"><a href="https://www.gizmodo.com.au/reviews/car-reviews/">Car</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222920"><a href="https://www.gizmodo.com.au/reviews/entertainment-reviews/">Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222921"><a href="https://www.gizmodo.com.au/reviews/gadget-and-smart-home-reviews/">Gadgets &#038; Smart Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222922"><a href="https://www.gizmodo.com.au/reviews/gaming-reviews/">Gaming</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222923"><a href="https://www.gizmodo.com.au/reviews/laptop-and-tablet-reviews/">Laptop &#038; Tablet</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222924"><a href="https://www.gizmodo.com.au/reviews/pc-reviews/">PC &#038; Peripheral</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222925"><a href="https://www.gizmodo.com.au/reviews/smartphone-reviews/">Smartphone</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222926"><a href="https://www.gizmodo.com.au/reviews/smartwatch-and-fitness-tracker-reviews/">Smartwatch and Fitness Tracker</a></li>
+<li class="mobile-only menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1222927"><a href="https://www.gizmodo.com.au/reviews/">View All Reviews</a></li>
+</ul>
+</li>
+<li class="colour-gadgets menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490570"><a href="https://www.gizmodo.com.au/gadgets/">Smart Home &#038; Gadgets</a></li>
+<li class="colour-mobile menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490572"><a href="https://www.gizmodo.com.au/mobile/">Mobile</a></li>
+<li class="colour-cars menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-490580"><a href="https://www.gizmodo.com.au/cars/">Cars</a></li>
+<li class="colour-online menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490578"><a href="https://www.gizmodo.com.au/online/">Online</a></li>
+<li class="colour-science menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490576"><a href="https://www.gizmodo.com.au/science/">Science &#038; Health</a></li>
+<li class="colour-cameras menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490579"><a href="https://www.gizmodo.com.au/cameras/">Cameras</a></li>
+<li class="colour-computing menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490574"><a href="https://www.gizmodo.com.au/computing/">Computing</a></li>
+<li class="colour-gaming menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490577"><a href="https://www.gizmodo.com.au/gaming/">Gaming</a></li>
+<li class="colour-entertainment menu-item menu-item-type-taxonomy menu-item-object-category menu-item-490575"><a href="https://www.gizmodo.com.au/entertainment/">Entertainment</a></li>
+</ul> </nav>
+</div>
+</div>
+</header>
+ <div id="infinite_scroll_content">
+<div id="content_section_2309071974" class="content-section" data-content-section-index="2309071974">
+<div class="ad-slot-ctn ad-slot-ctn-truskin">
+<div id="ad-slot-truskin-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-truskin" data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"truskin","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"truskin","specific_ad":"truskin","provider":"google-dfp","element_id":"ad-slot-truskin-2309071974","js_callback":"truskinAds"} );
+		}
+	</script>
+</div>
+<div class="ad-slot-ctn ad-slot-ctn-fireplace">
+<div id="ad-slot-fireplace-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-fireplace" data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"fireplace","provider":"google-dfp","element_id":"ad-slot-fireplace-2309071974","js_callback":"fireplaceAds"} );
+		}
+	</script>
+</div>
+<div class="sticky-ctn ad-slot-ctn ad-slot-ctn-skyscraper-left">
+<div id="ad-slot-left-skyscraper-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-skyscraper ad-slot-skyscraper-left sticky sticky-top" data-sticky-position=top data-sticky-offset=0 data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"left-skyscraper","provider":"google-dfp","element_id":"ad-slot-left-skyscraper-2309071974","js_callback":"loadDependentAds"} );
+		}
+	</script>
+</div>
+<div class="sticky-ctn ad-slot-ctn ad-slot-ctn-skyscraper-right">
+<div id="ad-slot-right-skyscraper-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-skyscraper ad-slot-skyscraper-right sticky sticky-top" data-sticky-position=top data-sticky-offset=0 data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"right-skyscraper","provider":"google-dfp","element_id":"ad-slot-right-skyscraper-2309071974","js_callback":"loadDependentAds"} );
+		}
+	</script>
+</div>
+<div class="ad-slot-ctn ad-slot-ctn-leader-top">
+<div id="ad-slot-top-leader-wide-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-leader ad-slot-leader-top ad-slot-leader-top-wide" data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"top-leader-wide","provider":"google-dfp","element_id":"ad-slot-top-leader-wide-2309071974","js_callback":"loadDependentAds"} );
+		}
+	</script>
+<div id="ad-slot-top-leader-tablet-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-leader ad-slot-leader-top ad-slot-leader-top-tablet" data-section-index=2309071974></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"top-leader-tablet","provider":"google-dfp","element_id":"ad-slot-top-leader-tablet-2309071974","js_callback":"contentAds"} );
+		}
+	</script>
+</div>
+<main id="main" class="site-main site-main--cntr ads-pointer-events-none">
+<div class="cntr cntr--flex cntr--no-pad single-main-content ads-pointer-events-all">
+
+<div class="col aside">
+<aside id="default_category_sidebar__4168096295" class="widget-area sticky-ctn-bottom">
+<div class="sticky" data-sticky-position="bottom" data-sticky-offset="0">
+<div class="widget gmg-subscribe-widget">
+<form action="https://www.gizmodo.com.au/newsletter/sign-up/" method="post" class="gmg-subscribe-widget__form">
+<div class="gmg-subscribe-widget__wrap">
+<h4 class="gmg-subscribe-widget__title">Want Gizmodo's email newsletter?</h4>
+<div class="gmg-subscribe-widget__cta">
+<label class="gmg-subscribe-widget__field">
+<input type="email" placeholder="Enter your email address" name="user_email" class="gmg-subscribe-widget__text-input">
+</label>
+<button id="js-gmg-subscribe-widget-submit" class="gmg-subscribe-widget_button">Subscribe
+</button>
+</div>
+<div class="gmg-subscribe-widget__checkbox-wrap">
+<input type="hidden" name="reg_newsletter[gizmodo]" value="gizmodo">
+<input type="hidden" name="redirect_to" value="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/">
+<input type="checkbox" value="partners" id="reg_newsletter" name="reg_newsletter[partners]" class="gmg-subscribe-widget__checkbox">
+<label for="reg_newsletter" class="gmg-subscribe-widget__checkbox-label">Alert me about competitions &
+deals</label>
+</div>
+</div>
+</form>
+</div>
+<div class="widget gmg-follow-us-widget">
+<h4 class="gmg-follow-us-widget__title">Follow us, subscribe and get in touch</h4>
+<div class="gmg-social-rss-list">
+<nav class="social-rss-nav">
+<ul><li id="menu-item-1217629" class="email menu-item menu-item-type-post_type menu-item-object-page menu-item-1217629"><a rel="nofollow" href="https://www.gizmodo.com.au/contact/">Contact Gizmodo Australia</a></li>
+<li id="menu-item-1217633" class="facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-1217633"><a target="_blank" rel="nofollow" href="https://www.facebook.com/GizmodoAustralia/">Facebook</a></li>
+<li id="menu-item-1217632" class="twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-1217632"><a target="_blank" rel="nofollow" href="https://twitter.com/GizmodoAU">Twitter</a></li>
+<li id="menu-item-1217630" class="instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-1217630"><a target="_blank" rel="nofollow" href="https://www.instagram.com/gizmodoau/?hl=en">Instagram</a></li>
+<li id="menu-item-1217631" class="youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-1217631"><a target="_blank" rel="nofollow" href="https://www.youtube.com/user/gizmodoAU">Youtube</a></li>
+<li id="menu-item-1217634" class="rss menu-item menu-item-type-custom menu-item-object-custom menu-item-1217634"><a target="_blank" rel="nofollow" href="https://www.gizmodo.com.au/feed/">RSS</a></li>
+</ul> </nav>
+</div>
+</div>
+
+<div class="widget widget-with-images">
+<h2 class="widget-title">Recent Posts</h2>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/with-zucks-blessing-facebook-quietly-stymied-traffic-to-left-leaning-news-outlets-report/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="168" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-300x168.jpg" class="attachment-widget-medium size-widget-medium" alt="Photo: Drew Angerer, Getty Images" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-300x168.jpg 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-480x269.jpg 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-414x232.jpg 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-208x117.jpg 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/ix3nabfwzjepfchc0z1h-732x411.jpg 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small>Photo: Drew Angerer, Getty Images</small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/with-zucks-blessing-facebook-quietly-stymied-traffic-to-left-leaning-news-outlets-report/">
+<h5 class="title">With Zuck&#8217;s Blessing, Facebook Quietly Stymied Traffic to Left-Leaning News Outlets:...</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/regretting-that-tesla-you-just-bought-well-you-might-be-stuck-with-it-now/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="168" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-300x168.jpg" class="attachment-widget-medium size-widget-medium" alt="Tesla CEO Elon Musk speaks during the unveiling of the new Tesla Model Y in Hawthorne, California on March 14, 2019. (Photo: Frederic J. Brown / AFP, Getty Images)" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-300x168.jpg 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-480x269.jpg 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-414x232.jpg 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-208x117.jpg 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/sloqvsgmaejwdvynvmfz-732x411.jpg 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small>Tesla CEO Elon Musk speaks during the unveiling of the new Tesla Model Y in Hawthorne, California on March 14, 2019. (Photo: Frederic J. Brown / AFP, Getty Images)</small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/regretting-that-tesla-you-just-bought-well-you-might-be-stuck-with-it-now/">
+<h5 class="title">Regretting That Tesla You Just Bought? Well, You Might Be Stuck...</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/every-iphone-12-phone-plan-in-australia-pro-max-mini/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="169" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-300x169.png" class="attachment-widget-medium size-widget-medium" alt="iPhone 12 pre-order plans telstra optus vodafone" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-732x412.png 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/every-iphone-12-phone-plan-in-australia-pro-max-mini/">
+<h5 class="title">Every iPhone 12 Pre-Order Plan in Australia From Telstra, Optus and...</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/the-best-iphone-12-pro-max-mini-plans-in-australia/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="169" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-300x169.png" class="attachment-widget-medium size-widget-medium" alt="iPhone 12 plans telstra optus vodafone" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-732x412.png 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/the-best-iphone-12-pro-max-mini-plans-in-australia/">
+<h5 class="title">The Best iPhone 12 Plans in Australia</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/nhs-covid-19-app-confused-the-hell-out-of-users-with-bs-alerts-about-their-areas-risk-level/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="169" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-300x169.jpg" class="attachment-widget-medium size-widget-medium" alt="The UK&#039;s official covid-19 contact-tracing app, displayed above, went live on Sept. 24 and has already experienced a host of technical issues. (Photo: Dan Kitwood, Getty Images)" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-300x169.jpg 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-480x270.jpg 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-414x233.jpg 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-208x117.jpg 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/18/qhvqtqfafqrxlinj1bax-732x412.jpg 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small>The UK&#039;s official covid-19 contact-tracing app, displayed above, went live on Sept. 24 and has already experienced a host of technical issues. (Photo: Dan Kitwood, Getty Images)</small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/nhs-covid-19-app-confused-the-hell-out-of-users-with-bs-alerts-about-their-areas-risk-level/">
+<h5 class="title">NHS Covid-19 App Confused the Hell Out of Users With BS...</h5>
+</a>
+</div>
+</div>
+</div>
+ <div id="ad-slot-mrec-sidebar-tablet-2426161609" class="ad-slot ad-slot-ad-rendering widget widget-ad ad-slot-ad-rendering ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide ad-slot" data-section-index=2426161609></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"mrec-sidebar-tablet","targeting":{"pos":"1"},"provider":"google-dfp","element_id":"ad-slot-mrec-sidebar-tablet-2426161609","js_callback":"sidebarAds"} );
+		}
+	</script>
+<div id="ad-slot-mrec-sidebar-wide-2984143493" class="ad-slot ad-slot-ad-rendering widget widget-ad ad-slot-ad-rendering ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide" data-section-index=2984143493></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"mrec-sidebar-wide","targeting":{"pos":"1"},"provider":"google-dfp","element_id":"ad-slot-mrec-sidebar-wide-2984143493","js_callback":"sidebarAds"} );
+		}
+	</script>
+
+<div class="widget widget-with-images">
+<h2 class="widget-title">Deals</h2>
+<div class="widget-with-images__container-hero">
+<a href="https://www.gizmodo.com.au/2020/10/every-iphone-12-phone-plan-in-australia-pro-max-mini/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="300" height="169" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-300x169.png" class="attachment-widget-medium size-widget-medium" alt="iPhone 12 pre-order plans telstra optus vodafone" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iPhone12-732x412.png 732w" sizes="(max-width: 300px) 100vw, 300px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<a href="https://www.gizmodo.com.au/2020/10/every-iphone-12-phone-plan-in-australia-pro-max-mini/"><h4 class="title">Every iPhone 12 Pre-Order Plan in Australia From Telstra, Optus and Vodafone</h4></a>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/the-best-iphone-12-pro-max-mini-plans-in-australia/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="208" height="117" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-208x117.png" class="attachment-default-small size-default-small" alt="iPhone 12 plans telstra optus vodafone" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-1024x576.png 1024w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-768x432.png 768w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-1536x864.png 1536w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-732x412.png 732w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini-1280x720.png 1280w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-pro-max-mini.png 1849w" sizes="(max-width: 208px) 100vw, 208px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/the-best-iphone-12-pro-max-mini-plans-in-australia/">
+<h5 class="title">The Best iPhone 12 Plans in Australia</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/okay-so-vodafones-iphone-12-pre-order-deal-is-also-nuts/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="208" height="117" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-208x117.png" class="attachment-default-small size-default-small" alt="vodafone iPhone 12" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-1024x576.png 1024w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-768x432.png 768w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G-732x412.png 732w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/iphone-12-5G.png 1280w" sizes="(max-width: 208px) 100vw, 208px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/okay-so-vodafones-iphone-12-pre-order-deal-is-also-nuts/">
+<h5 class="title">Okay So Vodafone&#8217;s iPhone 12 Pre-Order Deal is Also Nuts</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/telstras-iphone-12-pre-order-offer-is-insane/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="208" height="117" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-208x117.png" class="attachment-default-small size-default-small" alt="telstra iPhone 12" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-208x117.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-300x169.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-1024x576.png 1024w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-768x432.png 768w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-480x270.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-414x233.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder-732x412.png 732w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/14/telstra-iphone-12-preorder.png 1280w" sizes="(max-width: 208px) 100vw, 208px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/telstras-iphone-12-pre-order-offer-is-insane/">
+<h5 class="title">Telstra&#8217;s Insane iPhone 12 Pre-Order Offer is Now Available</h5>
+</a>
+</div>
+</div>
+<div class="widget-with-images__container">
+<a class="image-thumbnail" href="https://www.gizmodo.com.au/2020/10/telstra-deal-cheap-xl-phone-plan-discount/">
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="208" height="117" src="https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns.jpg" class="attachment-default-small size-default-small" alt="telstra deal" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns.jpg 800w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-300x169.jpg 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-410x231.jpg 410w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-107x60.jpg 107w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-208x116.jpg 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-640x360.jpg 640w, https://www.gizmodo.com.au/content/uploads/sites/2/2019/11/mr-burns-768x432.jpg 768w" sizes="(max-width: 208px) 100vw, 208px" /> </div>
+</div>
+<small></small>
+</div>
+</a>
+<div class="content-wrapper has-thumbnail">
+<a href="https://www.gizmodo.com.au/2020/10/telstra-deal-cheap-xl-phone-plan-discount/">
+<h5 class="title">Telstra is Knocking $50/Month Off its Biggest Mobile Plan</h5>
+</a>
+</div>
+</div>
+</div>
+
+<div id="ad-slot-single-taboola-left-rail-thumbnails-4168096295" class="ad-slot" data-section-index="4168096295"></div>
+<script type="text/javascript">
+	window.onDOMLoad( function() {
+		console.log( '%cTaboola AD Loaded: ad-slot-single-taboola-left-rail-thumbnails-4168096295', 'background: #242424; color: orchid;' );
+
+		window._taboola = window._taboola || [];
+		window._taboola.push( {
+			mode: 'organic-thumbnails-k',
+			container: 'ad-slot-single-taboola-left-rail-thumbnails-4168096295',
+			placement: 'Left Rail Thumbnails ' + window.sectionIndex,
+			target_type: 'mix'
+		} );
+		window._taboola.push( {
+			article: 'auto',
+			url: 'https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/'
+		} );
+		window._taboola.push( { flush: true } );
+	} );
+</script>
+<div id="ad-slot-hpu-sidebar-wide-2905359212" class="ad-slot ad-slot-ad-rendering widget widget-ad ad-slot-ad-rendering ad-slot-hpu ad-slot-hpu-sidebar ad-slot-hpu-wide" data-section-index=2905359212></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"hpu-sidebar-wide","targeting":{"pos":"2"},"provider":"google-dfp","element_id":"ad-slot-hpu-sidebar-wide-2905359212","js_callback":"sidebarAds"} );
+		}
+	</script>
+<div id="ad-slot-mrec-sidebar-tablet-2070201921" class="ad-slot ad-slot-ad-rendering widget widget-ad ad-slot-ad-rendering ad-slot-mrec ad-slot-mrec-sidebar ad-slot-mrec-sidebar-wide ad-slot" data-section-index=2070201921></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"mrec-sidebar-tablet","targeting":{"pos":"2"},"provider":"google-dfp","element_id":"ad-slot-mrec-sidebar-tablet-2070201921","js_callback":"sidebarAds"} );
+		}
+	</script>
+</div>
+</aside>
+</div>
+
+<div class="col site-content">
+<article id="post-1519934" class="post-1519934 post type-post status-publish format-standard has-post-thumbnail hentry category-cars tag-car-id tag-car-identification tag-thailand" data-article-id="1519934" data-article-title="Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts" data-article-published-date="2020-10-15" data-article-permalink="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/">
+<div class="entry-title">
+<h1>Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts</h1> </div>
+<div class="entry-share-icons">
+<div class="social-share-list">
+<span>Share</span>
+<nav class="social-media-nav">
+<ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'Facebook', 'width=640,height=580')" rel="nofollow" class="social-share-facebook">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="Facebook icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M17 9.05A8.02 8.02 0 0 0 9 1C4.58 1 1 4.6 1 9.05A8.04 8.04 0 0 0 7.75 17v-5.62H5.72V9.05h2.03V7.28c0-2.02 1.2-3.14 3.02-3.14.88 0 1.8.16 1.8.16v1.98h-1.02c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.36 2.34h-1.86V17A8.04 8.04 0 0 0 17 9.05"></path></svg> </a>
+</li>
+<li>
+<a href="http://twitter.com/share?text=Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts&url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharetwitter', 'width=640,height=580')" rel="nofollow" class="social-share-twitter">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="Twitter icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M12.46 1.13c-2.04 0-3.7 1.78-3.7 3.97 0 .31.04.62.1.9a10.26 10.26 0 0 1-7.6-4.15A4.2 4.2 0 0 0 2.4 7.16a3.5 3.5 0 0 1-1.68-.5v.05a3.92 3.92 0 0 0 2.97 3.9 3.45 3.45 0 0 1-1.67.07 3.74 3.74 0 0 0 3.45 2.76A7.08 7.08 0 0 1 0 15.1a9.92 9.92 0 0 0 5.66 1.79c6.8 0 10.5-6.06 10.5-11.32v-.51A7.85 7.85 0 0 0 18 2.99c-.66.32-1.37.53-2.12.63a3.95 3.95 0 0 0 1.62-2.2c-.71.45-1.5.78-2.34.96a3.57 3.57 0 0 0-2.7-1.25"></path></svg> </a>
+</li>
+<li class="stumbleupon">
+<a href="http://www.stumbleupon.com/badge?url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharestumbleupon', 'width=640,height=580')" rel="nofollow" class="social-share-stumbleupon">
+<svg id="Bold" enable-background="new 0 0 24 24" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m24 15.732c0-.15 0-3.423 0-3.267h-4.1v3.374c0 .689-.577 1.242-1.279 1.242-.701 0-1.275-.553-1.275-1.242v-3.308l-2.438.713-1.637-.75v3.29c0 2.882 2.415 5.216 5.364 5.216 2.964 0 5.365-2.357 5.365-5.268z" /><path d="m5.364 20.994c2.94 0 5.364-2.319 5.364-5.193v-7.511c0-.689.573-1.252 1.275-1.252.701 0 1.275.563 1.275 1.252 0 .101 0 1.55 0 1.45l1.637.75 2.438-.713v-1.669c0-2.835-2.438-5.108-5.35-5.108-2.901 0-5.35 2.258-5.35 5.071v7.61c0 .698-.573 1.252-1.275 1.252-.701 0-1.275-.553-1.275-1.252v-3.215h-4.103v3.266c0 2.905 2.401 5.262 5.364 5.262z" /></svg> </a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/submit?url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharereddit', 'width=640,height=580')" rel="nofollow" class="social-share-reddit">
+<svg id="Bold" enable-background="new 0 0 24 24" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m21.325 9.308c-.758 0-1.425.319-1.916.816-1.805-1.268-4.239-2.084-6.936-2.171l1.401-6.406 4.461 1.016c0 1.108.89 2.013 1.982 2.013 1.113 0 2.008-.929 2.008-2.038s-.889-2.038-2.007-2.038c-.779 0-1.451.477-1.786 1.129l-4.927-1.108c-.248-.067-.491.113-.557.365l-1.538 7.062c-2.676.113-5.084.928-6.895 2.197-.491-.518-1.184-.837-1.942-.837-2.812 0-3.733 3.829-1.158 5.138-.091.405-.132.837-.132 1.268 0 4.301 4.775 7.786 10.638 7.786 5.888 0 10.663-3.485 10.663-7.786 0-.431-.045-.883-.156-1.289 2.523-1.314 1.594-5.115-1.203-5.117zm-15.724 5.41c0-1.129.89-2.038 2.008-2.038 1.092 0 1.983.903 1.983 2.038 0 1.109-.89 2.013-1.983 2.013-1.113.005-2.008-.904-2.008-2.013zm10.839 4.798c-1.841 1.868-7.036 1.868-8.878 0-.203-.18-.203-.498 0-.703.177-.18.491-.18.668 0 1.406 1.463 6.07 1.488 7.537 0 .177-.18.491-.18.668 0 .207.206.207.524.005.703zm-.041-2.781c-1.092 0-1.982-.903-1.982-2.011 0-1.129.89-2.038 1.982-2.038 1.113 0 2.008.903 2.008 2.038-.005 1.103-.895 2.011-2.008 2.011z" /></svg> </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="entry-post-header">
+<div class="entry-meta-data">
+<div class="meta-data-content">
+<h3 class="author-title">Jason Torchinsky</h3>
+<div class="entry-cat-timeago">
+<span class="color-grey">Published 3 days ago: </span>
+<span class="date-time">October 15, 2020 at 2:00 pm</span>
+<span class="color-grey separator">-</span><div class="entry-tags"><span class="color-grey">Filed to:</span><span data-url="https://www.gizmodo.com.au/tag/car-id/" class="tag tag--first">car id</span><span class="chevron-down"><img src="https://www.gizmodo.com.au/content/themes/gmg/src/images/chevron-down.svg"></span><div class="post_tags"><span data-url="https://www.gizmodo.com.au/tag/car-identification/" class="tag tag--onlist">car identification</span><a href="https://www.gizmodo.com.au/tag/thailand/" class="tag tag--onlist">thailand</a></div></div> </div>
+</div>
+</div>
+</div>
+<div class="entry-thumbnail">
+<div class="entry-thumbnail__image">
+<span class="entry-thumbnail__placeholder"></span>
+<div class="thumbnail">
+<img width="732" height="410" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-732x410.png" class="attachment-default-large size-default-large" alt="" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-732x410.png 732w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-300x168.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-480x269.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-414x232.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/bnxknnj2ee6w1g9opily-208x117.png 208w" sizes="(max-width: 732px) 100vw, 732px" /> </div>
+</div>
+<small></small>
+</div>
+<div class="entry-content">
+<p>A couple of days ago, Twitter user <a href="https://twitter.com/douglassonders">Douglas Sonders</a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, has so far defied identification. And it’s driving me bonkers.</p><div id="brightcove-video-container-2986420062" class="brightcove-video-container" style="display: none">
+<p class="brightcove-video-related"></p>
+<div class="brightcove-video">
+<div class="brightcove-video-inner">
+<span class="bightcove-close-video-cross" data-src="https://www.gizmodo.com.au/content/mu-plugins/pedestrian-video-front-end/template/assets/img/close-button.png" alt="Close video"></span>
+<p class="bightcove-close-video-swipe" data-text="Swipe to close"></p>
+<div class="vjs-playlist-player-container">
+<video-js id="brightcove-video-2986420062" data-account="6103636748001" data-player="Q0b9g16P" data-embed="default" controls="" data-playlist-id="1656927920896040094" data-application-id="" class="vjs-fluid" muted playsinline></video-js>
+</div>
+</div>
+</div>
+<p class="brightcove-video-title"></p>
+</div><p></p> <div class="ad-slot-cntr">
+<div id="ad-slot-mrec-content-mobile-467925403" class="ad-slot ad-slot-ad-rendering ad-slot-mrec-mobile-content ad-slot-mrec ad-slot-mrec-mobile" data-slot=/1027487/gizamp width=320 height=250 data-multi-size=300x250 data-section-index=467925403></div>
+<script type="text/javascript">
+			if (typeof siteads.queue !== 'undefined') {
+				siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"mrec-content-mobile","targeting":{"pos":"1"},"provider":"google-dfp","element_id":"ad-slot-mrec-content-mobile-467925403","js_callback":"contentAds"} );
+			}
+		</script>
+</div>
+<p>Here’s the tweet in question, so you can feel the madness, too:</p><blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Let's play the identify the car game. Was posted in a car facebook group. It's been seen abandoned for years in Thailand. What is this thing? <a href="https://t.co/CQmzBkwU0H">pic.twitter.com/CQmzBkwU0H</a></p>
+<p>— Douglas Sonders (@douglassonders) <a href="https://twitter.com/douglassonders/status/1316030935121498113?ref_src=twsrc%5Etfw">October 13, 2020</a></p></blockquote><p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p><p>What’s crazy about this thing is just how many car-ID neurons it seems to fire all at once. That C-pillar and rear quarter-window area seem to feel almost late-’80s Thunderbird, but not quite. Some of the proportions kind of feel like an early ’90s Nissan Silvia, but it’s not. The face has a late ’80s Acura look, too, but it’s not that, either.</p> <div class="ad-slot-cntr">
+<div id="ad-slot-out-of-page-mobile-963065293" class="ad-slot ad-slot-ad-rendering ad-slot-out-of-page ad-slot-out-of-page-mobile" data-section-index=963065293></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"out-of-page-mobile","provider":"google-dfp","element_id":"ad-slot-out-of-page-mobile-963065293","js_callback":"contentAds"} );
+		}
+	</script>
+</div>
+<p>Those flat-topped wheel arches — why are they familiar?</p> <div class="ad-slot-cntr">
+<div id="ad-slot-mrec-content-mobile-1162941056" class="ad-slot ad-slot-ad-rendering ad-slot-mrec-mobile-content ad-slot-mrec ad-slot-mrec-mobile" data-slot=/1027487/gizamp width=320 height=250 data-multi-size=300x250 data-section-index=1162941056></div>
+<script type="text/javascript">
+			if (typeof siteads.queue !== 'undefined') {
+				siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"mrec-content-mobile","targeting":{"pos":"2"},"provider":"google-dfp","element_id":"ad-slot-mrec-content-mobile-1162941056","js_callback":"contentAds"} );
+			}
+		</script>
+</div>
+<div class="shortcode shortcode--image centre">
+<img width="1245" height="842" src="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz.png" class="attachment- size-" alt="" loading="lazy" srcset="https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz.png 1245w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz-300x203.png 300w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz-480x325.png 480w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz-414x280.png 414w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz-208x141.png 208w, https://www.gizmodo.com.au/content/uploads/sites/2/2020/10/15/ndvlrvwwbqwhzwffv6nz-732x495.png 732w" sizes="(max-width: 1245px) 100vw, 1245px"> <small>Screenshot: Twitter</small>
+</div><p>Also, what the hell is going on with this door cutline here? And is that patch under the C-pillar evidence that this thing is some Frankenstein’d beast, patched together out of many cars? And, if so, what cars?</p><p>What is this thing? How does it resist identification so powerfully, so cruelly? What dark god has given it the power to force your brain into that painful state of almost knowing, that tip-of-the-tongue unbearable feeling for so long, so miserably?</p><p>Please. Somebody. Free me. Help me identify this baffling Thai wretch. I can’t rest until this is solved, or until I forget about it the day after tomorrow. Either way, this is a <em>big deal.</em></p><p>Help<em>. </em>Answers to <a href="/cdn-cgi/l/email-protection#2f454e5c40416f454e43405f414644014c4042"><span class="__cf_email__" data-cfemail="6f050e1c00012f050e03001f010604410c0002">[email&#160;protected]</span></a>, please.</p> </div>
+<div class="entry-author">
+<div class="author-footer">
+<div class="entry-share-icons">
+<span class="df-title">Share this Story</span>
+<nav class="social-media-nav">
+<ul>
+<li>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'Facebook', 'width=640,height=580')" rel="nofollow" class="social-share-facebook">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="Facebook icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M17 9.05A8.02 8.02 0 0 0 9 1C4.58 1 1 4.6 1 9.05A8.04 8.04 0 0 0 7.75 17v-5.62H5.72V9.05h2.03V7.28c0-2.02 1.2-3.14 3.02-3.14.88 0 1.8.16 1.8.16v1.98h-1.02c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.36 2.34h-1.86V17A8.04 8.04 0 0 0 17 9.05"></path></svg> </a>
+</li>
+<li>
+<a href="http://twitter.com/share?text=Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts&url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharetwitter', 'width=640,height=580')" rel="nofollow" class="social-share-twitter">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="Twitter icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M12.46 1.13c-2.04 0-3.7 1.78-3.7 3.97 0 .31.04.62.1.9a10.26 10.26 0 0 1-7.6-4.15A4.2 4.2 0 0 0 2.4 7.16a3.5 3.5 0 0 1-1.68-.5v.05a3.92 3.92 0 0 0 2.97 3.9 3.45 3.45 0 0 1-1.67.07 3.74 3.74 0 0 0 3.45 2.76A7.08 7.08 0 0 1 0 15.1a9.92 9.92 0 0 0 5.66 1.79c6.8 0 10.5-6.06 10.5-11.32v-.51A7.85 7.85 0 0 0 18 2.99c-.66.32-1.37.53-2.12.63a3.95 3.95 0 0 0 1.62-2.2c-.71.45-1.5.78-2.34.96a3.57 3.57 0 0 0-2.7-1.25"></path></svg> </a>
+</li>
+<li class="stumbleupon">
+<a href="http://www.stumbleupon.com/badge?url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharestumbleupon', 'width=640,height=580')" rel="nofollow" class="social-share-stumbleupon">
+<svg id="Bold" enable-background="new 0 0 24 24" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m24 15.732c0-.15 0-3.423 0-3.267h-4.1v3.374c0 .689-.577 1.242-1.279 1.242-.701 0-1.275-.553-1.275-1.242v-3.308l-2.438.713-1.637-.75v3.29c0 2.882 2.415 5.216 5.364 5.216 2.964 0 5.365-2.357 5.365-5.268z" /><path d="m5.364 20.994c2.94 0 5.364-2.319 5.364-5.193v-7.511c0-.689.573-1.252 1.275-1.252.701 0 1.275.563 1.275 1.252 0 .101 0 1.55 0 1.45l1.637.75 2.438-.713v-1.669c0-2.835-2.438-5.108-5.35-5.108-2.901 0-5.35 2.258-5.35 5.071v7.61c0 .698-.573 1.252-1.275 1.252-.701 0-1.275-.553-1.275-1.252v-3.215h-4.103v3.266c0 2.905 2.401 5.262 5.364 5.262z" /></svg> </a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/submit?url=https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" onclick="return !window.open(this.href, 'sharereddit', 'width=640,height=580')" rel="nofollow" class="social-share-reddit">
+<svg id="Bold" enable-background="new 0 0 24 24" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg"><path d="m21.325 9.308c-.758 0-1.425.319-1.916.816-1.805-1.268-4.239-2.084-6.936-2.171l1.401-6.406 4.461 1.016c0 1.108.89 2.013 1.982 2.013 1.113 0 2.008-.929 2.008-2.038s-.889-2.038-2.007-2.038c-.779 0-1.451.477-1.786 1.129l-4.927-1.108c-.248-.067-.491.113-.557.365l-1.538 7.062c-2.676.113-5.084.928-6.895 2.197-.491-.518-1.184-.837-1.942-.837-2.812 0-3.733 3.829-1.158 5.138-.091.405-.132.837-.132 1.268 0 4.301 4.775 7.786 10.638 7.786 5.888 0 10.663-3.485 10.663-7.786 0-.431-.045-.883-.156-1.289 2.523-1.314 1.594-5.115-1.203-5.117zm-15.724 5.41c0-1.129.89-2.038 2.008-2.038 1.092 0 1.983.903 1.983 2.038 0 1.109-.89 2.013-1.983 2.013-1.113.005-2.008-.904-2.008-2.013zm10.839 4.798c-1.841 1.868-7.036 1.868-8.878 0-.203-.18-.203-.498 0-.703.177-.18.491-.18.668 0 1.406 1.463 6.07 1.488 7.537 0 .177-.18.491-.18.668 0 .207.206.207.524.005.703zm-.041-2.781c-1.092 0-1.982-.903-1.982-2.011 0-1.129.89-2.038 1.982-2.038 1.113 0 2.008.903 2.008 2.038-.005 1.103-.895 2.011-2.008 2.011z" /></svg> </a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="entry-newsletter">
+<span class="df-title">Get our Newsletter</span>
+<a href="#" class="subscribe-link" data-modal="#subscribe-modal">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="MailFilled icon" viewBox="0 0 18 18"><path fill-rule="evenodd" d="M17 5v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V5c0-.12.01-.24.03-.35L8.7 10.4a.5.5 0 0 0 .6 0l7.67-5.75c.02.11.03.23.03.35zm-2-2a2 2 0 0 1 1.54.72L9 9.37 1.46 3.72A2 2 0 0 1 3 3h12z"></path></svg> <span>Subscribe</span>
+</a>
+</div>
+</div>
+</div>
+<div class="taboola-placement">
+<div id="ad-slot-single-taboola-below-article-thumbnails-4061245860" class="ad-slot" data-section-index="4061245860"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	window.onDOMLoad( function() {
+		console.log( '%cTaboola AD Loaded: ad-slot-single-taboola-below-article-thumbnails-4061245860', 'background: #242424; color: orchid;' );
+		window._taboola = window._taboola || [];
+		_taboola.push( {
+			mode: 'alternating-thumbnails-b',
+			container: 'ad-slot-single-taboola-below-article-thumbnails-4061245860',
+			placement: 'Below Article Thumbnails ' + window.sectionIndex,
+			target_type: 'mix'
+		} );
+		_taboola.push( {
+			article: 'auto',
+			url: 'https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/'
+		} );
+		window._taboola.push( { flush: true } );
+	} );
+</script>
+</div>
+<div class="plista-placement">
+<div id="plista_widget__under_article_151507405" class="ad-slot ad-slot-ad-rendering ad-slot-plista ad-slot-plista-under-article" data-widget="plista_widget_underArticle" data-section-index="151507405"></div>
+<script type="text/javascript">
+		if (typeof siteads.queue !== 'undefined') {
+			siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"plista-under-article","provider":"plista","element_id":"plista_widget__under_article_151507405"} );
+		}
+	</script>
+</div>
+</article>
+</div>
+</div>
+</main>
+<div id="ad-slot-bottom-banner-mobile-sticky-2309071974" class="ad-slot ad-slot-ad-rendering ad-slot-banner ad-slot-banner-mobile ad-slot-banner-top sticky sticky-bottom" data-slot=/1027487/gizamp width=320 height=50 data-multi-size=320x50 data-sticky-position=bottom data-sticky-offset=0 data-section-index=2309071974></div>
+<script type="text/javascript">
+			if (typeof siteads.queue !== 'undefined') {
+				siteads.queue.push( {"site":"gizmodo","pagetype":"article","ad_type":"article","sec":"cars","amp":false,"ctype":"article","article":"someone has to identify this bizarre abandoned car in thailand before i go nuts","article-tags":["car id","car identification","thailand"],"native":["null"],"aggregate":["car id","car identification","thailand"],"pageID":["null"],"sub-sec":"","cat":"cars","cat1":"","item":{"objectid":1519934,"title":"Someone Has To Identify This Bizarre Abandoned Car In Thailand Before I Go Nuts","text":"A couple of days ago, Twitter user <a href=\"https:\/\/twitter.com\/douglassonders\">Douglas Sonders<\/a> showed the world some pictures of an abandoned car in Thailand that he got from a Facebook group. This car, so seemingly conventional-looking at a glance, ","url":"https:\/\/www.gizmodo.com.au\/2020\/10\/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts\/","img":"https:\/\/www.gizmodo.com.au\/content\/uploads\/sites\/2\/2020\/10\/15\/bnxknnj2ee6w1g9opily.png","category":"Cars","published_at":1602770427,"updated_at":1602751451,"kind":"article"},"ad_location":"bottom-banner-mobile-sticky","targeting":{"pos":"1"},"provider":"google-dfp","element_id":"ad-slot-bottom-banner-mobile-sticky-2309071974","js_callback":"contentAds"} );
+			}
+		</script>
+</div> 
+<div id="load_more_spinner_infinite_scroll">
+</div>
+<div id="no_more_posts_infinite_scroll">There are no more articles to be viewed</div>
+</div> 
+
+<footer class="site-footer">
+<div class="cntr cntr--flex cntr--align-center">
+<p class="col col--no-pad-left">&copy; 2007 - 2020 Pedestrian Group</p>
+<div class="col col--auto col--no-pad-right">
+<div class="gmg-footer-navigation">
+<nav id="site-navigation" class="footer-navigation">
+<ul class="gmg-footer-navigation__container"><li id="menu-item-490565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490565"><a href="https://www.gizmodo.com.au/about/">About</a></li>
+<li id="menu-item-1217708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217708"><a href="https://www.gizmodo.com.au/advertising-terms-and-conditions/">Advertise</a></li>
+<li id="menu-item-490566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-490566"><a href="https://www.gizmodo.com.au/contact/">Contact</a></li>
+<li id="menu-item-1217709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1217709"><a href="https://www.gizmodo.com.au/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1217710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1217710"><a href="https://www.gizmodo.com.au/terms/">Terms of Use</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</footer>
+<div id="login-modal" class="modal modal--login">
+<div class="modal__wrapper">
+<div class="modal-block modal-block--right form-login-block">
+<form name="loginform" id="loginform" action="https://www.gizmodo.com.au/wp/wp-login.php" method="post">
+<p class="login-username">
+<label for="user_login">Username or Email Address</label>
+<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+</p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+</p>
+<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p>
+<p class="login-submit">
+<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
+<input type="hidden" name="redirect_to" value="/" />
+</p>
+</form> <div class="signup-link">
+<span>Haven't registered?</span>
+<a href="#" data-modal="#register-modal">Sign up here</a>
+</div>
+<div class="lost-pass-link">
+<span>Lost your password?</span>
+<a href="/lost-password">Click here to reset</a>
+</div>
+</div>
+</div>
+</div>
+<div id="register-modal" class="modal modal--register">
+<div class="modal__wrapper">
+<form id="signupform" action="https://www.gizmodo.com.au/register/process/" method="post">
+<div class="modal-block modal-block--left">
+<p class="register-firstname">
+<label for="first_name">First name</label>
+<input type="text" name="first_name" class="input" />
+</p>
+<p class="register-lastname">
+<label for="last_name">Last name</label>
+<input type="text" name="last_name" class="input" />
+</p>
+<p class="register-emailaddress">
+<label for="user_email">Email address</label>
+<input type="email" name="user_email" class="input" />
+</p>
+<p class="register-password">
+<label for="password">Password</label>
+<input type="password" name="password" class="input" />
+</p>
+<p class="register-repeatpassword">
+<label for="repeat_password">Repeat password</label>
+<input type="password" name="repeat_password" class="input" />
+</p>
+<p class="register-submit">
+<input type="submit" name="register_submit" class="button button-primary" value="Register" />
+<input type="hidden" id="nonce" name="nonce" value="b564d98b61" /><input type="hidden" name="_wp_http_referer" value="/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" /> </p>
+<div class="back-link">
+<span>Back to Login?</span>
+<a href="#" data-modal="#login-modal">Click here</a>
+</div>
+</div>
+<div class="modal-block modal-block--right">
+<h4>Email newsletters will contain a brief summary of our top stories, plus details of competitions and reader events.</h4>
+<div class="modal-checkboxes">
+<p class="checkbox">
+<label><input type="checkbox" name="reg_newsletter[gizmodo]" value="gizmodo"> Gizmodo Newsletter</label>
+</p>
+<p class="checkbox">
+<label><input type="checkbox" name="reg_newsletter[kotaku]" value="kotaku"> Kotaku Newsletter</label>
+</p>
+<p class="checkbox">
+<label><input type="checkbox" name="reg_newsletter[lifehacker]" value="lifehacker"> Lifehacker Newsletter</label>
+</p>
+<p class="checkbox">
+<label><input type="checkbox" name="reg_newsletter[partners]" value="partners"> Yes, I wish to receive exclusive discounts, special offers and competitions from our partners.</label>
+</p>
+</div>
+</div>
+</form>
+</div>
+</div>
+<div id="lost-password-modal" class="modal modal--lost-pass">
+<div class="modal__lost-pass">
+<form action="https://www.gizmodo.com.au/lost-password/process/" method="post">
+<p class="lost-password-identification">
+<label for="identification">Email address</label>
+<input type="text" name="identification" class="input" />
+</p>
+<p class="lost-password-submit">
+<input type="submit" name="lost_password_submit" value="Request password reset" />
+<input type="hidden" id="nonce" name="nonce" value="04e962c335" /><input type="hidden" name="_wp_http_referer" value="/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/" /><input type="hidden" id="nonce" name="nonce" value="04e962c335"><input type="hidden" name="_wp_http_referer" value="/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/"> </p>
+<input type="hidden" name="redirect_to" value="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts" />
+</form>
+<div class="back-link">
+<span>Back to Login?</span>
+<a href="#" data-modal="#login-modal">Click here</a>
+</div>
+</div>
+</div>
+<div id="subscribe-modal" class="modal modal--subscribe">
+<div class="modal__wrapper">
+<div class="modal-block modal-block--left">
+<h3>Subscribe to our newsletter!</h3>
+<p class="subscribe-desc">Now you can get the top stories from Gizmodo delivered to your inbox. Enter your email below.</p>
+<p class="by-subscribing">By subscribing you agree to our <a href="https://pedestriangroup.com.au/terms-of-use/" target="_blank">Terms of Use</a> and
+<a href="#">Privacy Policy.</a></p>
+</div>
+<div class="modal-block modal-block--right">
+<form id="subscribeform" action="https://www.gizmodo.com.au/newsletter/sign-up/" method="post">
+<p class="subscribe-emailaddress">
+<label for="user_email">Email address</label>
+<input type="email" name="user_email" class="input" />
+</p>
+<div class="gmg-subscribe-widget__checkbox-wrap">
+<input type="hidden" name="reg_newsletter[gizmodo]" value="gizmodo">
+<input type="hidden" name="redirect_to" value="https://www.gizmodo.com.au/2020/10/someone-has-to-identify-this-bizarre-abandoned-car-in-thailand-before-i-go-nuts/">
+<input type="checkbox" value="partners" id="reg_newsletter_modal" name="reg_newsletter[partners]" class="gmg-subscribe-widget__checkbox">
+<label for="reg_newsletter_modal" class="gmg-subscribe-widget__checkbox-label">Alert me about competitions &
+deals</label>
+</div>
+<input type="submit" class="subscribe-submit" name="subscribe_submit" value="Subscribe" />
+</p>
+</form>
+</div>
+</div>
+</div>
+</div> 
+
+<script data-cfasync="false" id="parsely-cfg" data-parsely-site="gizmodo.com.au" src="//cdn.parsely.com/keys/gizmodo.com.au/p.js"></script>
+
+
+
+<script type="text/javascript" src="//cdn-gl.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">var pvar = { cid: "alluremedia", content: "0", server: "secure-gl" }; var trac = nol_t(pvar); trac.record().post();</script>
+<noscript><div><img data-src="//secure-dcr.imrworldwide.com/cgi-bin/m?ci=alluremedia&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /></div></noscript>
+
+
+<script type="text/javascript" src="//cdn-gl.imrworldwide.com/novms/js/2/ggcmb510.js"></script>
+<script type="text/JavaScript">
+	var _nolggGlobalParams = {
+		sfcode: digitalData.nielsen.sfcode,
+		apid: digitalData.nielsen.apid,
+		apn: digitalData.nielsen.sitename,
+		nsdkv: '511',
+		nol_sdkDebug: digitalData.nielsen.nol_sdkDebug
+	};
+	var nSdkInstance = NOLCMB.getInstance(_nolggGlobalParams.apid);
+	nSdkInstance.ggInitialize(_nolggGlobalParams);
+	console.log( 'NIELSEN', 'ggInitialize', _nolggGlobalParams );
+
+	var dcrStaticMetadataObject = {
+		type: 'static',
+		dataSrc: 'cms',
+		assetid: window.location.pathname,
+		section: digitalData.nielsen.section,
+		// segA: digitalData['page']['category']['primaryCategory'],
+		// segB: digitalData['page']['category']['subCategory1']
+	}
+
+	// Set pagination parameter used by Nielsen SDK.
+	window.sdkNseNoPage = 0;
+
+	nSdkInstance.ggPM('staticstart', dcrStaticMetadataObject);
+	console.log( 'NIELSEN', 'staticstart', dcrStaticMetadataObject );
+</script>
+
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/wp/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' id='brightcove-video-manager-js-extra'>
+/* <![CDATA[ */
+var brightcoveVideoManagerConfig = {"countries":["AU"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.gizmodo.com.au/content/mu-plugins/pedestrian-video-front-end/template/assets/js/brightcove-video-manager.1602453976.js" id="brightcove-video-manager-js" async="async"></script>
+<script type='text/javascript' id='main-js-js-extra'>
+/* <![CDATA[ */
+var gmg = {"siteUrl":"https:\/\/www.gizmodo.com.au","isLoggedIn":"","updateProfileAction":"update-profile","authorName":"","authorEmail":""};
+var infiniteScrollParams = {"infiniteScrollAction":"infinite-scroll","pageType":"single","maxNumPages":"20","category":"225","tagID":"0","author":"0","infiniteScrollOff":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gizmodo.com.au/content/themes/gmg/dist/js/main.min.js?ver=1602798713' id='main-js-js'></script>
+</body>
+</html>

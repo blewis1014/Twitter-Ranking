@@ -1,0 +1,459 @@
+<!doctype html>
+<html lang="en">
+	<!--
+	generated in 0.438 seconds
+	60932 bytes batcached for 60 seconds
+-->
+<head lang="en-US">
+		<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"e992b339c5",applicationID:"167181872"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');var googleUidDimension = '1';ga('create', 'UA-57247911-6', 'auto');ga('require', 'displayfeatures');</script>
+<meta name="lytics:topics" content="Checkpoint XP, Carolina Gamer Spotlight, Carolina Streamer Spotlight, Checkpoint XP, CheckPointXP, Local, Local News, V 1019"/>
+<meta name="lytics:author" content="alexiszarycki"/>
+<!-- This site is optimized with the Yoast SEO plugin v12.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Carolina Gamer Spotlight: Meet Eric Flowe" />
+<meta property="og:description" content="Video games are all the rage, so we decided to shed some light on local video game stars in the Carolinas. This week, we had the chance to sit down with local community gamer, Eric Flowe, and ask him about being part of the gaming community! Fun fact: Eric is also a student currently at &hellip;" />
+<meta property="og:url" content="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" />
+<meta property="og:site_name" content="V 101.9 WBAV" />
+<meta property="article:author" content="http://www.facebook.com/LexieZarycki/" />
+<meta property="article:tag" content="Carolina Gamer Spotlight" />
+<meta property="article:tag" content="Carolina Streamer Spotlight" />
+<meta property="article:tag" content="Checkpoint XP" />
+<meta property="article:tag" content="CheckPointXP" />
+<meta property="article:tag" content="Local" />
+<meta property="article:tag" content="Local News" />
+<meta property="article:tag" content="Video Games and Esports" />
+<meta property="article:section" content="Carolina Gamer Spotlight" />
+<meta property="article:published_time" content="2020-10-09T11:17:17+00:00" />
+<meta property="article:modified_time" content="2020-10-14T19:33:07+00:00" />
+<meta property="og:updated_time" content="2020-10-14T19:33:07+00:00" />
+<meta property="og:image" content="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg" />
+<meta property="og:image:secure_url" content="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Video games are all the rage, so we decided to shed some light on local video game stars in the Carolinas. This week, we had the chance to sit down with local community gamer, Eric Flowe, and ask him about being part of the gaming community! Fun fact: Eric is also a student currently at [&hellip;]" />
+<meta name="twitter:title" content="Carolina Gamer Spotlight: Meet Eric Flowe" />
+<meta name="twitter:image" content="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg?width=600&#038;maxheight=314&#038;anchor=middlecenter&#038;mode=crop" />
+<meta name="twitter:creator" content="@Official_LexPaige" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://v1019.com/#website","url":"https://v1019.com/","name":"V 101.9 WBAV","potentialAction":{"@type":"SearchAction","target":"https://v1019.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/#primaryimage","url":"https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg","width":1280,"height":720},{"@type":"WebPage","@id":"https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/#webpage","url":"https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/","inLanguage":"en-US","name":"Carolina Gamer Spotlight: Meet Eric Flowe","isPartOf":{"@id":"https://v1019.com/#website"},"primaryImageOfPage":{"@id":"https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/#primaryimage"},"datePublished":"2020-10-09T11:17:17+00:00","dateModified":"2020-10-14T19:33:07+00:00","author":{"@id":"https://v1019.com/#/schema/person/109fcd91482c4f6c29594a4413e7eb6e"}},{"@type":["Person"],"@id":"https://v1019.com/#/schema/person/109fcd91482c4f6c29594a4413e7eb6e","name":"Alexis Zarycki","image":{"@type":"ImageObject","@id":"https://v1019.com/#authorlogo","url":"https://secure.gravatar.com/avatar/a9dbfbcb0d23be7af8dc3adb803d5f03?s=96&d=mm&r=g","caption":"Alexis Zarycki"},"description":"Alexis Zarycki is your average girl with the hopes of leaving an everlasting impact on the world. Follow her on Instagram @official_lexpaige","sameAs":["http://www.facebook.com/LexieZarycki/","https://www.instagram.com/official_lexpaige/","https://twitter.com/Official_LexPaige"]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//files.greatermedia.com.s3.amazonaws.com' />
+<title>Carolina Gamer Spotlight: Meet Eric Flowe</title>
+<link rel="alternate" type="application/rss+xml" title="V 101.9 WBAV &raquo; Carolina Gamer Spotlight: Meet Eric Flowe Comments Feed" href="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/feed/" />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://v1019.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://v1019.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ee-app-css'  href='https://v1019.com/wp-content/themes/experience-engine/bundle/main.css?ver=1602617984' type='text/css' media='all' />
+<script type='text/javascript' src='https://v1019.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://v1019.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+var WebFontConfig = {"google":{"families":["Libre Franklin:300,400,500,600,700","Open Sans:600"]}}
+</script>
+<script type='text/javascript' async src='//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js'></script>
+<noscript><link href="//fonts.googleapis.com/css?family=Libre+Franklin:300,400,500,600,700%7COpen+Sans:600" rel="stylesheet"></noscript><script type='text/javascript' async src='//cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.6.1/iframeResizer.min.js'></script>
+<link rel='https://api.w.org/' href='https://v1019.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://v1019.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://v1019.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://v1019.com/?p=171430' />
+<link rel="alternate" type="application/json+oembed" href="https://v1019.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fv1019.com%2F2020%2F10%2F09%2Fcarolina-gamer-spotlight-meet-eric-flowe%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://v1019.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fv1019.com%2F2020%2F10%2F09%2Fcarolina-gamer-spotlight-meet-eric-flowe%2F&#038;format=xml" />
+		<style>
+		.getty.alignleft {
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			margin-left: 5px;
+		}
+		</style>
+		<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://v1019.com"><link rel="https://theeventscalendar.com/" href="https://v1019.com/wp-json/tribe/events/v1/" /><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-595BD7V');</script>
+<!-- End Google Tag Manager --><script>
+				!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+				n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t,s)}(window, document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '785721555125374');
+				fbq('track', 'PageView');
+				</script></head>
+	<body class="post-template-default single single-post postid-171430 single-format-standard -light tribe-no-js">
+		<div class="skip-links">
+			<a href="#q">Skip to Search</a>
+			<a href="#live-player">Skip to Live Player</a>
+			<a href="#content">Skip to Content</a>
+			<a href="#footer">Skip to Footer</a>
+		</div><script id="bbgiconfig" type="application/json">{"cssvars":{"variables":{"--brand-primary":"#b92a94","--brand-secondary":"#666666","--brand-tertiary":"#ffffff","--brand-background-color":"#b92a94","--brand-button-color":"#000000","--brand-text-color":"#ffffff","--brand-sponsorship-text-color":"#000000"}},"geotargetly":false,"intervals":{"live_streaming":15,"inline_audio":5},"theme":{"logo":{"url":"https:\/\/v1019.com\/wp-content\/uploads\/sites\/51\/2020\/10\/Breast-Cancer-Awareness-Month_WBAV.png","width":2083,"height":2083}},"streams":[{"id":"WBAV_stream","text":"","email":"incognito@power98fm.com","stream_tap_id":"2321","hours":"","stream_dial_numbers":"101.9 FM","subtitle":"","title":"V101.9","stream_sponsorship_adunit":"\/26918149\/wbav_fm_playersponsorship","stream_call_letters":"WBAVFM","stream_mount_key":"WBAVFMAAC","contentType":"stream","phone":"704-570-1019","stream_sponsorship_text":"","picture":{"large":{"width":1200,"height":900,"url":"https:\/\/resize.bbgi.com\/resize?url=https:\/\/bbgi-experience.firebaseapp.com\/assets\/logos\/WBAV_4x3.jpg&width=300&quality=70"},"original":{"url":"https:\/\/bbgi-experience.firebaseapp.com\/assets\/logos\/WBAV_4x3.jpg"}},"address":"1520 South Blvd. Suite 300 Charlotte, NC 28203","stream_cmod_domain":"cmod.live.streamtheworld.com","publishedAt":"2000-02-01T00:00:00.000Z"}],"eeapi":"https:\/\/experience.bbgi.com\/v1\/","wpapi":"https:\/\/v1019.com\/wp-json\/experience_engine\/v1\/","firebase":{"apiKey":"AIzaSyB8kARtuTgmmM5QnexMDsskIAaO34DHHEo","authDomain":"bbgi-experience.firebaseapp.com","projectId":"bbgi-experience"},"publisher":{"ios":"https:\/\/itunes.apple.com\/us\/app\/v-101-9\/id954587783?ls=1&mt=8","email":"incognito@power98fm.com","android":"https:\/\/play.google.com\/store\/apps\/details?id=com.radio.station.WBAV.FM","address":"1520 South Blvd. Suite 300 Charlotte, NC 28203","twitter":"@V1019fm","id":"WBAV","website":"v1019.com","genre":["Urban Adult Hits"],"title":"V 101.9","text":"","instagram":"@V1019fm","picture":{"height":307,"url":"WBAV.png","width":453},"facebook":"https:\/\/www.facebook.com\/V1019\/","location":"Charlotte, NC","beasleystation":true,"publishedAt":"2018-02-07T03:44:17.114Z","dial":"101.9 FM","phone":"704-570-1019","hours":""},"publishers":{"KCYE":"102.7 Coyote Country","WGUS":"102.7 WGUS","WMGK":"102.9 MGK","WDMK":"105.9 Kiss-FM","WYUU-HD2":"106.9 Playa","WCTC":"1450 WCTC","WYUU":"92.5 Maxima","WXTU":"92.5 XTU","WDRR":"93.9 BOB FM","WBEN FM":"95.7 BEN FM","WRAT":"95.9 The RAT","WFLB":"96.5 BOB FM","WRXK":"96k-Rock","WPBB2":"98.7 The Shark","WWCN":"99.3 ESPN","WQYK":"99.5 QYK","WXKB":"B 103.9","WKLB":"Country 102.5","WSOC":"Country 1037","WRDW-AM":"ESPN Augusta","WBCN":"Fox Sports Charlotte","WZFX":"Foxy 99","WHHD":"HD 98.3","WBQT":"HOT 96.9","WCHZ":"HOT Augusta","KOAS":"Jammin' 105.7","WKQC":"K 104.7","KDWN":"KDWN","WKXC":"Kicks 99","WNKS":"Kiss 95.1","KKLZ":"KKLZ","WAEC":"Love 860","WMGQ":"Magic 98.3","WJBR":"Mix 99.5 WJBR","WHFS-AM":"Money Talk","WAZZ":"My Kiss Radio","WUKS":"Old School 107.7","WRXK-HD2":"Playa 98.1","WPEG":"Power 98","WRBQ":"Q105","WWWE":"Real 1100","WBOS":"ROCK 92.9","KVGS":"Star 107.9","WGUS2":"Sunny 102.7","WJPT":"Sunny 106.3","WZFX HD2":"Sunny 94.3","WMGC":"The Bounce","WDMK-HD2":"The Detroit Praise Network","WPEN-FM":"The Fanatic","WBZ":"The Sports Hub","WBAV":"V 101.9","WCSX":"WCSX","WDHA":"WDHA","WGAC":"WGAC","WLLD":"WiLD 94.1","WJBX":"WJBX","WJRZ":"WJRZ","WKML":"WKML","WMMR":"WMMR","WMTR":"WMTR","WRIF":"WRIF","WROR":"WROR","WTMR":"WTMR","WWDB":"WWDB","WWNN":"WWNN","WWNN2":"WWNN2"},"locations":["Atlanta, GA","Augusta, GA","Boca Raton, FL","Boston, MA","Charlotte, NC","Detroit, MI","Fayetteville, NC","Fort Myers, FL","Las Vegas, NV","New Jersey","Philadelphia, PA","Tampa, FL","United States","Wilmington, DE"],"genres":["ac","adult contemporary","adult hits","baseball","basketball","business","chr","chr\/rhythmic","classic hits","classic rock","classic rock that really rocks","comedy","contests","country","entertainment","events","financial talk","food","football","foreign language","games & hobbies","hockey","hot adult contemporary","human","human interest","inspirational hits","inspirational talk radio","kids & family","music","music news","new generation classic rock","news","news talk","old school r&b","old school r&b urban adult hits","old school r&burban adult hits","oldies","on air","photos","politics","pop culture","religious","rhythmic ac","rock","society & culture","soft adult contemporary","something for everyone","spanish chr","sports","sports & recreation","sports news","sports\/talk","talk","technology","throwback hip hop and r&b","top 40","tropical latin","urban","urban adult hits","variety music","variety talk radio","viral"],"dfp":{"global":[["cdomain","v1019.com"],["cpage","\/2020\/10\/09\/carolina-gamer-spotlight-meet-eric-flowe"],["ctest",""],["genre","urban adult hits"],["market","charlotte, nc"],["cpostid","171430"],["shows","checkpoint-xp"],["categories","carolina-gamer-spotlight,carolina-streamer-spotlight,checkpoint-xp,checkpointxp,local,local-news,v-101-9"]],"sizes":{"top-leaderboard":["fluid",[970,250],[970,90],[728,90],[300,250],[320,100],[320,50]],"bottom-leaderboard":[[970,250],[970,90],[728,90],[300,250],[320,100],[320,50]],"in-list":["fluid",[970,250],[970,90],[728,90],[300,250],[320,100],[320,50]],"in-list-gallery":[[1,1],[300,250]],"player-sponsorship":["fluid"],"right-rail":[[300,600],[300,250]],"in-content":[[1,1],[300,250]],"countdown":[[320,50]]},"player":{"unitId":"\/26918149\/WBAV_FM_PlayerSponsorship","unitName":"player-sponsorship"},"countdown":{"unitId":"\/26918149\/WBAV_FM_CountdownClock_320x50","unitName":"countdown"}}}</script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-595BD7V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=785721555125374&ev=PageView&noscript=1"></noscript>
+<div id="splash-screen">
+	<style>
+		html, body {
+			overflow: hidden;
+		}
+
+		#splash-screen {
+			background-color: #fff;
+			bottom: 0;
+			left: 0;
+			position: fixed;
+			right: 0;
+			top: 0;
+			z-index: 999999;
+		}
+
+		.splash-screen-logo {
+							background-image: url(https://v1019.com/wp-content/uploads/sites/51/2020/10/Breast-Cancer-Awareness-Month_WBAV.png?maxwidth=250&#038;maxheight=250&#038;anchor=middlecenter&#038;mode=crop);
+						background-position: center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			height: 250px;
+			left: 50%;
+			position: absolute;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			width: 250px;
+		}	
+
+		.splash-screen-progress {
+			bottom: 0;
+			border-radius: 2px;
+			height: 5px;
+			left: 0;
+			overflow-x: hidden;
+			position: absolute;
+			width: 100%;
+		}
+
+		.splash-screen-line {
+			background: #b92a94;
+			height: 5px;
+			opacity: .4;
+			position: absolute;
+			width: 150%;
+		}
+
+		.splash-screen-subline {
+			background: #b92a94;
+			height: 5px;
+			position: absolute;
+		}
+
+		.splash-screen-subline.-inc {
+			animation: increase 2s infinite;
+		}
+
+		.splash-screen-subline.-dec {
+			animation: decrease 2s 0.5s infinite;
+		}
+
+		@keyframes increase {
+			from { left: -5%; width: 5%; }
+			to { left: 130%; width: 100%;}
+		}
+
+		@keyframes decrease {
+			from { left: -80%; width: 80%; }
+			to { left: 110%; width: 10%;}
+		}
+	</style>
+	
+	<div class="splash-screen-logo">
+		<div class="splash-screen-progress">
+			<div class="splash-screen-line"></div>
+			<div class="splash-screen-subline -inc"></div>
+			<div class="splash-screen-subline -dec"></div>
+		</div>
+	</div>
+</div>
+<div class="primary-sidebar">
+	<a href="#primary-menu" id="js-menu-toggle" class="site-menu-toggle">
+		<span class="screen-reader-text">
+			Primary Menu
+		</span>
+		<svg viewBox="0 0 100 100" width="50" xmlns="http://www.w3.org/2000/svg">
+			<path class="line top" d="M30 33h40s9.044-.655 9.044-8.509-8.024-11.958-14.9-10.859C57.27 14.731 50.509 17.804 50.509 30v40"/>
+			<path class="line middle" d="M30 50h40"/>
+			<path class="line bottom" d="M30 67h40c12.796 0 15.358-11.718 15.358-26.852 0-15.133-4.787-27.274-16.668-27.274-11.88 0-18.499 6.995-18.435 17.126l.253 40"/>
+		</svg>
+	</a>
+
+	<div class="primary-sidebar-navigation">
+		<div class="logo" itemscope itemtype="http://schema.org/Organization">
+			<a href="https://v1019.com" class="custom-logo-link" rel="home" itemprop="url"><img src="https://v1019.com/wp-content/uploads/sites/51/2020/10/Breast-Cancer-Awareness-Month_WBAV.png?width=154&#038;height=88&#038;anchor=middlecenter" srcset="https://v1019.com/wp-content/uploads/sites/51/2020/10/Breast-Cancer-Awareness-Month_WBAV.png?width=308&#038;height=176&#038;anchor=middlecenter 2x" alt="V 101.9 WBAV | Your Favorite Throwbacks And Today’s R&amp;B, V101.9" class="custom-logo" itemprop="logo"></a>			<span class="screen-reader-text">Carolina Gamer Spotlight: Meet Eric Flowe</span>
+		</div>
+
+		<div class="nav-wrap" aria-hidden="true">
+			<nav id="js-primary-nav" class="primary-nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+				<form role="search" method="get" class="search-form" action="https://v1019.com/">
+	<label for="search-q" id="q" class="screen-reader-text">Search for:</label>
+	<input id="search-q" type="search" class="search-field" name="s" value="" placeholder="Search">
+	<button type="submit" class="search-submit" aria-label="Submit search">
+		<svg xmlns="http://www.w3.org/2000/svg" width="14" height="15">
+			<path d="M10.266 9.034h-.65l-.23-.222a5.338 5.338 0 0 0 1.216-4.385C10.216 2.144 8.312.32 6.012.042a5.342 5.342 0 0 0-5.97 5.97c.279 2.3 2.102 4.204 4.385 4.59a5.338 5.338 0 0 0 4.385-1.215l.222.23v.649l3.49 3.49c.337.336.887.336 1.224 0s.336-.887 0-1.224l-3.482-3.498zm-4.928 0c-2.044 0-3.695-1.65-3.695-3.696s1.65-3.695 3.695-3.695 3.696 1.65 3.696 3.695-1.65 3.696-3.696 3.696z" fill="currentcolor"/>
+		</svg>
+	</button>
+</form>
+				<div class="menu-ee-primary-container"><ul id="menu-ee-primary" class="menu"><li id="menu-item-home" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-home"><a href="https://v1019.com/">Home</a></li><li id="menu-item-discovery" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-discovery menu-item-toggle menu-item-discovery"><button aria-haspopup="true">Discovery</button></li><li id="menu-item-110840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110840"><a href="https://v1019.com/stream/WBAVFM/">Recently Played</a></li><li id="menu-item-108576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108576"><button aria-haspopup="true">On Air</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-108577" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108577"><a href="https://v1019.com/shows/steve-harvey-morning-show/about">Steve Harvey Morning Show</a></li><li id="menu-item-108578" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108578"><a href="https://v1019.com/shows/fly-ty/">Fly Ty</a></li><li id="menu-item-108582" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108582"><a href="https://v1019.com/shows/janine-davis/">Janine Davis</a></li><li id="menu-item-108579" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108579"><a href="https://v1019.com/shows/tone-x/">Tone X</a></li><li id="menu-item-108585" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108585"><a href="https://v1019.com/shows/fly-ty-jacinda/">Fly Ty &#038; Jacinda</a></li><li id="menu-item-108581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108581"><a href="https://v1019.com/cafe-mocha-radio/">Café Mocha Radio</a></li><li id="menu-item-108583" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108583"><a href="https://v1019.com/shows/jacinda-jacobs/about">Jacinda Jacobs</a></li><li id="menu-item-108584" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108584"><a href="https://v1019.com/shows/francene-marie/">The Francene Marie Show</a></li></ul></li><li id="menu-item-108592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108592"><button aria-haspopup="true">Media</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-108593" class="menu-item menu-item-type-post_type_archive menu-item-object-gmr_gallery menu-item-108593"><a href="https://v1019.com/galleries/">Photos</a></li><li id="menu-item-108594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108594"><a href="https://v1019.com/category/video/">Video</a></li></ul></li><li id="menu-item-108595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108595"><button aria-haspopup="true">Podcast</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-108596" class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-108596"><a href="https://v1019.com/podcasts/the-francene-marie-show/">The Francene Marie Show</a></li><li id="menu-item-108597" class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-108597"><a href="https://v1019.com/podcasts/taking-dead-aim-charlie-nance/">Taking Dead Aim With Charlie Nance</a></li><li id="menu-item-108598" class="menu-item menu-item-type-post_type menu-item-object-podcast menu-item-108598"><a href="https://v1019.com/podcasts/choppin-it-up-with-qcb/">Choppin It Up with QCB</a></li></ul></li><li id="menu-item-108600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108600"><button aria-haspopup="true">Events</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-108604" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-108604"><a href="https://v1019.com/events/category/all-events/">All Events</a></li><li id="menu-item-108603" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-108603"><a href="https://v1019.com/events/category/concerts/">Concerts</a></li></ul></li><li id="menu-item-108605" class="menu-item menu-item-type-post_type_archive menu-item-object-contest menu-item-108605"><a href="https://v1019.com/contests/">Contests</a></li><li id="menu-item-108606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108606"><button aria-haspopup="true">Features</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-109440" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-109440"><a href="https://v1019.com/shows/beasley-best-community-caring/">Beasley Best Community of Caring</a></li><li id="menu-item-108610" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108610"><a href="https://v1019.com/shows/music-news/">Music News</a></li><li id="menu-item-108609" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108609"><a href="https://v1019.com/shows/entertainment-news/">Entertainment News</a></li><li id="menu-item-108608" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-108608"><a href="https://v1019.com/shows/lifestyle/">Lifestyle News</a></li><li id="menu-item-110761" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-110761"><a href="https://v1019.com/category/dishin-with-debbie/">Mrs. T&#8217;s Pierogies &#038; Dishin&#8217; With Debbie</a></li><li id="menu-item-108611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108611"><a href="https://v1019.com/stand-up-speak-out/">Stand Up Speak Out</a></li></ul></li><li id="menu-item-169144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169144"><a href="https://v1019.com/v-101-9-traffic-map/">Traffic Map</a></li><li id="menu-item-108617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108617"><a href="https://advertiseincharlotte.com/advertise/">Advertise</a></li><li id="menu-item-156227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156227"><a target="_blank" href="https://residentlocal.com/collections/v-101-10">Store</a></li><li id="menu-item-108613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-toggle menu-item-108613"><button aria-haspopup="true">Connect</button><button class="sub-menu-activator" aria-haspopup="true" aria-label="Open Submenu"></button><ul aria-hidden="true" aria-label="Submenu" class="sub-menu"><li id="menu-item-108614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108614"><a href="https://v1019.com/become-v101-9-vip-club-member/">Sign Up for Our V101.9 Newsletter</a></li><li id="menu-item-154064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154064"><a href="https://v1019.com/download-the-v101-9-app/">Download the V101.9 App</a></li><li id="menu-item-148776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148776"><a href="https://v1019.com/get-v101-9-on-alexa/">Get V101.9 on Alexa!</a></li><li id="menu-item-140396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140396"><a href="https://v1019.com/contest-winner-faq/">Contest Winner FAQ</a></li><li id="menu-item-108616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108616"><a href="https://v1019.com/contact-us/">Contact Us</a></li><li id="menu-item-108618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108618"><a href="https://v1019.com/beasley-charlotte-internships/">Beasley Charlotte Internships</a></li><li id="menu-item-108619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108619"><a href="https://bbgi.com/job-board/?search_keywords=&#038;selected_category=-1&#038;selected_jobtype=-1&#038;selected_location=charlotte-nc">Jobs</a></li></ul></li></ul></div>			</nav>
+
+			<div id="user-nav" class="user-nav"></div>
+		</div>
+	</div>
+
+</div>
+<div class="container">
+			<main id="content" class="content">
+				<div class="ga-info"
+				  data-title="Carolina Gamer Spotlight: Meet Eric Flowe"
+				  data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/"
+				  data-contentgroup1="checkpoint-xp"
+				  data-contentgroup2="carolina-gamer-spotlight, carolina-streamer-spotlight, checkpoint-xp, checkpointxp, local, local-news, v-101-9"
+				  data-dimensionkey="dimension2"
+				  data-dimensionvalue="alexiszarycki"></div>								<div class="ad -leaderboard -centered">
+	<div class="wrapper">
+		<div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_Leaderboard_pos1" data-unit-name="top-leaderboard" data-targeting="[[&quot;pos&quot;,1],[&quot;remnant&quot;,&quot;yes&quot;]]" ></div>	</div>
+</div>
+				<div id="inner-content">
+
+<div id="post-171430" class="single post-171430 post type-post status-publish format-standard has-post-thumbnail hentry category-carolina-gamer-spotlight category-carolina-streamer-spotlight category-checkpoint-xp category-checkpointxp category-local category-local-news category-v-101-9 tag-carolina-gamer-spotlight tag-carolina-streamer-spotlight tag-checkpoint-xp tag-checkpointxp tag-local tag-local-news tag-video-games-and-esports collection-local _shows-checkpoint-xp">
+
+			
+		<div class="content-wrap">
+			<div class="show-header">
+	<div class="information content-wrap">
+			<div class="thumbnail">
+			<div class="lazy-image" data-src="https://v1019.com/wp-content/uploads/sites/51/2019/12/cpxp-showpage-logo.png" data-width="1476" data-height="1476" data-alt="" data-attribution=""></div>		</div>
+		<div class="meta">
+		<h2>Checkpoint XP</h2>
+		<div class="meta-fave-time">
+			<div class="add-to-favorites" data-keyword="checkpoint-xp"></div>					</div>
+	</div>
+	</div>
+
+	<div class="navigation content-wrap"><ul>
+			<li class=""><a href="https://v1019.com/shows/checkpoint-xp/">Home</a></li>			<li class=""><a href="https://v1019.com/shows/checkpoint-xp/about/">About</a></li>			<li class="current-menu-item">
+			<a href="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/">
+				Articles			</a>
+		</li>			<li class="">
+			<a href="https://v1019.com/shows/checkpoint-xp/podcasts/">
+				Podcasts			</a>
+		</li>								</ul></div>
+</div>
+		</div>
+	
+	<header class="post-info">
+		
+			
+		
+		<h1>
+			Carolina Gamer Spotlight: Meet Eric Flowe		</h1>
+
+					<div class="post-meta">
+				<div class="meta">
+	<div class="author-meta">
+							<span class="author-avatar">
+																				<img alt='' src='https://secure.gravatar.com/avatar/a9dbfbcb0d23be7af8dc3adb803d5f03?s=40&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a9dbfbcb0d23be7af8dc3adb803d5f03?s=80&#038;d=mm&#038;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />												</span>
+
+			<span class="author-meta-name">
+				Alexis Zarycki			</span>
+		
+		<span class="author-meta-date">
+			October 9th		</span>
+	</div>
+
+	<div class="share-wrap-icons">
+		<span class="label">Share</span>
+		<div class="share-buttons" data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" data-title="Carolina Gamer Spotlight: Meet Eric Flowe"></div>	</div>
+
+	</div>
+			</div>
+			</header>
+
+	<div class="entry-content content-wrap">
+		<div class="description">
+								<div class="post-thumbnail-wrapper">
+		<div class="post-thumbnail featured-media">
+			<div class="lazy-image" data-src="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg" data-width="1280" data-height="720" data-alt="" data-attribution=""></div>		</div>
+
+							<div class="post-thumbnail-caption">
+				 			</div>
+			</div>
+						<p>Video games are all the rage, so we decided to shed some light on local video game stars in the Carolinas. This week, we had the chance to sit down with local community gamer, Eric Flowe, and ask him about being part of the gaming community! Fun fact: Eric is also a student currently at Johnson C. Smith University here in Charlotte, North Carolina!</p>
+<p><strong>How did you get into gaming? What was the original goal?</strong></p><div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_InContent_pos1" data-unit-name="in-content" data-targeting="[[&quot;remnant&quot;,&quot;yes&quot;]]" ></div>
+<p>I became involved in gaming due to my prestigious Johnson C. Smith University&#8217;s Esports Club! The club was brilliant in marketing its efforts and recruiting potential gamers. Also, the club has seen success in games such as Call of Duty and Fortnite. However, my original goal was to minor in the Esports and Game Management program offered at JCSU and build a career in event planning and operations.</p>
+<p><strong>What&#8217;s been your best moment as a gamer?</strong></p>
+<p>My best moment as a gamer was being a part of history! My HBCU(Johnson C. Smith University Golden Bulls) is the first HBCU University to offer Esports and Gaming Management as a course. Additionally, bringing further attention to my community by promoting the HBCU Gaming initiative.</p>
+<p><strong>What games really speak to you?</strong></p><div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_InContent_pos1" data-unit-name="in-content" data-targeting="[[&quot;remnant&quot;,&quot;yes&quot;]]" ></div>
+<p>Call of Duty and Fortnite! These games provide the skills of hand-eye coordination, teamwork, and cooperation to compete professionally.</p>
+<p><strong>What advice would you give to aspiring gamers?</strong></p>
+<p>Practice! Practice makes perfect. Also, my advice would be to follow esports and stay up to date with any news.</p>
+<p><strong>What’s been one of the biggest surprises that you never thought of going into gaming?</strong></p><div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_InContent_pos1" data-unit-name="in-content" data-targeting="[[&quot;remnant&quot;,&quot;yes&quot;]]" ></div>
+<p>One of the biggest surprises of gaming is the market is produced. Viewership numbers and revenue have surpassed billions of dollars!</p>
+<ul class="gallery-listicle"><li class="gallery-listicle-item"><div data-autoheight="1" data-tracking="" class="lazy-image" data-src="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_1659.jpg" data-width="1932" data-height="2576" data-alt="" data-attribution=""></div><div class="gallery-meta"><div class="wrapper"><div class="caption"><h3>Carolina Gamer Spotlight: Meet Eric Flowe</h3><div class="share-wrap"><div class="share-wrap-icons"><span class="label">Share</span><div class="share-buttons" data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" data-title="Carolina Gamer Spotlight: Meet Eric Flowe"></div></div></div></div><p class="excerpt"> </p></div></div></li><li class="gallery-listicle-item"><div data-autoheight="1" data-tracking="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/view/carolina-gamer-spotlight-meet-eric-flowe-3/" class="lazy-image" data-src="https://v1019.com/wp-content/uploads/sites/51/2020/10/picture2.jpg" data-width="400" data-height="400" data-alt="" data-attribution=""></div><div class="gallery-meta"><div class="wrapper"><div class="caption"><h3>Carolina Gamer Spotlight: Meet Eric Flowe</h3><div class="share-wrap"><div class="share-wrap-icons"><span class="label">Share</span><div class="share-buttons" data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" data-title="Carolina Gamer Spotlight: Meet Eric Flowe"></div></div></div></div><p class="excerpt"> </p></div></div></li><li class="gallery-listicle-item"><div data-autoheight="1" data-tracking="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/view/img_20201007_121616/" class="lazy-image" data-src="https://v1019.com/wp-content/uploads/sites/51/2020/10/IMG_20201007_121616.jpg" data-width="1280" data-height="720" data-alt="" data-attribution=""></div><div class="gallery-meta"><div class="wrapper"><div class="caption"><h3>Carolina Gamer Spotlight: Meet Eric Flowe</h3><div class="share-wrap"><div class="share-wrap-icons"><span class="label">Share</span><div class="share-buttons" data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/" data-title="Carolina Gamer Spotlight: Meet Eric Flowe"></div></div></div></div><p class="excerpt"> </p></div></div><div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_ingallery" data-unit-name="in-list-gallery" data-targeting="[[&quot;remnant&quot;,&quot;yes&quot;]]" ></div></li></ul>
+</p>
+							<div class="profile">
+					Alexis Zarycki is your average girl with the hopes of leaving an everlasting impact on the world. Follow her on Instagram @official_lexpaige				</div>
+			
+				<div>
+		<ul class="post-categories">
+	<li><a href="https://v1019.com/category/carolina-gamer-spotlight/" rel="category tag">Carolina Gamer Spotlight</a></li>
+	<li><a href="https://v1019.com/category/carolina-streamer-spotlight/" rel="category tag">Carolina Streamer Spotlight</a></li>
+	<li><a href="https://v1019.com/category/checkpoint-xp/" rel="category tag">Checkpoint XP</a></li>
+	<li><a href="https://v1019.com/category/checkpointxp/" rel="category tag">CheckPointXP</a></li>
+	<li><a href="https://v1019.com/category/local/" rel="category tag">Local</a></li>
+	<li><a href="https://v1019.com/category/local-news/" rel="category tag">Local News</a></li>
+	<li><a href="https://v1019.com/category/v-101-9/" rel="category tag">V 101.9</a></li></ul>	</div>
+				<div class="post-tags">
+		<div class="post-tag-label">Tags</div><div class="post-tag-items"><a href="https://v1019.com/tag/carolina-gamer-spotlight/" rel="tag">Carolina Gamer Spotlight</a>,<a href="https://v1019.com/tag/carolina-streamer-spotlight/" rel="tag">Carolina Streamer Spotlight</a>,<a href="https://v1019.com/tag/checkpoint-xp/" rel="tag">Checkpoint XP</a>,<a href="https://v1019.com/tag/checkpointxp/" rel="tag">CheckPointXP</a>,<a href="https://v1019.com/tag/local/" rel="tag">Local</a>,<a href="https://v1019.com/tag/local-news/" rel="tag">Local News</a>,<a href="https://v1019.com/tag/video-games-and-esports/" rel="tag">Video Games and Esports</a></div>	</div>
+		</div>
+
+		<aside class="ad -sticky">
+	<div class="wrapper">
+		<div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_InContent_pos2" data-unit-name="right-rail" data-targeting="[[&quot;remnant&quot;,&quot;yes&quot;]]" ></div>	</div>
+</aside>
+	</div>
+
+	<div class="related-articles content-wrap"
+		  data-postid="171430"
+		  data-posttitle="Carolina Gamer Spotlight: Meet Eric Flowe"
+		  data-posttype="post"
+		  data-categories="carolina-gamer-spotlight,carolina-streamer-spotlight,checkpoint-xp,checkpointxp,local,local-news,v-101-9"
+		  data-url="https://v1019.com/2020/10/09/carolina-gamer-spotlight-meet-eric-flowe/"></div></div>					</div>
+				<div class="ad -footer -centered">
+	<div class="dfp-slot" data-unit-id="/26918149/WBAV_FM_Leaderboard_pos2" data-unit-name="bottom-leaderboard" data-targeting="[[&quot;pos&quot;,2],[&quot;remnant&quot;,&quot;yes&quot;]]" ></div></div>
+			</main><footer id="footer" class="footer">
+	<div itemscope itemtype="http://schema.org/Organization">
+		<a href="https://v1019.com" class="custom-logo-link" rel="home" itemprop="url"><img src="https://v1019.com/wp-content/uploads/sites/51/2020/10/Breast-Cancer-Awareness-Month_WBAV.png?width=150&#038;height=150&#038;anchor=middlecenter" srcset="https://v1019.com/wp-content/uploads/sites/51/2020/10/Breast-Cancer-Awareness-Month_WBAV.png?width=300&#038;height=300&#038;anchor=middlecenter 2x" alt="V 101.9 WBAV | Your Favorite Throwbacks And Today’s R&amp;B, V101.9" class="custom-logo" itemprop="logo"></a>	</div>
+	<div class="footer-meta">
+		<div class="download">
+	<h6>Download our app</h6>
+	<p>Download the app to LISTEN LIVE wherever you are and connect with us like never before!</p>
+
+			<a href="https://itunes.apple.com/us/app/v-101-9/id954587783?ls=1&#038;mt=8" aria-label="Download on the App Store" target="_blank" rel="noopener">
+			<img src="https://v1019.com/wp-content/themes/experience-engine/assets/images/itunes.svg" alt="Download on the App Store">
+		</a>
+	
+			<a href="https://play.google.com/store/apps/details?id=com.radio.station.WBAV.FM" aria-label="Download on the Google Play" target="_blank" rel="noopener">
+			<img src="https://v1019.com/wp-content/themes/experience-engine/assets/images/googleplay.svg" alt="Download on the Google Play">
+		</a>
+	</div>
+			<div class="newsletter">
+		<h6>Newsletter sign up</h6>
+		<p>Don't miss on pre-sales, member-only contests and member only events.</p>
+		<a class="btn -square -empty -secondary" href="https://v1019.com/become-v101-9-vip-club-member/">
+			V 101.9 WBAV Newsletter
+		</a>
+	</div>
+		<div class="about">
+	<h6>About</h6><div class="menu-ee-about-container"><ul id="menu-ee-about" class="menu"><li id="menu-item-108090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108090"><a href="http://bbgi.com/wp-content/uploads/2017/04/Beasley-Privacy-Policy-As-Of-April-19-2017.pdf">Privacy Policy</a></li>
+<li id="menu-item-108091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108091"><a href="http://bbgi.com/wp-content/uploads/2017/05/Beasley-TOS-May-23-2017.pdf">Terms of Service</a></li>
+<li id="menu-item-108092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108092"><a href="http://bbgi.com/dmca.pdf">DMCA</a></li>
+<li id="menu-item-108093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108093"><a target="_blank" href="https://kiss951.com/wp-content/uploads/sites/48/2019/07/Beasley-Charlotte-EEO-PFR-2018-19.pdf">EEO</a></li>
+<li id="menu-item-108094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108094"><a href="https://publicfiles.fcc.gov/fm-profile/wbav-fm/">FCC Public File</a></li>
+<li id="menu-item-108095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108095"><a href="https://v1019.com/wp-content/uploads/sites/51/2019/12/WBAV-General-Contest-Rules.pdf">General Contest Rules</a></li>
+<li id="menu-item-108096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108096"><a href="https://v1019.bbgistage.com/wp-content/uploads/sites/51/2018/11/AdvertisingStandardTerms-CLEANnocomments.pdf">Advertiser&#8217;s Terms and Conditions</a></li>
+</ul></div></div>
+		<div class="connect">
+	<h6>Connect</h6><div class="menu-ee-connect-container"><ul id="menu-ee-connect" class="menu"><li id="menu-item-108097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108097"><a href="https://v1019.com/become-v101-9-vip-club-member/">Sign Up for Our V101.9 Newsletter</a></li>
+<li id="menu-item-108099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108099"><a href="https://v1019.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-108100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108100"><a href="https://advertiseincharlotte.com/advertise/">Learn How To Advertise In Charlotte</a></li>
+<li id="menu-item-108101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108101"><a href="https://v1019.com/beasley-charlotte-internships/">Beasley Charlotte Internships</a></li>
+<li id="menu-item-108102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108102"><a href="http://bbgi.com/category/job-openings/">Jobs</a></li>
+</ul></div>	<ul class="social">
+					<li>
+				<a href="https://www.facebook.com/V1019/" aria-label="Go to station's Facebook page" target="_blank" rel="noopener">
+					<svg width="10" height="20" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M6.12 19.428H2.448V9.714H0V6.366h2.449l-.004-1.973C2.445 1.662 3.19 0 6.435 0h2.7v3.348H7.449c-1.263 0-1.324.468-1.324 1.342l-.005 1.675h3.036l-.358 3.348-2.675.001-.003 9.714z"/></svg>
+				</a>
+			</li>
+		
+					<li>
+				<a href="https://twitter.com/V1019fm" aria-label="Go to station's Twitter page" target="_blank" rel="noopener">
+					<svg width="21" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title><path d="M20.13 2.896a8.31 8.31 0 0 1-2.372.645 4.115 4.115 0 0 0 1.816-2.266c-.798.47-1.682.81-2.623.994A4.14 4.14 0 0 0 13.937.976c-2.281 0-4.13 1.833-4.13 4.095 0 .322.036.634.107.934A11.757 11.757 0 0 1 1.4 1.725a4.051 4.051 0 0 0-.559 2.06c0 1.42.73 2.674 1.838 3.409A4.139 4.139 0 0 1 .809 6.68v.052c0 1.985 1.423 3.64 3.312 4.016a4.172 4.172 0 0 1-1.865.07 4.13 4.13 0 0 0 3.858 2.845 8.33 8.33 0 0 1-5.129 1.754c-.333 0-.662-.02-.985-.058a11.758 11.758 0 0 0 6.33 1.84c7.597 0 11.75-6.24 11.75-11.654 0-.177-.003-.354-.011-.53a8.352 8.352 0 0 0 2.06-2.12z"/></svg>
+				</a>
+			</li>
+		
+					<li>
+				<a href="https://www.instagram.com/V1019fm" aria-label="Go to station's Instagram page" target="_blank" rel="noopener">
+					<svg width="17" height="18" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title><path d="M15.3.976H1.7c-.935 0-1.7.765-1.7 1.7v13.6c0 .935.765 1.7 1.7 1.7h13.6c.935 0 1.7-.765 1.7-1.7v-13.6c0-.935-.765-1.7-1.7-1.7zm-6.8 5.1c1.87 0 3.4 1.53 3.4 3.4 0 1.87-1.53 3.4-3.4 3.4a3.41 3.41 0 0 1-3.4-3.4c0-1.87 1.53-3.4 3.4-3.4zm-6.375 10.2c-.255 0-.425-.17-.425-.425V8.626h1.785c-.085.255-.085.595-.085.85 0 2.805 2.295 5.1 5.1 5.1 2.805 0 5.1-2.295 5.1-5.1 0-.255 0-.595-.085-.85H15.3v7.225c0 .255-.17.425-.425.425H2.125zM15.3 4.8c0 .255-.17.425-.425.425h-1.7c-.255 0-.425-.17-.425-.425V3.1c0-.255.17-.425.425-.425h1.7c.255 0 .425.17.425.425v1.7z"/></svg>
+				</a>
+			</li>
+		
+			</ul>
+</div>
+	</div>
+</footer><div id="modal"></div>
+<div id="live-player" class="live-player" data-custom-colors="{&quot;--brand-primary&quot;:&quot;#b92a94&quot;,&quot;--brand-secondary&quot;:&quot;#666666&quot;,&quot;--brand-tertiary&quot;:&quot;#ffffff&quot;,&quot;--brand-background-color&quot;:&quot;#b92a94&quot;,&quot;--brand-button-color&quot;:&quot;#000000&quot;,&quot;--brand-text-color&quot;:&quot;#ffffff&quot;,&quot;--brand-sponsorship-text-color&quot;:&quot;#000000&quot;}"></div>
+</div>
+
+		<script type="text/html" id="tmpl-video-embed-import">
+		<div class="video__embed embed-url">
+			<input type="url" class="video__url" placeholder="https://...">
+			<button type="button" class="video__submit button button-primary button-hero" disabled>&rarr;</button>
+			<div class="video__preview"></div>
+		</div>
+	</script>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script src='https://v1019.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js'></script>
+<script type='text/javascript' src='https://v1019.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script src='https://v1019.com/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js'></script>
+<script type='text/javascript' src='https://v1019.com/wp-content/plugins/greatermedia-timed-content/js/greatermedia-timed-content.js?ver=4.9.15'></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+dfp_needs_refresh = true; // MFP 10/02/2020 - Set explicit flag for controlling initial dfp refresh.
+
+googletag.cmd.push(function() {
+	googletag.pubads().collapseEmptyDivs(true);
+
+	if (window.bbgiconfig && window.bbgiconfig.dfp) {
+		for (var i = 0, pairs = window.bbgiconfig.dfp.global || []; i < pairs.length; i++) {
+			googletag.pubads().setTargeting(pairs[i][0], pairs[i][1]);
+		}
+	}
+
+	console.log('Ad Lazy Loading DISABLED');
+
+	googletag.pubads().disableInitialLoad(); // MFP 09/17/2020 - display() will only register the ad slot. No ad content will be loaded until a second action is taken. We will send a refresh() after all slots are defined.
+	googletag.pubads().enableSingleRequest();  // MFP 09/16/2020 - Brad is having mixed results without this flag.
+	googletag.enableServices();
+
+	// MFP 09/17/2020 - Slot Configuration Should Be Done After enableServices()
+	googletag.defineOutOfPageSlot('/26918149/WBAV_FM_Interstitial', 'div-gpt-ad-1484200509775-3').defineSizeMapping(googletag.sizeMapping().addSize([970, 200], [[1, 1]]).addSize([0, 0], []).build()).addService(googletag.pubads());
+});
+</script>
+<script type='text/javascript' async src='//www.googletagservices.com/tag/js/gpt.js'></script>
+<script type='text/javascript' async src='//sdk.listenlive.co/web/2.9/td-sdk.min.js'></script>
+<script type='text/javascript'>
+window.bbgiconfig = {};
+try {
+	window.bbgiconfig = JSON.parse( document.getElementById( 'bbgiconfig' ).innerHTML );
+} catch( err ) {
+	// do nothing
+}
+</script>
+<script type='text/javascript' src='https://v1019.com/wp-content/themes/experience-engine/bundle/app.js?ver=1602617984'></script>
+<script type='text/javascript' src='https://v1019.com/wp-includes/js/wp-embed.min.js?ver=4.9.15'></script>
+<div id="div-gpt-ad-1484200509775-3" style="height:0;overflow:hidden;width:0;">
+				<script type="text/javascript">
+					var googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484200509775-3'); });
+				</script>
+			</div>	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e992b339c5","applicationID":"167181872","transactionName":"ZVJTbBZUDBFXBRVfVlwYck0XQQ0PGTUIWF5eUhEVRGUNEUI=","queueTime":0,"applicationTime":363,"atts":"SRVEGl5OH04UB0MMQk9K","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

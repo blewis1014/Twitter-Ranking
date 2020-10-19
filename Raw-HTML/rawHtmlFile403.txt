@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<meta name="theme-color" content="#333333">
+	<link rel="manifest" href="https://www.foreground.com.au/app/themes/foreground/manifest.json">
+	<link rel="apple-touch-icon" href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/apple-touch-icon-fe525a246c.png">
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Foreground</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Foreground" />
+	<meta property="og:site_name" content="Foreground" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.foreground.com.au/#website","url":"https://www.foreground.com.au/","name":"Foreground","description":"Cities, places and the people who make them","potentialAction":[{"@type":"SearchAction","target":"https://www.foreground.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='//www.gstatic.com' />
+<link rel='stylesheet' id='foreground-fonts-css'  href='//fonts.googleapis.com/css?family=Literata:400,400i,700|Space+Mono:400,400i,700,700i|Work+Sans:300,400,500,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='foreground-styles-css'  href='https://www.foreground.com.au/app/themes/foreground/assets/dist/styles/theme-7b7569b109.css' type='text/css' media='all' />
+<style type="text/css">0</style>	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5RXX4PS');</script>
+	<!-- End Google Tag Manager -->
+		<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+	</script>
+		<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1045867915549731');
+	fbq('track', 'PageView');
+	</script>
+	</head>
+<body class="">
+		<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RXX4PS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1045867915549731&ev=PageView&noscript=1"/>
+	</noscript>
+		<header class="header" id="header" role="banner">
+		<div class="section">
+			<nav class="navbar" id="navbar">
+				<div class="navbar-logos">
+					<div class="navbar-masthead" id="navbar-masthead"><a href="https://www.foreground.com.au/"><img src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-f00ff5a135.svg" alt="Foreground" /></a></div>					<button id="navbar-burger" class="navbar-burger" aria-controls="navbar-wrapper" aria-expanded="false">
+						<span class="screenReaderText">Open Menu</span>
+						<span class="navbar-burger-patty"></span>
+					</button>
+					<a class="navbar-ailaLogo-wrapper" href="https://www.aila.org.au" target="_blank">
+						<img class="navbar-ailaLogo" src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/aila-107a3b638d.svg" alt="">
+					</a>
+				</div>
+				<div class="navbar-wrapper" id="navbar-wrapper" aria-hidden="true">
+					<ul id="navMain" class="navMain"><li><a href="https://www.foreground.com.au/parks-places/">parks &#038; places</a></li>
+<li><a href="https://www.foreground.com.au/agriculture-environment/">agriculture &#038; environment</a></li>
+<li><a href="https://www.foreground.com.au/planning-policy/">planning &#038; policy</a></li>
+<li><a href="https://www.foreground.com.au/transport/">transport</a></li>
+<li><a href="https://www.foreground.com.au/culture/">culture</a></li>
+<li><a href="https://www.foreground.com.au/technology/">technology</a></li>
+</ul>					<div class="navbar-search" id="navbar-search">
+						<form role="search" method="get" action="/">
+							<label for="searchBar-input" class="navbar-search-toggle" id="navbar-search-toggle" aria-controls="searchBar" aria-expanded="false" role="button">
+								<svg class="svgIcon svgIcon--search" aria-labelledby="title-4c9400d4-bf43-403c-994e-63ef789081e7"><title id="title-4c9400d4-bf43-403c-994e-63ef789081e7">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>							</label>
+							<div class="searchBar section" id="searchBar" aria-hidden="true">
+								<div class="searchBar-wrapper container container--norule">
+									<div class="searchBar-formGroup">
+										<input type="text" name="s" class="searchBar-input" id="searchBar-input" placeholder="What are you looking for?">
+									</div>
+									<button class="btnNaked searchBar-submit">Search</button>
+									<button type="button" class="btnNaked searchBar-close" aria-controls="searchBar" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-8b1656a4-539b-48d0-a13a-504a8f24f591"><title id="title-8b1656a4-539b-48d0-a13a-504a8f24f591">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+								</div>
+							</div>
+						</form>
+						<div class="navbar-search-overlay"></div>
+					</div>
+					<div class="navbar-wrapper-footer">
+						<div class="subscribeMobile">
+							<button id="signupNudgeButton">Subscribe to Enews</button>
+						</div>
+						<div class="socialLinks">
+							<a href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--twitter" aria-labelledby="title-1cd07b18-43ed-4a30-aedd-8d638dc93b28"><title id="title-1cd07b18-43ed-4a30-aedd-8d638dc93b28">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg></a>
+							<a href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--facebook" aria-labelledby="title-75283ddc-379b-49d8-8f9b-b761c6957b39"><title id="title-75283ddc-379b-49d8-8f9b-b761c6957b39">facebook</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#facebook" /></svg></a>
+							<a href="https://www.instagram.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--instagram" aria-labelledby="title-5fa23af3-b972-40cb-b13e-d607f2435ec7"><title id="title-5fa23af3-b972-40cb-b13e-d607f2435ec7">instagram</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#instagram" /></svg></a>
+						</div>
+						<button for="searchBar-input" class="navbar-mobileSearchToggle" aria-controls="searchBar" aria-expanded="false">
+							<svg class="svgIcon svgIcon--search" aria-labelledby="title-98b95dbd-884a-4ef2-b56a-b8a7a75f7b30"><title id="title-98b95dbd-884a-4ef2-b56a-b8a7a75f7b30">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>						</button>
+						<div class="siteLinks">
+							<a href="/events">Events</a>
+							<a href="/about">About</a>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<main class="main" id="main">
+
+<div class="section">
+	<div class="container">
+		<div class="row">
+			<div class="section-header section-header--info">
+				<h1 class="section-header-title display1">Sorry!</h1>
+				<p class="captionLarge">This page does not exist. Check out some of our most popular articles below or simply return to the homepage to continue your search</p>
+			</div>
+		</div>
+		<div class="row row--noGutters row--md-padBottom-20 u-borderLeftRightMiddleThird js-loadMore">
+								<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-390x220.jpg" class="lazyload wp-post-image" alt="Murama Healing Space &amp; Dance Ground Murama—Cultural Council in partnership with the Sydney Olympic Park Authority" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-780x438.jpg 780w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/parks-places/" style="background-color:#259d3c">Parks &amp; places</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/parks-places/2020-aila-national-awards/" class="blockLink-url">In pictures: 2020 AILA National Awards</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/foreground-editors/" rel="tag">Foreground Editors</a></span>—October 13, 2020	</p>
+</div>
+					</div>
+										<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/09/FL15920637-390x220.jpg" class="lazyload wp-post-image" alt="In Australia, the single largest danger to children is a world made for and of cars. Image: SLV Collection" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/09/FL15920637-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/09/FL15920637-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2020/09/FL15920637-1024x576.jpg 1024w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/planning-policy/" style="background-color:#00728a">Planning &amp; policy</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/planning-policy/petrol-powered-planning/" class="blockLink-url">Petrol-powered planning: Car parks, COVID-19 and the future of urban retail (part 2)</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/elizabeth-taylor/" rel="tag">Elizabeth Taylor</a></span>—October 13, 2020	</p>
+</div>
+					</div>
+										<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-390x220.jpg" class="lazyload wp-post-image" alt="Berlin is a city of nooks and cannies, in which people have made small reclamations of public space. Image: Jon Mountjoy" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-300x169.jpg 300w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-1024x576.jpg 1024w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-768x432.jpg 768w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-1536x864.jpg 1536w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-2048x1152.jpg 2048w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-780x438.jpg 780w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/parks-places/" style="background-color:#259d3c">Parks &amp; places</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/parks-places/squats-squares-city-berlin/" class="blockLink-url">Squats, squares and city plans: Berlin by accident and design</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/mitra-anderson-oliver/" rel="tag">Mitra Anderson-Oliver</a></span>—October 6, 2020	</p>
+</div>
+					</div>
+							</div>
+		<div class="row u-borderLeftRightMiddleThird">
+					</div>
+	</div>
+</div>
+	</main>
+	<footer class="footer">
+		<div class="section footer-links">
+			<div class="container">
+				<div class="navFooter">
+					<div class="navFooter-item">
+						<h4 class="navFooter-item-title">Stay up to date</h4>
+					</div>
+					<div class="navFooter-item">
+						<button class="signupFooter-toggle btnNaked navFooter-item-title" id="signupFooter-toggle" aria-controls="signupFooter" aria-expanded="false"><span>Newsletter</span></button>
+						<div class="signupFooter" id="signupFooter" aria-hidden="true" aria-labelledby="signupFooter-toggle">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupFooter-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupFooter-input inputRuled" id="signupFooter-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupFooter-consent" required />
+									<label for="signupFooter-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupFooter-submit" id="signupFooter-submit">Subscribe</button>
+							</form>
+							<button class="btnNaked signupFooter-close" aria-controls="signupFooter" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-5d4c9328-d517-4bda-b105-af4f5e1366de"><title id="title-5d4c9328-d517-4bda-b105-af4f5e1366de">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+						</div>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><span>Twitter</span></a>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><span>Facebook</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section footer-branding">
+			<div class="container container--norule">
+				<div class="row row--alignMiddle">
+					<div class="col-sm-4">
+						<a href="https://www.foreground.com.au/">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-white-cdd3c14ea6.svg" class="footer-logo lazyload" alt="Foreground" />
+						</a>
+					</div>
+					<div class="col-sm-8">
+						<p class="footer-policyLinks">
+							<a href="https://www.foreground.com.au/privacy-policy/">Privacy policy</a>
+							<a href="https://www.foreground.com.au/cookie-policy/">Cookie policy</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="signupNudge" id="signupNudge" aria-hidden="true">
+		<div class="container">
+			<div class="row">
+				<div class="signupNudge-content">
+					<div class="row signupNudge-header">
+						<div class="col-sm-3">
+							<h2 class="signupNudge-title">Stay up to date</h2>
+						</div>
+						<div class="col-sm-7 signupNudge-intro">
+							<p>News and analysis on cities, places and the people who make them delivered direct to your inbox</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-7 col-sm-offset-3">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupNudge-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupNudge-email signup-input inputRuled" id="signupNudge-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupNudge-consent" required />
+									<label for="signupNudge-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupNudge-submit">Subscribe</button>
+							</form>
+						</div>
+					</div>
+					<button class="btnNaked signupNudge-close" aria-controls="signupNudge" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-99717b6f-ecaa-42c3-b324-f4973674f310"><title id="title-99717b6f-ecaa-42c3-b324-f4973674f310">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type='text/javascript' src='https://www.foreground.com.au/app/plugins/speedrunner/assets/dist/scripts/lazysizes.min.js?ver=0.7.1'></script>
+<script type='text/javascript' src='https://www.foreground.com.au/app/themes/foreground/assets/dist/scripts/theme.bundle-7fd6cfee3d.js'></script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js'></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<meta name="theme-color" content="#333333">
+	<link rel="manifest" href="https://www.foreground.com.au/app/themes/foreground/manifest.json">
+	<link rel="apple-touch-icon" href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/apple-touch-icon-fe525a246c.png">
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Foreground</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Foreground" />
+	<meta property="og:site_name" content="Foreground" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.foreground.com.au/#website","url":"https://www.foreground.com.au/","name":"Foreground","description":"Cities, places and the people who make them","potentialAction":[{"@type":"SearchAction","target":"https://www.foreground.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='//www.gstatic.com' />
+<link rel='stylesheet' id='foreground-fonts-css'  href='//fonts.googleapis.com/css?family=Literata:400,400i,700|Space+Mono:400,400i,700,700i|Work+Sans:300,400,500,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='foreground-styles-css'  href='https://www.foreground.com.au/app/themes/foreground/assets/dist/styles/theme-7b7569b109.css' type='text/css' media='all' />
+<style type="text/css">0</style>	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5RXX4PS');</script>
+	<!-- End Google Tag Manager -->
+		<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+	</script>
+		<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1045867915549731');
+	fbq('track', 'PageView');
+	</script>
+	</head>
+<body class="">
+		<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RXX4PS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1045867915549731&ev=PageView&noscript=1"/>
+	</noscript>
+		<header class="header" id="header" role="banner">
+		<div class="section">
+			<nav class="navbar" id="navbar">
+				<div class="navbar-logos">
+					<div class="navbar-masthead" id="navbar-masthead"><a href="https://www.foreground.com.au/"><img src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-f00ff5a135.svg" alt="Foreground" /></a></div>					<button id="navbar-burger" class="navbar-burger" aria-controls="navbar-wrapper" aria-expanded="false">
+						<span class="screenReaderText">Open Menu</span>
+						<span class="navbar-burger-patty"></span>
+					</button>
+					<a class="navbar-ailaLogo-wrapper" href="https://www.aila.org.au" target="_blank">
+						<img class="navbar-ailaLogo" src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/aila-107a3b638d.svg" alt="">
+					</a>
+				</div>
+				<div class="navbar-wrapper" id="navbar-wrapper" aria-hidden="true">
+					<ul id="navMain" class="navMain"><li><a href="https://www.foreground.com.au/parks-places/">parks &#038; places</a></li>
+<li><a href="https://www.foreground.com.au/agriculture-environment/">agriculture &#038; environment</a></li>
+<li><a href="https://www.foreground.com.au/planning-policy/">planning &#038; policy</a></li>
+<li><a href="https://www.foreground.com.au/transport/">transport</a></li>
+<li><a href="https://www.foreground.com.au/culture/">culture</a></li>
+<li><a href="https://www.foreground.com.au/technology/">technology</a></li>
+</ul>					<div class="navbar-search" id="navbar-search">
+						<form role="search" method="get" action="/">
+							<label for="searchBar-input" class="navbar-search-toggle" id="navbar-search-toggle" aria-controls="searchBar" aria-expanded="false" role="button">
+								<svg class="svgIcon svgIcon--search" aria-labelledby="title-9c759bab-9ab3-4fe0-a136-afc6fb211d59"><title id="title-9c759bab-9ab3-4fe0-a136-afc6fb211d59">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>							</label>
+							<div class="searchBar section" id="searchBar" aria-hidden="true">
+								<div class="searchBar-wrapper container container--norule">
+									<div class="searchBar-formGroup">
+										<input type="text" name="s" class="searchBar-input" id="searchBar-input" placeholder="What are you looking for?">
+									</div>
+									<button class="btnNaked searchBar-submit">Search</button>
+									<button type="button" class="btnNaked searchBar-close" aria-controls="searchBar" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-a3ec72ee-5f9e-46dd-843e-252854b7991c"><title id="title-a3ec72ee-5f9e-46dd-843e-252854b7991c">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+								</div>
+							</div>
+						</form>
+						<div class="navbar-search-overlay"></div>
+					</div>
+					<div class="navbar-wrapper-footer">
+						<div class="subscribeMobile">
+							<button id="signupNudgeButton">Subscribe to Enews</button>
+						</div>
+						<div class="socialLinks">
+							<a href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--twitter" aria-labelledby="title-5e8b2484-0660-4386-9e2e-9f4792940e85"><title id="title-5e8b2484-0660-4386-9e2e-9f4792940e85">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg></a>
+							<a href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--facebook" aria-labelledby="title-95fef4a3-b1ec-4c0e-8aae-e5670f21c4e4"><title id="title-95fef4a3-b1ec-4c0e-8aae-e5670f21c4e4">facebook</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#facebook" /></svg></a>
+							<a href="https://www.instagram.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--instagram" aria-labelledby="title-ea5d97d6-f043-47e8-84fc-d0d1ebf13741"><title id="title-ea5d97d6-f043-47e8-84fc-d0d1ebf13741">instagram</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#instagram" /></svg></a>
+						</div>
+						<button for="searchBar-input" class="navbar-mobileSearchToggle" aria-controls="searchBar" aria-expanded="false">
+							<svg class="svgIcon svgIcon--search" aria-labelledby="title-c2c58a32-98b9-4128-aa6b-d9c17a178295"><title id="title-c2c58a32-98b9-4128-aa6b-d9c17a178295">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>						</button>
+						<div class="siteLinks">
+							<a href="/events">Events</a>
+							<a href="/about">About</a>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<main class="main" id="main">
+
+<div class="section">
+	<div class="container">
+		<div class="row">
+			<div class="section-header section-header--info">
+				<h1 class="section-header-title display1">Sorry!</h1>
+				<p class="captionLarge">This page does not exist. Check out some of our most popular articles below or simply return to the homepage to continue your search</p>
+			</div>
+		</div>
+		<div class="row row--noGutters row--md-padBottom-20 u-borderLeftRightMiddleThird js-loadMore">
+								<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-390x220.jpg" class="lazyload wp-post-image" alt="Murama Healing Space &amp; Dance Ground Murama—Cultural Council in partnership with the Sydney Olympic Park Authority" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/10/Murama-Healing-Space-Dance-Ground-780x438.jpg 780w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/parks-places/" style="background-color:#259d3c">Parks &amp; places</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/parks-places/2020-aila-national-awards/" class="blockLink-url">In pictures: 2020 AILA National Awards</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/foreground-editors/" rel="tag">Foreground Editors</a></span>—October 13, 2020	</p>
+</div>
+					</div>
+										<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/09/FL15920637-390x220.jpg" class="lazyload wp-post-image" alt="In Australia, the single largest danger to children is a world made for and of cars. Image: SLV Collection" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/09/FL15920637-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/09/FL15920637-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2020/09/FL15920637-1024x576.jpg 1024w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/planning-policy/" style="background-color:#00728a">Planning &amp; policy</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/planning-policy/petrol-powered-planning/" class="blockLink-url">Petrol-powered planning: Car parks, COVID-19 and the future of urban retail (part 2)</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/elizabeth-taylor/" rel="tag">Elizabeth Taylor</a></span>—October 13, 2020	</p>
+</div>
+					</div>
+										<div class="col-md-4">
+						<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-390x220.jpg" class="lazyload wp-post-image" alt="Berlin is a city of nooks and cannies, in which people have made small reclamations of public space. Image: Jon Mountjoy" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-300x169.jpg 300w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-1024x576.jpg 1024w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-768x432.jpg 768w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-1536x864.jpg 1536w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-2048x1152.jpg 2048w, https://www.foreground.com.au/app/uploads/2020/09/Berlin-Squat-2010-Jon-Mountjoy-780x438.jpg 780w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/parks-places/" style="background-color:#259d3c">Parks &amp; places</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/parks-places/squats-squares-city-berlin/" class="blockLink-url">Squats, squares and city plans: Berlin by accident and design</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/mitra-anderson-oliver/" rel="tag">Mitra Anderson-Oliver</a></span>—October 6, 2020	</p>
+</div>
+					</div>
+							</div>
+		<div class="row u-borderLeftRightMiddleThird">
+					</div>
+	</div>
+</div>
+	</main>
+	<footer class="footer">
+		<div class="section footer-links">
+			<div class="container">
+				<div class="navFooter">
+					<div class="navFooter-item">
+						<h4 class="navFooter-item-title">Stay up to date</h4>
+					</div>
+					<div class="navFooter-item">
+						<button class="signupFooter-toggle btnNaked navFooter-item-title" id="signupFooter-toggle" aria-controls="signupFooter" aria-expanded="false"><span>Newsletter</span></button>
+						<div class="signupFooter" id="signupFooter" aria-hidden="true" aria-labelledby="signupFooter-toggle">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupFooter-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupFooter-input inputRuled" id="signupFooter-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupFooter-consent" required />
+									<label for="signupFooter-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupFooter-submit" id="signupFooter-submit">Subscribe</button>
+							</form>
+							<button class="btnNaked signupFooter-close" aria-controls="signupFooter" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-9eb896e3-ebe6-4a5e-a17f-65036fb1d722"><title id="title-9eb896e3-ebe6-4a5e-a17f-65036fb1d722">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+						</div>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><span>Twitter</span></a>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><span>Facebook</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section footer-branding">
+			<div class="container container--norule">
+				<div class="row row--alignMiddle">
+					<div class="col-sm-4">
+						<a href="https://www.foreground.com.au/">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-white-cdd3c14ea6.svg" class="footer-logo lazyload" alt="Foreground" />
+						</a>
+					</div>
+					<div class="col-sm-8">
+						<p class="footer-policyLinks">
+							<a href="https://www.foreground.com.au/privacy-policy/">Privacy policy</a>
+							<a href="https://www.foreground.com.au/cookie-policy/">Cookie policy</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="signupNudge" id="signupNudge" aria-hidden="true">
+		<div class="container">
+			<div class="row">
+				<div class="signupNudge-content">
+					<div class="row signupNudge-header">
+						<div class="col-sm-3">
+							<h2 class="signupNudge-title">Stay up to date</h2>
+						</div>
+						<div class="col-sm-7 signupNudge-intro">
+							<p>News and analysis on cities, places and the people who make them delivered direct to your inbox</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-7 col-sm-offset-3">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupNudge-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupNudge-email signup-input inputRuled" id="signupNudge-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupNudge-consent" required />
+									<label for="signupNudge-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupNudge-submit">Subscribe</button>
+							</form>
+						</div>
+					</div>
+					<button class="btnNaked signupNudge-close" aria-controls="signupNudge" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-4c1dec21-5e8e-410f-aaa7-aa38557622c5"><title id="title-4c1dec21-5e8e-410f-aaa7-aa38557622c5">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type='text/javascript' src='https://www.foreground.com.au/app/plugins/speedrunner/assets/dist/scripts/lazysizes.min.js?ver=0.7.1'></script>
+<script type='text/javascript' src='https://www.foreground.com.au/app/themes/foreground/assets/dist/scripts/theme.bundle-7fd6cfee3d.js'></script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js'></script>
+</body>
+</html>

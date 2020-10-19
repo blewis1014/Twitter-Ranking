@@ -1,0 +1,400 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta name="robots" content="all" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="language" content="en" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1" /><meta name="google-site-verification" content="4t_iqpunaXSVZ3E8DPhjqKFae94KGcRMHyaoPMngd00" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><meta content="Parkhound.com.au" name="twitter:site"><meta content="Parkhound.com.au" property="og:site_name"><meta property="og:type" content="website" /><link rel="canonical" href="https://www.parkhound.com.au/404-errors" /><meta name="smartbanner:title" content="Parkhound: Car Parking App"><meta name="smartbanner:author" content="Parkhound Pty Ltd"><meta name="smartbanner:price" content="FREE"><meta name="smartbanner:price-suffix-apple" content=" - On the App Store"><meta name="smartbanner:price-suffix-google" content=" - In Google Play"><meta name="smartbanner:icon-apple" content="https://s3-ap-southeast-2.amazonaws.com/parkhound-media/parkhound-ios-bannericon.png"><meta name="smartbanner:icon-google" content="https://s3-ap-southeast-2.amazonaws.com/parkhound-media/parkhound-android-bannericon.png"><meta name="smartbanner:button" content="VIEW"><meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/au/app/parkhound-car-parking-app/id836273650?mt=8"><meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.parkhound.marketplace"><meta name="smartbanner:enabled-platforms" content="android,ios"><meta property="og:url" name="url" content="https://www.parkhound.com.au/parking-bondi-beach-roscoe-st-nsw-63018%0A" />
+<meta name="twitter:url" content="https://www.parkhound.com.au/parking-bondi-beach-roscoe-st-nsw-63018%0A" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/css/jquery.jscrollpane.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/bootstrap-responsive.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/navigation_v4.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/flexslider_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/article.css" />
+<link rel="stylesheet" type="text/css" href="/css/navigation.css" />
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+<link rel="stylesheet" type="text/css" href="/css/form.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/space_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/styles_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/dashboard_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/partner.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/makemoney.css" />
+<link rel="stylesheet" type="text/css" href="/css/instant_money.css" />
+<link rel="stylesheet" type="text/css" href="/css/about.css" />
+<link rel="stylesheet" type="text/css" href="/css/leasemyspace.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/payment.css" />
+<link rel="stylesheet" type="text/css" href="/css/registration_mobile_portrait.css" />
+<link rel="stylesheet" type="text/css" href="/css/registration_mobile_landscape.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/tablet_portrait_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/mobile_portrait_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/css-ie.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/css-ie_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/css-ff.css" />
+<script type="text/javascript">
+/*<![CDATA[*/
+
+    	var baseUrl = "";
+    	
+/*]]>*/
+</script>
+<title>404 Error - Parkhound</title><!--[if IE]><link type="text/css" rel="stylesheet" href="/css/css-ie.css" /><link type="text/css" rel="stylesheet" href="/themes/bootstrap_v4.1/css/css-ie_v3.css" /><![endif]--><script src="https://hypertune.global.ssl.fastly.net/js/ht881f0b7335438ff732dd2b8d0c7d52b4.js"></script><script>
+      var baseUrl = 'https://www.parkhound.com.au';
+    </script><script type="text/javascript">
+      // Universal Analytics
+      var is_production = 1;
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42923347-1', 'auto');
+      ga('send', 'pageview');
+    </script><script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7TJPL6');
+    </script><script>
+              (function(h,o,t,j,a,r){
+                  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                  h._hjSettings={hjid:903333,hjsv:6};
+                  a=o.getElementsByTagName('head')[0];
+                  r=o.createElement('script');r.async=1;
+                  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                  a.appendChild(r);
+              })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+          </script></head><body itemscope itemtype="http://schema.org/WebPage" class="site " id="site-error"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7TJPL6"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="header_parent" class="clearfix"><div id="header" class="clearfix"><div class="clearfix " style="position: relative;"><a title="Parkhound, Lease a car park, Rent a car park, parking" id="logo" href="https://www.parkhound.com.au"></a><div class="head_link no-user clearfix"><div class="headInlineLink headInlineHasMenu"><a href="#">Cities</a><div class="headDropdownBlock"><a href="https://www.parkhound.com.au/parking-melbourne">Melbourne</a><a href="https://www.parkhound.com.au/parking-sydney">Sydney</a><a href="https://www.parkhound.com.au/parking-brisbane">Brisbane</a><a href="https://www.parkhound.com.au/parking-adelaide">Adelaide</a><a href="https://www.parkhound.com.au/parking-parramatta-nsw">Parramatta</a><a href="https://www.parkhound.com.au/parking-perth">Perth</a><a href="https://www.parkhound.com.au/top-parking-locations" class="citiesViewMore">View more</a></div></div><div class="account-wrap no-user clearfix"><div class="list_my_space_free"><div class="headInlineLink"><a href="https://www.parkhound.com.au/how-it-works-for-hosts">Lease my car space</a></div></div></div><div id="nav-help" role="navigation"><a id="a1" href="#" title="Show navigation">Help</a><div id="helpmore"><ul class="help clearfix" id="yw0"><li><a class="ahiw" target="_blank" href="/how-it-works">How it works&nbsp;&raquo;</a></li><li><a class="help" target="_blank" href="/help">Visit Help Centre&nbsp;&raquo;</a></li><li><span class="faq"><strong>Common FAQ's</strong></span></li></ul><div class="clearfix"></div><ul class="help-faq"><li><a href="/help#seller/2" target="_blank">How much does it cost to sign up? </a></li><li><a href="/help#seller/4" target="_blank">How do I list my parking space?</a></li><li><a href="/help#seller/5" target="_blank">Who can list their parking space?</a></li><li><a href="/help#seller/6" target="_blank">How much can I lease my car park for?</a></li><li><a href="/help#seller/14" target="_blank">How does Parkhound protect me?</a></li><li><a href="/help#seller/81" target="_blank">Can I set a minimum booking length?</a></li><li><a href="/help#seller/101" target="_blank">Does the congestion levy apply if I lease my space?</a></li><li><a class="help" style="border-top: 1px solid #e1e1e1;padding: 10px 16px;line-height: 20px;" target="_blank" href="/terms-of-use">View our Terms and Conditions</a></li></ul></div></div><a href="/login" id="button_login" class="gray_btn">Login </a><a href="/contact" class="phone-header-home"><img src="/images/email/phone.png" alt="Phone" /><span>1300 55 63 55</span></a></div></div></div></div><div class="clearfix"></div><div id="content-wrapper"><div id="content"><div class="error_wrapper2 clearfix"><div class="reward-search clearfix"><div class="reward-left"></div><div class="search-right"><p class="search-right-txt1">Sorry the page you were looking for is lost!</p><p class="search-right-txt2">Please continue your hunt by searching again:</p><p class="search-right-txt3 clearfix">Or check out some of these awesome parking spaces below:</p></div></div><div id="wrapper_parking" class="search-result"><ul id="search-result-data"><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63031"><a target="_blank" href="/parking-melbourne-st-kilda-rd-vic-63031" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper   first" data-userid="152057"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/upload/space/Car-Park-st-kilda-road-melbourne-victoria,-63031,-260898_1602980551.4316.png" alt="Indoor lot parking on St Kilda Road in Melbourne Victoria" title="Indoor lot parking on St Kilda Road in Melbourne Victoria" /></div><div class="listing-content"><h2 itemprop="name">Available parking space on st kilda road</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">St Kilda Road, Melbourne Victoria </p><div class="listing-amenities"><div>Secure access</div><div>Underground</div></div><div class="listing-type"><span class="icon-indoor" title="Indoor lot">Indoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>6</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>42</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>180</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63029"><a target="_blank" href="/parking-carrum-downs-wendel-ct-vic-63029" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152053"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-wendel-court-carrum-downs-victoria,-63029,-260885_1602975280.8004_100x100.jpg?v=3" alt="Outdoor lot parking on Wendel Court in Carrum Downs Victoria" title="Outdoor lot parking on Wendel Court in Carrum Downs Victoria" /></div><div class="listing-content"><h2 itemprop="name">Great parking in a quiet court 5 mins drive to the beach</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Wendel Court, Carrum Downs Victoria </p><div class="listing-type"><span class="icon-outdoor" title="Outdoor lot">Outdoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-none" title="None">None</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>60</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>360</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63028"><a target="_blank" href="/parking-melbourne-queens-rd-vic-63028" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="139505"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/upload/space/Car-Park-queens-road-melbourne-victoria,-107485,-259504_1602973264.3525.JPG" alt="Outdoor lot parking on Queens Road in Melbourne Victoria" title="Outdoor lot parking on Queens Road in Melbourne Victoria" /></div><div class="listing-content"><h2 itemprop="name">Secure parking for St. Kilda Rd offices</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Queens Road, Melbourne Victoria </p><div class="listing-type"><span class="icon-outdoor" title="Outdoor lot">Outdoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>8</span><sup>.77 /DAY</sup></div><div class="price-list"><sup>$</sup><span>61</span><sup>.39 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>264</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63027"><a target="_blank" href="/parking-braddon-currong-st-n-act-63027" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152048"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-currong-street-north-braddon-australian-capital-territory,-63027,-260876_1602972782.4117_100x100.jpg?v=3" alt="Indoor lot parking on Currong Street North in Braddon Australian Capital Territory" title="Indoor lot parking on Currong Street North in Braddon Australian Capital Territory" /></div><div class="listing-content"><h2 itemprop="name">Great secure parking space 5 minute walk to CBD</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Currong Street North, Braddon Australian Capital Territory </p><div class="listing-amenities"><div>24/7 access</div><div>Secure access</div><div>Lighting</div></div><div class="listing-type"><span class="icon-indoor" title="Indoor lot">Indoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>48</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>144</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63025"><a target="_blank" href="/parking-west-ryde-maxim-st-nsw-63025" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152035"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-maxim-street-west-ryde-new-south-wales,-63025,-260860_1602926656.4679_100x100.jpg?v=3" alt="Driveway parking on Maxim Street in West Ryde New South Wales" title="Driveway parking on Maxim Street in West Ryde New South Wales" /></div><div class="listing-content"><h2 itemprop="name">Great parking space in West Ryde</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Maxim Street, West Ryde New South Wales </p><div class="listing-amenities"><div>24/7 access</div></div><div class="listing-type"><span class="icon-driveway" title="Driveway">Driveway</span><span class="vehicle-black-other" title=""></span><span class="icon-none" title="None">None</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>72</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>264</span><sup>.00 /MONTH</sup></div></div></div></a></li></ul></div></div></div></div><div class="footer clearfix"><div id="contact" class="footer_top clearfix"><div class="social-navigation clearfix"><div id="download_app_footer" class="clearfix"></div><div class="social"><h3 class="footer-title">Connect with us:</h3><div id="social_like" class="social_like"><div class="social_link"><ul><li class="call"><a target="_blank" href="tel:1300-556-355"><p>Call 1300 55 63 55</p></a></li><li class="facebook"><a target="_blank" rel="noopener" href="https://www.facebook.com/parkhound"><p>facebook.com/parkhound</p></a></li><li class="tweet"><a target="_blank" rel="noopener" href="https://twitter.com/Parkhound2013"><p>@parkhound2013</p></a></li><li class="google"><a target="_blank" href="https://plus.google.com/114920602655058934149" rel="noopener publisher"><p>parkhound</p></a></li><li class="parkhound"><a target="_blank" rel="noopener" href="https://instagram.com/parkhound#"><p>parkhound</p></a></li><li class="hello"><a href="/cdn-cgi/l/email-protection#a2d6c7c3cfe2d2c3d0c9cacdd7ccc68cc1cdcf8cc3d7"><p><span class="__cf_email__" data-cfemail="2d59484c406d5d4c5f464542584349034e4240034c58">[email&#160;protected]</span></p></a></li></ul></div></div><div id="fb-root"></div></div><div class="footer_link"><h3 class="footer-title">From the Media Centre:</h3><div class="media-center"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/the-app-weve-been-waiting-for">The App We’ve Been Waiting For</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/the-borrowers-rise-of-the-sharing-economy">The Borrowers: Rise of the sharing economy</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/aussie-startup-is-airbnb-for-parking">Aussie Startup Is Airbnb For Parking</a></li></ul></div></div><div class="navigation"><h3 class="footer-title">Navigation:</h3><ul id="menu-first" class="menu"><li class="term"><a class="term-a" href="#">Terms & Conditions</a><ul><li><a href="/terms-of-use">Terms of Use</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/cancellation-policy">Cancellation Policy</a></li><li><a href="/api-agreement">API Agreement</a></li></ul></li><li class="quicjhoearsnu-item"><a class="aqq" href="#">Parking Rent Calculator</a><ul style="display: none;"><li><a href="/how-it-works-for-hosts/SA/Adelaide">Parking Rent Adelaide</a></li><li><a href="/how-it-works-for-hosts/QLD/Brisbane ">Parking Rent Brisbane </a></li><li><a href="/how-it-works-for-hosts/ACT/Canberra">Parking Rent Canberra</a></li><li><a href="/how-it-works-for-hosts/NT/Darwin">Parking Rent Darwin</a></li><li><a href="/how-it-works-for-hosts/TAS/Hobart">Parking Rent Hobart</a></li><li><a href="/how-it-works-for-hosts/VIC/Melbourne">Parking Rent Melbourne</a></li><li><a href="/how-it-works-for-hosts/WA/Perth">Parking Rent Perth</a></li><li><a href="/how-it-works-for-hosts/NSW/Sydney">Parking Rent Sydney</a></li></ul></li><li><a href="/tell-us-parking-story">Parking Horror Story</a></li><li><a href="/app">Parkhound App</a></li><li><a href="/about-parkhound">About us</a></li><li><a href="/contact">Contact</a></li></ul></div><div class="navigation2"><ul class="menu second"><li><a href="/top-parking-locations">Top Locations</a></li><li><a href="/how-it-works">How It Works For Renters</a></li><li><a href="/how-it-works-for-hosts">How It Works For Hosts</a></li><li><a href="/monthly-parking">Monthly Parking Near Me</a></li><li><a href="/booking-guarantee">Money Back Guarantee</a></li><li><a href="/blog">Blog</a></li><li><a href="/refer-a-friend">Refer a friend</a></li><li><a href="/partner-program">Partner With Us</a></li><li><a href="/waiting-list">Waiting List</a></li></ul></div></div><div class="clearfix"><div id='award_buss_aus'><a href="https://www2.deloitte.com/content/dam/Deloitte/au/Documents/technology-media-telecommunications/deloitte-au-tmt-tech-fast-50-australia-2018-winners-report-151118.pdf" style="margin-right: 5px;" target="_blank" rel="noopener"><img src='/images/tf50-dark-90x121.png' alt="tf50-dark-90x121" title="Deloitte Technology Fast 50 award" /></a><a href="http://www.businessawards.com.au/winners/2014/Best-New-Product/Parkhound.php" target="_blank" rel="noopener"><img src='/images/award.png' title='Australian Business Award' alt='Australian Business Award 2014 Best New Product' style="margin-right: 5px;" /></a><a href="http://www.startupsmart.com.au/awards2015/startupsmart-awards-2015.html" target="_blank" rel="noopener" class='award-smart'><img src="/images/parkhound-award-smart.png" alt="Award Smart 2015" /></a><a target="_blank" rel="noopener" class="apple-store" href="https://itunes.apple.com/au/app/parkhound-car-park-booking/id836273650?ls=1&mt=8"><img src="/images/svg/v3/icons_app-store.svg" alt="Download on the App Store" /></a><a target="_blank" class="apple-store" rel="nofollow noopener" href="https://www.parking.asn.au/"><img src="/images/logo-proundmemberparkingaustralia.png" alt="Proud member of Parking Australia" /></a></div></div></div><div class="parking-wrap clearfix"><div class="parking-item clearfix"><div class="parking-state"><h3 class="parking-title">Parking by State:</h3><a href="/parking/vic">VIC</a><a href="/parking/nsw">NSW</a><a href="/parking/act">ACT</a><a href="/parking/qld">QLD</a><a href="/parking/sa">SA</a><a href="/parking/wa">WA</a><a href="/parking/nt">NT</a><a href="/parking/tas">TAS</a></div><h3 class="parking-title">Popular Parking Searches:</h3><ul class="ul-commnon"><li><a href="/parking-melbourne">Parking Melbourne</a></li><li><a href="/parking-sydney">Parking Sydney</a></li><li><a href="/parking-brisbane">Parking Brisbane </a></li><li><a href="/parking-perth">Parking Perth</a></li><li><a href="/parking-adelaide">Parking Adelaide</a></li><li><a href="/parking-canberra">Parking Canberra</a></li><li><a href="/parking-hobart">Parking Hobart</a></li><li><a href="/parking-darwin">Parking Darwin</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Airport Parking:</h3><ul class="ul-commnon"><li><a href="/sydney-airport-parking">Parking Sydney Airport Parking</a></li><li><a href="/melbourne-airport-parking">Parking Melbourne Airport Parking</a></li><li><a href="/perth-airport-parking">Parking Perth Airport Parking</a></li><li><a href="/adelaide-airport-parking">Parking Adelaide Airport Parking</a></li><li><a href="/canberra-airport-parking">Parking Canberra Airport Parking</a></li><li><a href="/hobart-airport-parking">Parking Hobart Airport Parking</a></li><li><a href="/gold-coast-airport-parking">Parking Gold Coast Airport Parking</a></li><li><a href="/sunshine-coast-airport-parking">Parking Sunshine Coast Airport Parking</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Hospital Parking:</h3><ul class="ul-commnon"><li><a href="/parking-hospital/st-vincents-hospital-melbourne">St Vincent’s Hospital Melbourne</a></li><li><a href="/parking-hospital/royal-prince-alfred-hospital-melbourne">Royal Prince Alfred Hospital Melbourne</a></li><li><a href="/parking-hospital/parking-in-royal-melbourne-hospital">Parking in Royal Melbourne Hospital</a></li><li><a href="/parking-hospital/melbourne-private-hospital">Melbourne Private Hospital</a></li><li><a href="/parking-hospital/mater-health-services-brisbane-parking">Mater Health Services Brisbane Parking</a></li><li><a href="/parking-hospital/mater-hospital-north-sydney-parking">Mater Hospital, North Sydney Parking</a></li><li><a href="/parking-hospital/prince-of-wales-and-sydney-childrens-hospital">Prince of Wales and Sydney Children's Hospital</a></li><li><a href="/parking-hospital/princess-alexandra-hospital-parking">Princess Alexandra Hospital Parking</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Shopping Parking:</h3><ul class="ul-commnon"><li><a href="/parking-shopping/westfield-doncaster">Westfield Doncaster</a></li><li><a href="/parking-shopping/harbour-town">Harbour Town</a></li><li><a href="/parking-shopping/westfield-southland">Westfield Southland</a></li><li><a href="/parking-shopping/melbourne-central">Melbourne Central</a></li><li><a href="/parking-shopping/bourke-street-mall">Bourke Street Mall</a></li><li><a href="/parking-shopping/emporium-melbourne">Emporium Melbourne</a></li><li><a href="/parking-shopping/chadstone-shopping-centre">Chadstone Shopping Centre</a></li><li><a href="/parking-shopping/westfield-chermside">Westfield Chermside</a></li></ul></div></div><div class="copyright"><p class="96602017210">&copy; Parkhound 2020 - ABN: 96 602 017 210 - Level 3, 55 Pyrmont Bridge Rd, Pyrmont NSW 2009 - Proudly part of <a href="https://www.spacer.com.au">Spacer</a> Marketplaces</p></div></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var abr_id = 1797;</script><script async src="https://cdn.abrankings.com/js/client.js"></script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script><script type="text/javascript">
+      if (typeof google_tag_params !== 'object') {
+        var google_tag_params = {
+                listing_id: '',
+                listing_pagetype: 'other',};
+      }
+
+      /* <![CDATA[ */
+      var google_conversion_id = 940674988;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+
+      var myReg = /[a-z]+_[a-z]+/i;
+      if (myReg.test(google_tag_params.listing_id) || google_tag_params.listing_id == '') {
+        /* <![CDATA[ */
+        window.google_trackConversion({
+          google_conversion_id: google_conversion_id,
+          google_custom_params: google_custom_params,
+          google_remarketing_only: true
+        });
+        //]]>
+      }
+    </script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/940674988/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Raleway:300,700', 'Montserrat:300,700' ] }
+      };
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var scripts = document.getElementsByTagName('script');
+        var s = document.getElementsByTagName('script')[scripts.length - 1];
+        s.parentNode.insertBefore(wf, s);
+
+    </script><script type="text/javascript">
+        window.zESettings = {
+            webWidget: {
+                chat: {
+                    connectOnPageLoad: false
+                }
+            }
+        };
+        function loadZendeskChatWidget(){
+          var script = document.createElement("script"); //Make a script DOM node
+          script.id ="ze-snippet"
+          script.src = "https://static.zdassets.com/ekr/snippet.js?key=09505c41-35a3-43eb-91f6-d814165ed0a6";
+          document.head.appendChild(script);
+        }
+        setTimeout(loadZendeskChatWidget, 2500);
+      </script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/response.min.js"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="/assets/7d883f12/js/bootstrap.js"></script>
+<script type="text/javascript" src="/js/modernizr.custom.00950.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/site_v3.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/footer.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+  // $("a[href=#]").on("click",function(e){e.preventDefault();});
+    
+
+$(document).ready(function(){
+  function addLoadEvent(func) {
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function') {
+      window.onload = func;
+    } else {
+      window.onload = function() {
+        if (oldonload) {
+          oldonload();
+        }
+        func();
+      }
+    }
+  }
+  function loadSocial() {
+    var data = "<div class='fb-like' data-href='https://www.facebook.com/parkhound' data-width='220px' data-layout='standard' data-action='like' data-show-faces='false' data-share='false' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:100%; max-width:156px' allowTransparency='true'></div>";
+    $('#like_fb_footer').html(data);
+  }
+  addLoadEvent(loadSocial);
+});
+
+
+  $(document).ready(function(){
+    $('img.lazy').lazy();
+  });
+  
+
+addStickySearch();
+function addStickySearch(){
+  if(typeof jQuery !== typeof undefined && jQuery("#form_search_view").length && jQuery('#site-index').length){
+    jQuery("head").prepend('<meta name="viewport" content="width=device-width, initial-scale=1">');
+    jQuery(window).scroll(function(){
+      jQuery(".pac-container").hide();
+      var stickyElem = jQuery("#form_search_view"),
+          scrollPos = jQuery("#search-listing div.wrapper-direct-link"),
+          scrollTop = jQuery(window).scrollTop(),
+          screenWidth = jQuery(window).width(),
+          header = jQuery("#header > div");
+      if(screenWidth < 600){
+        if(scrollTop > (scrollPos.offset().top - header.height())){
+          stickyElem.addClass("visible");
+        }
+        else{
+          stickyElem.removeClass("visible");
+        }
+      }
+      else{
+        stickyElem.removeClass("visible");
+      }
+    });
+    jQuery(window).scroll();
+    jQuery(window).resize(function(){
+      jQuery(window).scroll();
+    });
+  }
+};
+
+jQuery(function($) {
+
+$(document).ready(function() {
+  $('.search-right-txt2').after($('#form_search_view'));
+});
+
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body></html>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta name="robots" content="all" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="language" content="en" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1" /><meta name="google-site-verification" content="4t_iqpunaXSVZ3E8DPhjqKFae94KGcRMHyaoPMngd00" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><meta content="Parkhound.com.au" name="twitter:site"><meta content="Parkhound.com.au" property="og:site_name"><meta property="og:type" content="website" /><link rel="canonical" href="https://www.parkhound.com.au/404-errors" /><meta name="smartbanner:title" content="Parkhound: Car Parking App"><meta name="smartbanner:author" content="Parkhound Pty Ltd"><meta name="smartbanner:price" content="FREE"><meta name="smartbanner:price-suffix-apple" content=" - On the App Store"><meta name="smartbanner:price-suffix-google" content=" - In Google Play"><meta name="smartbanner:icon-apple" content="https://s3-ap-southeast-2.amazonaws.com/parkhound-media/parkhound-ios-bannericon.png"><meta name="smartbanner:icon-google" content="https://s3-ap-southeast-2.amazonaws.com/parkhound-media/parkhound-android-bannericon.png"><meta name="smartbanner:button" content="VIEW"><meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/au/app/parkhound-car-parking-app/id836273650?mt=8"><meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.parkhound.marketplace"><meta name="smartbanner:enabled-platforms" content="android,ios"><meta property="og:url" name="url" content="https://www.parkhound.com.au/parking-bondi-beach-roscoe-st-nsw-63018%0A" />
+<meta name="twitter:url" content="https://www.parkhound.com.au/parking-bondi-beach-roscoe-st-nsw-63018%0A" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/css/jquery.jscrollpane.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/bootstrap-responsive.css" />
+<link rel="stylesheet" type="text/css" href="/assets/7d883f12/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/navigation_v4.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/flexslider_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/article.css" />
+<link rel="stylesheet" type="text/css" href="/css/navigation.css" />
+<link rel="stylesheet" type="text/css" href="/css/main.css" />
+<link rel="stylesheet" type="text/css" href="/css/form.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/space_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/styles_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/dashboard_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/partner.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/makemoney.css" />
+<link rel="stylesheet" type="text/css" href="/css/instant_money.css" />
+<link rel="stylesheet" type="text/css" href="/css/about.css" />
+<link rel="stylesheet" type="text/css" href="/css/leasemyspace.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/payment.css" />
+<link rel="stylesheet" type="text/css" href="/css/registration_mobile_portrait.css" />
+<link rel="stylesheet" type="text/css" href="/css/registration_mobile_landscape.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/tablet_portrait_v3.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/mobile_portrait_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/css-ie.css" />
+<link rel="stylesheet" type="text/css" href="/themes/bootstrap_v4.1/css/css-ie_v3.css" />
+<link rel="stylesheet" type="text/css" href="/css/css-ff.css" />
+<script type="text/javascript">
+/*<![CDATA[*/
+
+    	var baseUrl = "";
+    	
+/*]]>*/
+</script>
+<title>404 Error - Parkhound</title><!--[if IE]><link type="text/css" rel="stylesheet" href="/css/css-ie.css" /><link type="text/css" rel="stylesheet" href="/themes/bootstrap_v4.1/css/css-ie_v3.css" /><![endif]--><script src="https://hypertune.global.ssl.fastly.net/js/ht881f0b7335438ff732dd2b8d0c7d52b4.js"></script><script>
+      var baseUrl = 'https://www.parkhound.com.au';
+    </script><script type="text/javascript">
+      // Universal Analytics
+      var is_production = 1;
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-42923347-1', 'auto');
+      ga('send', 'pageview');
+    </script><script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7TJPL6');
+    </script><script>
+              (function(h,o,t,j,a,r){
+                  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                  h._hjSettings={hjid:903333,hjsv:6};
+                  a=o.getElementsByTagName('head')[0];
+                  r=o.createElement('script');r.async=1;
+                  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                  a.appendChild(r);
+              })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+          </script></head><body itemscope itemtype="http://schema.org/WebPage" class="site " id="site-error"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7TJPL6"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="header_parent" class="clearfix"><div id="header" class="clearfix"><div class="clearfix " style="position: relative;"><a title="Parkhound, Lease a car park, Rent a car park, parking" id="logo" href="https://www.parkhound.com.au"></a><div class="head_link no-user clearfix"><div class="headInlineLink headInlineHasMenu"><a href="#">Cities</a><div class="headDropdownBlock"><a href="https://www.parkhound.com.au/parking-melbourne">Melbourne</a><a href="https://www.parkhound.com.au/parking-sydney">Sydney</a><a href="https://www.parkhound.com.au/parking-brisbane">Brisbane</a><a href="https://www.parkhound.com.au/parking-adelaide">Adelaide</a><a href="https://www.parkhound.com.au/parking-parramatta-nsw">Parramatta</a><a href="https://www.parkhound.com.au/parking-perth">Perth</a><a href="https://www.parkhound.com.au/top-parking-locations" class="citiesViewMore">View more</a></div></div><div class="account-wrap no-user clearfix"><div class="list_my_space_free"><div class="headInlineLink"><a href="https://www.parkhound.com.au/how-it-works-for-hosts">Lease my car space</a></div></div></div><div id="nav-help" role="navigation"><a id="a1" href="#" title="Show navigation">Help</a><div id="helpmore"><ul class="help clearfix" id="yw0"><li><a class="ahiw" target="_blank" href="/how-it-works">How it works&nbsp;&raquo;</a></li><li><a class="help" target="_blank" href="/help">Visit Help Centre&nbsp;&raquo;</a></li><li><span class="faq"><strong>Common FAQ's</strong></span></li></ul><div class="clearfix"></div><ul class="help-faq"><li><a href="/help#seller/2" target="_blank">How much does it cost to sign up? </a></li><li><a href="/help#seller/4" target="_blank">How do I list my parking space?</a></li><li><a href="/help#seller/5" target="_blank">Who can list their parking space?</a></li><li><a href="/help#seller/6" target="_blank">How much can I lease my car park for?</a></li><li><a href="/help#seller/14" target="_blank">How does Parkhound protect me?</a></li><li><a href="/help#seller/81" target="_blank">Can I set a minimum booking length?</a></li><li><a href="/help#seller/101" target="_blank">Does the congestion levy apply if I lease my space?</a></li><li><a class="help" style="border-top: 1px solid #e1e1e1;padding: 10px 16px;line-height: 20px;" target="_blank" href="/terms-of-use">View our Terms and Conditions</a></li></ul></div></div><a href="/login" id="button_login" class="gray_btn">Login </a><a href="/contact" class="phone-header-home"><img src="/images/email/phone.png" alt="Phone" /><span>1300 55 63 55</span></a></div></div></div></div><div class="clearfix"></div><div id="content-wrapper"><div id="content"><div class="error_wrapper2 clearfix"><div class="reward-search clearfix"><div class="reward-left"></div><div class="search-right"><p class="search-right-txt1">Sorry the page you were looking for is lost!</p><p class="search-right-txt2">Please continue your hunt by searching again:</p><p class="search-right-txt3 clearfix">Or check out some of these awesome parking spaces below:</p></div></div><div id="wrapper_parking" class="search-result"><ul id="search-result-data"><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63031"><a target="_blank" href="/parking-melbourne-st-kilda-rd-vic-63031" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper   first" data-userid="152057"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/upload/space/Car-Park-st-kilda-road-melbourne-victoria,-63031,-260898_1602980551.4316.png" alt="Indoor lot parking on St Kilda Road in Melbourne Victoria" title="Indoor lot parking on St Kilda Road in Melbourne Victoria" /></div><div class="listing-content"><h2 itemprop="name">Available parking space on st kilda road</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">St Kilda Road, Melbourne Victoria </p><div class="listing-amenities"><div>Secure access</div><div>Underground</div></div><div class="listing-type"><span class="icon-indoor" title="Indoor lot">Indoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>6</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>42</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>180</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63029"><a target="_blank" href="/parking-carrum-downs-wendel-ct-vic-63029" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152053"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-wendel-court-carrum-downs-victoria,-63029,-260885_1602975280.8004_100x100.jpg?v=3" alt="Outdoor lot parking on Wendel Court in Carrum Downs Victoria" title="Outdoor lot parking on Wendel Court in Carrum Downs Victoria" /></div><div class="listing-content"><h2 itemprop="name">Great parking in a quiet court 5 mins drive to the beach</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Wendel Court, Carrum Downs Victoria </p><div class="listing-type"><span class="icon-outdoor" title="Outdoor lot">Outdoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-none" title="None">None</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>60</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>360</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63028"><a target="_blank" href="/parking-melbourne-queens-rd-vic-63028" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="139505"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/upload/space/Car-Park-queens-road-melbourne-victoria,-107485,-259504_1602973264.3525.JPG" alt="Outdoor lot parking on Queens Road in Melbourne Victoria" title="Outdoor lot parking on Queens Road in Melbourne Victoria" /></div><div class="listing-content"><h2 itemprop="name">Secure parking for St. Kilda Rd offices</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Queens Road, Melbourne Victoria </p><div class="listing-type"><span class="icon-outdoor" title="Outdoor lot">Outdoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>8</span><sup>.77 /DAY</sup></div><div class="price-list"><sup>$</sup><span>61</span><sup>.39 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>264</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63027"><a target="_blank" href="/parking-braddon-currong-st-n-act-63027" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152048"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-currong-street-north-braddon-australian-capital-territory,-63027,-260876_1602972782.4117_100x100.jpg?v=3" alt="Indoor lot parking on Currong Street North in Braddon Australian Capital Territory" title="Indoor lot parking on Currong Street North in Braddon Australian Capital Territory" /></div><div class="listing-content"><h2 itemprop="name">Great secure parking space 5 minute walk to CBD</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Currong Street North, Braddon Australian Capital Territory </p><div class="listing-amenities"><div>24/7 access</div><div>Secure access</div><div>Lighting</div></div><div class="listing-type"><span class="icon-indoor" title="Indoor lot">Indoor lot</span><span class="vehicle-black-other" title=""></span><span class="icon-remote" title="Remote">Remote</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>48</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>144</span><sup>.00 /MONTH</sup></div></div></div></a></li><li itemscope itemtype="http://schema.org/Place" data-overall_score="0" data-id="63025"><a target="_blank" href="/parking-west-ryde-maxim-st-nsw-63025" onclick="ga('send', 'event', 'Listing Page', 'User selects other listings nearby');"><div class="listing-wraper  " data-userid="152035"><div class="listing-img"><img class=" lazy" itemprop="image" src="https://www.parkhound.com.au/protected/data/cache/upload/space/Car-Park-maxim-street-west-ryde-new-south-wales,-63025,-260860_1602926656.4679_100x100.jpg?v=3" alt="Driveway parking on Maxim Street in West Ryde New South Wales" title="Driveway parking on Maxim Street in West Ryde New South Wales" /></div><div class="listing-content"><h2 itemprop="name">Great parking space in West Ryde</h2><p class="listing-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Maxim Street, West Ryde New South Wales </p><div class="listing-amenities"><div>24/7 access</div></div><div class="listing-type"><span class="icon-driveway" title="Driveway">Driveway</span><span class="vehicle-black-other" title=""></span><span class="icon-none" title="None">None</span></div></div><div class="listing-price listing-price-week"><div class="price-list"><sup>$</sup><span>12</span><sup>.00 /DAY</sup></div><div class="price-list"><sup>$</sup><span>72</span><sup>.00 /WEEK</sup></div><div class="price-list price-month"><sup>$</sup><span>264</span><sup>.00 /MONTH</sup></div></div></div></a></li></ul></div></div></div></div><div class="footer clearfix"><div id="contact" class="footer_top clearfix"><div class="social-navigation clearfix"><div id="download_app_footer" class="clearfix"></div><div class="social"><h3 class="footer-title">Connect with us:</h3><div id="social_like" class="social_like"><div class="social_link"><ul><li class="call"><a target="_blank" href="tel:1300-556-355"><p>Call 1300 55 63 55</p></a></li><li class="facebook"><a target="_blank" rel="noopener" href="https://www.facebook.com/parkhound"><p>facebook.com/parkhound</p></a></li><li class="tweet"><a target="_blank" rel="noopener" href="https://twitter.com/Parkhound2013"><p>@parkhound2013</p></a></li><li class="google"><a target="_blank" href="https://plus.google.com/114920602655058934149" rel="noopener publisher"><p>parkhound</p></a></li><li class="parkhound"><a target="_blank" rel="noopener" href="https://instagram.com/parkhound#"><p>parkhound</p></a></li><li class="hello"><a href="/cdn-cgi/l/email-protection#681c0d09052818091a0300071d060c460b070546091d"><p><span class="__cf_email__" data-cfemail="ff8b9a9e92bf8f9e8d9497908a919bd19c9092d19e8a">[email&#160;protected]</span></p></a></li></ul></div></div><div id="fb-root"></div></div><div class="footer_link"><h3 class="footer-title">From the Media Centre:</h3><div class="media-center"><ul id="menu-header-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/the-app-weve-been-waiting-for">The App We’ve Been Waiting For</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/the-borrowers-rise-of-the-sharing-economy">The Borrowers: Rise of the sharing economy</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="/blog/aussie-startup-is-airbnb-for-parking">Aussie Startup Is Airbnb For Parking</a></li></ul></div></div><div class="navigation"><h3 class="footer-title">Navigation:</h3><ul id="menu-first" class="menu"><li class="term"><a class="term-a" href="#">Terms & Conditions</a><ul><li><a href="/terms-of-use">Terms of Use</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/cancellation-policy">Cancellation Policy</a></li><li><a href="/api-agreement">API Agreement</a></li></ul></li><li class="quicjhoearsnu-item"><a class="aqq" href="#">Parking Rent Calculator</a><ul style="display: none;"><li><a href="/how-it-works-for-hosts/SA/Adelaide">Parking Rent Adelaide</a></li><li><a href="/how-it-works-for-hosts/QLD/Brisbane ">Parking Rent Brisbane </a></li><li><a href="/how-it-works-for-hosts/ACT/Canberra">Parking Rent Canberra</a></li><li><a href="/how-it-works-for-hosts/NT/Darwin">Parking Rent Darwin</a></li><li><a href="/how-it-works-for-hosts/TAS/Hobart">Parking Rent Hobart</a></li><li><a href="/how-it-works-for-hosts/VIC/Melbourne">Parking Rent Melbourne</a></li><li><a href="/how-it-works-for-hosts/WA/Perth">Parking Rent Perth</a></li><li><a href="/how-it-works-for-hosts/NSW/Sydney">Parking Rent Sydney</a></li></ul></li><li><a href="/tell-us-parking-story">Parking Horror Story</a></li><li><a href="/app">Parkhound App</a></li><li><a href="/about-parkhound">About us</a></li><li><a href="/contact">Contact</a></li></ul></div><div class="navigation2"><ul class="menu second"><li><a href="/top-parking-locations">Top Locations</a></li><li><a href="/how-it-works">How It Works For Renters</a></li><li><a href="/how-it-works-for-hosts">How It Works For Hosts</a></li><li><a href="/monthly-parking">Monthly Parking Near Me</a></li><li><a href="/booking-guarantee">Money Back Guarantee</a></li><li><a href="/blog">Blog</a></li><li><a href="/refer-a-friend">Refer a friend</a></li><li><a href="/partner-program">Partner With Us</a></li><li><a href="/waiting-list">Waiting List</a></li></ul></div></div><div class="clearfix"><div id='award_buss_aus'><a href="https://www2.deloitte.com/content/dam/Deloitte/au/Documents/technology-media-telecommunications/deloitte-au-tmt-tech-fast-50-australia-2018-winners-report-151118.pdf" style="margin-right: 5px;" target="_blank" rel="noopener"><img src='/images/tf50-dark-90x121.png' alt="tf50-dark-90x121" title="Deloitte Technology Fast 50 award" /></a><a href="http://www.businessawards.com.au/winners/2014/Best-New-Product/Parkhound.php" target="_blank" rel="noopener"><img src='/images/award.png' title='Australian Business Award' alt='Australian Business Award 2014 Best New Product' style="margin-right: 5px;" /></a><a href="http://www.startupsmart.com.au/awards2015/startupsmart-awards-2015.html" target="_blank" rel="noopener" class='award-smart'><img src="/images/parkhound-award-smart.png" alt="Award Smart 2015" /></a><a target="_blank" rel="noopener" class="apple-store" href="https://itunes.apple.com/au/app/parkhound-car-park-booking/id836273650?ls=1&mt=8"><img src="/images/svg/v3/icons_app-store.svg" alt="Download on the App Store" /></a><a target="_blank" class="apple-store" rel="nofollow noopener" href="https://www.parking.asn.au/"><img src="/images/logo-proundmemberparkingaustralia.png" alt="Proud member of Parking Australia" /></a></div></div></div><div class="parking-wrap clearfix"><div class="parking-item clearfix"><div class="parking-state"><h3 class="parking-title">Parking by State:</h3><a href="/parking/vic">VIC</a><a href="/parking/nsw">NSW</a><a href="/parking/act">ACT</a><a href="/parking/qld">QLD</a><a href="/parking/sa">SA</a><a href="/parking/wa">WA</a><a href="/parking/nt">NT</a><a href="/parking/tas">TAS</a></div><h3 class="parking-title">Popular Parking Searches:</h3><ul class="ul-commnon"><li><a href="/parking-melbourne">Parking Melbourne</a></li><li><a href="/parking-sydney">Parking Sydney</a></li><li><a href="/parking-brisbane">Parking Brisbane </a></li><li><a href="/parking-perth">Parking Perth</a></li><li><a href="/parking-adelaide">Parking Adelaide</a></li><li><a href="/parking-canberra">Parking Canberra</a></li><li><a href="/parking-hobart">Parking Hobart</a></li><li><a href="/parking-darwin">Parking Darwin</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Airport Parking:</h3><ul class="ul-commnon"><li><a href="/sydney-airport-parking">Parking Sydney Airport Parking</a></li><li><a href="/melbourne-airport-parking">Parking Melbourne Airport Parking</a></li><li><a href="/perth-airport-parking">Parking Perth Airport Parking</a></li><li><a href="/adelaide-airport-parking">Parking Adelaide Airport Parking</a></li><li><a href="/canberra-airport-parking">Parking Canberra Airport Parking</a></li><li><a href="/hobart-airport-parking">Parking Hobart Airport Parking</a></li><li><a href="/gold-coast-airport-parking">Parking Gold Coast Airport Parking</a></li><li><a href="/sunshine-coast-airport-parking">Parking Sunshine Coast Airport Parking</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Hospital Parking:</h3><ul class="ul-commnon"><li><a href="/parking-hospital/st-vincents-hospital-melbourne">St Vincent’s Hospital Melbourne</a></li><li><a href="/parking-hospital/royal-prince-alfred-hospital-melbourne">Royal Prince Alfred Hospital Melbourne</a></li><li><a href="/parking-hospital/parking-in-royal-melbourne-hospital">Parking in Royal Melbourne Hospital</a></li><li><a href="/parking-hospital/melbourne-private-hospital">Melbourne Private Hospital</a></li><li><a href="/parking-hospital/mater-health-services-brisbane-parking">Mater Health Services Brisbane Parking</a></li><li><a href="/parking-hospital/mater-hospital-north-sydney-parking">Mater Hospital, North Sydney Parking</a></li><li><a href="/parking-hospital/prince-of-wales-and-sydney-childrens-hospital">Prince of Wales and Sydney Children's Hospital</a></li><li><a href="/parking-hospital/princess-alexandra-hospital-parking">Princess Alexandra Hospital Parking</a></li></ul></div><div class="parking-item clearfix"><h3 class="parking-title">Shopping Parking:</h3><ul class="ul-commnon"><li><a href="/parking-shopping/westfield-doncaster">Westfield Doncaster</a></li><li><a href="/parking-shopping/harbour-town">Harbour Town</a></li><li><a href="/parking-shopping/westfield-southland">Westfield Southland</a></li><li><a href="/parking-shopping/melbourne-central">Melbourne Central</a></li><li><a href="/parking-shopping/bourke-street-mall">Bourke Street Mall</a></li><li><a href="/parking-shopping/emporium-melbourne">Emporium Melbourne</a></li><li><a href="/parking-shopping/chadstone-shopping-centre">Chadstone Shopping Centre</a></li><li><a href="/parking-shopping/westfield-chermside">Westfield Chermside</a></li></ul></div></div><div class="copyright"><p class="96602017210">&copy; Parkhound 2020 - ABN: 96 602 017 210 - Level 3, 55 Pyrmont Bridge Rd, Pyrmont NSW 2009 - Proudly part of <a href="https://www.spacer.com.au">Spacer</a> Marketplaces</p></div></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var abr_id = 1797;</script><script async src="https://cdn.abrankings.com/js/client.js"></script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script><script type="text/javascript">
+      if (typeof google_tag_params !== 'object') {
+        var google_tag_params = {
+                listing_id: '',
+                listing_pagetype: 'other',};
+      }
+
+      /* <![CDATA[ */
+      var google_conversion_id = 940674988;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+
+      var myReg = /[a-z]+_[a-z]+/i;
+      if (myReg.test(google_tag_params.listing_id) || google_tag_params.listing_id == '') {
+        /* <![CDATA[ */
+        window.google_trackConversion({
+          google_conversion_id: google_conversion_id,
+          google_custom_params: google_custom_params,
+          google_remarketing_only: true
+        });
+        //]]>
+      }
+    </script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/940674988/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Raleway:300,700', 'Montserrat:300,700' ] }
+      };
+        var wf = document.createElement('script');
+        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var scripts = document.getElementsByTagName('script');
+        var s = document.getElementsByTagName('script')[scripts.length - 1];
+        s.parentNode.insertBefore(wf, s);
+
+    </script><script type="text/javascript">
+        window.zESettings = {
+            webWidget: {
+                chat: {
+                    connectOnPageLoad: false
+                }
+            }
+        };
+        function loadZendeskChatWidget(){
+          var script = document.createElement("script"); //Make a script DOM node
+          script.id ="ze-snippet"
+          script.src = "https://static.zdassets.com/ekr/snippet.js?key=09505c41-35a3-43eb-91f6-d814165ed0a6";
+          document.head.appendChild(script);
+        }
+        setTimeout(loadZendeskChatWidget, 2500);
+      </script><script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/response.min.js"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="/assets/7d883f12/js/bootstrap.js"></script>
+<script type="text/javascript" src="/js/modernizr.custom.00950.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/site_v3.js"></script>
+<script type="text/javascript" src="/themes/bootstrap_v4.1/js/footer.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+  // $("a[href=#]").on("click",function(e){e.preventDefault();});
+    
+
+$(document).ready(function(){
+  function addLoadEvent(func) {
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function') {
+      window.onload = func;
+    } else {
+      window.onload = function() {
+        if (oldonload) {
+          oldonload();
+        }
+        func();
+      }
+    }
+  }
+  function loadSocial() {
+    var data = "<div class='fb-like' data-href='https://www.facebook.com/parkhound' data-width='220px' data-layout='standard' data-action='like' data-show-faces='false' data-share='false' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:100%; max-width:156px' allowTransparency='true'></div>";
+    $('#like_fb_footer').html(data);
+  }
+  addLoadEvent(loadSocial);
+});
+
+
+  $(document).ready(function(){
+    $('img.lazy').lazy();
+  });
+  
+
+addStickySearch();
+function addStickySearch(){
+  if(typeof jQuery !== typeof undefined && jQuery("#form_search_view").length && jQuery('#site-index').length){
+    jQuery("head").prepend('<meta name="viewport" content="width=device-width, initial-scale=1">');
+    jQuery(window).scroll(function(){
+      jQuery(".pac-container").hide();
+      var stickyElem = jQuery("#form_search_view"),
+          scrollPos = jQuery("#search-listing div.wrapper-direct-link"),
+          scrollTop = jQuery(window).scrollTop(),
+          screenWidth = jQuery(window).width(),
+          header = jQuery("#header > div");
+      if(screenWidth < 600){
+        if(scrollTop > (scrollPos.offset().top - header.height())){
+          stickyElem.addClass("visible");
+        }
+        else{
+          stickyElem.removeClass("visible");
+        }
+      }
+      else{
+        stickyElem.removeClass("visible");
+      }
+    });
+    jQuery(window).scroll();
+    jQuery(window).resize(function(){
+      jQuery(window).scroll();
+    });
+  }
+};
+
+jQuery(function($) {
+
+$(document).ready(function() {
+  $('.search-right-txt2').after($('#form_search_view'));
+});
+
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body></html>

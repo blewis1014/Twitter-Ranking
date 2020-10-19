@@ -1,0 +1,1118 @@
+
+                    
+                                                                               
+
+    
+
+        
+<!doctype html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#	article: http://ogp.me/ns/article#">
+            <!-- ferd/hearst/templates/premium/article/header_main.tpl -->
+<head>
+    <!-- eid:article.15650186 -->
+    <!-- generated at 2020-10-17 20:43:20 on pwcm5 running vr2.1.19.1 -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Trump billboard in Houston goes viral after being vandalized - HoustonChronicle.com</title>
+    
+        <script>
+          if ( document.location.hostname.match(/\.$/) ) {
+              document.location.replace(
+                  document.location.protocol +
+                  '//' +
+                  document.location.hostname.replace(/\.+$/, '') +
+                  ( undefined !== document.location.pathname ? document.location.pathname : '' ) +
+                  ( undefined !== document.location.search ? document.location.search : '' )  +
+                  ( undefined !== document.location.hash ? document.location.hash : '' )
+              );
+          }
+        </script>
+    
+    <!-- ferd/premiumchron/templates/common/fonts.tpl -->
+<link rel="preload" href="/css/ferd/hdn/fonts/lora/lora-v12-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/ferd/hdn/fonts/lora/lora-v12-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/ferd/hdn/fonts/sourcesans/source-sans-pro-v11-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/ferd/hdn/fonts/sourcesans/source-sans-pro-v11-latin-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/ferd/hdn/fonts/sourcesans/source-sans-pro-v11-latin-300.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/ferd/hdn/fonts/sourcesans/source-sans-pro-v11-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+<!-- e ferd/premiumchron/templates/common/fonts.tpl -->
+            <script>
+                var HDN = HDN || {};
+        HDN.t_firstbyte = Number(new Date());
+        HDN.dataLayer = HDN.dataLayer || {};
+        HDN.dataLayer.content = HDN.dataLayer.content || {};
+        HDN.dataLayer.paywall = HDN.dataLayer.paywall || {};
+        HDN.dataLayer.paywall.accessRule = "possiblyMetered";
+        HDN.dataLayer.paywall.mode = "edbHalfEnabled";
+        var channelId = '15650186';
+        var parentId = '12660';
+        var channelName = 'politics/election';
+        var Article = {
+            "id": "15650186",
+            "title": "Trump billboard in Houston goes viral after being vandalized",
+            "url": "https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php",
+            "slug": "Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php",
+            "summary": "A Donald Trump billboard located off Houston's Telephone Road has been vandalized, sparking a viral social media post.",
+      "image": "https://s.hdnux.com/photos/01/14/56/35/20113223/9/rawImage.jpg",            "keywords": "",
+            "siteName": "HoustonChronicle.com",
+            "env": "production",
+            "comments": "true",
+            "isSensitive": false        };
+    </script>
+    
+    <!-- hearst/common/hdn_datalayer_header.tpl -->
+<script type="text/javascript">
+    // <![CDATA[
+
+        var HDN = HDN || {};
+        HDN.dataLayer = HDN.dataLayer || {};
+
+        // HDN.dataLayer object for content and href data
+        HDN.dataLayer.content = HDN.dataLayer.content || {};
+        HDN.dataLayer.href = HDN.dataLayer.href || {};
+
+    
+                    HDN.dataLayer.content.title = "Trump billboard in Houston goes viral after being vandalized";
+                HDN.dataLayer.content.subtitle = "";
+        HDN.dataLayer.content.objectId = "15650186";
+        
+        HDN.dataLayer.content.objectType = "article";
+                        HDN.dataLayer.content.sectionPath = ['politics', 'election 2020'];
+        HDN.dataLayer.content.pubDate = "2020-10-16 15:08:22";
+        HDN.dataLayer.content.lastModifiedDate = "2020-10-16 16:50:47";
+        HDN.dataLayer.content.wordCount = 328;
+        HDN.dataLayer.content.paragraphCount = 13;
+        HDN.dataLayer.content.keywords = [];
+        HDN.dataLayer.content.keySubjects = [];
+        HDN.dataLayer.content.keyCategoryTags = [];
+        HDN.dataLayer.content.keyPersons = [];
+        HDN.dataLayer.content.keyOrganizations = [];
+        HDN.dataLayer.content.keyConcepts = [];
+        HDN.dataLayer.content.keyCategories = [];
+        HDN.dataLayer.content.keyPlaces = [];
+        HDN.dataLayer.content.keyNlpCategories = ['/News/Politics'];
+        HDN.dataLayer.content.keyNlpPerson = ['Rogelio Garcia',' Donald Trump'];
+        HDN.dataLayer.content.keyNlpLocation = ['Houston',' Texas',' Telephone Road',' I-45',' Harris County'];
+        HDN.dataLayer.content.keyNlpOrganization = ['Houston Police Department'];
+        HDN.dataLayer.content.keyNlpEvent = [];
+        HDN.dataLayer.content.keyNlpWorkOfArt = [];
+        HDN.dataLayer.content.keyNlpConsumerGood = [];
+        HDN.dataLayer.content.keyNlpOther = ['Twitter',' Reddit',' rebecca.hennes@chron.com'];
+        HDN.dataLayer.content.keyNlpUnknown = [];
+        HDN.dataLayer.content.designTemplate = "design/article/premium_story_page.tpl";
+
+        // HDN.dataLayer object for source information
+        HDN.dataLayer.source = HDN.dataLayer.source || {};
+
+        HDN.dataLayer.source.authorName = "Rebecca Hennes";
+        HDN.dataLayer.source.authorTitle = "";
+        HDN.dataLayer.source.originalSourceSite = "";
+        HDN.dataLayer.source.publishingSite = "premiumchron";
+        HDN.dataLayer.source.sourceSite = "chron";
+        
+
+                    
+                // HDN.dataLayer object for sharing information
+        HDN.dataLayer.sharing = HDN.dataLayer.sharing || {};
+
+        HDN.dataLayer.sharing.openGraphUrl = "https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php";
+        HDN.dataLayer.sharing.openGraphType = "article";
+
+        HDN.dataLayer.href.pageUrl = "https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php";
+        HDN.dataLayer.href.canonicalUrl = "https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php";
+        HDN.dataLayer.href.pageUrlPath = window.location.pathname;
+        HDN.dataLayer.href.pageUrlPathFolders = window.location.pathname.replace(/[A-Za-z0-9-_.]+$/, '');
+        HDN.dataLayer.href.pageUrlQueryParams = window.location.search.replace(/^\?/, '');
+        HDN.dataLayer.href.pageUrlHash = window.location.hash;
+
+        // HDN.dataLayer object for site
+        HDN.dataLayer.site = HDN.dataLayer.site || {};
+
+    
+        // "geoloc" and "geocites" used for weather and other location based functionality
+        HDN.dataLayer.site.geoloc = "houston";
+
+
+        // Include comments data for page use
+        
+                                          
+              
+                                        HDN.dataLayer.site.commentsType = 'spotim';
+                HDN.dataLayer.site.commentSiteKey = 'sp_NxITuoE4';
+                HDN.dataLayer.site.entitledComments = '';
+                            
+                    HDN.dataLayer.site.sailthruId = '48e30b5083cf6bf47c519651453c9e8a';
+        
+        
+                    HDN.dataLayer.site.recaptchaKey = '6LdfZ1YUAAAAAKaNQ3lmSRWa-DnE4Y3AE55RpFFA';
+        
+        // HDN.dataLayer object for presentation information
+        HDN.dataLayer.presentation = HDN.dataLayer.presentation || {};
+
+        
+        HDN.dataLayer.presentation.hasSlideshow = true;
+        HDN.dataLayer.presentation.hasSlideshowListView = false;
+        HDN.dataLayer.presentation.hasVideo = false;
+        HDN.dataLayer.presentation.hasInteractive = true;
+
+        // HDN.dataLayer object for paywall information
+        HDN.dataLayer.paywall = HDN.dataLayer.paywall || {};
+
+                HDN.dataLayer.paywall.premiumStatus = "isPremium";
+        HDN.dataLayer.paywall.premiumEndDate = "2030-10-18 03:17:27";
+        HDN.dataLayer.content.displayTemplate = "";
+        
+        // paymeter
+                    HDN.dataLayer.paywall.policy = "meter";
+                                
+        HDN.dataLayer.ads = HDN.dataLayer.ads || {};
+                          HDN.dataLayer.ads.videoBidding = true;
+            
+HDN.abData = {};
+    
+
+(function () {
+    var findAbNames = function() {
+        var cookies=document.cookie.split(';');
+        var c,s,t;
+        for ( var asdf = 0 ; asdf < cookies.length ; asdf++ ) {
+            c = cookies[asdf].trim();
+            if ( 0 === c.indexOf('ab_name_') ) {
+                s = c.split('=');
+                if ( 2 === s.length ) {
+                    HDN.abData['_hasData'] = 1;
+                    if ( undefined === HDN.abData[s[0].substr(8)] ) {
+                        HDN.abData[s[0].substr(8)] = ( 'A' === s[1] ? 'C' : 'V1' );
+                    }
+                }
+            }
+        }
+    };
+    findAbNames();
+    if ( HDN.abData['_hasData'] ) {
+        delete(HDN.abData['_hasData']);
+
+        HDN.dataLayer.abtest = HDN.dataLayer.abtest || {};
+        HDN.dataLayer.abtest.experimentId = HDN.dataLayer.abtest.experimentId || [];
+        window.aps = window.aps || {};
+        window.aps.abtest = window.aps.abtest || '';
+
+        var abDataTmp = []
+        for ( var abDataKey in HDN.abData ) {
+            abDataTmp.push(abDataKey + '_' + HDN.abData[abDataKey]);
+        }
+
+        HDN.dataLayer.abtest.experimentId = HDN.dataLayer.abtest.experimentId.concat(abDataTmp);
+        if ( window.aps.abtest ) {
+            window.aps.abtest += ',';
+        }
+        window.aps.abtest += abDataTmp.join(',');
+    }
+})();
+
+
+
+if ( HDN.activeABTest &&
+     HDN.dataLayer.abTestProfiles ) {
+    if ( HDN.dataLayer.abTestProfiles.files ) {
+         if ( HDN.dataLayer.abTestProfiles.files.css &&
+              HDN.dataLayer.abTestProfiles.files.css['profiles_' + HDN.activeABTest + '_css'] ) {
+             (function () {
+                 var l = document.createElement('link');
+                 l.rel = 'stylesheet';
+                 l.type = 'text/css';
+                 l.media = 'all';
+                 l.href = HDN.dataLayer.abTestProfiles.files.css['profiles_' + HDN.activeABTest + '_css'];
+                 document.head.appendChild(l);
+             })();
+         }
+         if ( HDN.dataLayer.abTestProfiles.files.js &&
+              HDN.dataLayer.abTestProfiles.files.js['profiles_' + HDN.activeABTest + '_js'] ) {
+             (function () {
+                var s = document.createElement('script');
+                s.src = HDN.dataLayer.abTestProfiles.files.js['profiles_' + HDN.activeABTest + '_js'];
+                s.async = false;
+                s.defer = true;
+                document.head.appendChild(s);
+             })();
+         }
+    }
+    if ( HDN.dataLayer.abTestProfiles.items ) {
+         if ( HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_css'] ) {
+             (function () {
+                 var s = document.createElement('style');
+                 s.id = HDN.activeABTest + '_css_style_element';
+                 s.type = 'text/css';
+                 s.appendChild(document.createTextNode(HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_css']));
+                 document.head.appendChild(s);
+             })();
+         }
+         if ( HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_js'] ) {
+             (function () {
+                 var s = document.createElement('script');
+                 s.text = HDN.dataLayer.abTestProfiles.items['profiles_' + HDN.activeABTest + '_js'];
+                 document.head.appendChild(s);
+             })();
+         }
+    }
+}
+
+    // ]]>
+</script>
+<!-- e hearst/common/hdn_datalayer_header.tpl -->
+        
+    <!-- Hotfix Top freeform -->
+    
+    <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.79557 -->
+
+        <script>HDN.dataLayer.content.displayTemplate = "ard";</script>                    <link rel="stylesheet" href="/css/ferd/article/main.css?r2.1.19.1">
+        <link rel="stylesheet" href="/css/legacy.main.css?r2.1.19.1">    <script type="text/javascript" src="/js/ferd/hdn/libs/jquery-2.2.4.min.js"></script>
+            <!-- hmb:treg TREG JS -->
+        <script type="text/javascript" src="//treg.hearstnp.com/treg.js"></script>
+                <!-- hmb:js_header Static JS Bundle  -->
+        <script type="text/javascript" src="/js/ferd/article/main.js?r2.1.19.1"></script>
+    
+    <!-- ferd/common/head/meta_tags.tpl -->
+	<meta name="HandheldFriendly" content="true">
+	<meta name="twitter:dnt" content="on">
+	<meta name="apple-mobile-web-app-title" content="HoustonChronicle">
+	<meta name="environment" content="production">
+	<meta name="id" content="15650186">
+	<link rel="canonical" href="https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php" />
+			<link rel="amphtml" href="https://www.houstonchronicle.com/politics/election/amp/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php" />
+							<meta name="author.name" content="Rebecca Hennes" />
+	<meta name="author.title" content="Community News Web Producer" />
+		<meta name="description" content=" A Donald Trump billboard located off Houston&#039;s Telephone Road has been vandalized, sparking a viral social media post. "/>
+	<meta name="date.release" content="2020-10-16T15:08:22+00:00" />
+	<meta name="time.release" content="2020-10-16T15:08:22+00:00" />
+	<meta name="sections" content="Politics,Election 2020" />
+		<meta name="subject" content="Rogelio Garcia, Donald Trump, Houston, Texas, Telephone Road, I-45, Harris County, Houston Police Department, Twitter, Reddit, rebecca.hennes@chron.com" />
+    <meta name="news_keywords" content="Rogelio Garcia, Donald Trump, Houston, Texas, Telephone Road, I-45, Harris County, Houston Police Department, Twitter, Reddit, rebecca.hennes@chron.com" />
+    
+		<meta name="nlpOrganization" content="Houston Police Department" />
+			<meta name="nlpPerson" content="Rogelio Garcia, Donald Trump" />
+			<meta name="nlpLocation" content="Houston, Texas, Telephone Road, I-45, Harris County" />
+						<meta name="nlpOther" content="Twitter, Reddit, rebecca.hennes@chron.com" />
+						<meta name="nlpCategories" content="%2FNews%2FPolitics" />
+	<!-- e ferd/common/head/meta_tags.tpl -->    <!-- ferd/common/head/opengraph.tpl -->
+<meta property="fb:admins" content="100006394927810"/><meta property="fb:app_id" content="653292111352579"/><meta property="fb:pages" content="105702905593"/><meta property="fb:pages" content="307851324523"/><meta property="fb:pages" content="12852567813"/><meta property="fb:pages" content="480760515417232"/><meta property="fb:pages" content="288240529145"/><meta property="fb:pages" content="316774245761"/><meta property="fb:pages" content="984197758297116"/><meta property="fb:pages" content="7457442370"/><meta property="fb:pages" content="207033189701"/><meta property="fb:pages" content="207346283795"/><meta property="fb:pages" content="222959748728"/><meta property="fb:pages" content="207042068180"/><meta property="fb:pages" content="72983690774"/><meta property="fb:pages" content="339413234035"/><meta property="fb:pages" content="343689323559"/><meta property="fb:pages" content="345828366626"/><meta property="fb:pages" content="234821559861394"/><meta property="fb:pages" content="335699426867"/><meta property="fb:pages" content="10150105039485602"/><meta property="fb:pages" content="338983127562"/><meta property="fb:pages" content="364516539001"/><meta property="fb:pages" content="337922332042"/><meta property="fb:pages" content="115637335153191"/><meta property="fb:pages" content="372011535931"/><meta property="fb:pages" content="333376634908"/><meta property="fb:pages" content="127590790608884"/><meta property="fb:pages" content="141923885872653"/><meta property="fb:pages" content="655037391286291"/><meta property="fb:pages" content="320774811368833"/><meta property="fb:pages" content="1740489152861748"/><meta property="fb:pages" content="469700473093040"/><meta property="fb:pages" content="386754203367"/><meta property="fb:pages" content="556449374478585"/><meta property="fb:pages" content="340999853450"/><meta property="fb:pages" content="350771491032"/><meta property="fb:pages" content="1120648627959218"/><meta property="fb:pages" content="342017778245"/><meta property="fb:pages" content="338463361591"/><meta property="fb:pages" content="138772706196968"/><meta property="fb:pages" content="1641688532739111"/><meta property="fb:pages" content="326312697536"/><meta property="fb:pages" content="353120110016"/><meta property="fb:pages" content="343366744658"/><meta property="fb:pages" content="335009494554"/><meta property="fb:pages" content="347261603104"/><meta property="fb:pages" content="350924013892"/><meta property="fb:pages" content="257724773860"/><meta property="fb:pages" content="361203926417"/><meta property="fb:pages" content="367174215398"/><meta property="fb:pages" content="284154645394"/><meta property="fb:pages" content="334501182354"/><meta property="fb:pages" content="350279743224"/><meta property="fb:pages" content="154340691263654"/><meta property="fb:pages" content="147848678611852"/><meta property="fb:pages" content="361381078011"/><meta property="fb:pages" content="362831597677"/><meta name="og:datePublished" content="2020-10-16T15:08:22+00:00"/><meta property="og:locale" content="en_US"/><meta property="og:type" content="article"/><meta property="og:title" content="Trump billboard in Houston goes viral after being vandalized"/><meta property="og:description" content="A Donald Trump billboard located off Houston's Telephone Road has been vandalized, sparking a viral social media post."/><meta property="og:url" content="https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php"/><meta property="og:site_name" content="HoustonChronicle.com"/><meta property="og:image" content="https://s.hdnux.com/photos/01/14/56/35/20113223/9/rawImage.jpg"/><meta property="article:published_time" content="2020-10-16T15:08:22+00:00" /><meta property="article:opinion" content="false" /><meta property="article:author" content="Rebecca Hennes"/><meta property="article:section" content="Election 2020" /><meta property="article:tag" content="Rogelio Garcia" /><meta property="article:tag" content="Donald Trump" /><meta property="article:tag" content="Houston" /><meta property="article:tag" content="Texas" /><meta property="article:tag" content="Telephone Road" /><meta property="article:tag" content="I-45" /><meta property="article:tag" content="Harris County" /><meta property="article:tag" content="Houston Police Department" /><meta property="article:tag" content="Twitter" /><meta property="article:tag" content="Reddit" /><meta property="article:tag" content="rebecca.hennes@chron.com" /><meta property="article:content_tier" content="metered" />
+<!-- e ferd/common/head/opengraph.tpl -->    <!-- ferd/common/head/twittercard.tpl -->
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:image" content="https://s.hdnux.com/photos/01/14/56/35/20113223/9/rawImage.jpg"/>
+<meta name="twitter:description" content="&lt;p&gt;A Donald Trump billboard located off Houston&#039;s Telephone Road has been vandalized, sparking a viral social media post.&lt;/p&gt;"/>
+	<meta name="twitter:title" content="Trump billboard in Houston goes viral after being vandalized"/>
+	<meta name="twitter:site" content="@houstonchron"/>
+<!-- e ferd/common/head/twittercard.tpl -->    <!-- ferd/hearst/templates/free/article/head/analytics.tpl -->
+<script>var omni_channelPath = "Politics :: Election 2020";var omni_title = "Trump billboard in Houston goes viral after being vandalized";var omni_bizObjectId = "15650186";var omni_className = "article";var omni_publicationDate = "2020-10-16T15:08:22+00:00";var omni_sourceSite ="chron";var omni_authorName = "Rebecca Hennes";var omni_authorTitle = "";var omni_premiumStatus = "isPremium";var omni_premiumEndDate = "1918541847";var omni_originalSource = "";var omni_pageNumber = "0";var omni_breakingNewsFlag = "";var omni_localNewsFlag = "";var omni_isListView = "0";var omni_paywallSite = "1";var omni_displayTemplate = "ard";
+	</script>
+
+<!-- e ferd/hearst/templates/free/article/head/analytics.tpl -->    <!-- ferd/common/head/schema_NewsArticle.tpl -->
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "NewsArticle",
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php"
+		},
+		"headline": "Trump billboard in Houston goes viral after being vandalized",
+		"image": {
+			"@type": "ImageObject",
+			"url":   "https://s.hdnux.com/photos/01/14/56/35/20113223/9/rawImage.jpg"
+		},
+		"datePublished": "2020-10-16T15:08:22+00:00",
+		"dateModified": "2020-10-16T16:50:47+00:00",
+		"author": [
+					{"@type": "Person",
+			"name": "Rebecca Hennes",
+			"jobTitle": "Community News Web Producer"
+			}					],
+		"publisher": {
+			"@type": "Organization",
+			"name": "Houston Chronicle",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://www.houstonchronicle.com/img/ldjson_logo.png",
+				"width": 600,
+				"height": 60
+			}
+		},
+		"description": "&lt;p&gt;A Donald Trump billboard located off Houston&#039;s Telephone Road has been vandalized, sparking a viral social media post.&lt;/p&gt;"
+					, "isAccessibleForFree": "False",
+				"hasPart": {
+					"@type": "WebPageElement",
+					"isAccessibleForFree": "False",
+					"cssSelector": ".article"
+				}
+			}
+	</script>
+<!-- e ferd/common/head/schema_NewsArticle.tpl -->    <!-- ferd/common/head/schema_SearchAction.tpl -->
+	<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "WebSite",
+		"url": "https://HoustonChronicle.com",
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://www.houstonchronicle.com/search/?action=search&sitelinks=1&searchindex=solr&query={search_term_string}",
+			"query-input": "required name=search_term_string"
+		}
+	}
+	</script>
+<!-- e ferd/common/head/schema_SearchAction.tpl -->    <!-- ferd/home/third_party_assets.tpl -->
+
+    <!-- hearst/home/header_sailthru.tpl -->
+<meta property="sailthru.title" content="Trump billboard in Houston goes viral after being vandalized" /><meta name="sailthru.date" content="2020-10-16 11:50:00 -0500" /><meta name="sailthru.author" content="Rebecca Hennes" /><meta name="sailthru_uid" content="15650186" /><meta name="sailthru_pubname" content="houston-chronicle" /><meta name="sailthru_siteid" content="33" /><meta name="sailthru.tags" content="rogelio-garcia,donald-trump,houston,texas,telephone-road,i-45,harris-county,houston-police-department,twitter,reddit,rebecca-hennes-chron-com,houston-police-department,rogelio-garcia,donald-trump,houston,texas,telephone-road,i-45,harris-county,twitter,reddit,rebecca-hennes-chron-com,2fnews-2fpolitics" /><meta name="sailthru_isPremium" content="true" /><meta name="sailthru.image.thumb" content="https://s.hdnux.com/photos/01/14/56/35/20113223/9/sailthruImage.jpg" />
+<!-- e hearst/home/header_sailthru.tpl -->
+    <!-- hearst/common/sailthruJS.tpl -->
+<!-- hmb:jssailthru js for SailThru -->
+<script language="javascript" type="text/javascript" src="//ak.sail-horizon.com/spm/spm.v1.min.js" data-sailthru-setup="true"></script>
+<script type="text/javascript">
+    $(function() {
+        if (window.Sailthru) {
+            Sailthru.init({ "customerId": HDN.dataLayer.site.sailthruId, "autoTrackPageViews": false, "useStoredTags": true});
+            Sailthru.track('pageview', {
+                url: HDN.dataLayer.sharing.openGraphUrl });
+        }
+    });
+</script>
+<!-- e hearst/common/sailthruJS.tpl --><meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7" />
+<!-- e ferd/home/third_party_assets.tpl -->    <link rel="shortcut icon" href="/favicon.ico">
+            <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png"/>
+    
+                                            <!-- hmb:juice Juice (loadAds.js) -->
+        <script src="https://aps.hearstnp.com/Scripts/loadAds.js"></script>
+                    <!-- hmb:ensighten Ensighten  -->
+        <!-- ferd/common/ensighten.js.tpl -->
+<script type="text/javascript">!function(e){var t="//nexus.ensighten.com/hearst/news/Bootstrap.js";-1<e.cookie.indexOf("nsghtn")&&(-1<e.cookie.indexOf("nsghtn=test-dev")?(console.log("Ensighten :: Test-Dev"),t="//nexus-test.ensighten.com/hearst/news-dev/Bootstrap.js"):-1<e.cookie.indexOf("nsghtn=test")?(console.log("Ensighten :: Test"),t="//nexus-test.ensighten.com/hearst/news/Bootstrap.js"):-1<e.cookie.indexOf("nsghtn=dev")&&(console.log("Ensighten :: Dev"),t="//nexus.ensighten.com/hearst/news-dev/Bootstrap.js")),e.write("<script src='"+e.location.protocol+t+"'><\/script>")}(document);</script>
+<!-- e ferd/common/ensighten.js.tpl -->                <!-- hmb:ensighten Taboola  -->
+                                
+                            
+                <script type="text/javascript">
+                    
+                    (function () {
+                        window._taboolaNetworkMode = false;
+                        
+                        window._taboola = window._taboola || [];
+                        window._taboolaHDNPageLabel = window._taboolaHDNPageLabel || 'article';
+                        var tobj = {};
+                        tobj[window._taboolaHDNPageLabel] = 'auto';
+                        window._taboola.push(tobj);
+                        !function (e, f, u, i) {
+                            if (!document.getElementById(i)){
+                                e.async = 1;
+                                e.src = u;
+                                e.id = i;
+                                f.parentNode.insertBefore(e, f);
+                            }
+                        }(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/hearstlocalnews-houstonchronicle/loader.js', 'tb_loader_script');
+                        if(window.performance && typeof window.performance.mark == 'function') {
+                            window.performance.mark('tbl_ic');
+                        }
+                    })();
+                </script>
+                
+                                        
+            <script type="text/javascript">
+                (function () {
+                    window._newsroom = window._newsroom || [];
+                    
+                    !function(e,f,u){
+                        e.async = 1;
+                        e.src = u;
+                        f.parentNode.insertBefore(e,f);
+                    }(document.createElement('script'),document.getElementsByTagName('script')[0],'//c2.taboola.com/nr/hearstlocalnews-houstonchronicle/newsroom.js');
+                })();
+            </script>
+            
+                                    <script src="https://cdn.blueconic.net/hearst.js"></script>
+                <!-- CSS/JS Hotfix freeform - all premium -->
+    <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.46358 -->
+<style>@media screen and (min-width: 768px){.nav-menu {width: 187px;}</style>
+
+<style>
+.iframeContainer { height:0;margin-bottom:24px;overflow:hidden;position:relative; }
+.iframeContainer-16x9 { padding-top:56.25%; }
+@media screen and (min-width: 768px) { .iframeContainer-16x9 { padding-top:calc((100% - 368px) * .5625); width: 520px; }}
+.iframeContainer-4x3 { padding-top: 75%; }
+.iframeContainer iframe { height:100%;left:0;position:absolute;top:0;width:100%; }
+</style>
+
+
+<!-- Begin code for WCM-3983 -->
+<script type="text/javascript">
+if ( document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+	addTaboolaClickClass();
+} else {
+	document.addEventListener("DOMContentLoaded", function() { addTaboolaClickClass(); });
+};
+var addTaboolaClickClass = function () {
+	var tbfrms = document.getElementsByClassName('taboola-frame');
+	for (var i = 0; i < tbfrms.length; i++) {
+		tbfrms.item(i).classList.add('.taboola-frame');
+	}
+};
+</script>
+<!-- End code for WCM-3983 -->
+
+<script>
+/* v 0.0.1 */
+(function() {
+var Banner = {
+	init: function () {
+		var _this = this;
+		['mousedown', 'scroll'].forEach(function (e) {
+			window.addEventListener(e, Banner.onFirstInteraction, false);
+		});
+	},
+	onFirstInteraction: function () {
+		var _this = this;
+		['mousedown', 'scroll'].forEach(function (e) {
+			window.removeEventListener(e, Banner.onFirstInteraction, false);
+		});
+		Banner.addModule();
+	},
+	addModule: function () {
+		console.log("Add banner");
+		var script = document.createElement('script');
+		script.async = true
+		script.id  = 'banner_' + (new Date()).getTime();
+		script.src = "https://projects.hearstnp.com/utils/banner/banner.js";
+		document.body.appendChild(script);
+	}
+};
+Banner.init();
+})();
+</script>
+
+<!-- Begin code for ENG-2668 -->
+<style>
+.filler-3x2, .filler-3x2.filler-1x1 { padding: 0; }
+</style>
+<!-- End code for ENG-2668 -->
+    <!-- CSS/JS ARD Hotfix freeform - all premium -->
+    <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.94499 -->
+<!-- ENG-3488 -->
+<script src="https://projects.sfchronicle.com/shared/js/responsive-frame.js"></script>
+<!-- e ENG-3488 -->
+<!-- ENG-3834 -->
+<style>
+  .alert{background-color:#000;bottom:0;box-sizing:border-box;color:#fff;font-family:Helvetica,sans-serif;font-size:16px;font-weight:600;left:50%;line-height:1.25;overflow:hidden;padding:10px;position:fixed;transform:translateX(-50%);width:100vw;z-index:5000000}.alert .close{border-radius:8px;color:#fff;display:block;position:absolute;right:10px;height:16px;overflow:hidden;top:10px;width:16px}.alert .close::after{background-color:#fff;content:'';display:block;height:2px;left:-6px;position:relative;top:4px;transform:rotate(-45deg);width:30px}.alert .close::before{background-color:#fff;content:'';display:block;height:2px;left:-5px;position:relative;top:9px;transform:rotate(45deg);width:30px}.alert>div{box-sizing:border-box;max-width:1200px;margin:0 auto;position:relative;padding-right:34px}
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    if (/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {var site=HDN.domain,name=site.charAt(0).toUpperCase()+site.slice(1),section=document.createElement("section"),close=document.createElement("a");close.className="close",close.href="#",close.addEventListener("click",function(e){e.stopPropagation(),e.preventDefault(),e.target.parentElement.style.display="none"});var HTML="<div>Thank you for visiting "+name+". You are using an older browser that may impact your reading experience. For the best experience, we recommend you use Chrome, Safari, Firefox, or Edge.</div>";section.className="alert",section.id="warning",section.innerHTML=HTML,section.appendChild(close),document.getElementsByTagName("body")[0].appendChild(section);}
+  }, false);
+</script>
+<!-- e ENG-3834 -->
+    <!-- CSS/JS Hotfix freeform -->
+    <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.13324 -->
+<!-- ENG-1230 -->
+<meta name="apple-itunes-app" content="app-id=453564805">
+
+<script>
+// WCM-3536 TSN styling for TSN logo to return to TSN homepage when clicked
+document.addEventListener("DOMContentLoaded", function(event) { 
+    if(window.location.href.indexOf("texas-sports-nation") !== -1) {
+        var file = "https://www.houstonchronicle.com/file/291/8/2918-tsn.css";
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+
+        link.rel = "stylesheet";
+        link.type = "text/css";
+        link.href = file;
+
+        head.appendChild(link);
+
+        var headerLink = document.getElementsByClassName("logo-link")[0];
+        if(headerLink) {
+            headerLink.setAttribute("href", "/sports/texas-sports-nation");
+        }
+
+        var sectionLink = document.getElementsByClassName("color-link")[0];
+        if(sectionLink) {
+            sectionLink.setAttribute("href", "/sports/texas-sports-nation");
+        }
+
+        var wideLink = document.getElementById("sH").childNodes[1];
+        if(wideLink) {
+            wideLink.setAttribute("href", "/sports/texas-sports-nation");
+            document.getElementsByTagName('link')[0].disabled = true;
+            
+            var file2 = "https://www.houstonchronicle.com/file/329/0/3290-wide.css";
+            var head2 = document.getElementsByTagName('head')[0];
+            var link2 = document.createElement('link');
+
+            link2.rel = "stylesheet";
+            link2.type = "text/css";
+            link2.href = file2;
+
+            head2.appendChild(link2);
+        }
+    }
+});
+</script>
+<style>.sports-texas-sports-nation-texans .article-related { border-top: 5px solid #ccc; } .sports-texas-sports-nation-texans .asset_zone.zoneInlineE { border-bottom: none; border-top: none; }</style>
+    <!-- CSS/JS ARD Hotfix freeform -->
+    <!-- hearst/item/standalone.tpl -->
+<!-- mid:freeform.91545 -->
+<style>
+@media (min-width: 996px) { #AP951 { padding-top: 1px; } #AP951>div:not(:empty) { display: block; } }
+.reNew .gigya_menu { display: none !important; }
+</style>
+<link rel="stylesheet" href="/css/legacy.main.css">
+<style>.pageHeader[data-stage="2"] .pageHeader--titleBar { display: flex; }</style>
+
+    
+            </head>
+<!-- e ferd/hearst/templates/premium/article/header_main.tpl -->                 <body data-parent="" data-location="politics politics-election" >
+                                    <!-- design/article/premium_story_page.tpl -->
+    <!-- ferd/hearst/templates/article/types/premium_story.tpl -->
+            <!-- hearst/common/siteBranding.tpl -->
+<header class="pageHeader standard" data-stage="0">
+    <div class="pageHeader--progress"><div class="pageHeader--progress-bar" id="progress"></div></div>    <div class="pageHeader--skipLink-wrapper">
+        <a href="#content" class="pageHeader--skipLink">Skip to main content</a>
+    </div>
+    <div class="pageHeader--wrapper lock">
+        <div id="navToggle" class="pageHeader--menuButton navToggle" aria-expanded="false" aria-labelledby="navigation" tabindex="0"></div>                <a id="mastheadLogo" href="/"  class="pageHeader--logo mastheadLogo fade show hdn-analytics" role="img" aria-label="Homepage - Site Logo" data-hdn-analytics="visit|masthead|navigation|0"></a>
+                    <div id="titleBar" class="pageHeader--titleBar titleBar fade show hidden">
+                                    <div class="pageHeader--titleBar-subsection">Currently Reading</div>
+                    <div class="pageHeader--titleBar-title">Trump billboard in Houston goes viral after being vandalized</div>
+                            </div>
+                            <div id="nextStory" class="pageHeader--nextStory nextStory fade show hidden"></div>
+                            <ul class="pageHeader--links fade show">
+                                                                                                                                        <li id="subscription" class="pageHeader--links-nonsub subscribeButton fade show hidden">
+                                <a class="visible-xs-f subscribe" href="https://subscription.houstonchronicle.com/checkout/354/771/?origin=button&ipid=wcm">Subscribe</a>
+                                <button class="hidden-xs" data-link="https://subscription.houstonchronicle.com/checkout/354/771/?origin=button&ipid=wcm">Subscribe</button>
+                            </li>
+                                                            <li id="eEdition" class="pageHeader--links-sub eEdition fade show hidden"><a href="/e-edition">e-edition</a></li>
+                                                                                                        <!-- hearst/common/signin.tpl -->
+<li class="treg-is-gigya gigya_menu ">
+    <div class="gya-title expandable treg-conditional treg-not-logged-in">
+        <a class="signIn" tabindex="0">Sign In</a>
+    </div>
+    <div class="gya-title expandable treg-conditional treg-logged-in"><span></span></div>
+    <div class="gya-content expandable">
+        <div class="treg-gya-login-widget"></div>
+    </div>
+</li>
+<!-- e hearst/common/signin.tpl -->                <li class="pageHeader--searchButton searchToggle" aria-expanded="false" aria-labelledby="searchField-aria" tabindex="0"></li>            </ul>
+                            <div class="pageHeader--search searchField" id="searchField-aria">
+                
+                <form class="pageHeader--search-form" action="/search/" method="get">
+                    <input type="hidden" name="action" value="search" />
+                    <input type="hidden" name="firstRequest" value="1" />
+                    <input type="hidden" name="searchindex" value="solr" />
+                    <div class="fieldset">
+                        <input class="pageHeader--search-input" id="search" name="query" type="text" value="" placeholder="Search" />
+                        <button class="searchButton btn" value="" name="search" type="submit"></button>
+                    </div>
+                </form>
+            </div>
+            </div>
+                                    
+        <!-- hearst/home/HNavigation.tpl -->
+<!-- hearst/home/navigation.tpl -->
+     
+    <!-- hearst/common/siteNavigation.tpl -->
+<nav id="navigation" class="navigation"><div class="navigation--wrapper lock"><div class="navigation--menu"><ul class="hidden-sm hidden-md hidden-lg hidden-xl"><li class="single" data-length="1" data-index="1"><a href="https://subscription.houstonchronicle.com/checkout/354/771/?origin=hamburger" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5514" data-hdn-analytics="visit|Subscribe|navigation-ard|2">Subscribe</a></li><li class="parent topLevel" data-length="3" data-index="2"><span role="heading" aria-level="2"><a  href="/coronavirus/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5479" data-hdn-analytics="visit|Coronavirus|navigation-ard|3">Coronavirus</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 44px"><li class="child"><a  href="/coronavirus/memorial/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5546" data-hdn-analytics="visit|Coronavirus-Memorial|navigation-ard|1">Memorial</a></li><li class="child"><a  href="/projects/2020/texas-shutdown-covid-timeline" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5593" data-hdn-analytics="visit|Coronavirus-Timeline|navigation-ard|2">Timeline</a></li></ul></span></li><li class="parent topLevel" data-length="8" data-index="3"><span role="heading" aria-level="2"><a  href="/news/houston-texas/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1223" data-hdn-analytics="visit|Local|navigation-ard|4">Local</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="/news/houston-texas/houston/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1224" data-hdn-analytics="visit|Local-Houston|navigation-ard|1">Houston</a></li><li class="child"><a  href="/news/education/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1232" data-hdn-analytics="visit|Local-Education|navigation-ard|2">Education</a></li><li class="child"><a  href="/news/houston-texas/texas/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3364" data-hdn-analytics="visit|Local-Texas|navigation-ard|3">Texas</a></li><li class="child"><a  href="/local/transportation/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3365" data-hdn-analytics="visit|Local-Transportation|navigation-ard|4">Transportation</a></li><li class="child"><a  href="https://www.legacy.com/obituaries/houstonchronicle/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1220" data-hdn-analytics="visit|Local-Obituaries|navigation-ard|5">Obituaries</a></li><li class="child"><a  href="/news/houston-weather/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5445" data-hdn-analytics="visit|Local-Weather|navigation-ard|6">Weather</a></li><li class="child"><a  href="/projects/trackers/houston-flood-map/" target="_blank" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5611" data-hdn-analytics="visit|Local-Texas Flood Map|navigation-ard|7">Texas Flood Map</a></li></ul></span></li><li class="parent topLevel" data-length="9" data-index="4"><span role="heading" aria-level="2"><a  href="/business/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1269" data-hdn-analytics="visit|Business|navigation-ard|5">Business</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="/business/fuelfix/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5196" data-hdn-analytics="visit|Business-Fuel Fix|navigation-ard|1">Fuel Fix</a></li><li class="child"><a  href="/business/texas-inc/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5592" data-hdn-analytics="visit|Business-Texas Inc.|navigation-ard|2">Texas Inc.</a></li><li class="child"><a  href="/business/energy/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1272" data-hdn-analytics="visit|Business-Energy|navigation-ard|3">Energy</a></li><li class="child"><a  href="/business/houston-how-to/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5369" data-hdn-analytics="visit|Business-Houston How To|navigation-ard|4">Houston How To</a></li><li class="child"><a  href="/business/real-estate/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1275" data-hdn-analytics="visit|Business-Real Estate|navigation-ard|5">Real Estate</a></li><li class="child"><a  href="/business/retail/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="2642" data-hdn-analytics="visit|Business-Retail|navigation-ard|6">Retail</a></li><li class="child"><a  href="/business/top-workplaces/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1317" data-hdn-analytics="visit|Business-Top Workplaces|navigation-ard|7">Top Workplaces</a></li><li class="child"><a  href="/techburger/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4426" data-hdn-analytics="visit|Business-TechBurger|navigation-ard|8">TechBurger</a></li></ul></span></li><li class="parent topLevel" data-length="11" data-index="5"><span role="heading" aria-level="2"><a  href="/texas-sports-nation/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="4540" data-hdn-analytics="visit|Texas Sports Nation|navigation-ard|6">Texas Sports Nation</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 220px"><li class="child"><a  href="/texas-sports-nation/texans/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1261" data-hdn-analytics="visit|Texas Sports Nation-Texans|navigation-ard|1">Texans</a></li><li class="child"><a  href="/texas-sports-nation/astros/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1262" data-hdn-analytics="visit|Texas Sports Nation-Astros|navigation-ard|2">Astros</a></li><li class="child"><a  href="/texas-sports-nation/rockets/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1263" data-hdn-analytics="visit|Texas Sports Nation-Rockets|navigation-ard|3">Rockets</a></li><li class="child"><a  href="/texas-sports-nation/dynamo/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5478" data-hdn-analytics="visit|Texas Sports Nation-Dynamo & Dash|navigation-ard|4">Dynamo & Dash</a></li><li class="child"><a  href="/texas-sports-nation/hs-sports/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1265" data-hdn-analytics="visit|Texas Sports Nation-HS Sports|navigation-ard|5">HS Sports</a></li><li class="child"><a  href="/texas-sports-nation/jerome-solomon/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5543" data-hdn-analytics="visit|Texas Sports Nation-Jerome Solomon|navigation-ard|6">Jerome Solomon</a></li><li class="child"><a  href="/texas-sports-nation/brian-t-smith/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5544" data-hdn-analytics="visit|Texas Sports Nation-Brian T. Smith|navigation-ard|7">Brian T. Smith</a></li><li class="child"><a  href="/texas-sports-nation/john-mcclain/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5545" data-hdn-analytics="visit|Texas Sports Nation-John McClain|navigation-ard|8">John McClain</a></li><li class="child"><a  href="/texas-sports-nation/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4013" data-hdn-analytics="visit|Texas Sports Nation-Texas Sports Nation|navigation-ard|9">Texas Sports Nation</a></li><li class="child"><a  href="/texas-sports-nation/college/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1266" data-hdn-analytics="visit|Texas Sports Nation-College Sports|navigation-ard|10">College Sports</a></li></ul></span></li><li class="parent topLevel" data-length="6" data-index="6"><span role="heading" aria-level="2"><a  href="/politics/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3625" data-hdn-analytics="visit|Politics|navigation-ard|7">Politics</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 132px"><li class="child"><a  href="/politics/election/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5446" data-hdn-analytics="visit|Politics-Election 2020|navigation-ard|1">Election 2020</a></li><li class="child"><a  href="https://www.houstonchronicle.com/projects/2020/voter-guide/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5590" data-hdn-analytics="visit|Politics-Voter Guide|navigation-ard|2">Voter Guide</a></li><li class="child"><a  href="/politics/houston/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1230" data-hdn-analytics="visit|Politics-Houston|navigation-ard|3">Houston</a></li><li class="child"><a  href="/politics/texas/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3626" data-hdn-analytics="visit|Politics-Texas|navigation-ard|4">Texas</a></li><li class="child"><a  href="/politics/us-world/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3627" data-hdn-analytics="visit|Politics-U.S. & World|navigation-ard|5">U.S. & World</a></li></ul></span></li><li class="single" data-length="1" data-index="7"><a href="/neighborhood/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3366" data-hdn-analytics="visit|Suburbs|navigation-ard|8">Suburbs</a></li><li class="parent topLevel" data-length="8" data-index="8"><span role="heading" aria-level="2"><a  href="https://preview.houstonchronicle.com/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1221" data-hdn-analytics="visit|Preview|navigation-ard|9">Preview</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="https://preview.houstonchronicle.com/category/movies-tv" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1226" data-hdn-analytics="visit|Preview-Movies & TV|navigation-ard|1">Movies & TV</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/music" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1239" data-hdn-analytics="visit|Preview-Music|navigation-ard|2">Music</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/art-exhibits" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5449" data-hdn-analytics="visit|Preview-Arts & Exhibits|navigation-ard|3">Arts & Exhibits</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/classical" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5450" data-hdn-analytics="visit|Preview-Classical|navigation-ard|4">Classical</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/dance" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5451" data-hdn-analytics="visit|Preview-Dance|navigation-ard|5">Dance</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/dining" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5452" data-hdn-analytics="visit|Preview-Dining|navigation-ard|6">Dining</a></li><li class="child"><a  href="https://preview.houstonchronicle.com/category/theater" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5453" data-hdn-analytics="visit|Preview-Theater|navigation-ard|7">Theater</a></li></ul></span></li><li class="parent topLevel" data-length="5" data-index="9"><span role="heading" aria-level="2"><a  href="/lifestyle/renew-houston/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5201" data-hdn-analytics="visit|ReNew Houston|navigation-ard|10">ReNew Houston</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 88px"><li class="child"><a  href="/lifestyle/renew-houston/wellness/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5436" data-hdn-analytics="visit|ReNew Houston-Wellness|navigation-ard|1">Wellness</a></li><li class="child"><a  href="/lifestyle/renew-houston/nutrition/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5437" data-hdn-analytics="visit|ReNew Houston-Nutrition|navigation-ard|2">Nutrition</a></li><li class="child"><a  href="/lifestyle/renew-houston/fitness/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5438" data-hdn-analytics="visit|ReNew Houston-Fitness|navigation-ard|3">Fitness</a></li><li class="child"><a  href="/lifestyle/renew-houston/health/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5439" data-hdn-analytics="visit|ReNew Houston-Health|navigation-ard|4">Health</a></li></ul></span></li><li class="parent topLevel" data-length="10" data-index="10"><span role="heading" aria-level="2"><a  href="/food-culture/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3350" data-hdn-analytics="visit|Food & Culture|navigation-ard|11">Food & Culture</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 220px"><li class="child"><a  href="/lifestyle/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1245" data-hdn-analytics="visit|Food & Culture-Lifestyle|navigation-ard|1">Lifestyle</a></li><li class="child"><a  href="/entertainment/restaurants-bars/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1222" data-hdn-analytics="visit|Food & Culture-Restaurants & Bars|navigation-ard|2">Restaurants & Bars</a></li><li class="child"><a  href="/travel/explore/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5580" data-hdn-analytics="visit|Food & Culture-Travel/Explore|navigation-ard|3">Travel/Explore</a></li><li class="child"><a  href="/lifestyle/society/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1250" data-hdn-analytics="visit|Food & Culture-Society|navigation-ard|4">Society</a></li><li class="child"><a  href="/entertainment/restaurants-bars/reviews/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5223" data-hdn-analytics="visit|Food & Culture-Restaurant Reviews|navigation-ard|5">Restaurant Reviews</a></li><li class="child"><a  href="/lifestyle/style/design/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5447" data-hdn-analytics="visit|Food & Culture-Design|navigation-ard|6">Design</a></li><li class="child"><a  href="/life-and-arts/home-and-garden/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3353" data-hdn-analytics="visit|Food & Culture-Home & Garden|navigation-ard|7">Home & Garden</a></li><li class="child"><a  href="/entertainment/restaurants-bars/barbecue/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3147" data-hdn-analytics="visit|Food & Culture-Barbecue|navigation-ard|8">Barbecue</a></li><li class="child"><a  href="/lifestyle/food/recipes/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1616" data-hdn-analytics="visit|Food & Culture-Recipes|navigation-ard|9">Recipes</a></li></ul></span></li><li class="parent topLevel" data-length="5" data-index="11"><span role="heading" aria-level="2"><a  href="/opinion/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1257" data-hdn-analytics="visit|Opinion|navigation-ard|12">Opinion</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 88px"><li class="child"><a  href="/opinion/editorials/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1311" data-hdn-analytics="visit|Opinion-Editorials|navigation-ard|1">Editorials</a></li><li class="child"><a  href="/opinion/outlook/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1312" data-hdn-analytics="visit|Opinion-Outlook|navigation-ard|2">Outlook</a></li><li class="child"><a  href="/opinion/letters/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1258" data-hdn-analytics="visit|Opinion-Letters to the Editor|navigation-ard|3">Letters to the Editor</a></li><li class="child"><a  href="/opinion/columnists/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1259" data-hdn-analytics="visit|Opinion-Columnists|navigation-ard|4">Columnists</a></li></ul></span></li><li class="parent topLevel" data-length="8" data-index="12"><span role="heading" aria-level="2"><a  href="/news/investigations/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="1784" data-hdn-analytics="visit|Special Projects|navigation-ard|13">Special Projects</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 176px"><li class="child"><a  href="/local/hc-investigations/broken-trust/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5042" data-hdn-analytics="visit|Special Projects-Broken Trust|navigation-ard|1">Broken Trust</a></li><li class="child"><a  href="/local/investigations/abuse-of-faith/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4826" data-hdn-analytics="visit|Special Projects-Abuse of Faith|navigation-ard|2">Abuse of Faith</a></li><li class="child"><a  href="/local/investigations/heart-failure/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="3607" data-hdn-analytics="visit|Special Projects-Heart Failure|navigation-ard|3">Heart Failure</a></li><li class="child"><a  href="/entertainment/top-100-restaurants/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="1793" data-hdn-analytics="visit|Special Projects-Top 100 Restaurants|navigation-ard|4">Top 100 Restaurants</a></li><li class="child"><a  href="/local/investigations/out-of-control/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="4201" data-hdn-analytics="visit|Special Projects-Out of Control|navigation-ard|5">Out of Control</a></li><li class="child"><a  href="/election2020/primaries-voter-guide/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5041" data-hdn-analytics="visit|Special Projects-Voter Guide|navigation-ard|6">Voter Guide</a></li><li class="child"><a  href="/local/education/schoolreportcard/search/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5483" data-hdn-analytics="visit|Special Projects-School Report Card|navigation-ard|7">School Report Card</a></li></ul></span></li><li class="single" data-length="1" data-index="13"><a href="/podcasts-video/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3850" data-hdn-analytics="visit|Podcasts|navigation-ard|14">Podcasts</a></li><li class="parent topLevel" data-length="11" data-index="14"><span role="heading" aria-level="2"><a  href="/newsletters/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3386" data-hdn-analytics="visit|Newsletters|navigation-ard|15">Newsletters</a><span class="toggle navigation--item-glyph"></span></a><ul class="navigation--subMenu" data-collapsed="true" style="--n: 220px"><li class="child"><a  href="/newsletters/houston-morning-report/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5434" data-hdn-analytics="visit|Newsletters-Morning Report|navigation-ard|1">Morning Report</a></li><li class="child"><a  href="/newsletters/breaking-news/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5577" data-hdn-analytics="visit|Newsletters-Breaking News|navigation-ard|2">Breaking News</a></li><li class="child"><a  href="/sports/texas-sports-nation/daily-playbook-newsletter/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5444" data-hdn-analytics="visit|Newsletters-The Daily Playbook|navigation-ard|3">The Daily Playbook</a></li><li class="child"><a  href="/newsletters/fuelfix/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5441" data-hdn-analytics="visit|Newsletters-Fuel Fix|navigation-ard|4">Fuel Fix</a></li><li class="child"><a  href="/newsletters/texas-inc/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5443" data-hdn-analytics="visit|Newsletters-Texas Inc.|navigation-ard|5">Texas Inc.</a></li><li class="child"><a  href="/newsletters/texas-take/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5578" data-hdn-analytics="visit|Newsletters-Texas Take|navigation-ard|6">Texas Take</a></li><li class="child"><a  href="/newsletters/houweare/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5576" data-hdn-analytics="visit|Newsletters-HouWeAre|navigation-ard|7">HouWeAre</a></li><li class="child"><a  href="/newsletters/flavor/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5579" data-hdn-analytics="visit|Newsletters-Flavor|navigation-ard|8">Flavor</a></li><li class="child"><a  href="/newsletters/release-notes/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5442" data-hdn-analytics="visit|Newsletters-Release Notes|navigation-ard|9">Release Notes</a></li><li class="child"><a  href="/newsletters/must-reads/" class="navigation--item navigation--subMenu-item hdn-analytics" data-naveid="5440" data-hdn-analytics="visit|Newsletters-Must Reads|navigation-ard|10">Must Reads</a></li></ul></span></li><li class="single" data-length="1" data-index="15"><a href="https://myaccount.houstonchronicle.com/Access.aspx?product=NewEdition" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="4231" data-hdn-analytics="visit|e-Edition|navigation-ard|16">e-Edition</a></li><li class="single" data-length="1" data-index="16"><a href="https://houston-chronicle.myshopify.com/collections/astros" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5371" data-hdn-analytics="visit|Shop the Chronicle|navigation-ard|1">Shop the Chronicle</a></li><li class="single" data-length="1" data-index="17"><a href="https://houstonchronicle.com/puzzles/article/Complete-today-s-crossword-puzzle-from-the-15324103.php" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5581" data-hdn-analytics="visit|Crosswords|navigation-ard|2">Crosswords</a></li><li class="single" data-length="1" data-index="18"><a href="/entertainment/tv-listings/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="5600" data-hdn-analytics="visit|TV Listings|navigation-ard|3">TV Listings</a></li><li class="single" data-length="1" data-index="19"><a href="/archive/" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="3387" data-hdn-analytics="visit|Archive|navigation-ard|4">Archive</a></li><li class="single" data-length="1" data-index="20"><a href="/terms_of_use" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="4556" data-hdn-analytics="visit|Terms of Use|navigation-ard|5">Terms of Use</a></li><li class="single" data-length="1" data-index="21"><a href="/privacy_policy" class="navigation--item navigation--menu-item hdn-analytics" data-naveid="4555" data-hdn-analytics="visit|Privacy Notice|navigation-ard|6">Privacy Notice</a></li></ul></div></div><span class="rule"></span><div id="navToggle__page" class="navTogglePage"></div></nav>
+<!-- e hearst/common/siteNavigation.tpl -->
+<!-- e hearst/home/navigation.tpl --> <!-- e hearst/home/HNavigation.tpl -->    </header>
+
+<!-- e hearst/common/siteBranding.tpl -->     <div id="topZone" class="zone"></div>
+<!-- e ferd/templates/ads/banner_top.tpl -->
+<aside class="ad-point ad-banner top" data-component="ad"><div id="AP951"></div></aside>
+<!-- e ferd/templates/ads/banner_top.tpl -->
+<!-- ferd/templates/article/types/premium_story_body.tpl -->
+<article class="article">
+    <header class="article--header"><!-- ferd/hearst/templates/premium/article/article_header.tpl -->
+<!-- ferd/hearst/templates/premium/article/article_headline.tpl -->
+                        <div class="header-subsection kicker">
+                Politics                 <span class="light"> // </span>                Election 2020            </div>
+                <h1 itemprop="headline" class="header-title">Trump billboard in Houston goes viral after being vandalized</h1>
+<!-- e ferd/hearst/templates/premium/article/article_headline.tpl --> <div class="header-author-img-time">
+            <div class="header-author-time h5">
+        <span class="header-byline" itemscope itemtype="http://schema.org/Person">
+                                                                <a href="//www.houstonchronicle.com/author/rebecca-hennes/" title="Rebecca Hennes" rel="author" itemprop="url" class="header-authors-url hdn-analytics" data-hdn-analytics="visit|Rebecca Hennes-Author Page|article-header|1" target="_blank" rel="noopener noreferrer">
+                             <span itemprop="name" class="header-authors-name">Rebecca Hennes</span>
+                                            </a>                                                        </span>
+        <time datetime="2020-10-16T15:08:22+00:00" itemprop="datePublished">
+            Oct. 16, 2020
+        </time>
+                <time datetime="2020-10-16T16:50:47+00:00" itemprop="dateModified">
+            Updated: Oct. 16, 2020 11:50&nbsp;a.m.
+        </time>
+            </div>
+</div>
+<div class="header-social shareTools">
+    <!-- ferd/hearst/templates/premium/common/share_tools.tpl -->
+<div class="share-list">
+    <a class="share-facebook" data-shareNetwork="facebook">Facebook</a>
+    <a class="share-twitter" data-shareNetwork="twitter">Twitter</a>
+    <a class="share-email" data-shareNetwork="email">Email</a>
+    <a class="share-linkedin" data-shareNetwork="linkedin">LinkedIn</a>
+    <a class="share-reddit" data-shareNetwork="reddit">Reddit</a>
+    <a class="share-pinterest" data-shareNetwork="pinterest">Pinterest</a>
+                        <div class="pipe"></div>
+            <a class="share-comments" data-shareNetwork="comments" href="#article-comments">Comments</a>
+            </div>
+<!-- e ferd/hearst/templates/premium/common/share_tools.tpl --></div>
+<!-- e ferd/hearst/templates/premium/article/article_header.tpl --></header>
+    <main class="main">
+                                    <section class="featured">
+                    			<!-- hearst/templates/premium/article/content/gallery.tpl -->
+<div class="gallery media-gallery" data-meta-title="Trump billboard in Houston goes viral after being vandalized" data-meta-id="gallery">
+	<div class="gallery__header fade show hidden">
+		<div class="gallery__header-wrapper lock">
+			<button class="gallery__header-return btn return thumb hidden"><span class="label">Back to Gallery</span></button>
+			<button class="gallery__header-thumbnails btn thumb"></button>
+			<span class="gallery__header-logo"></span>
+			<div class="gallery__header-title"><h2>Trump billboard in Houston goes viral after being vandalized</h2></div>
+			<div class="gallery__header-shareTools shareTools fade show"><!-- ferd/hearst/templates/premium/common/share_tools.tpl -->
+<div class="share-list">
+    <a class="share-facebook" data-shareNetwork="facebook">Facebook</a>
+    <a class="share-twitter" data-shareNetwork="twitter">Twitter</a>
+    <a class="share-email" data-shareNetwork="email">Email</a>
+    <a class="share-linkedin" data-shareNetwork="linkedin">LinkedIn</a>
+    <a class="share-reddit" data-shareNetwork="reddit">Reddit</a>
+    <a class="share-pinterest" data-shareNetwork="pinterest">Pinterest</a>
+                        <div class="pipe"></div>
+            <a class="share-comments" data-shareNetwork="comments" href="#article-comments">Comments</a>
+            </div>
+<!-- e ferd/hearst/templates/premium/common/share_tools.tpl --></div>
+			<button class="gallery__header-close btn expand"></button>
+		</div>
+	</div>
+	<div class="gallery__count expand">
+		<div class="gallery__count-outer">
+			<span>2</span>
+		</div>
+	</div>
+	<div class="gallery__slider">
+		<figure class="gallery__slider-item" style="z-index: 0;" id="1-image-20118752" data-slide-number='1' data-slide-id="20118752"  data-progressive='true' data-component='slide'><div class="image"><img class="slide-media media-gallery-slide-media" data-src="https://s.hdnux.com/photos/01/14/57/63/20118752/3/gallery_medium.jpg" data-src-2x="https://s.hdnux.com/photos/01/14/57/63/20118752/3/gallery_large.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/57/63/20118752/3/gallery_xlarge.jpg"  data-alt-title="" data-resale-link="0" alt="A Trump billboard is shown vandalized along I-45 southbound near Telephone Road Tuesday, October 13, 2020 in Houston." /></div><figcaption ><span class="count">1<span>of</span>2</span><span class="caption">A Trump billboard is shown vandalized along I-45 southbound near Telephone Road Tuesday, October 13, 2020 in Houston.</span><span class="credits">Photo: Melissa Phillip/Houston Chronicle</span></figcaption></figure><figure class="gallery__slider-item" style="z-index: 1;" id="2-image-20113224" data-slide-number='2' data-slide-id="20113224"  data-progressive='true' data-component='slide'><div class="image"><img class="slide-media media-gallery-slide-media" data-src="https://s.hdnux.com/photos/01/14/56/35/20113224/3/gallery_medium.jpg" data-src-2x="https://s.hdnux.com/photos/01/14/56/35/20113224/3/gallery_large.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/56/35/20113224/3/gallery_xlarge.jpg"  data-alt-title="" data-resale-link="0" alt="A Trump billboard is shown vandalized along I-45 southbound near Telephone Road Tuesday, October 13, 2020 in Houston." /></div><figcaption  style="opacity: 0;"><span class="count">2<span>of</span>2</span><span class="caption">A Trump billboard is shown vandalized along I-45 southbound near Telephone Road Tuesday, October 13, 2020 in Houston.</span><span class="credits">Photo: Melissa Phillip/Houston Chronicle</span></figcaption></figure>
+	</div>
+	<div class="gallery__thumbnails hidden">
+		<div class="gallery__thumbnails-wrapper">
+			<div class="gallery__thumbnails-item" data-index="0"></div><div class="gallery__thumbnails-item" data-index="1"></div>
+		</div>
+	</div>
+	<ul class="gallery__indicators fade show" data-current='1'>
+		<li class="large" data-current='1'><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li class="large"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li>
+	</ul>
+	<style>
+		.gallery[data-meta-id="gallery"] .gallery__count::after,
+		.gallery[data-meta-id="gallery"] .gallery__slider::before,
+		.gallery[data-meta-id="gallery"] .gallery__slider::after,
+		.gallery[data-meta-id="gallery"] .gallery__indicators,
+		.gallery[data-meta-id="gallery"] .gallery__slider aside { z-index: 2; }
+	</style>
+</div>
+<!-- e hearst/templates/premium/article/content/gallery.tpl -->	
+                </section>
+                                                <section class="body">                 	<p>A Donald Trump billboard located off Houston's Telephone Road has been vandalized, sparking a viral response on social media.</p>
+
+
+                                                                	<p>Personal injury lawyer Rogelio Garcia, 61, said he first spotted the billboard located on the feeder road off I-45 at the corner of Telephone Road about a week ago. The name "TRUMP" accompanied by a photo of the president clapping in approval graced the sign, which Garcia estimates is 150 feet, or about 15 stories high.</p>
+
+
+                                                                	
+                                                                	<p><strong>2020 Texas Voter Guide:</strong> <a href="https://www.houstonchronicle.com/projects/2020/voter-guide/" target="_blank" rel="noopener">Everything you need to know before heading to the polls</a></p>
+
+
+                                                                	<!-- ferd/hearst/templates/premium/article/content/related-links.tpl -->
+	<section class="asset_relatedlinks relatedStories" data-progressive="true" data-component="collection" data-collection-type="related">
+		<div class="relatedStories--title">
+			<h2>More from Rebecca Hennes</h2>
+							<div class="relatedStories--nav">
+					<button class="relatedStories--nav-btn relatedStories--nav-prev btn disabled" data-delta="-1"></button>
+					<button class="relatedStories--nav-btn relatedStories--nav-next btn" data-delta="1"></button>
+				</div>
+					</div>
+		<ul class="relatedStories--list" data-total="10">
+			<li class="relatedStories--item" data-number="1" data-progressive="true" data-component="photo"><div class="card" data-number="1"><a class="hdn-analytics" href="https://www.houstonchronicle.com/neighborhood/bayarea/news/article/Galveston-Police-searching-for-man-accused-of-15647267.php" data-hdn-analytics="related_stories|article-15647267|article-15650186|1"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/55/10/20107835/5/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Bay Area</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Police searching for man tied to string of attempted kidnappings</h4></div></a></div></li><li class="relatedStories--item" data-number="2" data-progressive="true" data-component="photo"><div class="card" data-number="2"><a class="hdn-analytics" href="https://www.houstonchronicle.com/politics/election/article/social-media-reactions-election-2020-texas-15643649.php" data-hdn-analytics="related_stories|article-15643649|article-15650186|2"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/53/34/20100864/9/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Election 2020</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Social media erupts on historic 1st day of early voting in Texas</h4></div></a></div></li><li class="relatedStories--item" data-number="3" data-progressive="true" data-component="photo"><div class="card" data-number="3"><a class="hdn-analytics" href="https://www.houstonchronicle.com/life/pets/article/Houston-area-pet-adoption-event-aims-to-save-big-15616170.php" data-hdn-analytics="related_stories|article-15616170|article-15650186|3"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/37/26/20051388/3/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Lifestyle</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Pet adoption event aims to save 'big dogs' from Houston shelters</h4></div></a></div></li><li class="relatedStories--item" data-number="4" data-progressive="true" data-component="photo"><div class="card" data-number="4"><a class="hdn-analytics" href="https://preview.houstonchronicle.com/festivals/the-texas-renaissance-festival-opens-this-15612574" data-hdn-analytics="related_stories|article-15612574|article-15650186|4"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/32/43/20031703/5/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Arts & Entertainment</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Everything you need to know about Texas RenFest, opening Saturday</h4></div></a></div></li><li class="relatedStories--item" data-number="5" data-progressive="true" data-component="photo"><div class="card" data-number="5"><a class="hdn-analytics" href="https://preview.houstonchronicle.com/festivals/popular-magical-winter-lights-festival-in-la-15612488" data-hdn-analytics="related_stories|article-15612488|article-15650186|5"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/07/07/61/18644039/3/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Arts & Entertainment</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">La Marque's Magical Winter Lights festival postponed until 2021</h4></div></a></div></li><li class="relatedStories--item" data-number="6" data-progressive="true" data-component="photo"><div class="card" data-number="6"><a class="hdn-analytics" href="https://www.houstonchronicle.com/houston/article/Third-MS-13-member-linked-to-2017-death-of-15607129.php" data-hdn-analytics="related_stories|article-15607129|article-15650186|6"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/34/61/20040806/7/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Houston</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Third MS-13 gang member linked to death of teen sentenced</h4></div></a></div></li><li class="relatedStories--item" data-number="7" data-progressive="true" data-component="photo"><div class="card" data-number="7"><a class="hdn-analytics" href="https://www.houstonchronicle.com/news/politics/election2020/article/how-where-to-watch-debate-biden-trump-15606388.php" data-hdn-analytics="related_stories|article-15606388|article-15650186|7"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/25/36/20010891/9/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">US & World</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Watch live: Trump and Biden's first presidential debate</h4></div></a></div></li><li class="relatedStories--item" data-number="8" data-progressive="true" data-component="photo"><div class="card" data-number="8"><a class="hdn-analytics" href="https://www.houstonchronicle.com/houston/article/Marchers-descend-on-Discovery-Green-to-demand-15599704.php" data-hdn-analytics="related_stories|article-15599704|article-15650186|8"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/30/02/20021401/3/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Houston</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Protestors march in downtown to demand justice for Breonna Taylor</h4></div></a></div></li><li class="relatedStories--item" data-number="9" data-progressive="true" data-component="photo"><div class="card" data-number="9"><a class="hdn-analytics" href="https://www.houstonchronicle.com/news/education/article/Database-Search-for-coronavirus-cases-in-Texas-15597259.php" data-hdn-analytics="related_stories|article-15597259|article-15650186|9"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/25/76/20012991/3/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Education</h6><h6 class="card--headline-byline">Rebecca Hennes, Jacob Carpenter</h6><h4 class="card--headline-title">Database: Search for coronavirus cases in Texas school districts</h4></div></a></div></li><li class="relatedStories--item" data-number="10" data-progressive="true" data-component="photo"><div class="card" data-number="10"><a class="hdn-analytics" href="https://www.houstonchronicle.com/houston/article/Houston-area-Clinica-Hispana-locations-accused-of-15591649.php" data-hdn-analytics="related_stories|article-15591649|article-15650186|10"><div class="card--image"><img data-src='https://s.hdnux.com/photos/01/14/24/77/20008921/3/gallery_medium.jpg'></div><div class="card--headline"><h6 class="card--retSection">Houston</h6><h6 class="card--headline-byline">Rebecca Hennes</h6><h4 class="card--headline-title">Medical assistant sues Houston, Texas clinics over unpaid wages</h4></div></a></div></li>
+		</ul>
+	</section>
+<!-- e ferd/hearst/templates/premium/article/content/related-links.tpl -->
+                                                                	<p>Wednesday morning, on the second day of early voting in Texas, the billboard appeared to have been vandalized with the words "TAKE ... TO PRISON" painted around the president's name.</p>
+
+
+                                                                	<p>"Every day I have to look at it (on my way to work) &hellip; and then this past morning I looked at it and I did a double-take," Garcia said.</p>
+
+
+                                                                	<p>Garcia's photo of the defaced billboard <a href="https://twitter.com/LawyerRogelio/status/1316472476419993600" target="_blank" rel="noopener">went viral on Twitter,</a> earning nearly 60,000 likes in less than a day. It also sparked similar <a href="https://www.reddit.com/r/houston/comments/jbntbi/trump_put_up_a_billboard_in_houston_last_week_we/" target="_blank" rel="noopener">viral posts on Reddit.&nbsp;</a></p>
+
+
+                                                                	<p>&ldquo;While Joe Biden refuses to denounce vandalism and destruction of property across the nation, Texans know President Trump will have their back and uphold the rule of law," Trump Victory Spokesperson Samantha Cotten said in an email to the Houston Chronicle.</p>
+
+
+                                                                	<p>Social media reacted with its usual conflicting viewpoints.</p>
+
+
+                                                                	<blockquote class="twitter-tweet">
+<p>Isn&rsquo;t it a crime to deface a campaign sign? If we&rsquo;re ever going to get back to a civil society, both sides have to cut this kind of stuff our.</p>&mdash; Pete F (@petef46) <a href="https://twitter.com/petef46/status/1316697178937589760?ref_src=twsrc%5Etfw">October 15, 2020</a>
+</blockquote><span class="defer-load" data-progressive="true" data-component="misc-embed-script" data-js="https://platform.twitter.com/widgets.js"></span>
+
+
+                                                                	<blockquote class="twitter-tweet">
+<p>Is it wrong to be pleased with vandalism? I'm conflicted. Lol</p>&mdash; Ilizabeth (@Ilizabeth7) <a href="https://twitter.com/Ilizabeth7/status/1316507688310800390?ref_src=twsrc%5Etfw">October 14, 2020</a>
+</blockquote><span class="defer-load" data-progressive="true" data-component="misc-embed-script" data-js="https://platform.twitter.com/widgets.js"></span>
+
+
+                                                                	<p>Defacing private property is illegal, of course, and Garcia said the person or persons responsible could face a misdemeanor charge with a fine that would cover the cost of the damage.</p>
+
+
+                                                                	<p>"They could bump it to a state jail felony," Garcia said.</p>
+
+
+                                                                	<p>A spokesperson for the Houston Police Department found no reports of vandalism regarding the billboard as of Thursday afternoon.</p>
+
+
+                                                                	<p>This week marked the start of early voting in Texas, with record numbers of voters heading to the polls in Houston and across the state. Within the first day, <a href="https://www.houstonchronicle.com/politics/texas/article/Texas-surpassed-1-million-votes-on-first-day-of-15647238.php" target="_blank" rel="noopener">Texas surpassed one million votes</a>; Harris County<a href="https://www.houstonchronicle.com/politics/houston/article/harris-county-shatter-voting-record-early-election-15644246.php" target="_blank" rel="noopener"> recorded more than 125,000 ballots cast, a record turnout</a> compared to the 2016 election.</p>
+
+
+                                                                	
+                                                                	<p><em>rebecca.hennes@chron.com</em></p>
+
+
+                            </section>
+        <footer class="footer">
+            <!-- ferd/premium/article/modules/author_bio.tpl -->
+        <div class="author-module">
+        <div class="author-header"><div class="author-contact"><h5 class="author-name"><a href="//www.houstonchronicle.com/author/rebecca-hennes/" title="Rebecca Hennes" rel="author" class="header-authors-url hdn-analytics" target="_blank" rel="noopener noreferrer" data-hdn-analytics="visit|article-1032|author-module|1">Rebecca Hennes</a></h5><div class="author-follow"><div class="author-follow-text">Follow Rebecca on:</div><a class="iconText author-twitter" href="https://twitter.com/beccaghennes">beccaghennes</a></div></div></div><div class="author-bio"><p>Rebecca Hennes covers community news for the Houston Chronicle and Houston Community Newspapers. Follow her on Twitter @beccaghennes.</p>
+</div><h5 class="author-latest-label">Past Articles from this Author:</h5><ul class="author-latest"><li><a href="/politics/election/article/By-the-numbers-Here-are-the-first-day-of-early-15650853.php" rel="noopener" class="hdn-analytics" data-hdn-analytics="visit|article-|author-module|3">By the numbers: Here are early voting numbers in Texas' 10 largest counties</a></li><li><a href="/neighborhood/bayarea/news/article/Galveston-Police-searching-for-man-accused-of-15647267.php" rel="noopener" class="hdn-analytics" data-hdn-analytics="visit|article-|author-module|4">Galveston Police searching for man accused of string of attempted kidnappings targeting women</a></li><li><a href="/news/houston-texas/article/social-media-reactions-election-2020-texas-15643649.php" rel="noopener" class="hdn-analytics" data-hdn-analytics="visit|article-|author-module|5">'Never seen anything like it': Social media erupts on landmark first day of early voting in Texas</a></li></ul>
+    </div>
+<!-- e ferd/premium/article/modules/author_bio.tpl -->        </footer>
+    </main>
+    <aside class="aside">
+        <div class="stickyItem" data-ad="AP300">
+            <!-- ferd/templates/ads/ad_box.tpl -->
+<aside class="ad-point ad-point-wide ad-box" data-component="ad"><div id="AP300"></div></aside>
+<!-- e ferd/templates/ads/ad_box.tpl -->
+            
+    
+<!-- hearst/home/mostPopular.tpl -->
+
+    
+    <div class="mostPopular">
+        <div class="moduleHeader">
+            <h2>Most Popular</h2>
+        </div>
+                                    <ul class="contentGroup">
+                                                                    <li class="contentItem" data-progressive="true" data-component="photo">
+                            
+                                                            <h5>
+                                    <a class="hdn-analytics" href="/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-goes-15650186.php" title="Trump billboard in Houston goes viral after being vandalized" data-hdn-analytics="visit|article-15650186|most_popular|0">Trump billboard in Houston goes viral after being vandalized</a>
+                                </h5>
+                                <a class="hdn-analytics" href="/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-goes-15650186.php" title="Trump billboard in Houston goes viral after being vandalized" data-hdn-analytics="visit-from-image|article-15650186|most_popular|0">
+                                                                            
+                                                                                <img class="img" data-src="https://s.hdnux.com/photos/01/14/57/63/20118752/3/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/57/63/20118752/3/square_medium.jpg" itemprop="photo" />                                                                    </a>
+                                                    </li>
+                                                                    <li class="contentItem" data-progressive="true" data-component="photo">
+                            
+                                                            <h5>
+                                    <a class="hdn-analytics" href="https://preview.houstonchronicle.com/music/country-legend-johnny-bush-dies-15654148" title="Country legend and &#8216;Whiskey River&#8217; writer Johnny Bush dies" data-hdn-analytics="visit|unknown-unknown|most_popular|1">Country legend and &#8216;Whiskey River&#8217; writer Johnny Bush dies</a>
+                                </h5>
+                                <a class="hdn-analytics" href="https://preview.houstonchronicle.com/music/country-legend-johnny-bush-dies-15654148" title="Country legend and &#8216;Whiskey River&#8217; writer Johnny Bush dies" data-hdn-analytics="visit-from-image|unknown-unknown|most_popular|1">
+                                                                    </a>
+                                                    </li>
+                                                                    <li class="contentItem" data-progressive="true" data-component="photo">
+                            
+                                                            <h5>
+                                    <a class="hdn-analytics" href="/news/columnists/grieder/article/Grieder-Harris-County-voters-defy-GOP-efforts-to-15654562.php" title="Grieder: Harris County voters defy GOP efforts to suppress the vote" data-hdn-analytics="visit|article-15654562|most_popular|2">Grieder: Harris County voters defy GOP efforts to suppress the vote</a>
+                                </h5>
+                                <a class="hdn-analytics" href="/news/columnists/grieder/article/Grieder-Harris-County-voters-defy-GOP-efforts-to-15654562.php" title="Grieder: Harris County voters defy GOP efforts to suppress the vote" data-hdn-analytics="visit-from-image|article-15654562|most_popular|2">
+                                                                            
+                                                                                <img class="img" data-src="https://s.hdnux.com/photos/01/14/60/50/20122148/3/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/60/50/20122148/3/square_medium.jpg" itemprop="photo" />                                                                    </a>
+                                                    </li>
+                                                                    <li class="contentItem" data-progressive="true" data-component="photo">
+                            
+                                                            <h5>
+                                    <a class="hdn-analytics" href="/texas-sports-nation/rockets/article/Longtime-Rockets-scout-Brent-Johnson-dies-in-15652131.php" title="Longtime Rockets scout Brent Johnson dies in bicycle accident" data-hdn-analytics="visit|article-15652131|most_popular|3">Longtime Rockets scout Brent Johnson dies in bicycle accident</a>
+                                </h5>
+                                <a class="hdn-analytics" href="/texas-sports-nation/rockets/article/Longtime-Rockets-scout-Brent-Johnson-dies-in-15652131.php" title="Longtime Rockets scout Brent Johnson dies in bicycle accident" data-hdn-analytics="visit-from-image|article-15652131|most_popular|3">
+                                                                            
+                                                                                <img class="img" data-src="https://s.hdnux.com/photos/01/14/60/20/20120625/5/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/60/20/20120625/5/square_medium.jpg" itemprop="photo" />                                                                    </a>
+                                                    </li>
+                                                                    <li class="contentItem" data-progressive="true" data-component="photo">
+                            
+                                                            <h5>
+                                    <a class="hdn-analytics" href="/politics/texas/article/Texas-ranks-worst-in-national-cost-of-voting-study-15650437.php" title="Texas ranks worst in national cost-of-voting study" data-hdn-analytics="visit|article-15650437|most_popular|4">Texas ranks worst in national cost-of-voting study</a>
+                                </h5>
+                                <a class="hdn-analytics" href="/politics/texas/article/Texas-ranks-worst-in-national-cost-of-voting-study-15650437.php" title="Texas ranks worst in national cost-of-voting study" data-hdn-analytics="visit-from-image|article-15650437|most_popular|4">
+                                                                            
+                                                                                <img class="img" data-src="https://s.hdnux.com/photos/76/05/02/16273597/11/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/76/05/02/16273597/11/square_medium.jpg" itemprop="photo" />                                                                    </a>
+                                                    </li>
+                                    </ul>
+                        </div><!--/most-popular-->
+<!--e hearst/home/mostPopular.tpl -->    
+                        </div>
+    </aside>
+</article>
+<!-- e ferd/templates/article/types/premium_story_body.tpl --><!-- ferd/templates/ads/banner_bottom.tpl -->
+<aside class="ad-point ad-banner bottom" data-component="ad"><div id="BP728"></div></aside>
+<!-- ferd/templates/ads/banner_bottom.tpl -->
+
+            <!-- Taboola Below Article Thumbnails freeform -->
+        
+        <!-- hearst/item/standalone.tpl -->
+<div class="hdnce-e hdnce-item-92423"><!-- mid:freeform.92423 -->
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+</div><!-- / hdnce-e -->    <div id="bottomZone" class="zone lock"><!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+    <div class="hide-rss-link hdnce-e hdnce-collection-19498-premium_article_featured_articles"><!-- collections/premium_article_featured_articles.tpl -->
+<!-- collection.premium_article_featured_articles.19498 -->
+    <!-- collections/premium_article_featured_articles.tpl -->
+<!-- collection.premium_article_featured_articles.19498 -->
+            
+<!-- ferd/hearst/templates/collections/premium_article_featured_articles.tpl -->
+<div class="featuredArticles" data-component="collection" data-collection-type="featured" data-collection-id="19498"><div class="featuredArticles--column"><div class="featuredArticles--header" data-number="1"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                            <h2><span class="first-word">Top</span> of the News</h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl --><div class="stroke"></div></div><ul class="featuredArticles--list"><li class="featuredArticles--list-item" data-progressive="true" data-component="photo" data-number="1"><div class="card" data-number="1"><a class="hdn-analytics "  href="/news/houston-texas/houston/article/Friends-family-gather-to-celebrate-and-15655914.php" data-hdn-analytics="visit|article-15655914|premium_article_featured_articles-19498|1"><div class="card--image"><img data-src="https://s.hdnux.com/photos/01/14/61/32/20125370/3/gallery_large.jpg"/></div><div class="card--headline"><h6 class="card--retSection">Houston</h6><h6 class="card--headline-byline">By Alejandro Serrano, Staff writer</h6><h4 class="card--headline-title">Friends, family gather to celebrate and commemorate George...</h4></div></a></div></li><li class="featuredArticles--list-item" data-progressive="true" data-component="photo" data-number="2"><div class="card" data-number="2"><a class="hdn-analytics "  href="/texas-sports-nation/highschool/article/FOOTBALL-College-Park-trounces-Kingwood-in-15655877.php" data-hdn-analytics="visit|article-15655877|premium_article_featured_articles-19498|2"><div class="card--image"><img data-src="https://s.hdnux.com/photos/01/14/61/26/20125058/9/gallery_medium.jpg"/></div><div class="card--headline"><h6 class="card--retSection">Texas Sports Nation</h6><h6 class="card--headline-byline">By Jon Poorman, Staff Writer</h6><h4 class="card--headline-title">College Park trounces Kingwood in non-district finale</h4></div></a></div></li><li class="featuredArticles--list-item" data-progressive="true" data-component="photo" data-number="3"><div class="card" data-number="3"><a class="hdn-analytics "  href="/texas-sports-nation/highschool/article/Stratford-Spartans-hold-on-for-first-district-win-15655862.php" data-hdn-analytics="visit|article-15655862|premium_article_featured_articles-19498|3"><div class="card--image"><img data-src="https://s.hdnux.com/photos/01/14/61/25/20125047/3/gallery_medium.jpg"/></div><div class="card--headline"><h6 class="card--retSection">Texas Sports Nation</h6><h6 class="card--headline-byline">Elliott Lapin</h6><h4 class="card--headline-title">Stratford Spartans hold on for first district win</h4></div></a></div></li></ul></div><div class="featuredArticles--column"><div class="featuredArticles--header" data-number="2"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                            <h2><span class="first-word">In-Depth</span></h2>
+                        <!-- e widgets/hearst/moduleHeader/widget.tpl --><div class="stroke"></div></div><ul class="featuredArticles--list"><li class="featuredArticles--list-item" data-progressive="true" data-component="photo" data-number="4"><div class="card" data-number="4"><a class="hdn-analytics "  href="/texas-sports-nation/college/article/A-M-continues-SEC-climb-with-road-win-over-15655924.php" data-hdn-analytics="visit|article-15655924|premium_article_featured_articles-19498|4"><div class="card--image"><img data-src="https://s.hdnux.com/photos/01/14/61/32/20125339/3/gallery_medium.jpg"/></div><div class="card--headline"><h6 class="card--retSection">College</h6><h6 class="card--headline-byline">By Brent Zwerneman, Staff writer</h6><h4 class="card--headline-title">A&M gets road win over Mississippi State</h4></div></a></div></li><li class="featuredArticles--list-item" data-progressive="true" data-component="photo" data-number="5"><div class="card" data-number="5"><a class="hdn-analytics "  href="/texas-sports-nation/college/article/Texas-A-M-rolls-past-Mississippi-State-15655794.php" data-hdn-analytics="visit|article-15655794|premium_article_featured_articles-19498|5"><div class="card--image"><img data-src="https://s.hdnux.com/photos/01/14/61/23/20124897/3/gallery_medium.jpg"/></div><div class="card--headline"><h6 class="card--retSection">College</h6><h6 class="card--headline-byline">Brent Zwerneman</h6><h4 class="card--headline-title">Texas A&M rolls past Mississippi State</h4></div></a></div></li></div></div>
+<!-- e ferd/hearst/templates/collections/premium_article_featured_articles.tpl -->    <!-- end premium_article_featured_articles.tpl --><!-- end premium_article_featured_articles.tpl -->
+</div><!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+    <div class="hide-rss-link hdnce-e hdnce-collection-19794-premium_article_ribbon"><!-- src/business/templates/hearst/collections/premium_article_ribbon.tpl -->
+<!-- collection.premium_article_ribbon.19794 -->
+    <!-- design/collection/premium_article_ribbon/default.tpl -->
+            <div id="articleRibbon" class="premium-articleRibbon articleRibbon" data-collection-id="19794">
+            
+<!-- ferd/hearst/templates/collections/premium_article_ribbon_body.tpl -->
+<div data-component="collection" data-collection-type="nextIn" >
+    <script type="text/javascript">
+        var storyList = [
+                                            {
+                    "id": 15648754,
+                    "headline": "Harris County Republicans have benefited from mail ballots in recent...",
+                    "articleUrl": "/politics/houston/article/harris-county-republicans-gop-mail-ballots-15648754.php"
+                },
+                                            {
+                    "id": 15647689,
+                    "headline": "Harris County continues to set records with second day of 100,000-plus early...",
+                    "articleUrl": "/politics/election/article/harris-county-voter-turnout-long-lines-day-2-15647689.php"
+                },
+                                            {
+                    "id": 15629248,
+                    "headline": "State district judge rules part of Houston’s pension reform is...",
+                    "articleUrl": "/politics/houston/article/State-district-judge-rules-part-of-Houston-s-15629248.php"
+                },
+                                            {
+                    "id": 15603359,
+                    "headline": "Here are 5 takeaways from a Chronicle investigation into the spread of...",
+                    "articleUrl": "/news/investigations/article/5-takeaways-chronicle-investigation-covid-houston-15603359.php"
+                },
+                                            {
+                    "id": 15496030,
+                    "headline": "Exposed: COVID-19 was spreading in Houston before the rodeo, records show",
+                    "articleUrl": "/news/investigations/article/exposed-part-1-covid-houston-texas-rodeo-testing-15496030.php"
+                },
+                                            {
+                    "id": 15577692,
+                    "headline": "Harris County keeps its 'stay home' threat level, even as state of Texas,...",
+                    "articleUrl": "/news/houston-texas/houston/article/harris-county-stay-home-reopen-school-hidalgo-tx-15577692.php"
+                },
+                                            {
+                    "id": 15561276,
+                    "headline": "Progress on post-Harvey flood control efforts remains slow. Here’s why",
+                    "articleUrl": "/news/houston-texas/houston/article/Progress-on-post-Harvey-flood-control-efforts-15561276.php"
+                },
+                                            {
+                    "id": 15544590,
+                    "headline": "Will Houston prepare for the next Laura before it’s too late?",
+                    "articleUrl": "/news/houston-texas/houston/article/Will-Houston-prepare-for-the-next-Laura-before-15544590.php"
+                },
+                    ];
+    </script>
+</div>
+<div class="lock" data-component="collection" data-collection-type="ribbon">
+     <div class="articleRibbon--wrapper out" data-collection-id="19794">
+        <button class="articleRibbon--nav-btn articleRibbon--nav-prev prev btn disabled" data-delta="-1"></button>
+        <ul class="articleRibbon--list">
+                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/politics/houston/article/harris-county-republicans-gop-mail-ballots-15648754.php" data-hdn-analytics="visit-from-img|article-15648754|premium_article_ribbon-19794|1">
+                                <img data-src="https://s.hdnux.com/photos/01/14/50/15/20087669/9/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/50/15/20087669/9/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Houston Politics</div>                            <h6><a class="hdn-analytics "  href="/politics/houston/article/harris-county-republicans-gop-mail-ballots-15648754.php" data-hdn-analytics="visit|article-15648754|premium_article_ribbon-19794|1">Mail ballots helped Harris County Republicans, analysis shows</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/politics/election/article/harris-county-voter-turnout-long-lines-day-2-15647689.php" data-hdn-analytics="visit-from-img|article-15647689|premium_article_ribbon-19794|2">
+                                <img data-src="https://s.hdnux.com/photos/01/14/55/25/20108626/9/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/55/25/20108626/9/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Election 2020</div>                            <h6><a class="hdn-analytics "  href="/politics/election/article/harris-county-voter-turnout-long-lines-day-2-15647689.php" data-hdn-analytics="visit|article-15647689|premium_article_ribbon-19794|2">Harris County sees second day of 100,000-plus early voters</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/politics/houston/article/State-district-judge-rules-part-of-Houston-s-15629248.php" data-hdn-analytics="visit-from-img|article-15629248|premium_article_ribbon-19794|3">
+                                <img data-src="https://s.hdnux.com/photos/01/14/45/34/20076329/9/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/45/34/20076329/9/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Houston Politics</div>                            <h6><a class="hdn-analytics "  href="/politics/houston/article/State-district-judge-rules-part-of-Houston-s-15629248.php" data-hdn-analytics="visit|article-15629248|premium_article_ribbon-19794|3">Judge rules part of Houston’s pension reform is unconstitutional</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/news/investigations/article/5-takeaways-chronicle-investigation-covid-houston-15603359.php" data-hdn-analytics="visit-from-img|article-15603359|premium_article_ribbon-19794|4">
+                                <img data-src="https://s.hdnux.com/photos/01/11/06/26/19162553/3/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/11/06/26/19162553/3/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Investigations</div>                            <h6><a class="hdn-analytics "  href="/news/investigations/article/5-takeaways-chronicle-investigation-covid-houston-15603359.php" data-hdn-analytics="visit|article-15603359|premium_article_ribbon-19794|4">5 takeaways from Chronicle investigation into spread of COVID</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/news/investigations/article/exposed-part-1-covid-houston-texas-rodeo-testing-15496030.php" data-hdn-analytics="visit-from-img|article-15496030|premium_article_ribbon-19794|5">
+                                <img data-src="https://s.hdnux.com/photos/01/13/51/57/19831786/9/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/13/51/57/19831786/9/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Investigations</div>                            <h6><a class="hdn-analytics "  href="/news/investigations/article/exposed-part-1-covid-houston-texas-rodeo-testing-15496030.php" data-hdn-analytics="visit|article-15496030|premium_article_ribbon-19794|5">EXPOSED | PART ONE</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/news/houston-texas/houston/article/harris-county-stay-home-reopen-school-hidalgo-tx-15577692.php" data-hdn-analytics="visit-from-img|article-15577692|premium_article_ribbon-19794|6">
+                                <img data-src="https://s.hdnux.com/photos/01/12/62/11/19604095/27/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/12/62/11/19604095/27/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Houston</div>                            <h6><a class="hdn-analytics "  href="/news/houston-texas/houston/article/harris-county-stay-home-reopen-school-hidalgo-tx-15577692.php" data-hdn-analytics="visit|article-15577692|premium_article_ribbon-19794|6">Harris County keeps its 'stay home' stance, even as state reopens</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/news/houston-texas/houston/article/Progress-on-post-Harvey-flood-control-efforts-15561276.php" data-hdn-analytics="visit-from-img|article-15561276|premium_article_ribbon-19794|7">
+                                <img data-src="https://s.hdnux.com/photos/01/14/05/71/19947116/5/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/14/05/71/19947116/5/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper">
+                            <div class="retSection">Houston</div>                            <h6><a class="hdn-analytics "  href="/news/houston-texas/houston/article/Progress-on-post-Harvey-flood-control-efforts-15561276.php" data-hdn-analytics="visit|article-15561276|premium_article_ribbon-19794|7">Progress on post-Harvey flood control efforts remains slow. Here’s why</a></h6>
+                        </div>
+                    </li>
+                                                            
+                                    <li class="articleRibbon--list-item" data-progressive="true" data-component="photo">
+                        <div class="articleRibbon--list-item-img">
+                            <a class="hdn-analytics "  href="/news/houston-texas/houston/article/Will-Houston-prepare-for-the-next-Laura-before-15544590.php" data-hdn-analytics="visit-from-img|article-15544590|premium_article_ribbon-19794|8">
+                                <img data-src="https://s.hdnux.com/photos/01/13/76/01/19914836/3/square_small.jpg" data-src-4x="https://s.hdnux.com/photos/01/13/76/01/19914836/3/square_small.jpg" />
+                            </a>
+                        </div>
+                        <div class="articleRibbon--list-item-wrapper last">
+                            <div class="retSection">Houston</div>                            <h6><a class="hdn-analytics "  href="/news/houston-texas/houston/article/Will-Houston-prepare-for-the-next-Laura-before-15544590.php" data-hdn-analytics="visit|article-15544590|premium_article_ribbon-19794|8">Will Houston prepare for the next Laura before it’s too late?</a></h6>
+                        </div>
+                    </li>
+                                    </ul>
+        <button class="articleRibbon--nav-btn articleRibbon--nav-next next btn" data-delta="1"></button>
+     </div>
+</div>
+
+<!-- e ferd/hearst/templates/collections/premium_article_ribbon_body.tpl -->        </div>
+    <!-- e design/collection/premium_article_ribbon/default.tpl --><!-- e src/business/templates/hearst/collections/premium_article_ribbon.tpl -->
+</div><!-- e src/business/widgets/hearst/collection/widget.tpl --></div>
+<div id="bottomZone_2" class="zone lock"></div>
+            <!-- hearst/common/spotimcomments.tpl -->
+<section id="article-comments" class="article--comments slideshow--comments clearfix" data-progressive="true" data-component="embed-comments" data-comments-type="spotim">
+    <div id="spotim-comments" class="hdn-comments"
+     data-js="//launcher.spot.im/spot/sp_NxITuoE4" data-spot-id="sp_NxITuoE4" data-spotim-module="spotim-launcher" data-post-url="https://www.houstonchronicle.com/politics/election/article/Vandalized-Trump-2020-billboard-in-Houston-viral-15650186.php"
+        data-post-id="premiumchron-article-15650186" data-article-tags="election2020, Rogelio Garcia, Donald Trump" >
+        <!-- ux/hearst/home/modal_signin_form.tpl -->
+<div class="treg-gya-commenting-bar"></div>
+<!-- e ux/hearst/home/modal_signin_form.tpl -->
+        <div class="treg-gya-commenting-bar"></div>
+    </div>
+</section>
+<!-- e hearst/common/spotimcomments.tpl -->        <!-- ferd/hearst/templates/premium/common/site_footer.tpl -->
+<footer class="pageFooter">
+    <div class="lock">
+        <div class="pageFooter--wrapper">
+            <div class="pageFooter--left">
+                <a href="/" class="pageFooter--left-logo"></a>
+                <ul class="pageFooter--left-social">
+                    <li class="facebook"><a href="https://houstonchronicle.com/facebook/"></a></li>                    <li class="twitter"><a href="https://houstonchronicle.com/twitter/"></a></li>                    <li class="instagram"><a href="https://houstonchronicle.com/instagram/"></a></li>                    <li class="linkedin"><a href="https://houstonchronicle.com/linkedin/"></a></li>                </ul>
+            </div>
+            <div class="pageFooter--right">
+                <div class="pageFooter--right-topLine">
+                    <a href="#" id="scrollTop" class="return"><span class="full">Return to</span> Top</a>
+                </div>
+                <div class="pageFooter--right-links">
+                    
+                    <!-- hearst/item/standalone.tpl -->
+<div class="hdnce-e hdnce-item-88837"><!-- mid:freeform.88837 -->
+<ul class="wrapper">
+  <li>
+    <div class="title">About</div>
+    <ul class="section">
+      <li><a href="https://www.hearst.com/newspapers/houston-chronicle">Our Company</a></li>
+      <li><a href="https://www.houstonchronicle.com/customer_service/article/How-Hearst-Newspapers-is-delivering-information-15151944.php">Newspaper Delivery Safety Procedures</a></li>
+      <li><a href="/privacy_policy">Privacy Notice</a></li>
+      <li><a href="/privacy_policy/#caprivacyrights">Your California Privacy Rights</a></li>
+      <li><a href="/privacy_policy/#interestbasedads">Interest Based Ads</a></li>
+      <li><a href="/terms_of_use/">Terms of Use</a></li>
+      <li><a href="http://marketing.chron.com/">Advertising</a></li>
+      <li><a href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15/pages/29001">Careers</a></li> 
+    </ul>
+  </li>
+  <li>
+    <div class="title">Contact</div>
+    <ul class="section">
+      <li><a href="https://offers.houstonchronicle.com/?origin=footer&amp;variant=wcm.88837">Subscribe</a></li>
+      <li><a href="https://subscription.houstonchronicle.com/eedition" target="_blank">e-Edition</a></li>
+      <li><a href="/archive/">Archives</a></li>
+      <li><a href="/customer_service">Customer Service</a></li>
+      <li><a href="/faq">Frequently Asked Questions</a></li>
+      <li><a href="/newsroom_contacts">Newsroom Contacts</a></li>
+    </ul>
+  </li>
+</ul>
+<!-- NPDATA-3311-->
+<img height="1" width="1" style="border-style:none;" alt="" src="//insight.adsrvr.org/track/evnt/?adv=ctg2su6&amp;ct=0:s6ioi9x&amp;fmt=3">
+</div><!-- / hdnce-e -->                </div>
+            </div>
+        </div>
+        <div class="pageFooter--branding">
+            <img class="pageFooter--branding-logo" src="/img/core/hearst_newspapers_logo.svg" />
+            <span class="pageFooter--branding-copyright">&copy;2020 Hearst</span>
+        </div>
+    </div>
+    </footer>
+<!-- e ferd/hearst/templates/premium/common/site_footer.tpl --> <!-- hearst/ads/mobile_ad_PMAD.tpl -->
+<div id="hst-adhesion" class="hst-adhesion clearfix">
+             <!-- hmb:pmad pmad ad -->
+         <div id="PMAD" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("PMAD"); /*]]>*/ </script></div>
+    </div>
+<!-- e mobile_ad_PMAD.tpl --><!-- e ferd/hearst/templates/article/types/premium_story.tpl --><!-- e design/article/premium_story_page.tpl -->
+                        </body>
+</html>
