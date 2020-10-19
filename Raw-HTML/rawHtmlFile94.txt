@@ -1,0 +1,1561 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Page Not Found - GSMArena.com</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js?ts=1527752433225'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1060, initial-scale=1.0">
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/gsmarena.css?v=17">
+
+<link rel="shortcut icon" href="https://fdn.gsmarena.com/imgroot/static/favicon.ico">
+
+
+
+
+
+
+
+<script type="text/javascript" src="//dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/8095840/.2_A.34912.3_gsmarena.com_tier1', [728, 90], 'div-gpt-ad-top728x90gsmarenadesktop-0').setTargeting('pageid', '404').addService(googletag.pubads());
+	
+	googletag.defineSlot('/8095840/.2_A.35452.4_gsmarena.com_tier1', [300, 250], 'div-gpt-ad-gsmarenacom35452').setTargeting('pageid', '404').addService(googletag.pubads());
+
+
+
+	googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/reviews.css">
+
+
+<meta name="Description" content="GSMArena Tools & Features list">
+<link rel="shortcut icon" href="i/favicon.ico" />
+</head>
+<body>
+
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/misc.js"></script>
+
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="https://fdn.gsmarena.com/vv/assets12/i/logo.svg"><img src="https://fdn.gsmarena.com/vv/assets12/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="res.php3" method="get" id="topsearch">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sSearch" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">888k</span>
+</a>
+<a href="https://twitter.com/gsmarena_com" class="tw-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">156k</span>
+</a>
+
+<a href="https://www.instagram.com/gsmarenateam/" class="ig-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-instagram icomoon-liga"></i>
+  <span class="icon-count">74k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">1.1m</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup2">
+<form action="login.php3" method="post">
+<input type="Hidden" name="sSource" value="MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">  
+	<p>Login</p>
+	<label for="email"></label>
+	<input type="email" id="email" name="sEmail" maxlength="50" value="" required="" autocomplete="false">
+
+	<label for="upass"></label>
+	<input type="password" id="upass" name="sPassword" placeholder="Your password" maxlength="20" pattern="\S{6,}" required="" autocomplete="false">
+
+	<input class="button" type="submit" value="Log in" id="nick-submit">
+</form>
+	<a class="forgot" href="forgot.php3">I forgot my password</a>
+	</span>
+ <a href="register.php3" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+	<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+  <li><a href="videos.php3">Videos</a></li>
+	<li><a href="news.php3?sTag=Featured">Featured</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="contact.php3">Contact</a></li>                   
+</ul>
+  
+
+
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+<style>
+    #outer .e404 {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #outer .e404 h1 {
+        color: #6d6d6d;
+        font-weight: bold;
+        font-size: 84px;
+
+        margin-top: 44px;
+    }
+    
+    #outer .e404 h2 {
+        color: #b23f33;
+        font-family: "Arimo";
+        font-size: 34px;
+
+        letter-spacing: 0.2em;
+        padding: 0 0 0 14px;
+    }
+
+    #outer .e404 p {
+        color: #7b7777;
+        font-family: "Arimo";
+        font-size: 21px;
+        line-height: 1.5em;
+
+        display: inline-block;
+        text-align: left;
+        margin: 51px 0 100px 17px;
+    }
+
+    #outer .e404 p a {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    var menuButton = document.querySelector('.lines-button');
+    if (menuButton) {
+        $gsm.toggleClass(menuButton, "open", true);
+        $gsm.toggleClass(document.querySelector('#menu'), "open", true);
+        $gsm.toggleClass(document.querySelector("#header"), "open", true);
+    }
+</script>
+
+<div class="e404">
+    <img src="https://fdn.gsmarena.com/vv/assets9/static/404.jpg" alt="Oh No! 404! Page not found">
+
+    <h1>OH NO! 404!</h1>
+    <h2>PAGE NOT FOUND</h2>
+
+    <p>
+        We couldn't find the page you're looking for.<br>
+        Try the menu or head back to <a href="/">home</a>.
+    </p>
+</div>
+
+
+
+</div>
+
+
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="https://fdn2.gsmarena.com/w/css/logo-gsmarena-com.png" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+
+<p>
+&copy; 2000-2020 <a href="team.php3">GSMArena.com</a> 
+<a href="https://www.gsmarena.com/switch.php3?ver=mobile&ref=MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">Mobile version</a>
+<a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.gsmarena.android">Android app</a>
+<a href="contact.php3">Contact us</a>
+<a href="privacy-policy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow noopener">
+  <span class="center">CDN by</span><br />
+  <img src="https://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+</div>
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview'
+, { 'dimension2': '404' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Page Not Found - GSMArena.com</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js?ts=1527752433225'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1060, initial-scale=1.0">
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/gsmarena.css?v=17">
+
+<link rel="shortcut icon" href="https://fdn.gsmarena.com/imgroot/static/favicon.ico">
+
+
+
+
+
+
+
+<script type="text/javascript" src="//dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/8095840/.2_A.34912.3_gsmarena.com_tier1', [728, 90], 'div-gpt-ad-top728x90gsmarenadesktop-0').setTargeting('pageid', '404').addService(googletag.pubads());
+	
+	googletag.defineSlot('/8095840/.2_A.35452.4_gsmarena.com_tier1', [300, 250], 'div-gpt-ad-gsmarenacom35452').setTargeting('pageid', '404').addService(googletag.pubads());
+
+
+
+	googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/reviews.css">
+
+
+<meta name="Description" content="GSMArena Tools & Features list">
+<link rel="shortcut icon" href="i/favicon.ico" />
+</head>
+<body>
+
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/misc.js"></script>
+
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="https://fdn.gsmarena.com/vv/assets12/i/logo.svg"><img src="https://fdn.gsmarena.com/vv/assets12/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="res.php3" method="get" id="topsearch">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sSearch" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">888k</span>
+</a>
+<a href="https://twitter.com/gsmarena_com" class="tw-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">156k</span>
+</a>
+
+<a href="https://www.instagram.com/gsmarenateam/" class="ig-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-instagram icomoon-liga"></i>
+  <span class="icon-count">74k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">1.1m</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup2">
+<form action="login.php3" method="post">
+<input type="Hidden" name="sSource" value="MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">  
+	<p>Login</p>
+	<label for="email"></label>
+	<input type="email" id="email" name="sEmail" maxlength="50" value="" required="" autocomplete="false">
+
+	<label for="upass"></label>
+	<input type="password" id="upass" name="sPassword" placeholder="Your password" maxlength="20" pattern="\S{6,}" required="" autocomplete="false">
+
+	<input class="button" type="submit" value="Log in" id="nick-submit">
+</form>
+	<a class="forgot" href="forgot.php3">I forgot my password</a>
+	</span>
+ <a href="register.php3" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+	<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+  <li><a href="videos.php3">Videos</a></li>
+	<li><a href="news.php3?sTag=Featured">Featured</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="contact.php3">Contact</a></li>                   
+</ul>
+  
+
+
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+<style>
+    #outer .e404 {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #outer .e404 h1 {
+        color: #6d6d6d;
+        font-weight: bold;
+        font-size: 84px;
+
+        margin-top: 44px;
+    }
+    
+    #outer .e404 h2 {
+        color: #b23f33;
+        font-family: "Arimo";
+        font-size: 34px;
+
+        letter-spacing: 0.2em;
+        padding: 0 0 0 14px;
+    }
+
+    #outer .e404 p {
+        color: #7b7777;
+        font-family: "Arimo";
+        font-size: 21px;
+        line-height: 1.5em;
+
+        display: inline-block;
+        text-align: left;
+        margin: 51px 0 100px 17px;
+    }
+
+    #outer .e404 p a {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    var menuButton = document.querySelector('.lines-button');
+    if (menuButton) {
+        $gsm.toggleClass(menuButton, "open", true);
+        $gsm.toggleClass(document.querySelector('#menu'), "open", true);
+        $gsm.toggleClass(document.querySelector("#header"), "open", true);
+    }
+</script>
+
+<div class="e404">
+    <img src="https://fdn.gsmarena.com/vv/assets9/static/404.jpg" alt="Oh No! 404! Page not found">
+
+    <h1>OH NO! 404!</h1>
+    <h2>PAGE NOT FOUND</h2>
+
+    <p>
+        We couldn't find the page you're looking for.<br>
+        Try the menu or head back to <a href="/">home</a>.
+    </p>
+</div>
+
+
+
+</div>
+
+
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="https://fdn2.gsmarena.com/w/css/logo-gsmarena-com.png" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+
+<p>
+&copy; 2000-2020 <a href="team.php3">GSMArena.com</a> 
+<a href="https://www.gsmarena.com/switch.php3?ver=mobile&ref=MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">Mobile version</a>
+<a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.gsmarena.android">Android app</a>
+<a href="contact.php3">Contact us</a>
+<a href="privacy-policy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow noopener">
+  <span class="center">CDN by</span><br />
+  <img src="https://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+</div>
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview'
+, { 'dimension2': '404' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Page Not Found - GSMArena.com</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js?ts=1527752433225'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1060, initial-scale=1.0">
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/gsmarena.css?v=17">
+
+<link rel="shortcut icon" href="https://fdn.gsmarena.com/imgroot/static/favicon.ico">
+
+
+
+
+
+
+
+<script type="text/javascript" src="//dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/8095840/.2_A.34912.3_gsmarena.com_tier1', [728, 90], 'div-gpt-ad-top728x90gsmarenadesktop-0').setTargeting('pageid', '404').addService(googletag.pubads());
+	
+	googletag.defineSlot('/8095840/.2_A.35452.4_gsmarena.com_tier1', [300, 250], 'div-gpt-ad-gsmarenacom35452').setTargeting('pageid', '404').addService(googletag.pubads());
+
+
+
+	googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/reviews.css">
+
+
+<meta name="Description" content="GSMArena Tools & Features list">
+<link rel="shortcut icon" href="i/favicon.ico" />
+</head>
+<body>
+
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/misc.js"></script>
+
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="https://fdn.gsmarena.com/vv/assets12/i/logo.svg"><img src="https://fdn.gsmarena.com/vv/assets12/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="res.php3" method="get" id="topsearch">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sSearch" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">888k</span>
+</a>
+<a href="https://twitter.com/gsmarena_com" class="tw-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">156k</span>
+</a>
+
+<a href="https://www.instagram.com/gsmarenateam/" class="ig-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-instagram icomoon-liga"></i>
+  <span class="icon-count">74k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">1.1m</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup2">
+<form action="login.php3" method="post">
+<input type="Hidden" name="sSource" value="MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">  
+	<p>Login</p>
+	<label for="email"></label>
+	<input type="email" id="email" name="sEmail" maxlength="50" value="" required="" autocomplete="false">
+
+	<label for="upass"></label>
+	<input type="password" id="upass" name="sPassword" placeholder="Your password" maxlength="20" pattern="\S{6,}" required="" autocomplete="false">
+
+	<input class="button" type="submit" value="Log in" id="nick-submit">
+</form>
+	<a class="forgot" href="forgot.php3">I forgot my password</a>
+	</span>
+ <a href="register.php3" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+	<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+  <li><a href="videos.php3">Videos</a></li>
+	<li><a href="news.php3?sTag=Featured">Featured</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="contact.php3">Contact</a></li>                   
+</ul>
+  
+
+
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+<style>
+    #outer .e404 {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #outer .e404 h1 {
+        color: #6d6d6d;
+        font-weight: bold;
+        font-size: 84px;
+
+        margin-top: 44px;
+    }
+    
+    #outer .e404 h2 {
+        color: #b23f33;
+        font-family: "Arimo";
+        font-size: 34px;
+
+        letter-spacing: 0.2em;
+        padding: 0 0 0 14px;
+    }
+
+    #outer .e404 p {
+        color: #7b7777;
+        font-family: "Arimo";
+        font-size: 21px;
+        line-height: 1.5em;
+
+        display: inline-block;
+        text-align: left;
+        margin: 51px 0 100px 17px;
+    }
+
+    #outer .e404 p a {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    var menuButton = document.querySelector('.lines-button');
+    if (menuButton) {
+        $gsm.toggleClass(menuButton, "open", true);
+        $gsm.toggleClass(document.querySelector('#menu'), "open", true);
+        $gsm.toggleClass(document.querySelector("#header"), "open", true);
+    }
+</script>
+
+<div class="e404">
+    <img src="https://fdn.gsmarena.com/vv/assets9/static/404.jpg" alt="Oh No! 404! Page not found">
+
+    <h1>OH NO! 404!</h1>
+    <h2>PAGE NOT FOUND</h2>
+
+    <p>
+        We couldn't find the page you're looking for.<br>
+        Try the menu or head back to <a href="/">home</a>.
+    </p>
+</div>
+
+
+
+</div>
+
+
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="https://fdn2.gsmarena.com/w/css/logo-gsmarena-com.png" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+
+<p>
+&copy; 2000-2020 <a href="team.php3">GSMArena.com</a> 
+<a href="https://www.gsmarena.com/switch.php3?ver=mobile&ref=MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">Mobile version</a>
+<a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.gsmarena.android">Android app</a>
+<a href="contact.php3">Contact us</a>
+<a href="privacy-policy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow noopener">
+  <span class="center">CDN by</span><br />
+  <img src="https://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+</div>
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview'
+, { 'dimension2': '404' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Page Not Found - GSMArena.com</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js?ts=1527752433225'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1060, initial-scale=1.0">
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/gsmarena.css?v=17">
+
+<link rel="shortcut icon" href="https://fdn.gsmarena.com/imgroot/static/favicon.ico">
+
+
+
+
+
+
+
+<script type="text/javascript" src="//dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/8095840/.2_A.34912.3_gsmarena.com_tier1', [728, 90], 'div-gpt-ad-top728x90gsmarenadesktop-0').setTargeting('pageid', '404').addService(googletag.pubads());
+	
+	googletag.defineSlot('/8095840/.2_A.35452.4_gsmarena.com_tier1', [300, 250], 'div-gpt-ad-gsmarenacom35452').setTargeting('pageid', '404').addService(googletag.pubads());
+
+
+
+	googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/reviews.css">
+
+
+<meta name="Description" content="GSMArena Tools & Features list">
+<link rel="shortcut icon" href="i/favicon.ico" />
+</head>
+<body>
+
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/misc.js"></script>
+
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="https://fdn.gsmarena.com/vv/assets12/i/logo.svg"><img src="https://fdn.gsmarena.com/vv/assets12/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="res.php3" method="get" id="topsearch">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sSearch" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">888k</span>
+</a>
+<a href="https://twitter.com/gsmarena_com" class="tw-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">156k</span>
+</a>
+
+<a href="https://www.instagram.com/gsmarenateam/" class="ig-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-instagram icomoon-liga"></i>
+  <span class="icon-count">74k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">1.1m</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup2">
+<form action="login.php3" method="post">
+<input type="Hidden" name="sSource" value="MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">  
+	<p>Login</p>
+	<label for="email"></label>
+	<input type="email" id="email" name="sEmail" maxlength="50" value="" required="" autocomplete="false">
+
+	<label for="upass"></label>
+	<input type="password" id="upass" name="sPassword" placeholder="Your password" maxlength="20" pattern="\S{6,}" required="" autocomplete="false">
+
+	<input class="button" type="submit" value="Log in" id="nick-submit">
+</form>
+	<a class="forgot" href="forgot.php3">I forgot my password</a>
+	</span>
+ <a href="register.php3" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+	<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+  <li><a href="videos.php3">Videos</a></li>
+	<li><a href="news.php3?sTag=Featured">Featured</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="contact.php3">Contact</a></li>                   
+</ul>
+  
+
+
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+<style>
+    #outer .e404 {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #outer .e404 h1 {
+        color: #6d6d6d;
+        font-weight: bold;
+        font-size: 84px;
+
+        margin-top: 44px;
+    }
+    
+    #outer .e404 h2 {
+        color: #b23f33;
+        font-family: "Arimo";
+        font-size: 34px;
+
+        letter-spacing: 0.2em;
+        padding: 0 0 0 14px;
+    }
+
+    #outer .e404 p {
+        color: #7b7777;
+        font-family: "Arimo";
+        font-size: 21px;
+        line-height: 1.5em;
+
+        display: inline-block;
+        text-align: left;
+        margin: 51px 0 100px 17px;
+    }
+
+    #outer .e404 p a {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    var menuButton = document.querySelector('.lines-button');
+    if (menuButton) {
+        $gsm.toggleClass(menuButton, "open", true);
+        $gsm.toggleClass(document.querySelector('#menu'), "open", true);
+        $gsm.toggleClass(document.querySelector("#header"), "open", true);
+    }
+</script>
+
+<div class="e404">
+    <img src="https://fdn.gsmarena.com/vv/assets9/static/404.jpg" alt="Oh No! 404! Page not found">
+
+    <h1>OH NO! 404!</h1>
+    <h2>PAGE NOT FOUND</h2>
+
+    <p>
+        We couldn't find the page you're looking for.<br>
+        Try the menu or head back to <a href="/">home</a>.
+    </p>
+</div>
+
+
+
+</div>
+
+
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="https://fdn2.gsmarena.com/w/css/logo-gsmarena-com.png" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+
+<p>
+&copy; 2000-2020 <a href="team.php3">GSMArena.com</a> 
+<a href="https://www.gsmarena.com/switch.php3?ver=mobile&ref=MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">Mobile version</a>
+<a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.gsmarena.android">Android app</a>
+<a href="contact.php3">Contact us</a>
+<a href="privacy-policy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow noopener">
+  <span class="center">CDN by</span><br />
+  <img src="https://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+</div>
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview'
+, { 'dimension2': '404' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html><!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Page Not Found - GSMArena.com</title>
+<script>
+DESKTOP_BASE_URL = "https://www.gsmarena.com/";
+ASSETS_BASE_URL  = "https://fdn.gsmarena.com/vv/assets12/";
+CDN_BASE_URL = "//fdn.gsmarena.com/";
+CDN2_BASE_URL = "//fdn2.gsmarena.com/";
+</script>
+
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/16425/adRecover.js?ts=1527752433225'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=1060, initial-scale=1.0">
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/gsmarena.css?v=17">
+
+<link rel="shortcut icon" href="https://fdn.gsmarena.com/imgroot/static/favicon.ico">
+
+
+
+
+
+
+
+<script type="text/javascript" src="//dsh7ky7308k4b.cloudfront.net/publishers/gsmarenacom.min.js"></script>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+	
+	googletag.defineSlot('/8095840/.2_A.34912.3_gsmarena.com_tier1', [728, 90], 'div-gpt-ad-top728x90gsmarenadesktop-0').setTargeting('pageid', '404').addService(googletag.pubads());
+	
+	googletag.defineSlot('/8095840/.2_A.35452.4_gsmarena.com_tier1', [300, 250], 'div-gpt-ad-gsmarenacom35452').setTargeting('pageid', '404').addService(googletag.pubads());
+
+
+
+	googletag.enableServices();
+  });
+</script>
+
+
+<link rel="stylesheet" href="https://fdn.gsmarena.com/vv/assets12/css/reviews.css">
+
+
+<meta name="Description" content="GSMArena Tools & Features list">
+<link rel="shortcut icon" href="i/favicon.ico" />
+</head>
+<body>
+
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/misc.js"></script>
+
+<script language='JavaScript' type='text/javascript'>
+function phpads_deliverActiveX(content)
+{
+	document.write(content);	
+}
+</script>
+<header id="header" class="row">
+<div class="wrapper clearfix">
+<div class="top-bar clearfix">
+<!-- HAMBURGER MENU -->
+<button type="button" role="button" aria-label="Toggle Navigation" class="lines-button minus focused">
+<span class="lines"></span>
+</button>
+<!-- /HAMBURGER MENU -->
+
+
+
+<!-- LOGO -->
+<div id="logo">
+<a href="/">
+
+<object type="image/svg+xml" data="https://fdn.gsmarena.com/vv/assets12/i/logo.svg"><img src="https://fdn.gsmarena.com/vv/assets12/i/logo-fallback.gif" alt="GSMArena.com"></object>
+<span>GSMArena.com</span></a>
+</div>
+
+
+
+<div id="nav" role="main">
+<form action="res.php3" method="get" id="topsearch">
+    <input type="text" placeholder="Search" tabindex="201" accesskey="s" id="topsearch-text" name="sSearch" autocomplete="off" />
+    <span id="quick-search-button">
+      <input type="submit" value="Go" />
+      <i class="head-icon icomoon-liga icon-search-left"></i>
+    </span>
+    
+
+</form>
+</div>
+
+
+<div id="social-connect">
+<a href="tipus.php3" class="tip-icon">
+  <i class="head-icon icon-tip-us icomoon-liga"></i><br><span class="icon-count">Tip us</span>
+</a>
+<a href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-fb2 icomoon-liga"></i><br><span class="icon-count">888k</span>
+</a>
+<a href="https://twitter.com/gsmarena_com" class="tw-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-twitter2 icomoon-liga"></i><br><span class="icon-count">156k</span>
+</a>
+
+<a href="https://www.instagram.com/gsmarenateam/" class="ig-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-instagram icomoon-liga"></i>
+  <span class="icon-count">74k</span>
+</a>
+<a href="https://www.youtube.com/channel/UCbLq9tsbo8peV22VxbDAfXA?sub_confirmation=1" class="yt-icon" target="_blank" rel="noopener">
+  <i class="head-icon icon-soc-youtube icomoon-liga"></i><br><span class="icon-count">1.1m</span>
+</a>
+<a href="rss-news-reviews.php3" class="rss-icon">
+  <i class="head-icon icon-soc-rss2 icomoon-liga"></i><br><span class="icon-count">RSS</span>
+</a>
+
+
+
+
+	<a href="#" onclick="return false;" class="login-icon" id="login-active">
+	  <i class="head-icon icon-login"></i><br><span class="icon-count" style="right:4px;">Log in</span>
+	</a>
+
+	<span class="tooltip" id="login-popup2">
+<form action="login.php3" method="post">
+<input type="Hidden" name="sSource" value="MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">  
+	<p>Login</p>
+	<label for="email"></label>
+	<input type="email" id="email" name="sEmail" maxlength="50" value="" required="" autocomplete="false">
+
+	<label for="upass"></label>
+	<input type="password" id="upass" name="sPassword" placeholder="Your password" maxlength="20" pattern="\S{6,}" required="" autocomplete="false">
+
+	<input class="button" type="submit" value="Log in" id="nick-submit">
+</form>
+	<a class="forgot" href="forgot.php3">I forgot my password</a>
+	</span>
+ <a href="register.php3" class="signup-icon no-margin-right"><i class="head-icon icon-user-plus"></i><span class="icon-count">Sign up</span></a>  
+              </div>  
+           </div>                 
+<ul id="menu" class="main-menu-list">
+	<li><a href="/">Home</a></li>
+	<li><a href="news.php3">News</a></li>
+	<li><a href="reviews.php3">Reviews</a></li>
+  <li><a href="videos.php3">Videos</a></li>
+	<li><a href="news.php3?sTag=Featured">Featured</a></li>
+	<li><a href="search.php3">Phone Finder</a></li>
+	<li><a href="tools.php3">Tools</a></li>
+	<li><a href="glossary.php3">Glossary</a></li>
+	<li><a href="network-bands.php3">Coverage</a></li>
+	<li><a href="contact.php3">Contact</a></li>                   
+</ul>
+  
+
+
+      <!-- SOCIAL CONNECT -->
+    </div>
+    
+
+</header> <!--- HEADER END -->
+
+
+		
+
+<div id="wrapper" class="l-container">
+<div id="outer" class="row">
+
+<style>
+    #outer .e404 {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    #outer .e404 h1 {
+        color: #6d6d6d;
+        font-weight: bold;
+        font-size: 84px;
+
+        margin-top: 44px;
+    }
+    
+    #outer .e404 h2 {
+        color: #b23f33;
+        font-family: "Arimo";
+        font-size: 34px;
+
+        letter-spacing: 0.2em;
+        padding: 0 0 0 14px;
+    }
+
+    #outer .e404 p {
+        color: #7b7777;
+        font-family: "Arimo";
+        font-size: 21px;
+        line-height: 1.5em;
+
+        display: inline-block;
+        text-align: left;
+        margin: 51px 0 100px 17px;
+    }
+
+    #outer .e404 p a {
+        text-decoration: underline;
+    }
+</style>
+
+<script>
+    var menuButton = document.querySelector('.lines-button');
+    if (menuButton) {
+        $gsm.toggleClass(menuButton, "open", true);
+        $gsm.toggleClass(document.querySelector('#menu'), "open", true);
+        $gsm.toggleClass(document.querySelector("#header"), "open", true);
+    }
+</script>
+
+<div class="e404">
+    <img src="https://fdn.gsmarena.com/vv/assets9/static/404.jpg" alt="Oh No! 404! Page not found">
+
+    <h1>OH NO! 404!</h1>
+    <h2>PAGE NOT FOUND</h2>
+
+    <p>
+        We couldn't find the page you're looking for.<br>
+        Try the menu or head back to <a href="/">home</a>.
+    </p>
+</div>
+
+
+
+</div>
+
+
+
+
+<div id="footer">
+ <div class="footer-logo">
+     <img src="https://fdn2.gsmarena.com/w/css/logo-gsmarena-com.png" alt="" />
+    </div>
+    <div id="footmenu">
+<p>
+<a href="/">Home</a>
+<a href="news.php3">News</a>
+<a href="reviews.php3">Reviews</a>
+<a href="compare.php3">Compare</a>
+<a href="network-bands.php3">Coverage</a>
+<a href="glossary.php3">Glossary</a>
+<a href="faq.php3">FAQ</a>
+
+<a href="rss-news-reviews.php3" class="rss-icon">RSS feed</a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/GSMArenacom-189627474421/" class="fb-icon">Facebook</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/gsmarena_com" class="tw-icon">Twitter</a>
+
+</p>
+
+<p>
+&copy; 2000-2020 <a href="team.php3">GSMArena.com</a> 
+<a href="https://www.gsmarena.com/switch.php3?ver=mobile&ref=MH5xa2prakBsfHBtemxAbGp4eHpsa0B2b3dwcXpALi1AfHd2b2x6a0B2bEB7cGhxfHNwfHR6e0B4b2pAdmxAbHNwaHptQGt3fnFAcHFAa3d6QC4ubHptdnpsMnF6aGwyKyonLCoxb3dvOi9e">Mobile version</a>
+<a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.gsmarena.android">Android app</a>
+<a href="contact.php3">Contact us</a>
+<a href="privacy-policy.php3">Privacy</a> 
+<a href="terms.php3">Terms of use</a>
+
+			
+</p>			
+<div id="cdn-hosting">
+<a href="http://www.maxcdn.com/" target="_blank" rel="nofollow noopener">
+  <span class="center">CDN by</span><br />
+  <img src="https://cdn2.gsmarena.com/w/css/maxcdn.gif" alt="" />
+</a>
+</div>
+  </div>
+ </div>
+ 
+ 
+</div>
+
+
+<script type="text/javascript" src="https://fdn.gsmarena.com/vv/assets12/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript">
+AUTOCOMPLETE_LIST_URL = "/quicksearch-8089.jpg";
+$gsm.addEventListener(document, "DOMContentLoaded", function() 
+{
+    new Autocomplete( "topsearch-text", "topsearch", true );
+}
+)
+</script>
+
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-131096-1', 'auto' );
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview'
+, { 'dimension2': '404' }
+	);
+
+</script>
+
+
+
+
+
+
+</body></html>

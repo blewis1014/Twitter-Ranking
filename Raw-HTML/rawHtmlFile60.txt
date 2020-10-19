@@ -1,0 +1,3487 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602973360312/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602976897109/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602976897109/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602976897109/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602976897109/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602976897109/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602980485787/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width">
+
+
+    <title>ご指定のページが⾒つかりませんでした | My Nintendo Store（マイニンテンドーストア）</title>
+
+<!-- Google Tag Manager -->
+<script>
+    //<![CDATA[
+    !function(t){function e(o){if(n[o])return n[o].exports;var a=n[o]={exports:{},id:o,loaded:!1};return t[o].call(a.exports,a,a.exports,e),a.loaded=!0,a.exports}var n={};return e.m=t,e.c=n,e.p="",e(0)}([function(t,e,n){var o,a,i;o=n(2),a=new o,a.addAccessInfo(),i=function(t){var e,n;n=t.detail,e=window.Alps.CONST.SESSION_MSG,n.on(e.CONNECT_FAILED,function(t){a.addGuestInfo(),a.send()}),n.on(e.GET_USER_DATA,function(t,e,n){e?a.addAccountInfo(e.getRawData()):a.addGuestInfo(),a.send()})},document.addEventListener("alpsAccountReady",i)},function(t,e){var n;t.exports=n=function(){function t(){}return t.extend=function(t,e){return Object.keys(e).forEach(function(n){t[n]=e[n]}),t},t}()},function(t,e,n){var o;t.exports=o=function(){function t(t){this.global=t||window,this.dataLayer=this.global.dataLayer||[],this.global.dataLayer=this.dataLayer,this.isSent=!1,this.navigator=this.global.navigator,this.location=this.global.location}var e,o;return e=n(1),t.prototype.send=function(){this.isSent||(!function(t,e,n,o,a){t[o]=t[o]||[],t[o].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var i=e.getElementsByTagName(n)[0],s=e.createElement(n),r="dataLayer"!=o?"&l="+o:"";s.async=!0,s.src="//www.googletagmanager.com/gtm.js?id="+a+r,i.parentNode.insertBefore(s,i)}(window,document,"script","dataLayer","GTM-T4M5X4X"),this.isSent=!0)},t.prototype._addAttr=function(t){this.dataLayer.push(t)},o=null,t.prototype._addEvent=function(t,n){(t!==o||"logout"!==o)&&(this._addAttr(e.extend({event:t},n)),o=t)},t.prototype._addEventOrAttr=function(t,e){this.isSent?this._addEvent(t,e):this._addAttr(e)},t.prototype.addAccessInfo=function(){this._addAttr({regionCd:"JPN",pageDevice:this._getPageDevice(),uDevice:this._getUserDevice(this.navigator.userAgent)})},t.prototype.addAccountInfo=function(t){this._addEventOrAttr("login",{uId:t.id,upc01:t.birthday,upc02:t.gender,uCountry:t.country,uLanguage:t.language})},t.prototype.addGuestInfo=function(){this._addEventOrAttr("logout",{uId:null})},t.prototype._getPageDevice=function(){var t;return/\/[A-Za-z0-9]{4}\/sp\//.test(this.location.pathname)?"SP":(t=this.global.matchMedia&&!this.global.matchMedia("screen and (min-width: 641px)").matches,t?"SP":"PC")},t.prototype._getUserDevice=function(t){return t=t.toLowerCase(),/opera/.test(t)&&/nintendo\swii/.test(t)?"WII":/nintendo\swiiu/.test(t)?"WIIU":/nintendo\sdsi/.test(t)?"DSI":/new\snintendo\s3ds/.test(t)?"NEW3DS":/nintendo\s3ds/.test(t)?"3DS":null},t}()}]);
+    //]]>
+</script>
+<!-- End Google Tag Manager -->
+
+
+    <meta name="robots" content="noindex" />
+
+<link rel="shortcut icon" href="/on/demandware.static/Sites-MNS-Site/-/default/dwf03ca7bc/images/favicon.ico" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Roboto:400,700&display=swap&subset=japanese" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.3.1/dist/css/yakuhanjp.min.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602984084497/css/styles.css" />
+
+
+
+    <meta name="google-site-verification" content="45tH6_WSDTpFHIN6Jhcx9aVV_Relvl_B3QtMbNGypdQ" />
+
+
+
+
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602984084497/js/bundle.js"></script>
+
+
+
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    }
+};
+/* ]]> */
+// -->
+</script><script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bfgj-MNS';
+CQuotient.realm = 'BFGJ';
+CQuotient.siteId = 'MNS';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'ja_JP';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+
+
+
+<meta id="state" content="">
+<meta id="session_state" content="">
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4M5X4X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-page">
+<div class="l-header">
+<header class="l-header__content">
+<div class="l-header__contentInner">
+<div class="l-header__header">
+<h1 class="l-header__logo">
+<a href="https://store-jp.nintendo.com/" class="l-header__logoLink">
+<img src="/on/demandware.static/Sites-MNS-Site/-/default/dwe64aa14d/images/logo-mns.svg" alt="My Nintendo Store" class="l-header__logoImg">
+</a>
+</h1>
+</div>
+</div>
+</header>
+</div>
+<div role="main" id="maincontent" class="l-page__main">
+
+    <div class="notFound">
+        <div class="notFound--container">
+            <div class="notFound--icon">
+                <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="122" height="122" viewBox="0 0 122 122">
+                        <path fill-rule="evenodd" d="M30.5 54.464C30.5 41.25 41.247 30.5 54.462 30.5c13.216 0 23.965 10.75 23.965 23.964 0 13.216-10.75 23.965-23.965 23.965S30.5 67.679 30.5 54.464m65.619 32.409L84.85 75.609c4.183-6 6.65-13.28 6.65-21.145 0-20.452-16.58-37.035-37.037-37.035-20.452 0-37.035 16.583-37.035 37.035 0 20.453 16.583 37.036 37.035 37.036 7.87 0 15.146-2.47 21.146-6.649l11.263 11.263c1.185 1.19 2.819 1.922 4.627 1.922 3.612 0 6.536-2.924 6.536-6.536 0-1.808-.732-3.442-1.917-4.627"/>
+                    </svg>
+                </i>
+            </div>
+            <p class="notFound--title">ご指定のページが⾒つかりませんでした</p>
+            <div class="notFound--text">
+                <p>ページが削除、変更されたか、現在利⽤できない可能性があります。</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="l-footer">
+<footer class="l-footer__container">
+<div class="l-footer__footer">
+<div class="l-footer__footerContact">
+<a href="https://www.nintendo.co.jp/support/inquiry/store_qa.html?loc=f" target="_blank" rel="noopener">
+<div class="l-footer__footerContactIcon">
+<title>Contact</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<path fill-rule="evenodd" d="M12.388 9.001c0-.44-.358-.8-.8-.8-.442 0-.775.36-.775.8 0 .441.333.8.775.8s.8-.359.8-.8m-2.575 0c0-.44-.358-.8-.8-.8-.442 0-.8.36-.8.8 0 .441.358.8.8.8.442 0 .8-.359.8-.8m-2.6 0c0-.44-.358-.8-.801-.8-.441 0-.8.36-.8.8 0 .441.359.8.8.8.443 0 .8-.359.8-.8M8.94 4.546c-1.466 0-2.988.657-3.974 1.715-.518.556-1.12 1.473-1.035 2.686.093 1.318.653 2.33 1.713 3.088 1.939 1.39 5.302 1.646 7.967 1.225l-.617-1.094c-.218-.384-.141-.868.184-1.166.44-.405.84-1.388.84-2.064 0-2.587-2.676-4.39-5.078-4.39m2.245 10.807c-2.385 0-4.868-.502-6.646-1.773-1.505-1.079-2.371-2.635-2.501-4.5-.104-1.476.443-2.937 1.539-4.114C4.93 3.514 6.934 2.648 8.939 2.648c3.37 0 6.977 2.526 6.977 6.288 0 .947-.383 2.064-.945 2.87l.93 1.65c.146.255.164.564.049.836-.114.271-.348.473-.632.548-1.214.32-2.655.513-4.134.513"/>
+</svg>
+</div>
+<h3 class="l-footer__footerContactText">
+よくあるご質問・お問い合わせ
+</h3>
+</a>
+</div>
+<div class="l-footer__links">
+<ul class="l-footer__linksGroup">
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/eula/JP?lang=ja-JP" target="_blank" rel="noopener">
+ご利用規約
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://accounts.nintendo.com/term/privacy_policy/JP?lang=ja-JP" target="_blank" rel="noopener">
+プライバシーポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/support/legal-notes/payment-services.html" target="_blank" rel="noopener">
+資金決済法に基づく表示
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/about_hp.html" target="_blank" rel="noopener">
+任天堂ウェブサイトポリシー
+</a>
+</li>
+<li class="l-footer__linksItem">
+<a href="https://www.nintendo.co.jp/" target="_blank" rel="noopener">
+任天堂公式ホームページ
+</a>
+</li>
+</ul>
+</div>
+<div class="l-footer__copyright">
+<small>&copy;Nintendo</small>
+<small class="l-footer__country">Japan</small>
+</div>
+<div class="l-footer__pagetop">
+<a href="#" class="js-pagetop l-footer__pagetopButton">
+<i>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+<title>Page Top</title>
+<path fill-rule="evenodd" d="M9 5.795c-.316 0-.634.1-.9.3l-4 3c-.662.497-.797 1.437-.3 2.1.498.662 1.437.796 2.1.3L9 9.17l3.1 2.325c.665.496 1.603.362 2.1-.3.497-.663.362-1.603-.3-2.1l-4-3c-.266-.2-.584-.3-.9-.3" />
+</svg>
+</i>
+</a>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602984084497/js/scripts.js"></script>
+
+
+
+<!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://store-jp.nintendo.com/on/demandware.store/Sites-MNS-Site/ja_JP/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602984084497/internal/jscript/dwanalytics-20.5.1.js" async="async" onload="trackPage()"></script>
+<!-- Demandware Active Data (body_end-active_data.js) -->
+<script src="/on/demandware.static/Sites-MNS-Site/-/ja_JP/v1602984084497/internal/jscript/dwac-20.3.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
+

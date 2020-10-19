@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head prefix="website: http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LINEゲーム予約" />
+    <meta property="og:url" content="https://liff.line.me/1653512749-7j14aJap/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&amp;utm_medium=tweet_OnmyojiCard&amp;utm_campaign=20201015_gameditail%0A" />
+    <meta property="og:image" content="https://obs.line-scdn.net/0hHTQ_1MVNF3tsJj-e3hdoLE17HBlfRAlwTkBfGUsiSUhHE1hDUkBYFBp2T0pARFksB0RbSCcmQR5AFFErWAVZThpyHUxFEQ/f256x256" />
+
+    <script type="text/javascript">
+        redirectToTargetPage();
+
+        function redirectToTargetPage() {
+            const hash = location.hash;
+            if (hash) {
+                const liffState = "\/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&utm_medium=tweet_OnmyojiCard&utm_campaign=20201015_gameditail%0A";
+                const liffStateWithHash = decodeURIComponent(liffState + hash);
+
+                const liffUrl = new URL("https://game-yoyaku.line.me");
+                liffUrl.searchParams.append("liff.state", liffStateWithHash)
+
+                window.location.href = liffUrl.href
+            } else {
+                window.location.href = "https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p><a href="https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A">Please click here if you are not redirected within a few seconds</a></p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head prefix="website: http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LINEゲーム予約" />
+    <meta property="og:url" content="https://liff.line.me/1653512749-7j14aJap/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&amp;utm_medium=tweet_OnmyojiCard&amp;utm_campaign=20201015_gameditail%0A" />
+    <meta property="og:image" content="https://obs.line-scdn.net/0hHTQ_1MVNF3tsJj-e3hdoLE17HBlfRAlwTkBfGUsiSUhHE1hDUkBYFBp2T0pARFksB0RbSCcmQR5AFFErWAVZThpyHUxFEQ/f256x256" />
+
+    <script type="text/javascript">
+        redirectToTargetPage();
+
+        function redirectToTargetPage() {
+            const hash = location.hash;
+            if (hash) {
+                const liffState = "\/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&utm_medium=tweet_OnmyojiCard&utm_campaign=20201015_gameditail%0A";
+                const liffStateWithHash = decodeURIComponent(liffState + hash);
+
+                const liffUrl = new URL("https://game-yoyaku.line.me");
+                liffUrl.searchParams.append("liff.state", liffStateWithHash)
+
+                window.location.href = liffUrl.href
+            } else {
+                window.location.href = "https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p><a href="https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A">Please click here if you are not redirected within a few seconds</a></p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head prefix="website: http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LINEゲーム予約" />
+    <meta property="og:url" content="https://liff.line.me/1653512749-7j14aJap/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&amp;utm_medium=tweet_OnmyojiCard&amp;utm_campaign=20201015_gameditail%0A" />
+    <meta property="og:image" content="https://obs.line-scdn.net/0hHTQ_1MVNF3tsJj-e3hdoLE17HBlfRAlwTkBfGUsiSUhHE1hDUkBYFBp2T0pARFksB0RbSCcmQR5AFFErWAVZThpyHUxFEQ/f256x256" />
+
+    <script type="text/javascript">
+        redirectToTargetPage();
+
+        function redirectToTargetPage() {
+            const hash = location.hash;
+            if (hash) {
+                const liffState = "\/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&utm_medium=tweet_OnmyojiCard&utm_campaign=20201015_gameditail%0A";
+                const liffStateWithHash = decodeURIComponent(liffState + hash);
+
+                const liffUrl = new URL("https://game-yoyaku.line.me");
+                liffUrl.searchParams.append("liff.state", liffStateWithHash)
+
+                window.location.href = liffUrl.href
+            } else {
+                window.location.href = "https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p><a href="https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A">Please click here if you are not redirected within a few seconds</a></p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head prefix="website: http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LINEゲーム予約" />
+    <meta property="og:url" content="https://liff.line.me/1653512749-7j14aJap/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&amp;utm_medium=tweet_OnmyojiCard&amp;utm_campaign=20201015_gameditail%0A" />
+    <meta property="og:image" content="https://obs.line-scdn.net/0hHTQ_1MVNF3tsJj-e3hdoLE17HBlfRAlwTkBfGUsiSUhHE1hDUkBYFBp2T0pARFksB0RbSCcmQR5AFFErWAVZThpyHUxFEQ/f256x256" />
+
+    <script type="text/javascript">
+        redirectToTargetPage();
+
+        function redirectToTargetPage() {
+            const hash = location.hash;
+            if (hash) {
+                const liffState = "\/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&utm_medium=tweet_OnmyojiCard&utm_campaign=20201015_gameditail%0A";
+                const liffStateWithHash = decodeURIComponent(liffState + hash);
+
+                const liffUrl = new URL("https://game-yoyaku.line.me");
+                liffUrl.searchParams.append("liff.state", liffStateWithHash)
+
+                window.location.href = liffUrl.href
+            } else {
+                window.location.href = "https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p><a href="https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A">Please click here if you are not redirected within a few seconds</a></p>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head prefix="website: http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="LINEゲーム予約" />
+    <meta property="og:url" content="https://liff.line.me/1653512749-7j14aJap/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&amp;utm_medium=tweet_OnmyojiCard&amp;utm_campaign=20201015_gameditail%0A" />
+    <meta property="og:image" content="https://obs.line-scdn.net/0hHTQ_1MVNF3tsJj-e3hdoLE17HBlfRAlwTkBfGUsiSUhHE1hDUkBYFBp2T0pARFksB0RbSCcmQR5AFFErWAVZThpyHUxFEQ/f256x256" />
+
+    <script type="text/javascript">
+        redirectToTargetPage();
+
+        function redirectToTargetPage() {
+            const hash = location.hash;
+            if (hash) {
+                const liffState = "\/detail/MDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk=/?utm_source=twitter&utm_medium=tweet_OnmyojiCard&utm_campaign=20201015_gameditail%0A";
+                const liffStateWithHash = decodeURIComponent(liffState + hash);
+
+                const liffUrl = new URL("https://game-yoyaku.line.me");
+                liffUrl.searchParams.append("liff.state", liffStateWithHash)
+
+                window.location.href = liffUrl.href
+            } else {
+                window.location.href = "https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p><a href="https://game-yoyaku.line.me?liff.state=%2Fdetail%2FMDEwX19HYW1lX19hN2JjZmMyZjRiNGU3NGRjNzgyNjMwYzE2N2NhZGY4Mzk%3D%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtweet_OnmyojiCard%26utm_campaign%3D20201015_gameditail%0A">Please click here if you are not redirected within a few seconds</a></p>
+</body>
+
+</html>
