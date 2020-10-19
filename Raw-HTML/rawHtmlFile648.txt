@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>              <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>                 <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>                 <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/" class="no-js ie8"> 
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/" class="no-js"> <!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://piction.clevelandart.org/cma/ump.di?e=33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F&amp;s=21&amp;se=1103641240&amp;v=3&amp;f=1941.215.4_o10.jpg" />
+<link rel="canonical" href="http://www.clevelandart.org/art/1941.215.4" />
+<meta property="og:site_name" content="Cleveland Museum of Art" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hamlet: Polonius and Hamlet" />
+<meta property="og:url" content="http://www.clevelandart.org/art/1941.215.4" />
+<meta property="og:updated_time" content="2020-05-13T09:15:01-04:00" />
+<meta property="og:image" content="https://piction.clevelandart.org/cma/ump.di?e=33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F&amp;s=21&amp;se=1103641240&amp;v=3&amp;f=1941.215.4_o10.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@clevelandart" />
+<meta name="twitter:url" content="http://www.clevelandart.org/art/1941.215.4" />
+<meta name="twitter:title" content="Hamlet: Polonius and Hamlet" />
+<meta name="twitter:image" content="https://piction.clevelandart.org/cma/ump.di?e=33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F&amp;s=21&amp;se=1103641240&amp;v=3&amp;f=1941.215.4_o10.jpg" />
+<meta property="article:published_time" content="2018-10-31T20:00:37-04:00" />
+<meta property="article:modified_time" content="2020-05-13T09:15:01-04:00" />
+<meta name="dcterms.title" content="Hamlet: Polonius and Hamlet" />
+<meta name="dcterms.creator" content="Anonymous" />
+<meta name="dcterms.date" content="2018-10-31T20:00-04:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://www.clevelandart.org/art/1941.215.4" />
+  <!-- TODO: add the following meta tags to $head via theme_settings -->
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame 
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Hamlet: Polonius and Hamlet | Cleveland Museum of Art</title>
+  <link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_WI12h-6VJXmW9OTtr6Bi6q0odCs15Tfq9jD_hue2U8U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_K-DiUec8SARBX8NelVdMPmIZPK6HJnMHsKdIpcD_hng.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_ZcqkcDv3OD34sWs9QF-0oJ2nReVLDmDeRod0sBlqhBY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/css/css_WGWWyc43h2AlVxBNv4zuNVCLi2k1S3pB6QCPRH4mbgM.css" media="all" />
+  <script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js"></script>
+<script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_KCd8rbJYUruV1tRJnh4um34UYvyhlrSVCPR1jNko2h8.js"></script>
+<script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_f_BpsloZtITWNBq8h8TQNh4SUGlZKD__yTkMLSN2_t8.js"></script>
+<script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_3lFfy--gugVUAbp3WzvGzpx8xSmftcJHc973ULVLgq8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-4110574-4", {"cookieDomain":".cmaweb23-bbn-2.clevelandart.org"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_6IVv-T0Qqr2DHXRLDEDDjQ12SIE53QNm1qGPmJ8TrGE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cma_collection_v2","theme_token":"4C42ONtdZppFhmsb0bTrNggnAEUibJfV_j6Mw4_15XI","js":{"sites\/all\/modules\/contrib\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/clevelandart\/clevelandart_collection\/js\/zoomify-image.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/spamspan\/spamspan.js":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"sites\/all\/libraries\/openseadragon\/openseadragon.min.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"misc\/collapse.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/cma_collection_v2\/libs\/clipboard.js\/clipboard.min.js":1,"sites\/all\/themes\/cma_collection_v2\/libs\/ss-standard.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery-ui.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect-slide.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/collectionHelpers.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/collectionMainSiteHeader.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/collectionForms.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/replaceMacrons.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectImageControls.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectCMALogo.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectAltViews.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectShare.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectMobileHeader.js":1,"sites\/all\/themes\/cma_collection_v2\/js\/artObjectZoomifyMisc.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"sites\/all\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/themes\/cma_collection_v2\/css\/ie.css":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/themes\/base\/minified\/jquery-ui.min.css":1,"sites\/all\/themes\/cma_collection_v2\/css\/style.css":1,"sites\/all\/themes\/cma_collection_v2\/panels.css":1,"sites\/all\/themes\/cma_collection_v2\/flexslider.css":1,"sites\/all\/themes\/cma_collection_v2\/jplayer\/dark\/jplayer.dark.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"modernizrPath":false,"modernizrServerside":false,"base_url":"https:\/\/cmaweb23-bbn-2.clevelandart.org","zoomifyImageField":{"zoomify-viewer-0":{"tileSourceURL":"https:\/\/piction.clevelandart.org\/zoomify\/84E97B7C652C37854F13458AD80647F32C611CA67129C43126854D9597CD20B5.dzi"}},"flexslider":{"optionsets":{"art_object_mobile_slider":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"slide","slideshow":false,"slideshowSpeed":"7000","directionNav":true,"controlNav":false,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"art_object_mobile_slider"}},"field_group":{"fieldset":"open_access_art_object"},"urlIsAjaxTrusted":{"\/art\/collection\/search":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-21742 node-type-art-object" >
+  <div class="conversion-tags">
+      </div>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+  <div id="page" class="page license-cc0 art-object-no-altviews">
+
+    <div id="top-nav">
+      <div class="inside">
+        <h2 class="element-invisible">You are here:</h2><div id="breadcrumb" class="breadcrumb"><a href="/">Home</a> → <a href="/art">Art</a> → <a href="/art/collection/search">Collections</a> → <a href="/art/collection/search">Search</a></div>        <div id="mainsite-menu-button" title="Expand main menu"><i class="ss-icon ss-standard">&#xE9A1;</i></div>
+      </div>
+    </div>
+
+    <header id="header-logo">
+      <a href="http://www.clevelandart.org/">
+        <div class="logo"></div>
+      </a>
+    </header>
+
+    <header id="header-search">
+      <div class="header-search-inside">
+          <section id="header_min_search" class="region region-header-min-search">
+    <div id="block-panels-mini-collection-search" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-collection_search">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-collection-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/art/collection/search" method="GET" id="clevelandart-collection-search-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-search">
+  <label for="edit-search">search term </label>
+ <input placeholder="Search by artist, keyword, or reference" type="text" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-E_6W7UVVjLCbo7_9KrTWHBH9BqwzrYYbVuDd-wWyEvc" />
+<input type="hidden" name="form_id" value="clevelandart_collection_search_form" />
+</div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </section>
+        <div class="fade"></div>
+      </div>
+    </header>
+
+    <header id="header-mainsite" role="banner" class="clearfix">
+      <div class="inner">
+        <h1 id="site-name">
+          <a href="/" title="Home" rel="home">The Cleveland Museum of Art</a>
+        </h1>
+                <div class="button-close" title="Close menu">
+          <i class="ss-icon ss-standard">&#x2421;</i>
+        </div>
+        <nav role="navigation">
+          <div id="main-menu" class="clearfix">
+          <ul class="menu"><li class="first expanded"><a href="/visit" title="">visit</a><ul class="menu"><li class="first leaf"><a href="https://www.clevelandart.org/home-where-art-stay-connected">home is where the art is </a></li>
+<li class="leaf"><a href="/visit/admission-and-hours">admission and hours</a></li>
+<li class="leaf"><a href="/visit/visitor-information">visitor information</a></li>
+<li class="leaf"><a href="/artlens-gallery">ARTLENS Gallery and app</a></li>
+<li class="leaf"><a href="https://shop.clevelandart.org/">museum store</a></li>
+<li class="leaf"><a href="/store/purchase-tickets">purchase tickets</a></li>
+<li class="leaf"><a href="/visit/visitor-information/accessibility-and-ada-compliance">accessibility</a></li>
+<li class="leaf"><a href="/visit/directions-and-parking">directions and parking</a></li>
+<li class="last leaf"><a href="https://www.clevelandart.org/visit-plan#amenities">restaurant &amp; café</a></li>
+</ul></li>
+<li class="expanded"><a href="/art">art</a><ul class="menu"><li class="first leaf"><a href="/search-collection">collection online</a></li>
+<li class="leaf"><a href="/open-access">Open Access</a></li>
+<li class="leaf"><a href="https://www.clevelandart.org/art/collection/dashboard">virtual cma dashboards</a></li>
+<li class="leaf"><a href="/art/collections">curatorial departments</a></li>
+<li class="leaf"><a href="/art/curators">curators</a></li>
+<li class="leaf"><a href="/art/conservation">conservation</a></li>
+<li class="last leaf"><a href="/art/behind-the-scenes">behind the scenes</a></li>
+</ul></li>
+<li class="expanded"><a href="/exhibitions">exhibitions</a><ul class="menu"><li class="first leaf"><a href="/exhibitions/current">current exhibitions</a></li>
+<li class="leaf"><a href="/exhibitions/upcoming">upcoming exhibitions</a></li>
+<li class="leaf"><a href="/exhibitions/past">past exhibitions</a></li>
+<li class="last leaf"><a href="http://library.clevelandart.org/search_exhibition">historical exhibitions</a></li>
+</ul></li>
+<li class="expanded"><a href="/learn">learn</a><ul class="menu"><li class="first leaf"><a href="/learn/kids-and-families">kids and families</a></li>
+<li class="leaf"><a href="/learn/teens">teens</a></li>
+<li class="leaf"><a href="/learn/adults">adults </a></li>
+<li class="leaf"><a href="/learn/educators">educators</a></li>
+<li class="last leaf"><a href="/learn/community-arts">community arts</a></li>
+</ul></li>
+<li class="expanded"><a href="/events">events</a><ul class="menu"><li class="first leaf"><a href="/events/virtual-events">Virtual Events </a></li>
+<li class="leaf"><a href="/events/music-and-performances/behind-the-beat">behind the beat</a></li>
+<li class="last leaf"><a href="/canceled-and-postponed-events">Canceled and Postponed Events</a></li>
+</ul></li>
+<li class="expanded"><a href="/research">research</a><ul class="menu"><li class="first leaf"><a href="/research/library">library</a></li>
+<li class="leaf"><a href="/research/museum-archives">museum archives</a></li>
+<li class="leaf"><a href="/research/curatorial">curatorial</a></li>
+<li class="leaf"><a href="/research/conservation">conservation</a></li>
+<li class="leaf"><a href="/research/image-resources">image resources</a></li>
+<li class="leaf"><a href="/research/publications">publications</a></li>
+<li class="last leaf"><a href="/research/curatorial/nazi-era-provenance">Nazi-era provenance</a></li>
+</ul></li>
+<li class="expanded" id="join-and-give"><a href="/join-and-give">join and give</a><ul class="menu"><li class="first leaf"><a href="https://give.clevelandart.org/">donate</a></li>
+<li class="leaf"><a href="/join-and-give/support">Support </a></li>
+<li class="leaf"><a href="/join-and-give/membership">Membership</a></li>
+<li class="leaf"><a href="/join-and-give/member-magazine">Member Magazine</a></li>
+<li class="leaf"><a href="/join-and-give/volunteer">Volunteer</a></li>
+<li class="last leaf"><a href="/join-and-give/honor-roll-of-support">Honor Roll of Support </a></li>
+</ul></li>
+<li class="last expanded"><a href="/about">about</a><ul class="menu"><li class="first leaf"><a href="/about/about-the-museum">about the museum</a></li>
+<li class="leaf"><a href="/looking-forward-making-art-matter">strategic plan</a></li>
+<li class="leaf"><a href="/diversity-equity-and-inclusion-plan">Diversity, Equity and Inclusion Plan</a></li>
+<li class="leaf"><a href="/about/press">press</a></li>
+<li class="leaf"><a href="/documents/other/cma-landscape-master-plan">Master Landscape Plan </a></li>
+<li class="leaf"><a href="/magazine">magazine</a></li>
+<li class="leaf"><a href="https://tracking.wordfly.com/join/ClevelandMuseumofArt/">subscribe to e-news</a></li>
+<li class="leaf"><a href="/about/employment">employment, internships, and fellowships</a></li>
+<li class="last leaf"><a href="/about/contact-us">contact us</a></li>
+</ul></li>
+</ul>          </div>
+        </nav>
+      </div>
+    </header>
+
+    <div id="main-overlay"></div>
+
+    <div id="main-wrapper" class="clearfix">
+
+      <div role="main">
+        
+                <a id="main-content"></a>
+
+        
+        
+                                  <section id="content" class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-display panel-2col clearfix" >
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-entity-field pane-node-field-images image-source"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-images field-type-field-collection field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-images-large-image field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-images clearfix" about="/field-collection/field-images/23509193" typeof="">
+  <div class="content">
+    <div class="field field-name-field-large-image field-type-link-field field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><img typeof="foaf:Image" src="https://piction.clevelandart.org/cma/ump.di?e=33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F&amp;s=21&amp;se=1103641240&amp;v=3&amp;f=1941.215.4_o10.jpg" alt="" /></div>
+      </div>
+</div>
+  </div>
+</div>
+</div></div>
+      </div>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-images"  id="print-image-urls" >
+  
+        <h2 class="pane-title">
+      Images    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-images field-type-field-collection field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-print-image-url field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-images clearfix" about="/field-collection/field-images/23509193" typeof="">
+  <div class="content">
+    <div class="field field-name-field-print-image field-type-link-field field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even">https://piction.clevelandart.org/cma/ump.di?e=D5E2D5BDC46D640C5330C29DC8A640C613379F3900B19E9ACEA75FF25B50CB51&s=21&se=1103641240&v=3&f=1941.215.4_o2.jpg</div>
+      </div>
+</div>
+  </div>
+</div>
+</div></div>
+      </div>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-images zoomify"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-images field-type-field-collection field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-images-zoomify field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-images clearfix" about="/field-collection/field-images/23509193" typeof="">
+  <div class="content">
+    <div class="field field-name-field-seadragon-tiles-url field-type-link-field field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div  id="zoomify-viewer-0" class="zoomify-viewer"></div>
+</div>
+      </div>
+</div>
+  </div>
+</div>
+</div></div>
+      </div>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-art-detail-carousel-mobile-panel-slider"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-art-detail-carousel view-id-art_detail_carousel view-display-id-mobile_panel_slider view-dom-id-22afbe97ffec471aeb76cc7c4b778009 views-panel-pane">
+        
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-1" class="flexslider optionset-art-object-mobile-slider">
+  <ul class="slides"><li>  
+  <div class="views-field views-field-field-large-image">        <div class="field-content"><img typeof="foaf:Image" src="https://piction.clevelandart.org/cma/ump.di?e=33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F&amp;s=21&amp;se=1103641240&amp;v=3&amp;f=1941.215.4_o10.jpg" alt="" /></div>  </div></li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="image-controls" class="image-controls">
+
+  <div class="controls-group controls-left">
+    <a class="image-control-btn" id="zoomify-zoom-in-btn" href="#" title="Zoom in"></a>
+    <a class="image-control-btn" id="zoomify-zoom-out-btn" href="#" title="Zoom out"></a>
+  </div>
+
+  <div class="controls-group controls-center">
+    <div class="altviews-btn-wrapper">
+      <a class="art-object-altviews-btn" href="#">Alternate Views</a>
+    </div>
+  </div>
+
+  <div class="controls-group controls-right">
+    <a class="image-control-btn" id="mode-3d-btn" href="#3d" title="Explore a 3-D model of this artwork"></a>
+    <a class="image-control-btn" id="mode-image-only-btn" href="#imageonly" title="Show just the image by itself"></a>
+    <a class="image-control-btn" id="mode-large-image-btn" href="#" title="Large image view"></a>
+    <a class="image-control-btn" id="mode-thumbnail-btn" href="#thumbnail" title="Thumbnail view"></a>
+    <a class="image-control-btn" id="zoomify-fullscreen-btn" href="#fullscreen" title="Full screen zoomable image"></a>
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-node-content pane-art-object"  >
+  
+        <h2 class="pane-title">
+      Hamlet:  Polonius and Hamlet    </h2>
+    
+  
+  <div class="pane-content">
+    <div  about="/art/1941.215.4" typeof="sioc:Item foaf:Document" class="ds-1col node node-art-object view-mode-open_access_art_object clearfix">
+
+  
+  <h1 class="field field-name-field-primary-title field-type-text field-label-hidden">Hamlet:  Polonius and Hamlet</h1><p class="field field-name-field-date-text field-type-text field-label-hidden">1834</p><p class="field field-name-art-object-has-cover-record field-type-ds field-label-hidden">Part of a set. <a href="/art/collection/search?search=1941.215&amp;filter-include-parts=1">See all set records</a></p><div class="field field-name-art-object-artists"><h1 class="field field-artist-name-full"><span class="field field-name-field-artist-name"><a href="/art/collection/search?filter-artist=Eug%C3%A8ne%20Delacroix">Eugène Delacroix</a></span></h1><p class="field field-name-field-artist-origin">(French, 1798-1863)</p></div><div class="field field-name-art-object-creation-summaries"><div class="field-collection-view"><p class="field field_name_field_creation_text"><a href="/art/collection/search?filter-culture=France%2C%2019th%20century">France, 19th century</a></p></div></div><p class="field field-name-art-object-medium field-type-ds field-label-hidden">Lithograph</p><p class="field field-name-art-object-credit-line-accession field-type-ds field-label-hidden"><span class="field field-name-field-credit-line">Twenty-fifth anniversary gift,  Mr. and Mrs. Lewis B. Williams Collection </span><span class="field field-name-field-accession-number">1941.215.4 </span></p><p class="field field-name-field-catalogue-raisonne field-type-text field-label-inline clearfix"><span class="label-inline" >Catalogue raisonné:&nbsp;</span>Delteil 106</p><p class="field field-name-field-state field-type-text field-label-inline clearfix"><span class="label-inline" >State:&nbsp;</span>III/III</p><div class="field field-name-art-object-location field-type-ds field-label-above"><h2 class="label-above" >Location</h2><div class="field field-name-field-gallery-id field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><a href="/art/collection/search?filter-gallery=not%20on%20view">not on view</a></div>
+      </div>
+</div>
+</div><div class="field-name-art-object-share-links"><h2 class="label-above">Download and Share</h2><div class="download-share"><div class="btn-share btn-share-download"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/download.gif" alt="Download" title="Download artwork &amp; metadata" height="30"></div><div class="btn-share btn-share-cc0"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/cc0.gif" alt="Creative Commons CC0" title="Creative Commons CC0" height="30"></div><div class="btn-share btn-share-print"><a href="/print/art/1941.215.4" target="_blank"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/print.gif" alt="Print" title="Print this page" height="30"></a></div><div class="btn-share btn-share-social"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social.gif" alt="Social share" title="Share this!" height="30"></div></div><div class="share-links-section-wrapper share-links-download-wrapper"><div class="share-links-section share-links-download"><ul><li>This image is in the public domain. You can use it however you want. Read more about <a href="/open-access">Open Access</a>.<span class="alt-view-tiff-text">At this time, we are not offering high-resolution TIFF images of detail or alternate views. <a href="/art/collection/request-image?object=1941.215.4">Request high-resolution TIFF.</a></span></li><li class="download-jpeg-and-caption"><a href="https://openaccess-api.clevelandart.org/api/collectiononline/jpeg_and_caption/1941.215.4">JPEG and caption</a></li><li class="download-jpeg"><a href="/">JPEG</a></li><li class="download-tiff"><a href="https://openaccess-api.clevelandart.org/api/collectiononline/tiff/1941.215.4">High-resolution TIFF</a></li><li class="download-metadata"><a href="https://openaccess-api.clevelandart.org/api/collectiononline/metadata/1941.215.4">Download metadata only</a></li></ul></div></div><div class="share-links-section-wrapper share-links-rights-wrapper"><div class="share-links-section share-links-rights"><a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons (CC0 1.0)</a><br />You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.</div></div><div class="share-links-section-wrapper share-links-social-wrapper share-links-push-index"><div class="share-links-section share-links-social"><div class="btn-social btn-social-facebook" data-href="https://www.clevelandart.org/art/1941.215.4"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.clevelandart.org/art/1941.215.4&amp;display=popup" target="_blank" title="Share on Facebook"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social/facebook.gif" alt="Facebook icon" height="30"></a></div><div class="btn-social btn-social-pinterest"><a href="http://pinterest.com/pin/create/button/?url=https%3A//www.clevelandart.org/art/1941.215.4&amp;description=Hamlet:  Polonius and Hamlet&amp;media=https%3A//piction.clevelandart.org/cma/ump.di%3Fe%3D33B458E6429A5D59BC038E77DF62BDD3B88F83BD9C96E45438397BB14945BB1F%26s%3D21%26se%3D1103641240%26v%3D3%26f%3D1941.215.4_o10.jpg" target="_blank" title="Share on Pinterest"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social/pinterest.gif" alt="Pinterest icon" height="30"></a></div><div class="btn-social btn-social-twitter"><a href="http://twitter.com/share?url=https%3A//www.clevelandart.org/art/1941.215.4&amp;text=Hamlet:  Polonius and Hamlet @ClevelandArt. Learn more at " target="_blank" title="Share on Twitter"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social/twitter.gif" alt="Twitter icon" height="30"></a></div><div class="btn-social btn-social-link"><a href="#" title="Share a link"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social/link.gif" alt="Link icon" height="30"></a></div><div class="btn-social btn-social-email"><a href="mailto:?subject=Hamlet:  Polonius and Hamlet: The Cleveland Museum of Art&amp;body=https://www.clevelandart.org/art/1941.215.4" title="Email to a friend"><img src="https://cmaweb23-bbn-2.clevelandart.org/sites/all/themes/cma_collection_v2/images/share-links/social/email.gif" alt="Email icon" height="30"></a></div><div class="page-url-wrapper"><input id="page-url" type="text" value="https://www.clevelandart.org/art/1941.215.4" readonly=""><button class="btn-copy-page-url" data-clipboard-target="#page-url">Copy</button></div></div></div></div><fieldset class="collapsible collapsed group-biography field-group-fieldset form-wrapper"><legend><span class="fieldset-legend">Artist biography</span></legend><div class="fieldset-wrapper"><div class="field field-name-art-object-artist-biographies"><div class="field-collection-view"><h3 class="field field-name-field-artist-biography-name">Eugène Delacroix</h3><div class="field field-name-field-artist-biography">Eugène Delacroix studied under history painter Pierre-Narcisse Guérin (1774-1833) and at the École des Beaux-Arts, though he did not succeed in competitions there. He soon befriended romantic painter Théodore Géricault (1791-1824) and exhibited at his first Salon in 1822 his powerful, moody The Barque of Dante (Musée du Louvre, Paris). In the next Salon, inspired by the recent events in the Greeks' struggle for independence against the Turks, Delacroix showed Scenes from the Massacres at Chios (Musée du Louvre, Paris), a painting whose anti-academic composition, free brushwork, and brilliant color caused hostile critics to accuse the artist of the "massacre of painting." Nevertheless, he was awarded a Salon medal and the state purchased the picture. 
+After the early death of Géricault, the young artist became the titular head of the French romantic artistic movement, as much for his innovative technique as his new themes. Widely read and an Anglophile, Delacroix drew frequently from British literature, especially Shakespeare, Byron, and Sir Walter Scott. He also developed a strong interest in orientalist subjects, spurred by the five-month trip to Morocco and southern Spain he took in 1832. He stressed the creative and imaginative elements of painting and opposed the academy for its rote learning and the bourgeoisie for its overly materialistic interests. Delacroix discussed his aesthetic ideas with an ever-expanding circle of writers, musicians, and artists that he frequented, including pianist-composer Frédéric Chopin and writer George Sand. But ultimately he developed a personal conception of beauty that could only be expressed in an individualized manner. 
+Recent studies have revised the long-standing interpretation of Delacroix as a radical, anticlassical, misunderstood, and unsupported genius. He greatly admired antiquity and the classical authors but insisted on avoiding the narrow or didactic view of them offered by the academies. He may not have emulated classical statuary as sources for his figures, but he did often represent heroic nude figures. For all his insistence on invention, Delacroix retained some sense of documentary reconstruction, for he made numerous studies of costumes and weapons and did other kinds of research before tackling certain subjects. From the beginning and throughout his career, Delacroix received many religious and historical painting commissions, from provincial churches to government buildings, under different rulers and even political systems. His allegorical work Liberty Leading the Barricades (1830-31, Musée du Louvre, Paris) represents the only painting in which the artist referred to a contemporary political event in France, the revolution that overthrew Louis XVIII and the Bourbon monarchy. This, too, was purchased by the state. In 1833 he was asked to decorate with allegories the Salon du Roi of the Palais Bourbon, the seat of the deputies. Their success brought him additional commissions in the same building, such as the library (1838), and then the library in the senate (1841-46), housed in the Palais du Luxembourg. His historical, religious, and allegorical paintings were often criticized by more conservative critics for a lack of decorum, anatomical distortions, too-bright or unnaturalistic color, and free brushwork, but he continued to find work because he was one of the few artists who continued to explore these "elevated" genres and had a sure sense of the decorative. 
+Extremely prolific, Delacroix accomplished a major mural commission for the church of Saint-Sulpice in Paris (1850-63) the year before his death. He was even elected in 1857 to the Académie des Beaux-Arts, but younger artists consistently regarded him as antiestablishment and a paragon of artistic experimentation. He wrote extensively on art and aesthetic issues, both in his private diaries and for published journals.1
+1. Recently, scholars such as Michele Hannoosh, Painting and the Journal of Eugene Delacroix (Princeton, 1995), have examined the content and style of Delacroix's texts for what they might tell about Delacroix the writer as well as the work and creative process of Delacroix the artist.
+Delacroix was one of the most innovative and successful painters of the first half of the 19th century. He is known as the last great history painter and his art is the ideal of Romanticism in the visual arts. Delacroix's career is marked by the paradox between the revolutionary and the conventional. He was in conflict with the artist Ingres and was seen as the leading figure of the French Romantic movement; he was famed for undermining the tradition of painting established by David, yet he benefited from official patronage from the beginning of the Restoration (1814-1830) until the Second Empire (1852-1870).</div></div></div></div></fieldset>
+<fieldset class="collapsible collapsed group-exhibition-history field-group-fieldset form-wrapper"><legend><span class="fieldset-legend">Exhibition history</span></legend><div class="fieldset-wrapper"><div class="field-collection-container clearfix"><div class="field field-name-field-exhibition-histories"><div class="field-collection-view clearfix view-mode-open-access-art-object field-collection-view-final"><div  about="/field-collection/field-exhibition-histories/23775456" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-exhibition-histories view-mode-open_access_art_object clearfix">
+
+  
+  <div class="field field-name-field-exhibition-tombstone"><p><i>The Graphic Works of Delacroix</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 18-November 3, 1963).</p>
+</div></div>
+
+</div></div></div></div></fieldset>
+<fieldset class="collapsible collapsed group-cite-this-page field-group-fieldset form-wrapper"><legend><span class="fieldset-legend">Cite this page</span></legend><div class="fieldset-wrapper"><p class="field field-name-art-object-cite-this-page field-type-ds field-label-hidden">{{cite web|title=Hamlet:  Polonius and Hamlet|url=https://clevelandart.org/art/1941.215.4|author=Eugène Delacroix|year=1834|access-date=17 October 2020|publisher=Cleveland Museum of Art}}</p></div></fieldset>
+<fieldset class="group-see-also field-group-div form-wrapper"><legend><span class="fieldset-legend">See also</span></legend><div class="fieldset-wrapper"><div class="field field-name-field-athena-collection"><div class="label-inline">Collection:&nbsp;</div><a href="/art/collection/search?filter-collection=PR%20-%20Lithograph">PR - Lithograph</a></div><div class="field field-name-field-athena-department"><div class="label-inline">Department:&nbsp;</div><a href="/art/collection/search?filter-department=Prints">Prints</a></div><div class="field field-name-field-classification-text"><div class="label-inline">Type of artwork:&nbsp;</div><a href="/art/collection/search?filter-type=Print">Print</a></div><div class="field field-name-field-medium"><div class="label-inline">Medium:&nbsp;</div><a href="/art/collection/search?filter-medium=Lithograph">Lithograph</a></div><div class="field field-name-field-art-credit-line"><div class="label-inline">Credit line:&nbsp;</div><a href="/art/collection/search?filter-credit=Twenty-fifth%20anniversary%20gift%2C%20%20Mr.%20and%20Mrs.%20Lewis%20B.%20Williams%20Collection">Twenty-fifth anniversary gift,  Mr. and Mrs. Lewis B. Williams Collection</a></div></div></fieldset>
+</div>
+
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-dsc"  >
+  
+        <h2 class="pane-title">
+      Contact us    </h2>
+    
+  
+  <div class="pane-content">
+    <p>The information about this object, including provenance information, is based on historic information and may not be currently accurate or complete. Research on objects is an ongoing process, but the information about this object may not reflect the most current information available to CMA. If you notice a mistake or have additional information about this object, please email <a href="mailto:collectionsdata@clevelandart.org?body=Hamlet:  Polonius and Hamlet from the Cleveland Museum of Art%0C%0Dhttps%3A//www.clevelandart.org/art/1941.215.4&subject=Hamlet:  Polonius and Hamlet: Collections">collectionsdata@clevelandart.org</a>.</p><p>To request more information about this object, study images, or bibliography, contact the <a href="mailto:reference@clevelandart.org?body=Hamlet:  Polonius and Hamlet from the Cleveland Museum of Art%0C%0Dhttps%3A//www.clevelandart.org/art/1941.215.4&subject=Hamlet:  Polonius and Hamlet: Ingalls Library">Ingalls Library Reference Desk</a>.</p><p>Is something not working on this page? Please email <a href="mailto:help.website@clevelandart.org?body=Hamlet:  Polonius and Hamlet from the Cleveland Museum of Art%0C%0Dhttps%3A//www.clevelandart.org/art/1941.215.4&subject=Hamlet:  Polonius and Hamlet: Digital Technology">help.website@clevelandart.org</a>.</p><p><a href="/art/collection/request-image?object=1941.215.4">Request a digital file from Image Services</a> that is not available through CC0, a detail image, or any image with a color bar. If you have questions about requesting an image, please email <a href="mailto:imageservices@clevelandart.org?body=Hamlet:  Polonius and Hamlet from the Cleveland Museum of Art%0C%0Dhttps%3A//www.clevelandart.org/art/1941.215.4&subject=Hamlet:  Polonius and Hamlet: Image Services">imageservices@clevelandart.org</a>. </p>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </section>
+              </div> <!-- /main -->
+
+    </div> <!-- /#main -->
+
+  </div> <!-- /#page -->
+  <script type="text/javascript" src="https://cmaweb23-bbn-2.clevelandart.org/sites/default/files/js/js_jt_2eD5-TBE2uq1hEScPGQpaQA00KukbWraRqEiUrZI.js"></script>
+</body>
+</html>

@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://batutacursos.com/xmlrpc.php">
+	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#1e73be">
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.batutacursos.com.br/wp-content/uploads/192.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://www.batutacursos.com.br/wp-content/uploads/512.png">
+<!-- / SuperPWA.com -->
+<!-- Optimized by SG Optimizer plugin version - 5.6.7 --><link rel="manifest" href="https://batutacursos.com/wp-json/push-notification/v2/pn-manifest-json"><script>window._wca = window._wca || [];</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>História da Arte: Arte Pré histórica e Mesopotâmica | Batuta Cursos</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://batutacursos.com/historia-da-arte-art-html-12731/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="História da Arte: Arte Pré histórica e Mesopotâmica | Batuta Cursos" />
+	<meta property="og:url" content="https://batutacursos.com/historia-da-arte-art-html-12731/" />
+	<meta property="og:site_name" content="Batuta Cursos" />
+	<meta property="article:publisher" content="https://www.facebook.com/batutacursos" />
+	<meta property="article:published_time" content="2020-10-17T04:12:26+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://batutacursos.com/#organization","name":"Batuta Cursos","url":"https://batutacursos.com/","sameAs":["https://www.facebook.com/batutacursos"],"logo":{"@type":"ImageObject","@id":"https://batutacursos.com/#logo","inLanguage":"pt-BR","url":"","caption":"Batuta Cursos"},"image":{"@id":"https://batutacursos.com/#logo"}},{"@type":"WebSite","@id":"https://batutacursos.com/#website","url":"https://batutacursos.com/","name":"Batuta Cursos","description":"Cursos livres EaD","publisher":{"@id":"https://batutacursos.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://batutacursos.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://batutacursos.com/historia-da-arte-art-html-12731/#webpage","url":"https://batutacursos.com/historia-da-arte-art-html-12731/","name":"Hist\u00f3ria da Arte: Arte Pr\u00e9 hist\u00f3rica e Mesopot\u00e2mica | Batuta Cursos","isPartOf":{"@id":"https://batutacursos.com/#website"},"datePublished":"2020-10-17T04:12:26+00:00","dateModified":"2020-10-17T04:12:26+00:00","inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://batutacursos.com/historia-da-arte-art-html-12731/"]}]},{"@type":"Article","@id":"https://batutacursos.com/historia-da-arte-art-html-12731/#article","isPartOf":{"@id":"https://batutacursos.com/historia-da-arte-art-html-12731/#webpage"},"author":{"@id":"https://batutacursos.com/#/schema/person/432c3a7650c1d8ae6731c1fe4f99fbff"},"headline":"Hist\u00f3ria da Arte: Arte Pr\u00e9 hist\u00f3rica e Mesopot\u00e2mica","datePublished":"2020-10-17T04:12:26+00:00","dateModified":"2020-10-17T04:12:26+00:00","mainEntityOfPage":{"@id":"https://batutacursos.com/historia-da-arte-art-html-12731/#webpage"},"commentCount":0,"publisher":{"@id":"https://batutacursos.com/#organization"},"articleSection":"Blog","inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://batutacursos.com/historia-da-arte-art-html-12731/#respond"]}]},{"@type":"Person","@id":"https://batutacursos.com/#/schema/person/432c3a7650c1d8ae6731c1fe4f99fbff","name":"Batuta Cursos","image":{"@type":"ImageObject","@id":"https://batutacursos.com/#personlogo","inLanguage":"pt-BR","url":"//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=96&#038;r=g&#038;d=blank","caption":"Batuta Cursos"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Batuta Cursos &raquo;" href="https://batutacursos.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Batuta Cursos &raquo;" href="https://batutacursos.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Batuta Cursos &raquo; História da Arte: Arte Pré histórica e Mesopotâmica" href="https://batutacursos.com/historia-da-arte-art-html-12731/feed/" />
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/69cfd.css" media="all" />
+
+
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/7d0e5.css" media="all" />
+
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://c0.wp.com/p/woocommerce/4.6.0/packages/woocommerce-blocks/build/vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://c0.wp.com/p/woocommerce/4.6.0/packages/woocommerce-blocks/build/style.css' type='text/css' media='all' />
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/24484.css" media="all" />
+
+<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/052b8.css" media="all" />
+
+
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://c0.wp.com/p/woocommerce/4.6.0/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://c0.wp.com/p/woocommerce/4.6.0/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/16172.css" media="all" />
+
+
+
+
+
+
+<link rel='stylesheet' id='jetpack_facebook_likebox-css'  href='https://c0.wp.com/p/jetpack/9.0.2/modules/widgets/facebook-likebox/style.css' type='text/css' media='all' />
+<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/68b2c.css" media="all" />
+
+
+
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/9.0.2/_inc/social-logos/social-logos.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.0.2/css/jetpack.css' type='text/css' media='all' />
+    <script>window.LP_DEBUG = true</script>
+	<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script src="https://batutacursos.com/wp-content/cache/minify/b14ed.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/batutacursos.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":108156,"token":"5eb2b7df29","lang":0,"debug":0}
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/56d32.js"></script>
+
+<script async defer type='text/javascript' src='https://stats.wp.com/s-202042.js' id='woocommerce-analytics-js'></script>
+<script src="https://batutacursos.com/wp-content/cache/minify/c15de.js"></script>
+
+
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-7034461-5' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTNiMT', true);
+gtag('config', 'UA-7034461-5', {"anonymize_ip":true} );
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/9a55d.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='utils-js-extra'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1602986085","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/utils.min.js' id='utils-js'></script>
+<script type='text/javascript' id='global-js-extra'>
+/* <![CDATA[ */
+var lpGlobalSettings = {"url":"https:\/\/batutacursos.com\/historia-da-arte-art-html-12731\/","siteurl":"https:\/\/batutacursos.com","ajax":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php","theme":"eduma","localize":{"button_ok":"OK","button_cancel":"Cancelar","button_yes":"Sim","button_no":"Nenhum"}};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/2027b.js"></script>
+
+
+
+
+
+<link rel="https://api.w.org/" href="https://batutacursos.com/wp-json/" /><link rel="alternate" type="application/json" href="https://batutacursos.com/wp-json/wp/v2/posts/108156" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://batutacursos.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://batutacursos.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WooCommerce 4.6.0" />
+<link rel='shortlink' href='https://wp.me/paWKpp-s8s' />
+<link rel="alternate" type="application/json+oembed" href="https://batutacursos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbatutacursos.com%2Fhistoria-da-arte-art-html-12731%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://batutacursos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbatutacursos.com%2Fhistoria-da-arte-art-html-12731%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartilhar",
+	Save: "Salvar",
+	Subscribe: "Inscrever",
+	Email: "Email",
+	Bookmark: "Favoritos",
+	ShowAll: "Mostrar tudo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Procurar serviço(s)",
+	FindAnyServiceToAddTo: "Encontrar rapidamente qualquer serviço para",
+	PoweredBy: "Serviço fornecido por",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Adicionar aos favoritos",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Adicionar a favoritos",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+
+	<script type="text/javascript">var ajaxurl = 'https://batutacursos.com/wp-admin/admin-ajax.php';</script>
+
+<meta name="generator" content="Site Kit by Google 1.18.0" />            <script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+            <script>
+                WebFont.load({
+                    google:{"families":["Roboto","Cookie"],"subsets":""}                });
+            </script>
+			<style type='text/css'>img#wpstats{display:none}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	            <script type="text/javascript">
+                function tc_insert_internal_css(css) {
+                    var tc_style = document.createElement("style");
+                    tc_style.type = "text/css";
+                    tc_style.setAttribute('data-type', 'tc-internal-css');
+                    var tc_style_content = document.createTextNode(css);
+                    tc_style.appendChild(tc_style_content);
+                    document.head.appendChild(tc_style);
+                }
+            </script>
+						<script  type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script  type="text/javascript">
+
+				fbq('init', '288691265418657', {}, {
+    "agent": "woocommerce-4.6.0-2.0.5"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "4.6.0",
+    "pluginVersion": "2.0.5"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// insert placeholder for events injected when a product is added to the cart through AJAX
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+						<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({"google_ad_client":"ca-pub-2844231674441000","enable_page_level_ads":true,"tag_partner":"site_kit"});</script><link rel="icon" href="https://i1.wp.com/batutacursos.com/wp-content/uploads/cropped-marca.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/batutacursos.com/wp-content/uploads/cropped-marca.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/batutacursos.com/wp-content/uploads/cropped-marca.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/batutacursos.com/wp-content/uploads/cropped-marca.png?fit=270%2C270&#038;ssl=1" />
+<style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://batutacursos.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYmRlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2RlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmY2RlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmbGRlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYGRlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRlV9Su1caiTVo.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://batutacursos.com/wp-content/fonts/roboto-slab/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RlV9Su1cai.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>        <script type="text/javascript">
+            if (typeof ajaxurl === 'undefined') {
+                /* <![CDATA[ */
+                var ajaxurl = "https://batutacursos.com/wp-admin/admin-ajax.php";
+                /* ]]> */
+            }
+        </script>
+		</head>
+<body class="bp-nouveau post-template-default single single-post postid-108156 single-format-standard wp-embed-responsive theme-eduma woocommerce-no-js thim-body-load-overlay boxed-area bg-boxed-image thim-popup-feature no-js" id="thim-body">
+
+<!-- Mobile Menu-->
+<div class="mobile-menu-wrapper">
+    <div class="mobile-menu-inner">
+        <div class="icon-wrapper">
+            <div class="menu-mobile-effect navbar-toggle close-icon" data-effect="mobile-effect">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+        </div>
+        <nav class="mobile-menu-container mobile-effect">
+			<div class="mobile-menu-inner">
+    <div class="icon-wrapper">
+        <div class="menu-mobile-effect navbar-toggle close-icon" data-effect="mobile-effect">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </div>
+    </div>
+    <nav class="mobile-menu-container mobile-effect">
+        <ul class="nav navbar-nav">
+		    <li id="menu-item-11029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11029 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.batutacursos.com.br" class="tc-menu-inner">Início</a></li>
+<li id="menu-item-13321" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-13321 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://batutacursos.com/blog/" class="tc-menu-inner">Blog</a></li>
+<li id="menu-item-11031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11031 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Ajuda</span>
+<ul class="sub-menu">
+	<li id="menu-item-14150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14150 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="http://batutacursos.esy.es/" class="tc-menu-inner tc-megamenu-title">Plataforma 1.0</a></li>
+	<li id="menu-item-11052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11052 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/contato/" class="tc-menu-inner tc-megamenu-title">Contato</a>
+	<ul class="sub-menu">
+		<li id="menu-item-12807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12807 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.batutacursos.com/wp-login.php?action=lostpassword" class="tc-menu-inner">Recuperar Senha</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li id="menu-item-11030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11030 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/como-funciona/" class="tc-menu-inner tc-megamenu-title">Como Funciona</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13341 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://batutacursos.com/instrutor/" class="tc-menu-inner">Seja um Instrutor</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+        </ul>
+    </nav>
+</div>
+        </nav>
+    </div>
+</div>
+
+<div id="wrapper-container" class="wrapper-container">
+    <div class="content-pusher">
+        <header id="masthead" class="site-header affix-top header_default header_v1">
+				<div id="toolbar" class="toolbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="toolbar-container">
+						<aside id="text-2" class="widget widget_text">			<div class="textwidget"><div class="thim-have-any-question">
+Dúvidas ou sugestões? 
+<div class="email"><i class="fa fa-envelope"></i><a href="mailto:contato@batutacursos.com">contato@batutacursos.com</a>
+</div>
+</div></div>
+		</aside><aside id="woocommerce_widget_cart-4" class="widget woocommerce widget_shopping_cart"><h4 class="widget-title">Carrinho</h4></aside><aside id="login-popup-3" class="widget widget_login-popup"><div class="thim-widget-login-popup thim-widget-login-popup-base template-base"><div class="thim-link-login thim-login-popup">
+	<a class="register js-show-popup" href="https://batutacursos.com/account/?action=register">Registre-se</a><a class="login js-show-popup" href="https://batutacursos.com/account/">Entrar</a></div>
+</div></aside>					</div>
+				</div>
+			</div>
+		</div>
+	</div><!--End/div#toolbar-->
+<!-- <div class="main-menu"> -->
+<div class="thim-nav-wrapper container">
+	<div class="row">
+		<div class="navigation col-sm-12">
+			<div class="tm-table">
+				<div class="width-logo table-cell sm-logo">
+					<a href="https://batutacursos.com/" title="Batuta Cursos - Cursos livres EaD" rel="home" class="no-sticky-logo"><img src="https://www.batutacursos.com/wp-content/uploads/logo.png" alt="Batuta Cursos" ></a><a href="https://batutacursos.com/" rel="home" class="sticky-logo"><img src="https://www.batutacursos.com/wp-content/uploads/logo.png" alt="Batuta Cursos" ></a>				</div>
+
+                <nav class="width-navigation table-cell table-right">
+                    <ul class="nav navbar-nav menu-main-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11029 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.batutacursos.com.br" class="tc-menu-inner">Início</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-13321 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://batutacursos.com/blog/" class="tc-menu-inner">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11031 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Ajuda</span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14150 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="http://batutacursos.esy.es/" class="tc-menu-inner tc-megamenu-title">Plataforma 1.0</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11052 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/contato/" class="tc-menu-inner tc-megamenu-title">Contato</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12807 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.batutacursos.com/wp-login.php?action=lostpassword" class="tc-menu-inner">Recuperar Senha</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11030 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/como-funciona/" class="tc-menu-inner tc-megamenu-title">Como Funciona</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13341 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://batutacursos.com/instrutor/" class="tc-menu-inner">Seja um Instrutor</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+</ul>
+                </nav>
+
+                <div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+			</div>
+			<!--end .row-->
+		</div>
+	</div>
+</div>        </header>
+
+        <div id="main-content">
+			<section class="content-area">        <div class="top_heading  _out">
+            <div class="top_site_main "
+                 style="color: #ffffff;background-image:url(https://www.batutacursos.com/wp-content/themes/eduma/images/bg-page.jpg);">
+                <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
+				                    <div class="page-title-wrapper">
+                        <div class="banner-wrapper container">
+							<h2>Blog</h2>                        </div>
+                    </div>
+				            </div>
+			        <div class="breadcrumbs-wrapper">
+            <div class="container">
+				<ul itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" id="breadcrumbs" class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://batutacursos.com" title="Home"><span itemprop="name">Home</span><meta itemprop="position" content="1" /></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://batutacursos.com/blog/" title="Blog"><span itemprop="name">Blog</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://batutacursos.com/category/noticias/" title="Blog"><span itemprop="name">Blog</span></a><meta itemprop="position" content="3" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name" title="História da Arte: Arte Pré histórica e Mesopotâmica">História da Arte: Arte Pré histórica e Mesopotâmica</span><meta itemprop="position" content="4" /></li></ul>            </div>
+        </div>
+		        </div>
+		<div class="container site-content sidebar-left"><div class="row"><main id="main" class="site-main col-sm-9 alignright">
+
+    <div class="page-content">
+					
+<article id="post-108156" class="post-108156 post type-post status-publish format-standard hentry category-noticias">
+
+
+	<div class="page-content-inner">
+					<header class="entry-header">
+				<h1 class="entry-title">História da Arte: Arte Pré histórica e Mesopotâmica</h1>						<ul class="entry-meta">
+							<li class="author">
+					<span>Postado por</span>
+					<span class="vcard author author_name"><a href="https://batutacursos.com/author/batuta/">Batuta Cursos</a></span>				</li>
+								<li class="entry-category">
+					<span>Categorias</span> <a href="https://batutacursos.com/category/noticias/" rel="category tag">Blog</a>				</li>
+								<li class="entry-date">
+					<span>Data</span>
+					<span class="value"> 17/10/2020</span>
+				</li>
+													<li class="comment-total">
+						<span>Comentários</span>
+						<a href="https://batutacursos.com/historia-da-arte-art-html-12731/#respond"><span class="dsq-postid" data-dsqidentifier="108156 https://batutacursos.com/historia-da-arte-art-html-12731/">0 comentário</span></a>					</li>
+					
+		</ul>
+					</header>
+							<!-- .entry-header -->
+		<div class="entry-content">
+			<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compartilhe:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-108156" class="share-facebook sd-button share-icon" href="https://batutacursos.com/historia-da-arte-art-html-12731/?share=facebook" target="_blank" title="Clique para compartilhar no Facebook"><span>Facebook</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://batutacursos.com/historia-da-arte-art-html-12731/?share=jetpack-whatsapp" target="_blank" title="Clique para compartilhar no WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>					</div>
+		<div class="entry-tag-share">
+			<div class="row">
+				<div class="col-sm-6">
+									</div>
+				<div class="col-sm-6">
+									</div>
+			</div>
+		</div>
+				<div class="thim-about-author">
+			<div class="author-wrapper">
+				<div class="author-avatar">
+                    <a href="https://batutacursos.com/author/batuta/">
+                    <img alt="author avatar" src="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=110&#038;r=g&#038;d=blank" class="avatar avatar-110 photo jetpack-lazy-image" height="110" width="110" loading="lazy" data-lazy-srcset="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=110&#038;r=g&#038;d=blank 2x" data-lazy-src="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=110&amp;is-pending-load=1#038;r=g&#038;d=blank" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='author avatar' src='//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=110&#038;r=g&#038;d=blank' srcset="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=110&#038;r=g&#038;d=blank 2x" class='avatar avatar-110 photo' height='110' width='110' loading='lazy'/></noscript>                    </a>
+				</div>
+				<div class="author-bio">
+					<div class="author-top">
+						<a class="name" href="https://batutacursos.com/author/batuta/">
+							Batuta Cursos						</a>
+											</div>
+					<ul class="thim-author-social">
+						
+						
+						
+                        
+						
+											</ul>
+
+				</div>
+				<div class="author-description">
+									</div>
+			</div>
+		</div>
+		
+							<div class="entry-navigation-post">
+									<div class="prev-post">
+						<p class="heading">Post anterior</p>
+						<h5 class="title">
+							<a href="https://batutacursos.com/auxiliar-de-alimenta-html-12856/">Auxiliar de Alimentação Escolar</a>
+						</h5>
+
+						<div class="date">
+							17/10/2020						</div>
+					</div>
+				
+									<div class="next-post">
+						<p class="heading">Próximo post</p>
+						<h5 class="title">
+							<a href="https://batutacursos.com/historia-da-arte-html-21215/">História da arte</a>
+						</h5>
+
+						<div class="date">
+							17/10/2020						</div>
+					</div>
+							</div>
+
+					<section class="related-archive">
+		<h3 class="single-title">Você também pode gostar</h3>
+		<div class="archived-posts"><div class="thim-carousel-wrapper" data-visible="3" data-itemtablet="2" data-itemmobile="1" data-pagination="1">				<div class="post-109030 post type-post status-publish format-standard hentry category-noticias">
+					<div class="category-posts clear">
+						<div class="rel-post-text">
+							<h5 class="title-related no-images">
+								<a href="https://batutacursos.com/historia-da-arte-html-21467/" title="História da arte">História da arte</a>
+							</h5>
+
+							<div class="date">
+								17 outubro, 2020							</div>
+						</div>
+						<div class="des-related">
+							<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compartilhe:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-109030" class="share-facebook sd-button share-icon" href="https://batutacursos.com/historia-da-arte-html-21467/?share=facebook" target="_blank" title="Clique para compartilhar no Facebook"><span>Facebook</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://batutacursos.com/historia-da-arte-html-21467/?share=jetpack-whatsapp" target="_blank" title="Clique para compartilhar no WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>						</div>
+					</div>
+				</div>
+								<div class="post-109029 post type-post status-publish format-standard hentry category-noticias">
+					<div class="category-posts clear">
+						<div class="rel-post-text">
+							<h5 class="title-related no-images">
+								<a href="https://batutacursos.com/historia-da-arte-art-html-12980/" title="História da Arte: Arte Pré histórica e Mesopotâmica">História da Arte: Arte Pré histórica e Mesopotâmica</a>
+							</h5>
+
+							<div class="date">
+								17 outubro, 2020							</div>
+						</div>
+						<div class="des-related">
+							<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compartilhe:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-109029" class="share-facebook sd-button share-icon" href="https://batutacursos.com/historia-da-arte-art-html-12980/?share=facebook" target="_blank" title="Clique para compartilhar no Facebook"><span>Facebook</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://batutacursos.com/historia-da-arte-art-html-12980/?share=jetpack-whatsapp" target="_blank" title="Clique para compartilhar no WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>						</div>
+					</div>
+				</div>
+								<div class="post-109028 post type-post status-publish format-standard hentry category-noticias">
+					<div class="category-posts clear">
+						<div class="rel-post-text">
+							<h5 class="title-related no-images">
+								<a href="https://batutacursos.com/auxiliar-de-alimenta-html-13114/" title="Auxiliar de Alimentação Escolar">Auxiliar de Alimentação Escolar</a>
+							</h5>
+
+							<div class="date">
+								17 outubro, 2020							</div>
+						</div>
+						<div class="des-related">
+							<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compartilhe:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-109028" class="share-facebook sd-button share-icon" href="https://batutacursos.com/auxiliar-de-alimenta-html-13114/?share=facebook" target="_blank" title="Clique para compartilhar no Facebook"><span>Facebook</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://batutacursos.com/auxiliar-de-alimenta-html-13114/?share=jetpack-whatsapp" target="_blank" title="Clique para compartilhar no WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div>						</div>
+					</div>
+				</div>
+				</div></div>	</section><!--.related-->
+	</div>
+</article>			
+<div id="disqus_thread"></div>
+		    </div>
+</main>
+<div id="sidebar" class="widget-area col-sm-3" role="complementary">
+	<aside id="bbp_login_widget-5" class="widget bbp_widget_login">
+			<form method="post" action="https://batutacursos.com/wp-login.php" class="bbp-login-form">
+				<fieldset class="bbp-form">
+					<legend>Entrar</legend>
+
+					<div class="bbp-username">
+						<label for="user_login">Nome de usuário: </label>
+						<input type="text" name="log" value="" size="20" maxlength="100" id="user_login" autocomplete="off" />
+					</div>
+
+					<div class="bbp-password">
+						<label for="user_pass">Senha: </label>
+						<input type="password" name="pwd" value="" size="20" id="user_pass" autocomplete="off" />
+					</div>
+
+					<div class="bbp-remember-me">
+						<input type="checkbox" name="rememberme" value="forever"  id="rememberme" />
+						<label for="rememberme">Mantenha-me autenticado</label>
+					</div>
+
+					<div class="anr_captcha_field"><div id="anr_captcha_field_1" class="anr_captcha_field_div"><input type="hidden" name="g-recaptcha-response" value="" /></div></div>
+					<div class="bbp-submit-wrapper">
+
+						<button type="submit" name="user-submit" id="user-submit" class="button submit user-submit">Entrar</button>
+
+						
+	<input type="hidden" name="user-cookie" value="1" />
+
+	<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="https://batutacursos.com/historia-da-arte-art-html-12731/" /><input type="hidden" id="_wpnonce" name="_wpnonce" value="0375be87c5" /><input type="hidden" name="_wp_http_referer" value="/historia-da-arte-art-html-12731/" />
+					</div>
+
+					
+				</fieldset>
+			</form>
+
+		</aside><aside id="lp-widget-popular-courses-5" class="widget widget_lp-widget-popular-courses"><h4 class="widget-title">Cursos Populares</h4>
+<div class="archive-course-widget-outer ">
+
+    <div class="widget-body">
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/crimes-na-internet/">
+                        <h3 class="course-title">Crimes na Internet</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">Gratuito</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		
+    </div>
+
+    
+    <div class="widget-footer">
+		            <a class="pull-right" href="https://batutacursos.com/">
+				LP Courses            </a>
+		    </div>
+</div></aside><aside id="lp-widget-recent-courses-4" class="widget widget_lp-widget-recent-courses"><h4 class="widget-title">Cursos em Destaques</h4>
+<div class="archive-course-widget-outer ">
+
+    <div class="widget-body">
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/operacao-de-centrais-telefonicas-analogicas-e-digitais/">
+                        <h3 class="course-title">Operação de Centrais Telefônicas Analógico, Digital e Híbrido</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">&#82;&#36;12.00</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/assistente-de-secretaria-escolar/">
+                        <h3 class="course-title">Assistente de Secretaria Escolar</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">&#82;&#36;18.99</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/assistente-de-aluno/">
+                        <h3 class="course-title">Assistente de Alunos</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">&#82;&#36;19.90</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/administracao-atendimento-ao-cliente-marketing-e-vendas-em-lojas-de-departamentos/">
+                        <h3 class="course-title">Atendimento ao Cliente, Marketing e Vendas em Lojas de Departamentos</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">&#82;&#36;9.00</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		            <div class="course-entry">
+
+                <!-- course thumbnail -->
+				
+                <div class="course-detail">
+                    <!-- course title -->
+                    <a href="https://batutacursos.com/curso/assistente-administrativo-educacional/">
+                        <h3 class="course-title">Assistente Administrativo Educacional</h3>
+                    </a>
+
+                    <!-- course content -->
+					
+                    <div class="course-meta-data">
+                        <!-- price -->
+						                            <div class="course-meta-field">&#82;&#36;18.99</div>
+						
+                        <!-- number students -->
+						
+                        <!-- number lessons -->
+						
+                        <!-- instructor -->
+						                    </div>
+                </div>
+            </div>
+		
+    </div>
+
+	
+    <div class="widget-footer">
+		            <a class="pull-right" href="https://batutacursos.com/">
+				LP Courses            </a>
+		    </div>
+</div></aside>      <aside id="mailpoet_form-11" class="widget widget_mailpoet_form">
+  
+      <h4 class="widget-title">Newsletter</h4>
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div
+    id="mailpoet_form_1"
+    class="
+      mailpoet_form
+      mailpoet_form_widget
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "
+      >
+        <style type="text/css">.mailpoet_hp_email_label{display:none!important;}#mailpoet_form_1 .mailpoet_form {  }
+#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; }
+#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: bold; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_1 .mailpoet_checkbox {  }
+#mailpoet_form_1 .mailpoet_submit input {  }
+#mailpoet_form_1 .mailpoet_divider {  }
+#mailpoet_form_1 .mailpoet_message {  }
+#mailpoet_form_1 .mailpoet_validate_success { font-weight: 600; color: #468847; }
+#mailpoet_form_1 .mailpoet_validate_error { color: #b94a48; }#mailpoet_form_1{;}#mailpoet_form_1 .mailpoet_message {margin: 0;}#mailpoet_form_1 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_1 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_1 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} </style>
+    <form
+      target="_self"
+      method="post"
+      action="https://batutacursos.com/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_widget"
+      novalidate
+      data-delay=""
+      data-exit-intent-enabled=""
+      data-font-family=""
+    >
+      <input type="hidden" name="data[form_id]" value="1" />
+      <input type="hidden" name="token" value="aafd942c10" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label">Deixe esse campo em branco<input type="email" name="data[email]"/></label><div class="mailpoet_paragraph"><input type="text" class="mailpoet_text" name="data[form_field_NDg4MjdmMDIzYjdhX2ZpcnN0X25hbWU=]" title="Nome" value="" data-automation-id="form_first_name"  placeholder="Nome" /></div>
+<div class="mailpoet_paragraph"><input type="email" class="mailpoet_text" name="data[form_field_ZWU5Mjc2OTVmZTc2X2VtYWls]" title="E-mail" value="" data-automation-id="form_email"  placeholder="E-mail *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-error-message="Defina um endereço de e-mail válido." data-parsley-required-message="Este campo é obrigatório."/></div>
+<div class="mailpoet_paragraph"><input type="submit" class="mailpoet_submit" value="Assinar!" data-automation-id="subscribe-submit-button" style="border-color:transparent;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Verifique sua caixa de entrada ou a pasta de spam para confirmar sua assinatura.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+  </div>
+
+      </aside>
+  <aside id="bp_core_whos_online_widget-7" class="widget widget_bp_core_whos_online_widget buddypress widget"><h4 class="widget-title">Quem está online</h4>
+		
+			<div class="widget-error">
+				Não há usuários online neste momento			</div>
+
+		
+		</aside><aside id="bp_core_login_widget-5" class="widget widget_bp_core_login_widget buddypress widget"><h4 class="widget-title"></h4>
+		
+			
+			<form name="bp-login-form" id="bp-login-widget-form" class="standard-form" action="https://batutacursos.com/wp-login.php" method="post">
+				<label for="bp-login-widget-user-login">Nome de usuário</label>
+				<input type="text" name="log" id="bp-login-widget-user-login" class="input" value="" />
+
+				<label for="bp-login-widget-user-pass">Senha</label>
+				<input type="password" name="pwd" id="bp-login-widget-user-pass" class="input" value=""  spellcheck="false" autocomplete="off" />
+
+				<div class="forgetmenot"><label for="bp-login-widget-rememberme"><input name="rememberme" type="checkbox" id="bp-login-widget-rememberme" value="forever" /> Lembrar</label></div>
+
+				<input type="submit" name="wp-submit" id="bp-login-widget-submit" value="Login" />
+
+				
+					<span class="bp-login-widget-register-link"><a href="https://batutacursos.com/registro/">Registrar-se</a></span>
+
+				
+				
+			</form>
+
+			
+		</aside><aside id="facebook-likebox-16" class="widget widget_facebook_likebox">		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/batutacursos/" data-width="340"  data-height="850" data-hide-cover="false" data-show-facepile="true" data-tabs="timeline" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/batutacursos/"><a href="https://www.facebook.com/batutacursos/"></a></blockquote></div>
+		</div>
+		</aside>
+		<aside id="recent-posts-9" class="widget widget_recent_entries">
+		<h4 class="widget-title">Notícias</h4>
+		<ul>
+											<li>
+					<a href="https://batutacursos.com/historia-da-arte-html-21467/">História da arte</a>
+									</li>
+											<li>
+					<a href="https://batutacursos.com/historia-da-arte-art-html-12980/">História da Arte: Arte Pré histórica e Mesopotâmica</a>
+									</li>
+											<li>
+					<a href="https://batutacursos.com/auxiliar-de-alimenta-html-13114/">Auxiliar de Alimentação Escolar</a>
+									</li>
+											<li>
+					<a href="https://batutacursos.com/historia-da-arte-html-21466/">História da arte</a>
+									</li>
+											<li>
+					<a href="https://batutacursos.com/historia-da-arte-art-html-12979/">História da Arte: Arte Pré histórica e Mesopotâmica</a>
+									</li>
+					</ul>
+
+		</aside></div><!-- #secondary -->
+</div></div></section><!-- #section content-area-->            <div class="footer-bottom-above">
+
+                <div class="container">
+					<aside id="facebook-likebox-18" class="widget widget_facebook_likebox footer_bottom_widget">		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/batutacursos" data-width="340"  data-height="130" data-hide-cover="false" data-show-facepile="false" data-tabs="false" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/batutacursos"><a href="https://www.facebook.com/batutacursos"></a></blockquote></div>
+		</div>
+		</aside>                </div>
+
+            </div>
+			
+<footer id="colophon" class=" site-footer has-footer-bottom">
+	        <div class="footer">
+            <div class="container">
+                <div class="row">
+					<aside id="text-1210020" class="widget widget_text footer_widget">			<div class="textwidget"><p><a href="https://www.batutacursos.com/instrutor/">Seja um instrutor você também! Clique Aqui!</a></p>
+</div>
+		</aside>                </div>
+            </div>
+        </div>
+	
+	            <div class="copyright-area">
+                <div class="container">
+                    <div class="copyright-content">
+                        <div class="row">
+							<div class="col-sm-6"><p class="text-copyright"></p></div>                                <div class="col-sm-6 text-right">
+									<aside id="nav_menu-14" class="widget widget_nav_menu"><div class="menu-principal-container"><ul id="menu-principal-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11029 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.batutacursos.com.br" class="tc-menu-inner">Início</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-13321 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://batutacursos.com/blog/" class="tc-menu-inner">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11031 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Ajuda</span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14150 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="http://batutacursos.esy.es/" class="tc-menu-inner tc-megamenu-title">Plataforma 1.0</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11052 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/contato/" class="tc-menu-inner tc-megamenu-title">Contato</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12807 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.batutacursos.com/wp-login.php?action=lostpassword" class="tc-menu-inner">Recuperar Senha</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11030 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://batutacursos.com/como-funciona/" class="tc-menu-inner tc-megamenu-title">Como Funciona</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13341 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://batutacursos.com/instrutor/" class="tc-menu-inner">Seja um Instrutor</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+</ul></div></aside>                                </div>
+							                        </div>
+                    </div>
+                </div>
+            </div>
+		
+</footer><!-- #colophon -->
+</div><!--end main-content-->
+
+            <div class="footer-bottom">
+
+                <div class="container">
+					<aside id="list-instructors-3" class="widget widget_list-instructors footer_bottom_widget"><div class="thim-widget-list-instructors thim-widget-list-instructors-base template-new"><div class="thim-instructors-new"></div></div></aside><aside id="one-course-instructors-5" class="col-sm-4 widget widget_one-course-instructors footer_bottom_widget"><div class="thim-widget-one-course-instructors thim-widget-one-course-instructors-base template-base-v2"><div class="thim-carousel-wrapper thim-carousel-instructors" data-visible="1" data-pagination="1" data-autoplay="0"><div class="instructor-item"><div class="avatar"><img alt src="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=65&#038;r=g&#038;d=blank" class="avatar avatar-65 photo jetpack-lazy-image" height="65" width="65" loading="lazy" data-lazy-srcset="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=65&#038;r=g&#038;d=blank 2x" data-lazy-src="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=65&#38;is-pending-load=1#038;r=g&#038;d=blank" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=65&#038;r=g&#038;d=blank' srcset="//www.gravatar.com/avatar/fe80073ecfa6788b0cd7daca9eaa7850?s=65&#038;r=g&#038;d=blank 2x" class='avatar avatar-65 photo' height='65' width='65' loading='lazy'/></noscript></div><div class="instructor-info"><h4 class="name" >Batuta Cursos</h4><p class="job"></p></div><div class="description"></div><a class="readmore" href="https://batutacursos.com/perfil/batuta/">Read More</a></div></div></div></aside>                </div>
+
+            </div>
+		
+</div><!-- end content-pusher-->
+
+
+
+</div><!-- end wrapper-container -->
+
+        <!-- 
+            Lockers: user tracker for visibility filters
+            OnePress, bizpanda.com
+        -->
+        <script>
+            window.__bp_session_timeout = '900';
+            window.__bp_session_freezing = 0;
+            window.bizpanda||(window.bizpanda={}),window.bizpanda.bp_can_store_localy=function(){return!1},window.bizpanda.bp_ut_get_cookie=function(e){for(var n=e+"=",i=document.cookie.split(";"),o=0;o<i.length;o++){for(var t=i[o];" "==t.charAt(0);)t=t.substring(1);if(0==t.indexOf(n))return decodeURIComponent(t.substring(n.length,t.length))}return!1},window.bizpanda.bp_ut_set_cookie=function(e,n,i){var o=new Date;o.setTime(o.getTime()+24*i*60*60*1e3);var t="expires="+o.toUTCString();document.cookie=e+"="+encodeURIComponent(n)+"; "+t+"; path=/"},window.bizpanda.bp_ut_get_obj=function(e){var n=null;if(!(n=window.bizpanda.bp_can_store_localy()?window.localStorage.getItem("bp_ut_session"):window.bizpanda.bp_ut_get_cookie("bp_ut_session")))return!1;n=(n=n.replace(/\-c\-/g,",")).replace(/\-q\-/g,'"');try{n=JSON.parse(n)}catch(e){return!1}return n.started+1e3*e<(new Date).getTime()&&(n=null),n},window.bizpanda.bp_ut_set_obj=function(e,n){e.started&&window.__bp_session_freezing||(e.started=(new Date).getTime()),(e=JSON.stringify(e))&&(e=(e=e.replace(/\"/g,"-q-")).replace(/\,/g,"-c-")),window.bizpanda.bp_can_store_localy()?window.localStorage.setItem("bp_ut_session",e):window.bizpanda.bp_ut_set_cookie("bp_ut_session",e,5e3)},window.bizpanda.bp_ut_count_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_session_timeout);e||(e={}),e.pageviews||(e.pageviews=0),0===e.pageviews&&(e.referrer=document.referrer,e.landingPage=window.location.href,e.pageviews=0),e.pageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_locker_pageview=function(){var e=window.bizpanda.bp_ut_get_obj(window.__bp_timeout);e||(e={}),e.lockerPageviews||(e.lockerPageviews=0),e.lockerPageviews++,window.bizpanda.bp_ut_set_obj(e)},window.bizpanda.bp_ut_count_pageview();
+        </script>
+        <!-- / -->
+            				<div id="thim-popup-login">
+					<div class="popup-login-wrapper">
+						<div
+							class="thim-login-container">
+							
+							<div class="thim-popup-inner">
+								<div class="thim-login">
+									<h4 class="title">Faça login com sua conta de site</h4>
+									<form name="loginpopopform"
+										  action="https://batutacursos.com/wp-login.php"
+										  method="post">
+
+										
+										<p class="login-username">
+											<input type="text" name="log"
+												   placeholder="Nome de usuário ou email
+"
+												   class="input required" value="" size="20"/>
+										</p>
+										<p class="login-password">
+											<input type="password" name="pwd"
+												   placeholder="Senha"
+												   class="input required" value="" size="20"/>
+										</p>
+
+										<div class="anr_captcha_field"><div id="anr_captcha_field_2" class="anr_captcha_field_div"><input type="hidden" name="g-recaptcha-response" value="" /></div></div>
+										
+										<a class="lost-pass-link" href="https://batutacursos.com/account/?action=lostpassword" title="Perda de senha">Perdeu sua senha?</a>										<p class="forgetmenot login-remember">
+											<label for="popupRememberme"><input name="rememberme" type="checkbox"
+																				value="forever"
+																				id="popupRememberme"/> Lembre de mim											</label></p>
+										<p class="submit login-submit">
+											<input type="submit" name="wp-submit"
+												   class="button button-primary button-large"
+												   value="Conectar"/>
+											<input type="hidden" name="redirect_to"
+												   value="https://batutacursos.com/historia-da-arte-art-html-12731/"/>
+											<input type="hidden" name="testcookie" value="1"/>
+											<input type="hidden" name="nonce"
+												   value="8cd11769ad"/>
+											<input type="hidden" name="eduma_login_user">
+										</p>
+
+										
+									</form>
+									<p class="link-bottom">Ainda não é membro?
+ <a class="register" href="https://batutacursos.com/account/?action=register">Registrar agora</a></p>								</div>
+
+																	<div class="thim-register">
+										<h4 class="title">Register a new account</h4>
+
+										<form class="auto_login" name="registerformpopup"
+											  action="https://batutacursos.com/wp-login.php?action=register"
+											  method="post" novalidate="novalidate">
+
+											<input type="hidden" id="register_security" name="register_security" value="8357d79b29" /><input type="hidden" name="_wp_http_referer" value="/historia-da-arte-art-html-12731/" />
+											<p>
+												<input placeholder="Nome de Usuário"
+													   type="text" name="user_login" class="input required"/>
+											</p>
+
+											<p>
+												<input placeholder="Email"
+													   type="email" name="user_email" class="input required"/>
+											</p>
+
+																							<p>
+													<input placeholder="Senha"
+														   type="password" name="password" class="input required"/>
+												</p>
+												<p>
+													<input
+														placeholder="Repita a senha
+"
+														type="password" name="repeat_password" class="input required"/>
+												</p>
+											
+											    <p>
+        <label for="become_teacher">
+            <input type="checkbox" name="become_teacher" id="become_teacher">
+			Quer se tornar um instrutor?        </label>
+    </p>
+	<p class="registration-form-mailpoet">
+      <label for="mailpoet_subscribe_on_register">
+        <input
+          type="checkbox"
+          id="mailpoet_subscribe_on_register"
+          value="1"
+          name="mailpoet[subscribe_on_register]"
+        />&nbsp;Sim, adicione-me à sua lista de e-mails.
+      </label>
+    </p><div class="anr_captcha_field"><div id="anr_captcha_field_3" class="anr_captcha_field_div"><input type="hidden" name="g-recaptcha-response" value="" /></div></div>
+											
+											
+											
+											<p class="submit">
+												<input type="submit" name="wp-submit"
+													   class="button button-primary button-large"
+													   value="Sign up"/>
+											</p>
+											<input type="hidden" name="redirect_to"
+												   value="https://batutacursos.com/historia-da-arte-art-html-12731/"/>
+											<!--<input type="hidden" name="modify_user_notification" value="1">-->
+											<input type="hidden" name="eduma_register_user">
+										</form>
+										<p class="link-bottom">Are you a member?  <a class="login" href="https://batutacursos.com/account/">Login now</a></p>
+										<div class="popup-message"></div>
+									</div>
+															</div>
+
+							<span class="close-popup"><i class="fa fa-times" aria-hidden="true"></i></span>
+							<div class="cssload-container">
+								<div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				    <script>
+        jQuery(document).ready(function($) {
+            var $checkboxes;
+            function storekey() {
+                var keysVal = $checkboxes.map(function() {
+                    if(this.checked) return $(this).attr('data-key');
+                }).get().join(',');
+                $("input[name='fieldVal']").val(keysVal);
+            }
+            $(function() {
+                $checkboxes = $("input[class='listCheckbox']").change(storekey);
+            });
+        });
+    </script>
+	<div class="gallery-slider-content"></div>	<div style="display:none">
+	<div class="grofile-hash-map-fe80073ecfa6788b0cd7daca9eaa7850">
+	</div>
+	</div>
+        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * Fix issue there is an empty spacing between image and title of owl-carousel
+                 */
+                setTimeout(function () {
+                    var $ = jQuery;
+                    var $carousel = $('.thim-owl-carousel-post').each(function () {
+                        $(this).find('.image').css('min-height', 0);
+                        $(window).trigger('resize');
+                    });
+                }, 500);
+            });
+        </script>
+					<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=288691265418657&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+				<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})()
+	</script>
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/batutacursos.com\/historia-da-arte-art-html-12731\/":108156,"https:\/\/batutacursos.com\/historia-da-arte-html-21467\/":109030,"https:\/\/batutacursos.com\/historia-da-arte-art-html-12980\/":109029,"https:\/\/batutacursos.com\/auxiliar-de-alimenta-html-13114\/":109028};
+	</script>
+				<link rel="stylesheet" href="https://batutacursos.com/wp-content/cache/minify/599eb.css" media="all" />
+
+<link rel='stylesheet' id='mailpoet_custom_fonts_css-css'  href='https://fonts.googleapis.com/css?family=Abril+FatFace%3A400%2C400i%2C700%2C700i%7CAlegreya%3A400%2C400i%2C700%2C700i%7CAlegreya+Sans%3A400%2C400i%2C700%2C700i%7CAmatic+SC%3A400%2C400i%2C700%2C700i%7CAnonymous+Pro%3A400%2C400i%2C700%2C700i%7CArchitects+Daughter%3A400%2C400i%2C700%2C700i%7CArchivo%3A400%2C400i%2C700%2C700i%7CArchivo+Narrow%3A400%2C400i%2C700%2C700i%7CAsap%3A400%2C400i%2C700%2C700i%7CBarlow%3A400%2C400i%2C700%2C700i%7CBioRhyme%3A400%2C400i%2C700%2C700i%7CBonbon%3A400%2C400i%2C700%2C700i%7CCabin%3A400%2C400i%2C700%2C700i%7CCairo%3A400%2C400i%2C700%2C700i%7CCardo%3A400%2C400i%2C700%2C700i%7CChivo%3A400%2C400i%2C700%2C700i%7CConcert+One%3A400%2C400i%2C700%2C700i%7CCormorant%3A400%2C400i%2C700%2C700i%7CCrimson+Text%3A400%2C400i%2C700%2C700i%7CEczar%3A400%2C400i%2C700%2C700i%7CExo+2%3A400%2C400i%2C700%2C700i%7CFira+Sans%3A400%2C400i%2C700%2C700i%7CFjalla+One%3A400%2C400i%2C700%2C700i%7CFrank+Ruhl+Libre%3A400%2C400i%2C700%2C700i%7CGreat+Vibes%3A400%2C400i%2C700%2C700i%7CHeebo%3A400%2C400i%2C700%2C700i%7CIBM+Plex%3A400%2C400i%2C700%2C700i%7CInconsolata%3A400%2C400i%2C700%2C700i%7CIndie+Flower%3A400%2C400i%2C700%2C700i%7CInknut+Antiqua%3A400%2C400i%2C700%2C700i%7CInter%3A400%2C400i%2C700%2C700i%7CKarla%3A400%2C400i%2C700%2C700i%7CLibre+Baskerville%3A400%2C400i%2C700%2C700i%7CLibre+Franklin%3A400%2C400i%2C700%2C700i%7CMontserrat%3A400%2C400i%2C700%2C700i%7CNeuton%3A400%2C400i%2C700%2C700i%7CNotable%3A400%2C400i%2C700%2C700i%7CNothing+You+Could+Do%3A400%2C400i%2C700%2C700i%7CNoto+Sans%3A400%2C400i%2C700%2C700i%7CNunito%3A400%2C400i%2C700%2C700i%7COld+Standard+TT%3A400%2C400i%2C700%2C700i%7COxygen%3A400%2C400i%2C700%2C700i%7CPacifico%3A400%2C400i%2C700%2C700i%7CPoppins%3A400%2C400i%2C700%2C700i%7CProza+Libre%3A400%2C400i%2C700%2C700i%7CPT+Sans%3A400%2C400i%2C700%2C700i%7CPT+Serif%3A400%2C400i%2C700%2C700i%7CRakkas%3A400%2C400i%2C700%2C700i%7CReenie+Beanie%3A400%2C400i%2C700%2C700i%7CRoboto+Slab%3A400%2C400i%2C700%2C700i%7CRopa+Sans%3A400%2C400i%2C700%2C700i%7CRubik%3A400%2C400i%2C700%2C700i%7CShadows+Into+Light%3A400%2C400i%2C700%2C700i%7CSpace+Mono%3A400%2C400i%2C700%2C700i%7CSpectral%3A400%2C400i%2C700%2C700i%7CSue+Ellen+Francisco%3A400%2C400i%2C700%2C700i%7CTitillium+Web%3A400%2C400i%2C700%2C700i%7CUbuntu%3A400%2C400i%2C700%2C700i%7CVarela%3A400%2C400i%2C700%2C700i%7CVollkorn%3A400%2C400i%2C700%2C700i%7CWork+Sans%3A400%2C400i%2C700%2C700i%7CYatra+One%3A400%2C400i%2C700%2C700i&#038;ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script src="https://batutacursos.com/wp-content/cache/minify/33759.js"></script>
+
+<script type='text/javascript' id='awsm-ead-public-js-extra'>
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/fcbab.js"></script>
+
+<script type='text/javascript' id='bp-nouveau-js-extra'>
+/* <![CDATA[ */
+var BP_Nouveau = {"ajaxurl":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php","confirm":"Tem certeza?","show_x_comments":"Mostrar todos os %d coment\u00e1rios","unsaved_changes":"Seu perfil tem altera\u00e7\u00f5es n\u00e3o salvas. Se voc\u00ea deixar a p\u00e1gina, as mudan\u00e7as ser\u00e3o perdidas.","object_nav_parent":"#buddypress","objects":{"0":"activity","1":"members","3":"blogs","4":"xprofile","7":"settings","8":"notifications"},"nonces":{"activity":"eeadc8fb71","members":"9328ce5502","blogs":"e25e12abfb","xprofile":"98feb855b3","settings":"f25249ecf0","notifications":"d09a4da3f5"}};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/cfb1e.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/batutacursos.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":0};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/0fef6.js"></script>
+
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"batuta-cursos"};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/f8767.js"></script>
+
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"108156 https:\/\/batutacursos.com\/historia-da-arte-art-html-12731\/","disqusShortname":"batuta-cursos","disqusTitle":"Hist\u00f3ria da Arte: Arte Pr\u00e9 hist\u00f3rica e Mesopot\u00e2mica","disqusUrl":"https:\/\/batutacursos.com\/historia-da-arte-art-html-12731\/","postId":"108156"};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/c2bba.js"></script>
+
+<script type='text/javascript' id='superpwa-register-sw-js-extra'>
+/* <![CDATA[ */
+var superpwa_sw = {"url":"\/superpwa-sw.js"};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/67148.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/4.6.0/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"https:\/\/batutacursos.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/4.6.0/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/4.6.0/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/4.6.0/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_8297b03b1618bc5e46a40fd610dea718","fragment_name":"wc_fragments_8297b03b1618bc5e46a40fd610dea718","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/4.6.0/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+	
+</script>
+<script type='text/javascript' id='rss-retriever-ajax-js-extra'>
+/* <![CDATA[ */
+var rss_retriever = {"ajax_url":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/5e5ce.js"></script>
+
+<script type='text/javascript' id='pn-script-app-frontend-js-extra'>
+/* <![CDATA[ */
+var pnScriptSetting = {"nonce":"be9c9d0dd6","pn_config":{"apiKey":"AIzaSyDhRbFy9m-NXZVkozYJwKdDYJuwsL6W_bw","authDomain":"pushnotificationsio.firebaseapp.com","databaseURL":"https:\/\/pushnotificationsio.firebaseio.com","projectId":"pushnotificationsio","storageBucket":"pushnotificationsio.appspot.com","messagingSenderId":"788493704860","appId":"1:788493704860:web:ba71fd692e7cc9651f5759","measurementId":"G-NXS0Z75BCH"},"swsource":"https:\/\/batutacursos.com\/?push_notification_sw=1","scope":"https:\/\/batutacursos.com\/","ajax_url":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+
+<script src="https://batutacursos.com/wp-content/cache/minify/6fa81.js"></script>
+
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?ver=1.13' id='pn-script-gtag-js'></script>
+<script type='text/javascript' id='pn-script-gtag-js-after'>
+window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+
+<script src="https://batutacursos.com/wp-content/cache/minify/b661c.js"></script>
+
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202042' id='grofiles-cards-js'></script>
+<script type='text/javascript' id='wpgroho-js-extra'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/modules/wpgroho.js' id='wpgroho-js'></script>
+<script type='text/javascript' id='jetpack-facebook-embed-js-extra'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"pt_BR"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/facebook-embed.min.js' id='jetpack-facebook-embed-js'></script>
+
+<script src="https://batutacursos.com/wp-content/cache/minify/74704.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/effect.min.js' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/effect-highlight.min.js' id='jquery-effects-highlight-js'></script>
+<script type='text/javascript' id='opanda-lockers-js-extra'>
+/* <![CDATA[ */
+var facebookSDK = {"appId":"","lang":"pt_BR"};
+var __pandalockers = {"lang":{"confirm_like_screen_header":"Mais um passo","confirm_like_screen_message":"Clique no bot\u00e3o abaixo para curtir e desbloquear.","confirm_like_screen_button":"Confirmar Like","misc_your_agree_with":"Ao clicar no (s) bot\u00e3o (s), voc\u00ea concorda com {links}","misc_agreement_checkbox":"Autorizo o processamento dos meus dados de acordo com {links}","misc_agreement_checkbox_alt":"Eu concordo com {links}","misc_terms_of_use":"Termos de uso","misc_privacy_policy":"Pol\u00edtica de Privacidade","misc_close":"fechar","misc_or_wait":"ou aguarde {timer}s","errors_not_signed_in":"Sorry, but you have not signed in. Please try again.","errors_not_granted":"Sorry, but you have not granted all the required permissions ({permissions}). Please try again.","errors_no_consent":"Please give us your consent in order to continue."},"postId":"108156","visibility":[],"managedInitHook":""};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/f768c.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='strack_js-js-extra'>
+/* <![CDATA[ */
+var sTrackStatsArgs = {"ajaxurl":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php","is_admin":"","id":"851961","track_id":"342936","content_id":"108156"};
+/* ]]> */
+</script>
+
+<script src="https://batutacursos.com/wp-content/cache/minify/c7d7d.js"></script>
+
+<script type='text/javascript' id='thim-custom-script-js-extra'>
+/* <![CDATA[ */
+var thim_js_translate = {"login":"Nome de Usu\u00e1rio","password":"Senha","close":"Fechar"};
+/* ]]> */
+</script>
+
+<script src="https://batutacursos.com/wp-content/cache/minify/91371.js"></script>
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' id='mailpoet_public-js-extra'>
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https:\/\/batutacursos.com\/wp-admin\/admin-ajax.php","is_rtl":""};
+/* ]]> */
+</script>
+<script src="https://batutacursos.com/wp-content/cache/minify/8b581.js"></script>
+
+<script type='text/javascript' id='mailpoet_public-js-after'>
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'An error has happened while performing a request, please try again later.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/sharedaddy/sharing.min.js' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+<style>.pn-wrapper{
+			box-shadow: 0 1px 3px 0 rgba(60,64,67,0.302), 0 4px 8px 3px rgba(60,64,67,0.149);
+		    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+		    font-size: 14px;
+		    align-items: center;
+		    background-color: #222;
+		    border: none;
+		    border-radius: 4px;
+		    box-sizing: border-box;
+		    color: #fff;
+		    display: none;
+		    flex-wrap: wrap;
+		    font-weight: 400;
+		    padding: 16px 22px;
+		    z-index:99999;
+		    text-align: left;
+		    position: fixed;
+		    bottom: 0;
+		    left: 0;
+		    margin: 20px;
+		    right: auto;
+		    top: auto;
+		}
+.pn-wrapper .pn-txt-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    height: auto;
+    line-height: 1;
+}
+.pn-wrapper .pn-btns{
+    margin-left: 10px;
+    display: flex;
+}
+.pn-wrapper .btn.act{color: #8ab4f8;}
+.pn-wrapper .btn{
+	align-items: center;
+    border: none;
+    display: inline-flex;
+    outline: none;
+    position: relative;
+    font-size: 14px;
+    background: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #5f6368;
+    cursor: pointer;
+    font-weight: 500;
+    outline: none;
+    margin-left: 8px;
+    min-width: auto;
+    padding: 0 8px;
+    text-decoration: none;
+}
+</style><div class="pn-wrapper">
+			   	<span class="pn-txt-wrap">
+			   		<span class="pn-msg">Enable Notifications</span>
+			   		<span class="pn-btns">&nbsp;&nbsp;
+			   			<span class="btn act" id="pn-activate-permission_link" tabindex="0" role="link" aria-label="ok link">
+			   				Ok
+			   			</span>
+			   			<span class="btn" id="pn-activate-permission_link_nothanks" tabindex="0" role="link" aria-label="no thanks link">
+			   				No thanks
+			   			</span>
+			   		</span>
+			   	</span>
+			</div><script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'161764783',post:'108156',tz:'-4',srv:'batutacursos.com'} ]);
+	_stq.push([ 'clickTrackerInit', '161764783', '108156' ]);
+</script>
+ 
+        <!--
+            Lockers: script checks if the locker assets were successfully loaded and creates lockers.
+            OnePress, bizpanda.com
+        -->
+        <script>
+            (function($){ if ( window.bizpanda && window.bizpanda.initLockers ) { window.bizpanda.initLockers(); } })(jQuery); (function($){ $(function(){ if ( window.bizpanda && window.bizpanda.initLockers ) return; $.getScript( "https://batutacursos.com?ad822d8debfd=66b518", function() { if ( window.bizpanda && window.bizpanda.initLockers ) window.bizpanda.initLockers(); }); }); })(jQuery);
+        </script>
+        			<script src="https://www.google.com/recaptcha/api.js?render=6Lc_KL0UAAAAAFCAIi1vC65hbHHipkI7EBj5utIF"></script>
+			<script type="text/javascript">
+				( function( grecaptcha ) {
+
+					var anr_onloadCallback = function() {
+						grecaptcha.execute(
+							'6Lc_KL0UAAAAAFCAIi1vC65hbHHipkI7EBj5utIF',
+							{ action: 'advanced_nocaptcha_recaptcha' }
+						).then( function( token ) {
+							for ( var i = 0; i < document.forms.length; i++ ) {
+								var form = document.forms[i];
+								var captcha = form.querySelector( 'input[name="g-recaptcha-response"]' );
+								if ( null === captcha )
+									continue;
+
+								captcha.value = token;
+							}
+						});
+					};
+
+					grecaptcha.ready( anr_onloadCallback );
+
+					document.addEventListener( 'wpcf7submit', anr_onloadCallback, false );
+					if ( typeof jQuery !== 'undefined' ) {
+						//Woocommerce
+						jQuery( document.body ).on( 'checkout_error', anr_onloadCallback );
+					}
+					//token is valid for 2 minutes, So get new token every after 1 minutes 50 seconds
+					setInterval(anr_onloadCallback, 110000);
+
+				} )( grecaptcha );
+			</script>
+			</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 158/224 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via N/A
+Minified using disk
+Database Caching 1/101 queries in 0.318 seconds using disk (Request-wide modification query)
+
+Served from: batutacursos.com @ 2020-10-17 21:54:46 by W3 Total Cache
+-->

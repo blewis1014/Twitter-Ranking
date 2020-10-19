@@ -1,0 +1,563 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="keywords" content="éå ±ããã¥ã¼ã¹ãã¹ãã¼ããéç">
+  <meta name="description" content="ææ°ã®ãã¥ã¼ã¹ããå±ããããã¤ãªã¼ã¹ãã¼ãã®ãã¥ã¼ã¹ãµã¤ãããã¤ãªã¼ã¹ãã¼ãonlineï¼DailySportsOnlineï¼ã§ããéçãè¸è½ãªã©ãææ°æå ±ï¼éå ±ï¼ãç¹éæå ±ãªã©ããã¡æ©ããå±ãï¼ä»ã«ãåçç¹éãã³ã©ã ç¹éãåå®ãè¸è½ã»ã¹ãã¼ãæå ±ãéçã»éªç¥ã¿ã¤ã¬ã¼ã¹ã»åºå³¶ã«ã¼ãã«é¢ããéå ±ã®äºãªããã¤ãªã¼ã¹ãã¼ãonlineã«ãä»»ããã ããã">
+
+<!--æ ¼ç´åèª¿æ´ä¸­ãããã-->
+  <link rel="shortcut icon" href="/favicon.ico">
+  <meta property="fb:app_id" content="252180631461653"/>
+  <meta property="fb:pages" content="125026347568601"/>
+<!--æ ¼ç´åèª¿æ´ä¸­ããã¾ã§-->
+<!-- ãããã»ãããã¼è¨­å®ï¼  -->
+<script type="text/javascript">
+	var PWT={};
+	var pbjs = pbjs || {};
+	pbjs.que = pbjs.que || [];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	var gptRan = false;
+	PWT.jsLoaded = function(){
+		loadGPT();
+	};
+	var loadGPT = function() {
+		if (!gptRan) {
+			gptRan = true;
+			var gads = document.createElement('script');
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+
+			var pbjsEl = document.createElement("script");
+			pbjsEl.type = "text/javascript";
+			pbjsEl.async = true;
+			pbjsEl.src = "https://ads.rubiconproject.com/prebid/12426_dspc.js";
+			var pbjsTargetEl = document.getElementsByTagName("head")[0];
+			pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
+		}
+	};
+	setTimeout(loadGPT, 500);
+</script>
+<script type="text/javascript">
+(function() {
+	var purl = window.location.href;
+	var url = '//ads.pubmatic.com/AdServer/js/pwt/156650/2133';
+	var profileVersionId = '';
+	if(purl.indexOf('pwtv=')>0){
+		var regexp = /pwtv=(.*?)(&|$)/g;
+		var matches = regexp.exec(purl);
+		if(matches.length >= 2 && matches[1].length > 0){
+			profileVersionId = '/'+matches[1];
+		}
+	}
+	var wtads = document.createElement('script');
+	wtads.async = true;
+	wtads.type = 'text/javascript';
+	wtads.src = url+profileVersionId+'/pwt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(wtads, node);
+})();
+</script>
+
+<script>
+var gptAdSlots=[];
+var headerBiddingSlots = [];
+var nonHeaderBiddingSlots = [];
+
+var A9_TIMEOUT = 2000;
+var FAILSAFE_TIMEOUT = 3000;
+</script>
+
+<script>
+googletag.cmd.push(function() {
+	gptAdSlots[0] = googletag.defineSlot('/21662775423/dspc/s_banner/top',[[1,1],[970,250], [728,90]],'dspc-s_banner').addService(googletag.pubads());
+	gptAdSlots[1] = googletag.defineSlot('/21662775423/dspc/rec1/top',[[300,250]],'dspc-rec1').addService(googletag.pubads());
+	gptAdSlots[2] = googletag.defineSlot('/21662775423/dspc/rec2/top',[300,250],'dspc-rec2').addService(googletag.pubads());
+	gptAdSlots[3] = googletag.defineSlot('/21662775423/dspc/footer_l/top',[[300,250]],'dspc-footer_l').addService(googletag.pubads());
+	gptAdSlots[4] = googletag.defineSlot('/21662775423/dspc/footer_r/top',[[300,250]],'dspc-footer_r').addService(googletag.pubads());
+	gptAdSlots[5] = googletag.defineSlot('/21662775423/dspc/rec3/top',[300,250],'dspc-rec3').addService(googletag.pubads());
+	gptAdSlots[6] = googletag.defineSlot('/21662775423/dspc/text/1st',['fluid'],'dspc-text1st').addService(googletag.pubads());
+	gptAdSlots[7] = googletag.defineSlot('/21662775423/dspc/text/2nd',['fluid'],'dspc-text2nd').addService(googletag.pubads());
+	gptAdSlots[8] = googletag.defineSlot('/21662775423/dspc/text/3rd',['fluid'],'dspc-text3rd').addService(googletag.pubads());
+	gptAdSlots[9] = googletag.defineSlot('/21662775423/dspc/special/p1wipe',[1,1],'dspc-overlay').addService(googletag.pubads());
+
+	headerBiddingSlots.push(gptAdSlots[0]);
+	headerBiddingSlots.push(gptAdSlots[1]);
+	headerBiddingSlots.push(gptAdSlots[2]);
+	headerBiddingSlots.push(gptAdSlots[3]);
+	headerBiddingSlots.push(gptAdSlots[4]);
+	headerBiddingSlots.push(gptAdSlots[5]);
+	headerBiddingSlots.push(gptAdSlots[9]);
+
+	nonHeaderBiddingSlots.push(gptAdSlots[6]);
+	nonHeaderBiddingSlots.push(gptAdSlots[7]);
+	nonHeaderBiddingSlots.push(gptAdSlots[8]);
+	
+let gamKeyValueJson={
+	"gadpolicy":"true"
+};
+
+// contentsKeyValueJson
+
+Object.keys(gamKeyValueJson).forEach(function (key) {
+	googletag.pubads().setTargeting(key, gamKeyValueJson[key]);
+});
+
+
+
+	googletag.pubads().disableInitialLoad();
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	
+	if (nonHeaderBiddingSlots.length > 0) {
+		googletag.pubads().refresh(nonHeaderBiddingSlots);
+	}
+	
+});
+</script>
+
+
+<script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+apstag.init({
+	pubID:"3483",
+	adServer:"googletag",
+	bidTimeout:3000
+});
+
+var apstagSlots = [{
+	slotID:"dspc-s_banner",
+	slotName:"/21662775423/dspc/s_banner/top",
+	sizes:[728, 90]
+},{
+	slotID:"dspc-rec1",
+	slotName:"/21662775423/dspc/rec1/top",
+	sizes:[300, 250]
+},{
+	slotID:"dspc-rec2",
+	slotName:"/21662775423/dspc/rec2/top",
+	sizes:[300,250]
+},{
+	slotID:"dspc-rec3",
+	slotName:"/21662775423/dspc/rec3/top",
+	sizes:[300,250]
+}, {
+	slotID:"dspc-footer_l",
+	slotName:"/21662775423/dspc/footer_l/top",
+	sizes:[300,250]
+},{
+	slotID:"dspc-footer_r",
+	slotName:"/21662775423/dspc/footer_r/top",
+	sizes:[300,250]
+}];
+</script>
+
+<script>
+function fetchHeaderBids() {
+	var pbLabel = 'color: #fff; background: #2564B3; padding: 1px 4px; border-radius: 3px;';
+	var a9Label = 'color: #EA9624; background: #0B2E35; padding: 1px 4px; border-radius: 3px;';
+
+	var bidders = ['a9', 'prebid'];
+
+	var requestManager = {
+		adserverRequestSent: false,
+	};
+
+	bidders.forEach(function(bidder) {
+		requestManager[bidder] = false;
+	});
+
+	function allBiddersBack() {
+		var allBiddersBack = bidders
+		.map(function(bidder) {return requestManager[bidder]; })
+		.filter(function(bool) {return bool;})
+		.length === bidders.length;
+		return allBiddersBack;
+	}
+
+	function headerBidderBack(bidder) {
+		if (requestManager.adserverRequestSent === true) {
+			return;
+		}
+		if (bidder === 'a9') {
+			requestManager.a9 = true;
+			console.info("%c TAM -DS",a9Label,"info : A9 recieved");
+		} else if (bidder === 'prebid') {
+			requestManager.prebid = true;
+			console.info("%cPrebid-DS",pbLabel,"info : PB recieved");
+		}
+
+		if (allBiddersBack()) {
+			console.info("%cPrebid-DS",pbLabel," info : All Bid recieved");
+			sendAdserverRequest();
+		}
+	}
+
+	function sendAdserverRequest() {
+		if (requestManager.adserverRequestSent === true) {
+			return;
+		}
+
+		if (requestManager.prebid !== true){
+			console.info("%cPrebid-DS",pbLabel,"warn : Timeout");
+		}
+		if (requestManager.a9 !== true){
+			console.info("%c TAM -DS",a9Label,"warn : Timeout");
+		}
+
+		requestManager.adserverRequestSent = true;
+		googletag.cmd.push(function() {
+			apstag.setDisplayBids();
+			googletag.pubads().refresh(headerBiddingSlots);
+		});
+	}
+
+	function requestBids() {
+		googletag.cmd.push(function() {
+			pbjs.que.push(function() {
+				console.info("%cPrebid-DS",pbLabel," info : Prebid ",pbjs.version);
+				pbjs.rp.requestBids({
+					callback: function (bidResponses) {
+						headerBidderBack('prebid');
+					},
+					gptSlotObjects: headerBiddingSlots
+				});
+			});
+		});
+		apstag.fetchBids({
+			slots: apstagSlots,
+			timeout: A9_TIMEOUT
+		}, function(bids) {
+			headerBidderBack('a9');
+		});
+	}
+
+	var userAgent = window.navigator.userAgent.toLowerCase();
+	if( (userAgent.indexOf('Chrome') != -1) || (userAgent.indexOf('chrome') != -1) ||
+		(userAgent.indexOf('Edge') != -1) || (userAgent.indexOf('edge') != -1) ||
+		(userAgent.indexOf('Firefox') != -1) || (userAgent.indexOf('firefox') != -1) ||
+		(userAgent.indexOf('Safari') != -1) || (userAgent.indexOf('safari') != -1) ||
+		(userAgent.indexOf('Opera') != -1) || (userAgent.indexOf('opera') != -1)
+	) {
+		requestBids();
+	}else{
+		googletag.cmd.push(function() {
+			googletag.pubads().refresh(headerBiddingSlots);
+			requestManager.adserverRequestSent = true;
+			console.info("%cPB,TAM-DS",pbLabel," info : HeaderBidding Avoid");
+		});
+	}
+
+	setTimeout(function() {
+		sendAdserverRequest();
+	}, FAILSAFE_TIMEOUT);
+}
+
+fetchHeaderBids();
+</script>
+<!-- //Connect Container: daily.co.jp -->
+<script src="//get.s-onetag.com/23945c33-1a50-4ad1-b61a-94120b987a1d/tag.min.js" async defer></script>
+
+
+<!-- nielsen -->
+<script type="text/javascript">
+	<!--Add Static Queue Snippet here-->
+	!function(t,n){
+		t[n]=t[n]||{
+			nlsQ:function(e,o,c,r,s,i){
+				return s=t.document,
+				r=s.createElement("script"),
+				r.async=1,
+				r.src=("http:"===t.location.protocol?"http:":"https:")+"//cdn-gl.imrworldwide.com/conf/"+e+".js#name="+o+"&ns="+n,
+				i=s.getElementsByTagName("script")[0],
+				i.parentNode.insertBefore(r,i),
+				t[o]=t[o]||{
+					g:c,ggPM:function(n,e,c,r,s){
+						(t[o].q=t[o].q||[]).push([n,e,c,r,s])
+					}
+				}
+			, t[o]}
+		}
+	}(window,"NOLBUNDLE");
+	<!--initialize the SDK here -->
+	var sdkInstance = NOLBUNDLE.nlsQ("PB672BFAC-4907-4BAC-B188-88A30E42AAD9", "sdkInstance");
+</script>
+
+<script>(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";
+if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=
+function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display=
+"flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,
+e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,
+255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};
+M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&
+3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};
+var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);
+e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);
+
+window.__d3lUW8vwsKlB__("WyI2ZTViMTFjZjQwYWNlMTYzIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4V0xQWXFsVGlQYzdCTTFDNG8yZ19WaDFFR1dZeEpzbmFYZS11dzV6cENoc3l2d1pxTWRiYU1yU1JnSHZLVG1SSlptQkxmNDcybzlTZ2s2OHJGU1B0QVx1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTm1VMVlqRXhZMlkwTUdGalpURTJNd1x1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC82ZTViMTFjZjQwYWNlMTYzLmpzP3VzcXBcdTAwM2RDQTAiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hYaExuQWpzZ0FLRlFaS1cxQWNDQ2tRZ1BRekZmQUZEOVRJSnd6ZEtZc0V1X3JjbmF6c3FBamx3YjlpZ2tLVGwwVmd4UllmdVE1Y1RZNFdjRkxGP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4WEtUSHZQS3c4b2dzMHRDcHFwanEyN1JlWWZSYmMtU0dlMnJ3cXd4bUlxVkMxaHA2UDF3V0lkMDVqeV9SanROMXVtdnJ6bmxZUlJSZFhyQVBpdj9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVT3psalJaeVBsX0VIYzNFeWlNVERPZzZ2Z3F0NW85anF5VlJYMkI1b0Y2QVpCRHotUFpkOGNmNHpIdm1RMHhMaUswNjlKRmczZ3lNUmlWcE85P3NiZlx1MDAzZDIiXQo=");</script>    <script src="//i.daily.jp/assets/pc/js/lib/jquery.min.js"></script>
+    <script src="//i.daily.jp/assets/pc/js/lib/jquery.cookie.js"></script>
+ <link rel="stylesheet" href="//i.daily.jp/assets/pc/css/style.css?a=162020113453" />
+<link rel="stylesheet" href="//i.daily.jp/assets/pc/css/scoreboard.css?a=252020123338" />
+<script type="text/javascript" src="//i.daily.jp/assets/pc/js/common.js?a=172020152914"></script>
+<script type="text/javascript" src="//i.daily.jp/assets/pc/js/redirect.js?a=172020152918"></script>
+<script type="text/javascript" src="//i.daily.jp/assets/pc/js/list.js?a=252020123210"></script>
+
+  <title>æå®ãããURLã¯å­å¨ãã¾ããã§ããã/éç/ãã¤ãªã¼ã¹ãã¼ã online</title>
+  </head>
+  <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DQHNS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DQHNS');</script>
+<!-- End Google Tag Manager -->
+    <div class="wrapper topPage">
+      <!-- ãã¼ã¸ãããã¼ [start] -->
+      <header class="pageHeader">
+        <!-- ãã¼ã¸æå ± [start] -->
+        <div class="pageInfo">
+<!--ããããåå½æ¥æ¥æãåå¾-->
+          <time datatime="2020-10-18" class="date">2020.10.18 - Sun</time>
+<!--ããã¾ã§å-->
+          <ul class="keywords">
+
+            <li>
+              <a href="/horse/local/">åç°ã»å§«è·¯ç«¶é¦¬ç¹é</a>
+            </li>
+
+            <li>
+              <a href="/general/esports-cyclo/">ãµã¤ã¯ã­ãã¹å¤§éª</a>
+            </li>
+
+            <li>
+              <a href="https://www.daily.co.jp/sports-movie/">ã¹ãã¼ãææ°åç»</a>
+            </li>
+
+            <li>
+              <a href="/baseball/carp/">åºå³¶ã«ã¼ã</a>
+            </li>
+
+            <li>
+              <a href="/general/tokyo2020/">æ±äº¬äºè¼ªã¸ã®é</a>
+            </li>
+
+            <li>
+              <a href="/travel/">æ</a>
+            </li>
+            <li>
+              <a href="/fish/index_e.shtml">æ±é£ã</a><a href="/fish/index_w.shtml">è¥¿é£ã</a>
+            </li>
+          </ul>
+        </div>
+        <!-- ãã¼ã¸æå ± [end] -->
+        <!-- ã¡ã¤ã³ããã²ã¼ã·ã§ã³ [start] -->
+        <div class="mainNavigation">
+          <div class="mainNavigation-inner inner-frame">
+            <div class="logo">
+              <a href="/"><img src="//i.daily.jp/assets/pc/img/logo-desktop.png" alt="ãã¤ãªã¼ã¹ãã¼ãonline" /></a>
+            </div>
+            <nav class="navigation-wrapper">
+              <ul class="navigation">
+<li><a href="/gossip/">è¸è½</a></li><li><a href="/baseball/">éç</a></li><li><a href="/tigers/">éªç¥</a></li><li><a href="/matome/">ã¾ã¨ã</a></li><li><a href="/soccer/">ãµãã«ã¼</a></li><li><a href="/general/">ã¹ãã¼ã</a></li><li><a href="/golf/">ã´ã«ã</a></li><li><a href="/ring/">ãã¡ã¤ã</a></li><li><a href="/horse/">ã¬ã¼ã¹</a></li><li><a href="/opinion-d/">ã³ã©ã </a></li><li><a href="/movie/">åç»</a></li><li><a href="/society/">ç¤¾ä¼</a></li>              </ul>
+            </nav>
+                        <a hidden class="pageSearchBtn">æ¤ç´¢</a>
+          </div>
+        </div>
+        <!-- ã¡ã¤ã³ããã²ã¼ã·ã§ã³ [end] -->
+        <!-- æ¤ç´¢ãã©ã¼ã  [start] -->
+   <div class="pageSearchForm" >
+      <form action='https://search.daily.co.jp/cgi-bin/daily/dispatch.cgi' class='pageSearchForm-inner' id='pageSearchForm-inner' name='searchBox' >
+        <input type="text" placeholder="ã­ã¼ã¯ã¼ããå¥å" name='kw' />
+        <input type="hidden" name="type"  id="pageSearchForm-inner-id" value='' />
+        <input type="hidden" name="cs"  value='utf8' />
+        <input type="hidden" name="ord"  value='t' />
+        <a href="#" class="bthAct" onclick="document.searchBox.type.value='';document.searchBox.submit();" >æ¤ç´¢</a>
+        <a href="#" class="bthAct" onclick="document.searchBox.type.value='image';document.searchBox.submit();" >ç»åæ¤ç´¢</a>
+      </form>
+      </div>
+        <!-- æ¤ç´¢ãã©ã¼ã  [end] -->
+      </header>
+      <!-- ãã¼ã¸ãããã¼ [end] -->
+      <!-- ãããã¼é¨åºå [start] -->
+      <aside class="pageAd">
+      </aside>
+      <!-- ãããã¼é¨åºå [end] -->
+      <!-- ã¡ã¤ã³é å [start] -->
+<!-- ãããã¼END -->
+<main class="pageMain">
+  <div class="pageMain-inner inner-frame">
+    <div style="text-align:center;">
+      <div  style="margin:100px 0;">
+        <h1 class="ttl-main no-border">æå®ãããURLã¯å­å¨ãã¾ããã§ããã</h1>
+      </div>
+      <div style="font-size: 18px; line-height: 3em;">
+        <p>URLãæ­£ããå¥åããã¦ããªããããã®ãã¼ã¸ãåé¤ãããå¯è½æ§ãããã¾ãã</p>
+        <p><a href="https://www.daily.co.jp"><span style="color:#03C;">DSonlineTOPã¸</span></a></p>
+      </div>
+      </div>
+    </div>
+</main>
+<div id="_popIn_recommend_404"></div>
+<script type="text/javascript">
+        (function() {
+                var pa = document.createElement('script');
+                pa.type = 'text/javascript';
+                pa.charset = "utf-8";
+                pa.async = true;
+                pa.src = window.location.protocol + "//api.popin.cc/searchbox/daily_popin.js";
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(pa, s);
+        })(); 
+</script>
+      <!-- ã¡ã¤ã³é å [end] -->
+
+      <!-- ãã¼ã¸ããã¿ã¼ [start] -->
+
+    <footer class="pageFooter">
+        <div class="pageFooter-inner inner-frame">
+          <div class="primaryContents">
+            <div class="sns-wrapper">
+              <a href="https://www.facebook.com/DailySportsOnline/" class="facebook">Facebook</a>
+              <a href="https://twitter.com/Daily_Online" class="twitter">Twitter</a>
+            </div>
+            <div class="navigation-wrapper">
+  <ul class="navigation-inner">
+    <li class="navigation-item home">
+      <a href="/"><span>ãã¼ã </span></a>
+    </li>
+    <li class="navigation-item gossip">
+      <a href="/gossip/"><span>è¸è½</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item baseball">
+      <a href="/baseball/"><span>éç</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item tigers">
+      <a href="/tigers/"><span>éªç¥</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item matome">
+      <a href="/matome/"><span>ã¾ã¨ã</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item soccer">
+      <a href="/soccer/"><span>ãµãã«ã¼</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item general">
+      <a href="/general/"><span>ã¹ãã¼ã</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item golf">
+      <a href="/golf/"><span>ã´ã«ã</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item ring">
+      <a href="/ring/"><span>ãã¡ã¤ã</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item horse">
+      <a href="/horse/"><span>ã¬ã¼ã¹</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item opinion-d">
+      <a href="/opinion-d/"><span>ã³ã©ã </span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item movie">
+      <a href="/movie/"><span>åç»</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item society">
+      <a href="/society/"><span>ç¤¾ä¼</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+    <li class="navigation-item company">
+      <a href="/company/"><span>é¢é£ãµã¼ãã¹</span></a>
+      <ul class="subNavigation">
+      </ul>
+    </li>
+  </ul>
+</div>          </div>
+          <div class="secondaryContents">
+            <div class="menu-wrapper">
+              <ul class="linkLists">
+                <li>
+                  <a href="https://ec.kobe-np.co.jp/company/kodoku.shtml">è³¼èª­ç³ãè¾¼ã¿</a>
+                </li>
+                <li>
+                  <a href="/company/back_number.shtml">ããã¯ãã³ãã¼ç³ãè¾¼ã¿</a>
+                </li>
+                <li>
+                  <a href="/ad/">ç´é¢ã»WEBåºåæ¡å</a>
+                </li>
+                <li>
+                  <a href="/company/corporate.shtml">ã³ã³ãã³ãè²©å£²</a>
+                </li>
+                <li>
+                  <a href="/company/">ä¼ç¤¾æ¡å</a>
+                </li>
+                <li>
+                  <a href="/company/recruit.shtml">æ¡ç¨æå ±</a>
+                </li>
+                <li>
+                  <a href="/event/">äºæ¥­æ¡å</a>
+                </li>
+                <li>
+                  <a href="/company/privacy_protection.shtml">ãã©ã¤ãã·ã¼ããªã·ã¼</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="pageFooter-inner inner-frame relatedLists">
+          <span class="label">ãé¢é£ä¼æ¥­ã</span>
+          <ul class="links">
+            <li>
+              <a href="//www.kobe-np.co.jp/">ç¥æ¸æ°è</a>
+            </li>
+            <li>
+              <a href="//maidonanews.jp/">ã¾ãã©ãªãã¥ã¼ã¹</a>
+            </li>
+          </ul>
+        </div>
+        <div class="pageFooter-inner inner-frame notesContents">
+          <span class="notes">ãã¼ã ãã¼ã¸ã«æ²è¼ã®è¨äºãåçãªã©ã®ç¡æ­è»¢è¼ãå å·¥ãã¦ã®ä½¿ç¨ãªã©ã¯ä¸åç¦æ­¢ãã¾ãããæ³¨æä¸ããã</span>
+          <small class="copyright">(C) ãã¤ãªã¼ã¹ãã¼ã</small>
+        </div>
+        <a href="#pageTop" class="linkPageTop" hidden>ãã¼ã¸ãããã¸</a>
+
+    </footer>
+      <!-- ãã¼ã¸ããã¿ã¼ [end] -->
+    </div>
+
+  
+</body>
+</html>

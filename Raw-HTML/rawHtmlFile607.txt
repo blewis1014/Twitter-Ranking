@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.malliard.com/xmlrpc.php">
+<title>Live Calls &#8211; Oops &#8211; The Malliard Report</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.malliard.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=467cf3d100ba99a414cbe5a5dd10959e"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css" media="all">
+.wpautoterms-footer{background-color:#ffffff;text-align:center;}
+.wpautoterms-footer a{color:#000000;font-family:Arial, sans-serif;font-size:14px;}
+.wpautoterms-footer .separator{color:#cccccc;font-family:Arial, sans-serif;font-size:14px;}</style>
+<style type="text/css">
+.powerpress_player .wp-audio-shortcode { max-width: 800px; }
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.malliard.com/wp-includes/css/dist/block-library/style.min.css?ver=467cf3d100ba99a414cbe5a5dd10959e' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wpautoterms_css-css'  href='https://www.malliard.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=467cf3d100ba99a414cbe5a5dd10959e' type='text/css' media='all' />
+<link rel='stylesheet' id='rapidwp-maincss-css'  href='https://www.malliard.com/wp-content/themes/rapidwp-pro/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rapidwp-webfont-css'  href='//fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Domine:400,700|Oswald:400,700&#038;subset=greek' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/css/owl.carousel.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.malliard.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=9.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.malliard.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='jetpack_related-posts-js-extra'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/jetpack/_inc/build/related-posts/related-posts.min.js?ver=20191011' id='jetpack_related-posts-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.malliard.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/dist/dom-ready.min.js?ver=db63eb2f693cb5e38b083946b14f0684' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=2.4.2' id='wpautoterms_base-js'></script>
+<script type='text/javascript' id='wp-statistics-js-js-extra'>
+/* <![CDATA[ */
+var wps_statistics_object = {"rest_url":"https:\/\/www.malliard.com\/wp-json\/","wpnonce":"02f0fd7972"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/wp-statistics/assets/js/front.min.js?ver=12.6.13' id='wp-statistics-js-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/html5shiv.min.js' id='html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/respond.min.js' id='respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.malliard.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.malliard.com/wp-json/wp/v2/posts/10900" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.malliard.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.malliard.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Andrew Gruel' href='https://www.malliard.com/andrew-gruel/' />
+<link rel='next' title='Dan Hill' href='https://www.malliard.com/dan-hill/' />
+
+<link rel="canonical" href="https://www.malliard.com/live-calls-oops/" />
+<link rel='shortlink' href='https://wp.me/p2F53G-2PO' />
+<link rel="alternate" type="application/json+oembed" href="https://www.malliard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<!-- Analytics by WP-Statistics v12.6.13 - https://wp-statistics.com/ -->
+    <style type="text/css">
+    body{font-size:16px;}
+
+    h1{}
+    h2{}
+    h3{}
+    h4{}
+    h5{}
+    h6{}
+    h1,h2,h3,h4,h5,h6{}
+
+    .rapidwp-secondary-nav-menu a,.rapidwp-header-date{font-size:16px;}
+
+    .rapidwp-site-title{}
+    .rapidwp-site-description{font-size:16px;}
+
+    .rapidwp-nav-primary-menu a{font-size:16px;}
+
+    .rapidwp-trending-news{}
+
+    .entry-title{}
+
+    .rapidwp-posts .rapidwp-posts-heading,.rapidwp-sidebar-widget-areas .widget .rapidwp-widget-title,.rapidwp-featured-posts-area .widget .rapidwp-widget-title{}
+
+    #rapidwp-footer-blocks .widget .rapidwp-widget-title{}
+
+    .rapidwp-fp01-post .rapidwp-fp01-post-title,.rapidwp-fp02-post .rapidwp-fp02-post-title,.rapidwp-fp07-post .rapidwp-fp07-post-title,.rapidwp-fp10-post .rapidwp-fp10-post-title,.rapidwp-fp11-post .rapidwp-fp11-post-title,.rapidwp-fp12-post .rapidwp-fp12-post-title,.rapidwp-fp13-post .rapidwp-fp13-post-title,.rapidwp-fp14-post .rapidwp-fp14-post-title,.rapidwp-fp15-post .rapidwp-fp15-post-title,.rapidwp-fp16-post .rapidwp-fp16-post-title{}
+
+    .rapidwp-related-posts-wrap h4,.rapidwp-fp02-posts-left .rapidwp-fp02-post .rapidwp-fp02-post-title,.rapidwp-fp03-post .rapidwp-fp03-post-title,.rapidwp-fp04-post .rapidwp-fp04-post-title,.rapidwp-fp05-post .rapidwp-fp05-post-title,.rapidwp-fp06-post .rapidwp-fp06-post-title,.rapidwp-fp08-post .rapidwp-fp08-post-title,.rapidwp-fp09-post .rapidwp-fp09-post-title,.rapidwp-fp11-post:first-child .rapidwp-fp11-post-title,.rapidwp-fp12-posts-left .rapidwp-fp12-post .rapidwp-fp12-post-title,.rapidwp-fp14-post:first-child .rapidwp-fp14-post-title,.rapidwp-fp15-post:first-child .rapidwp-fp15-post-title,.rapidwp-fp17-post .rapidwp-fp17-post-title,.rapidwp-carousel-title{}
+
+    .rapidwp-fp02-post-categories a,.rapidwp-fp03-post-categories a,.rapidwp-fp04-post-categories a,.rapidwp-fp05-post-categories a,.rapidwp-fp06-post-categories a,.rapidwp-fp08-post-categories a,.rapidwp-fp09-post-categories a,.rapidwp-fp11-post-categories a,.rapidwp-fp12-post-categories a,.rapidwp-fp13-post-categories a,.rapidwp-fp14-post-categories a,.rapidwp-fp15-post-categories a,.rapidwp-fp16-post-categories a,.rapidwp-fp17-post-categories a,.rapidwp-carousel-post-categories a{}
+
+    .rapidwp-entry-meta-single,.rapidwp-fp01-post-footer,.rapidwp-fp02-post-footer,.rapidwp-fp03-post-footer,.rapidwp-fp04-post-footer,.rapidwp-fp05-post-footer,.rapidwp-fp06-post-footer,.rapidwp-fp07-post-footer,.rapidwp-fp08-post-footer,.rapidwp-fp09-post-footer,.rapidwp-fp10-post-footer,.rapidwp-fp11-post-footer,.rapidwp-fp12-post-footer,.rapidwp-fp13-post-footer,.rapidwp-fp14-post-footer,.rapidwp-fp15-post-footer,.rapidwp-fp16-post-footer,.rapidwp-fp17-post-footer,.rapidwp-carousel-post-footer{}
+
+    .rapidwp-fp02-post-read-more,.rapidwp-fp03-post-read-more,.rapidwp-fp04-post-read-more,.rapidwp-fp05-post-read-more,.rapidwp-fp06-post-read-more,.rapidwp-fp08-post-read-more,.rapidwp-fp11-post-read-more,.rapidwp-fp12-post-read-more,.rapidwp-fp13-post-read-more,.rapidwp-fp14-post-read-more,.rapidwp-fp15-post-read-more,.rapidwp-carousel-post-read-more{}
+
+    .widget_tag_cloud a{}
+    </style>
+        <style type="text/css">
+        
+        .rapidwp-header-image-info .rapidwp-site-title,.rapidwp-header-image-info .rapidwp-site-title a,.rapidwp-header-image-info .rapidwp-site-description{color:#000000 !important;}
+                        
+            a{color:#1e73be}
+            
+                                
+        .rapidwp-header-inside{background:#000000;}
+            .rapidwp-header-inside{border-left:1px solid #000000;border-right:1px solid #000000;}
+            .rapidwp-header-inside-content{border-left:1px solid #000000;border-right:1px solid #000000;}
+    
+            .rapidwp-nav-primary{border-bottom:3px solid #92e601}
+                                        
+        
+                            
+                        
+        
+    
+    
+        
+                
+        
+        
+        
+                
+                    
+        
+                
+                        #rapidwp-footer-blocks{color:#ffffff;}
+            #rapidwp-footer-blocks a{color:#1e73be;}
+            #rapidwp-footer-blocks a:hover{color:#dd3333;}
+            
+            
+            </style>
+        <style type="text/css">
+            .rapidwp-site-title, .rapidwp-site-description {position: absolute;clip: rect(1px, 1px, 1px, 1px);}
+        </style>
+    <style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Live Calls &#8211; Oops" />
+<meta property="og:url" content="https://www.malliard.com/live-calls-oops/" />
+<meta property="og:description" content="Other Podcasters and Internet radio hosts would hide this type of mistake. I made the best of it. Thanks for being a listener." />
+<meta property="article:published_time" content="2020-06-03T02:41:42+00:00" />
+<meta property="article:modified_time" content="2020-06-09T21:58:41+00:00" />
+<meta property="article:author" content="https://www.facebook.com/malliard/" />
+<meta property="og:site_name" content="The Malliard Report" />
+<meta property="og:image" content="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=1024%2C512&amp;ssl=1" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@MPIT2008" />
+<meta name="twitter:site" content="@malliard" />
+<meta name="twitter:text:title" content="Live Calls &#8211; Oops" />
+<meta name="twitter:image" content="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=1024%2C512&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+</head>
+
+<body class="post-template-default single single-post postid-10900 single-format-standard custom-background rapidwp-animated rapidwp-fadein rapidwp-header-image-active rapidwp-layout-s1-c rapidwp-header-full rapidwp-primary-menu-active rapidwp-secondary-menu-active" id="rapidwp-site-body" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<div class="rapidwp-container rapidwp-secondary-menu-container clearfix">
+<div class="rapidwp-outer-wrapper">
+<div class="rapidwp-secondary-menu-container-inside clearfix">
+<nav class="rapidwp-nav-secondary" id="rapidwp-secondary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="menu-second-container"><ul id="rapidwp-menu-secondary-navigation" class="rapidwp-secondary-nav-menu rapidwp-menu-secondary"><li id="menu-item-10762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10762"><a href="https://themalliardreport.com/category/general/">Headline News</a></li>
+<li id="menu-item-10764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10764"><a href="https://themalliardreport.com/category/business/">Business</a></li>
+<li id="menu-item-10765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10765"><a href="https://themalliardreport.com/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-10763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10763"><a href="https://themalliardreport.com/category/sports/">Sports</a></li>
+<li id="menu-item-10766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10766"><a href="https://themalliardreport.com/category/science/">Science</a></li>
+<li id="menu-item-10770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10770"><a href="https://themalliardreport.com/category/tech/">Tech</a></li>
+<li id="menu-item-11069" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11069"><a href="https://themalliardreport.com/category/health/">Health</a></li>
+</ul></div><div class="rapidwp-header-date">October 17, 2020</div></nav>
+</div>
+</div>
+</div>
+
+<div class="rapidwp-outer-wrapper">
+
+
+<div class="rapidwp-container" id="rapidwp-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+<div class="rapidwp-head-content clearfix" id="rapidwp-head-content">
+
+<div class="rapidwp-header-image clearfix">
+<a href="https://www.malliard.com/" rel="home" class="rapidwp-header-img-link">
+    <img src="https://www.malliard.com/wp-content/uploads/2020/04/malliard.png" width="1250" height="200" alt="" class="rapidwp-header-img"/>
+</a>
+</div>
+
+<div class="rapidwp-no-header-content">
+              <p class="rapidwp-site-title"><a href="https://www.malliard.com/" rel="home">The Malliard Report</a></p>
+            <p class="rapidwp-site-description"><span>Controversial Yet Conversational</span></p>
+    </div>
+
+</div><!--/#rapidwp-head-content -->
+</div><!--/#rapidwp-header -->
+
+
+</div>
+
+<div class="rapidwp-container rapidwp-primary-menu-container clearfix">
+<div class="rapidwp-outer-wrapper">
+<div class="rapidwp-primary-menu-container-inside clearfix">
+
+<nav class="rapidwp-nav-primary" id="rapidwp-primary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="menu-2018-container"><ul id="rapidwp-menu-primary-navigation" class="rapidwp-nav-primary-menu rapidwp-menu-primary"><li id="menu-item-11010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11010"><a href="https://www.malliard.com/jim-malliard/">Jim Malliard</a></li>
+<li id="menu-item-11016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11016"><a href="https://www.malliard.com/email/">Email</a></li>
+<li id="menu-item-11070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11070"><a href="https://www.malliard.com/reviews/">The Malliard Report</a></li>
+<li id="menu-item-11011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11011"><a href="https://www.malliard.com/duck">Podcast</a></li>
+<li id="menu-item-11012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11012"><a href="https://www.malliard.com/stream">24/7</a></li>
+</ul></div></nav>
+
+<div id="rapidwp-search-overlay-wrap" class="rapidwp-search-overlay">
+  <span class="rapidwp-search-closebtn" title="Close Search">&#xD7;</span>
+  <div class="rapidwp-search-overlay-content">
+    
+<form role="search" method="get" class="rapidwp-search-form" action="https://www.malliard.com/">
+<label>
+    <span class="screen-reader-text">Search for:</span>
+    <input type="search" class="rapidwp-search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="rapidwp-search-submit" value="&#xf002;" />
+</form>  </div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="rapidwp-outer-wrapper">
+
+
+</div>
+
+<div class="rapidwp-outer-wrapper">
+
+<div class="rapidwp-container clearfix" id="rapidwp-wrapper">
+<div class="rapidwp-content-wrapper clearfix" id="rapidwp-content-wrapper">
+<div class="rapidwp-main-wrapper clearfix" id="rapidwp-main-wrapper" itemscope="itemscope" itemtype="http://schema.org/Blog" role="main">
+<div class="theiaStickySidebar">
+<div class="rapidwp-main-wrapper-inside clearfix">
+
+
+<div class="rapidwp-featured-posts-area rapidwp-featured-posts-area-top clearfix">
+
+
+<div id="text-12" class="rapidwp-main-widget widget rapidwp-box widget_text"><div class="rapidwp-box-inside">			<div class="textwidget"><p><a href="http://www.malliard.com/review"><img loading="lazy" class="aligncenter size-full wp-image-11083" src="https://i1.wp.com/www.malliard.com/wp-content/uploads/2020/09/5star.png?resize=851%2C219&#038;ssl=1" alt="" width="851" height="219" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+</div>
+
+
+<div class="rapidwp-posts-wrapper" id="rapidwp-posts-wrapper">
+
+
+
+<article id="post-10900" class="rapidwp-post-singular rapidwp-box post-10900 post type-post status-publish format-standard has-post-thumbnail hentry category-829 category-malliard wpcat-829-id wpcat-292-id">
+<div class="rapidwp-box-inside">
+
+    <header class="entry-header">
+    <div class="entry-header-inside">
+        <div class="rapidwp-entry-meta-single rapidwp-entry-meta-single-top"><span class="rapidwp-entry-meta-single-cats"><i class="fa fa-folder-open-o"></i>&nbsp;<span class="screen-reader-text">Posted in </span><a href="https://www.malliard.com/category/malliard/2020/" rel="category tag">2020</a>, <a href="https://www.malliard.com/category/malliard/" rel="category tag">The Malliard Report</a></span></div>
+        <h1 class="post-title entry-title"><a href="https://www.malliard.com/live-calls-oops/" rel="bookmark">Live Calls &#8211; Oops</a></h1>
+                        <div class="rapidwp-entry-meta-single">
+    <span class="rapidwp-entry-meta-single-author"><i class="fa fa-user-circle-o"></i>&nbsp;<span class="author vcard" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><a class="url fn n" href="https://www.malliard.com/author/admin/">Malliard</a></span></span>    <span class="rapidwp-entry-meta-single-date"><i class="fa fa-clock-o"></i>&nbsp;June 2, 2020</span>            </div>
+            </div>
+    </header><!-- .entry-header -->
+
+    
+    <div class="entry-content clearfix">
+                                        <div class="rapidwp-post-thumbnail-single-holder">
+                                                            <a href="https://www.malliard.com/live-calls-oops/" title="Permanent Link to Live Calls &#8211; Oops"><img width="675" height="360" src="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?resize=675%2C360&amp;ssl=1" class="rapidwp-post-thumbnail-single wp-post-image" alt="" loading="lazy" title="Live Calls &#8211; Oops" data-attachment-id="10901" data-permalink="https://www.malliard.com/live-calls-oops/livecalls2020a/" data-orig-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=1024%2C512&amp;ssl=1" data-orig-size="1024,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="livecalls2020a" data-image-description="" data-medium-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=300%2C150&amp;ssl=1" data-large-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=851%2C426&amp;ssl=1" /></a>
+                                                        </div>
+                <!--powerpress_player--><div class="powerpress_player" id="powerpress_player_4624"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-10900-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://media.blubrry.com/malliard/p/www.malliard.com/audio/06022020.mp3?_=1" /><a href="https://media.blubrry.com/malliard/p/www.malliard.com/audio/06022020.mp3">https://media.blubrry.com/malliard/p/www.malliard.com/audio/06022020.mp3</a></audio></div><p class="powerpress_links powerpress_links_mp3">Podcast: <a href="https://media.blubrry.com/malliard/p/www.malliard.com/audio/06022020.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://www.malliard.com/?powerpress_pinw=10900-podcast');" rel="nofollow">Play in new window</a> | <a href="https://media.blubrry.com/malliard/s/www.malliard.com/audio/06022020.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="06022020.mp3">Download</a> (Duration: 59:59 &#8212; 28.0MB)</p><p class="powerpress_links powerpress_subscribe_links">Subscribe: <a href="https://itunes.apple.com/us/podcast/the-malliard-report/id586018984?mt=2&amp;ls=1#episodeGuid=https%3A%2F%2Fwww.malliard.com%2F%3Fp%3D10900" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://subscribeonandroid.com/www.malliard.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_android" title="Subscribe on Android" rel="nofollow">Android</a> | <a href="https://subscribebyemail.com/www.malliard.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_email" title="Subscribe by Email" rel="nofollow">Email</a> | <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWFsbGlhcmQuY29tL2NhdGVnb3J5L21hbGxpYXJkL2ZlZWQv" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="http://www.stitcher.com/podcast/the-malliard-report?refid=stpr" class="powerpress_link_subscribe powerpress_link_subscribe_stitcher" title="Subscribe on Stitcher" rel="nofollow">Stitcher</a> | <a href="http://tunein.com/radio/The-Malliard-Report-p410306/" class="powerpress_link_subscribe powerpress_link_subscribe_tunein" title="Subscribe on TuneIn" rel="nofollow">TuneIn</a> | <a href="https://open.spotify.com/show/1ByPEG2BapAopZvYC6eqeb" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.malliard.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" title="Subscribe via RSS" rel="nofollow">RSS</a></p><p>Oops. Well, this is the best word to describe the beginning of this episode. Listen and you will understand. Life happens, we move on, no sense in dwelling on the past. On to the next thing!</p>
+<p>As things are slowly starting to re-open across the world, there is still a clamor for professional sports. In a normal universe, we’d be in the midst of NBA playoffs and the Boys of Summer would be in full swing…(pun intended.) But here we sit, opening day has come and went, ice rinks are empty, and James Hardin is only able to flop in the confines of his own living room. (You can’t get the image of him falling down, grabbing his shin, and pointing to his pet and yelling out of your head now can you). So what does the future look like for professional sports? The NBA has announced that they will resume the season at the end of July in Orlando, but no spectators as of now. The MLB is in talks of starting but decreasing the pay for the players. The NHL (at the writing of this) remains silent. Are you a season ticket holder for a team? We would love to get your thoughts on the situation.</p>
+<p>While turning into an unexpected live call in show, the duck pond never fails on providing quality content to ponder and discuss. With that, an interesting and potentially new theory is rising regarding the royal family (who are no strangers to conspiracy.) Could it be that Queen Elizabeth is the illegitimate queen? According to this new theory, Anne Boleyn escaped her execution and continued to have children in life. With this, an individual named Joseph Gregory Hallet is claiming that he is a direct descendent of Anne Boleyn and that the throne actually belongs to him, giving him the Title King John III. Certainly interesting to say the least, and will be story to follow as it unfolds.</p>
+<p>If you have not subscribed to the <a href="https://www.subscribepage.com/v8p9i3">newsletter</a> yet, make sure you head over to <a href="http://malliard.com">malliard.com</a> where you can sign up, listen to past shows, and score some sweet <a href="http://malliard.com/shop">merch</a>. Rate and subscribe on your <a href="https://www.malliard.com/podcast">favorite podcasting app</a>, and follow Jim on all the social media platforms <a href="http://twitter.com/malliard">@malliard</a>.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-10900" class="share-twitter sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-10900" class="share-facebook sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-10900" class="share-linkedin sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-10900" class="share-pinterest sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-skype"><a rel="nofollow noopener noreferrer" data-shared="sharing-skype-10900" class="share-skype sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=skype" target="_blank" title="Click to share on Skype"><span>Skype</span></a></li><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=pocket" target="_blank" title="Click to share on Pocket"><span>Pocket</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=jetpack-whatsapp" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://www.malliard.com/live-calls-oops/#print" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button share-icon" href="https://www.malliard.com/live-calls-oops/?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>    </div><!-- .entry-content -->
+
+    
+            <footer class="entry-footer">
+        <div class="rapidwp-share-buttons clearfix"><span class="rapidwp-share-text">Share: </span><a class="rapidwp-share-buttons-twitter" href="https://twitter.com/intent/tweet?text=Live%20Calls%20%26%238211%3B%20Oops&#038;url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F" target="_blank" rel="nofollow" title="Tweet This!"><i class="fa fa-twitter"></i>Twitter</a><a class="rapidwp-share-buttons-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F" target="_blank" rel="nofollow" title="Share this on Facebook"><i class="fa fa-facebook"></i>Facebook</a><a class="rapidwp-share-buttons-pinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F&#038;media=https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/livecalls2020a.png?fit=1024%2C512&#038;ssl=1&#038;description=Live%20Calls%20%26%238211%3B%20Oops" target="_blank" rel="nofollow" title="Share this on Pinterest"><i class="fa fa-pinterest"></i>Pinterest</a><a class="rapidwp-share-buttons-reddit" href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F&#038;title=Live%20Calls%20%26%238211%3B%20Oops" target="_blank" rel="nofollow" title="Share this on Reddit"><i class="fa fa-reddit"></i>Reddit</a><a class="rapidwp-share-buttons-vk" href="https://vkontakte.ru/share.php?url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F" target="_blank" rel="nofollow" title="Share this on VK"><i class="fa fa-vk"></i>VK</a><a class="rapidwp-share-buttons-digg" href="http://digg.com/submit?url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F&#038;title=Live%20Calls%20%26%238211%3B%20Oops" target="_blank" rel="nofollow" title="Share this on Digg"><i class="fa fa-digg"></i>Digg</a><a class="rapidwp-share-buttons-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&#038;title=Live%20Calls%20%26%238211%3B%20Oops&#038;url=https%3A%2F%2Fwww.malliard.com%2Flive-calls-oops%2F" target="_blank" rel="nofollow" title="Share this on Linkedin"><i class="fa fa-linkedin"></i>Linkedin</a></div>            </footer><!-- .entry-footer -->
+        
+    
+            <div class="rapidwp-author-bio">
+            <div class="rapidwp-author-bio-top">
+            <div class="rapidwp-author-bio-gravatar">
+                <img alt='' src='https://secure.gravatar.com/avatar/f76b2f55d258de7c9036f61e72c6546c?s=80&#038;d=mm&#038;r=g' class='avatar avatar-80 photo' height='80' width='80' loading='lazy' />
+            </div>
+            <div class="rapidwp-author-bio-text">
+                <h4>Author: <span><a href="http://www.malliard.com" title="Visit Malliard&#8217;s website" rel="author external">Malliard</a></span></h4><div class="rapidwp-author-bio-text-description"></div>
+            </div>
+            </div>
+        
+            <div class="rapidwp-author-bio-social">
+            <a href="http://www.malliard.com" target="_blank" rel="nofollow" title="Website"><i class="fa fa-globe" aria-hidden="true"></i> Website</a> 
+            </div>
+            </div>
+        
+    <div class="rapidwp-related-posts-wrap" id="rapidwp-related-posts-wrap">
+            <h4>Related Articles</h4>
+        <ul class="rapidwp-related-posts-list">
+        
+            <li class="rapidwp-related-post-item">
+                                    <div class="rapidwp-related-posts-image"><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/dan-hill/" title="Permanent Link to Dan Hill"><img width="480" height="360" src="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/danhill.png?resize=480%2C360&amp;ssl=1" class="rapidwp-related-post-item-thumbnail wp-post-image" alt="" loading="lazy" title="Dan Hill" data-attachment-id="10907" data-permalink="https://www.malliard.com/dan-hill/danhill/" data-orig-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/danhill.png?fit=1024%2C512&amp;ssl=1" data-orig-size="1024,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="danhill" data-image-description="" data-medium-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/danhill.png?fit=300%2C150&amp;ssl=1" data-large-file="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/06/danhill.png?fit=851%2C426&amp;ssl=1" /></a></div>
+                                <div><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/dan-hill/" title="Permanent Link to Dan Hill">Dan Hill</a></div>
+            </li>
+
+        
+            <li class="rapidwp-related-post-item">
+                                    <div class="rapidwp-related-posts-image"><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/live-calls-about-space-force/" title="Permanent Link to Live Calls About Space Force"><img width="480" height="360" src="https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?resize=480%2C360&amp;ssl=1" class="rapidwp-related-post-item-thumbnail wp-post-image" alt="space force" loading="lazy" title="Live Calls About Space Force" srcset="https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?zoom=2&amp;resize=480%2C360&amp;ssl=1 960w, https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?zoom=3&amp;resize=480%2C360&amp;ssl=1 1440w" sizes="(max-width: 480px) 100vw, 480px" data-attachment-id="8866" data-permalink="https://www.malliard.com/spaceforce/" data-orig-file="https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?fit=1024%2C512&amp;ssl=1" data-orig-size="1024,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="space force" data-image-description="" data-medium-file="https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?fit=300%2C150&amp;ssl=1" data-large-file="https://i1.wp.com/www.malliard.com/wp-content/uploads/2018/06/spaceforce.png?fit=851%2C426&amp;ssl=1" /></a></div>
+                                <div><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/live-calls-about-space-force/" title="Permanent Link to Live Calls About Space Force">Live Calls About Space Force</a></div>
+            </li>
+
+        
+            <li class="rapidwp-related-post-item">
+                                    <div class="rapidwp-related-posts-image"><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/joanie-eisinger/" title="Permanent Link to Joanie Eisinger"><img width="480" height="360" src="https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?resize=480%2C360&amp;ssl=1" class="rapidwp-related-post-item-thumbnail wp-post-image" alt="Joanie Eisinger" loading="lazy" title="Joanie Eisinger" srcset="https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?zoom=2&amp;resize=480%2C360&amp;ssl=1 960w, https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?zoom=3&amp;resize=480%2C360&amp;ssl=1 1440w" sizes="(max-width: 480px) 100vw, 480px" data-attachment-id="6996" data-permalink="https://www.malliard.com/joanie-eisinger/joanie-eisinger/" data-orig-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Joanie Eisinger" data-image-description="" data-medium-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?fit=300%2C169&amp;ssl=1" data-large-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2014/12/Joanie-Eisinger.png?fit=851%2C479&amp;ssl=1" /></a></div>
+                                <div><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/joanie-eisinger/" title="Permanent Link to Joanie Eisinger">Joanie Eisinger</a></div>
+            </li>
+
+        
+            <li class="rapidwp-related-post-item">
+                                    <div class="rapidwp-related-posts-image"><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/matt-stoller/" title="Permanent Link to Matt Stoller"><img width="480" height="360" src="https://i2.wp.com/www.malliard.com/wp-content/uploads/2020/07/MattStoller.png?resize=480%2C360&amp;ssl=1" class="rapidwp-related-post-item-thumbnail wp-post-image" alt="" loading="lazy" title="Matt Stoller" data-attachment-id="10995" data-permalink="https://www.malliard.com/matt-stoller/mattstoller/" data-orig-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2020/07/MattStoller.png?fit=1024%2C512&amp;ssl=1" data-orig-size="1024,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MattStoller" data-image-description="" data-medium-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2020/07/MattStoller.png?fit=300%2C150&amp;ssl=1" data-large-file="https://i2.wp.com/www.malliard.com/wp-content/uploads/2020/07/MattStoller.png?fit=851%2C426&amp;ssl=1" /></a></div>
+                                <div><a class="rapidwp-related-post-item-title" href="https://www.malliard.com/matt-stoller/" title="Permanent Link to Matt Stoller">Matt Stoller</a></div>
+            </li>
+
+            </ul>
+</div>
+
+</div>
+</article>
+
+
+	<nav class="navigation post-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://www.malliard.com/andrew-gruel/" rel="prev">&larr; Andrew Gruel</a></div><div class="nav-next"><a href="https://www.malliard.com/dan-hill/" rel="next">Dan Hill &rarr;</a></div></div>
+	</nav>
+
+
+<div class="clear"></div>
+</div><!--/#rapidwp-posts-wrapper -->
+
+
+
+
+</div>
+</div>
+</div><!-- /#rapidwp-main-wrapper -->
+
+
+
+
+
+<div class="rapidwp-sidebar-one-wrapper rapidwp-sidebar-widget-areas clearfix" id="rapidwp-sidebar-one-wrapper" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
+<div class="theiaStickySidebar">
+<div class="rapidwp-sidebar-one-wrapper-inside clearfix">
+
+<div id="text-8" class="rapidwp-side-widget widget rapidwp-box widget_text"><div class="rapidwp-box-inside">			<div class="textwidget"><p><a href="https://www.malliard.com/live"><img src="https://i0.wp.com/www.malliard.com/banner/live.jpg?w=851&#038;ssl=1" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div><div id="text-10" class="rapidwp-side-widget widget rapidwp-box widget_text"><div class="rapidwp-box-inside">			<div class="textwidget"><p><a href="www.malliard.com/podcast"><img loading="lazy" class="aligncenter size-full wp-image-11082" src="https://i1.wp.com/www.malliard.com/wp-content/uploads/2020/09/subpod.jpg?resize=600%2C1800&#038;ssl=1" alt="" width="600" height="1800" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+</div>
+</div>
+</div><!-- /#rapidwp-sidebar-one-wrapper-->
+
+
+
+
+
+
+</div>
+
+</div><!--/#rapidwp-content-wrapper -->
+</div><!--/#rapidwp-wrapper -->
+
+
+<div class="rapidwp-outer-wrapper">
+<div class='clearfix' id='rapidwp-footer-blocks' itemscope='itemscope' itemtype='http://schema.org/WPFooter' role='contentinfo'>
+<div class='rapidwp-container clearfix'>
+
+<div class='clearfix'>
+<div class='rapidwp-top-footer-block'>
+<div id="search-2" class="rapidwp-footer-widget widget widget_search"><h2 class="rapidwp-widget-title"><span>Search For Your Favorite Guest or Topic</span></h2>
+<form role="search" method="get" class="rapidwp-search-form" action="https://www.malliard.com/">
+<label>
+    <span class="screen-reader-text">Search for:</span>
+    <input type="search" class="rapidwp-search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="rapidwp-search-submit" value="&#xf002;" />
+</form></div></div>
+</div>
+
+<div class='rapidwp-footer-block-cols clearfix'>
+
+<div class="rapidwp-footer-block-col rapidwp-footer-4-col" id="rapidwp-footer-block-1">
+<div id="text-14" class="rapidwp-footer-widget widget widget_text">			<div class="textwidget"><p><a href="https://www.subscribepage.com/v8p9i3/"><img loading="lazy" class="aligncenter size-full wp-image-11084" src="https://i1.wp.com/www.malliard.com/wp-content/uploads/2020/09/sub.jpg?resize=851%2C851&#038;ssl=1" alt="" width="851" height="851" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+
+<div class="rapidwp-footer-block-col rapidwp-footer-4-col" id="rapidwp-footer-block-2">
+<div id="text-15" class="rapidwp-footer-widget widget widget_text">			<div class="textwidget"><p><a href="https://myconspiracytees.com/collections/the-malliard-report/products/the-malliard-report-bold-tee"><img loading="lazy" class="aligncenter size-full wp-image-11085" src="https://i2.wp.com/www.malliard.com/wp-content/uploads/2020/09/shop.png?resize=500%2C500&#038;ssl=1" alt="" width="500" height="500" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+
+<div class="rapidwp-footer-block-col rapidwp-footer-4-col" id="rapidwp-footer-block-3">
+<div id="text-16" class="rapidwp-footer-widget widget widget_text">			<div class="textwidget"><p><a href="https://themalliardreport.com/the-radio-hub/"><img loading="lazy" class="aligncenter size-full wp-image-11086" src="https://i1.wp.com/www.malliard.com/wp-content/uploads/2020/09/Hub.jpg?resize=851%2C851&#038;ssl=1" alt="" width="851" height="851" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+
+<div class="rapidwp-footer-block-col rapidwp-footer-4-col" id="rapidwp-footer-block-4">
+<div id="text-17" class="rapidwp-footer-widget widget widget_text">			<div class="textwidget"><p><a href="https://www.malliard.com/email/"><img loading="lazy" class="aligncenter size-full wp-image-11087" src="https://i0.wp.com/www.malliard.com/wp-content/uploads/2020/09/YourAdHere.jpg?resize=851%2C851&#038;ssl=1" alt="" width="851" height="851" data-recalc-dims="1" /></a></p>
+</div>
+		</div></div>
+
+</div>
+
+<div class='clearfix'>
+<div class='rapidwp-bottom-footer-block'>
+<div id="text-11" class="rapidwp-footer-widget widget widget_text">			<div class="textwidget"><p><iframe style="width: 100%; height: 100px;" src="https://tunein.com/embed/player/s203950/" frameborder="no" scrolling="no" data-mce-src="https://tunein.com/embed/player/s203950/" data-mce-style="width: 100%; height: 100px;"></iframe></p>
+</div>
+		</div></div>
+</div>
+
+</div>
+</div><!--/#rapidwp-footer-blocks-->
+</div>
+
+
+<div class="rapidwp-outer-wrapper">
+<div class='clearfix' id='rapidwp-footer'>
+<div class='rapidwp-foot-wrap rapidwp-container'>
+
+  <p class='rapidwp-copyright'>The Malliard Report</p>
+
+</div>
+</div><!--/#rapidwp-footer -->
+</div>
+
+	<div style="display:none">
+	<div class="grofile-hash-map-f76b2f55d258de7c9036f61e72c6546c">
+	</div>
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.malliard.com\/live-calls-oops\/":10900};
+	</script>
+						<script type="text/javascript" id="sns_global_scripts">var lastData = "";
+
+jQuery(document).ready(function($) {
+
+    $.ajaxSetup({
+        cache: false
+    });
+    setInterval(function() {
+        updateMetaData();
+    }, 5000);
+
+    setInterval(function() {
+        var timeLeft = (parseInt(endTime) - Date.now()) / 1000;
+        if (timeLeft < 0) {
+            timeLeft = 0;
+        }
+        $("#timeRemaining").html(String(timeLeft).toHHMMSS());
+    }, 1000);
+
+    $("#logo").load(function() {
+        setDescHeight();
+    });
+
+    $(window).on("orientationchange", function(event) {
+        setTimeout(function() {
+            setDescHeight();
+        }, 1000);
+    });
+
+
+    function setDescHeight() {
+        var logoHeight = $("#logo").height();
+        var metaDataShowHeight = $("#metaDataShow").height();
+        var metaDataTitleHeight = $("#metaDataTitle").height();
+        var combinedHeight = metaDataShowHeight + metaDataTitleHeight;
+        var finalHeight = logoHeight;
+        if (combinedHeight > logoHeight) {
+            finalHeight = combinedHeight;
+        }
+
+        $("#metaInfoContainer").css("height", finalHeight + 10);
+    }
+
+    function updateMetaData() {
+        var newData = "";
+        var show = "";
+        var title = "";
+        var desc = "";
+        var items = [];
+        var upNextInfo = "";
+        $.getJSON("https://www.malliard.com/mediainfo.json", function(result) {
+            $.each(result, function(i, field) {
+                //$("div").append(field + "<br>");
+                //newData = newData + field + "<br>";
+                items.push(field);
+                newData = items[0] + "<br/>" + items[2] + "<br/>" + items[3];
+                show = items[3];
+                title = items[0]
+                desc = items[2];
+                endTime = items[6];
+                upNextInfo = items[7] + " : " + items[8];
+            });
+
+            if (newData != lastData) {
+                $("#metaDataShow").empty();
+                $("#metaDataShow").append(show);
+                $("#metaDataTitle").empty();
+                $("#metaDataTitle").append(title);
+                $("#metaDataDesc").empty();
+                $("#metaDataDesc").append(desc);
+                $("#upNextInfo").empty();
+                $("#upNextInfo").append(upNextInfo);
+                lastData = newData;
+                $("#logo").attr("src", "https://www.malliard.com/logos/" + items[4]);
+            }
+        });
+    }
+
+    String.prototype.toHHMMSS = function() {
+        var sec_num = parseInt(this, 10); // don't forget the second param
+        var hours = Math.floor(sec_num / 3600);
+        var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+        var seconds = sec_num - (hours * 3600) - (minutes * 60);
+
+        if (hours < 10) {
+            hours = "0" + hours;
+        }
+        if (minutes < 10) {
+            minutes = "0" + minutes;
+        }
+        if (seconds < 10) {
+            seconds = "0" + seconds;
+        }
+        return hours + ':' + minutes + ':' + seconds;
+    }
+    updateMetaData();
+});</script><link rel='stylesheet' id='mediaelement-css'  href='https://www.malliard.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.malliard.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=467cf3d100ba99a414cbe5a5dd10959e' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202042' id='grofiles-cards-js'></script>
+<script type='text/javascript' id='wpgroho-js-extra'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=9.0.2' id='wpgroho-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/jquery.fitvids.min.js' id='fitvids-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/jquery.marquee.min.js' id='marquee-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/ResizeSensor.min.js' id='ResizeSensor-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/theia-sticky-sidebar.min.js' id='theia-sticky-sidebar-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/owl.carousel.min.js' id='owl-carousel-js'></script>
+<script type='text/javascript' id='rapidwp-customjs-js-extra'>
+/* <![CDATA[ */
+var rapidwp_ajax_object = {"ajaxurl":"https:\/\/www.malliard.com\/wp-admin\/admin-ajax.php","primary_menu_active":"1","secondary_menu_active":"1","sticky_menu":"1","sticky_menu_mobile":"","sticky_sidebar":"1","news_ticker_active":"","news_ticker_duration":"60000","slider_active":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/themes/rapidwp-pro/assets/js/custom.js' id='rapidwp-customjs-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/wp-embed.min.js?ver=467cf3d100ba99a414cbe5a5dd10959e' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/powerpress/player.min.js?ver=467cf3d100ba99a414cbe5a5dd10959e' id='powerpress-player-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=467cf3d100ba99a414cbe5a5dd10959e' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=467cf3d100ba99a414cbe5a5dd10959e' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.malliard.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=9.0.2' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-linkedin', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-tumblr', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-skype', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomskype', 'menubar=1,resizable=1,width=305,height=665' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-pocket', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-telegram', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'39343568',post:'10900',tz:'-4',srv:'www.malliard.com'} ]);
+	_stq.push([ 'clickTrackerInit', '39343568', '10900' ]);
+</script>
+</body>
+</html>

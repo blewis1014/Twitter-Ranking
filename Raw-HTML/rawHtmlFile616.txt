@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+
+<head>
+<meta charset="UTF-8" />
+<title>Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II &#8211; Viva La Movielucion</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="Nevark 2.9.7" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Viva La Movielucion &raquo; Feed" href="https://movielucion.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Viva La Movielucion &raquo; Kommentar-Feed" href="https://movielucion.de/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Viva La Movielucion &raquo; Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II Kommentar-Feed" href="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/feed/" />
+<link rel="pingback" href="https://movielucion.de/xmlrpc.php" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/movielucion.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='https://movielucion.de/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0.1' media='all' />
+<link rel='stylesheet' id='nevark-googlefont-css'  href='//fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,700&#038;family=Oswald:ital,wght@0,400' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://movielucion.de/wp-content/themes/nevark/library/fonticons/font-awesome.min.css?ver=5.0.10' media='all' />
+<link rel='stylesheet' id='lightSlider-css'  href='https://movielucion.de/wp-content/plugins/hootkit/assets/lightSlider.min.css?ver=1.1.2' media='all' />
+<link rel='stylesheet' id='hoot-style-css'  href='https://movielucion.de/wp-content/themes/nevark/style.min.css?ver=2.9.7' media='all' />
+<link rel='stylesheet' id='nevark-hootkit-css'  href='https://movielucion.de/wp-content/themes/nevark/hootkit/hootkit.min.css?ver=2.9.7' media='all' />
+<style id='nevark-hootkit-inline-css'>
+.hgrid {max-width: 1380px;} a {color: #000000;} a:hover {color: #000000;} .accent-typo {background: #000000;color: #ffffff;} .invert-accent-typo {background: #ffffff;color: #000000;} .invert-typo {color: #f6f6f6;} .enforce-typo {background: #f6f6f6;} body.wordpress input[type="submit"], body.wordpress #submit, body.wordpress .button {background: #000000;color: #ffffff;} body.wordpress input[type="submit"]:hover, body.wordpress #submit:hover, body.wordpress .button:hover, body.wordpress input[type="submit"]:focus, body.wordpress #submit:focus, body.wordpress .button:focus {background: #000000;color: #ffffff;} h1, h2, h3, h4, h5, h6, .title, .titlefont {font-family: "Oswald", sans-serif;text-transform: none;} #main.main,.below-header {background: #f6f6f6;} #header-supplementary {background: #000000;color: #ffffff;} #header-supplementary .js-search .searchform.expand .searchtext {background: #000000;} #topbar {color: #ffffff;} #topbar:before {background: #000000;} #topbar.js-search .searchform.expand .searchtext {background: #000000;} .header-aside-search.js-search .searchform i.fa-search {color: #000000;} #site-title {font-family: "Oswald", sans-serif;text-transform: none;} #site-logo.accent-typo {border-color: #000000;} #site-logo.invert-accent-typo {border-color: #ffffff;} .site-logo-with-icon #site-title i {font-size: 50px;} .site-logo-mixed-image img {max-width: 200px;} .site-title-line em {color: #000000;} .site-title-heading-font {font-family: "Oswald", sans-serif;} .menu-items ul {background: #000000;} .menu-items ul a {color: #ffffff;} .menu-items > li.current-menu-item, .menu-items > li.current-menu-ancestor, .menu-items > li:hover,.menu-items ul li.current-menu-item, .menu-items ul li.current-menu-ancestor, .menu-items ul li:hover {background: #ffffff;} .menu-items > li.current-menu-item > a, .menu-items > li.current-menu-ancestor > a, .menu-items > li:hover > a,.menu-items ul li.current-menu-item > a, .menu-items ul li.current-menu-ancestor > a, .menu-items ul li:hover > a {color: #000000;} .more-link,.more-link a {color: #000000;} .more-link:hover,.more-link:hover a {color: #000000;} .frontpage-area_c *, .frontpage-area_c .more-link, .frontpage-area_c .more-link a {color: #000000;} .sidebar .widget-title {background: #000000;color: #ffffff;} .sub-footer .widget-title, .footer .widget-title {color: #ffffff;} .main-content-grid,.widget,.frontpage-area {margin-top: 20px;} .widget,.frontpage-area {margin-bottom: 20px;} .frontpage-area.module-bg-highlight, .frontpage-area.module-bg-color, .frontpage-area.module-bg-image {padding: 20px 0;} .footer .widget {margin: 5px 0;} .js-search .searchform.expand .searchtext {background: #f6f6f6;} .sub-footer,.footer {background: #000000;color: #ffffff;} #infinite-handle span,.lrm-form a.button, .lrm-form button, .lrm-form button[type=submit], .lrm-form #buddypress input[type=submit], .lrm-form input[type=submit],.widget_newsletterwidget, .widget_newsletterwidgetminimal,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.widget_breadcrumb_navxt .breadcrumbs > .hoot-bcn-pretext {background: #000000;color: #ffffff;} .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {background: #000000;color: #ffffff;} .widget_breadcrumb_navxt .breadcrumbs > .hoot-bcn-pretext:after {border-left-color: #000000;} .lSSlideOuter ul.lSPager.lSpg > li:hover a, .lSSlideOuter ul.lSPager.lSpg > li.active a {background-color: #000000;} .lSSlideOuter ul.lSPager.lSpg > li a {border-color: #000000;} .wrap-light-on-dark .hootkitslide-head, .wrap-dark-on-light .hootkitslide-head {background: #000000;color: #ffffff;} .widget .viewall a {background: #f6f6f6;} .widget .viewall a:hover {background: #ffffff;color: #000000;} .widget .view-all a:hover {color: #000000;} .sidebar .view-all-top.view-all-withtitle a, .sub-footer .view-all-top.view-all-withtitle a, .footer .view-all-top.view-all-withtitle a, .sidebar .view-all-top.view-all-withtitle a:hover, .sub-footer .view-all-top.view-all-withtitle a:hover, .footer .view-all-top.view-all-withtitle a:hover {color: #ffffff;} .bottomborder-line:after,.bottomborder-shadow:after {margin-top: 20px;} .topborder-line:before,.topborder-shadow:before {margin-bottom: 20px;} .cta-subtitle {color: #000000;} .social-icons-icon {background: #000000;} #topbar .social-icons-icon, #page-wrapper .social-icons-icon {color: #ffffff;} .content-block-icon i {color: #000000;} .icon-style-circle,.icon-style-square {border-color: #000000;} .content-block-style3 .content-block-icon {background: #f6f6f6;} @media only screen and (max-width: 969px){.mobilemenu-fixed .menu-toggle, .mobilemenu-fixed .menu-items {background: #000000;} .sidebar {margin-top: 20px;} .frontpage-widgetarea > div.hgrid > [class*="hgrid-span-"] {margin-bottom: 20px;} }
+</style>
+<link rel='stylesheet' id='olympus-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A200%2C300%2C400%2C500%2C600%2C700%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i&#038;display=swap&#038;ver=2.3.2' media='all' />
+<style id='olympus-google-fonts-inline-css'>
+
+	:root {
+		--font-base: ;
+		--font-headings: ;
+		--font-input: ;
+	}
+	
+</style>
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/9.0.2/_inc/social-logos/social-logos.min.css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.0.2/css/jetpack.css' media='all' />
+<script src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/related-posts/related-posts.min.js' id='jetpack_related-posts-js'></script>
+<link rel="https://api.w.org/" href="https://movielucion.de/wp-json/" /><link rel="alternate" type="application/json" href="https://movielucion.de/wp-json/wp/v2/posts/486" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://movielucion.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://movielucion.de/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Podcast 028 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part I' href='https://movielucion.de/podcast-028-hardline-film-festival-2020-recap-part-i/' />
+<link rel='next' title='Podcast 031 &#8211; Project Power' href='https://movielucion.de/podcast-031-project-power/' />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/" />
+<link rel='shortlink' href='https://movielucion.de/?p=486' />
+<link rel="alternate" type="application/json+oembed" href="https://movielucion.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmovielucion.de%2Fpodcast-029-hardline-film-festival-2020-recap-part-ii%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://movielucion.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmovielucion.de%2Fpodcast-029-hardline-film-festival-2020-recap-part-ii%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style><style id="custom-background-css">
+body.custom-background { background-color: #f6f6f6; background-image: url("https://movielucion.de/wp-content/uploads/2020/09/back-3-red-purple-grunge-dark.jpg"); background-position: center top; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II" />
+<meta property="og:url" content="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/" />
+<meta property="og:description" content="Mike war beim HARD:LINE Film Festival direkt vor Ort in Regensburg und berichtet über die Filme, die er auf der Kinoleinwand sehen durfte. Lauscht also dem zweiten Teil unseres HARD:LINE Recaps! Üb…" />
+<meta property="article:published_time" content="2020-10-13T16:25:00+00:00" />
+<meta property="article:modified_time" content="2020-10-13T16:25:17+00:00" />
+<meta property="og:site_name" content="Viva La Movielucion" />
+<meta property="og:image" content="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?fit=1200%2C560&amp;ssl=1" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="560" />
+<meta property="og:locale" content="de_DE" />
+<meta name="twitter:text:title" content="Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II" />
+<meta name="twitter:image" content="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?fit=1200%2C560&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/06/cropped-icon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/06/cropped-icon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/06/cropped-icon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/06/cropped-icon.png?fit=270%2C270&#038;ssl=1" />
+		<style id="wp-custom-css">
+			.tm-page { 
+    box-shadow: 5px 0px 5px 0px #0b0b0b, -5px 0px 5px 0px #0b0b0b; 
+}		</style>
+			<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
+	<style>
+		#site-title, .site-title, #site-title a, .site-title a, #logo, #logo a, .logo, .logo a {
+font-family: "Oswald";
+ }
+#site-description, .site-description {
+font-family: "Oswald";
+ }
+.menu, .page_item a, .menu-item a {
+font-family: "Oswald";
+font-style: italic;
+font-weight: 700;
+ }
+.entry-content, .entry-content p, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .excerpt, .excerpt p, .type-post p, .type-page p {
+font-family: "Oswald";
+font-style: normal;
+font-weight: 400;
+ }
+.entry-title, .entry-title a, .post-title, .post-title a, .page-title, .entry-content h1, #content h1 {
+font-family: "Oswald";
+font-style: normal;
+font-weight: 500;
+ }
+.entry-content h2, .post-content h2, .page-content h2, #content h2 {
+font-family: "Oswald";
+ }
+.entry-content h3, .post-content h3, .page-content h3, #content h3 {
+font-family: "Oswald";
+ }
+.entry-content h4, .post-content h4, .page-content h4, #content h4 {
+font-family: "Oswald";
+ }
+.entry-content h5, .post-content h5, .page-content h5, #content h5 {
+font-family: "Oswald";
+ }
+.entry-content h6, .post-content h6, .page-content h6, #content h6 {
+font-family: "Oswald";
+ }
+.widget-title, .widget-area h1, .widget-area h2, .widget-area h3, .widget-area h4, .widgets-area h5, .widget-area h6, #secondary h1, #secondary h2, #secondary h3, #secondary h4, .widgets-area h5, #secondary h6 {
+font-family: "Oswald";
+font-style: italic;
+font-weight: 500;
+ }
+.widget-area, .widget, .sidebar, #sidebar, #secondary {
+font-family: "Oswald";
+font-style: normal;
+font-weight: 300;
+ }
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6,
+												.footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6
+												#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+font-family: "Oswald";
+ }
+footer, #footer, .footer, .site-footer {
+font-family: "Oswald";
+ }
+	</style>
+	<!-- Fonts Plugin CSS -->
+	</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-486 single-format-standard custom-background wp-custom-logo wordpress ltr de de-de parent-theme logged-out singular singular-post singular-post-486" dir="ltr" itemscope="itemscope" itemtype="https://schema.org/Blog">
+
+	
+	<a href="#main" class="screen-reader-text">Skip to content</a>
+
+		<div id="topbar" class=" topbar inline-nav js-search social-icons-invert hgrid-stretch">
+		<div class="hgrid">
+			<div class="hgrid-span-12">
+
+				<div class="topbar-inner table">
+																	<div id="topbar-center" class="table-cell-mid topbar-part">
+							<section id="hootkit-ticker-5"  style=" margin-top:5px; margin-bottom:5px;" class="widget widget_hootkit-ticker">
+<div class="ticker-widget ticker-usercontent ticker-simple ticker-userstyle ticker-style1" ><div class="ticker-title">Event-Tipp:</div>	<div class="ticker-msg-box"  style="width:1000px;" data-speed='0.05'>
+		<div class="ticker-msgs">
+			<div class="ticker-msg"><div class="ticker-msg-inner">Vom 23-27. September 2020 könnt ihr Mike auf dem 8.Hard:line Film Festival in Regensburg anfinden.</div></div><div class="ticker-msg"><div class="ticker-msg-inner"></div></div><div class="ticker-msg"><div class="ticker-msg-inner">Vom 07. und 08. November 2020 könnt ihr uns auf dem WEEKEND OF HELL im Crown Plaza Düsseldorf / Neuss antreffen.</div></div>		</div>
+	</div>
+
+</div></section>						</div>
+					
+									</div>
+
+			</div>
+		</div>
+	</div>
+	
+	<div id="page-wrapper" class=" hgrid site-boxed page-wrapper sitewrap-narrow-left sidebarsN sidebars1 hoot-cf7-style hoot-mapp-style hoot-jetpack-style hoot-sticky-sidebar">
+
+		
+		<header id="header" class="site-header header-layout-primary-none header-layout-secondary-bottom tablemenu" role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+			
+			<div id="header-primary" class=" header-part header-primary header-primary-none">
+				<div class="hgrid">
+					<div class="table hgrid-span-12">
+							<div id="branding" class="site-branding branding table-cell-mid">
+		<div id="site-logo" class="site-logo-image">
+			<div id="site-logo-image" class="site-logo-image"><div id="site-title" class="site-title" itemprop="headline"><a href="https://movielucion.de/" class="custom-logo-link" rel="home"><img width="1280" height="272" src="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/09/logo-white-with-guys-2020-c.png?fit=1280%2C272&amp;ssl=1" class="custom-logo" alt="Viva La Movielucion" data-attachment-id="397" data-permalink="https://movielucion.de/logo-white-with-guys-2020-c/" data-orig-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/09/logo-white-with-guys-2020-c.png?fit=1280%2C272&amp;ssl=1" data-orig-size="1280,272" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logo white with guys 2020 c" data-image-description="" data-medium-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/09/logo-white-with-guys-2020-c.png?fit=300%2C64&amp;ssl=1" data-large-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/09/logo-white-with-guys-2020-c.png?fit=750%2C159&amp;ssl=1" /></a></div></div>		</div>
+	</div><!-- #branding -->
+						</div>
+				</div>
+			</div>
+
+					<div id="header-supplementary" class=" header-part header-supplementary header-supplementary-bottom header-supplementary-center header-supplementary-mobilemenu-inline with-menubg">
+			<div class="hgrid">
+				<div class="hgrid-span-12">
+					<div class="menu-area-wrap">
+							<div class="screen-reader-text">Secondary Navigation Menu</div>
+	<nav id="menu-secondary" class="menu nav-menu menu-secondary mobilemenu-inline mobilesubmenu-click" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+		<a class="menu-toggle" href="#"><span class="menu-toggle-text">Menu</span><i class="fas fa-bars"></i></a>
+
+		<ul id="menu-secondary-items" class="menu-items sf-menu menu menu-highlight"><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-28"><a href="https://movielucion.de/"><span class="menu-title">Start</span></a></li>
+<li id="menu-item-393" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-393"><a href="https://movielucion.de/category/neuigkeiten/"><span class="menu-title">Neuigkeiten</span></a></li>
+<li id="menu-item-394" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-394"><a href="https://movielucion.de/category/event/"><span class="menu-title">Events</span></a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-392"><a href="https://movielucion.de/category/whoa/"><span class="menu-title">Whoa!</span></a></li>
+<li id="menu-item-272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-272"><a href="https://movielucion.de/category/podcast/"><span class="menu-title">Podcasts</span></a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375"><a href="https://movielucion.de/category/interview/"><span class="menu-title">Interviews</span></a></li>
+<li id="menu-item-271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-271"><a href="https://movielucion.de/category/kritiken/"><span class="menu-title">Kritiken</span></a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="https://movielucion.de/kontakt/"><span class="menu-title">Kontakt</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://movielucion.de/impressum/"><span class="menu-title">Impressum</span></a></li>
+</ul>
+</li>
+</ul>
+	</nav><!-- #menu-secondary -->
+						</div>
+				</div>
+			</div>
+		</div>
+		
+		</header><!-- #header -->
+
+		
+		<div id="main" class=" main">
+			
+
+<div class="hgrid main-content-grid">
+
+	<main id="content" class="content  hgrid-span-9 has-sidebar layout-narrow-left " role="main">
+		<div id="content-wrap" class=" content-wrap theiaStickySidebar">
+
+			<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject" class="entry-featured-img-wrap"><meta itemprop="url" content="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?resize=1035%2C425&amp;ssl=1"><meta itemprop="width" content="1035"><meta itemprop="height" content="425"><img width="1035" height="425" src="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?resize=1035%2C425&amp;ssl=1" class="attachment-hoot-extra-wide-thumb entry-content-featured-img wp-post-image" alt="" loading="lazy" itemscope="" data-attachment-id="412" data-permalink="https://movielucion.de/podcast-022-hardline-film-festival-2020-vorbericht/hardline2020vorbericht-2/" data-orig-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?fit=1500%2C700&amp;ssl=1" data-orig-size="1500,700" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="hardline2020vorbericht" data-image-description="" data-medium-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?fit=300%2C140&amp;ssl=1" data-large-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/09/hardline2020vorbericht-1.jpg?fit=750%2C350&amp;ssl=1" itemprop="image" /></div>
+				<div id="loop-meta" class=" loop-meta-wrap pageheader-bg-default   loop-meta-withtext">
+										<div class="hgrid">
+
+						<div class=" loop-meta hgrid-span-12" itemscope="itemscope" itemtype="https://schema.org/WebPageElement">
+							<div class="entry-header">
+
+																<h1 class=" loop-title entry-title" itemprop="headline">Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II</h1>
+
+								
+							</div><!-- .entry-header -->
+						</div><!-- .loop-meta -->
+
+					</div>
+				</div>
+
+			
+	<article id="post-486" class="entry author-kane post-486 post type-post status-publish format-standard has-post-thumbnail category-event category-neuigkeiten tag-al-morir-la-matinee tag-dinner-in-america tag-fantasy tag-florian-scheuerer tag-for-the-sake-of-vicious tag-hardline-film-festival tag-horror tag-karin-prechtner tag-koko-di-koko-da tag-kuman-thong tag-kurzfilme tag-luz-the-flower-of-evil tag-neuigkeiten tag-news tag-ostentor-kino tag-psycho-goreman tag-regensburg tag-sator tag-schlaf tag-science-fiction tag-september tag-streaming tag-talk tag-the-deep-ones tag-the-oak-room tag-thriller tag-unearth tag-vorbericht" itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
+
+		<div class="entry-content" itemprop="articleBody">
+
+			<div class="entry-the-content">
+				<section class="post-show-notes">
+<section class="post-description">Mike war beim HARD:LINE Film Festival direkt vor Ort in Regensburg und berichtet über die Filme, die er auf der Kinoleinwand sehen durfte. Lauscht also dem zweiten Teil unseres HARD:LINE Recaps!</p>
+<p>Über diese Filme redet Mike in diesem Part:<br />
+&#8211; Come True (Regie: Anthony Scott Burns)<br />
+&#8211; For the Sake of Vicious (Regie: Gabriel Carrer, Reese Eveneshen)<br />
+&#8211; La Última Navidad Del Universo (Regie: David Munoz, Adrian Cardona)<br />
+&#8211; Live forever (Regie: Gustav Egerstedt)<br />
+&#8211; LUZ: The Flower of Evil (Regie: Juan Diego Escobar Alzate)<br />
+&#8211; Psycho Goreman (Regie: Steven Kostanski)<br />
+&#8211; Schlaf (Regie: Jordan Graham)<br />
+&#8211; The Deep Ones (Regie: Chad Ferrin)</p>
+</section>
+</section>
+<p style="text-align: justify;"><span id="more-486"></span></p>
+<hr />
+<p><script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://viva-la-movielucion.podigee.io/29-hardline-2020-recap-part-ii/embed?context=external"></script></p>
+<hr />
+<div class='content-column one_half'><span style="color: #dd3333;"><strong>8. Hard:line Film Festival 2020</strong></span></p>
+<p><strong>Wann:</strong> 23.-27.09.2020<br />
+<strong>Wo:</strong> Ostentorkino (+ Kinokneipe) | Adolf-Schmetzer-Str. 5 | 93055 Regensburg<br />
+<strong>Weitere Informationen:</strong> <a href="https://www.hardline-festival.de/hardline-festival/" target="_blank" rel="noopener noreferrer">https://www.hardline-festival.de/hardline-festival/</a><br />
+<strong>Tickets:</strong> <a href="https://www.hardline-festival.de/tickets/" target="_blank" rel="noopener noreferrer">https://www.hardline-festival.de/tickets/</a></div>
+<p><strong><div class='content-column one_half last_column'>Forever alone erlebte Filme:</strong></p>
+<p>Come True, For the Sake of Vicious, La Última Navidad Del Universo, Live Forever, LUZ: The Flower of Evil, Psycho Goreman, Schlaf, The Deep Ones</div><div class='clear_column'></div>
+<hr />
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe class='youtube-player' width='1380' height='777' src='https://www.youtube.com/embed/cSwW0iaQZYM?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></span></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Teilen</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-486" class="share-twitter sd-button share-icon no-text" href="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/?share=twitter" target="_blank" title="Klick, um über Twitter zu teilen"><span></span><span class="sharing-screen-reader-text">Klick, um über Twitter zu teilen (Wird in neuem Fenster geöffnet)</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-486" class="share-facebook sd-button share-icon no-text" href="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/?share=facebook" target="_blank" title="Klick, um auf Facebook zu teilen"><span></span><span class="sharing-screen-reader-text">Klick, um auf Facebook zu teilen (Wird in neuem Fenster geöffnet)</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	
+</div>			</div>
+					</div><!-- .entry-content -->
+
+		<div class="screen-reader-text" itemprop="datePublished" itemtype="https://schema.org/Date">2020-10-13</div>
+
+					<footer class="entry-footer">
+				<div class="entry-byline"> <div class="entry-byline-block entry-byline-author"> <span class="entry-byline-label">By:</span> <span class="entry-author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person"><a href="https://movielucion.de/author/kane/" title="Beiträge von Kane" rel="author" class="url fn n" itemprop="url"><span itemprop="name">Kane</span></a></span> </div> <div class="entry-byline-block entry-byline-date"> <span class="entry-byline-label">On:</span> <time class="entry-published updated" datetime="2020-10-13T18:25:00+02:00" itemprop="datePublished" title="Dienstag, Oktober 13, 2020, 6:25 pm">13/10/2020</time> </div> <div class="entry-byline-block entry-byline-cats"> <span class="entry-byline-label">In:</span> <a href="https://movielucion.de/category/event/" rel="category tag">Event</a>, <a href="https://movielucion.de/category/neuigkeiten/" rel="category tag">Neuigkeiten</a> </div> <div class="entry-byline-block entry-byline-tags"> <span class="entry-byline-label">Tagged:</span> <a href="https://movielucion.de/tag/al-morir-la-matinee/" rel="tag">Al Morir La Matinee</a>, <a href="https://movielucion.de/tag/dinner-in-america/" rel="tag">Dinner in America</a>, <a href="https://movielucion.de/tag/fantasy/" rel="tag">Fantasy</a>, <a href="https://movielucion.de/tag/florian-scheuerer/" rel="tag">Florian Scheuerer</a>, <a href="https://movielucion.de/tag/for-the-sake-of-vicious/" rel="tag">For The Sake Of Vicious</a>, <a href="https://movielucion.de/tag/hardline-film-festival/" rel="tag">Hard:line Film Festival</a>, <a href="https://movielucion.de/tag/horror/" rel="tag">Horror</a>, <a href="https://movielucion.de/tag/karin-prechtner/" rel="tag">Karin Prechtner</a>, <a href="https://movielucion.de/tag/koko-di-koko-da/" rel="tag">Koko-Di Koko-Da</a>, <a href="https://movielucion.de/tag/kuman-thong/" rel="tag">Kuman Thong</a>, <a href="https://movielucion.de/tag/kurzfilme/" rel="tag">Kurzfilme</a>, <a href="https://movielucion.de/tag/luz-the-flower-of-evil/" rel="tag">Luz: The Flower Of Evil</a>, <a href="https://movielucion.de/tag/neuigkeiten/" rel="tag">Neuigkeiten</a>, <a href="https://movielucion.de/tag/news/" rel="tag">News</a>, <a href="https://movielucion.de/tag/ostentor-kino/" rel="tag">Ostentor Kino</a>, <a href="https://movielucion.de/tag/psycho-goreman/" rel="tag">Psycho Goreman</a>, <a href="https://movielucion.de/tag/regensburg/" rel="tag">Regensburg</a>, <a href="https://movielucion.de/tag/sator/" rel="tag">Sator</a>, <a href="https://movielucion.de/tag/schlaf/" rel="tag">Schlaf</a>, <a href="https://movielucion.de/tag/science-fiction/" rel="tag">Science Fiction</a>, <a href="https://movielucion.de/tag/september/" rel="tag">September</a>, <a href="https://movielucion.de/tag/streaming/" rel="tag">Streaming</a>, <a href="https://movielucion.de/tag/talk/" rel="tag">Talk</a>, <a href="https://movielucion.de/tag/the-deep-ones/" rel="tag">The Deep Ones</a>, <a href="https://movielucion.de/tag/the-oak-room/" rel="tag">The Oak Room</a>, <a href="https://movielucion.de/tag/thriller/" rel="tag">Thriller</a>, <a href="https://movielucion.de/tag/unearth/" rel="tag">Unearth</a>, <a href="https://movielucion.de/tag/vorbericht/" rel="tag">Vorbericht</a> </div><span class="entry-publisher" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization"><meta itemprop="name" content="Viva La Movielucion"><span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/09/logo-white-with-guys-2020-c.png?fit=1280%2C272&amp;ssl=1"><meta itemprop="width" content="1280"><meta itemprop="height" content="272"></span></span></div><!-- .entry-byline -->			</footer><!-- .entry-footer -->
+			
+	</article><!-- .entry -->
+
+<div id="loop-nav-wrap" class="loop-nav"><div class="prev">Previous Post: <a href="https://movielucion.de/podcast-028-hardline-film-festival-2020-recap-part-i/" rel="prev">Podcast 028 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part I</a></div><div class="next">Next Post: <a href="https://movielucion.de/podcast-031-project-power/" rel="next">Podcast 031 &#8211; Project Power</a></div></div><!-- .loop-nav -->
+
+<section id="comments-template">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Kommentar verfassen					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/podcast-029-hardline-film-festival-2020-recap-part-ii/#respond" style="display:none;">Antwort abbrechen</a></small>
+				</h3>
+						<form id="commentform" class="comment-form">
+				<iframe title="Kommentarformular" src="https://jetpack.wordpress.com/jetpack-comment/?blogid=178251558&#038;postid=486&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=0&#038;avatar_default=blank&#038;greeting=Kommentar+verfassen&#038;greeting_reply=Schreibe+eine+Antwort+zu+%25s&#038;color_scheme=light&#038;lang=de_DE&#038;jetpack_version=9.0.2&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=62052196afbfa1b19e442068456c95b4a12bac4f#parent=https%3A%2F%2Fmovielucion.de%2Fpodcast-029-hardline-film-festival-2020-recap-part-ii%2F" style="width:100%; height: 430px; border:0;" name="jetpack_remote_comment" class="jetpack_remote_comment" id="jetpack_remote_comment" sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"></iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</section><!-- #comments-template -->
+		</div><!-- #content-wrap -->
+	</main><!-- #content -->
+
+	
+	<aside id="sidebar-primary" class="sidebar sidebar-primary hgrid-span-3 layout-narrow-left " role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+		<div class=" sidebar-wrap theiaStickySidebar">
+
+			
+		<section id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget-title"><span>Neueste Beiträge</span></h3>
+		<ul>
+											<li>
+					<a href="https://movielucion.de/podcast-031-project-power/">Podcast 031 &#8211; Project Power</a>
+									</li>
+											<li>
+					<a href="https://movielucion.de/podcast-029-hardline-film-festival-2020-recap-part-ii/" aria-current="page">Podcast 029 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part II</a>
+									</li>
+											<li>
+					<a href="https://movielucion.de/podcast-028-hardline-film-festival-2020-recap-part-i/">Podcast 028 &#8211; Hard:Line Film Festival 2020 &#8211; Recap Part I</a>
+									</li>
+											<li>
+					<a href="https://movielucion.de/podcast-030-woah-lecks-des-monats-september-2020/">Podcast 030 &#8211; Woah Lecks! des Monats September 2020</a>
+									</li>
+											<li>
+					<a href="https://movielucion.de/podcast-024-woah-lecks-des-monats-august-2020t/">Podcast 024 &#8211; Woah Lecks! des Monats August 2020</a>
+									</li>
+					</ul>
+
+		</section><section id="search-2" class="widget widget_search"><div class="searchbody"><form method="get" class="searchform" action="https://movielucion.de/" ><label class="screen-reader-text">Search</label><i class="fas fa-search"></i><input type="text" class="searchtext" name="s" placeholder="Type Search Term &hellip;" value="" /><input type="submit" class="submit" name="submit" value="Search" /><span class="js-search-placeholder"></span></form></div><!-- /searchbody --></section><section id="archives-2" class="widget widget_archive"><h3 class="widget-title"><span>Archive</span></h3>
+			<ul>
+					<li><a href='https://movielucion.de/2020/10/'>Oktober 2020</a></li>
+	<li><a href='https://movielucion.de/2020/09/'>September 2020</a></li>
+	<li><a href='https://movielucion.de/2020/08/'>August 2020</a></li>
+	<li><a href='https://movielucion.de/2020/07/'>Juli 2020</a></li>
+	<li><a href='https://movielucion.de/2020/06/'>Juni 2020</a></li>
+	<li><a href='https://movielucion.de/2020/05/'>Mai 2020</a></li>
+	<li><a href='https://movielucion.de/2019/07/'>Juli 2019</a></li>
+	<li><a href='https://movielucion.de/2019/06/'>Juni 2019</a></li>
+	<li><a href='https://movielucion.de/2018/12/'>Dezember 2018</a></li>
+	<li><a href='https://movielucion.de/2018/04/'>April 2018</a></li>
+	<li><a href='https://movielucion.de/2018/03/'>März 2018</a></li>
+			</ul>
+
+			</section>
+		</div><!-- .sidebar-wrap -->
+	</aside><!-- #sidebar-primary -->
+
+	
+
+</div><!-- .main-content-grid -->
+
+		</div><!-- #main -->
+
+		<div id="sub-footer" class=" sub-footer hgrid-stretch inline-nav">
+	<div class="hgrid">
+		<div class="hgrid-span-12">
+			<section id="text-3" class="widget widget_text">			<div class="textwidget"><p>design by <a href="http://panoptik.art@gmail.com" target="_blank" rel="noopener noreferrer">panoptik.art</a></p>
+</div>
+		</section>		</div>
+	</div>
+</div>
+		
+<footer id="footer" class="site-footer footer hgrid-stretch inline-nav" role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+	<div class="hgrid">
+					<div class="hgrid-span-3 footer-column">
+				<section id="media_image-2" class="widget widget_media_image"><a href="https://www.kochmedia-film.de/"><img width="200" height="103" src="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-239  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?w=200&amp;ssl=1 200w, https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="239" data-permalink="https://movielucion.de/koch-media-bl/" data-orig-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="koch media bl" data-image-description="" data-medium-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/koch-media-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section><section id="media_image-6" class="widget widget_media_image"><a href="https://arrowfilms.com/"><img width="200" height="103" src="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-237  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?w=200&amp;ssl=1 200w, https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="237" data-permalink="https://movielucion.de/arrow-video-bl/" data-orig-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="arrow video bl" data-image-description="" data-medium-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/arrow-video-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section>			</div>
+					<div class="hgrid-span-3 footer-column">
+				<section id="media_image-3" class="widget widget_media_image"><a href="http://www.capelight.de/"><img width="200" height="103" src="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-238  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?w=200&amp;ssl=1 200w, https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="238" data-permalink="https://movielucion.de/capelight-bl/" data-orig-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="capelight bl" data-image-description="" data-medium-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/capelight-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section><section id="media_image-7" class="widget widget_media_image"><a href="https://www.turbine.de/"><img width="200" height="103" src="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-243  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?w=200&amp;ssl=1 200w, https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="243" data-permalink="https://movielucion.de/turbine-bl/" data-orig-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="turbine bl" data-image-description="" data-medium-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/turbine-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section>			</div>
+					<div class="hgrid-span-3 footer-column">
+				<section id="media_image-4" class="widget widget_media_image"><a href="https://www.nameless-media.de/"><img width="200" height="103" src="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-240  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?w=200&amp;ssl=1 200w, https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="240" data-permalink="https://movielucion.de/nameless-bl/" data-orig-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="nameless bl" data-image-description="" data-medium-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i1.wp.com/movielucion.de/wp-content/uploads/2020/07/nameless-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section><section id="media_image-8" class="widget widget_media_image"><a href="https://www.facebook.com/severinfilms"><img width="200" height="103" src="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-242  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?w=200&amp;ssl=1 200w, https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="242" data-permalink="https://movielucion.de/severin-bl/" data-orig-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="severin bl" data-image-description="" data-medium-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/severin-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section>			</div>
+					<div class="hgrid-span-3 footer-column">
+				<section id="media_image-5" class="widget widget_media_image"><a href="https://pierrotlefou.de/"><img width="200" height="103" src="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?fit=200%2C103&amp;ssl=1" class="image wp-image-241  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?w=200&amp;ssl=1 200w, https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?resize=150%2C77&amp;ssl=1 150w" sizes="(max-width: 200px) 100vw, 200px" data-attachment-id="241" data-permalink="https://movielucion.de/pierrot-le-fou-bl/" data-orig-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?fit=200%2C103&amp;ssl=1" data-orig-size="200,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pierrot le Fou bl" data-image-description="" data-medium-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?fit=200%2C103&amp;ssl=1" data-large-file="https://i0.wp.com/movielucion.de/wp-content/uploads/2020/07/Pierrot-le-Fou-bl.jpg?fit=200%2C103&amp;ssl=1" /></a></section><section id="media_image-9" class="widget widget_media_image"><a href="https://www.facebook.com/AnolisEntertainment/"><img width="214" height="103" src="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?fit=214%2C103&amp;ssl=1" class="image wp-image-244  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?w=214&amp;ssl=1 214w, https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?resize=150%2C72&amp;ssl=1 150w" sizes="(max-width: 214px) 100vw, 214px" data-attachment-id="244" data-permalink="https://movielucion.de/anolis-bl/" data-orig-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?fit=214%2C103&amp;ssl=1" data-orig-size="214,103" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="anolis bl" data-image-description="" data-medium-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?fit=214%2C103&amp;ssl=1" data-large-file="https://i2.wp.com/movielucion.de/wp-content/uploads/2020/07/anolis-bl.jpg?fit=214%2C103&amp;ssl=1" /></a></section>			</div>
+			</div>
+</footer><!-- #footer -->
+
+
+			<div id="post-footer" class=" post-footer hgrid-stretch linkstyle">
+		<div class="hgrid">
+			<div class="hgrid-span-12">
+				<p class="credit small">
+					<a class="privacy-policy-link" href="https://movielucion.de/datenschutzerklaerung/">Datenschutzerklärung</a> Designed using <a class="theme-link" href="https://wphoot.com/themes/nevark/" title="Nevark WordPress Theme">Nevark</a>. Powered by <a class="wp-link" href="https://wordpress.org">WordPress</a>.				</p><!-- .credit -->
+			</div>
+		</div>
+	</div>
+
+	</div><!-- #page-wrapper -->
+
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/movielucion.de\/podcast-029-hardline-film-festival-2020-recap-part-ii\/":486};
+	</script>
+				<script src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script src='https://c0.wp.com/c/5.5.1/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script id='hoverIntent-js-extra'>
+var hootData = {"contentblockhover":"enable","contentblockhovertext":"disable"};
+</script>
+<script src='https://c0.wp.com/c/5.5.1/wp-includes/js/hoverIntent.min.js' id='hoverIntent-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/jquery.superfish.min.js?ver=1.7.5' id='jquery-superfish-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/jquery.fitvids.min.js?ver=1.1' id='jquery-fitvids-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/jquery.parallax.min.js?ver=1.4.2' id='jquery-parallax-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/resizesensor.min.js?ver=1.7.0' id='resizesensor-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/jquery.theia-sticky-sidebar.min.js?ver=1.7.0' id='jquery-theia-sticky-sidebar-js'></script>
+<script src='https://movielucion.de/wp-content/plugins/hootkit/assets/jquery.lightSlider.min.js?ver=1.1.2' id='jquery-lightSlider-js'></script>
+<script src='https://movielucion.de/wp-content/plugins/hootkit/assets/hootkit.min.js?ver=1.1.3' id='hootkit-js'></script>
+<script src='https://movielucion.de/wp-content/themes/nevark/js/hoot.theme.min.js?ver=2.9.7' id='hoot-theme-js'></script>
+<script src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script src='https://c0.wp.com/p/jetpack/9.0.2/_inc/build/sharedaddy/sharing.min.js' id='sharing-js-js'></script>
+<script id='sharing-js-js-after'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=178251558&postid=486&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=0&avatar_default=blank&greeting=Kommentar+verfassen&greeting_reply=Schreibe+eine+Antwort+zu+%25s&color_scheme=light&lang=de_DE&jetpack_version=9.0.2&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=62052196afbfa1b19e442068456c95b4a12bac4f#parent=https%3A%2F%2Fmovielucion.de%2Fpodcast-029-hardline-film-festival-2020-recap-part-ii%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=178251558&postid=486&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=0&avatar_default=blank&greeting=Kommentar+verfassen&greeting_reply=Schreibe+eine+Antwort+zu+%25s&color_scheme=light&lang=de_DE&jetpack_version=9.0.2&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=62052196afbfa1b19e442068456c95b4a12bac4f#parent=https%3A%2F%2Fmovielucion.de%2Fpodcast-029-hardline-film-festival-2020-recap-part-ii%2F";
+					}
+				};
+
+				
+				if ( 'undefined' !== typeof addComment ) {
+					addComment._Jetpack_moveForm = addComment.moveForm;
+
+					addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+						var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+							cancelClick, cancel;
+
+						if ( false === returnValue ) {
+							cancel = document.getElementById( 'cancel-comment-reply-link' );
+							cancelClick = cancel.onclick;
+							cancel.onclick = function () {
+								var cancelReturn = cancelClick.call( this );
+								if ( false !== cancelReturn ) {
+									return cancelReturn;
+								}
+
+								if ( ! comm_par ) {
+									return cancelReturn;
+								}
+
+								comm_par = 0;
+
+								tellFrameNewParent();
+
+								return cancelReturn;
+							};
+						}
+
+						if ( comm_par == parentId ) {
+							return returnValue;
+						}
+
+						comm_par = parentId;
+
+						tellFrameNewParent();
+
+						return returnValue;
+					};
+				}
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								jQuery( frame ).height( event.data );
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'178251558',post:'486',tz:'2',srv:'movielucion.de'} ]);
+	_stq.push([ 'clickTrackerInit', '178251558', '486' ]);
+</script>
+
+</body>
+</html>

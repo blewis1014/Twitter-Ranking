@@ -1,0 +1,1375 @@
+<!DOCTYPE html><html lang="en"><head><script async="">(function(i, s, o, g, r, a, m) {
+              i["GoogleAnalyticsObject"] = r;
+              (i[r] =
+                i[r] ||
+                function() {
+                  (i[r].q = i[r].q || []).push(arguments);
+                }),
+                (i[r].l = 1 * new Date());
+              (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+              a.async = 1;
+              a.src = g;
+              m.parentNode.insertBefore(a, m);
+            })(
+              window,
+              document,
+              "script",
+              "https://www.google-analytics.com/analytics.js",
+              "ga"
+            );
+            ga("create", "UA-75338165-4", "auto"); // add your tracking ID here.
+            </script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-75338165-4"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-619847816"></script><script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'UA-75338165-4', {
+                page_path: window.location.pathname,
+              });
+              gtag('config', 'AW-619847816', {
+                page_path: window.location.pathname,
+              });
+                  </script><script>
+              gtag('event', 'conversion', {'send_to': 'AW-619847816/chDgCK3pkuEBEIjByKcC'});
+                  </script><script>
+              !(function(f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function() {
+                  n.callMethod
+                    ? n.callMethod.apply(n, arguments)
+                    : n.queue.push(arguments);
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n;
+                n.loaded = !0;
+                n.version = "2.0";
+                n.queue = [];
+                t = b.createElement(e);
+                t.async = !0;
+                t.src = v;
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s);
+              })(
+                window,
+                document,
+                "script",
+                "https://connect.facebook.net/en_US/fbevents.js"
+              );
+              fbq("init", "254612132449499");
+              fbq("track", "PageView");
+                  </script><noscript>
+              <img
+              height="1"
+              width="1"
+              style="display:none"
+              src="https://www.facebook.com/tr?id=254612132449499&ev=PageView&noscript=1"
+          />
+                  </noscript><script data-ad-client="ca-pub-2153223855298951" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="theme-color" content="#556cd6"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap"/><meta charSet="utf-8"/><link rel="icon" href="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/favicon.ico"/><link rel="canonical" href="https://khabri.app/player?contentId=438078&amp;utm_source=android&amp;utm_medium=content_share&amp;utm_campaign=438078%0A"/><meta name="google-site-verification" content="sMIoi2JrAMruf8B2d7uGajv68jUzTKJ3eIq4AdS4G1U"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="author" content="Khabri"/><meta name="publisher" content="Khabri"/><meta name="keywords" content="Khabri, Khabri Audio Platform, Khabri App,News, Current Affairs, Motivation podcast, Podcasts"/><meta property="fb:app_id" content="1653355108254393"/><meta property="og:type" content="article"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:player:width" content="480"/><title class="jsx-3143874566">बुरे हालात? एक बार जरूर सुनें</title><meta name="title" content="बुरे हालात? एक बार जरूर सुनें" class="jsx-3143874566"/><meta name="description" content="Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar" class="jsx-3143874566"/><meta property="og:title" content="बुरे हालात? एक बार जरूर सुनें" class="jsx-3143874566"/><meta property="og:description" content="Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar" class="jsx-3143874566"/><meta property="og:image" content="https://content.khabri.app/2020/10/images/87514-1602896565928.jpg" class="jsx-3143874566"/><meta property="og:image:width" content="1200" class="jsx-3143874566"/><meta property="og:image:height" content="630" class="jsx-3143874566"/><meta name="twitter:card" content="player" class="jsx-3143874566"/><meta name="twitter:description" content="Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar" class="jsx-3143874566"/><meta name="twitter:image" content="https://content.khabri.app/2020/10/images/87514-1602896565928.jpg" class="jsx-3143874566"/><meta name="twitter:title" content="बुरे हालात? एक बार जरूर सुनें" class="jsx-3143874566"/><meta name="twitter:player" content="https://khabri.app/embed?contentId=438078" class="jsx-3143874566"/><meta name="twitter:player:height" content="480" class="jsx-3143874566"/><meta name="twitter:player:stream" content="STREAM_URL" class="jsx-3143874566"/><meta name="twitter:player:stream:content_type" content="audio/mpeg" class="jsx-3143874566"/><meta itemProp="name" content="बुरे हालात? एक बार जरूर सुनें" class="jsx-3143874566"/><meta itemProp="description" content="Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar" class="jsx-3143874566"/><meta itemProp="image" content="https://content.khabri.app/2020/10/images/87514-1602896565928.jpg" class="jsx-3143874566"/><meta itemProp="contentUrl" content="https://content.khabri.app/2020/10/audio/87514-1602896722828.mp3" class="jsx-3143874566"/><meta name="next-head-count" content="33"/><link rel="preload" href="/_next/static/css/1276ca6e111913e824c5.css" as="style"/><link rel="stylesheet" href="/_next/static/css/1276ca6e111913e824c5.css" data-n-g=""/><noscript data-n-css="true"></noscript><link rel="preload" href="/_next/static/chunks/main-6fda6883a584f75c060b.js" as="script"/><link rel="preload" href="/_next/static/chunks/webpack-e067438c4cf4ef2ef178.js" as="script"/><link rel="preload" href="/_next/static/chunks/framework.1d36bc031662b4dc4c28.js" as="script"/><link rel="preload" href="/_next/static/chunks/commons.f37f593418af3eec609a.js" as="script"/><link rel="preload" href="/_next/static/chunks/16132317b517fdbb8def45aa49b714cd2e288e46.fe4285dce8e8a1150d70.js" as="script"/><link rel="preload" href="/_next/static/chunks/76aeb20135aeab1e8d8bc52885819322119e6f5e.a21093415dc36c39169c.js" as="script"/><link rel="preload" href="/_next/static/chunks/e2cf4b0bc44c7615cee06e380ffdb19f2311dde1.62a764e58022ac5235dd.js" as="script"/><link rel="preload" href="/_next/static/chunks/21992c5db9aada6c142f6178e6055f11fd395953.1a559d58f7a37e2517e1.js" as="script"/><link rel="preload" href="/_next/static/chunks/8fddbde346a4c06bb9c3fb59ad2466ce19defd12.e59dfc03f469cdc8e6a5.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/_app-5603ca8d96f51d684a30.js" as="script"/><link rel="preload" href="/_next/static/chunks/c7c214290f7bc8532ae7cea156dc80a08e95d47e.14ca018f5b62087a0918.js" as="script"/><link rel="preload" href="/_next/static/chunks/pages/player-e7ea025b169810fdf1e0.js" as="script"/><style id="__jsx-3250244162">a.jsx-3250244162{-webkit-text-decoration:none;text-decoration:none;}</style><style id="__jsx-2832160584">.back-img.jsx-2832160584{width:100%;height:auto;}.downloadText.jsx-2832160584{margin-left:13px;margin-top:6px;margin-bottom:12px;}@media only screen and (max-width:768px){.downloadText.jsx-2832160584{display:none;}.desc.jsx-2832160584{margin:0;font-size:12px;}}</style><style id="__jsx-4250127657">.footer_large.jsx-4250127657{position:fixed;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;bottom:0;padding:12px;height:72px;width:100%;box-shadow:0 -3px 6px 0 rgba(0,0,0,0.16);background-image:linear-gradient(to bottom,#4453d7,#5832d8);z-index:3;}.mob.jsx-4250127657{position:fixed;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;bottom:0;padding:12px;height:72px;width:100%;box-shadow:0 -3px 6px 0 rgba(0,0,0,0.16);background-image:linear-gradient(to bottom,#4453d7,#5832d8);z-index:3;}.lp.jsx-4250127657{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:white;width:66%;font-size:14px;}.rp.jsx-4250127657{width:21%;color:white;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.react-player.jsx-4250127657{display:none;}@media only screen and (max-width:768px){.footer_large.jsx-4250127657{position:fixed;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;bottom:0;padding:7px;height:61px;width:100%;box-shadow:0 -3px 6px 0 rgba(0,0,0,0.16);background-image:linear-gradient(to bottom,#4453d7,#5832d8);z-index:3;}.mob.jsx-4250127657{position:fixed;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;bottom:0;padding:7px;height:61px;width:100%;box-shadow:0 -3px 6px 0 rgba(0,0,0,0.16);background-image:linear-gradient(to bottom,#4453d7,#5832d8);z-index:3;}}</style><style id="__jsx-3216246970">.contentCard.jsx-3216246970{margin-bottom:16px;background-color:white;padding:3px;padding-right:7px;}.contentImage.jsx-3216246970{width:20%;}.contentDetails.jsx-3216246970{width:79%;}.contentTitle.jsx-3216246970{width:79%;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}.full-img.jsx-3216246970{width:100%;height:100%;}</style><style id="__jsx-3143874566">a.jsx-3143874566{-webkit-text-decoration:none !important;text-decoration:none !important;}.container.jsx-3143874566{width:75%;margin:auto;border:solid 1px #707070;background-color:#f6f8f9;}.controls.jsx-3143874566{padding-top:15px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:90%;margin:auto;margin-bottom:9px;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;}.upper.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:70%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:auto;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;text-align:center;margin-bottom:25px;}.scale_img.jsx-3143874566{width:33%;margin:auto;margin-bottom:21px;}.image_icons.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:90%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:auto;margin-bottom:25px;}.icon_container.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;margin-left:16px;}.icon_text.jsx-3143874566{font-size:14px;font-weight:normal;font-stretch:normal;font-style:normal;line-height:1.31;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;text-align:left;color:#707070;margin-left:3px;}.title.jsx-3143874566{font-size:16px;font-weight:400;font-stretch:normal;font-style:normal;line-height:1.6;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;color:#707070;margin-bottom:16px;}.channel_info.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-evenly;-webkit-justify-content:space-evenly;-ms-flex-pack:space-evenly;justify-content:space-evenly;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:43%;margin:auto;margin-bottom:16px;}.channel_title.jsx-3143874566{font-weight:bold;font-stretch:normal;font-style:normal;line-height:1.6;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;color:#707070;}.lower.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:70%;margin:auto;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}.nextIn.jsx-3143874566{font-size:24px;font-weight:bold;font-stretch:normal;font-style:normal;line-height:1.61;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;text-align:left;color:#707070;}.light-grey.jsx-3143874566{border-radius:20px;border:solid 0.5px #707070;}.contentListContainer.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:81%;margin:auto;margin-top:25px;}.mobPlayer.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background-color:rgba(255,255,255);border:solid 1px #707070;margin-bottom:6px;padding:34px;}.playerTop.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding-top:9px;width:90%;margin:auto;}.playerBottom.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:79%;margin:auto;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:space-evenly;-webkit-justify-content:space-evenly;-ms-flex-pack:space-evenly;justify-content:space-evenly;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:9px;}.scrollBar.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:70%;margin:auto;}.time.jsx-3143874566{color:#707070;}.topBanner.jsx-3143874566{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:9px;background-color:#f6f8f9;display:none;}.playImg.jsx-3143874566{width:30%;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.topText.jsx-3143874566{font-size:14px;font-weight:500;font-stretch:normal;font-style:normal;line-height:1.36;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;text-align:center;color:#707070;}.textCon.jsx-3143874566{display:grid;place-items:center;width:67%;}@media screen and (max-width:769px){.container.jsx-3143874566{width:100%;border:none;}.upper.jsx-3143874566{width:100%;}.image_icons.jsx-3143874566{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:93%;margin:auto;margin-bottom:25px;}.icon_container.jsx-3143874566{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;margin-top:12px;}.scale_img.jsx-3143874566{width:75%;margin:auto;}.title.jsx-3143874566{font-size:18px;width:90%;margin:auto;}.channel_info.jsx-3143874566{width:79%;margin-top:15px;}.lower.jsx-3143874566{width:100%;}.contentListContainer.jsx-3143874566{width:96%;}.nextIn.jsx-3143874566{width:90%;font-size:20px;margin:auto;}.playerBottom.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:9px;}.mobPlayer.jsx-3143874566{padding:9px;}.topBanner.jsx-3143874566{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;box-shadow:0 1px 3px 0 rgba(0,0,0,0.1);border:solid 1px #707070;background-image:linear-gradient( to bottom, rgba(0,0,0,0), rgba(32,108,211,0.4) );}}</style><style id="__jsx-2910707692">.container.jsx-2910707692{width:80%;margin:auto;}.catTitle.jsx-2910707692{margin-top:36px;margin-bottom:5px;}.categoryContainer.jsx-2910707692{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-bottom:30px;width:60%;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.chaRow.jsx-2910707692{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:10px;}.chaRowMob.jsx-2910707692{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:10px;}.rowEnt.jsx-2910707692{width:20%;}.channelsContainer.jsx-2910707692{margin-bottom:30px;}.mtop.jsx-2910707692{margin-bottom:7px;}@media only screen and (max-width:756px){.chaRow.jsx-2910707692{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}.container.jsx-2910707692{width:96%;margin:auto;}.categoryContainer.jsx-2910707692{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-bottom:30px;width:97%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}.channelsContainer.jsx-2910707692{margin-bottom:30px;padding:9px;}}</style><style id="__jsx-3121640916">a.jsx-3121640916{color:white;}.footerWrapper.jsx-3121640916{background-color:#3654d4;color:#ffffff;}.upperContainer.jsx-3121640916{width:75%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin:auto;margin-top:25px;}.leftPart.jsx-3121640916{width:45%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}.rightPart.jsx-3121640916{width:55%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.icon.jsx-3121640916{width:36%;margin-bottom:36px;}.follow.jsx-3121640916{font-size:26px;font-weight:bold;font-stretch:normal;font-style:normal;line-height:1.88;-webkit-letter-spacing:normal;-moz-letter-spacing:normal;-ms-letter-spacing:normal;letter-spacing:normal;color:#ffffff;}.socialIcons.jsx-3121640916{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}@media screen and (max-width:1180px){.footerWrapper.jsx-3121640916{display:none;}}.footerContainer.jsx-3121640916{width:75%;margin-bottom:128px;}.lowBar.jsx-3121640916{margin-top:30px;}.mobileFooter.jsx-3121640916{background-color:#3654d4;color:#ffffff;}.lowbartext.jsx-3121640916{font-size:14px;}.playSpace.jsx-3121640916{margin-bottom:90px;}</style><style id="jss-server-side">.MuiPaper-root {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-elevation0 {
+  box-shadow: none;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation16 {
+  box-shadow: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation17 {
+  box-shadow: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation18 {
+  box-shadow: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation19 {
+  box-shadow: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation20 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation21 {
+  box-shadow: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation22 {
+  box-shadow: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation23 {
+  box-shadow: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+}
+.MuiPaper-elevation24 {
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+.MuiAppBar-root {
+  width: 100%;
+  display: flex;
+  z-index: 1100;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.MuiAppBar-positionFixed {
+  top: 0;
+  left: auto;
+  right: 0;
+  position: fixed;
+}
+@media print {
+  .MuiAppBar-positionFixed {
+    position: absolute;
+  }
+}
+  .MuiAppBar-positionAbsolute {
+    top: 0;
+    left: auto;
+    right: 0;
+    position: absolute;
+  }
+  .MuiAppBar-positionSticky {
+    top: 0;
+    left: auto;
+    right: 0;
+    position: sticky;
+  }
+  .MuiAppBar-positionStatic {
+    position: static;
+  }
+  .MuiAppBar-positionRelative {
+    position: relative;
+  }
+  .MuiAppBar-colorDefault {
+    color: rgba(0, 0, 0, 0.87);
+    background-color: #f5f5f5;
+  }
+  .MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #3f51b5;
+  }
+  .MuiAppBar-colorSecondary {
+    color: #fff;
+    background-color: #f50057;
+  }
+  .MuiAppBar-colorInherit {
+    color: inherit;
+  }
+  .MuiAppBar-colorTransparent {
+    color: inherit;
+    background-color: transparent;
+  }
+  .MuiToolbar-root {
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiToolbar-gutters {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiToolbar-regular {
+    min-height: 56px;
+  }
+@media (min-width:0px) and (orientation: landscape) {
+  .MuiToolbar-regular {
+    min-height: 48px;
+  }
+}
+@media (min-width:600px) {
+  .MuiToolbar-regular {
+    min-height: 64px;
+  }
+}
+  .MuiToolbar-dense {
+    min-height: 48px;
+  }
+  .MuiButtonBase-root {
+    color: inherit;
+    border: 0;
+    cursor: pointer;
+    margin: 0;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    justify-content: center;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .MuiButtonBase-root::-moz-focus-inner {
+    border-style: none;
+  }
+  .MuiButtonBase-root.Mui-disabled {
+    cursor: default;
+    pointer-events: none;
+  }
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+  .MuiIconButton-root {
+    flex: 0 0 auto;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 12px;
+    overflow: visible;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 50%;
+  }
+  .MuiIconButton-root:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiIconButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    background-color: transparent;
+  }
+@media (hover: none) {
+  .MuiIconButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-edgeStart {
+    margin-left: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeStart {
+    margin-left: -3px;
+  }
+  .MuiIconButton-edgeEnd {
+    margin-right: -12px;
+  }
+  .MuiIconButton-sizeSmall.MuiIconButton-edgeEnd {
+    margin-right: -3px;
+  }
+  .MuiIconButton-colorInherit {
+    color: inherit;
+  }
+  .MuiIconButton-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiIconButton-colorPrimary:hover {
+    background-color: rgba(63, 81, 181, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-colorSecondary {
+    color: #f50057;
+  }
+  .MuiIconButton-colorSecondary:hover {
+    background-color: rgba(245, 0, 87, 0.04);
+  }
+@media (hover: none) {
+  .MuiIconButton-colorSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiIconButton-sizeSmall {
+    padding: 3px;
+    font-size: 1.125rem;
+  }
+  .MuiIconButton-label {
+    width: 100%;
+    display: flex;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .jss1 {
+    margin-right: 16px;
+  }
+  .jss2 {
+    cursor: pointer;
+    flex-grow: 1;
+    background: -webkit-linear-gradient(#5832d8, #206cd3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .jss3 {
+    justify-content: space-between;
+    background-color: white;
+  }
+  .MuiSvgIcon-root {
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    flex-shrink: 0;
+    user-select: none;
+  }
+  .MuiSvgIcon-colorPrimary {
+    color: #3f51b5;
+  }
+  .MuiSvgIcon-colorSecondary {
+    color: #f50057;
+  }
+  .MuiSvgIcon-colorAction {
+    color: rgba(0, 0, 0, 0.54);
+  }
+  .MuiSvgIcon-colorError {
+    color: #f44336;
+  }
+  .MuiSvgIcon-colorDisabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
+  .MuiSvgIcon-fontSizeInherit {
+    font-size: inherit;
+  }
+  .MuiSvgIcon-fontSizeSmall {
+    font-size: 1.25rem;
+  }
+  .MuiSvgIcon-fontSizeLarge {
+    font-size: 2.1875rem;
+  }
+@media print {
+  .MuiDialog-root {
+    position: absolute !important;
+  }
+}
+  .MuiDialog-scrollPaper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .MuiDialog-scrollBody {
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+  }
+  .MuiDialog-scrollBody:after {
+    width: 0;
+    height: 100%;
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .MuiDialog-container {
+    height: 100%;
+    outline: 0;
+  }
+@media print {
+  .MuiDialog-container {
+    height: auto;
+  }
+}
+  .MuiDialog-paper {
+    margin: 32px;
+    position: relative;
+    overflow-y: auto;
+  }
+@media print {
+  .MuiDialog-paper {
+    box-shadow: none;
+    overflow-y: visible;
+  }
+}
+  .MuiDialog-paperScrollPaper {
+    display: flex;
+    max-height: calc(100% - 64px);
+    flex-direction: column;
+  }
+  .MuiDialog-paperScrollBody {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+  }
+  .MuiDialog-paperWidthFalse {
+    max-width: calc(100% - 64px);
+  }
+  .MuiDialog-paperWidthXs {
+    max-width: 444px;
+  }
+@media (max-width:507.95px) {
+  .MuiDialog-paperWidthXs.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+  .MuiDialog-paperWidthSm {
+    max-width: 600px;
+  }
+@media (max-width:663.95px) {
+  .MuiDialog-paperWidthSm.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+  .MuiDialog-paperWidthMd {
+    max-width: 960px;
+  }
+@media (max-width:1023.95px) {
+  .MuiDialog-paperWidthMd.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+  .MuiDialog-paperWidthLg {
+    max-width: 1280px;
+  }
+@media (max-width:1343.95px) {
+  .MuiDialog-paperWidthLg.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+  .MuiDialog-paperWidthXl {
+    max-width: 1920px;
+  }
+@media (max-width:1983.95px) {
+  .MuiDialog-paperWidthXl.MuiDialog-paperScrollBody {
+    max-width: calc(100% - 64px);
+  }
+}
+  .MuiDialog-paperFullWidth {
+    width: calc(100% - 64px);
+  }
+  .MuiDialog-paperFullScreen {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    max-width: 100%;
+    max-height: none;
+    border-radius: 0;
+  }
+  .MuiDialog-paperFullScreen.MuiDialog-paperScrollBody {
+    margin: 0;
+    max-width: 100%;
+  }
+  .MuiDivider-root {
+    border: none;
+    height: 1px;
+    margin: 0;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiDivider-absolute {
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+  }
+  .MuiDivider-inset {
+    margin-left: 72px;
+  }
+  .MuiDivider-light {
+    background-color: rgba(0, 0, 0, 0.08);
+  }
+  .MuiDivider-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .MuiDivider-vertical {
+    width: 1px;
+    height: 100%;
+  }
+  .MuiDivider-flexItem {
+    height: auto;
+    align-self: stretch;
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1280px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .jss4.jss5 .jss6 {
+    transform: scale(1) translateY(-10px);
+  }
+  .jss6 {
+    top: -34px;
+    z-index: 1;
+    position: absolute;
+    font-size: 0.75rem;
+    transform: scale(0);
+    transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.01071em;
+    transform-origin: bottom center;
+  }
+  .jss7 {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    transform: rotate(-45deg);
+    align-items: center;
+    border-radius: 50% 50% 50% 0;
+    justify-content: center;
+    background-color: currentColor;
+  }
+  .jss8 {
+    color: #fff;
+    transform: rotate(45deg);
+  }
+  .MuiSlider-root {
+    color: #3f51b5;
+    width: 100%;
+    cursor: pointer;
+    height: 2px;
+    display: inline-block;
+    padding: 13px 0;
+    position: relative;
+    box-sizing: content-box;
+    touch-action: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .MuiSlider-root.Mui-disabled {
+    color: #bdbdbd;
+    cursor: default;
+    pointer-events: none;
+  }
+  .MuiSlider-root.MuiSlider-vertical {
+    width: 2px;
+    height: 100%;
+    padding: 0 13px;
+  }
+@media (pointer: coarse) {
+  .MuiSlider-root {
+    padding: 20px 0;
+  }
+  .MuiSlider-root.MuiSlider-vertical {
+    padding: 0 20px;
+  }
+}
+@media print {
+  .MuiSlider-root {
+    color-adjust: exact;
+  }
+}
+  .MuiSlider-colorSecondary {
+    color: #f50057;
+  }
+  .MuiSlider-marked {
+    margin-bottom: 20px;
+  }
+  .MuiSlider-marked.MuiSlider-vertical {
+    margin-right: 20px;
+    margin-bottom: auto;
+  }
+  .MuiSlider-rail {
+    width: 100%;
+    height: 2px;
+    display: block;
+    opacity: 0.38;
+    position: absolute;
+    border-radius: 1px;
+    background-color: currentColor;
+  }
+  .MuiSlider-vertical .MuiSlider-rail {
+    width: 2px;
+    height: 100%;
+  }
+  .MuiSlider-track {
+    height: 2px;
+    display: block;
+    position: absolute;
+    border-radius: 1px;
+    background-color: currentColor;
+  }
+  .MuiSlider-vertical .MuiSlider-track {
+    width: 2px;
+  }
+  .MuiSlider-trackFalse .MuiSlider-track {
+    display: none;
+  }
+  .MuiSlider-trackInverted .MuiSlider-track {
+    background-color: rgb(182, 188, 226);
+  }
+  .MuiSlider-trackInverted .MuiSlider-rail {
+    opacity: 1;
+  }
+  .MuiSlider-thumb {
+    width: 12px;
+    height: 12px;
+    display: flex;
+    outline: 0;
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: -5px;
+    transition: box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    align-items: center;
+    margin-left: -6px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color: currentColor;
+  }
+  .MuiSlider-thumb::after {
+    top: -15px;
+    left: -15px;
+    right: -15px;
+    bottom: -15px;
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+  }
+  .MuiSlider-thumb.Mui-focusVisible, .MuiSlider-thumb:hover {
+    box-shadow: 0px 0px 0px 8px rgba(63, 81, 181, 0.16);
+  }
+  .MuiSlider-thumb.MuiSlider-active {
+    box-shadow: 0px 0px 0px 14px rgba(63, 81, 181, 0.16);
+  }
+  .MuiSlider-thumb.Mui-disabled {
+    width: 8px;
+    height: 8px;
+    margin-top: -3px;
+    margin-left: -4px;
+  }
+  .MuiSlider-vertical .MuiSlider-thumb {
+    margin-left: -5px;
+    margin-bottom: -6px;
+  }
+  .MuiSlider-vertical .MuiSlider-thumb.Mui-disabled {
+    margin-left: -3px;
+    margin-bottom: -4px;
+  }
+  .MuiSlider-thumb.Mui-disabled:hover {
+    box-shadow: none;
+  }
+@media (hover: none) {
+  .MuiSlider-thumb.Mui-focusVisible, .MuiSlider-thumb:hover {
+    box-shadow: none;
+  }
+}
+  .MuiSlider-thumbColorSecondary.Mui-focusVisible, .MuiSlider-thumbColorSecondary:hover {
+    box-shadow: 0px 0px 0px 8px rgba(245, 0, 87, 0.16);
+  }
+  .MuiSlider-thumbColorSecondary.MuiSlider-active {
+    box-shadow: 0px 0px 0px 14px rgba(245, 0, 87, 0.16);
+  }
+  .MuiSlider-valueLabel {
+    left: calc(-50% - 4px);
+  }
+  .MuiSlider-mark {
+    width: 2px;
+    height: 2px;
+    position: absolute;
+    border-radius: 1px;
+    background-color: currentColor;
+  }
+  .MuiSlider-markActive {
+    opacity: 0.8;
+    background-color: #fff;
+  }
+  .MuiSlider-markLabel {
+    top: 26px;
+    color: rgba(0, 0, 0, 0.54);
+    position: absolute;
+    font-size: 0.875rem;
+    transform: translateX(-50%);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.43;
+    white-space: nowrap;
+    letter-spacing: 0.01071em;
+  }
+  .MuiSlider-vertical .MuiSlider-markLabel {
+    top: auto;
+    left: 26px;
+    transform: translateY(50%);
+  }
+@media (pointer: coarse) {
+  .MuiSlider-markLabel {
+    top: 40px;
+  }
+  .MuiSlider-vertical .MuiSlider-markLabel {
+    left: 31px;
+  }
+}
+  .MuiSlider-markLabelActive {
+    color: rgba(0, 0, 0, 0.87);
+  }
+  .MuiTooltip-popper {
+    z-index: 1500;
+    pointer-events: none;
+  }
+  .MuiTooltip-popperInteractive {
+    pointer-events: auto;
+  }
+  .MuiTooltip-popperArrow[x-placement*="bottom"] .MuiTooltip-arrow {
+    top: 0;
+    left: 0;
+    margin-top: -0.71em;
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  .MuiTooltip-popperArrow[x-placement*="top"] .MuiTooltip-arrow {
+    left: 0;
+    bottom: 0;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: -0.71em;
+  }
+  .MuiTooltip-popperArrow[x-placement*="right"] .MuiTooltip-arrow {
+    left: 0;
+    width: 0.71em;
+    height: 1em;
+    margin-top: 4px;
+    margin-left: -0.71em;
+    margin-bottom: 4px;
+  }
+  .MuiTooltip-popperArrow[x-placement*="left"] .MuiTooltip-arrow {
+    right: 0;
+    width: 0.71em;
+    height: 1em;
+    margin-top: 4px;
+    margin-right: -0.71em;
+    margin-bottom: 4px;
+  }
+  .MuiTooltip-popperArrow[x-placement*="left"] .MuiTooltip-arrow::before {
+    transform-origin: 0 0;
+  }
+  .MuiTooltip-popperArrow[x-placement*="right"] .MuiTooltip-arrow::before {
+    transform-origin: 100% 100%;
+  }
+  .MuiTooltip-popperArrow[x-placement*="top"] .MuiTooltip-arrow::before {
+    transform-origin: 100% 0;
+  }
+  .MuiTooltip-popperArrow[x-placement*="bottom"] .MuiTooltip-arrow::before {
+    transform-origin: 0 100%;
+  }
+  .MuiTooltip-tooltip {
+    color: #fff;
+    padding: 4px 8px;
+    font-size: 0.625rem;
+    max-width: 300px;
+    word-wrap: break-word;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.4em;
+    border-radius: 4px;
+    background-color: rgba(97, 97, 97, 0.9);
+  }
+  .MuiTooltip-tooltipArrow {
+    margin: 0;
+    position: relative;
+  }
+  .MuiTooltip-arrow {
+    color: rgba(97, 97, 97, 0.9);
+    width: 1em;
+    height: 0.71em;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .MuiTooltip-arrow::before {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    content: "";
+    display: block;
+    transform: rotate(45deg);
+    background-color: currentColor;
+  }
+  .MuiTooltip-touch {
+    padding: 8px 16px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.14286em;
+  }
+  .MuiTooltip-tooltipPlacementLeft {
+    margin: 0 24px ;
+    transform-origin: right center;
+  }
+@media (min-width:600px) {
+  .MuiTooltip-tooltipPlacementLeft {
+    margin: 0 14px;
+  }
+}
+  .MuiTooltip-tooltipPlacementRight {
+    margin: 0 24px;
+    transform-origin: left center;
+  }
+@media (min-width:600px) {
+  .MuiTooltip-tooltipPlacementRight {
+    margin: 0 14px;
+  }
+}
+  .MuiTooltip-tooltipPlacementTop {
+    margin: 24px 0;
+    transform-origin: center bottom;
+  }
+@media (min-width:600px) {
+  .MuiTooltip-tooltipPlacementTop {
+    margin: 14px 0;
+  }
+}
+  .MuiTooltip-tooltipPlacementBottom {
+    margin: 24px 0;
+    transform-origin: center top;
+  }
+@media (min-width:600px) {
+  .MuiTooltip-tooltipPlacementBottom {
+    margin: 14px 0;
+  }
+}
+  .jss9 {
+    padding: 0px;
+  }
+  .jss10 {
+    padding: 0px;
+    position: relative;
+  }
+  .jss11 {
+    color: white;
+    cursor: pointer;
+    margin-top: 16px;
+    margin-left: 16px;
+    background-color: #3d4dd5;
+  }
+  .jss12 {
+    cursor: pointer;
+  }</style></head><body><div id="__next"><div class="Layout" style="display:flex;flex-direction:column;height:100%;width:100%"><header class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary jss3 MuiPaper-elevation4"><div class="MuiToolbar-root MuiToolbar-regular jss3 MuiToolbar-gutters"><button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart" tabindex="0" type="button" aria-label="Logo"><span class="MuiIconButton-label"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/group_37.svg" height="auto" width="84" alt="Khabri-logo"/></span></button><a href="https://corporate.khabri.app" target="_blank" rel="noreferrer nofollow" class="jsx-3250244162"><div class="jsx-3250244162 corporate">Corporate</div></a></div></header><div class="jsx-4250127657 player"><div style="display:none;width:100%;height:100%" class="react-player"></div><div class="jsx-4250127657 "><div class="jsx-4250127657 footer_large"><div class="jsx-4250127657 player_footer__left__1QFVG"><img src="https://content.getkhabri.com/2020/6/images/1-1591638001725.jpg" alt="content" class="jsx-4250127657 player_footer__albumLogo__v0nc9"/><div class="jsx-4250127657 player_footer__songInfo__2_pFF"><div class="jsx-4250127657 pointer">Press Play to listen to a content</div><div style="font-size:9px" class="jsx-4250127657 pointer">Khabri Audio</div></div></div><div class="jsx-4250127657 player_footer_cent_container__yXx-5"><div class="jsx-4250127657 player_footer_align__SNVQz"><div class="jsx-4250127657 player_footer__center__21A3J"><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6h-2c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"></path><path d="M10.89 16h-.85v-3.26l-1.01.31v-.69l1.77-.63h.09V16zM15.17 14.24c0 .32-.03.6-.1.82s-.17.42-.29.57-.28.26-.45.33-.37.1-.59.1-.41-.03-.59-.1-.33-.18-.46-.33-.23-.34-.3-.57-.11-.5-.11-.82v-.74c0-.32.03-.6.1-.82s.17-.42.29-.57.28-.26.45-.33.37-.1.59-.1.41.03.59.1.33.18.46.33.23.34.3.57.11.5.11.82v.74zm-.85-.86c0-.19-.01-.35-.04-.48s-.07-.23-.12-.31-.11-.14-.19-.17-.16-.05-.25-.05-.18.02-.25.05-.14.09-.19.17-.09.18-.12.31-.04.29-.04.48v.97c0 .19.01.35.04.48s.07.24.12.32.11.14.19.17.16.05.25.05.18-.02.25-.05.14-.09.19-.17.09-.19.11-.32.04-.29.04-.48v-.97z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 16.5l6-4.5-6-4.5v9zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 13c0 3.31-2.69 6-6 6s-6-2.69-6-6 2.69-6 6-6v4l5-5-5-5v4c-4.42 0-8 3.58-8 8s3.58 8 8 8 8-3.58 8-8h-2z"></path><path d="M10.86 15.94v-4.27h-.09L9 12.3v.69l1.01-.31v3.26zM12.25 13.44v.74c0 1.9 1.31 1.82 1.44 1.82.14 0 1.44.09 1.44-1.82v-.74c0-1.9-1.31-1.82-1.44-1.82-.14 0-1.44-.09-1.44 1.82zm2.04-.12v.97c0 .77-.21 1.03-.59 1.03s-.6-.26-.6-1.03v-.97c0-.75.22-1.01.59-1.01.38-.01.6.26.6 1.01z"></path></svg><svg class="MuiSvgIcon-root player_footer__icon__2X1XM" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"></path></svg></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"><span class="MuiSlider-root MuiSlider-colorPrimary" style="color:white"><span class="MuiSlider-rail"></span><span class="MuiSlider-track" style="left:0%;width:0%"></span><input type="hidden" value="0"/><span class="MuiSlider-thumb MuiSlider-thumbColorPrimary" tabindex="0" role="slider" style="left:0%" data-index="0" aria-labelledby="seek-slider" aria-orientation="horizontal" aria-valuemax="0.999999" aria-valuemin="0" aria-valuenow="0"></span></span></div></div><div class="jsx-4250127657 player_footer_internal__3Zqp1"><div class="jsx-4250127657 player_footer__right__10hdY"><div class="MuiGrid-root pointer MuiGrid-item"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10h12v2H4zm0-4h12v2H4zm0 8h8v2H4zm10 0v6l5-3z"></path></svg></div><div class="MuiGrid-root pointer MuiGrid-item"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.5 12c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM5 9v6h4l5 5V4L9 9H5z"></path></svg></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"><span class="MuiSlider-root MuiSlider-colorPrimary" style="color:white;width:90%"><span class="MuiSlider-rail"></span><span class="MuiSlider-track" style="left:0%;width:70%"></span><input type="hidden" value="0.7"/><span class="MuiSlider-thumb MuiSlider-thumbColorPrimary" tabindex="0" role="slider" style="left:70%" data-index="0" aria-labelledby="volume-seek-slider" aria-orientation="horizontal" aria-valuemax="1" aria-valuemin="0" aria-valuenow="0.7"></span></span></div></div></div></div></div></div><div class="Content" style="flex:1;display:flex;flex-direction:column"><div class="jsx-3143874566 container"><a href="https://play.google.com/store/apps/details?id=com.inventia.app&amp;referrer=utm_source%3Dmweb%26utm_medium%3Dtop_banner%26utm_campaign%3Dplayer" target="_blank" rel="noreferrer nofollow" class="jsx-3143874566"><div class="jsx-3143874566 topBanner"><div class="jsx-3143874566 playImg"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/playstore.png" alt="google-playstore-link" class="jsx-3143874566 res-img pointer"/></div><div class="jsx-3143874566 textCon"><div class="jsx-3143874566 topText">बेहतर अनुभव के लिए डाउनलोड करे Khabri ऐप</div></div></div></a><div class="jsx-3143874566 controls"><div class="jsx-3143874566"><div class="jsx-3143874566"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:525965;background-color:d9dfe8;border-radius:6px"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path></svg></div></div></div><div class="jsx-3143874566 upper"><div class="jsx-3143874566 image_icons"><div class="jsx-3143874566 scale_img"><img src="https://content.getkhabri.com/2020/6/images/1-1591638001725.jpg" alt="content" class="jsx-3143874566 res-img rounded-lg"/></div></div><div class="jsx-3143874566 channel_info"><div class="jsx-3143874566 channel_title"><div class="jsx-3143874566" title="Khabri Audio">Khabri Audio</div></div><div class="jsx-3143874566 followButton">+Follow</div></div><div class="jsx-3143874566 title"><div class="jsx-3143874566" title="Press Play to listen to a content">Press Play to listen to a content</div></div><div class="jsx-3143874566 icon_container"><div class="jsx-3143874566 flex align-center pointer"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z"></path></svg><span class="jsx-3143874566 icon_text"></span></div><div class="jsx-3143874566 flex align-center"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M12 1c-4.97 0-9 4.03-9 9v7c0 1.66 1.34 3 3 3h3v-8H5v-2c0-3.87 3.13-7 7-7s7 3.13 7 7v2h-4v8h3c1.66 0 3-1.34 3-3v-7c0-4.97-4.03-9-9-9z"></path></svg><span class="jsx-3143874566 icon_text">6</span></div><div class="jsx-3143874566 flex align-center pointer"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18zM20 4v13.17L18.83 16H4V4h16zM6 12h12v2H6zm0-3h12v2H6zm0-3h12v2H6z"></path></svg><span class="jsx-3143874566 icon_text">3</span></div><div class="jsx-3143874566 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/whatsapp.svg" alt="share" width="16" height="16" class="jsx-3143874566"/><span class="jsx-3143874566 icon_text">0</span></div></div></div><div class="jsx-3143874566 mobPlayer"><div class="jsx-3143874566 playerTop"><time dateTime="P0S" class="jsx-3143874566 time">0:00</time><time dateTime="P0S" class="jsx-3143874566 time">0:00</time></div><div class="jsx-3143874566 scrollBar"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"><span class="MuiSlider-root MuiSlider-colorPrimary" style="color:#2171b8"><span class="MuiSlider-rail"></span><span class="MuiSlider-track" style="left:0%;width:0%"></span><input type="hidden" value="0"/><span class="MuiSlider-thumb MuiSlider-thumbColorPrimary" tabindex="0" role="slider" style="left:0%" data-index="0" aria-labelledby="seek-slider" aria-orientation="horizontal" aria-valuemax="0.999999" aria-valuemin="0" aria-valuenow="0"></span></span></div></div><div class="jsx-3143874566 playerBottom"><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"></path></svg><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"></path></svg><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M10 16.5l6-4.5-6-4.5v9zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"></path></svg><svg class="MuiSvgIcon-root" focusable="false" viewBox="0 0 24 24" aria-hidden="true" style="color:#206cd3"><path d="M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"></path></svg></div></div><div class="jsx-3143874566 lower"><div class="jsx-3143874566 light-grey rounder_lg"><div class="jsx-3143874566 nextIn">Next In Queue</div><div class="jsx-3143874566 contentListContainer"><div class="jsx-3216246970 contentCard flex-row space-between shadow-normal rounded"><div class="jsx-3216246970 contentImage"><img src="https://content.khabri.app/2020/10/images/87514-1602896565928.jpg" alt="content-image" class="jsx-3216246970 full-img rounded border-1"/></div><div class="jsx-3216246970 contentDetails flex-col space-evenly"><div class="jsx-3216246970 lite-5"><div class="jsx-3216246970" title="Reena Narwal:A Voice to Heart">Reena Narwal:A Voice ...</div></div><div class="jsx-3216246970 flex-row space-between"><div class="jsx-3216246970 contentTitle bold-4 pointer"><div class="jsx-3216246970" title="बुरे हालात? एक बार जरूर सुनें">बुरे हालात? एक बार जरूर सुनें</div></div><div class="jsx-3216246970 playButton pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/playButton35x35.svg" alt="content-play-image" class="jsx-3216246970"/></div></div><hr class="MuiDivider-root" color="default"/><div class="jsx-3216246970 contentSocials flex-row space-around"><div class="jsx-3216246970 flex align-center"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/listens.svg" alt="listens" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">6</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/comments.svg" alt="comment" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">3</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/whatsapp.svg" alt="share" width="16" height="16" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">0</span></div></div></div></div><div class="jsx-3216246970 contentCard flex-row space-between shadow-normal rounded"><div class="jsx-3216246970 contentImage"><img src="https://content.khabri.app/2020/10/images/87514-1602825870676.jpg" alt="content-image" class="jsx-3216246970 full-img rounded border-1"/></div><div class="jsx-3216246970 contentDetails flex-col space-evenly"><div class="jsx-3216246970 lite-5"><div class="jsx-3216246970" title="Reena Narwal:A Voice to Heart">Reena Narwal:A Voice ...</div></div><div class="jsx-3216246970 flex-row space-between"><div class="jsx-3216246970 contentTitle bold-4 pointer"><div class="jsx-3216246970" title="बहाना क्यों बनाना?">बहाना क्यों बनाना?</div></div><div class="jsx-3216246970 playButton pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/playButton35x35.svg" alt="content-play-image" class="jsx-3216246970"/></div></div><hr class="MuiDivider-root" color="default"/><div class="jsx-3216246970 contentSocials flex-row space-around"><div class="jsx-3216246970 flex align-center"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/listens.svg" alt="listens" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">8</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/comments.svg" alt="comment" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">3</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/whatsapp.svg" alt="share" width="16" height="16" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">0</span></div></div></div></div><div class="jsx-3216246970 contentCard flex-row space-between shadow-normal rounded"><div class="jsx-3216246970 contentImage"><img src="https://content.khabri.app/2020/10/images/87514-1602746757550.jpg" alt="content-image" class="jsx-3216246970 full-img rounded border-1"/></div><div class="jsx-3216246970 contentDetails flex-col space-evenly"><div class="jsx-3216246970 lite-5"><div class="jsx-3216246970" title="Reena Narwal:A Voice to Heart">Reena Narwal:A Voice ...</div></div><div class="jsx-3216246970 flex-row space-between"><div class="jsx-3216246970 contentTitle bold-4 pointer"><div class="jsx-3216246970" title="खूबसूरत कौन है? खूबसूरत कैसे बनें?">खूबसूरत कौन है? खूबसूरत कैसे ब...</div></div><div class="jsx-3216246970 playButton pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/playButton35x35.svg" alt="content-play-image" class="jsx-3216246970"/></div></div><hr class="MuiDivider-root" color="default"/><div class="jsx-3216246970 contentSocials flex-row space-around"><div class="jsx-3216246970 flex align-center"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/listens.svg" alt="listens" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">18</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/comments.svg" alt="comment" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">3</span></div><div class="jsx-3216246970 flex align-center pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/whatsapp.svg" alt="share" width="16" height="16" class="jsx-3216246970"/><span class="jsx-3216246970 lite-6">3</span></div></div></div></div></div></div></div></div></div><div style="background-color:#e8ebef" class="jsx-2910707692"><div class="jsx-2910707692 container"><div class="jsx-2910707692 bold-3 catTitle">Categories</div><div class="jsx-2910707692 categoryContainer"><div class="jsx-2910707692 pointer normal-4">News (समाचार )</div><div class="jsx-2910707692 pointer normal-4">Government Jobs (सरकारी नौकरी)</div><div class="jsx-2910707692 pointer normal-4">Knowledge (ज्ञान)</div><div class="jsx-2910707692 pointer normal-4">Motivation (प्रेरणा)</div></div><div class="jsx-2910707692 bold-3 mtop">Top Channels</div><div class="jsx-2910707692 channelsContainer"><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Indresh RC">Indresh RC</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Mann ki Awaaz Motivation">Mann ki Awaaz Mo...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Mahendra dogney ( MD Motivation )">Mahendra dogney ...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Job Update with Ashok Singh">Job Update with ...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Current Affairs: Vinay Sir">Current Affairs:...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="मुख्य खबरें">मुख्य खबरें</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Achhi Khabar">Achhi Khabar</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="GK - Trending Now">GK - Trending No...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="CRACK EXAM">CRACK EXAM</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="GK Lucent">GK Lucent</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Sandeep Maheshwari Audio Show">Sandeep Maheshwa...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="The Hindu Vocabulary I The Hindu Editorial Vocabulary I The Hindu Vocab I The Hindu Editorial Vocab I by Ravi THAKUR">The Hindu Vocabu...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Current Affairs Show">Current Affairs ...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="YET Your English Tutor">YET Your English...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Suvichar with Preeti Kapoor">Suvichar with Pr...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="ssc and upsssc examination">ssc and upsssc e...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="GK &amp; ECONOMIC UPDATES">GK &amp; ECONOMIC UP...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="GK INDIA">GK INDIA</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Speak &amp; Learn English daily with Gunjan">Speak &amp; Learn En...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Ak india">Ak india</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="The Animation Fever">The Animation Fe...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Creator&#x27;s Choice Gig_RS">Creator&#x27;s Choice...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="English NEWS Express">English NEWS Exp...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Khooni Monday Horror Stories">Khooni Monday Ho...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="तैयारी Beginners की">तैयारी Beginners...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="BBC HINDI">BBC HINDI</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Abby Viral">Abby Viral</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Dear Sir Kashif">Dear Sir Kashif</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="YT Study Zone">YT Study Zone</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="CRACK EXAM STATIC">CRACK EXAM STATI...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="&#x27;EXAM Josh&#x27;    || useful for :- SSC | Bank | RLY.">&#x27;EXAM Josh&#x27;    |...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="AV Motivation">AV Motivation</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="AMAZING RANDOM FACTS">AMAZING RANDOM F...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="सरकारी योजनायें ">सरकारी योजनायें </div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Lucent Daily GK">Lucent Daily GK</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="IamRocker Stories">IamRocker Storie...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Gyan Portel India">Gyan Portel Indi...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Geet Motivational">Geet Motivationa...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="SIDIMANIA INFOTAINMENT">SIDIMANIA INFOTA...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title=" Kavi Sandeep Dwivedi Motivation"> Kavi Sandeep Dw...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Interesting facts, रोचक जानकारी ">Interesting fact...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Latest Trending Music">Latest Trending ...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Awal Creations">Awal Creations</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Railway Exam">Railway Exam</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="18+ (EROTIC STORIES)">18+ (EROTIC STOR...</div></div><div class="jsx-2910707692 chaRowMob"><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Dear sir">Dear sir</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Free Education Portal">Free Education P...</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Mantra Shakti">Mantra Shakti</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="Classmate gk">Classmate gk</div><div class="jsx-2910707692 rowEnt normal-5 pointer" title="एक्सप्रेस न्यूज़">एक्सप्रेस न्यूज़</div></div></div></div></div><div class="jsx-3121640916 flex-col align-center w-100 footerWrapper"><div class="jsx-3121640916 flex-col footerContainer"><div class="jsx-3121640916 upperContainer"><div class="jsx-3121640916 leftPart"><div class="jsx-3121640916 icon pointer"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/logo_white.svg" alt="logo" loading="lazy" class="jsx-3121640916 res-img"/></div><div class="jsx-3121640916 textLinks"><a href="https://api.whatsapp.com/send?phone=918826889880" target="_blank" class="jsx-3121640916"><p class="jsx-3121640916 pointer">Contact Us</p></a><a href="https://play.google.com/store/apps/details?id=com.khabri.creator&amp;referrer=utm_source%3Dweb%26utm_medium%3Dfooter%26utm_campaign%3Dfooter" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><p class="jsx-3121640916 pointer">Create a Channel</p></a><a href="https://play.google.com/store/apps/details?id=com.inventia.app&amp;referrer=utm_source%3Dmweb%26utm_medium%3Dtop_banner%26utm_campaign%3Dhome" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><p class="jsx-3121640916 pointer">Download Mobile App</p></a></div></div><div class="jsx-3121640916 rightPart"><div class="jsx-3121640916 socialContainer"><div class="jsx-3121640916 follow">Follow us on</div><div class="jsx-3121640916 socialIcons pointer"><a href="https://instagram.com/khabriaudio" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/instagram.svg" alt="instagram-logo" class="jsx-3121640916"/></a><a href="https://www.facebook.com/khabriapp" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/facebook.svg" alt="facebook-logo" class="jsx-3121640916"/></a><a href="https://twitter.com/khabriaudio" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/twitter.svg" alt="twitter-logo" class="jsx-3121640916"/></a><a href="https://www.youtube.com/khabri" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/youtube.svg" alt="youtube-logo" class="jsx-3121640916"/></a><a href="https://api.whatsapp.com/send?phone=918826889880" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><img src="https://s3.ap-south-1.amazonaws.com/content.getkhabri.com/web_utils/whatsapp-1.svg" alt="whatsapp-logo" class="jsx-3121640916"/></a></div></div></div></div><hr class="MuiDivider-root" style="color:white;background-color:white"/><div class="jsx-3121640916 lowBar flex-row space-between"><div style="width:60%" class="jsx-3121640916 flex-row space-evenly"><a href="/privacy.html" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><div class="jsx-3121640916 pointer">Privacy Policy</div></a><a href="https://content.khabri.app/tnc/cms-tnc.html" target="_blank" rel="noreferrer nofollow" class="jsx-3121640916"><div class="jsx-3121640916 pointer">Terms &amp; Conditions</div></a></div><div style="width:25%" class="jsx-3121640916 flex justify-center">© Copyright Khabri 2017-2020</div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"data":{"contentId":438078,"audioUrl":"https://content.khabri.app/2020/10/audio/87514-1602896722828.mp3","imageUrl":"https://content.khabri.app/2020/10/images/87514-1602896565928.jpg","title":"बुरे हालात? एक बार जरूर सुनें","dateModified":"2020-10-18T01:10:02","channelId":87514,"dateAdded":"2020-10-17T01:05:23","channelTitle":"Reena Narwal:A Voice to Heart","channelSlug":null,"contentSlug":null,"channelImageUrl":"https://content.khabri.app/2020/10/images/1-1601897665391.jpg","noOfListens":6,"noOfComments":3,"noOfShares":0,"description":"Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar","subcategoryName":null,"subcategoryId":null,"categoryName":"Motivation","categoryId":6,"status":{"statusId":5,"statusName":"REVIEWED","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"sourceUrl":null,"source":null,"priority":1,"audioDuration":189,"isSponsered":null,"creator":1927667,"creatorDetails":{"userId":1927667,"name":"Reena Narwal","deviceId":"df0c6c7a897a2f62","dateAdded":"2020-10-05T11:32:33","dateModified":"2020-10-15T06:30:00","email":null,"mobile":"+919350288476","gender":"Female","profileUrl":"https://content.khabri.app/2020/7/images/1-1594054109975.jpg","latitude":null,"longitude":null,"dateOfBirth":null,"token":null,"roles":null,"status":{"statusId":1,"statusName":"ACTIVE","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"userPlatform":null,"clientKey":null},"reviewer":null,"deeplink":null,"noOfLikes":null,"datePublished":"2020-10-17T01:05:23","currentPosition":null,"previousPosition":null,"contestId":null,"themeId":null,"contestName":null,"themeName":null,"noOfListensDelta":null,"noOfLikesDelta":null,"noOfCommentsDelta":null,"gigId":null,"gigName":null,"audioUrlHls":"https://content.khabri.app/2020/10/17/87514/438078/1602896724038/playlist.m3u8","shareMetadata":{"video":[{"type":"480p","videoUrl":"https://content.khabri.app/shareAdVideo/2020/10/17/87514/438078/1602896724872/438078-video-ad.mp4","size":"576228"}]},"hashtags":null},"data2":{"contentBasicDetail":[{"contentId":438078,"audioUrl":"https://content.khabri.app/2020/10/audio/87514-1602896722828.mp3","imageUrl":"https://content.khabri.app/2020/10/images/87514-1602896565928.jpg","title":"बुरे हालात? एक बार जरूर सुनें","dateModified":"2020-10-18T01:10:02","channelId":87514,"dateAdded":"2020-10-17T01:05:23","channelTitle":"Reena Narwal:A Voice to Heart","channelSlug":null,"contentSlug":null,"channelImageUrl":"https://content.khabri.app/2020/10/images/1-1601897665391.jpg","noOfListens":6,"noOfComments":3,"noOfShares":0,"description":"Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar","subcategoryName":null,"subcategoryId":null,"categoryName":"Motivation","categoryId":6,"status":{"statusId":5,"statusName":"REVIEWED","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"sourceUrl":null,"source":null,"priority":1,"audioDuration":189,"isSponsered":null,"creator":1927667,"creatorDetails":{"userId":1927667,"name":"Reena Narwal","deviceId":"df0c6c7a897a2f62","dateAdded":"2020-10-05T11:32:33","dateModified":"2020-10-15T06:30:00","email":null,"mobile":"+919350288476","gender":"Female","profileUrl":"https://content.khabri.app/2020/7/images/1-1594054109975.jpg","latitude":null,"longitude":null,"dateOfBirth":null,"token":null,"roles":null,"status":{"statusId":1,"statusName":"ACTIVE","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"userPlatform":null,"clientKey":null},"reviewer":null,"deeplink":null,"noOfLikes":null,"datePublished":"2020-10-17T01:05:23","currentPosition":null,"previousPosition":null,"contestId":null,"themeId":null,"contestName":null,"themeName":null,"noOfListensDelta":null,"noOfLikesDelta":null,"noOfCommentsDelta":null,"gigId":null,"gigName":null,"audioUrlHls":"https://content.khabri.app/2020/10/17/87514/438078/1602896724038/playlist.m3u8","shareMetadata":{"video":[{"type":"480p","videoUrl":"https://content.khabri.app/shareAdVideo/2020/10/17/87514/438078/1602896724872/438078-video-ad.mp4","size":"576228"}]},"hashtags":null},{"contentId":437359,"audioUrl":"https://content.khabri.app/2020/10/audio/87514-1602826126722.mp3","imageUrl":"https://content.khabri.app/2020/10/images/87514-1602825870676.jpg","title":"बहाना क्यों बनाना?","dateModified":"2020-10-17T05:32:03","channelId":87514,"dateAdded":"2020-10-16T05:28:47","channelTitle":"Reena Narwal:A Voice to Heart","channelSlug":null,"contentSlug":null,"channelImageUrl":"https://content.khabri.app/2020/10/images/1-1601897665391.jpg","noOfListens":8,"noOfComments":3,"noOfShares":0,"description":"Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar","subcategoryName":null,"subcategoryId":null,"categoryName":"Motivation","categoryId":6,"status":{"statusId":5,"statusName":"REVIEWED","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"sourceUrl":null,"source":null,"priority":1,"audioDuration":247,"isSponsered":null,"creator":1927667,"creatorDetails":{"userId":1927667,"name":"Reena Narwal","deviceId":"df0c6c7a897a2f62","dateAdded":"2020-10-05T11:32:33","dateModified":"2020-10-15T06:30:00","email":null,"mobile":"+919350288476","gender":"Female","profileUrl":"https://content.khabri.app/2020/7/images/1-1594054109975.jpg","latitude":null,"longitude":null,"dateOfBirth":null,"token":null,"roles":null,"status":{"statusId":1,"statusName":"ACTIVE","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"userPlatform":null,"clientKey":null},"reviewer":null,"deeplink":null,"noOfLikes":1,"datePublished":"2020-10-16T05:28:47","currentPosition":null,"previousPosition":null,"contestId":null,"themeId":null,"contestName":null,"themeName":null,"noOfListensDelta":null,"noOfLikesDelta":null,"noOfCommentsDelta":null,"gigId":null,"gigName":null,"audioUrlHls":"https://content.khabri.app/2020/10/16/87514/437359/1602826128574/playlist.m3u8","shareMetadata":{"video":[{"type":"480p","videoUrl":"https://content.khabri.app/shareAdVideo/2020/10/16/87514/437359/1602826129426/437359-video-ad.mp4","size":"546857"}]},"hashtags":null},{"contentId":436484,"audioUrl":"https://content.khabri.app/2020/10/audio/87514-1602746884881.mp3","imageUrl":"https://content.khabri.app/2020/10/images/87514-1602746757550.jpg","title":"खूबसूरत कौन है? खूबसूरत कैसे बनें?","dateModified":"2020-10-16T13:20:56","channelId":87514,"dateAdded":"2020-10-15T07:28:06","channelTitle":"Reena Narwal:A Voice to Heart","channelSlug":null,"contentSlug":null,"channelImageUrl":"https://content.khabri.app/2020/10/images/1-1601897665391.jpg","noOfListens":18,"noOfComments":3,"noOfShares":3,"description":"Listen Hindi News Headlines from Delhi, MP, UP, Bihar on Khabri. Bollywood News in Hindi, RRB Preparation in Hindi, Current Affairs in Hindi, Cricket News in Hindi, Hindi Samachar","subcategoryName":null,"subcategoryId":null,"categoryName":"Motivation","categoryId":6,"status":{"statusId":5,"statusName":"REVIEWED","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"sourceUrl":null,"source":null,"priority":1,"audioDuration":293,"isSponsered":null,"creator":1927667,"creatorDetails":{"userId":1927667,"name":"Reena Narwal","deviceId":"df0c6c7a897a2f62","dateAdded":"2020-10-05T11:32:33","dateModified":"2020-10-15T06:30:00","email":null,"mobile":"+919350288476","gender":"Female","profileUrl":"https://content.khabri.app/2020/7/images/1-1594054109975.jpg","latitude":null,"longitude":null,"dateOfBirth":null,"token":null,"roles":null,"status":{"statusId":1,"statusName":"ACTIVE","dateAdded":"2017-10-29T18:58:27","dateModified":"2017-10-29T18:58:27"},"userPlatform":null,"clientKey":null},"reviewer":null,"deeplink":null,"noOfLikes":3,"datePublished":"2020-10-15T07:28:06","currentPosition":null,"previousPosition":null,"contestId":null,"themeId":null,"contestName":null,"themeName":null,"noOfListensDelta":null,"noOfLikesDelta":null,"noOfCommentsDelta":null,"gigId":null,"gigName":null,"audioUrlHls":"https://content.khabri.app/2020/10/15/87514/436484/1602746886901/playlist.m3u8","shareMetadata":{"video":[{"type":"480p","videoUrl":"https://content.khabri.app/shareAdVideo/2020/10/15/87514/436484/1602746887400/436484-video-ad.mp4","size":"663369"}]},"hashtags":null}],"channel":null,"channelBasicDetail":null,"playlist":null}},"__N_SSP":true},"page":"/player","query":{"contentId":"438078","utm_source":"android","utm_medium":"content_share","utm_campaign":"438078\n"},"buildId":"bUIUohzDmI1fRP1hLTcG_","isFallback":false,"gssp":true,"customServer":true}</script><script nomodule="" src="/_next/static/chunks/polyfills-f8d88fc6aa27b790f2ac.js"></script><script src="/_next/static/chunks/main-6fda6883a584f75c060b.js" async=""></script><script src="/_next/static/chunks/webpack-e067438c4cf4ef2ef178.js" async=""></script><script src="/_next/static/chunks/framework.1d36bc031662b4dc4c28.js" async=""></script><script src="/_next/static/chunks/commons.f37f593418af3eec609a.js" async=""></script><script src="/_next/static/chunks/16132317b517fdbb8def45aa49b714cd2e288e46.fe4285dce8e8a1150d70.js" async=""></script><script src="/_next/static/chunks/76aeb20135aeab1e8d8bc52885819322119e6f5e.a21093415dc36c39169c.js" async=""></script><script src="/_next/static/chunks/e2cf4b0bc44c7615cee06e380ffdb19f2311dde1.62a764e58022ac5235dd.js" async=""></script><script src="/_next/static/chunks/21992c5db9aada6c142f6178e6055f11fd395953.1a559d58f7a37e2517e1.js" async=""></script><script src="/_next/static/chunks/8fddbde346a4c06bb9c3fb59ad2466ce19defd12.e59dfc03f469cdc8e6a5.js" async=""></script><script src="/_next/static/chunks/pages/_app-5603ca8d96f51d684a30.js" async=""></script><script src="/_next/static/chunks/c7c214290f7bc8532ae7cea156dc80a08e95d47e.14ca018f5b62087a0918.js" async=""></script><script src="/_next/static/chunks/pages/player-e7ea025b169810fdf1e0.js" async=""></script><script src="/_next/static/bUIUohzDmI1fRP1hLTcG_/_buildManifest.js" async=""></script><script src="/_next/static/bUIUohzDmI1fRP1hLTcG_/_ssgManifest.js" async=""></script></body></html>

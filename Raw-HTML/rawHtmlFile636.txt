@@ -1,0 +1,2241 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US"
+ xmlns:og="http://ogp.me/ns#"
+ xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US"
+ xmlns:og="http://ogp.me/ns#"
+ xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US"
+ xmlns:og="http://ogp.me/ns#"
+ xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">-->
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://inpublicsafety.com/xmlrpc.php">
+
+<!--GTM Data Layer Declaration -->
+<script>
+  dataLayer = [];
+</script>
+<!--/GTM Data Layer Declaration -->
+
+<!-- OneTrust Cookies Consent Notice (Production CDN, inpublicsafety.com, en-US) start -->
+<script src="https://cdn.cookielaw.org/geoswitch/d97bc2c2-529b-4d38-bd3f-bc04ff861c0f.js" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript">
+function OptanonWrapper() { dataLayer.push({'event': 'OneTrustGroupsUpdated'}); }
+</script>
+<!-- OneTrust Cookies Consent Notice (Production CDN, inpublicsafety.com, en-US) end -->
+
+
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer', 'GTM-5H5NZ6');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Push Page Data to GTM -->
+<script>
+dataLayer.push({
+'event':'e_blogDetails',
+'articleTitle':'Podcast%3A Role of INTERPOL in Fighting International Crime',
+'articleAuthorName': '',
+'articleContentID': '13175',
+'articlePublishDate': '09/29/2020',
+'articleCategory': 'Gangs, Human Trafficking, Intelligence, Law Enforcement, Law Enforcement Partnerships, LE Careers, Original, Podcasts, Police Training, Public Safety Issues, ',
+});</script><!-- /Push Page Data to GTM -->
+
+
+<!-- Retina Logo-->
+	
+
+<title>Podcast: Role of INTERPOL in Fighting International Crime - In Public Safety</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Human trafficking, cybercrime, and drug trafficking go beyond borders. Learn how INTERPOL shares intelligence and resources for global investigations."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Podcast: Role of INTERPOL in Fighting International Crime - In Public Safety" />
+<meta property="og:description" content="Human trafficking, cybercrime, and drug trafficking go beyond borders. Learn how INTERPOL shares intelligence and resources for global investigations." />
+<meta property="og:url" content="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" />
+<meta property="og:site_name" content="In Public Safety" />
+<meta property="article:tag" content="criminal justice" />
+<meta property="article:tag" content="cybercrime" />
+<meta property="article:tag" content="human trafficking" />
+<meta property="article:tag" content="international law enforcement" />
+<meta property="article:tag" content="INTERPOL" />
+<meta property="article:tag" content="law enforcement" />
+<meta property="article:tag" content="original" />
+<meta property="article:tag" content="podcast" />
+<meta property="article:section" content="Human Trafficking" />
+<meta property="article:published_time" content="2020-09-29T17:15:08+00:00" />
+<meta property="article:modified_time" content="2020-09-29T20:52:59+00:00" />
+<meta property="og:updated_time" content="2020-09-29T20:52:59+00:00" />
+<meta property="og:image" content="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg" />
+<meta property="og:image:secure_url" content="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg" />
+<meta property="og:image:width" content="800" />
+<meta property="og:image:height" content="581" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Human trafficking, cybercrime, and drug trafficking go beyond borders. Learn how INTERPOL shares intelligence and resources for global investigations." />
+<meta name="twitter:title" content="Podcast: Role of INTERPOL in Fighting International Crime - In Public Safety" />
+<meta name="twitter:image" content="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://inpublicsafety.com/#website","url":"https://inpublicsafety.com/","name":"In Public Safety","inLanguage":"en-US","description":"Here you&#039;ll find resources geared toward public servants","potentialAction":[{"@type":"SearchAction","target":"https://inpublicsafety.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#primaryimage","inLanguage":"en-US","url":"https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg","width":800,"height":581,"caption":"INTERPOL"},{"@type":"WebPage","@id":"https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#webpage","url":"https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/","name":"Podcast: Role of INTERPOL in Fighting International Crime - In Public Safety","isPartOf":{"@id":"https://inpublicsafety.com/#website"},"inLanguage":"en-US","primaryImageOfPage":{"@id":"https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#primaryimage"},"datePublished":"2020-09-29T17:15:08+00:00","dateModified":"2020-09-29T20:52:59+00:00","author":{"@id":"https://inpublicsafety.com/#/schema/person/b808046680e97a24b99d59d557c2c9fc"},"description":"Human trafficking, cybercrime, and drug trafficking go beyond borders. Learn how INTERPOL shares intelligence and resources for global investigations.","potentialAction":[{"@type":"ReadAction","target":["https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/"]}]},{"@type":["Person"],"@id":"https://inpublicsafety.com/#/schema/person/b808046680e97a24b99d59d557c2c9fc","name":"Jarrod Sadulski","image":{"@type":"ImageObject","@id":"https://inpublicsafety.com/#authorlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/98b16f7fcd7054dd3eb7a329665acf16?s=96&d=mm&r=g","caption":"Jarrod Sadulski"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="In Public Safety &raquo; Feed" href="https://inpublicsafety.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In Public Safety &raquo; Comments Feed" href="https://inpublicsafety.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In Public Safety &raquo; Podcast: Role of INTERPOL in Fighting International Crime Comments Feed" href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inpublicsafety.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- inpublicsafety.com is managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+						</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='ct_shortcode_style-css'  href='https://inpublicsafety.com/wp-content/plugins/newstube-shortcodes/shortcodes/css/shortcode.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://inpublicsafety.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-styles-css'  href='https://inpublicsafety.com/wp-content/plugins/flyin-ads-jquery-animation/flyin-ads-jquery-animation.css' type='text/css' media='all' />
+<link rel='stylesheet' id='isf_style-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/social_follow/files/css/style-frond_end.css' type='text/css' media='all' />
+<link rel='stylesheet' id='isf_pack_social_follow-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/social_follow/files/css/pack_social_follow.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_font-awesome-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/css/font-awesome.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_socicon-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/css/socicon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_style-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/css/style-front_end.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_templates-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/css/templates.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_show_effects_css-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/css/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ism_additional_template_0-css'  href='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/templates/pack_wb.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mashmenu-css-css'  href='https://inpublicsafety.com/wp-content/themes/newstube/inc/megamenu/css/mashmenu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://inpublicsafety.com/wp-content/themes/newstube/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://inpublicsafety.com/wp-content/themes/newstube/css/fonts/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css'  href='https://inpublicsafety.com/wp-content/themes/newstube/js/swiper/idangerous.swiper.css' type='text/css' media='all' />
+<link rel='stylesheet' id='malihu-scroll-css'  href='https://inpublicsafety.com/wp-content/themes/newstube/js/malihu-scroll/jquery.mCustomScrollbar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cactus-style-css'  href='https://inpublicsafety.com/wp-content/themes/newstube-inpublicsafety/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C800%2C400italic%2C800italic' type='text/css' media='all' />
+<script type='text/javascript' src='https://inpublicsafety.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/apus-utm/js/apus-utm.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/flyin-ads-jquery-animation/flyin-ads-jquery-animation.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/js/front_end_header.js'></script>
+<script type='text/javascript' src='https://apis.google.com/js/plusone.js'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.2.1.slim.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube-inpublicsafety/js/gated-content-dependency_r2iTest.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cactus = {"ajaxurl":"https:\/\/inpublicsafety.com\/wp-admin\/admin-ajax.php","query_vars":{"page":0,"year":2020,"monthnum":9,"name":"podcast-role-of-interpol-in-fighting-international-crime","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":7,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"current_url":"https:\/\/inpublicsafety.com\/2020\/09\/podcast-role-of-interpol-in-fighting-international-crime"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/ajax.js'></script>
+<link rel='https://api.w.org/' href='https://inpublicsafety.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://inpublicsafety.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://inpublicsafety.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://inpublicsafety.com/?p=13175' />
+<link rel="alternate" type="application/json+oembed" href="https://inpublicsafety.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://inpublicsafety.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&#038;format=xml" />
+<meta property="fb:app_id" content="690355234350356"/><meta name="twitter:card" content="photo" />
+<meta name="twitter:image:src" id="twitter_meta_img" content="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg">
+<meta name="twitter:url" content="https://inpublicsafety.com" />
+		<!-- Block Referral Spam By WPDeveloper.net --><link rel="shortcut icon" type="image/x-icon" href="http://inpublicsafety.com/wp-content/uploads/sites/13/favicon.ico" />
+<!-- custom css -->
+				<style type="text/css">/*Social Share and Locker Pro
+Hide Email Share*/
+.ism_box_email{
+    display:none;
+}
+
+
+
+.the_in {
+    float: left;
+}
+
+/*----FIX FOR CAPTIONS: Updated 2/16/2018-------*/
+
+.body-content figure.wp-caption[id*="attachment_"] {
+    visibility: visible;
+    opacity: 1;
+}
+
+.cactus-share-and-like{
+    display: none !important;
+}
+
+
+/* NEW AD STYLES POST UTM CODE IMPLEMENTATION */
+
+.bannerTxt a {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.bannerTxt a button {
+    text-transform: uppercase;
+}
+	/* background */
+    .bg-main-color,
+    .cactus-note-cat,
+    .subs-button .subs-row .subs-cell a,
+    #top-nav .navbar-nav>li ul:before,
+    #main-menu .navbar-default .navbar-nav>li>a:hover, 
+	#main-menu .navbar-default .navbar-nav>li.current-menu-item>a,
+    #main-menu .navbar-default .navbar-nav>li:hover>a,
+    #main-menu .navbar-nav>li ul:before,
+    #main-menu .navbar-default.cactus-sticky-menu .navbar-nav>li>a:hover, 
+    .cactus-nav.style-3 #main-menu .navbar-default.cactus-sticky-menu .navbar-nav>li>a:hover,
+    .widget .widget-title:before,
+    .cactus-related-posts .title-related-post:before,
+    .cactus-now-playing,
+    .post-style-gallery .pagination .swiper-pagination-switch:hover,
+    .post-style-gallery .pagination .swiper-pagination-switch.swiper-active-switch,
+    .cactus-video-list-content .cactus-widget-posts .cactus-widget-posts-item .video-active,
+    .comments-area .comment-reply-title:before,
+	.comments-area .comments-title:before,
+    #main-menu .navbar-default .navbar-nav.user_submit>li>a:hover,
+    .cactus-thumb-slider .bottom-absolute,
+    .item-review h4:before,
+    .item-review .box-progress .progress .progress-bar,
+    .star-rating-block .rating-title:before,
+    .cactus-slider-sync .cactus-silder-sync-listing .sync-img-content > div > .hr-active,
+    .cactus-slider-sync[data-layout="vertical"] .cactus-silder-sync-listing .swiper-slide:before,
+    footer .footer-info .link #menu-footer-menu li:after,
+    body.archive.category .cactus-listing-heading h1,
+    .widget.widget_shopping_cart .buttons a:last-child,
+    .woocommerce .widget_price_filter .price_slider_amount .button,
+    .woocommerce #reviews #review_form_wrapper h3:before,
+    .single-product .upsells.products h2:before,
+    .woocommerce-page #payment #place_order, .woocommerce-checkout form.login .form-row .button,
+    .woocommerce div.product form.cart .button.single_add_to_cart_button,
+    .wpb_row .woocommerce #payment #place_order,
+    .wpb_row .woocommerce.add_to_cart_inline .button.add_to_cart_button:hover,
+    .cactus-tab .cactus-tab-heading .cactus-tab-title span
+	{background-color: #567b98;}
+	.woocommerce .sale-on{ border-top-color:#567b98}
+	/* color */
+	
+    .main-color,
+	a, 
+    a:focus,
+	/*a:hover,*/
+    .woocommerce .return-to-shop a.button:hover, .woocommerce .cart input.checkout-button.button, .woocommerce-shipping-calculator button.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover,
+	.woocommerce #review_form #respond .form-submit input,
+    .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+    .widget_price_filter .price_slider_amount .button:hover, .widget.widget_shopping_cart .buttons a:hover,
+    .btn-default:not(:hover):not(.load-more):not([data-dismiss="modal"]), 
+    button:not(:hover):not(.load-more):not([data-dismiss="modal"]):not([name="calc_shipping"]):not(.button), 
+    input[type=button]:not(:hover):not(.load-more):not([data-dismiss="modal"]), 
+    input[type=submit]:not(:hover):not(.load-more):not([data-dismiss="modal"]):not([name="apply_coupon"]):not([name="update_cart"]):not([name="login"]), 
+    .btn-default:not(:hover):not(.load-more):not([data-dismiss="modal"]):visited, 
+    button:not(:hover):not(.load-more):not([data-dismiss="modal"]):visited, 
+    input[type=button]:not(:hover):not(.load-more):not([data-dismiss="modal"]):visited, 
+    input[type=submit]:not(:hover):not(.load-more):not([data-dismiss="modal"]):visited,
+	.btn-large,
+	.btn-large:visited,
+	*[data-toggle="tooltip"]:not(.share-tool-block),
+	.dark-div .cactus-info:hover,
+	.cactus-note-point,
+	#main-menu .navbar-default .navbar-nav>li>a,
+	#off-canvas .off-menu ul li a:hover,
+	#top-nav .navbar-nav.open-menu-mobile-top>li>ul>li a:hover,
+	#main-menu .dropdown-mega .channel-content .row .content-item .video-item .item-head h3 a:hover,
+	#main-menu .dropdown-mega .sub-menu-box-grid .columns li ul li.header,
+    .cactus-sidebar .widget .widget-title,
+    .tag-group a:hover,
+	.tag-group a:focus,
+    .cactus-listing-carousel-content .cactus-listing-config.style-1.style-3 .cactus-post-title > a:hover,
+    .post-style-gallery .pre-carousel:hover,
+	.post-style-gallery .next-carousel:hover,
+    .dark-div .cactus-video-list-content .video-listing .cactus-widget-posts .widget-posts-title a:hover,
+    .cactus-video-list-content .cactus-widget-posts .cactus-widget-posts-item.active .widget-posts-title a,
+    footer .footer-info .link a:hover,
+	.cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav>li:hover>a,	
+    .cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav.user_submit>li>a:hover,    
+    .cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav>li.current-menu-item>a,
+    .cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav:not(.user_submit)>li>a:hover, 
+	.cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav:not(.user_submit)>li.current-menu-item>a, 
+	.cactus-nav.style-4 #main-menu .navbar-default:not(.cactus-sticky-menu) .navbar-nav:not(.user_submit)>li:hover>a,	
+    .wptt_TwitterTweets ul.fetched_tweets li.tweets_avatar .tweet_data a:hover,    
+	.dark-div .widget_calendar a:hover,    
+    
+	.item-review .box-text .score,	
+	.cactus-slider-sync .pre-carousel:hover,
+	.cactus-slider-sync .next-carousel:hover,	
+	.cactus-thumb-slider .thumb-content .swiper-slide .thumb-item:hover .cactus-note-cat,
+	.cactus-thumb-slider .thumb-content .swiper-slide.active .thumb-item .cactus-note-cat,
+	.cactus-thumb-slider .pre-carousel:hover,
+	.cactus-thumb-slider .next-carousel:hover,	
+	.cactus-banner-parallax .sub-content h3 a:hover,	
+	.cactus-slider-wrap .cactus-slider-btn-prev:hover,
+	.cactus-slider-wrap .cactus-slider-btn-next:hover,
+	.cactus-scb .cactus-scb-title,	
+	.cactus-banner-parallax-slider .cactus-info:hover,
+	.cactus-banner-parallax-slider .dark-div .cactus-info:hover,	
+	.cactus-carousel .pre-carousel:hover,
+	.cactus-carousel .next-carousel:hover,
+    .compare-table-wrapper .btn-default,
+	.compare-table-wrapper .btn-default:visited,
+	.cactus-topic-box .topic-box-title,
+	.cactus-divider.style-4 > h6,
+    .cactus-topic-box .topic-box-item a:hover,
+    .cactus-change-video:hover .button-cell > span:last-child,  
+    .easy-tab .tabs li.active a,
+    .easy-tab .tabs li a:hover,
+    .woocommerce .woocommerce-archive ul.products li.item-product .button:hover,
+    .widget.widget_shopping_cart .buttons a:last-child:hover,
+    .wpb_row .woocommerce ul.products li.item-product .button:hover,
+    .wpb_row .woocommerce table.my_account_orders .button.view:hover,
+    .cactus-topic-box .topic-box-item a:hover    
+	{color: #567b98;}
+    
+    @media(max-width:1024px) {
+    	#wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.open-menu-mobile>li>a:hover,
+		#wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.search-drop-down>li>a:hover,
+		#wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.user_submit>li>a:hover,
+        #wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.open-menu-mobile>li:hover>a,
+		#wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.search-drop-down>li:hover>a,
+		#wrap .cactus-nav #main-menu .navbar-default.cactus-sticky-menu .navbar-nav.user_submit>li:hover>a {color: #567b98;}
+   	}
+
+	/* border color */
+
+	#main-menu .dropdown-mega .preview-mode,
+	.cactus-nav.style-2 #main-menu,
+	.cactus-nav.style-3 #main-menu,
+	footer .footer-info,
+	.compare-table-wrapper > .compare-table,
+	#main-menu .search-drop-down>li>ul,
+    .tm-multilink .multilink-table-wrap .multilink-item,
+    .cactus-tab .cactus-tab-heading
+	{
+		border-color: #567b98;
+	}
+
+
+
+
+        .sub-menu,
+        #top-nav .navbar-nav>li>a,
+        #top-nav .navbar-nav>li ul li a,
+        #main-menu .navbar-default .navbar-nav>li>a,
+        #main-menu .navbar-nav>li ul li a,
+        .cactus-headline .title,
+        #main-menu .navbar-default .navbar-nav.user_submit>li>a>span,
+        .cactus-headline .cactus-note-cat,
+        .cactus-headline .swiper-slide a.title-slide { font-size:12px;}
+            .cactus-headline .button-prev, 
+    		.cactus-headline .button-next {font-size:14px;}	            
+		    	h1, .h1 { font-size:37px;} 	
+		h2, .h2,
+        .cactus-listing-config.style-1 .cactus-post-item.featured-post .cactus-post-title { font-size:30px;} 
+        
+        						
+		h3, .h3 { font-size:24px;} 						
+		h4, .h4 { font-size:19px;} 						
+		h5, .h5 { font-size:15px;}							
+    	h6, .h6,
+        .easy-tab .tabs li a,
+        .cactus-scb[data-style="1"] .cactus-listing-config.style-1 .cactus-post-item:not(:first-child) .cactus-post-title,
+    	.cactus-scb[data-style="3"] .cactus-listing-config.style-1 .cactus-post-item:not(:first-child) .primary-post-content .picture-content .content-abs-post .cactus-post-title,
+    	.cactus-scb[data-style="4"] .cactus-listing-config.style-1 .fix-right-style-4 .cactus-post-item .cactus-post-title,
+    	.cactus-scb[data-style="5"] .cactus-listing-config.style-1 .primary-post-content .picture-content .content-abs-post .cactus-post-title,
+    	.cactus-scb[data-style="6"] .cactus-listing-config.style-1 .cactus-post-item:not(:first-child) .cactus-post-title,
+        .cactus-widget-posts.style-2 .widget-posts-title,
+        .cactus-tab .cactus-tab-heading { font-size:13px}        
+	
+
+
+
+
+
+@media screen and (max-width: 600px) {
+	/*
+	Label the data
+	*/
+	.woocommerce-page table.shop_table td.product-remove:before {
+		content: "DELETE";
+	}
+	
+	.woocommerce-page table.shop_table td.product-thumbnail:before {
+		content: "IMAGE";
+	}
+	
+	.woocommerce-page table.shop_table td.product-name:before {
+		content: "PRODUCT";
+	}
+	
+	.woocommerce-page table.shop_table td.product-price:before {
+		content: "PRICE";
+	}
+	
+	.woocommerce-page table.shop_table td.product-quantity:before {
+		content: "QUANTITY";
+	}
+	
+	.woocommerce-page table.shop_table td.product-subtotal:before {
+		content: "SUBTOTAL";
+	}
+	
+	.woocommerce-page table.shop_table td.product-total:before {
+		content: "TOTAL";
+	}
+}
+</style>
+			<!-- end custom css -->
+ 
+
+
+</head>
+
+
+<body class="post-template-default single single-post postid-13175 single-format-standard  group-blog">
+
+<!-- Google Tag Manager (noscript - ALL Blogs) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H5NZ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--Facebook Like Box Sidebar Script -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook Like Box Sidebar Script -->
+
+
+<!-- Facebook SDK Integration -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1745067609070009',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- /Facebook SDK Integration -->
+
+
+	<input type="hidden" name="cactus_scroll_effect" value="off"/>
+	 <style type="text/css" rel="stylesheet" scoped>#body-wrap{background: ;}</style><div id="body-wrap" class="">
+    <div id="wrap" class="cactus-full-width">
+        <header class="">
+    	
+<!--Navigation style-->
+<div class="cactus-nav ">
+
+    <!--Top NAV-->
+    <div id="top-nav">
+
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <!--Headlines-->
+             <aside id="headline_id-2" class="widget col-md-12 nav navbar-nav navbar-left cactus-headline rps-hidden module widget-col headline"><div class="widget-inner"><ul class="nav navbar-nav navbar-left rps-hidden"><li class="title">Headline</li>
+					<li class="navigation">
+				       <div class="button-prev"><i class="fa fa-angle-left"></i></div>
+				       <div class="button-next"><i class="fa fa-angle-right"></i></div>
+				   	</li>
+				   	<li class="cactus-swiper-container" data-settings="[mode:cactus-fix-composer]"><div class="swiper-wrapper">
+				    			<div class="swiper-slide">
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/criminal-justice-system/" title="View all posts in Criminal Justice System">Criminal Justice System</a>
+                </div><a class="title-slide" href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" title="Florida Governor Introduces New Anti-Riot Legislation">Florida Governor Introduces New Anti-Riot Legislation</a>
+				    			</div>
+				    			<div class="swiper-slide">
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/community-policing/" title="View all posts in Community policing">Community policing</a>
+                </div><a class="title-slide" href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" title="New Soft Skills May Reduce Police Use of Excessive or Deadly Force">New Soft Skills May Reduce Police Use of Excessive or Deadly Force</a>
+				    			</div>
+				    			<div class="swiper-slide">
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/law-enforcement-2/" title="View all posts in Law Enforcement">Law Enforcement</a>
+                </div><a class="title-slide" href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" title="Podcast: Human Trafficking is on the Rise in Rural America">Podcast: Human Trafficking is on the Rise in Rural America</a>
+				    			</div>
+				    			<div class="swiper-slide">
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/liability/" title="View all posts in Liability">Liability</a>
+                </div><a class="title-slide" href="https://inpublicsafety.com/2020/10/demystifying-the-law-accountability-in-negligence-cases/" title="Demystifying the Law: Accountability in Negligence Cases">Demystifying the Law: Accountability in Negligence Cases</a>
+				    			</div>
+				    			<div class="swiper-slide">
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/community-policing/" title="View all posts in Community policing">Community policing</a>
+                </div><a class="title-slide" href="https://inpublicsafety.com/2020/10/solving-the-law-enforcement-retention-and-recruitment-problems/" title="Solving the Law Enforcement Retention and Recruitment Problems">Solving the Law Enforcement Retention and Recruitment Problems</a>
+				    			</div></div></li></ul></div></aside>
+             <!-- Newsletter Signup -->
+                <div class="news_signup">
+                    <a href="/inpublicsafety/newsletter-subscribe/">Signup for the Newsletter</a>
+                </div>
+
+             <!-- /Newsletter Signup -->
+
+            <!--Headlines-->
+            	
+            <!--Share list-->
+           		<ul class='nav navbar-nav navbar-right social-listing list-inline social-accounts'>
+																																        		</ul>
+		            <!--Share list-->
+
+            <!--Menu-->
+            <ul class="nav navbar-nav navbar-right rps-hidden top-menu-rps">
+                            </ul><!--Menu-->
+
+            <!--mobile-->
+                        <!--mobile-->
+
+        </div>
+    </nav>
+
+</div>    <!--Top NAV-->
+
+    <!--Branding-->
+    <div id="main-nav" class="nav-branding">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+
+            <!--Logo-->
+            <div class="navbar-header">
+                
+                    <div class="primary-logo">
+                    <!--logo-->
+                    <a class="navbar-brand" href="https://inpublicsafety.com">
+                        <div class="tech">
+                                <div class="the_in"><span>in</span></div>
+                                <div class="the_title"><span>public safety</span></div>
+                           <div class="taglines">
+                                <div class="tagline-1"><span>Relevant insights by the experts</span></div>
+                                <div class="tagline-2"><span>from American Military University</span></div>
+                            </div>
+                        </div>
+                    </a><!--logo-->
+                    </div>
+                
+            </div><!--Logo-->
+                            <ul class="nav navbar-nav navbar-right rps-hidden cactus-header-ads">
+                    <li></li>
+                </ul>
+            
+        </div>
+    </nav>
+</div>    <!--Branding-->
+
+    <!--Primary menu-->
+    <div id="main-menu">
+
+    <nav class="navbar navbar-default " role="navigation">
+        <div class="container">
+            <div class="main-menu-wrap">
+                                <ul class="nav navbar-nav cactus-logo-nav is-sticky-menu">
+                    <li><a href="https://inpublicsafety.com"><img src="https://inpublicsafety.com/wp-content/themes/newstube/images/logo-dark-3.png" alt="In Public Safety" title="In Public Safety"></a></li>
+                </ul>
+                                <ul class="nav navbar-nav open-menu-mobile">
+                  <li class="show-mobile open-menu-mobile-rps"><a href="javascript:;"><i class="fa fa-bars"></i></a></li>
+                </ul>
+                
+                                <!--HTML Struc (truemag)-->
+                <ul class="nav navbar-nav cactus-main-menu ">
+                    <li id="nav-menu-item-522" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://inpublicsafety.com/" class="menu-link  main-menu-link">Home </a></li>
+<li id="nav-menu-item-555" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children parent dropdown"><a href="https://inpublicsafety.com/category/law-enforcement-2/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">Law Enforcement </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-5298" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/corrections/" class="menu-link  sub-menu-link">Corrections </a></li>
+	<li id="nav-menu-item-5314" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="https://inpublicsafety.com/category/law-enforcement-2/le-careers/" class="menu-link  sub-menu-link">LE Careers </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-5299" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children parent dropdown"><a href="https://inpublicsafety.com/category/fire-emergency-service/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">Fire &#038; Emergency Service </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-557" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/fire-emergency-service/fire-services/" class="menu-link  sub-menu-link">Fire Services </a></li>
+	<li id="nav-menu-item-5398" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/fire-emergency-service/fire-services/fire-careers/" class="menu-link  sub-menu-link">Fire Careers </a></li>
+	<li id="nav-menu-item-556" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/fire-emergency-service/emergency-management-2/" class="menu-link  sub-menu-link">Emergency Management </a></li>
+	<li id="nav-menu-item-5397" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/fire-emergency-service/emergency-management-2/em-careers/" class="menu-link  sub-menu-link">EM Careers </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-5015" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children parent dropdown"><a href="https://inpublicsafety.com/category/intelligence-2/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">Intelligence </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-5313" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/intelligence-2/intelligence-careers/" class="menu-link  sub-menu-link">Intelligence Careers </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-5300" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent dropdown"><a href="#" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">Resources </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-11449" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/podcast/" class="menu-link  sub-menu-link">Podcasts </a></li>
+	<li id="nav-menu-item-1650" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/webinar/" class="menu-link  sub-menu-link">Webinars </a></li>
+	<li id="nav-menu-item-5302" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/newsletter-subscribe/" class="menu-link  sub-menu-link">Newsletter Sign Up </a></li>
+	<li id="nav-menu-item-5303" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/visor-cards/" class="menu-link  sub-menu-link">Visor Cards </a></li>
+	<li id="nav-menu-item-5304" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/about/" class="menu-link  sub-menu-link">Social Media </a></li>
+	<li id="nav-menu-item-5305" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/topic-guides/" class="menu-link  sub-menu-link">Topic Guides </a></li>
+	<li id="nav-menu-item-5306" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/education-partnerships/" class="menu-link  sub-menu-link">Education Partnerships </a></li>
+
+</ul>
+</li>
+<li id="nav-menu-item-8390" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://inpublicsafety.com/category/premium-content/" class="menu-link  main-menu-link">Library </a></li>
+<li id="nav-menu-item-2212" class="main-menu-item menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent dropdown"><a href="https://inpublicsafety.com/about-us/" class="menu-link dropdown-toggle disabled main-menu-link" data-toggle="dropdown">About Us </a>
+<ul class="dropdown-menu menu-depth-1">
+	<li id="nav-menu-item-5301" class="sub-menu-item menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://inpublicsafety.com/contributors/" class="menu-link  sub-menu-link">Contributors </a></li>
+
+</ul>
+</li>
+                </ul>
+                <!--HTML Struc (truemag)-->
+				                                <!--Search-->
+                <ul class="nav navbar-nav navbar-right search-drop-down dark-div">
+                    <li>
+                        <a href="javascript:;" class="open-search-main-menu"><i class="fa fa-search"></i><i class="fa fa-times"></i></a>
+                        <ul class="search-main-menu">
+                            <li>
+                                <form action="https://inpublicsafety.com" method="get">
+                                    <input type="hidden" name="post_type" value="post">
+                                    <input type="text" placeholder="Search..." name="s" value="">
+                                    <i class="fa fa-search"></i>
+                                    <input type="submit" value="search">
+                                </form>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <!--Search-->
+				            </div>
+        </div>
+    </nav>
+	<input type="hidden" name="sticky_navigation" value="off"/>
+</div>    <!--Primary menu-->
+
+</div>
+<!--Navigation style-->
+        </header>
+        
+        <div class="main-top-sidebar-wrap"><div id="custom_html-2" class="widget_text body-widget widget_custom_html"><div class="widget_text body-widget-inner"><div class="textwidget custom-html-widget"><style>
+.main-top-sidebar-wrap {
+    padding: 0px 0px;
+}
+
+.content-top-sidebar-wrap {
+    padding-bottom: 0px;
+}
+</style>
+
+<div class="view-again">›</div></div></div></div></div>
+    <div id="cactus-body-container"> <!--Add class cactus-body-container for single page-->
+        <div class="cactus-single-page cactus-sidebar-control sb-right  ">
+            <div class="container">
+                <div class="row">
+					                    <div class="main-content-col col-md-12 cactus-config-single">
+						                        
+                        <!--breadcrumb-->
+                        <div class="cactus-breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><a href="https://inpublicsafety.com/" rel="v:url" property="v:title">Home</a> <i class="fa fa-angle-right"></i> <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://inpublicsafety.com/category/gangs/">Gangs</a></span> <i class="fa fa-angle-right"></i> <span class="current">Podcast: Role of INTERPOL in Fighting International Crime</span></div><!-- .breadcrumbs -->                        <!--breadcrumb-->
+                        <div id='single-post' class="single-post-content">
+                                                                                    <article data-id="13175" 
+                                data-url='https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A' 
+                                data-timestamp='1601385308' 
+                                data-count='0' id="post-13175" class="cactus-single-content post-13175 post type-post status-publish format-standard has-post-thumbnail hentry category-gangs category-human-trafficking category-intelligence-2 category-law-enforcement-2 category-law-enforcement-partnerships category-le-careers category-original category-podcasts category-police-training category-public-safety-issues tag-criminal-justice tag-cybercrime tag-human-trafficking-2 tag-international-law-enforcement tag-interpol tag-law-enforcement tag-original tag-podcast" 
+                                >
+                                    											<div class="style-post">
+
+
+    	            <img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski.jpg" alt="Podcast: Role of INTERPOL in Fighting International Crime" class="featured">
+                        </div>
+    		<div class="heading-post">                                            
+			<!--info-->
+			<div class="posted-on">
+						        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/gangs/" title="View all posts in Gangs">Gangs</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/human-trafficking/" title="View all posts in Human Trafficking">Human Trafficking</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/intelligence-2/" title="View all posts in Intelligence">Intelligence</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/law-enforcement-2/" title="View all posts in Law Enforcement">Law Enforcement</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/law-enforcement-partnerships/" title="View all posts in Law Enforcement Partnerships">Law Enforcement Partnerships</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/law-enforcement-2/le-careers/" title="View all posts in LE Careers">LE Careers</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/original/" title="View all posts in Original">Original</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/podcasts/" title="View all posts in Podcasts">Podcasts</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/police-training/" title="View all posts in Police Training">Police Training</a>
+                </div>		        	
+				<div class="cactus-note-cat"><a href="https://inpublicsafety.com/category/public-safety-issues/" title="View all posts in Public Safety Issues">Public Safety Issues</a>
+                </div>							<div class="fix-responsive"></div>
+				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>				<span class="vcard author"> 
+					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+				</span>
+				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#respond" class="comment cactus-info">0</a>                                               
+			</div><!--info-->
+			
+			<!--Title-->
+			<h1 class="h3 title entry-title">
+									Podcast: Role of INTERPOL in Fighting International Crime										
+			</h1>
+			<!--Title-->
+			
+		</div>
+		    		<div class="update_design_post_on">
+			<div class="posted-on">
+									 <div class="view cactus-info">
+                                                  </div>
+								<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#respond" class="comment cactus-info">0</a>
+			</div>
+		</div>
+		
+				
+		<div class="cactus-share-and-like ">
+						<a class="share-tool-block open-cactus-share" data-toggle="tooltip" data-placement="top" href="javascript:;" title="" data-original-title="social share">
+				<i class="fa fa-share-alt"></i>
+				<i class="fa fa-times"></i>
+							</a>
+						
+
+            <!--TODO: CAN/SHOULD THIS LIVE HERE? (gapp_get_post_pageviews();)-->
+            <div class="share-tool-block view-count">
+                <i class="fa fa-eye"></i>&nbsp;
+                <span>
+                                        </span>
+            </div>
+
+
+
+
+
+			
+						<a class="share-tool-block report-button" title="REPORT THIS" rel="tooltip" data-original-title='REPORT THIS' data-placement="top" href="#reportModal" data-toggle="modal">
+				<i class="fa fa-flag"></i>
+							</a>
+			<script>jQuery(document).ready(function(e) {
+				jQuery("[rel='tooltip']").tooltip();
+			});</script>
+						
+						<a href="javascript:;" class="share-tool-block open-carousel-listing pull-right">more&nbsp; <i class="fa fa-angle-down"></i></a>
+						<div class="clearfix"></div>
+	
+			<!--Share-->
+								<ul class="social-listing list-inline change-color">
+	  				  		<li class="facebook">
+		  		 	<a class="trasition-all" title="Share on Facebook" href="#" target="_blank" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+'https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook"></i>
+		  		 	</a>
+		  		</li>
+	    			    	<li class="twitter">
+			    	<a class="trasition-all" href="#" title="Share on Twitter" rel="nofollow" target="_blank" onclick="window.open('http://twitter.com/share?text=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter"></i>
+			    	</a>
+		    	</li>
+	    					   	<li class="linkedin">
+				   	 	<a class="trasition-all" href="#" title="Share on LinkedIn" rel="nofollow" target="_blank" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;title=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;source=In+Public+Safety','linkedin-share-dialog','width=626,height=436');return false;"><i class="fa fa-linkedin"></i>
+				   	 	</a>
+				   	</li>
+		   				   	<li class="tumblr">
+			   	   <a class="trasition-all" href="#" title="Share on Tumblr" rel="nofollow" target="_blank" onclick="window.open('http://www.tumblr.com/share/link?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;name=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime','tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr"></i>
+			   	   </a>
+			   	</li>
+	    			    	 <li class="google-plus">
+		    	 	<a class="trasition-all" href="#" title="Share on Google Plus" rel="nofollow" target="_blank" onclick="window.open('https://plus.google.com/share?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','googleplus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	 <li class="pinterest">
+		    	 	<a class="trasition-all" href="#" title="Pin this" rel="nofollow" target="_blank" onclick="window.open('//pinterest.com/pin/create/button/?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;media=https%3A%2F%2Finpublicsafety.com%2Fwp-content%2Fuploads%2Fsites%2F13%2F2020%2F09%2FINTERPOL_Sadulski.jpg&amp;description=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime','pin-share-dialog','width=626,height=436');return false;"><i class="fa fa-pinterest"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	 <li class="vk">
+		    	 	<a class="trasition-all" href="#" title="Share on VK" rel="nofollow" target="_blank" onclick="window.open('//vkontakte.ru/share.php?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','vk-share-dialog','width=626,height=436');return false;"><i class="fa fa-vk"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	<li class="email">
+			    	<a class="trasition-all" href="mailto:?subject=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;body=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F" title="Email this"><i class="fa fa-envelope"></i>
+			    	</a>
+			   	</li>
+		   		    </ul>
+        						<!--Share-->
+		</div>
+	
+					<!--listing video-->
+			<div class="cactus-transition-open">
+				<div class="cactus-listing-carousel">
+					<a class="pre-carousel" href="javascript:;"><i class="fa fa-angle-left"></i></a>
+					<a class="next-carousel" href="javascript:;"><i class="fa fa-angle-right"></i></a>
+					<div class="pagination"></div>
+					<div class="cactus-listing-carousel-content">
+						<!--Listing-->
+						<div class="cactus-listing-wrap">
+							<!--Config-->
+							<div class="cactus-listing-config style-1 style-3"> <!--addClass: style-1 + (style-2 -> style-n)-->
+	
+								<div class="container">
+									<div class="row">
+	
+										<div class="col-md-12 cactus-listing-content"> <!--ajax div-->
+	
+											<div class="cactus-sub-wrap">
+												<div class="cactus-swiper-container" data-settings='["mode":"cactus-fix-composer"]'>
+													<div class="swiper-wrapper">
+													<!--Now playing item-->
+														<div class="swiper-slide ">
+															<!--item listing-->
+															<div class="cactus-post-item hentry active">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																				<!--picture-->
+																		<div class="picture">
+																			<div class="picture-content">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" title="Podcast: Role of INTERPOL in Fighting International Crime">
+																					<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski-760x570.jpg 760w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/09/INTERPOL_Sadulski-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="INTERPOL international law enforcement"/>																					<div class="thumb-overlay"></div>
+																					<i class="fa fa-play-circle-o cactus-icon-fix"></i>
+																					<div class="cactus-now-playing"> now viewing</div>
+																				</a>
+																			</div>
+	
+																		</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" title="">Podcast: Role of INTERPOL in Fighting International Crime</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													<!--End playing item-->
+																											<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" title="Florida Governor Introduces New Anti-Riot Legislation">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="Riots, street fire"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" title="Florida Governor Introduces New Anti-Riot Legislation">Florida Governor Introduces New Anti-Riot Legislation</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" title="New Soft Skills May Reduce Police Use of Excessive or Deadly Force">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="soft skills for officers"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" title="New Soft Skills May Reduce Police Use of Excessive or Deadly Force">New Soft Skills May Reduce Police Use of Excessive or Deadly Force</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" title="Podcast: Human Trafficking is on the Rise in Rural America">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="human trafficking"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" title="Podcast: Human Trafficking is on the Rise in Rural America">Podcast: Human Trafficking is on the Rise in Rural America</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/demystifying-the-law-accountability-in-negligence-cases/" title="Demystifying the Law: Accountability in Negligence Cases">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/injury_accountability-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/injury_accountability-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/injury_accountability-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="negligence liability cases"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/demystifying-the-law-accountability-in-negligence-cases/" title="Demystifying the Law: Accountability in Negligence Cases">Demystifying the Law: Accountability in Negligence Cases</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/solving-the-law-enforcement-retention-and-recruitment-problems/" title="Solving the Law Enforcement Retention and Recruitment Problems">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/police-recruits_Cain-e1602531582348-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/police-recruits_Cain-e1602531582348-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/police-recruits_Cain-e1602531582348-380x285.jpg 380w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/police-recruits_Cain-e1602531582348-550x410.jpg 550w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="Police tactical firearms training outdoors."/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/solving-the-law-enforcement-retention-and-recruitment-problems/" title="Solving the Law Enforcement Retention and Recruitment Problems">Solving the Law Enforcement Retention and Recruitment Problems</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/leading-the-battle-against-the-drug-traffickers-of-colombia/" title="Leading the Battle Against the Drug Traffickers of Colombia">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/drug-traffickers_Sadulski-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/drug-traffickers_Sadulski-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/drug-traffickers_Sadulski-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="drug traffickers in Colombia"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/leading-the-battle-against-the-drug-traffickers-of-colombia/" title="Leading the Battle Against the Drug Traffickers of Colombia">Leading the Battle Against the Drug Traffickers of Colombia</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/ability-to-make-a-decision-gives-officers-advantages-for-future-careers/" title="Ability to Make a Decision Gives Officers Advantages for Future Careers">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/career_Russo-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/career_Russo-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/career_Russo-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="decision making for police"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/ability-to-make-a-decision-gives-officers-advantages-for-future-careers/" title="Ability to Make a Decision Gives Officers Advantages for Future Careers">Ability to Make a Decision Gives Officers Advantages for Future Careers</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/specialized-training-helps-chaplains-provide-care-for-first-responders/" title="Specialized Training Helps Chaplains Provide Care for First Responders">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/responder_chaplain-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/responder_chaplain-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/responder_chaplain-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="first responder chaplains"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/specialized-training-helps-chaplains-provide-care-for-first-responders/" title="Specialized Training Helps Chaplains Provide Care for First Responders">Specialized Training Helps Chaplains Provide Care for First Responders</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/cracking-down-on-the-ms-13-gang-threat-to-the-homeland/" title="Cracking Down on the MS-13 Gang, Threat to the Homeland  ">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/gangs_Sadulski-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/gangs_Sadulski-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/gangs_Sadulski-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="MS-13 gang"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/cracking-down-on-the-ms-13-gang-threat-to-the-homeland/" title="Cracking Down on the MS-13 Gang, Threat to the Homeland  ">Cracking Down on the MS-13 Gang, Threat to the Homeland  </a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 														<div class="swiper-slide">
+															<!--item listing-->
+															<div class="cactus-post-item hentry">
+																<!--content-->
+																<div class="entry-content">
+																	<div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+																																					<!--picture-->
+																			<div class="picture">
+																				<div class="picture-content">
+																					<a href="https://inpublicsafety.com/2020/10/podcast-militarization-of-the-police/" title="Podcast: Militarization of the Police?">
+																						<img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/MilitarizationPolice_Mercer-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/MilitarizationPolice_Mercer-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/MilitarizationPolice_Mercer-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="Militarization of police"/>																						<div class="thumb-overlay"></div>
+																																												<div class="cactus-now-playing"> now playing</div>
+																					</a>
+																				</div>
+		
+																			</div><!--picture-->
+																																				<div class="content">
+	
+																			<!--Title-->
+																			<h3 class="h6 cactus-post-title entry-title">
+																				<a href="https://inpublicsafety.com/2020/10/podcast-militarization-of-the-police/" title="Podcast: Militarization of the Police?">Podcast: Militarization of the Police?</a>
+																			</h3><!--Title-->
+																			<div class="posted-on">
+																				<a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" class="cactus-info" rel="bookmark"><time datetime="2020-09-29T13:15:08-04:00" class="entry-date updated">September 29, 2020</time></a>																				<span class="vcard author"> 
+																					<span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" title="Posts by Jarrod Sadulski" rel="author">Jarrod Sadulski</a></span>
+																				</span>
+																			</div>
+	
+																			<div class="cactus-last-child"></div> <!--fix pixel no remove-->
+																		</div>
+																	</div>
+	
+																</div><!--content-->
+	
+															</div><!--item listing-->
+														</div>
+													 	
+													</div>
+												</div>
+	
+											</div>
+	
+										</div>
+	
+									</div>
+								</div>
+	
+							</div><!--Config-->
+						</div><!--Listing-->
+					</div>
+				</div>
+			</div>
+			<!--listing video-->
+		    
+	<div class="body-content " >
+    	
+		<p>Many criminal activities like human trafficking, cybercrime, drug trafficking, and organized crime go beyond national borders. In this podcast episode, AMU criminal justice professor Dr. Jarrod Sadulski talks with Mikel Irizar, Operations Specialist at INTERPOL’s Command and Coordination Center in Buenos Aires, Argentina.</p>
+<p>Learn how INTERPOL assists its 194 member-nations by coordinating criminal investigations, providing resources, sharing intelligence data, and even serving as a diplomatic outlet among countries that may not have other diplomatic ties.</p>
+<p><iframe style="border: none; overflow: hidden;" src="https://embed.acast.com/apuspublicsafety/roleofinterpolinfightinginternationalcrime" width="100%" height="188" frameborder="0" scrolling="no"></iframe></p>
+<h4><strong>Read the Transcript</strong>:</h4>
+<p><strong>Dr. Jarrod Sadulski:</strong> Good morning everybody. Welcome to today&#8217;s podcast. We are welcoming our guest all the way from INTERPOL in Buenos Aires, Argentina. Our guest today is Mikel Irizar. How did I do in the name? Was I close?</p>
+<p><strong>Mikel Irizar:</strong> That was great, Jarrod. Thank you very much for having me here. It&#8217;s definitely a pleasure to be here.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Welcome, welcome. We&#8217;re glad you&#8217;re here. To tell you a little bit about our guest, Mikel is a global security practitioner who works with INTERPOL&#8217;s analysis and operations directorate since 2018 in Buenos Aires, Argentina. He has experience with coordinating operations, emergency incidents, evacuations, different forms of management logistics, as well as being associated with a British private security firm. Currently, he&#8217;s based in South America, enriching his knowledge in sociopolitical dynamics of the South American region.</p>
+<p>As we begin, what we&#8217;re going to be discussing today is INTERPOL. INTERPOL is not a well-known facet of law enforcement. That&#8217;s the purpose of today&#8217;s podcast and to give our audience a little bit of background of what INTERPOL is before we ask our guest some questions.</p>
+<p>INTERPOL&#8217;s full name is International Criminal Police Organization, and it&#8217;s a inter-governmental organization that includes 194 member countries. INTERPOL helps to improve public safety through law enforcement in these 194 countries, which work together to share intelligence and information to combat a wide range of crimes.</p>
+<p>In each country that INTERPOL is a part of, there is an INTERPOL national central bureau that acts as the central point of contact for the general secretariat of INTERPOL, and also between the different INTERPOL offices around the world. Basically what that means is they act as intelligence and coordination fusion centers to share intelligence, to share criminal investigation information among different countries that have a border nexus to transnational crime.</p>
+<p>So with that said, the main headquarters is in Lyon, France. INTERPOL is responsible for policing initiatives in counter terrorism, cyber crime, and organized, and emerging crime. INTERPOL participates in fugitive investigative support, police data management, forensic support, criminal analysis, special projects, and also operates different command and coordination centers. Does that sound about right, Mikel?</p>
+<p><strong>Mikel Irizar:</strong> Pretty much so. That&#8217;s who we are, that&#8217;s what we do.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Let me ask you, can you provide us a brief overview of your background at INTERPOL in Argentina?</p>
+<p><strong>Mikel Irizar:</strong> Absolutely, Jarrod. I first started working for the organization in Lyon headquarters. Arrived there, how do you call it? Junior operations specialist. Started there for a few months just learning the ropes of this trade at the command and coordination center, which is the unit where I&#8217;m working at the moment since I ever started working for INTERPOL.</p>
+<p>Now, after those first training months, I got the opportunity to be flied to Argentina, to Buenos Aires, where I still work with the command and coordination center. We have our duty station in here. So the Corona Coordination Center is, in a nutshell, the on-duty room. At the INTERPOL we work 24/7. It&#8217;s the first point of contact for any country requiring urgent assistance from the general secretariat or from any other country basically.</p>
+<p>So as I said, we work 24/7, we have three duty stations, we&#8217;re in Lyon, as I said before, we are in Buenos Aires where I work, and we&#8217;re also in Singapore. So you can imagine it&#8217;s a shift work. We do eight to 10 hours sometimes and then we hand the shift over to the next duty station.</p>
+<p>So when I say we are the on-duty unit at INTERPOL, it&#8217;s basically because we&#8217;re always on, up and running, 24 hours. When lights go off at the headquarters in Lyon, it&#8217;s us who are still working. We are able to channel any particularly urgent inquiry from any member country to any privileged or specialized type of contact working at our organization that may be able to assist with the task handed to us at that particular moment.</p>
+<p>Apart from that, we coordinate communications between national bureaus, we run checks against our databases. You probably have heard of the notices that&#8217;s pretty relevant nowadays, the red notice in particular, we publish them in coordination with the INTERPOL legal department and many other things.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> That&#8217;s really interesting. Could you further explain how INTERPOL serves the international and national law enforcement community?</p>
+<p><strong>Mikel Irizar:</strong> I was thinking these past few days, we do several things. Most of all, I believe we are a lighthouse, we are a forum, and also a tool to help all the 194 member countries. We&#8217;re mainly a platform for international cooperation. Most of all, we provide a framework where countries that otherwise may have no diplomatic ties, or any other ties for that matter, can find some common ground to communicate.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> So let&#8217;s say the United States was looking for a fugitive and they were hiding in Argentina, they would contact your office for support, is that correct?</p>
+<p><strong>Mikel Irizar:</strong> That&#8217;s correct. That&#8217;s definitely one way to perform communications. But it is true that being a tool for the police community, we encourage INTERPOL national bureaus to go directly to any other national bureau. So they could get to us to the command and coordination center, but they could also run their errands directly with the national central bureau at hand they need to contact to find this fugitive.</p>
+<p>Let&#8217;s say that it&#8217;s more difficult than that. Maybe we are talking about a national central bureau that because of the circumstances don&#8217;t have language capabilities to contact the national central bureau in Central Asia. This is a very urgent matter, the fugitive is about to jump on a plane to a different country.</p>
+<p>They will come to us for support, and we will use our privilege network of contacts or direct channels within the general secretariat plus our language capabilities to bring support to this particular matter facilitating police cooperation.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> So I understand that in each of the 194 member countries that there&#8217;s an INTERPOL national central bureau. How does the national central bureau work with the national police force?</p>
+<p><strong>Mikel Irizar:</strong> So every national central bureau is basically a point of entry for any authority, police body within that concrete country. So let&#8217;s say that you have somebody in California running a case, this case involves certain connections in any other foreign countries. They would contact the national central bureau in order to link with INTERPOL general secretariat.</p>
+<p>So that&#8217;s the route any police officer anywhere should be following in case they believe they could take advantage of INTERPOL capabilities and resources. They will go to their national central bureau contact and within this national central bureau, the guys there will run that case, so anybody from the INTERPOL network is aware of it and starts providing support and assistance to watch those cases we are talking about.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> So is there frequent communication between the various INTERPOL offices in different countries?</p>
+<p><strong>Mikel Irizar:</strong> Oh, definitely, Jarrod. So as I said, from the general secretariat, we encourage direct communication between national central bureaus. So here at the command and coordination center anytime, every second, we see communications from national central bureaus addressing other national central bureaus.</p>
+<p>It&#8217;s perhaps that we are just on copy as a witness of what&#8217;s going on there or there&#8217;s a certain matter that will need our special acting upon the case that we are talking about. But it&#8217;s very, very common to see national central bureaus from all member countries addressing other national central bureaus. And most of the time, that&#8217;s the quickest and the most efficient way to run a case.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Excellent information. So our next question is in general terms, how does INTERPOL use criminal analysis to solve crime?</p>
+<p>So linking with what we were conversing before, we offer a micro-layer for those police officers investigating international cases. INTERPOL is an international crime police organization and we offer analysis capabilities that transcend national borders. That&#8217;s the main vantage point.</p>
+<p>Also, we will say that we deal here at INTERPOL with databases and other capabilities for information that goes all over the world, our databases are in fact fed by those 194 countries.</p>
+<p><strong>Mikel Irizar:</strong> So from INTERPOL, we put to the police officer that information in their hands, enabling them to see things differently, to join the dots and make the links. INTERPOL stores literally millions of records from law enforcement and it is worldwide in our various criminal databases.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Okay, so you conduct criminal analysis and through that criminal analysis, which is human intelligence and other sources of intelligence on an international scale, you produce an intelligence product that you&#8217;re able to provide law enforcement to be able to act on? So in other words, you provide actionable intelligence based on analysis, is that correct?</p>
+<p><strong>Mikel Irizar:</strong> Operational and at the strategic level as well. It was very recently that our guys put a report together on new crime trends, right in a way COVID-19 pandemic, for example. And just very recently, we released a report on how COVID-19 is impacting child sexual abuse. So we produce those in a regular basis, but we also have more operational stuff that we deliver in a case-by-case basis.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> What are some of the most common crimes that INTERPOL is used for?</p>
+<p><strong>Mikel Irizar:</strong> Basically, everything, Jarrod. We have various departments, we do counter terrorism, maritime security, piracy, human smuggling, human trafficking, drug trafficking, organized crime, more broadly we do cyber crime. We have an innovation hub in Singapore working towards finding new ways in which the international police community can work for a better future.</p>
+<p>Always, and this is important to highlight, we follow our global human rights framework as per our organization&#8217;s constitution article two, we as an organization need to ensure and promote the widest possible mutual assistance between all criminal police authorities within the limits of the laws existing in the different countries and in the spirit of the universal declaration of human rights.</p>
+<p>So this is very important, and also linking to this, it is true at our organization, we don&#8217;t touch anything that goes on the intervention or activities of political, military, religious, or racial character.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> You mentioned human trafficking, is human trafficking a major issue in Argentina?</p>
+<p><strong>Mikel Irizar:</strong> I think it&#8217;s one of the main criminal issues all over the world. Here in Argentina, we have ad hoc task force dealing with human smuggling and human trafficking networks in Central America. It is a project being sponsored by the Canadian government that is trying to understand better how human trafficking networks operate in Central America and South America.</p>
+<p>And also, they bring new variables for analysis on this respect, particularly gender variables. How these networks treat women? What&#8217;s the role of the victim, the role of the survivor? And how this interacts with the way police deal with the human trafficking cases in Central and South America.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> That&#8217;s great. And human trafficking is definitely an area that I’ve been actively involved with going into conducting in-country research in both Central and South America. And so, it&#8217;s definitely something that I agree is a problem worldwide. It&#8217;s $150 billion illicit industry worldwide and it&#8217;s interesting. And it&#8217;s great to hear that INTERPOL in Argentina is being proactive and working with your partners to address this prolific issue. What can you share with us about INTERPOL that is specifically related to Buenos Aires?</p>
+<p><strong>Mikel Irizar:</strong> We have a regional bureau based in here that serves all the South American region. That&#8217;s what&#8217;s central to INTERPOL here apart from the national central bureau. Obviously, it&#8217;s that regional bureau in charge of coordinating and giving almost personal assistance to those countries belonging to the South American region.</p>
+<p>We have specialized officers here, obviously taking care of the human trafficking as we&#8217;ve been speaking about and cyber crime, we have also specialists on counter terrorism, et cetera. And we all try to give a regional perspective and a regional ethos to all INTERPOL that&#8217;s here. Always putting effort to understand how INTERPOL can assist better each country in here with their particular needs and dynamics and their own particular problems.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> INTERPOL plays such an important and critical role in transnational criminal investigations and in providing law enforcement, whether it&#8217;s on the national or local level, resources, intelligence data on crime trends, on fugitives, on investigatory information to enable them to do their jobs better.</p>
+<p>So I&#8217;ve been studying up on INTERPOL and learning more about it over the last couple of years and it&#8217;s such a pleasure and a great opportunity to speak to somebody like yourself who&#8217;s an expert in INTERPOL and especially at South American has that perspective of being in South America and working with INTERPOL and with your background. So I&#8217;m truly grateful for the time that you&#8217;ve spent speaking with us. Are there any remaining thoughts that you&#8217;d like to share with us?</p>
+<p><strong>Mikel Irizar:</strong> Jarrod, what can I say? I just would like to emphasize we&#8217;re on the same boat, and now more than ever criminal activities go beyond national borders. So we as members of these international police community, even brother this international security community need to keep endeavoring to keep the world safe. And I think that what we are doing and we are doing every day, and I&#8217;m again, very happy, we as in here, are able to continue strengthening those efforts and building those bridges between countries.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Absolutely. To build on that, I&#8217;m also excited and grateful for American Military University, which really is taking the lead in helping develop partnerships with you and your organization all the way in a different continent in South America. And I think it really speaks to this opportunity for us to have this podcast and to share this information with our audience.</p>
+<p>In terms of American Military University, we&#8217;re expanding our network to somebody such as yourself, an expert and professional all the way at INTERPOL in Argentina, which is really exciting. I want to thank you for being our guest today and for sharing this information, and that we truly appreciate your time. Thank you so much.</p>
+<p><strong>Mikel Irizar:</strong> You&#8217;re very welcome. Thank you for having me here.</p>
+<p><strong>Dr. Jarrod Sadulski:</strong> Well, thank you for joining us today on this informative podcast. Thank you to our guest, Mikel Irizar from INTERPOL Argentina.</p>
+<p><em><strong>About the Guest: </strong>Mikel Irizar graduated from the University of Glasgow in 2014 where he completed a MS in Global Security (Strategy and Defence) presenting a dissertation comparing the dynamics between receding states and rising jihadist insurgencies in both Chechnya and Syria. After being awarded a grant from the Basque Government to promote the expansion of Basque business interests overseas, he spent six months in Edmonton, Canada. At the same time, he started a remote internship at Intelligence Fusion, a real-time risk mitigation platform based in Durham, as a Global Risk Analyst.</em></p>
+<p><em>Upon returning to Europe, he landed a full-time job as Global Operator at Drum Cussac, a private security company, recently bought out by Garda Group. During the two years he spent at the firm, he was able to gain hands-on experience at a GSOC run by British ex-military personnel and participate in the coordination of various significant operations in high-risk countries and disaster-struck areas.</em></p>
+<p><em>Mikel has been working for INTERPOL since September 2018 beginning in Lyon, France for the organisation’s Analysis and Operations Directorate, more specifically at their Command and Coordination Centre. </em><em>After spending several months in Lyon, he was deployed to the Command and Coordination Centre duty station in Buenos Aires, Argentina, where he has been carrying out his duties for almost two years.</em></p>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><div class="fb-comments" data-href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/" data-numposts="10" data-width="550" data-colorscheme="light"></div>
+         <div class="merge-rfi"><div class="degree_header criminaljusticedegree">
+                <div class="degree_head_txt">
+                <p class="degree_title">Online Degrees & Certificates In Criminal Justice</p>
+                <p>Our criminal justice programs are among the most popular at the university, bringing you peer interactions and an expanded network of criminal justice professionals who are dedicated to safeguarding their communities and nation. Courses in this program are taught by highly credentialed and experienced instructors, many who have served as sheriffs, legal counsel, police chiefs, military, and homeland security and intelligence leaders.</p>
+                </div>
+                </div>
+<form method="post" enctype="application/x-www-form-urlencoded" action="https://degrees.amu.apus.edu/index.php/leadCapture/save" id="mktForm_345" name="mktForm_345" novalidate="" onsubmit="return checkValues()">
+
+	<input type="hidden" name="RegistrationSourceType" value="RFI 2.0">
+
+	<!-- Included file from: ~/core/_includes/form-autoSelect-matrix.php --><!-- Reminder: Move script asset to LPNext -->
+<script src="https://start.amu.apus.edu/common/js/jquery-chained.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" charset="utf-8">
+		jQuery(function() {
+			jQuery("#Degree_Program_Level_S__c").val("default").attr("selected","selected");
+			/* $("#Degree_Program_Level_S__c_momentum").val("default").attr("selected","selected"); */
+			/* For jquery.chained.js */
+			jQuery("#Program_of_Interest_S__c").chained("#Degree_Program_Level_S__c");
+			jQuery("#Program_of_Interest_S__c").val("default").attr("selected","selected");
+			/* $("#Program_of_Interest_S__c_momentum").val("default").attr("selected","selected"); */
+
+			/*var Cookies = {
+				init: function () {
+					var allCookies = document.cookie.split('; ');
+					for (var i=0;i<allCookies.length;i++) {
+						var cookiePair = allCookies[i].split('=');
+						this[cookiePair[0]] = cookiePair[1];
+					}
+				},
+				create: function (name,value,days) {
+					if (days) {
+						var date = new Date();
+						date.setTime(date.getTime()+(days*24*60*60*1000));
+						var expires = "; expires="+date.toGMTString();
+					}
+					else var expires = "";
+					document.cookie = name+"="+value+expires+"; path=/";
+					this[name] = value;
+				},
+				erase: function (name) {
+					this.create(name,'',-1);
+					this[name] = undefined;
+				}
+			};
+			Cookies.init();
+
+			var myDegreeLevelInterest = jQuery("#Degree_Program_Level_S__c").val();
+			Cookies.create('myDegreeLevelInterest', myDegreeLevelInterest);
+			var myProgramOfInterest = jQuery("#Program_of_Interest_S__c").val();
+			Cookies.create('myProgramOfInterest', myProgramOfInterest);*/
+		});
+</script>
+
+
+	<h3>Request Information</h3>
+	<p>Please complete this form and we’ll contact you with more information about AMU. All fields except phone are required.</p>
+
+	<div class="form-item-group">
+		<div class="form-item column-l">
+			<label for="FirstName" class="label">First Name</label>
+			<div class="text-input-field-wrapper">
+				<input name="FirstName" id="FirstName" type="text" value="" maxlength="255" required="">
+			</div>
+			<div class="form-requirement"></div>
+		</div>
+		<div class="form-item column-r">
+			<label for="LastName" class="label">Last Name</label>
+			<div class="text-input-field-wrapper">
+				<input name="LastName" id="LastName" type="text" value="" maxlength="255" required="">
+			</div>
+			<div class="form-requirement"></div>
+		</div>
+	</div>
+
+	<div class="form-item">
+	<label for="Email" class="label">E-mail</label>
+	<div class="text-input-field-wrapper">
+	<input name="Email" id="Email" inputmode="email" type="email" value="" maxlength="255" required="">
+	</div>
+	<div class="form-requirement">Validation message here</div>
+	</div>
+
+	<div class="form-item-group">
+		<div class="form-item column-l">
+			<label for="Phone" class="label">Phone (optional)</label>
+			<div class="text-input-field-wrapper">
+				<input name="Phone" id="Phone" inputmode="tel" type="tel" value="" maxlength="14">
+			</div>
+			<div class="form-requirement">Validation message here</div>
+		</div>
+		<div class="form-item column-r">
+			<label for="PostalCode" class="label">Postal Code</label>
+			<div class="text-input-field-wrapper">
+				<input name="PostalCode" id="PostalCode" inputmode="numeric" type="text" value="" maxlength="10" required="">
+			</div>
+			<div class="form-requirement">Validation message here</div>
+		</div>
+	</div>
+
+	<div class="form-item">
+		<div class="select">
+		<label for="Occupation_S__c" class="label">Military</label>
+			<div class="select-input-wrapper">
+				<select name="Occupation_S__c" id="Occupation_S__c" required="">
+					<option value="" disabled="" selected="">Please Select</option>
+					<option value="No Affiliation">No Affiliation</option>
+					<option value="Active Duty">Active Duty</option>
+					<option value="Guard/Reserve">Guard/Reserve</option>
+					<option value="Veteran">Veteran</option>
+					<option value="Military Spouse/Dependent">Military Spouse/Dependent</option>
+				</select>
+			<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg>-->
+			</div>
+		<div class="form-requirement">Validation message here</div>
+		</div>
+	</div>
+
+
+	<div class="form-item-group">
+		<!--  // DEGREE LEVEL DROPDOWN // -->
+		<div class="form-item column-l">
+			<div class="select">
+			<label for="Degree_Program_Level_S__c" class="label">Degree level of interest</label>
+				<div class="select-input-wrapper">
+					<select name="Degree_Program_Level_S__c" id="Degree_Program_Level_S__c" required="" selected="selected">
+						<option value="default" class="default" disabled="" selected="">Choose a Degree</option>
+						<option value="associate">Associate</option>
+						<option value="bachelors">Bachelor's</option>
+						<option value="masters">Master's</option>
+						<option value="doctoral">Doctoral</option>
+						<option value="certificate">Certificate</option>
+					</select>
+				<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg> -->
+				</div>
+			<div class="form-requirement">Validation message here</div>
+			</div>
+		</div>
+
+		<!--  // PROGRAMS [MATRIX] DROPDOWN // -->
+		<div class="form-item column-r">
+			<div class="select">
+			<label for="Program_of_Interest_S__c" class="label">Program of interest</label>
+				<div class="select-input-wrapper">
+					<select name="Program_of_Interest_S__c" id="Program_of_Interest_S__c" required="" selected="selected">
+						<option value="default" class="default" selected="selected">Choose A Degree First</option>
+
+
+						<option value="none" class="associate bachelors masters doctoral certificate" selected="selected">Choose Program</option>
+<option value="Accounting" class="associate">Accounting</option><option value="Business Administration" class="associate">Business Administration</option><option value="Communication" class="associate">Communication</option><option value="Computer Technology" class="associate">Computer Technology</option><option value="Counter Terrorism Studies" class="associate">Counter Terrorism Studies</option><option value="Criminal Justice" class="associate">Criminal Justice</option><option value="Early Childhood Care and Education" class="associate">Early Childhood Care and Education</option><option value="Explosive Ordnance Disposal" class="associate">Explosive Ordnance Disposal</option><option value="Fire Science" class="associate">Fire Science</option><option value="General Studies" class="associate">General Studies</option><option value="Health Sciences" class="associate">Health Sciences</option><option value="History" class="associate">History</option><option value="Hospitality" class="associate">Hospitality</option><option value="Management" class="associate">Management</option><option value="Military History" class="associate">Military History</option><option value="Paralegal Studies" class="associate">Paralegal Studies</option><option value="Public Health" class="associate">Public Health</option><option value="Real Estate Studies" class="associate">Real Estate Studies</option><option value="Retail Management" class="associate">Retail Management</option><option value="Space Studies" class="associate">Space Studies</option><option value="Supply Chain Management" class="associate">Supply Chain Management</option><option value="Technical Management" class="associate">Technical Management</option><option value="Weapons of Mass Destruction Preparedness" class="associate">Weapons of Mass Destruction Preparedness</option>
+
+
+<option value="Accounting" class="bachelors">Accounting</option><option value="Business" class="bachelors">Business</option><option value="Business Administration" class="bachelors">Business Administration</option><option value="Business Analytics" class="bachelors">Business Analytics</option><option value="Communication" class="bachelors">Communication</option><option value="Computer Technology" class="bachelors">Computer Technology</option><option value="Criminal Justice" class="bachelors">Criminal Justice</option><option value="Cybersecurity" class="bachelors">Cybersecurity</option><option value="Electrical Engineering" class="bachelors">Electrical Engineering</option><option value="Emergency and Disaster Management" class="bachelors">Emergency and Disaster Management</option><option value="English" class="bachelors">English</option><option value="Entrepreneurship" class="bachelors">Entrepreneurship</option><option value="Environmental Science" class="bachelors">Environmental Science</option><option value="Fire Science Management" class="bachelors">Fire Science Management</option><option value="General Studies" class="bachelors">General Studies</option><option value="Government Contracting and Acquisition" class="bachelors">Government Contracting and Acquisition</option><option value="Healthcare Administration" class="bachelors">Healthcare Administration</option><option value="Health Information Management" class="bachelors">Health Information Management</option><option value="Health Sciences" class="bachelors">Health Sciences</option><option value="History" class="bachelors">History</option><option value="Homeland Security" class="bachelors">Homeland Security</option><option value="Hospitality Management" class="bachelors">Hospitality Management</option><option value="Human Development and Family Studies" class="bachelors">Human Development and Family Studies</option><option value="Information Technology" class="bachelors">Information Technology</option><option value="Information Technology Management" class="bachelors">Information Technology Management</option><option value="Intelligence Studies" class="bachelors">Intelligence Studies</option><option value="International Relations and Global Security" class="bachelors">International Relations and Global Security</option><option value="Legal Studies" class="bachelors">Legal Studies</option><option value="Management" class="bachelors">Management</option><option value="Marketing" class="bachelors">Marketing</option><option value="Mathematics" class="bachelors">Mathematics</option><option value="Middle Eastern Studies" class="bachelors">Middle Eastern Studies</option><option value="Military History" class="bachelors">Military History</option><option value="Natural Sciences" class="bachelors">Natural Sciences</option><option value="Nursing" class="bachelors">Nursing</option><option value="Philosophy" class="bachelors">Philosophy</option><option value="Political Science" class="bachelors">Political Science</option><option value="Psychology" class="bachelors">Psychology</option><option value="Public Health" class="bachelors">Public Health</option><option value="Religion" class="bachelors">Religion</option><option value="Retail Management" class="bachelors">Retail Management</option><option value="Reverse Logistics Management" class="bachelors">Reverse Logistics Management</option><option value="Security Management" class="bachelors">Security Management</option><option value="Sociology" class="bachelors">Sociology</option><option value="Space Studies" class="bachelors">Space Studies</option><option value="Sports and Health Sciences" class="bachelors">Sports and Health Sciences</option><option value="Sports Management" class="bachelors">Sports Management</option><option value="Supply Chain Management" class="bachelors">Supply Chain Management</option><option value="Technical Management" class="bachelors">Technical Management</option><option value="Transportation and Logistics Management" class="bachelors">Transportation and Logistics Management</option>   
+
+
+<option value="Accounting" class="masters">Accounting</option><option value="Applied Business Analytics" class="masters">Applied Business Analytics</option><option value="Athletic Development Management" class="masters">Athletic Development Management</option><option value="Business Administration" class="masters">Business Administration</option><option value="Criminal Justice" class="masters">Criminal Justice</option><option value="Cybersecurity" class="masters">Cybersecurity</option><option value="Educational Leadership" class="masters">Educational Leadership</option><option value="Emergency and Disaster Management" class="masters">Emergency and Disaster Management</option><option value="Emergency and Disaster Management and Homeland Security" class="masters">Emergency and Disaster Management and Homeland Security</option><option value="Entrepreneurship" class="masters">Entrepreneurship</option><option value="Environmental Policy Management" class="masters">Environmental Policy Management</option><option value="Healthcare Administration" class="masters">Healthcare Administration</option><option value="Health Information Management" class="masters">Health Information Management</option><option value="History" class="masters">History</option><option value="Homeland Security" class="masters">Homeland Security</option><option value="Humanities" class="masters">Humanities</option><option value="Information Technology" class="masters">Information Technology</option><option value="Intelligence Studies" class="masters">Intelligence Studies</option><option value="International Relations and Global Security" class="masters">International Relations and Global Security</option><option value="Legal Studies" class="masters">Legal Studies</option><option value="Management" class="masters">Management</option><option value="Military History" class="masters">Military History</option><option value="Military Studies" class="masters">Military Studies</option><option value="National Security Studies" class="masters">National Security Studies</option><option value="Nursing" class="masters">Nursing</option><option value="Nursing RN-MSN" class="masters">Nursing RN-MSN</option><option value="Online Teaching" class="masters">Online Teaching</option><option value="Political Science" class="masters">Political Science</option><option value="Psychology" class="masters">Psychology</option><option value="Public Administration" class="masters">Public Administration</option><option value="Public Health" class="masters">Public Health</option><option value="Public Policy" class="masters">Public Policy</option><option value="Reverse Logistics Management" class="masters">Reverse Logistics Management</option><option value="Security Management" class="masters">Security Management</option><option value="Sociology" class="masters">Sociology</option><option value="Space Studies" class="masters">Space Studies</option><option value="Sports and Health Sciences" class="masters">Sports and Health Sciences</option><option value="Sports Management" class="masters">Sports Management</option><option value="Student Affairs Higher Education" class="masters">Student Affairs Higher Education</option><option value="Supply Chain Management" class="masters">Supply Chain Management</option><option value="Teaching" class="masters">Teaching</option><option value="Teaching Elementary Education" class="masters">Teaching Elementary Education</option><option value="Teaching Secondary Social Studies" class="masters">Teaching Secondary Social Studies</option><option value="Transportation and Logistics Management" class="masters">Transportation and Logistics Management</option>   
+
+
+<option value="Accounting" class="certificate">Accounting</option><option value="American History" class="certificate">American History</option><option value="American Revolution" class="certificate">American Revolution</option><option value="Ancient and Classical History" class="certificate">Ancient and Classical History</option><option value="Athletic Administration" class="certificate">Athletic Administration</option><option value="Business Essentials for the Security Executive" class="certificate">Business Essentials for the Security Executive</option><option value="Child Life" class="certificate">Child Life</option><option value="Civil War Studies" class="certificate">Civil War Studies</option><option value="Climate Change Awareness and Leadership" class="certificate">Climate Change Awareness and Leadership</option><option value="Cloud Computing" class="certificate">Cloud Computing</option><option value="Competitive Intelligence" class="certificate">Competitive Intelligence</option><option value="Computer Systems and Networks" class="certificate">Computer Systems and Networks</option><option value="Counterintelligence" class="certificate">Counterintelligence</option><option value="CPA Examination Preparation" class="certificate">CPA Examination Preparation</option><option value="Cybercrime" class="certificate">Cybercrime</option><option value="Cybercrime Essentials" class="certificate">Cybercrime Essentials</option><option value="Cybersecurity" class="certificate">Cybersecurity</option><option value="Digital Forensics" class="certificate">Digital Forensics</option><option value="e-Commerce" class="certificate">e-Commerce</option><option value="Emergency and Disaster Management" class="certificate">Emergency and Disaster Management</option><option value="Emergency Management" class="certificate">Emergency Management</option><option value="Emergency Management Executive Leadership" class="certificate">Emergency Management Executive Leadership</option><option value="Employee Relations and Engagement" class="certificate">Employee Relations and Engagement</option><option value="Enterprise Web Applications" class="certificate">Enterprise Web Applications</option><option value="Enterprise Web Applications Using Dot Net" class="certificate">Enterprise Web Applications Using Dot Net</option><option value="Environmental Hazard Mitigation and Restoration" class="certificate">Environmental Hazard Mitigation and Restoration</option><option value="Environmental Planning and Design" class="certificate">Environmental Planning and Design</option><option value="Environmental Risk Assessment" class="certificate">Environmental Risk Assessment</option><option value="Environmental Sustainability" class="certificate">Environmental Sustainability</option><option value="Environmental Technology" class="certificate">Environmental Technology</option><option value="European History" class="certificate">European History</option><option value="Executive Coaching" class="certificate">Executive Coaching</option><option value="Executive Law Enforcement Leadership" class="certificate">Executive Law Enforcement Leadership</option><option value="Explosive Ordnance Disposal" class="certificate">Explosive Ordnance Disposal</option><option value="Family Studies" class="certificate">Family Studies</option><option value="Fire Science" class="certificate">Fire Science</option><option value="Fish and Wildlife Management" class="certificate">Fish and Wildlife Management</option><option value="Forensics" class="certificate">Forensics</option><option value="Foundations of Homeland Security" class="certificate">Foundations of Homeland Security</option><option value="Global Environmental Management" class="certificate">Global Environmental Management</option><option value="Government Agency Administration" class="certificate">Government Agency Administration</option><option value="Homeland Security" class="certificate">Homeland Security</option><option value="Human Capital Leadership" class="certificate">Human Capital Leadership</option><option value="Human Resource Management" class="certificate">Human Resource Management</option><option value="Infant and Toddler Care" class="certificate">Infant and Toddler Care</option><option value="Information Assurance" class="certificate">Information Assurance</option><option value="Information Security Planning" class="certificate">Information Security Planning</option><option value="Information Systems Security" class="certificate">Information Systems Security</option><option value="Information Systems Security Essentials" class="certificate">Information Systems Security Essentials</option><option value="Instructional Design and Delivery" class="certificate">Instructional Design and Delivery</option><option value="Intelligence Analysis" class="certificate">Intelligence Analysis</option><option value="Intelligence Studies" class="certificate">Intelligence Studies</option><option value="Internet Webmaster" class="certificate">Internet Webmaster</option><option value="IT Infrastructure Security" class="certificate">IT Infrastructure Security</option><option value="IT Project Management" class="certificate">IT Project Management</option><option value="IT Project Management Essentials" class="certificate">IT Project Management Essentials</option><option value="Joint Warfare" class="certificate">Joint Warfare</option><option value="K-12 Athletic Administration" class="certificate">K-12 Athletic Administration</option><option value="K-12 Online Learning" class="certificate">K-12 Online Learning</option><option value="K-12 Reading and Differentiated Instruction" class="certificate">K-12 Reading and Differentiated Instruction</option><option value="K-12 Virtual School Administration" class="certificate">K-12 Virtual School Administration</option><option value="Law Enforcement Leadership" class="certificate">Law Enforcement Leadership</option><option value="Leadership and Logistics" class="certificate">Leadership and Logistics</option><option value="Life Coaching" class="certificate">Life Coaching</option><option value="Logistics Management" class="certificate">Logistics Management</option><option value="Meeting and Event Planning" class="certificate">Meeting and Event Planning</option><option value="Microsoft Access Database Applications" class="certificate">Microsoft Access Database Applications</option><option value="Microsoft Office Applications" class="certificate">Microsoft Office Applications</option><option value="Middle Eastern Studies" class="certificate">Middle Eastern Studies</option><option value="Mobile Computing" class="certificate">Mobile Computing</option><option value="National Environmental Policy Act" class="certificate">National Environmental Policy Act</option><option value="National Security Studies" class="certificate">National Security Studies</option><option value="Natural Resource Management" class="certificate">Natural Resource Management</option><option value="Neuroleadership" class="certificate">Neuroleadership</option><option value="Nonprofit Management" class="certificate">Nonprofit Management</option><option value="Oracle Database" class="certificate">Oracle Database</option><option value="Organizational Management" class="certificate">Organizational Management</option><option value="Paralegal Studies" class="certificate">Paralegal Studies</option><option value="Professional Science Management" class="certificate">Professional Science Management</option><option value="Public Lands Management" class="certificate">Public Lands Management</option><option value="Real Estate Management" class="certificate">Real Estate Management</option><option value="Regional and Community Planning" class="certificate">Regional and Community Planning</option><option value="Restaurant Operations" class="certificate">Restaurant Operations</option><option value="Retail Management" class="certificate">Retail Management</option><option value="Security Management" class="certificate">Security Management</option><option value="Space Studies" class="certificate">Space Studies</option><option value="Sports Management" class="certificate">Sports Management</option><option value="Strategic Leadership" class="certificate">Strategic Leadership</option><option value="Sustainability" class="certificate">Sustainability</option><option value="Technical Management" class="certificate">Technical Management</option><option value="Terrorism Studies" class="certificate">Terrorism Studies</option><option value="United Nations" class="certificate">United Nations</option><option value="Visual Basic Application Development" class="certificate">Visual Basic Application Development</option><option value="Visual Communications" class="certificate">Visual Communications</option><option value="Weapons of Mass Destruction Preparedness" class="certificate">Weapons of Mass Destruction Preparedness</option><option value="Web 2.0" class="certificate">Web 2.0</option><option value="Web Publishing" class="certificate">Web Publishing</option><option value="World War 2 Studies" class="certificate">World War 2 Studies</option>
+
+
+<option value="Global Security" class="doctoral">Global Security</option><option value="Strategic Intelligence" class="doctoral">Strategic Intelligence</option>
+
+														</select>
+				<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg>-->
+				</div>
+			<div class="form-requirement">Validation message here</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="form-item column-1">
+		<div class="select">
+		<label for="Back_to_School_S__c" class="label">What is your reason for interest?</label>
+			<div class="select-input-wrapper">
+				<select name="Back_to_School_S__c" id="Back_to_School_S__c" required="">
+					<option value="" disabled="" selected="selected"> Please Select </option>
+					<option value="Personal Enrichment">Personal Enrichment</option>
+					<option value="Seek Promotion">Seek Promotion</option>
+					<option value="Career Change">Career Change</option>
+					<option value="Stay Current in Field">Stay Current In Field</option>
+					<option value="Increase Income">Increase Income</option>
+				</select>
+			<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg>-->
+			</div>
+		<div class="form-requirement">Validation message here</div>
+		</div>
+	</div>
+
+	<div class="form-item column-2">
+		<div class="select">
+		<label for="LeadSource" class="label">How did you first hear about us?</label>
+			<div class="select-input-wrapper">
+				<select name="LeadSource" id="LeadSource" required="">
+					<option value="" disabled="" selected="">Please Select</option>
+					<option value="Online">Online</option>
+					<option value="Print Ad">Print Ad</option>
+					<option value="News Article">News Article</option>
+					<option value="Referral">Referral</option>
+					<option value="TV">TV</option>
+					<option value="Radio">Radio</option>
+					<option value="Event">Event</option>
+					<option value="Other">Other</option>
+				</select>
+			<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg>-->
+			</div>
+		<div class="form-requirement">Validation message here</div>
+		</div>
+	</div>
+
+	<div class="form-item column-3">
+		<div class="select">
+		<label for="Finance_College_Method_S__c" class="label">How would you like to pay for school?</label>
+			<div class="select-input-wrapper">
+				<select name="Finance_College_Method_S__c" id="Finance_College_Method_S__c" required="">
+					<option value="" disabled="" selected="selected">Please Select</option>
+					<option value="Grant, Scholarship, or Loan">Grant, Scholarship, or Loan</option>
+					<option value="Military TA">Military TA</option>
+					<option value="VA Benefits or GI Bill">VA Benefits or GI Bill</option>
+					<option value="Employer Assistance">Employer Assistance</option>
+					<option value="Federal Student Aid">Federal Student Aid (FSA)</option>
+					<option value="Personal Funds">Personal Funds</option>
+					<option value="Unsure">Unsure</option>
+				</select>
+			<!--<svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="select-arrow" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M5 6L0 1 0.7 0.3 5 4.6 9.3 0.3 10 1z"></path></svg>-->
+			</div>
+		<div class="form-requirement">Validation message here</div>
+		</div>
+	</div>
+
+	<button class="button button-primary" id="mktFrmSubmit" type="submit" value="Submit" name="submitButton">Submit</button>
+
+	<!-- Included file from: ~/core/_includes/form-common_elements.php --><!-- CB Begin-->
+<div id="cbField"><input type="hidden" name="UTM_Date" value="2/25/202011:39:47"><input type="hidden" name="UTM_Source" value="undefined"><input type="hidden" name="UTM_Medium" value="undefined"><input type="hidden" name="UTM_Content" value="undefined"><input type="hidden" name="UTM_Campaign" value="undefined"><input type="hidden" name="UTM_Term" value="undefined"><input type="hidden" name="GUID" value="1687960106.1580406218"><input type="hidden" name="CountryCode_S__c" value="undefined"></div>
+<!-- CB End-->
+
+<!-- Free Honey -->
+<label class="sekrit" for="customerID" style="display:none !important">Humans can direct their attention elsewhere</label>
+<input class="sekrit" type="checkbox" id="customerID" name="customerID" value="1" style="position: absolute;
+  top: auto; overflow: hidden;clip: rect(1px, 1px, 1px, 1px); width: 1px; height: 1px; -webkit-appearance: checkbox !important; -moz-appearance: checkbox !important; -o-appearance: checkbox !important;" tabindex="-1" autocomplete="off">
+
+<input type="hidden" name="formid" value="345">
+<input type="hidden" name="lpId" value="-1">
+<input type="hidden" name="subId" value="76">
+<input type="hidden" name="munchkinId" value="476-IFP-265"><input type="hidden" name="Web_Source_S__c" value="Blog">
+<input type="hidden" name="kw" value="">
+<input type="hidden" name="cr" value="">
+<input type="hidden" name="searchstr" value="">
+<input type="hidden" name="returnLPId" value="-1">
+<input type="hidden" name="_mkt_disp" value="return">
+<input type="hidden" name="_mkt_trk" value="">
+<input type="hidden" name="Institution_S__c" value="AMU">
+<input type="hidden" name="lpurl" value="https://start.apu.apus.edu?cr={creative}&amp;kw={keyword}"><input type="hidden" id="returnURL" name="returnURL" value="https://inpublicsafety.com/request-for-info-confirmation-ips31120/"><input type="hidden" id="retURL" name="retURL" value="https://inpublicsafety.com/request-for-info-confirmation-ips31120/">	<div class="fine">
+			<h5>Ready to apply? <a id="lp5_apply_rfi" href="https://online-campus.apus.edu/Home/index/APU" title="Apply At No Cost" rel="external">Start your application today.</a></h5>
+		<p><strong>We value your privacy.</strong></p>
+		<p class="apus_disclaim">By submitting this form, you agree to receive emails, texts, and phone calls and messages from American Public University System, Inc. which includes American Military University (AMU) and American Public University (APU), its affiliates, and representatives. I understand that this consent is not a condition of enrollment or purchase.</p>
+		<p class="apus_disclaim">You may <a href="https://degrees.APU.apus.edu/UnsubscribePage.html" title="Withdraw your consent" target="_blank">withdraw your consent</a> at any time. Please refer to our <a href="https://www.apus.edu/privacy/" title="Privacy Policy" target="_blank">privacy policy</a>, <a href="https://www.apus.edu/terms/" title="Terms" target="_blank">terms</a>, or <a href="https://www.apus.edu/about/contact/" title="Contact Us" target="_blank">contact us</a> for more details.</p>
+	</div>
+</form>
+
+<script type="text/javascript">
+/* validation for form fields */
+function checkValues()
+{
+	var isValid = true; //set return value
+	jQuery('input[required]').each(function () {
+		if (jQuery(this).val() == jQuery(this).attr('placeholder') || jQuery(this).val() == '') {
+			jQuery(this).addClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("This field is required.").addClass("form-req-active");
+			isValid = false; //if input empty set return value to false
+		} else {
+			jQuery(this).removeClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("").removeClass("form-req-active");
+		}
+	});
+
+	jQuery('textarea[required]').each(function () {
+		if (jQuery(this).val() == jQuery(this).attr('placeholder') || jQuery(this).val() == '') {
+			jQuery(this).addClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("This field is required.").addClass("form-req-active");
+			isValid = false; //if input empty set return value to false
+		} else {
+			jQuery(this).removeClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("").removeClass("form-req-active");
+		}
+	});
+
+	jQuery('select[required]').each(function () {
+		if (jQuery(this).val() == jQuery(this).attr('placeholder') || jQuery(this).val() == '') {
+			jQuery(this).addClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("This field is required.").addClass("form-req-active");
+			isValid = false; //if nothing selected set return value to false
+		} else {
+			jQuery(this).removeClass("form-req-active");
+			jQuery(this).closest(".form-item").find(".form-requirement").text("").removeClass("form-req-active");
+		}
+	});
+
+  if (jQuery("#Program_of_Interest_S__c").val() == "" || jQuery("#Program_of_Interest_S__c").val() == "default" || jQuery("#Program_of_Interest_S__c").val() == "none")
+  {
+      jQuery("#Program_of_Interest_S__c").focus();
+			jQuery("#Program_of_Interest_S__c").addClass("form-req-active");
+			jQuery("#Program_of_Interest_S__c").closest(".form-item").find(".form-requirement").text("Please select a program above.").addClass("form-req-active");
+      isValid = false; //if nothing selected set return value to false
+  }
+	else {
+			jQuery("#Program_of_Interest_S__c").removeClass("form-req-active");
+			jQuery("#Degree_Program_Level_S__c").closest(".form-item").find(".form-requirement").text("").removeClass("form-req-active");
+			jQuery("#Program_of_Interest_S__c").closest(".form-item").find(".form-requirement").text("").removeClass("form-req-active");
+	}
+	return isValid; //return true/false -- submits on true
+};
+</script>
+</div>
+        <!--  -->
+
+      
+       
+
+    
+
+    
+    
+        <div class="tag-group">
+        <span>tags:</span>
+         <a href="https://inpublicsafety.com/tag/criminal-justice/" rel="tag">criminal justice</a> <a href="https://inpublicsafety.com/tag/cybercrime/" rel="tag">cybercrime</a> <a href="https://inpublicsafety.com/tag/human-trafficking-2/" rel="tag">human trafficking</a> <a href="https://inpublicsafety.com/tag/international-law-enforcement/" rel="tag">international law enforcement</a> <a href="https://inpublicsafety.com/tag/interpol/" rel="tag">INTERPOL</a> <a href="https://inpublicsafety.com/tag/law-enforcement/" rel="tag">law enforcement</a> <a href="https://inpublicsafety.com/tag/original/" rel="tag">original</a> <a href="https://inpublicsafety.com/tag/podcast/" rel="tag">podcast</a>    </div>
+    		
+		<div class="cactus-share-and-like fix-bottom">
+						<a class="share-tool-block open-cactus-share" data-toggle="tooltip" data-placement="top" href="javascript:;" title="" data-original-title="social share">
+				<i class="fa fa-share-alt"></i>
+				<i class="fa fa-times"></i>
+							</a>
+						
+
+            <!--TODO: CAN/SHOULD THIS LIVE HERE? (gapp_get_post_pageviews();)-->
+            <div class="share-tool-block view-count">
+                <i class="fa fa-eye"></i>&nbsp;
+                <span>
+                                        </span>
+            </div>
+
+
+
+
+
+			
+						<a class="share-tool-block report-button" title="REPORT THIS" rel="tooltip" data-original-title='REPORT THIS' data-placement="top" href="#reportModal" data-toggle="modal">
+				<i class="fa fa-flag"></i>
+							</a>
+			<script>jQuery(document).ready(function(e) {
+				jQuery("[rel='tooltip']").tooltip();
+			});</script>
+						
+						<div class="clearfix"></div>
+	
+			<!--Share-->
+								<ul class="social-listing list-inline change-color">
+	  				  		<li class="facebook">
+		  		 	<a class="trasition-all" title="Share on Facebook" href="#" target="_blank" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+'https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','facebook-share-dialog','width=626,height=436');return false;"><i class="fa fa-facebook"></i>
+		  		 	</a>
+		  		</li>
+	    			    	<li class="twitter">
+			    	<a class="trasition-all" href="#" title="Share on Twitter" rel="nofollow" target="_blank" onclick="window.open('http://twitter.com/share?text=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','twitter-share-dialog','width=626,height=436');return false;"><i class="fa fa-twitter"></i>
+			    	</a>
+		    	</li>
+	    					   	<li class="linkedin">
+				   	 	<a class="trasition-all" href="#" title="Share on LinkedIn" rel="nofollow" target="_blank" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;title=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;source=In+Public+Safety','linkedin-share-dialog','width=626,height=436');return false;"><i class="fa fa-linkedin"></i>
+				   	 	</a>
+				   	</li>
+		   				   	<li class="tumblr">
+			   	   <a class="trasition-all" href="#" title="Share on Tumblr" rel="nofollow" target="_blank" onclick="window.open('http://www.tumblr.com/share/link?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;name=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime','tumblr-share-dialog','width=626,height=436');return false;"><i class="fa fa-tumblr"></i>
+			   	   </a>
+			   	</li>
+	    			    	 <li class="google-plus">
+		    	 	<a class="trasition-all" href="#" title="Share on Google Plus" rel="nofollow" target="_blank" onclick="window.open('https://plus.google.com/share?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','googleplus-share-dialog','width=626,height=436');return false;"><i class="fa fa-google-plus"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	 <li class="pinterest">
+		    	 	<a class="trasition-all" href="#" title="Pin this" rel="nofollow" target="_blank" onclick="window.open('//pinterest.com/pin/create/button/?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F&amp;media=https%3A%2F%2Finpublicsafety.com%2Fwp-content%2Fuploads%2Fsites%2F13%2F2020%2F09%2FINTERPOL_Sadulski.jpg&amp;description=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime','pin-share-dialog','width=626,height=436');return false;"><i class="fa fa-pinterest"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	 <li class="vk">
+		    	 	<a class="trasition-all" href="#" title="Share on VK" rel="nofollow" target="_blank" onclick="window.open('//vkontakte.ru/share.php?url=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F','vk-share-dialog','width=626,height=436');return false;"><i class="fa fa-vk"></i>
+		    	 	</a>
+		    	 </li>
+	    	 		    	<li class="email">
+			    	<a class="trasition-all" href="mailto:?subject=Podcast%3A+Role+of+INTERPOL+in+Fighting+International+Crime&amp;body=https%3A%2F%2Finpublicsafety.com%2F2020%2F09%2Fpodcast-role-of-interpol-in-fighting-international-crime%2F" title="Email this"><i class="fa fa-envelope"></i>
+			    	</a>
+			   	</li>
+		   		    </ul>
+        						<!--Share-->
+		</div>
+	
+		 
+    <!--navigation post-->
+    <div class="cactus-navigation-post">
+    	        <div class="prev-post">
+            <a href="https://inpublicsafety.com/2020/09/there-is-a-viable-case-in-the-argument-for-free-will/" title="There is a Viable Case in the Argument for Free Will">
+                <span>previous</span>
+                There is a Viable Case in the Argument for Free Will            </a>
+        </div>
+                <div class="next-post">
+            <a href="https://inpublicsafety.com/2020/09/budget-season-resolve-needed-to-deal-with-covid-19-revenue-losses/" title="Budget Season: Resolve Needed to Deal With COVID-19 Revenue Losses">
+                <span>next</span>
+                Budget Season: Resolve Needed to Deal With COVID-19 Revenue Losses            </a>
+        </div>
+            </div>
+    <!--navigation post-->
+    
+                                    <!--<h1>test</h1>-->
+
+                                     
+<div id="comments" class="comments-area">
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">LEAVE YOUR COMMENT <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&amp;utm_content=145&amp;utm_medium=social&amp;utm_source=Insider+HQ&amp;utm_term=Education%0A#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://inpublicsafety.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><textarea id="comment" name="comment" aria-required="true" placeholder="Your comment ..."></textarea><input id="author" name="author" type="text" placeholder="Your Name *" value="" size="30" aria-required='true'>
+<input id="email" placeholder="Your Email *" name="email" type="text" value="" size="30" aria-required='true'>
+<input id="url" placeholder="Your Website" name="url" type="text" value="" size="30" />
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='13175' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ab8dff79b3" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="136"/></p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+                                            <!--related post-->
+    <div class="cactus-related-posts">
+        <div class="title-related-post">
+            Related Posts            <a class="pre-carousel" href="javascript:;"><i class="fa fa-angle-left"></i></a>
+            <a class="next-carousel" href="javascript:;"><i class="fa fa-angle-right"></i></a>
+            <div class="pagination"></div>
+        </div>
+        <div class="related-posts-content">
+
+            <!--Listing-->
+            <div class="cactus-listing-wrap">
+                <!--Config-->
+                <div class="cactus-listing-config style-1 style-3"> <!--addClass: style-1 + (style-2 -> style-n)-->
+
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-md-12 cactus-listing-content"> <!--ajax div-->
+
+                                <div class="cactus-sub-wrap">
+                                    <div class="cactus-swiper-container" data-settings='["mode":"cactus-fix-composer"]'>
+                                        <div class="swiper-wrapper">
+                                                                                        <div class="swiper-slide">
+                                                <!--item listing-->
+                                                <div class="cactus-post-item hentry">
+
+                                                    <!--content-->
+                                                    <div class="entry-content">
+                                                        <div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+
+                                                            <!--picture-->
+                                                            <div class="picture">
+                                                                <div class="picture-content">
+                                                                    <a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" title="Florida Governor Introduces New Anti-Riot Legislation">
+                                                                        <img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/Rioting_Sadulski-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="Riots, street fire"/>                                                                        <div class="thumb-overlay"></div>
+                                                                                                                                            </a>
+                                                                </div>
+
+                                                            </div><!--picture-->
+
+                                                            <div class="content">
+
+                                                                <!--Title-->
+                                                                <h3 class="h6 cactus-post-title entry-title">
+                                                                    <a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" title="Florida Governor Introduces New Anti-Riot Legislation">Florida Governor Introduces New Anti-Riot Legislation</a>
+                                                                </h3><!--Title-->
+
+                                                                <!--info-->
+                                                                <div class="posted-on">
+                                                                    <a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/" class="cactus-info" rel="bookmark"><time datetime="2020-10-16T09:15:02-04:00" class="entry-date updated">October 16, 2020</time></a>                                                                    <span class="vcard author"> 
+                                                                        <span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" class="author cactus-info">Jarrod Sadulski</a></span>
+                                                                    </span>
+                                                                    <a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#respond" class="comment cactus-info">0</a>
+
+                                                                </div><!--info-->
+
+
+                                                                <div class="cactus-last-child"></div> <!--fix pixel no remove-->
+                                                            </div>
+                                                        </div>
+
+                                                    </div><!--content-->
+
+                                                </div><!--item listing-->
+                                            </div>
+                                                                                        <div class="swiper-slide">
+                                                <!--item listing-->
+                                                <div class="cactus-post-item hentry">
+
+                                                    <!--content-->
+                                                    <div class="entry-content">
+                                                        <div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+
+                                                            <!--picture-->
+                                                            <div class="picture">
+                                                                <div class="picture-content">
+                                                                    <a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" title="New Soft Skills May Reduce Police Use of Excessive or Deadly Force">
+                                                                        <img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/soft-skills_Eldridge-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="soft skills for officers"/>                                                                        <div class="thumb-overlay"></div>
+                                                                                                                                            </a>
+                                                                </div>
+
+                                                            </div><!--picture-->
+
+                                                            <div class="content">
+
+                                                                <!--Title-->
+                                                                <h3 class="h6 cactus-post-title entry-title">
+                                                                    <a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" title="New Soft Skills May Reduce Police Use of Excessive or Deadly Force">New Soft Skills May Reduce Police Use of Excessive or Deadly Force</a>
+                                                                </h3><!--Title-->
+
+                                                                <!--info-->
+                                                                <div class="posted-on">
+                                                                    <a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/" class="cactus-info" rel="bookmark"><time datetime="2020-10-14T11:19:40-04:00" class="entry-date updated">October 14, 2020</time></a>                                                                    <span class="vcard author"> 
+                                                                        <span class="fn"><a href="https://inpublicsafety.com/author/ipscontributor/" class="author cactus-info">In Public Safety Contributor</a></span>
+                                                                    </span>
+                                                                    <a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#respond" class="comment cactus-info">0</a>
+
+                                                                </div><!--info-->
+
+
+                                                                <div class="cactus-last-child"></div> <!--fix pixel no remove-->
+                                                            </div>
+                                                        </div>
+
+                                                    </div><!--content-->
+
+                                                </div><!--item listing-->
+                                            </div>
+                                                                                        <div class="swiper-slide">
+                                                <!--item listing-->
+                                                <div class="cactus-post-item hentry">
+
+                                                    <!--content-->
+                                                    <div class="entry-content">
+                                                        <div class="primary-post-content"> <!--addClass: related-post, no-picture -->
+
+                                                            <!--picture-->
+                                                            <div class="picture">
+                                                                <div class="picture-content">
+                                                                    <a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" title="Podcast: Human Trafficking is on the Rise in Rural America">
+                                                                        <img src="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-253x189.jpg"
+     			srcset="https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-253x189.jpg 253w, https://inpublicsafety.com/wp-content/uploads/sites/13/2020/10/human-trafficking_Bartman-380x285.jpg 380w"
+     			sizes="(max-width: 253px) 100vw, 253px"
+				alt="human trafficking"/>                                                                        <div class="thumb-overlay"></div>
+                                                                                                                                            </a>
+                                                                </div>
+
+                                                            </div><!--picture-->
+
+                                                            <div class="content">
+
+                                                                <!--Title-->
+                                                                <h3 class="h6 cactus-post-title entry-title">
+                                                                    <a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" title="Podcast: Human Trafficking is on the Rise in Rural America">Podcast: Human Trafficking is on the Rise in Rural America</a>
+                                                                </h3><!--Title-->
+
+                                                                <!--info-->
+                                                                <div class="posted-on">
+                                                                    <a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/" class="cactus-info" rel="bookmark"><time datetime="2020-10-13T10:45:35-04:00" class="entry-date updated">October 13, 2020</time></a>                                                                    <span class="vcard author"> 
+                                                                        <span class="fn"><a href="https://inpublicsafety.com/author/jsadulski/" class="author cactus-info">Jarrod Sadulski</a></span>
+                                                                    </span>
+                                                                    <a href="https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/#respond" class="comment cactus-info">0</a>
+
+                                                                </div><!--info-->
+
+
+                                                                <div class="cactus-last-child"></div> <!--fix pixel no remove-->
+                                                            </div>
+                                                        </div>
+
+                                                    </div><!--content-->
+
+                                                </div><!--item listing-->
+                                            </div>
+                                                                                    </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div><!--Config-->
+            </div><!--Listing-->
+
+        </div>
+    </div>
+    <!--related post-->
+                               
+
+                            </article>
+
+
+
+                                                    </div>
+                                                
+                                            </div>
+
+					<!--Sidebar-->
+<div class="col-md-4 cactus-sidebar main-sidebar-col"> <!--addClass: left / right -> config sidebar position-->
+	<div class="sidebar-content-fixed-scroll fixed-now">
+		<aside id="search-3" class="widget col-md-12 module widget-col widget_search"><div class="widget-inner"><form role="search" method="get" class="search-form" action="https://inpublicsafety.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div></aside><aside id="text-2" class="widget col-md-12 module widget-col widget_text"><div class="widget-inner">			<div class="textwidget"><script type="text/javascript">
+var total_images = 7;
+var random_number = Math.floor((Math.random()*total_images));
+var random_img = new Array();
+//ITEM 1
+random_img[0] = '<a target="_blank" href="https://start.amu.apus.edu/public-health/master-of-public-health?utm_source=ips&utm_medium=banner&utm_content=Blog%20ad&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2020/03/amu_earn_master_public_health.jpg"></a>';
+
+//ITEM 2
+random_img[1] = '<a target="_blank" href="https://inpublicsafety.com/2017/12/understanding-and-managing-corrections-officer-stress-free-online-resource/?utm_source=ips&utm_medium=banner&utm_content=Blog%20ad&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2018/06/eMagadCorrections.jpg"></a>';
+
+//ITEM 3
+random_img[2] = '<a target="_blank" href="https://www.amu.apus.edu/academic/partners/pso.html?utm_source=ips&utm_medium=banner&utm_content=Blog%20ad&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2016/05/AMU_Yesli_300x250.jpg"></a>';
+
+//ITEM 4
+random_img[3] = '<a target="_blank" href="https://inpublicsafety.com/2017/10/understanding-and-managing-law-officer-stress-free-online-resource/?utm_source=ips%20ad&utm_medium=banner&utm_content=LE_eMag2017&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2017/12/eMag-Ad_LE.jpg"></a>';
+
+//ITEM 5
+random_img[4] = '<a target="_blank" href="https://inpublicsafety.com/2018/10/rebuilding-officer-resiliency-free-online-treatment-guide/?utm_source=ips&utm_medium=banner&utm_content=Treatmentmag&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2019/01/Resiliency_Mag_300x250.png"></a>';
+
+//ITEM 6
+random_img[5] = '<a target="_blank" href="https://inpublicsafety.com/2019/02/protecting-against-cyberattacks-a-guide-for-public-safety-leaders/?utm_source=ips&utm_medium=banner&utm_content=cybermag&utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20DT%20-%20AMU"><img src="/wp-content/uploads/sites/13/2019/02/Cybersecurity_Magazine_Ad_300X250_New.jpg"></a>';
+
+//ITEM 7
+random_img[6] = '<a target="_blank" href="https://twitter.com/AMUdisastercrew"><img src="/wp-content/uploads/sites/13/2020/02/AMU_Disaster_Crew_Digital_Banner_300x250_blue.gif"></a>';
+
+//END OF ALL ITEMS
+document.write(random_img[random_number]);
+</script>
+</div>
+		</div></aside><aside id="text-4" class="widget col-md-12 module widget-col widget_text"><div class="widget-inner"><h2 class="widget-title h6">Sign Up for the Newsletter</h2>			<div class="textwidget"><script type="text/javascript" src="https://www.formstack.com/forms/js.php?nojquery=1&nojqueryui=1&form=2334523&viewkey=SFE0DQUZRt&style_version=v3"></script><noscript><a href="https://www.formstack.com/forms/?2334523-SFE0DQUZRt" title="Online Form">Online Form - Widget - IPSNewsletter</a></noscript></div>
+		</div></aside>		<aside id="recent-posts-2" class="widget col-md-12 module widget-col widget_recent_entries"><div class="widget-inner">		<h2 class="widget-title h6">Recent Posts</h2>		<ul>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/">Florida Governor Introduces New Anti-Riot Legislation</a>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/">New Soft Skills May Reduce Police Use of Excessive or Deadly Force</a>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/">Podcast: Human Trafficking is on the Rise in Rural America</a>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/demystifying-the-law-accountability-in-negligence-cases/">Demystifying the Law: Accountability in Negligence Cases</a>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/solving-the-law-enforcement-retention-and-recruitment-problems/">Solving the Law Enforcement Retention and Recruitment Problems</a>
+									</li>
+					</ul>
+		</div></aside><aside id="text-3" class="widget col-md-12 module widget-col widget_text"><div class="widget-inner"><h2 class="widget-title h6">Popular Tags</h2>			<div class="textwidget"><ul class="pop_tags">
+<li class="pop_tag"><a href="/tag/coronavirus/">Coronavirus</a></li><li class="pop_tag"><a href="/tag/stress-management/">Stress Management</a></li>
+<li class="pop_tag"><a href="/tag/Rebekah-Gould/">Rebekah Gould Investigation</a></li>
+<li class="pop_tag"><a href="/tag/career-transition/">Career Transition</a></li>
+<li class="pop_tag"><a href="/tag/leadership/">Leadership</a></li>
+<li class="pop_tag"><a href="/tag/municipal-leaders/">Municipal Leaders</a></li>
+<li class="pop_tag"><a href="/tag/human-trafficking-2/">Human Trafficking</a></li>
+<li class="pop_tag"><a href="/tag/podcast/">Podcasts</a></li>
+<li class="pop_tag"><a href="/tag/Deel/">Series: Criminal Laws</a></li>
+<li class="pop_tag"><a href="/tag/expert-witness/">Expert Witness Chronicles</a></li>
+</ul></div>
+		</div></aside><aside id="pages-3" class="widget col-md-12 module widget-col widget_pages"><div class="widget-inner"><h2 class="widget-title h6">More Information</h2>		<ul>
+			<li class="page_item page-item-4"><a href="https://inpublicsafety.com/contributors/">Contributors</a></li>
+<li class="page_item page-item-580"><a href="https://inpublicsafety.com/education-partnerships/">Education Partnerships</a></li>
+<li class="page_item page-item-5292"><a href="https://inpublicsafety.com/newsletter-subscribe/">Newsletter Sign Up</a></li>
+<li class="page_item page-item-388"><a href="https://inpublicsafety.com/about/">Social Media for Public Safety Professionals</a></li>
+<li class="page_item page-item-8192"><a href="https://inpublicsafety.com/flipbook-thank-you-for-subscribing-07qp/">Thank You for Your Interest</a></li>
+<li class="page_item page-item-12167"><a href="https://inpublicsafety.com/request-for-info-confirmation-ips31120/">Thanks! Please check your email.</a></li>
+<li class="page_item page-item-5104"><a href="https://inpublicsafety.com/topic-guides/">Topic Guides</a></li>
+<li class="page_item page-item-647"><a href="https://inpublicsafety.com/visor-cards/">Visor Cards for Public Safety Personnel</a></li>
+		</ul>
+			</div></aside><aside id="linkcat-2" class="widget col-md-12 module widget-col widget_links"><div class="widget-inner"><h2 class="widget-title h6">Blogroll</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.copsalive.com/" target="_blank">Cops Alive</a></li>
+<li><a href="http://firelawblog.com/" rel="contact" title="Fire Law by Curt Varone" target="_blank">Fire Law by Curt Varone</a></li>
+<li><a href="http://www.lapdblog.typepad.com" target="_blank">LAPD Blog</a></li>
+<li><a href="http://www.lawenforcementtoday.com" target="_blank">Law Enforcement Today</a></li>
+<li><a href="http://www.lawandterrorism.com" target="_blank">Law, Terrorism and Homeland Security Blog</a></li>
+<li><a href="http://lawenforcement.social/" title="The online resource for law enforcement social media" target="_blank">LawEnforcement.Social</a></li>
+<li><a href="http://www.officer.com/interactive" target="_blank">Officer.com</a></li>
+<li><a href="http://www.policeone.com/police-blogs" target="_blank">Police Blogs via PoliceOne.com</a></li>
+<li><a href="http://psyopregiment.blogspot.com/" title="Authoritative source of information on Psychological Operations (PSYOP) or as it is now called Military Information Support Operations (MISO). Written by a retired senior Army Officer and former Honorary Colonel of the PSYOP Regiment." target="_blank">PSYOP Regimental Blog</a></li>
+<li><a href="http://www.publicsafetydispatch.info/" title="Information &amp; news from around the world related to public safety operations, education, training, and sometimes a little humor." target="_blank">Public Safety Dispatch</a></li>
+<li><a href="http://statter911.com/" rel="contact" title="STATter 911 by Dave Statter" target="_blank">STATter 911</a></li>
+<li><a href="http://www.dhs.gov/blog" target="_blank">The Blog @ Homeland Security</a></li>
+<li><a href="http://www.crimeanalystblog.net" target="_blank">The Crime Analyst&#039;s Blog</a></li>
+
+	</ul>
+</div></aside>
+<aside id="text-5" class="widget col-md-12 module widget-col widget_text"><div class="widget-inner">			<div class="textwidget"><iframe src="https://www.youtube.com/embed/V8nRyyP5vZQ" frameborder="0" allowfullscreen>&nbsp;</iframe></div>
+		</div></aside>  
+    </div>  
+</div>
+<!--Sidebar-->
+                </div><!--.row-->
+            </div><!--.container-->
+        </div><!--#cactus-single-page-->
+    </div><!--#cactus-body-container-->
+
+
+    <footer>
+        <div class="footer-inner dark-div">
+                        <div class="footer-sidebar">
+                <div class="container">
+                                        <div class="row">
+                        <aside id="text-8" class="widget col-md-3 module widget-col widget_text"><div class="widget-inner"><h2 class="widget-title h6">DoD Imagery</h2>			<div class="textwidget"><p>The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.</p>
+</div>
+		</div></aside>		<aside id="recent-posts-3" class="widget col-md-3 module widget-col widget_recent_entries"><div class="widget-inner">		<h2 class="widget-title h6">Recent Posts</h2>		<ul>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/florida-governor-introduces-new-anti-riot-legislation/">Florida Governor Introduces New Anti-Riot Legislation</a>
+											<span class="post-date">October 16, 2020</span>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/new-soft-skills-may-reduce-police-use-of-excessive-or-deadly-force/">New Soft Skills May Reduce Police Use of Excessive or Deadly Force</a>
+											<span class="post-date">October 14, 2020</span>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/podcast-human-trafficking-is-on-the-rise-in-rural-america/">Podcast: Human Trafficking is on the Rise in Rural America</a>
+											<span class="post-date">October 13, 2020</span>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/demystifying-the-law-accountability-in-negligence-cases/">Demystifying the Law: Accountability in Negligence Cases</a>
+											<span class="post-date">October 12, 2020</span>
+									</li>
+											<li>
+					<a href="https://inpublicsafety.com/2020/10/solving-the-law-enforcement-retention-and-recruitment-problems/">Solving the Law Enforcement Retention and Recruitment Problems</a>
+											<span class="post-date">October 9, 2020</span>
+									</li>
+					</ul>
+		</div></aside><aside id="text-7" class="widget col-md-3 module widget-col widget_text"><div class="widget-inner"><h2 class="widget-title h6">Follow Us:</h2>			<div class="textwidget"><a href="https://www.facebook.com/APUSPublicSafety/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/sites/13/2016/10/facebook_icon.png" border="0"></a> &nbsp;
+<!-- <a href="https://twitter.com/amupoliceed" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/sites/13/2016/10/twitter_icon.png" border="0"></a> --></div>
+		</div></aside><aside id="text-6" class="widget col-md-3 module widget-col widget_text"><div class="widget-inner"><h2 class="widget-title h6">About American Military University</h2>			<div class="textwidget"><p>
+<a href="http://start.amu.apus.edu/degrees/overview?utm_source=inpublicsafety.com&amp;utm_medium=banner&amp;utm_content=Footer%20300x250_Blog_AMU_Promotional_Banner&amp;utm_campaign=In%20Public%20Safety%20-%20DT%20-%20AMU" target="_blank" rel="noopener noreferrer">
+<img src="/wp-content/uploads/sites/13/2020/01/US_military_number_1_provider.jpg" alt="AMU_Milit-General_300x250_0814" width="185" height="156" /></a>
+</p>
+<p>AMU is the nation’s largest provider of online higher education to the U.S. military, and offers  more than 190 degree and certificate programs including Homeland Security, Intelligence Studies, Emergency & Disaster Management, Criminal Justice, and more.</p></div>
+		</div></aside>                    </div>
+                </div>
+            </div><!--.footer-sidebar-->
+                    </div><!--.footer-inner-->
+        
+        <div class="footer-info dark-div">
+            <div class="container">
+            	<br>
+            	<a class="white" href="/inpublicsafety/terms-of-use/">Terms of Use</a> | <a class="white" href="http://www.apus.edu/privacy/index?utm_source=ips&utm_medium=link&utm_content=IPS-Footer-Privacy-Policy&utm_campaign=APUS%20-%20LT%20-%20APUS">Privacy Policy</a> | <a class="white" href="/inpublicsafety/newsletter-subscribe/">Newsletter</a> | <a class="white" href="https://www.apus.edu/privacy/donotsellmyinfo.html" target="_blank">Do Not Sell My Personal Information - CA Residents Only</a>
+                <div class="row">                        
+                    <div class="col-md-6 col-sm-6 copyright font-1"><a href="http://start.amu.apus.edu/degrees/overview?utm_source=inpublicsafety.com&amp;utm_medium=link&amp;utm_content=Footer%20-%20Sponsored%20by%20American%20Military%20University&amp;utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20LT%20-%20AMU" target="_blank">InPublicSafety.com is brought to you by American Military University</a> | <a href="http://start.amu.apus.edu/degrees/overview?utm_source=inpublicsafety.com&amp;utm_medium=link&amp;utm_content=Footer%20-%20Online%20Degrees%20for%20Public%20Safety%20Professionals&amp;utm_campaign=Blog%20-%20In%20Public%20Safety%20-%20LT%20-%20AMU" target="_blank">Online Degrees for Public Safety Professionals</a></div>
+                    <div class="col-md-6 col-sm-6 link font-1">
+                      <div class="menu-footer-menu-container">
+                          <ul id="menu-footer-menu" class="menu">
+                                                      </ul>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </footer>
+            
+	</div><!--#wrap-->
+        
+    <!--Menu moblie-->
+    <div class="canvas-ovelay"></div>
+    <div id="off-canvas" class="off-canvas-default dark-div">
+        <div class="off-canvas-inner">
+            <div class="close-canvas-menu">
+                <i class="fa fa-times"></i> Close
+            </div>
+            <nav class="off-menu">
+                <ul>                        	
+                    <li id="menu-item-522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-522"><a href="http://inpublicsafety.com/">Home</a></li>
+<li id="menu-item-555" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children parent menu-item-555"><a href="https://inpublicsafety.com/category/law-enforcement-2/">Law Enforcement</a>
+<ul class="sub-menu">
+	<li id="menu-item-5298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5298"><a href="https://inpublicsafety.com/category/corrections/">Corrections</a></li>
+	<li id="menu-item-5314" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5314"><a href="https://inpublicsafety.com/category/law-enforcement-2/le-careers/">LE Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-5299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children parent menu-item-5299"><a href="https://inpublicsafety.com/category/fire-emergency-service/">Fire &#038; Emergency Service</a>
+<ul class="sub-menu">
+	<li id="menu-item-557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-557"><a href="https://inpublicsafety.com/category/fire-emergency-service/fire-services/">Fire Services</a></li>
+	<li id="menu-item-5398" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5398"><a href="https://inpublicsafety.com/category/fire-emergency-service/fire-services/fire-careers/">Fire Careers</a></li>
+	<li id="menu-item-556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-556"><a href="https://inpublicsafety.com/category/fire-emergency-service/emergency-management-2/">Emergency Management</a></li>
+	<li id="menu-item-5397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5397"><a href="https://inpublicsafety.com/category/fire-emergency-service/emergency-management-2/em-careers/">EM Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-5015" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children parent menu-item-5015"><a href="https://inpublicsafety.com/category/intelligence-2/">Intelligence</a>
+<ul class="sub-menu">
+	<li id="menu-item-5313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5313"><a href="https://inpublicsafety.com/category/intelligence-2/intelligence-careers/">Intelligence Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-5300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent menu-item-5300"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-11449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11449"><a href="/tag/podcast/">Podcasts</a></li>
+	<li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650"><a href="https://inpublicsafety.com/webinar/">Webinars</a></li>
+	<li id="menu-item-5302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302"><a href="https://inpublicsafety.com/newsletter-subscribe/">Newsletter Sign Up</a></li>
+	<li id="menu-item-5303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5303"><a href="https://inpublicsafety.com/visor-cards/">Visor Cards</a></li>
+	<li id="menu-item-5304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5304"><a href="https://inpublicsafety.com/about/">Social Media</a></li>
+	<li id="menu-item-5305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5305"><a href="https://inpublicsafety.com/topic-guides/">Topic Guides</a></li>
+	<li id="menu-item-5306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5306"><a href="https://inpublicsafety.com/education-partnerships/">Education Partnerships</a></li>
+</ul>
+</li>
+<li id="menu-item-8390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8390"><a href="https://inpublicsafety.com/category/premium-content/">Library</a></li>
+<li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent menu-item-2212"><a href="https://inpublicsafety.com/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-5301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5301"><a href="https://inpublicsafety.com/contributors/">Contributors</a></li>
+</ul>
+</li>
+                      
+                </ul>
+                
+                <ul class="search-mobile-menu">
+                    <li>
+                        <form action="https://inpublicsafety.com" method="get">
+                            <input type="text" placeholder="Search..." name="s" value="">
+                            <i class="fa fa-search"></i>
+                            <input type="submit" value="search">
+                        </form>
+                    </li>
+                </ul>
+                
+            </nav>
+        </div>
+    </div><!--Menu moblie-->
+	<div class="modal fade" id="reportModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+			<h4 class="modal-title" id="myModalLabel">REPORT THIS</h4>
+		  </div>
+		  <div class="modal-body">
+			[contact-form-7 id=""]		  </div>
+		</div>
+	  </div>
+	</div>
+    
+    <div class="go-to-top">
+    	<i class="fa fa-angle-up"></i>
+    </div>
+               
+	</div><!--#body-wrap-->
+    <style>#indeed_sm_wrap_4166{position: fixed;top : 25%;left : 0px;}#indeed_sm_wrap_4166 .ism_item{margin: 4px 0px; !important;}#indeed_sm_wrap_4166 .ism_item .fa-ism, #indeed_sm_wrap_4166 .ism_item .ism-sc-icon{float:none;}#indeed_sm_wrap_4166 .ism_item_wrapper{display: block;}</style><div class="ism_wrap ism_template_2 ism_animated ism_rotateIn ism-website-display" id="indeed_sm_wrap_4166" style="" ><div id="fb_desc-1252" data-ism_description="Many criminal activities like human trafficking, cybercrime, drug trafficking, and organized crime go beyond national borders. In this podcast episode, AMU criminal justice professor Dr. Jarrod Sadulski talks with Mikel Irizar, Operations Specialist at INTERPOL’s Command and Coordination Center in Buenos Aires, Argentina.Learn how INTERPOL assists its 194 member-nations by ..." style="display: none;"></div><a href="javascript:void(0)" class="ism_link" onClick="shareFacebookWithoutI('https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A','Podcast%3A%20Role%20of%20INTERPOL%20in%20Fighting%20International%20Crime', '0', '0', '#fb_desc-1252', '1');ism_fake_increment('.facebook_share_count', 'facebook', 'https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A');"><div class="ism_item_wrapper ism-align-vertical"><div class="ism_item ism_box_facebook"><i class="fa-ism fa-facebook-ism"></i><div class="clear"></div></div></div></a><a href="javascript:void(0)" class="ism_link" onClick="ism_fake_increment('.twitter_share_count', 'twitter', 'https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A');return !window.open('https://twitter.com/intent/tweet?text=Podcast%3A%20Role%20of%20INTERPOL%20in%20Fighting%20International%20Crime https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A', '', 'width=700,height=313');"><div class="ism_item_wrapper ism-align-vertical"><div class="ism_item ism_box_twitter"><i class="fa-ism fa-twitter-ism"></i><div class="clear"></div></div></div></a><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A&title=Podcast%3A%20Role%20of%20INTERPOL%20in%20Fighting%20International%20Crime" class="ism_link" onClick="ism_fake_increment('.linkedin_share_count', 'linkedin', 'https://inpublicsafety.com/2020/09/podcast-role-of-interpol-in-fighting-international-crime/?utm_campaign=10.16.20+Podcast+Role+of+INTERPOL+in+Fighting+International+Crime++%5BEducation%5D+%5BInsider+Newsletter%5D&utm_content=145&utm_medium=social&utm_source=Insider+HQ&utm_term=Education%0A');return !window.open(this.href, '', 'width=700,height=450');"><div class="ism_item_wrapper ism-align-vertical"><div class="ism_item ism_box_linkedin"><i class="fa-ism fa-linkedin-ism"></i><div class="clear"></div></div></div></a></div><script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/newstube-shortcodes/shortcodes/js/shortcode.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/newstube-shortcodes/shortcodes/library/touchswipe/jquery.touchSwipe.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashmenu = {"ajax_url":"https:\/\/inpublicsafety.com\/wp-admin\/admin-ajax.php","ajax_loader":"on","ajax_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/inc/megamenu/js/mashmenu.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/swiper/idangerous.swiper.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/swiper/idangerous.swiper.progress.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/imagesloaded.pkgd.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/malihu-scroll/jquery.mCustomScrollbar.concat.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/jquery.ba-throttle-debounce.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/themes/newstube/js/template.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/cactus-video-1.5.2.3/js/custom.js'></script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-includes/js/wp-embed.min.js'></script>
+<script async="async" type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/akismet/_inc/form.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ism_base_path = "https:\/\/inpublicsafety.com";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inpublicsafety.com/wp-content/plugins/indeed-social-media/files/js/front_end_footer.js'></script>
+<div class="inhom-banner-placement" id="inhom-1262701330"><div class="banner-ad">
+	
+	<div class="bannerTxt">
+		<a href="http://start.amu.apus.edu/public-safety/overview?utm_source=inpublicsafety&utm_medium=banner&utm_content=Public-Safety-Text-A-Sidebar&utm_campaign=Public%20Safety%20-%20DT%20-%20AMU" target="_blank">
+		Degrees for Law Enforcement Professionals from AMU<br/><br/>
+		<button class="CTA">
+			Learn More
+		</button>
+		</a>
+	</div>
+	
+    <!-- <div class="bannerTxt">
+        <span style="font-weight:bold;">Degrees for Law Enforcement Professionals from AMU</span>
+    </div>
+
+    <div class="bannerCTA">
+        <button class="CTA" onclick="window.open('http://start.amu.apus.edu/public-safety/overview?utm_source=inpublicsafety&utm_medium=banner&utm_content=Public-Safety-Text-A-Sidebar&utm_campaign=Public%20Safety%20-%20DT%20-%20AMU','_blank');">Learn More</button>
+    </div>-->
+
+    <div class="bannerClose">
+        <button class="flip2">X</button>
+    </div>
+</div>
+
+<button class="viewBannerAdAgain">›</button></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=690355234350356&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>     
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Database Caching 110/148 queries in 0.406 seconds using memcached
+Application Monitoring using New Relic
+
+Served from: inpublicsafety.com @ 2020-10-17 21:48:00 by W3 Total Cache
+-->

@@ -1,0 +1,1220 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>404 Not Found</title>
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover" name="viewport">
+    <link rel="preconnect" href="//cdn.shopify.com" />
+    <!--<link rel="preconnect" href="//cdnjs.cloudflare.com" />-->
+    <link rel="dns-prefetch" href="//cdn.shopify.com" />
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+    <link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/reset.css?v=7869740785414617771"  />
+    <link rel="preload" as="script" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/pace.min.js?v=6520473108352194242"  />
+    <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"  />
+    <link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/fonts.css?v=10222539694947388791"  />
+    <link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/application.scss.css?v=16252261096214603435"  />
+    <link rel="preload" as="style" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/mobile.scss.css?v=15170988591596700820"  />
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/favicon.ico?v=11101151707652870928" />
+    <link href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/reset.css?v=7869740785414617771" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/application.scss.css?v=16252261096214603435" rel="stylesheet" type="text/css" media="all" />
+    <link href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/mobile.scss.css?v=15170988591596700820" rel="stylesheet" type="text/css" media="all" />
+     
+        
+
+   <!-- <link rel="manifest" href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/manifest.json?v=10301027174503952534"/>
+    <script type="text/javascript" src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/service-worker.js?v=14731619511724250634"></script>-->
+ 
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <meta name="description" content="">
+    <link rel="canonical" href="">
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/31798984835/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="34499aba85d044621a367a7336e2dd0a">
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script id="shopify-features" type="application/json">{"accessToken":"34499aba85d044621a367a7336e2dd0a","betas":["rich-media-storefront-analytics"],"domain":"heartandsoil.co","predictiveSearch":true,"shopId":31798984835,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "heartsoil.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"heartsoil-fluid-width","id":97044037763,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "pay.shopify.com";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn1.stamped.io\/files\/widget.min.js?shop=heartsoil.myshopify.com","https:\/\/shy.elfsight.com\/p\/platform.js?shop=heartsoil.myshopify.com","https:\/\/rechargeassets-bootstrapheroes-rechargeapps.netdna-ssl.com\/static\/js\/recharge.js?shop=heartsoil.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":31798984835,"offset":-18000,"reqid":"db9691be-0a45-43c0-8a11-e9c719510406","pageurl":"heartandsoil.co\/404","u":"ee6a0036d753"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {      var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.0',
+      {shop_id: 31798984835,
+      theme_id: 97044037763,
+      app_name: "storefront"});          
+
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2020.07.13.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":31798984835,"isMerchantRequest":null,"themeId":97044037763,"themeCityHash":"2698128310265198476","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"isPixelGateEnabled":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Facebook Pixel":{"pixelIds":["366114594378141"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "core";
+        window.BOOMR.shopId = 31798984835;
+        window.BOOMR.themeId = 97044037763;
+        window.BOOMR.themeName = "Themekit template theme";
+        window.BOOMR.themeVersion = "1.0.0";
+        window.BOOMR.url =
+          "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+    
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-d81deda6557a113fbcc6a993184828adcef6f241e4ca52b6a21169cb03169317.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script>!function(e){e.addEventListener("DOMContentLoaded",function(){var t;null!==e.querySelector('form[action^="/contact"] input[name="form_type"][value="contact"]')&&(window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"},(t=e.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.1/index.js"),e.body.appendChild(t))})}(document);</script>
+<script integrity="sha256-JP8SIsmqE7shdlPA0+ooxAp5aigObaKa1CHuwqYHXIY=" crossorigin="anonymous" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/s/assets/storefront/load_feature-24ff1222c9aa13bb217653c0d3ea28c40a796a280e6da29ad421eec2a6075c86.js"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/s/assets/shopify_pay/storefront-21b5dddfc8b64c1ad68cee3ba7448d1ffa15c24e969ebc1fbccf1a3784b659ad.js?v=20190107"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+    <!-- Header hook for plugins -->
+
+
+
+  <script src="https://shopifyorderlimits.s3.amazonaws.com/limits/heartsoil.myshopify.com?v=70b&r=20201016200054&shop=heartsoil.myshopify.com"></script>
+
+
+<!-- SITE PERSONAL CODE START -->
+<script>
+(function (w,d,s,o,f,js,fjs) {w['SitePersonal-Widget']=o;w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);}(window, document, 'script', 'wayfx', '//cdn.sitepersonal.com/widget.js'));wayfx('config', {campaigns: [{"id":"BN18gQkCPC2RKLvjg1Wh","date_added":1602779692780,"enabled":true,"campaign_name":"JRE - Show Notes","banner":{"dismissible":false,"cta_button_background_color":"fad000","cta_button_text":"JRE Show Notes","url":"https://heartandsoil.link/jrenotesbanner","cta_button_text_color":"494949","sticky":true,"text_color":"ffffff","text":"Hear about us on the Joe Rogan Experience? Check out the show notes.","background_color":"382704","background_image":""},"views":0,"clicks":0,"audience":{"one":{"type":"wayfx_everyone","range":"","value":""},"two":{"type":"","value":"","range":""}},"date_updated":1602870316733,"banner_version":"v1","promo_code":"","utm_parameters":{"campaign":{"name":"","range":"wayfx_range_contains"}}}],
+store: 'heartandsoil.co', visitor: true});
+</script>
+<!-- SITE PERSONAL CODE END -->
+</head>
+
+<body>
+
+    <div class="container-fluid">
+
+        <div id="shopify-section-header" class="shopify-section"><div class="logo-mobile d-block d-lg-none">
+  <a href="javascript:void(0)" onclick="$('header').slideToggle()" class="menu_link"><i class="fa fa-bars"></i> Menu</a>
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/logo_300x.png?v=9125512170443846690" /></a>
+
+</div>
+
+<header class="header">
+<div class="header_flex_wrap"> 
+<div class="header_left">
+  <ul>
+    
+      
+      
+        <li><a href="/collections/all">Shop</a></li>
+      
+    
+      
+      
+        <li><a href="/pages/land-regeneration">Land Regeneration</a></li>
+      
+    
+      
+      
+        <li><a href="/pages/nose-to-tail">Nose to Tail</a></li>
+      
+    
+      
+      
+        <li><a href="/pages/about-us">About Us</a></li>
+      
+    
+  </ul>  
+</div>
+
+
+<div class="header_right">
+<ul>
+ 
+    
+    
+      <li><a href="/blogs/news/jre-notes">JRE Notes</a></li>
+    
+  
+    
+    
+      <li><a href="#">Learn</a>
+        
+      <ul>
+        <li><a href="/pages/podcasts">Podcasts</a></li>
+      
+        <li><a href="/pages/videos">Videos</a></li>
+      
+        <li><a href="https://heartandsoilsupplements.com/blogs/news">Blog</a></li>
+      </ul></li>
+    
+  
+    
+    
+      <li><a href="/pages/reviews">Reviews</a></li>
+    
+  
+    
+    
+      <li><a href="/pages/contacts">Contact Us</a></li>
+    
+    
+
+
+
+<li><a href="/cart"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/cart_300x.png?v=9236934567328912793" /></a></li>
+</ul>  
+</div>  
+</div> 
+</header>
+
+<div class="logo d-none d-lg-block">
+
+  
+  <a href="/"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/files/logo_300x.png?v=1590431800" /></a>
+  
+
+
+</div>
+
+
+
+</div>
+
+        
+
+        <main role="main">
+            
+
+            <h1>404 Page Not Found</h1>
+<p>translation missing: en.general.404.subtext_html</p>
+
+
+        </main>
+        
+        <div id="shopify-section-homepage-social" class="shopify-section"><div class="featured_social">
+ 
+  <div class="social_icons">
+    <ul>
+      <li><a target="_blank" href="https://www.facebook.com/heartandsoilsupplements/"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/files/facebook_1000x.png?v=1592037746" /></a>
+      </li>
+      <li><a target="_blank"  href="https://www.youtube.com/channel/UCyf4v0HhGiHc8_ZIiSfd3Ug"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/files/youtube1_1000x.png?v=1592037768" /></a>
+      </li>
+      <li><a target="_blank"  href="https://www.instagram.com/heartandsoilsupplements/"><img
+            src="//cdn.shopify.com/s/files/1/0317/9898/4835/files/instagram_1000x.png?v=1594112750" /></a></li>
+    </ul>
+  </div>
+  <div class="social_quote">
+    <blockquote>
+      <p>JOIN OUR TRIBE,<br> FOLLOW THE RADICAL MEN AND WOMEN OF HEART &amp; SOIL </p>
+
+    </blockquote>
+
+  </div>
+  <div class="social_images">
+    <h4 class="text-center">@heartandsoilsupplements</h4>
+    <div class="instagram_wrap">
+      <div class="elfsight-sapp-988dbbd3-30d2-471c-8fd1-138419bc4b0c"></div>
+    </div>
+    <!--<ul>
+      <li><img class="img-fluid" src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/hbt1_1000x.png?v=6662673915363673344" /></li>
+      <li><img class="img-fluid" src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/hbt2_1000x.png?v=9858294908538525088" /></li>
+      <li><img class="img-fluid" src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/hbt3_1000x.png?v=1643287100558004863" /></li>
+      <li><img class="img-fluid" src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/hbt4_1000x.png?v=4405423376298503789" /></li>
+    </ul>-->
+  </div>
+</div>
+
+<script>
+  window.addEventListener('load',function(){
+    if($(window).width() < 1550){
+      $('.instagram_wrap').css({"width":String($(window).width())+"px","margin":"0 auto"});
+    }
+  });
+</script>
+
+</div>
+        
+        <div id="shopify-section-homepage-subscribe" class="shopify-section"><div class="featured_subscribe">
+ <div class="subscribe_wrap">   
+    <div class="subscribe_quote">
+        <h3>JOIN THE INTERNET's LARGEST NOSE TO TAIL NEWSLETTER</h3>
+        <p>Join our tribe and we'll send you our quick start guide to eating nose to tail, tribe member discounts, and product updates.</p>
+    </div>
+    <div class="subscibe_form">
+       
+       <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+
+      <form action="https://app.convertkit.com/forms/1445209/subscriptions" method="post" data-sv-form="1445209" data-uid="0577805ec6" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:true,&quot;url&quot;:&quot;https://convertkit.com?utm_source=dynamic&amp;utm_medium=referral&amp;utm_campaign=poweredby&amp;utm_content=form&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" >
+
+      	<input class="formkit-input" name="email_address" placeholder="Your email address" required="" type="email" >
+      	
+      	<button data-element="submit" class="orange_button hvr-sweep-to-right" ><div class="formkit-spinner"><div><span>Connect</span></button>
+
+</form>
+
+    </div>   
+ </div>
+</div>
+
+
+</div>
+        <div id="shopify-section-footer" class="shopify-section"><footer>
+  <div class="footer_wrap">
+    <div class="footer_menu">
+        <div class="col-md-2">
+            <h4>Navigate</h4>
+            <ul>
+            
+                
+                
+                <li><a href="#">Home</a></li>
+                
+            
+                
+                
+                <li><a href="/blogs/news">Articles</a></li>
+                
+            
+                
+                
+                <li><a href="/pages/about-us">About Heart & Soil</a></li>
+                
+              
+            </ul>
+
+        </div>
+        <div class="col-md-3 offset-md-1">
+            <h4>Shop</h4>
+            <ul>
+             
+                
+                
+                <li><a href="/products/beef-organs">Beef Organs</a></li>
+                
+            
+                
+                
+                <li><a href="/products/bone-marrow-liver">Bone Marrow & Liver</a></li>
+                
+            
+                
+                
+                <li><a href="/products/fire-starter">Fire Starter</a></li>
+                
+              
+            </ul>
+        </div>
+        <div class="col-md-2 offset-md-1">
+            <h4>Support</h4>
+            <ul>
+             
+                
+                
+                <li><a href="/pages/animal-based-medicine-referral-network">Find a Provider</a></li>
+                
+            
+                
+                
+                <li><a href="/pages/privacy-policy">Privacy Policy</a></li>
+                
+            
+                
+                
+                <li><a href="/pages/contacts">Contact Us</a></li>
+                
+              
+            
+              
+                <li><a href="/account/login" id="customer_login_link">Log in </a></li>
+                <li><a href="/account/register" id="customer_register_link">Register</a></li>
+              
+            
+            </ul>
+        </div>
+        <div class="col-md-2 offset-md-1">
+            <h4>Follow us</h4>
+            <ul>
+            
+                
+                
+                <li><a href="https://www.facebook.com/heartandsoilsupplements/">Facebook</a></li>
+                
+            
+                
+                
+                <li><a href="https://www.instagram.com/heartandsoilsupplements/">Instagram</a></li>
+                
+            
+                
+                
+                <li><a href="https://www.youtube.com/channel/UCyf4v0HhGiHc8_ZIiSfd3Ug">YouTube</a></li>
+                
+              
+            </ul>
+        </div>
+    </div>
+  </div>
+
+    <div class="line"><hr/></div>
+    
+
+    <div class="copy_rights">
+    
+        <p><a href="/pages/contacts" title="Contact Us">Contact us</a>&nbsp;with product questions, recommendations, and support.</p>
+<p></p>
+        
+
+        <div class="footer_logo_wrap"><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/logo-footer_1000x.png?v=9801376483645596042" class="img-fluid" loading="lazy"  /></div>
+        <p><img src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/cards_1000x.png?v=16779261142980193433" class="img-fluid" loading="lazy"  /></p>
+    </div>
+
+    <div class="footer_quote">
+      Not affiliated with Epic Provisions... but we share a common appreciation for honoring the whole animal
+    </div>
+  
+</footer>
+
+
+
+</div>
+
+
+        
+
+    </div>
+    <link href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/fonts.css?v=10222539694947388791" rel="stylesheet" type="text/css" media="all" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" type="text/css" media="all" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/vendor/jquery.easing.1.3.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.blockUI/2.70/jquery.blockUI.min.js" type="text/javascript"></script>   
+    <script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js" type="text/javascript"></script>
+    <script async data-api-key="" id="stamped-script-widget"
+        src="https://cdn-stamped-io.azureedge.net/files/widget.min.js" type="text/javascript"></script>
+        <script src="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/jquery.simplePagination.js?v=16899138957422323110" type="text/javascript"></script>
+        <link href="//cdn.shopify.com/s/files/1/0317/9898/4835/t/3/assets/simplePagination.css?v=7180821386829098745" rel="stylesheet" type="text/css" media="all" />
+    <script>
+
+        $(document).ready(function () {
+
+           // $('input[type="number"]').niceNumber();
+
+            $(".lightbox").magnificPopup( {type: 'image', gallery: {
+      enabled: true
+    }});
+          
+            $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+                type: 'iframe',
+                iframe: {
+                    markup: '<div class="mfp-iframe-scaler">' +
+                        '<div class="mfp-close"></div>' +
+                        '<iframe class="mfp-iframe" frameborder="0" allow="autoplay" allowfullscreen></iframe>' +
+                        '</div>',
+                    patterns: {
+                        youtube: {
+                            index: 'youtube.com/',
+                            id: function (url) {
+                                var m = url.match(/[\\?\\&]v=([^\\?\\&]+)/);
+                                if (!m || !m[1]) return null;
+                                return m[1];
+                            },
+                            src: '//www.youtube.com/embed/%id%?autoplay=1&rel=0&controls=1&enablejsapi=1&ytp-pause-overlay=0&mute=0'
+                        },
+                        vimeo: {
+                            index: 'vimeo.com/',
+                            id: function (url) {
+                                var m = url.match(/(https?:\/\/)?(www.)?(player.)?vimeo.com\/([a-z]*\/)*([0-9]{6,11})[?]?.*/);
+                                if (!m || !m[5]) return null;
+                                return m[5];
+                            },
+                            src: '//player.vimeo.com/video/%id%?autoplay=1'
+                        }
+                    }
+                }
+            });
+
+            const mq = window.matchMedia("(max-width: 600px)");
+
+            if (mq.matches) {
+                console.log('mobile bx')
+                $('.header_right ul').find('li').eq(1).find('ul').children('li').css('padding-left','30px').insertAfter('.header_right ul li:eq(1)');
+                $('#homepage_carousel').bxSlider({
+                    auto: false,
+                    controls:true,
+                    touchEnabled: false,
+                    adaptiveHeight: true,
+                    autoControls: false,
+                    speed: 600,
+                    adaptiveHeight: true,
+                    minSlides: 1,
+                    maxSlides: 1,
+                    moveSlides: 1,
+                    slideMargin: 10,
+                    infiniteLoop: true,
+                    useCss: false,
+                    onSliderLoad: function () {
+                        $('#homepage_carousel > div:not(.bx-clone)').eq(1).removeClass('active');
+                       // $('.featured_testimonials .testimonial-item>p').matchHeight();
+                    },
+                    onSlideBefore: function ($slideElement, oldIndex, newIndex) {
+                        $('.testimonial-item').removeClass('active');
+                       // $('.featured_testimonials .testimonial-item>p').matchHeight();
+                    }
+                });
+            } else {
+                $('#homepage_carousel').bxSlider({
+                    auto: true,
+                    autoHover: true,
+                    touchEnabled: false,
+                    autoControls: false,
+                    speed: 600,
+                    adaptiveHeight: true,
+                    minSlides: 3,
+                    maxSlides: 3,
+                    moveSlides: 1,
+                    slideMargin: 10,
+                    slideWidth: 700,
+                    useCss: true,
+                    infiniteLoop: true,
+                    onSlideAfter: function(){
+                        $('.featured_testimonials .testimonial-item>p').matchHeight();
+                    },
+                    onSliderLoad: function () {
+                        $('#homepage_carousel > div:not(.bx-clone)').eq(1).addClass('active');
+                      //  $('#homepage_carousel > div:not(.bx-clone)').eq(0).addClass('bx-prev');
+                     //   $('#homepage_carousel > div:not(.bx-clone)').eq(2).addClass('bx-next');
+                        //console.log($('#homepage_carousel > div:not(.bx-clone)').eq(1).html());
+                        $('.featured_testimonials .testimonial-item>p').matchHeight();
+                    },
+                    onSlideBefore: function ($slideElement, oldIndex, newIndex) {
+                        $('.testimonial-item').removeClass('active');
+                        $($slideElement).next().addClass('active');
+                    },
+                    onSlideNext: function($slideElement, oldIndex, newIndex){
+                       // $($slideElement).next().addClass('bx-next');
+                    },
+                    onSlidePrev: function($slideElement, oldIndex, newIndex){
+                       // $($slideElement).prev().addClass('bx-prev');
+                    },
+                });
+                $('.key_points>div').matchHeight();
+            }
+        });
+    </script>
+    
+    <script async data-uid="e3465d67fd" src="https://winning-crafter-7948.ck.page/e3465d67fd/index.js"></script>
+
+<!-- Begin ReCharge code -->
+<!-- Subscriptions Powered by ReCharge Payments: Begin Liquid Code -->
+<!--
+	Subscription Theme Footer
+	http://rechargepayments.com: v2
+	Updated: 2017/09/12
+-->
+
+	<script>
+		// Subscriptions Powered by ReCharge Payments: JavaScript
+		(function() {
+			// Basic function to load script files, will be used to include jQuery
+			var loadScript = function(url, callback) {
+				var script = document.createElement("script");
+				script.type = "text/javascript";
+				// If the browser is Internet Explorer
+				if (script.readyState){
+					script.onreadystatechange = function() {
+						if (script.readyState == "loaded" || script.readyState == "complete") {
+							script.onreadystatechange = null;
+							callback();
+						}
+					};
+				// For any other browser
+				} else {
+					script.onload = function() {
+						callback();
+					};
+				}
+				script.src = url;
+				document.getElementsByTagName("head")[0].appendChild(script);
+			};
+			// This is our JavaScript that we'll run after jQuery is included
+			var reChargeThemeFooterJS = function($) {
+				function reChargeSaveCartNoteAndRedirectToCart() {
+					var has_cart_note_or_attribute = false;
+					try {
+						var data = {};
+						if ($('[name="note"]').val() != undefined) {
+							var note = $('[name="note"]').val();
+							data['note'] = note;
+							has_cart_note_or_attribute = true;
+						}
+						if (has_cart_note_or_attribute) {
+							$.ajax({
+								type: 'POST',
+								data: data,
+								url: '/cart/update.js',
+								dataType: 'json',
+								success: function() {
+									window.location.href = '/cart';
+								}
+							});
+						} else {
+							window.location.href = '/cart';
+						}
+					} catch (e) {
+						window.location.href = '/cart';
+					}
+				}
+				var checkout_button_selectors = '[href="/checkout"], form[action="/cart"] button[type="submit"], form[action="/cart"] input[type="submit"], form[action="/checkout"] input[type="submit"], form[action="/checkout"] button[type="submit"]';
+				$(document).on('click', checkout_button_selectors, function(e) {
+					if (!e.target.hasAttribute('data-disable-recharge')) {
+						e.preventDefault();
+						reChargeSaveCartNoteAndRedirectToCart();
+						window.location.href = '/cart';
+					} else {
+						console.info('ReCharge disabled');
+					}
+				});
+			}
+			// Check if jQuery is added, if not, then we'll loadScript, otherwise, run reChargeJS
+			if ((typeof(jQuery) == 'undefined') || (parseInt(jQuery.fn.jquery) == 1 && parseFloat(jQuery.fn.jquery.replace(/^1\./,"")) < 7.2)) {
+				// We'll get our jQuery from Google APIs
+				loadScript('//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js', function() {
+					jQuery172 = jQuery.noConflict(true);
+					reChargeThemeFooterJS(jQuery172);
+				});
+			} else {
+				reChargeThemeFooterJS(jQuery);
+			}
+		})();
+	</script>
+
+<!-- Subscriptions Powered by ReCharge Payments: End Liquid Code -->
+
+<!-- End ReCharge code -->
+
+
+
+
+<script type="text/javascript">if(typeof window.pn === "undefined"){window.pn = {};}if(typeof window.pn.shop === "undefined"){window.pn.shop = {};}window.pn.shop={"id":24085,"shopify_domain":"heartsoil.myshopify.com","form_selector":"form[action^='/cart/add']","button_selector":"form[action^='/cart/add']:first [type=submit]:visible:first","app_enabled":true,"charge_active":true,"account_status":"installed","custom_css":null,"cart_label_text":"Pre-order Item","button_style_id":null,"description_style_id":null,"cart_label_style_id":null,"badge_style_id":null,"apply_default_to_all":false,"timezone":"America/Chicago","product_image_container_selector":"div.product-single__photos:first,#slider-product-template, .photos__item--main:first, #productPhotoContainer-product-template","order_tag":"Pre-order","variant_selector":"form[action^='/cart/add']:first select:visible, .radio-wrapper fieldset, form[action^='/cart/add']:first input[type='radio']","collection_photo_container_selector":null,"collection_grid_id_selector_prefix":null,"enable_collection_page_badge":false,"primary_domain":"heartandsoil.co","stock_insufficient_message":"Not enough stock. Only {{qty}} remaining.","limit_order_quantity":false,"enable_collection_page_button":false,"add_to_cart_text":"Add to Cart","show_collection_badge_only_if_all_variants_out_of_stock":false,"out_of_stock_text":"Sold Out","notify_when_partial_preorder":false,"notify_when_partial_preorder_message":"Only {{qty}} unit(s) in stock. {{qty}} unit(s) will be filled now and the rest will be on pre-order.","partial_preorder_notice_placement_selector":null,"fss_selector_prefix":"","fss_parent_selector":"form","quickview_support_enabled":false,"product_link_selector":"a[href*='/products/']:visible","product_link_selector_has":"img","product_container_handle_element_selector":"a[href*='products/{{handle}}']","product_container_handle_element_selector_has":"img","product_container_handle_element_selector_closest":"div, li, article, figure","money_format":"${{amount}}","left_a_review":false,"display_you_got_a_preorder_popup":false,"display_you_got_a_preorder_reminder":false,"using_settings_method":true,"mixed_cart_warning_title":"Warning: you have pre-order and in-stock items in the same cart","mixed_cart_warning_text":"Shipment of your in-stock items may be delayed until your pre-order item is ready for shipping. To ensure faster delivery of your in-stock items, we recommend making two separate orders - one for your pre-order items and one for your in-stock items.","mixed_cart_warning_enabled":false,"preorder_emails_enabled":false,"email_credit_remaining":0,"sender_email":"drpaul@heartandsoil.co","sender_email_verified":false,"pn_note_label":"PN-Note","preorder_email_cc_enabled":false,"update_pending":false,"ensure_preorder":false,"js_version":2,"never_load_jquery":false,"hide_buy_now_button":true,"plan_id":2,"clickless_quickview_support_enabled":true,"reinit_collection_badges":false,"preorders":0,"total_preorder_product_value":0,"total_order_value":0,"always_sync_inventory":false,"product_page_price_selector":null,"cart_subtotal_selector":null,"checkout_button_selector":null,"quantity_button_selector":null,"quantity_field_selector":null,"mutation_ids":null,"mutation_classes":null,"line_item_original_price_selector":null,"line_item_total_price_selector":null,"ajax_line_item_original_price_selector":null,"ajax_line_item_total_price_selector":null,"ajax_cart_item_key":null,"cart_item_key":null,"theme_id":2,"enabled_line_item_discount":true,"enabled_ajax_cart":true,"product_page_sale_price_selector":null,"bcc_emails":null};window.pn.styles=[{"id":92197,"created_at":"2020-10-15T21:25:16.383Z","updated_at":"2020-10-15T21:25:16.383Z","text_color":null,"font_size":null,"font_family":null,"padding":null,"margin":null,"background_color":null,"border_color":null,"border_radius":null,"border_width":null,"shape":null,"custom_css":null,"shop_id":24085,"badge_shadow":true,"badge_gradient":true},{"id":92198,"created_at":"2020-10-15T21:25:16.395Z","updated_at":"2020-10-15T21:25:16.395Z","text_color":null,"font_size":null,"font_family":null,"padding":null,"margin":null,"background_color":null,"border_color":null,"border_radius":null,"border_width":null,"shape":null,"custom_css":null,"shop_id":24085,"badge_shadow":true,"badge_gradient":true},{"id":92199,"created_at":"2020-10-15T21:25:16.400Z","updated_at":"2020-10-15T21:25:16.400Z","text_color":null,"font_size":null,"font_family":null,"padding":null,"margin":null,"background_color":null,"border_color":null,"border_radius":null,"border_width":null,"shape":null,"custom_css":null,"shop_id":24085,"badge_shadow":true,"badge_gradient":true},{"id":92200,"created_at":"2020-10-15T21:25:16.405Z","updated_at":"2020-10-15T21:25:16.405Z","text_color":null,"font_size":null,"font_family":null,"padding":null,"margin":null,"background_color":null,"border_color":null,"border_radius":null,"border_width":null,"shape":null,"custom_css":null,"shop_id":24085,"badge_shadow":true,"badge_gradient":true}];</script><script type="text/javascript">window.pn.datastore={"theme_setting":{"id":2,"theme_name":"Default","product_page_price_selector":".price__pricing-group .price__regular .price-item.price-item--regular, .price-item--sale","cart_subtotal_selector":".cart__subtotal:visible, h2.subtotal:visible, p.subtotal_amount:visible, span.total:visible, .mini-cart__total-price:visible, .cart__total:visible, #cartform div.align-right h2:visible, .ajaxcart__subtotal:visible, .cart-total:visible, #basket-right h4:visible, .subtotal .price:visible, .cart-footer__subtotal:visible, .cart-subtotal--price:visible, .cart-drawer__subtotal-price:visible","checkout_button_selector":"input[type='submit'].action_button.right:visible,input[name='checkout']:visible,button[name='checkout']:visible,[href$='checkout']:visible,input[name='goto_pp']:visible,button[name='goto_pp']:visible,input[name='goto_gc']:visible,button[name='goto_gc']:visible,.additional-checkout-button:visible,.google-wallet-button-holder:visible,.amazon-payments-pay-button:visible","quantity_button_selector":"form[action=\"/cart\"] .js--qty-adjuster, form[action=\"/cart\"] .js-qty__adjust","quantity_field_selector":"","mutation_ids":"","mutation_classes":"","line_item_original_price_selector":"{{ item.price | money }},{{ item.original_price | money }}","line_item_total_price_selector":"{{ item.line_price | money }},{{ item.original_line_price | money }}","ajax_line_item_original_price_selector":"","ajax_line_item_total_price_selector":"","ajax_cart_item_key":null,"cart_item_key":"","created_at":"2020-07-13T10:32:45.617Z","updated_at":"2020-07-13T10:32:45.657Z","product_page_sale_price_selector":"span.price-item.price-item--sale, .price__sale.price-item.price-item--regular"}};</script><script src="https://preorder-now.herokuapp.com/widget/javascript?shop=heartsoil.myshopify.com"></script><style>
+div[class*='preorder-container-'].product__image-container{overflow:visible;}
+#Collection .grid--view-items{overflow:visible;}
+div[class*='preorder-container-'],li[class*='preorder-container-'],td[class*='preorder-container-']{position:relative;}
+
+.preorder-badge.rectangle {
+  position: absolute;
+  top:20px;
+  right:20px;
+  padding:10px;
+  width:20%;
+  text-align: center;
+  font-weight: bold;  
+  color: #FFF;
+  overflow:hidden;
+}
+
+.preorder-badge.circle {
+  display: table; 
+  position: absolute;
+  top:20px;
+  right:20px;
+  padding:10px;
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  text-align: center;
+  font-weight: bold;  
+  color: #FFF;  
+  overflow:hidden;
+}
+
+.preorder-badge.circle span{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.preorder-badge.ribbon {
+  position: absolute;
+  right: -5px; top: -5px;
+  z-index: 1;
+  overflow: hidden;
+  width: 75px; height: 75px;
+  text-align: right;
+}
+.preorder-badge.ribbon span {
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  width: 100px;
+  display: block;
+  position: absolute;
+  top: 19px; right: -21px;
+}
+.preorder-badge.ribbon span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid #888888;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #888888;
+}
+.preorder-badge.ribbon span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-right: 3px solid #888888;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #888888;
+}
+.cart__row .preorder-badge{
+  display:none;
+}
+@media only screen and (max-width: 600px) {
+	.preorder-badge.circle{
+		top: 10px;
+		right: 10px;
+		padding: 5px;
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+		text-align: center;
+		font-weight: bold;
+		overflow: hidden;
+		line-height: 16px;
+		font-size: 12px;
+	}
+}
+
+/* PN MIXED CART WARNING MODAL CSS */
+.jquery-modal.blocker.current{
+  z-index:999999999;
+}
+.pn-mixed-cart-warning-title{
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align:center;
+}
+.pn-modal {
+  opacity:1;
+  display:none;
+  overflow:visible;
+  padding:0px;
+}
+.pn-manual-modal-container{
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9999; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */ 
+}
+.pn-manual-modal-content{
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */  
+  max-width:600px;
+}
+.pn-mixed-cart-warning-content{
+  text-align:center;
+}
+#pn-modal-close-btn{
+  float:right;
+  font-size:22px;
+  cursor:pointer;
+}
+.loading-image {
+  width: 85px;
+}
+.loader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  overflow: auto;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.79);
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.ui-widget-overlay{
+  opacity: 0.6 !important;
+  background: #fff !important;
+}
+.ui-dialog{
+  position: fixed !important;
+  height: auto;
+  width: 300px;
+  top: 0 !important;
+  left: 363.5px;
+  display: block;
+  z-index: 10000000000;
+}
+
+progress {
+  text-align: center;
+  height: 1.6em;
+  width: 100%;
+  -webkit-appearance: none;
+  border: none;
+  
+  /* Set the progressbar to relative */
+  position:relative;
+  border-radius: 4px;
+  color: white;
+  overflow: hidden;
+}
+progress:before {
+  content: attr(data-label);
+  font-size: 0.8em;
+  vertical-align: 0;
+  
+  /*Position text over the progress bar */
+  position:absolute;
+  left:0;
+  right:0;
+}
+progress::-webkit-progress-bar {
+  background-color: #f5f5f5;
+}
+.nav-progress::-webkit-progress-bar{
+  background-color: #ffffff !important;
+}
+progress::-webkit-progress-value {
+  background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  background-image: -o-linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  background-image: linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);
+  -webkit-background-size: 40px 40px;
+  background-size: 40px 40px;
+  background-color: #5cb75c;
+}
+progress::-moz-progress-bar {
+  background-color: #f5f5f5;
+}
+.progress_percent{
+  left: 9px;
+  display: flex;
+  position: absolute;
+  z-index: 100;
+  margin-left: 64%;
+}
+.pg-mg{
+  margin-left: 50%;
+}
+.setting-note{
+  padding-left: 20px;
+}
+
+.watch-later-btn{
+  background-color: #fff;
+  border-color: #ccc;
+  box-shadow: none;
+  color: #333;
+  display: flex;
+  align-items: center;
+}
+
+.watch-later-btn span{
+  margin-right: 6px;
+  position: relative;
+  top: 2px;
+}
+.watch-later-btn img{
+  height: 20px;
+  width:20px;
+}
+
+.line-through {
+   text-decoration: line-through;
+}
+
+</style><script type="text/javascript">
+  
+    window.pn.cart = {};
+  	window.pn.cart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[]}
+    window.pn.cart.items = [];
+
+    
+
+    if (typeof window.pn.cart.items == "object") {
+      for (var i=0; i<window.pn.cart.items.length; i++) {
+        ["sku", "vendor", "url", "image", "handle", "product_type", "product_description"].map(function(a) {
+          delete window.pn.cart.items[i][a]
+        })
+      }
+    }
+  
+</script>
+
+
+<script>
+if(typeof pn === "undefined"){
+  pn = {};
+}
+if(typeof pn.settings === "undefined"){
+  pn.settings = {};
+}
+pn.settings.defaultSetting={"id":12040237,"a":"Preorder Now","b":true,"c":null,"d":"Out of stock","e":false,"f":"Only {{qty}} remaining","g":null,"h":null,"i":false,"j":null,"k":null,"l":null,"m":"default","n":null,"o":true,"handle":null,"p":null,"y":null,"q":false,"r":false,"s":null,"t":null,"u":1,"v":false,"w":"ribbon","tag":null,"x":null,"z":"no_discount","aa":"0.0","ab":0,"price":"0.0","compare_at_price":"0.0"};
+pn.settings.singleProductSettings=[];
+pn.settings.tagSettings=[];
+</script>
+<style type="text/css">
+  .pn-original-subtotal{
+    text-decoration: line-through;
+    display:inline-block;
+  }
+  .pn-discounted-subtotal{
+    font-weight:bold;
+    margin-left:20px;
+    display:inline-block;
+    font-size: 1.3em;
+  }
+
+  .pn-line-item-original-price {
+    text-decoration: line-through;
+  }
+
+  .pn-line-item-discounted-price {
+    font-size: 1.2em;
+    margin-left: 8px;
+  }
+</style>
+
+
+
+<div id="pn-mixed-cart-warning" class="pn-modal">
+  <div id="pn-mixed-cart-warning-content">
+    <span id="pn-modal-close-btn">x</span>
+    <h2 id="pn-mixed-cart-warning-title"></h2>
+    <div id="pn-mixed-cart-warning-text"></div>
+  </div>
+</div>
+  </body>
+
+</html>

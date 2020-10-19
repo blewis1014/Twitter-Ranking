@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="ja-JP"><head>
+    <meta charset="utf-8"/>
+    <link rel="dns-prefetch preconnect" href="https://u.jimcdn.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://assets.jimstatic.com/" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://image.jimcdn.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://fonts.jimstatic.com" crossorigin="anonymous"/>
+<link rel="dns-prefetch preconnect" href="https://www.google-analytics.com" crossorigin="anonymous"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content=""/>
+<meta name="robots" content="index, follow, archive"/>
+<meta property="st:section" content=""/>
+<meta name="twitter:title" content="障がい者アートを社会に広める"/>
+<meta name="twitter:description" content="障がい者アート協会は、障がいのある方（障害者）が描いた絵などの作品を発信する場所をつくります。障がい者アートを社会に広め、障がいのある方（障害者）を支援いたします。"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:url" content="http://www.borderlessart.or.jp/"/>
+<meta property="og:title" content="障がい者アートを社会に広める"/>
+<meta property="og:description" content="障がい者アート協会は、障がいのある方（障害者）が描いた絵などの作品を発信する場所をつくります。障がい者アートを社会に広め、障がいのある方（障害者）を支援いたします。"/>
+<meta property="og:type" content="website"/>
+<meta property="og:locale" content="ja_JP"/>
+<meta property="og:site_name" content="一般社団法人 障がい者アート協会　社会に認知され経済的対価を得られる仕組み"/>
+<meta name="twitter:image" content="https://image.jimcdn.com/app/cms/image/transf/none/path/scf8fc96972d51f67/backgroundarea/i1918d2c64882ea3f/version/1478743278/image.jpg"/>
+<meta property="og:image" content="https://image.jimcdn.com/app/cms/image/transf/none/path/scf8fc96972d51f67/backgroundarea/i1918d2c64882ea3f/version/1478743278/image.jpg"/>
+<meta property="og:image:width" content="2000"/>
+<meta property="og:image:height" content="1500"/>
+<meta property="og:image:secure_url" content="https://image.jimcdn.com/app/cms/image/transf/none/path/scf8fc96972d51f67/backgroundarea/i1918d2c64882ea3f/version/1478743278/image.jpg"/><title>ページが見つかりません - 一般社団法人 障がい者アート協会　社会に認知され経済的対価を得られる仕組み</title>
+<link rel="shortcut icon" href="https://u.jimcdn.com/cms/o/scf8fc96972d51f67/img/favicon.ico?t=1449620522"/>
+    <link rel="alternate" type="application/rss+xml" title="ブログ" href="https://www.borderlessart.or.jp/rss/blog"/>    
+<link rel="canonical" href="https://www.borderlessart.or.jp/not-found/"/>
+
+        <script src="https://assets.jimstatic.com/ckies.js.a4f72265d88d8e12d3f8.js"></script>
+
+        <script src="https://assets.jimstatic.com/cookieControl.js.9ddba0298c4d17aefb8d.js"></script>
+    <script>window.CookieControlSet.setToOldBehavior();</script>
+
+    <style>html,body{margin:0}.hidden{display:none}.n{padding:5px}#cc-website-title a {text-decoration: none}.cc-m-image-align-1{text-align:left}.cc-m-image-align-2{text-align:right}.cc-m-image-align-3{text-align:center}</style>
+
+        <link href="https://u.jimcdn.com/cms/o/scf8fc96972d51f67/layout/dm_26a5bf5486f105fc0fc43ecf7c5329f6/css/layout.css?t=1588328781" rel="stylesheet" type="text/css" id="jimdo_layout_css"/>
+<script>     /* <![CDATA[ */     /*!  loadCss [c]2014 @scottjehl, Filament Group, Inc.  Licensed MIT */     window.loadCSS = window.loadCss = function(e,n,t){var r,l=window.document,a=l.createElement("link");if(n)r=n;else{var i=(l.body||l.getElementsByTagName("head")[0]).childNodes;r=i[i.length-1]}var o=l.styleSheets;a.rel="stylesheet",a.href=e,a.media="only x",r.parentNode.insertBefore(a,n?r:r.nextSibling);var d=function(e){for(var n=a.href,t=o.length;t--;)if(o[t].href===n)return e.call(a);setTimeout(function(){d(e)})};return a.onloadcssdefined=d,d(function(){a.media=t||"all"}),a};     window.onloadCSS = function(n,o){n.onload=function(){n.onload=null,o&&o.call(n)},"isApplicationInstalled"in navigator&&"onloadcssdefined"in n&&n.onloadcssdefined(o)}     /* ]]> */ </script>     <script>
+// <![CDATA[
+onloadCSS(loadCss('https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css') , function() {
+    this.id = 'jimdo_web_css';
+});
+// ]]>
+</script>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="preload" as="style"/>
+<noscript>
+<link href="https://assets.jimstatic.com/web.css.ec74bcad89a485bd6a5639535a46c0ba.css" rel="stylesheet"/>
+</noscript>
+    <script>
+    //<![CDATA[
+        var jimdoData = {"isTestserver":false,"isLcJimdoCom":false,"isJimdoHelpCenter":false,"isProtectedPage":false,"cstok":"","cacheJsKey":"d9ce1fa686ebd5436f0bb77bff1890d387e66acd","cacheCssKey":"d9ce1fa686ebd5436f0bb77bff1890d387e66acd","cdnUrl":"https:\/\/assets.jimstatic.com\/","minUrl":"https:\/\/assets.jimstatic.com\/app\/cdn\/min\/file\/","authUrl":"https:\/\/a.jimdo.com\/","webPath":"https:\/\/www.borderlessart.or.jp\/","appUrl":"https:\/\/a.jimdo.com\/","cmsLanguage":"ja_JP","isFreePackage":false,"mobile":false,"isDevkitTemplateUsed":true,"isTemplateResponsive":true,"websiteId":"scf8fc96972d51f67","pageId":1,"packageId":3,"shop":{"deliveryTimeTexts":{"1":"\u304a\u5c4a\u3051\u65e5\u6570\uff1a1~3\u65e5","2":"\u304a\u5c4a\u3051\u65e5\u6570\uff1a4~10\u65e5","3":"\u304a\u5c4a\u3051\u65e5\u6570\uff1a4~5\u9031\u9593"},"checkoutButtonText":"\u8cfc\u5165","isReady":true,"currencyFormat":{"pattern":"\u00a4#,##0","convertedPattern":"$#,##0","symbols":{"GROUPING_SEPARATOR":",","DECIMAL_SEPARATOR":".","CURRENCY_SYMBOL":"\uffe5"}},"currencyLocale":"ja_JP"},"tr":{"gmap":{"searchNotFound":"\u5165\u529b\u3055\u308c\u305f\u4f4f\u6240\u306f\u5b58\u5728\u3057\u306a\u3044\u304b\u3001\u898b\u3064\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002","routeNotFound":"\u30eb\u30fc\u30c8\u304c\u8a08\u7b97\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002\u76ee\u7684\u5730\u304c\u9060\u3059\u304e\u308b\u304b\u660e\u78ba\u3067\u306f\u306a\u3044\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002"},"shop":{"checkoutSubmit":{"next":"\u6b21\u3078","wait":"\u304a\u5f85\u3061\u304f\u3060\u3055\u3044"},"paypalError":"\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002","cartBar":"\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30ab\u30fc\u30c8\u3092\u78ba\u8a8d","maintenance":"\u7533\u3057\u8a33\u3054\u3056\u3044\u307e\u305b\u3093\u3001\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u4e2d\u306e\u305f\u3081\u4e00\u6642\u7684\u306b\u30b7\u30e7\u30c3\u30d7\u304c\u5229\u7528\u3067\u304d\u307e\u305b\u3093\u3002\u3054\u8ff7\u60d1\u3092\u304a\u304b\u3051\u3057\u7533\u3057\u8a33\u3054\u3056\u3044\u307e\u305b\u3093\u304c\u3001\u304a\u6642\u9593\u3092\u3042\u3051\u3066\u518d\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002","addToCartOverlay":{"productInsertedText":"\u30ab\u30fc\u30c8\u306b\u5546\u54c1\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f","continueShoppingText":"\u8cb7\u3044\u7269\u3092\u7d9a\u3051\u308b","reloadPageText":"\u66f4\u65b0"},"notReadyText":"\u3053\u3061\u3089\u306e\u30b7\u30e7\u30c3\u30d7\u306f\u73fe\u5728\u6e96\u5099\u4e2d\u306e\u305f\u3081\u3054\u5229\u7528\u3044\u305f\u3060\u3051\u307e\u305b\u3093\u3002\u30b7\u30e7\u30c3\u30d7\u30aa\u30fc\u30ca\u30fc\u306f\u4ee5\u4e0b\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002https:\/\/help.jimdo.com\/hc\/ja\/articles\/115005521583","numLeftText":"\u73fe\u5728\u3053\u306e\u5546\u54c1\u306f {:num} \u307e\u3067\u8cfc\u5165\u3067\u304d\u307e\u3059\u3002","oneLeftText":"\u3053\u306e\u5546\u54c1\u306e\u5728\u5eab\u306f\u6b8b\u308a1\u70b9\u3067\u3059"},"common":{"timeout":"\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3044\u305f\u3057\u307e\u3057\u305f\u3002\u5f8c\u307b\u3069\u518d\u5b9f\u884c\u3057\u3066\u304f\u3060\u3055\u3044\u3002"},"form":{"badRequest":"\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002\u5f8c\u307b\u3069\u6539\u3081\u3066\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002"}},"jQuery":"jimdoGen002","isJimdoMobileApp":false,"bgConfig":{"id":139263224,"type":"picture","options":{"fixed":true},"images":[{"id":8783930924,"url":"https:\/\/image.jimcdn.com\/app\/cms\/image\/transf\/none\/path\/scf8fc96972d51f67\/backgroundarea\/i1918d2c64882ea3f\/version\/1478743278\/image.jpg","focalPointX":37.58334350589999672820340492762625217437744140625,"focalPointY":47.1739064092000006667149136774241924285888671875}]},"bgFullscreen":true,"responsiveBreakpointLandscape":767,"responsiveBreakpointPortrait":480,"copyableHeadlineLinks":false,"tocGeneration":false,"googlemapsConsoleKey":false,"loggingForAnalytics":false,"loggingForPredefinedPages":false,"isFacebookPixelIdEnabled":true,"userAccountId":"da2c4b52-df9f-4779-b6b5-815d09c65ac8","dmp":{"typesquareFontApiKey":"4L6CCYWjET8%3D","typesquareFontApiScriptUrl":"\/\/code.typesquare.com\/static\/4L6CCYWjET8%253D\/ts105.js","typesquareFontsAvailable":true}};
+    // ]]>
+</script>
+
+    <script type="text/javascript">if (document.cookie.indexOf('ga-disable-UA-81430409-2') != -1 || !window.CookieControl.isCookieAllowed('ga') || !window.CookieControl.isCookieAllowed('jimdo_analytics')) { window['ga-disable-UA-81430409-2'] = true; }if (document.cookie.indexOf('ga-disable-UA-24231837-122') != -1 || !window.CookieControl.isCookieAllowed('ga') || !window.CookieControl.isCookieAllowed('jimdo_analytics')) { window['ga-disable-UA-24231837-122'] = true; }</script> <script> (function(window) { 'use strict'; var regBuff = window.__regModuleBuffer = []; var regModuleBuffer = function() { var args = [].slice.call(arguments); regBuff.push(args); }; if (!window.regModule) { window.regModule = regModuleBuffer; } })(window); </script>
+    <script src="https://assets.jimstatic.com/web.js.3e4d406aeaf94e0d6464.js" async="true"></script>
+<meta name="google-site-verification" content="MatqowvuxCXPX_oSZcFDznl1ynTSACz2T3-Xo9iTV34"/>
+<meta name="google-site-verification" content="Liv7AzrX9ZqDCrsF0eTwIO7lrr2Ir4OcWZ7Y3RMu8RQ"/>
+<meta name="p:domain_verify" content="bf3e4d00df906ed873c3fcf1a3a151eb"/>
+
+<script async="async" src="https://www.googletagmanager.com/gtag/js?id=AW-833877646"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-833877646');
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+ function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-833877646/aPPkCJX-tIwBEI7tz40D', 'event_callback': callback }); return false; } 
+//]]>
+</script>
+
+<style type="text/css">
+/*<![CDATA[*/
+
+    .cc-m-gallery-cool-item a{
+
+        text-decoration:none;   
+
+    }
+
+    
+
+    .cc-m-gallery-cool-item a[data-title]:after{
+
+        content:attr(data-title);
+
+        display:block;
+
+        color:#000;
+
+        padding:0 0 10px;
+
+        font-size:11px;
+
+        text-align:center;
+
+        border:none;
+
+    }
+
+/*]]>*/
+</style>
+
+<meta name="p:domain_verify" content="d14e7fd57c8f3caf3743bcc19bd9ee39"/>
+    <script type="text/javascript">
+//<![CDATA[
+
+if(window.CookieControl.isCookieAllowed("fb_analytics")) {
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.agent='pljimdo';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '339433396856261');
+    fbq('track', 'PageView');
+}
+
+//]]>
+</script>
+</head>
+
+<body class="body cc-page j-has-shop j-m-gallery-styles j-m-video-styles j-m-hr-styles j-m-header-styles j-m-text-styles j-m-emotionheader-styles j-m-htmlCode-styles j-m-rss-styles j-m-form-styles-disabled j-m-table-styles j-m-textWithImage-styles j-m-downloadDocument-styles j-m-imageSubtitle-styles j-m-flickr-styles j-m-googlemaps-styles j-m-blogSelection-styles-disabled j-m-comment-styles-disabled j-m-jimdo-styles j-m-profile-styles j-m-guestbook-styles j-m-promotion-styles j-m-twitter-styles j-m-hgrid-styles j-m-shoppingcart-styles j-m-catalog-styles j-m-product-styles-disabled j-m-facebook-styles j-m-sharebuttons-styles j-m-formnew-styles-disabled j-m-callToAction-styles j-m-turbo-styles j-m-spacing-styles j-m-googleplus-styles j-m-dummy-styles j-m-search-styles j-m-booking-styles j-footer-styles cc-pagemode-overlay cc-content-parent" id="page-2404171724">
+
+<div id="cc-inner" class="cc-content-parent">
+  <!-- _main-sass -->
+  <input type="checkbox" id="jtpl-navigation__checkbox" class="jtpl-navigation__checkbox"/><div class="jtpl-main cc-content-parent">
+
+    <!-- _background-area.sass -->
+    <div class="jtpl-background-area" background-area="fullscreen"></div>
+    <!-- END _background-area.sass -->
+
+    <!-- _cart.sass -->
+    <div class="jtpl-cart">
+      <div id="cc-sidecart-wrapper"><script>// <![CDATA[
+
+    window.regModule("sidebar_shoppingcart", {"variant":"default","currencyLocale":"ja_JP","currencyFormat":{"pattern":"\u00a4#,##0","convertedPattern":"$#,##0","symbols":{"GROUPING_SEPARATOR":",","DECIMAL_SEPARATOR":".","CURRENCY_SYMBOL":"\uffe5"}},"tr":{"cart":{"subtotalText":"\u5c0f\u8a08","emptyBasketText":"\u30ab\u30fc\u30c8\u306e\u4e2d\u8eab\u304c\u7a7a\u3067\u3059"}}});
+// ]]>
+</script></div>
+    </div>
+    <!-- END _cart.sass -->
+
+    <!-- _header.sass -->
+    <div class="jtpl-header" background-area="stripe" background-area-default="">
+      <header class="jtpl-header__inner"><div class="jtpl-logo">
+          
+        </div>
+        <div class="jtpl-title">
+          <div id="cc-website-title" class="cc-single-module-element"><div id="cc-m-13584583924" class="j-module n j-header"><a href="https://www.borderlessart.or.jp/"><span class="cc-within-single-module-element j-website-title-content" id="cc-m-header-13584583924">一般社団法人 障がい者アート協会</span></a></div></div>
+        </div>
+      </header>
+</div>
+    <!-- END _header.sass -->
+
+    <!-- _mobile-navigation.sass -->
+    <div class="jtpl-mobile-topbar navigation-colors navigation-colors--transparency">
+      <label for="jtpl-navigation__checkbox" class="jtpl-navigation__label navigation-colors__menu-icon">
+        <span class="jtpl-navigation__borders navigation-colors__menu-icon"></span>
+      </label>
+    </div>
+    <div class="jtpl-mobile-navigation navigation-colors navigation-colors--transparency">
+      <div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2404171724" class="jmd-nav__list-item-0"><a href="/" data-link-title="ホーム">ホーム</a></li><li id="cc-nav-view-2603976724" class="jmd-nav__list-item-0"><a href="/ギャラリー/" data-link-title="ギャラリー">ギャラリー</a></li><li id="cc-nav-view-2413915424" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/アーティスト募集/" data-link-title="アーティスト募集">アーティスト募集</a><span data-navi-toggle="cc-nav-view-2413915424" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2823658024" class="jmd-nav__list-item-1"><a href="/アーティスト募集/団体登録について/" data-link-title="団体登録について">団体登録について</a></li></ul></li><li id="cc-nav-view-2819626024" class="jmd-nav__list-item-0"><a href="/障害年金無料相談/" data-link-title="障害年金無料相談">障害年金無料相談</a></li><li id="cc-nav-view-2625720224" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/応援する/" data-link-title="応援する！">応援する！</a><span data-navi-toggle="cc-nav-view-2625720224" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2592070324" class="jmd-nav__list-item-1"><a href="/応援する/マンスリーサポーターで応援/" data-link-title="寄付して応援！">寄付して応援！</a></li><li id="cc-nav-view-2823445424" class="jmd-nav__list-item-1"><a href="/応援する/つながる募金/" data-link-title="つながる募金">つながる募金</a></li><li id="cc-nav-view-2625720124" class="jmd-nav__list-item-1"><a href="/応援する/リサイクル寄付で応援/" data-link-title="不用品で応援！">不用品で応援！</a></li><li id="cc-nav-view-2823448024" class="jmd-nav__list-item-1"><a href="/応援する/買取金額を寄付-えがおプロジェクト/" data-link-title="買取金額を寄付「えがおプロジェクト」">買取金額を寄付「えがおプロジェクト」</a></li><li id="cc-nav-view-2800304724" class="jmd-nav__list-item-1"><a href="/応援する/本-cd-dvd-ゲームを寄付-キモチと/" data-link-title="本・CD・DVD・ゲームを寄付「キモチと。」">本・CD・DVD・ゲームを寄付「キモチと。」</a></li><li id="cc-nav-view-2800657824" class="jmd-nav__list-item-1"><a href="/応援する/ブランド品を寄付-ブランドプレッジ/" data-link-title="ブランド品を寄付「ブランドプレッジ」">ブランド品を寄付「ブランドプレッジ」</a></li><li id="cc-nav-view-2731377724" class="jmd-nav__list-item-1"><a href="/応援する/様々な物品を寄付-買取寄付カイトリ/" data-link-title="様々な物品を寄付「買取寄付カイトリ」">様々な物品を寄付「買取寄付カイトリ」</a></li><li id="cc-nav-view-2800662124" class="jmd-nav__list-item-1"><a href="/応援する/切手-金券を寄付-障がい者アート協会へ直接送付/" data-link-title="切手・金券を寄付「障がい者アート協会へ直接送付」">切手・金券を寄付「障がい者アート協会へ直接送付」</a></li><li id="cc-nav-view-2803984624" class="jmd-nav__list-item-1"><a href="/応援する/雛人形-五月人形を寄付-人形供養寄付/" data-link-title="雛人形・五月人形を寄付「人形供養寄付」">雛人形・五月人形を寄付「人形供養寄付」</a></li><li id="cc-nav-view-2625720024" class="jmd-nav__list-item-1"><a href="/応援する/ボランティアで応援/" data-link-title="ボランティアで応援！">ボランティアで応援！</a></li></ul></li><li id="cc-nav-view-2783001324" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/買う/" data-link-title="買う！">買う！</a><span data-navi-toggle="cc-nav-view-2783001324" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2734130424" class="jmd-nav__list-item-1"><a href="/買う/雑貨/" data-link-title="雑貨">雑貨</a></li><li id="cc-nav-view-2758122824" class="jmd-nav__list-item-1"><a href="/買う/電子書籍/" data-link-title="電子書籍">電子書籍</a></li><li id="cc-nav-view-2807981024" class="jmd-nav__list-item-1"><a href="/買う/障がい者アート協会の商品販売/" data-link-title="障がい者アート協会の商品販売">障がい者アート協会の商品販売</a></li><li id="cc-nav-view-2812667424" class="jmd-nav__list-item-1"><a href="/買う/特定商取引法に基づく表示/" data-link-title="特定商取引法に基づく表示">特定商取引法に基づく表示</a></li></ul></li><li id="cc-nav-view-2413931324" class="jmd-nav__list-item-0"><a href="/ご賛同企業/" data-link-title="ご協賛企業">ご協賛企業</a></li><li id="cc-nav-view-2786082024" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/sdgs/" data-link-title="SDGs">SDGs</a><span data-navi-toggle="cc-nav-view-2786082024" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2808905024" class="jmd-nav__list-item-1"><a href="/sdgs/企業コラボレーション/" data-link-title="企業コラボレーション">企業コラボレーション</a></li></ul></li><li id="cc-nav-view-2626685424" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/企業-法人様へ/" data-link-title="企業・法人様へ">企業・法人様へ</a><span data-navi-toggle="cc-nav-view-2626685424" class="jmd-nav__toggle-button"></span><ul class="cc-nav-level-1 j-nav-level-1"><li id="cc-nav-view-2776796824" class="jmd-nav__list-item-1"><a href="/企業-法人様へ/ノベルティつくります/" data-link-title="ノベルティつくります">ノベルティつくります</a></li><li id="cc-nav-view-2604238624" class="jmd-nav__list-item-1"><a href="/商品化について/" data-link-title="商品化について">商品化について</a></li><li id="cc-nav-view-2754231524" class="jmd-nav__list-item-1"><a href="/企業-法人様へ/2021パラリンピック/" data-link-title="2021パラリンピック">2021パラリンピック</a></li><li id="cc-nav-view-2737052624" class="jmd-nav__list-item-1"><a href="/企業-法人様へ/まちかど障がい者アートギャラリー/" data-link-title="まちかど障がい者アートギャラリー">まちかど障がい者アートギャラリー</a></li><li id="cc-nav-view-2750759124" class="jmd-nav__list-item-1"><a href="/企業-法人様へ/賛同署名/" data-link-title="【賛同署名】">【賛同署名】</a></li></ul></li><li id="cc-nav-view-2822186224" class="jmd-nav__list-item-0"><a href="/可能性アート作品-プリマグラフィー-販売/" data-link-title="可能性アート作品(プリマグラフィー)販売">可能性アート作品(プリマグラフィー)販売</a></li><li id="cc-nav-view-2803132624" class="jmd-nav__list-item-0"><a href="/結果発表-可能性アートプロジェクト2020/" data-link-title="＜結果発表＞可能性アートプロジェクト2020">＜結果発表＞可能性アートプロジェクト2020</a></li><li id="cc-nav-view-2408881324" class="jmd-nav__list-item-0"><a href="/団体概要/" data-link-title="団体概要">団体概要</a></li><li id="cc-nav-view-2404171924" class="jmd-nav__list-item-0"><a href="/お問合わせ/" data-link-title="お問合わせ">お問合わせ</a></li></ul></div></div>
+    </div>
+    <!-- END _mobile-navigation.sass -->
+
+    <!-- _navigation.sass -->
+    <div class="jtpl-navigation">
+      <div class="jtpl-navigation__main navigation-colors">
+        <div class="jtpl-navigation__main--inner navigation-alignment">
+          <div data-container="navigation"><div class="j-nav-variant-nested"><ul class="cc-nav-level-0 j-nav-level-0"><li id="cc-nav-view-2404171724" class="jmd-nav__list-item-0"><a href="/" data-link-title="ホーム">ホーム</a></li><li id="cc-nav-view-2603976724" class="jmd-nav__list-item-0"><a href="/ギャラリー/" data-link-title="ギャラリー">ギャラリー</a></li><li id="cc-nav-view-2413915424" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/アーティスト募集/" data-link-title="アーティスト募集">アーティスト募集</a><span data-navi-toggle="cc-nav-view-2413915424" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2819626024" class="jmd-nav__list-item-0"><a href="/障害年金無料相談/" data-link-title="障害年金無料相談">障害年金無料相談</a></li><li id="cc-nav-view-2625720224" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/応援する/" data-link-title="応援する！">応援する！</a><span data-navi-toggle="cc-nav-view-2625720224" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2783001324" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/買う/" data-link-title="買う！">買う！</a><span data-navi-toggle="cc-nav-view-2783001324" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2413931324" class="jmd-nav__list-item-0"><a href="/ご賛同企業/" data-link-title="ご協賛企業">ご協賛企業</a></li><li id="cc-nav-view-2786082024" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/sdgs/" data-link-title="SDGs">SDGs</a><span data-navi-toggle="cc-nav-view-2786082024" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2626685424" class="jmd-nav__list-item-0 j-nav-has-children"><a href="/企業-法人様へ/" data-link-title="企業・法人様へ">企業・法人様へ</a><span data-navi-toggle="cc-nav-view-2626685424" class="jmd-nav__toggle-button"></span></li><li id="cc-nav-view-2822186224" class="jmd-nav__list-item-0"><a href="/可能性アート作品-プリマグラフィー-販売/" data-link-title="可能性アート作品(プリマグラフィー)販売">可能性アート作品(プリマグラフィー)販売</a></li><li id="cc-nav-view-2803132624" class="jmd-nav__list-item-0"><a href="/結果発表-可能性アートプロジェクト2020/" data-link-title="＜結果発表＞可能性アートプロジェクト2020">＜結果発表＞可能性アートプロジェクト2020</a></li><li id="cc-nav-view-2408881324" class="jmd-nav__list-item-0"><a href="/団体概要/" data-link-title="団体概要">団体概要</a></li><li id="cc-nav-view-2404171924" class="jmd-nav__list-item-0"><a href="/お問合わせ/" data-link-title="お問合わせ">お問合わせ</a></li></ul></div></div>
+        </div>
+      </div>
+      <div class="jtpl-navigation__sub subnavigation-colors">
+        <nav class="jtpl-navigation__sub--inner navigation-alignment"><div data-container="navigation"><div class="j-nav-variant-nested"></div></div>
+          <div data-container="navigation"><div class="j-nav-variant-nested"></div></div>
+        </nav>
+</div>
+    </div>
+    <!-- END _navigation.sass -->
+
+    <!-- _content.sass -->
+    <div class="jtpl-content content-options cc-content-parent">
+      <div class="jtpl-content__inner cc-content-parent">
+        <div id="content_area" data-container="content"><meta name="jimdo-status-code" content="404"/><h1>お探しのページが見つかりません</h1><br/><p>ご指定のurlが変更になった、もしくは削除された可能性がございます. <a href="https://www.borderlessart.or.jp/">ページに戻る</a></p><br/><br/>
+<div class="j-static-page"><h1 class="n">サイトマップ</h1>
+<ul class="sitemap"><li><a href="/">ホーム</a></li>
+<li><a href="/ギャラリー/">ギャラリー</a></li>
+<li><a href="/アーティスト募集/">アーティスト募集</a></li>
+<li><ul class="sitemap"><li><a href="/アーティスト募集/団体登録について/">団体登録について</a></li>
+</ul></li><li><a href="/障害年金無料相談/">障害年金無料相談</a></li>
+<li><a href="/応援する/">応援する！</a></li>
+<li><ul class="sitemap"><li><a href="/応援する/マンスリーサポーターで応援/">寄付して応援！</a></li>
+<li><a href="/応援する/つながる募金/">つながる募金</a></li>
+<li><a href="/応援する/リサイクル寄付で応援/">不用品で応援！</a></li>
+<li><a href="/応援する/買取金額を寄付-えがおプロジェクト/">買取金額を寄付「えがおプロジェクト」</a></li>
+<li><a href="/応援する/本-cd-dvd-ゲームを寄付-キモチと/">本・CD・DVD・ゲームを寄付「キモチと。」</a></li>
+<li><a href="/応援する/ブランド品を寄付-ブランドプレッジ/">ブランド品を寄付「ブランドプレッジ」</a></li>
+<li><a href="/応援する/様々な物品を寄付-買取寄付カイトリ/">様々な物品を寄付「買取寄付カイトリ」</a></li>
+<li><a href="/応援する/切手-金券を寄付-障がい者アート協会へ直接送付/">切手・金券を寄付「障がい者アート協会へ直接送付」</a></li>
+<li><a href="/応援する/雛人形-五月人形を寄付-人形供養寄付/">雛人形・五月人形を寄付「人形供養寄付」</a></li>
+<li><a href="/応援する/ボランティアで応援/">ボランティアで応援！</a></li>
+</ul></li><li><a href="/買う/">買う！</a></li>
+<li><ul class="sitemap"><li><a href="/買う/雑貨/">雑貨</a></li>
+<li><a href="/買う/電子書籍/">電子書籍</a></li>
+<li><a href="/買う/障がい者アート協会の商品販売/">障がい者アート協会の商品販売</a></li>
+<li><a href="/買う/特定商取引法に基づく表示/">特定商取引法に基づく表示</a></li>
+</ul></li><li><a href="/ご賛同企業/">ご協賛企業</a></li>
+<li><a href="/sdgs/">SDGs</a></li>
+<li><ul class="sitemap"><li><a href="/sdgs/企業コラボレーション/">企業コラボレーション</a></li>
+</ul></li><li><a href="/企業-法人様へ/">企業・法人様へ</a></li>
+<li><ul class="sitemap"><li><a href="/企業-法人様へ/ノベルティつくります/">ノベルティつくります</a></li>
+<li><a href="/商品化について/">商品化について</a></li>
+<li><a href="/企業-法人様へ/2021パラリンピック/">2021パラリンピック</a></li>
+<li><a href="/企業-法人様へ/まちかど障がい者アートギャラリー/">まちかど障がい者アートギャラリー</a></li>
+<li><a href="/企業-法人様へ/賛同署名/">【賛同署名】</a></li>
+<li><a href="/ga計測用ページ/リサイクル寄付-dvd-本-以外-のモノのご寄付はコチラからお申込ください-キモチト/">リサイクル寄付：DVD・本「以外」のモノのご寄付はコチラからお申込ください。キモチト</a></li>
+<li><a href="/イベントページインデックス/2020-07-21-作品人気投票/">2020-07-21　作品人気投票</a></li>
+</ul></li><li><a href="/可能性アート作品-プリマグラフィー-販売/">可能性アート作品(プリマグラフィー)販売</a></li>
+<li><a href="/結果発表-可能性アートプロジェクト2020/">＜結果発表＞可能性アートプロジェクト2020</a></li>
+<li><a href="/団体概要/">団体概要</a></li>
+<li><a href="/お問合わせ/">お問合わせ</a></li>
+</ul><br/>
+<h2>ブログ</h2><ul class="sitemap">
+<li><a href="/2020/10/15/障がい者アート年賀状の販売/">2020年10月15日 - 【障がい者アート年賀状の販売】</a></li><li><a href="/2020/10/14/ノベルティカタログできました/">2020年10月14日 - 【ノベルティカタログできました！】</a></li><li><a href="/2020/10/01/ソフトバンクのスマホやpcから簡単に寄付ができる-つながる募金-を開始しました/">2020年10月01日 - ソフトバンクのスマホやPCから簡単に寄付ができる「つながる募金」を開始しました。</a></li><li><a href="/2020/09/16/名古屋で40年以上の歴史のあるギャラリーバー-人人-じんじん-での作品展示の募集/">2020年09月16日 - 名古屋で40年以上の歴史のあるギャラリーバー「人人（じんじん）」での作品展示の募集</a></li><li><a href="/2020/09/15/可能性アートプロジェクト-2020-凸版印刷-障がい者アート協会/">2020年09月15日 - 【可能性アートプロジェクト 2020＠凸版印刷✕障がい者アート協会】</a></li><li><a href="/2020/09/10/可能性アート作品-プリマグラフィー-の販売開始/">2020年09月10日 - 可能性アート作品(プリマグラフィー)の販売開始</a></li><li><a href="/2020/08/28/人形供養寄付があたらしくなりました/">2020年08月28日 - 人形供養寄付があたらしくなりました！</a></li><li><a href="/2020/08/06/2020-06-30-登録障がい者アーティストへの経済的支援/">2020年08月06日 - 2020/06/30：登録障がい者アーティストへの経済的支援</a></li><li><a href="/2020/08/06/新型コロナウイルスと闘うみんなを応援する作品を募集/">2020年08月06日 - 新型コロナウイルスと闘うみんなを応援する作品を募集</a></li><li><a href="/2020/08/06/ネットスクウェア-障がい者アート協会-2021年年賀状-デザインコンテスト/">2020年08月06日 - ネットスクウェア×障がい者アート協会【2021年年賀状】デザインコンテスト</a></li><li><a href="/2020/07/29/登録アーティスト向け新サービス/">2020年07月29日 - 【登録アーティスト向け新サービス】障害年金無料相談</a></li><li><a href="/2020/06/14/今年の夏は尋常じゃない-障がい者アートtシャツで乗り切ろう/">2020年06月15日 - 今年の夏は尋常じゃない！障がい者アートTシャツで乗り切ろう！</a></li><li><a href="/2020/05/27/公園が美術館に/">2020年05月27日 - 【公園が美術館に？】</a></li><li><a href="/2020/05/21/公開作品数-10000点突破/">2020年05月21日 - 【公開作品数　10000点突破】</a></li><li><a href="/2020/05/09/モノで寄付する-キモチと-に寄付してみました-no-2/">2020年05月09日 - モノで寄付する「キモチと。」に寄付してみました！No.2</a></li><li><a href="/2020/05/07/メディア紹介-tokyo-fm-サステナ-デイズ-5-7/">2020年05月07日 - 【メディア紹介： TOKYO FM_サステナ＊デイズ（5/7）】</a></li><li><a href="/2020/05/04/スキーム概要/">2020年05月04日 - イメージ図</a></li><li><a href="/2020/05/01/メディア掲載-法務関連/">2020年05月01日 - 【メディア掲載：法務関連】</a></li><li><a href="/2020/04/30/メディア紹介-no-6-サステナ-デイズ/">2020年04月30日 - 【メディア紹介：No.6 サステナ＊デイズ】</a></li><li><a href="/2020/04/29/モノで寄付する-キモチと-に寄付してみました-no-1/">2020年04月29日 - モノで寄付する「キモチと。」に寄付してみました！No.1</a></li><li><a href="/2020/04/28/可能性アートプロジェクト展2020-延期のお知らせ/">2020年04月28日 - 「可能性アートプロジェクト展2020」延期のお知らせ</a></li><li><a href="/2020/04/23/メディア紹介-no-5-サステナ-デイズ/">2020年04月23日 - 【メディア紹介：No.5 サステナ＊デイズ】</a></li><li><a href="/2020/04/23/メディア紹介-no-4-サステナ-デイズ/">2020年04月23日 - 【メディア紹介：No.4 サステナ＊デイズ】</a></li><li><a href="/2020/04/17/ラジオ番組のサイトにアートの輪アート作品が採用されました/">2020年04月16日 - 【メディア紹介：No.3 サステナ＊デイズ】</a></li><li><a href="/2020/04/17/メディア紹介-サステナ-デイズ-続報/">2020年04月09日 - 【メディア紹介：No.2 FM東京_サステナ＊デイズ】</a></li><li><a href="/2020/04/02/ラジオ番組のサイトにアートの輪アート作品が採用されました/">2020年04月02日 - 【メディア紹介：No.1 FM東京_サステナ＊デイズ】</a></li><li><a href="/2020/03/31/2020-03-31-登録障がい者アーティストへの経済的支援/">2020年03月31日 - 2020/03/31：登録障がい者アーティストへの経済的支援</a></li><li><a href="/2020/03/30/まちかど障がい者アートギャラリー-第８弾/">2020年03月30日 - 【まちかど障がい者アートギャラリー_第８弾】</a></li><li><a href="/2020/03/27/こんなことできるんです-トラックのラッピング/">2020年03月27日 - 【こんなことできるんです】トラックのラッピング</a></li><li><a href="/2020/03/17/人形供養寄付はじまりました/">2020年03月17日 - 人形供養寄付はじまりました。</a></li><li><a href="/2020/03/01/アートの輪全体追加メンテナンス終了/">2020年03月01日 - 【アートの輪全体追加メンテナンス終了】</a></li><li><a href="/2020/02/26/アートの輪追加全体メンテナンス/">2020年02月26日 - 【アートの輪追加全体メンテナンス】</a></li><li><a href="/2020/02/23/アートの輪全体メンテナンス終了/">2020年02月23日 - 【アートの輪全体メンテナンス終了】</a></li><li><a href="/2020/02/18/アートの輪全体メンテナンス/">2020年02月18日 - 【アートの輪全体メンテナンス】</a></li><li><a href="/2020/02/05/アートの輪作品のfacebookでの広報が1日2回になりました/">2020年02月05日 - アートの輪作品のFacebookでの広報が1日3回になりました！</a></li><li><a href="/2020/01/24/まちかど障がい者アートギャラリー-vol-8/">2020年01月24日 - 【まちかど障がい者アートギャラリー　Vol.8】</a></li><li><a href="/2019/12/11/あたらしい物品寄付-キモチと/">2019年12月13日 - あたらしい物品寄付「キモチと。」</a></li><li><a href="/2019/12/02/可能性アートプロジェクト2020募集終了/">2019年12月02日 - 可能性アートプロジェクト2020募集終了</a></li><li><a href="/2019/10/31/障がい者アート協会ギャラリーサイト-アートの輪-復旧のおしらせ/">2019年10月31日 - 障がい者アート協会ギャラリーサイト「アートの輪」復旧のおしらせ</a></li><li><a href="/2019/10/15/ネットスクウェア-障がい者アート協会-2020年年賀状-採用作品ページが公開されました/">2019年10月15日 - ネットスクウェア×障がい者アート協会 【2020年年賀状】採用作品ページが公開されました！</a></li><li><a href="/2019/10/07/新しい寄付-電力会社切りかえで応援/">2019年10月07日 - 【新しい寄付】電力会社切りかえで応援！</a></li><li><a href="/2019/08/07/障がい者アート協会-カレンダーイラストコンテスト/">2019年08月07日 - 【障がい者アート協会】カレンダーイラストコンテスト</a></li><li><a href="/2019/08/02/ネットスクウェア-障がい者アート協会-2020年年賀状-作品募集/">2019年08月02日 - ネットスクウェア×障がい者アート協会 【2020年年賀状】作品募集</a></li><li><a href="/2019/07/05/共同プロジェクト-可能性アートプロジェクト2020開始/">2019年07月05日 - 【共同プロジェクト】可能性アートプロジェクト2020開始</a></li><li><a href="/2019/06/02/企業案件-ロゴコンペ6-7応募締め切りまで/">2019年06月02日 - 【企業案件】ロゴコンペ6/7応募締め切りまで</a></li><li><a href="/2019/05/07/企業案件-暑中見舞い商品のデザインを募集開始しました/">2019年05月07日 - 【企業案件】暑中見舞い商品のデザインを募集開始しました！</a></li><li><a href="/2019/04/01/2019年3月分のシャディカタログギフト寄付/">2019年04月01日 - 2019年3月分のシャディカタログギフト寄付</a></li><li><a href="/2019/03/29/2019年2月分のリサイクル寄付/">2019年04月01日 - 2019年2月分のリサイクル寄付</a></li><li><a href="/2019/03/16/アート作品募集-埼玉県草加市/">2019年03月16日 - 【アート作品募集】埼玉県越谷市</a></li><li><a href="/2019/03/16/アート作品募集-埼玉県春日部市/">2019年03月16日 - 【アート作品募集】埼玉県草加市</a></li><li><a href="/2019/03/05/2019年1月分のシャディカタログギフト寄付/">2019年03月05日 - 2019年2月分のシャディカタログギフト寄付</a></li><li><a href="/2019/03/05/池袋-仙行寺-沙羅ホールにて展示会をおこないました/">2019年03月05日 - 池袋 仙行寺 沙羅ホールにて展示会をおこないました</a></li><li><a href="/2019/02/27/横浜市-塩野義製薬共催のイベント告知ウェブチラシににアートの輪作品がつかわれました/">2019年02月27日 - 横浜市×塩野義製薬共催のイベント告知ウェブチラシににアートの輪作品がつかわれました！</a></li><li><a href="/2019/02/26/まちかど障がい者アートギャラリー-第6弾-第7弾/">2019年02月26日 - まちかど障がい者アートギャラリー【第6弾・第7弾】</a></li><li><a href="/2019/02/22/まちかど障がい者アートギャラリー-第5弾-が実施/">2019年02月22日 - まちかど障がい者アートギャラリー【第5弾】が実施</a></li><li><a href="/2019/02/17/決算報告書を公開しました/">2019年02月17日 - 決算報告書を公開しました。</a></li><li><a href="/2019/02/14/アートの輪の作品が使用されたアイテムのネットショップがオープン/">2019年02月14日 - アートの輪の作品が使用されたアイテムのネットショップがオープン！</a></li><li><a href="/2019/02/01/株式会社エコリング/">2019年02月12日 - 株式会社エコリング</a></li><li><a href="/2019/02/07/ネットスクウェア様のサイトに-2019年-亥年-年賀状デザインコンテスト-結果発表-表彰式レポートが掲載されました/">2019年02月07日 - ネットスクウェア様のサイトに「2019年 亥年 年賀状デザインコンテスト」結果発表＆表彰式レポートが掲載されました。</a></li><li><a href="/2019/01/14/アートの輪-更新障害復旧/">2019年01月14日 - 【アートの輪 更新障害復旧】</a></li><li><a href="/2019/01/09/障害復旧-アートの輪の閲覧/">2019年01月09日 - 【障害復旧】アートの輪の閲覧</a></li><li><a href="/2018/12/25/障害発生-アートの輪/">2018年12月25日 - 【障害発生】アートの輪</a></li><li><a href="/2018/12/16/beyond2020プログラムに認証されました/">2018年12月16日 - beyond2020プログラムに認証されました。</a></li><li><a href="/2018/12/13/コラボレーション商品販売/">2018年12月13日 - 【コラボレーション商品販売】</a></li><li><a href="/2018/11/17/コラボレーションtシャツ販売/">2018年11月17日 - 【コラボレーションTシャツ販売】</a></li><li><a href="/2018/11/14/イオンモール春日部-アートの輪プロジェクト-館内の工事用仮囲いを巨大な障がい者アートギャラリーとして活用/">2018年11月14日 - 【イオンモール春日部×アートの輪プロジェクト】館内の工事用仮囲いを巨大な障がい者アートギャラリーとして活用</a></li><li><a href="/2018/10/30/2018年9月-シャディカタログギフト寄付のご報告/">2018年10月30日 - 【2018年9月】シャディカタログギフト寄付のご報告</a></li><li><a href="/2018/10/18/2019年年賀状-ネットスクウェア-障がい者アート協会/">2018年10月18日 - 【2019年年賀状】ネットスクウェア×障がい者アート協会</a></li><li><a href="/2018/09/28/2018年8月-シャディカタログギフト寄付のご報告/">2018年09月28日 - 【2018年8月】シャディカタログギフト寄付のご報告</a></li><li><a href="/2018/09/14/きらめきプラス-vol68-神無月-かけがえのない一枚の絵-に掲載されました/">2018年09月14日 - きらめきプラス　Vol68　神無月「かけがえのない一枚の絵」に掲載されました。</a></li><li><a href="/2018/08/21/デザイン募集-企業キャラクターリライト/">2018年08月21日 - 【デザイン募集】企業キャラクターリライト二次募集</a></li><li><a href="/2018/08/07/デザイン募集-企業キャラクターリライト/">2018年08月07日 - 【デザイン募集】企業キャラクターリライト</a></li><li><a href="/2018/08/07/ウェブサイト-コンサルティング会社様/">2018年08月07日 - 【ウェブサイト】コンサルティング会社様</a></li><li><a href="/2018/08/07/ノベルティ-インビテーション-国内靴メーカー企業様/">2018年08月07日 - 【ノベルティ・インビテーション】国内靴メーカー企業様</a></li><li><a href="/2018/08/07/進行中-ふるさと納税返礼品-商品化/696243724">2018年08月07日 - 【作品レンタル】海外デジタルデバイスメーカー様</a></li><li><a href="/2018/08/07/進行中-ふるさと納税返礼品-商品化/">2018年08月07日 - 【作品売買】アート関連企業様</a></li><li><a href="/2018/08/07/進行中-リサイクルチェーン企業様-ノベルティグッズ/">2018年08月07日 - 【商品化】ふるさと納税返礼品</a></li><li><a href="/2018/08/07/進行中-リハビリテーション関連団体様-ノベルティグッズ/696243424">2018年08月07日 - 【ノベルティグッズ】リサイクルチェーン企業様</a></li><li><a href="/2018/08/07/進行中-リハビリテーション関連団体様-ノベルティグッズ/">2018年08月07日 - 【ノベルティグッズ】リハビリテーション関連団体様</a></li><li><a href="/2018/08/07/アート作品募集-2019年年賀状デザイン/">2018年08月07日 - 【アート作品募集】2019年年賀状デザイン案件１</a></li><li><a href="/2018/08/07/アート作品募集-埼玉県春日部市/">2018年08月07日 - 【アート作品募集】2019年年賀状デザイン案件２</a></li><li><a href="/2018/08/07/アート作品募集-茨城県/">2018年08月07日 - 【アート作品募集】埼玉県春日部市</a></li><li><a href="/2018/08/07/アート作品募集/">2018年08月07日 - 【アート作品募集】茨城県</a></li><li><a href="/2018/07/04/ヒューフレディ-ジャパン合同会社/">2018年07月04日 - ヒューフレディ・ジャパン合同会社様にご協賛いただきました。</a></li><li><a href="/2018/07/02/ネットスクウェア株式会社様にご協賛いただきました/">2018年07月02日 - ネットスクウェア株式会社様にご協賛いただきました。</a></li><li><a href="/2018/06/12/株式会社プリントパック様/">2018年06月12日 - 株式会社プリントパック様</a></li><li><a href="/2018/06/12/株式会社プリントパック様が協賛企業として参加されました/">2018年06月12日 - 株式会社プリントパック様にご協賛いただきました。</a></li><li><a href="/2018/05/02/障がい者アート普及の賛同署名のお願い/">2018年05月02日 - 【障がい者アート普及の賛同署名のお願い】</a></li><li><a href="/2018/04/30/2018年4月-シャディカタログギフト寄付のご報告/">2018年04月30日 - 【2018年4月】シャディカタログギフト寄付のご報告</a></li><li><a href="/2018/04/24/松本機械工業株式会社様にご協賛いただきました/">2018年04月24日 - 松本機械工業株式会社様にご協賛いただきました。</a></li><li><a href="/2018/04/18/きらめきプラスvol-64にアートの輪作品が掲載されました/">2018年04月18日 - きらめきプラスVol.64にアートの輪作品が掲載されました。</a></li><li><a href="/2018/04/13/まちかど障がい者アートギャラリーがショッパーの1面記事として掲載されました/">2018年04月13日 - まちかど障がい者アートギャラリーがショッパーの1面記事として掲載されました</a></li><li><a href="/2018/04/12/第6回-創作活動応援費の分配を実施しました/">2018年04月12日 - 【第6回】創作活動応援費の分配を実施しました。</a></li><li><a href="/2018/03/07/ブランド品で寄付ができる-brand-pledge-に参加しました/">2018年03月07日 - ブランド品で寄付ができる「Brand Pledge」に参加しました！</a></li><li><a href="/2018/03/06/アートの輪登録アーティストの作品を使ったスマホアプリがリリースされました/">2018年03月02日 - アートの輪登録アーティストの作品を使ったスマホアプリがリリースされました。</a></li><li><a href="/2018/02/27/日刊建設通信新聞にお-まちかど障がい者アートギャラリー-が掲載されました/">2018年02月27日 - 日刊建設通信新聞に「まちかど障がい者アートギャラリー」が掲載されました。</a></li><li><a href="/2018/02/26/障がい者アート協会プライバシーポリシーを更新しました/">2018年02月26日 - 障がい者アート協会プライバシーポリシーを更新しました。</a></li><li><a href="/2018/02/26/協働企業の日本セイフティー株式会社様のサイトに-まちかど障がい者アートギャラリー-のページができました/">2018年02月26日 - 協働企業の日本セイフティー株式会社様のサイトに「まちかど障がい者アートギャラリー」のページができました</a></li><li><a href="/2018/02/22/j-waveに出演しました/">2018年02月22日 - J-WAVEに出演しました。</a></li><li><a href="/2018/02/17/まちかど障がい者アートギャラリー第二弾が南品川にできました/">2018年02月17日 - まちかど障がい者アートギャラリー第二弾が南品川にできました！</a></li><li><a href="/2018/02/01/動物病院のサイトにアートの輪作品が採用されました/">2018年02月01日 - 動物病院のサイトにアートの輪作品が採用されました。</a></li><li><a href="/2018/01/29/2017年度収支報告書を掲載しました/">2018年01月29日 - 2017年度収支報告書を掲載しました。</a></li><li><a href="/2018/01/29/毎日新聞2018-01-29夕刊に弊協会の記事が載りました/">2018年01月29日 - 毎日新聞2018/01/29夕刊に弊協会の記事が載りました。</a></li><li><a href="/2018/01/26/メディア掲載履歴を新設しました/">2018年01月26日 - メディア掲載履歴を新設しました。</a></li><li><a href="/2018/01/11/メルマガ会員の募集を開始しました/">2018年01月11日 - メルマガ会員の募集を開始しました。</a></li><li><a href="/2018/01/01/2018年あけましておめでとうございます/">2018年01月01日 - 2018年あけましておめでとうございます。</a></li><li><a href="/2017/12/20/登録アーティストのrinaさんのイラストブック発売/">2017年12月20日 - 登録アーティストのRINAさんのイラストブック発売</a></li><li><a href="/2017/12/09/12-29から1-7の年末年始の休業について/">2017年12月09日 - 12/29から1/7の年末年始の休業について</a></li><li><a href="/2017/12/01/コラボレーション-glam-print-障がい者アート年賀状が始動/">2017年12月01日 - 【コラボレーション】GLAM PRINT ✕ 障がい者アート年賀状が始動</a></li><li><a href="/2017/11/22/障がい者アート年賀状の販売/">2017年11月22日 - 障がい者アート年賀状の販売</a></li><li><a href="/2017/11/20/始動-まちかど障がい者アートギャラリー-プロジェクト/">2017年11月20日 - 【始動！：まちかど障がい者アートギャラリー プロジェクト】</a></li><li><a href="/2017/10/25/障がい者アートグリーティングカードサービスの受付を開始しました/">2017年10月31日 - 障がい者アートグリーティングカードサービスの受付を開始しました。</a></li><li><a href="/2017/10/23/アートの輪より作品提供を行っている神崎千尋氏のchihirobo-collage2展が終了しました/">2017年10月23日 - アートの輪より作品提供を行っている神崎千尋氏のCHIHIROBO×COLLAGE2展が終了しました。</a></li><li><a href="/2017/10/23/きらめきプラス-vol59-霜月-かけがえのない一枚の絵-並びに-シリーズ-障がい者の人たちが生きやすくなるための社会-に掲載されました/">2017年10月23日 - きらめきプラス　Vol59　霜月「かけがえのない一枚の絵」並びに「シリーズ　障がい者の人たちが生きやすくなるための社会」に掲載されました。</a></li><li><a href="/2017/10/05/寄付買取プログラム-カイトリ-がスタートしました/">2017年10月05日 - 寄付買取プログラム「カイトリ」がスタートしました。</a></li><li><a href="/2017/10/04/シャディ-カタログギフト-as-you-like-に当協会のチャリティ商品が掲載されました/">2017年10月04日 - シャディ カタログギフト AS YOU LIKE に当協会のチャリティ商品が掲載されました。</a></li><li><a href="/http-kiramekiplus.com">2017年09月14日 - きらめきプラス　Vol58　神無月「かけがえのない一枚の絵」に掲載されました。</a></li><li><a href="/2017/09/06/ノベルティ-年賀状や来年の卓上カレンダーの申込受付けを開始しました/">2017年09月06日 - 【ノベルティ】年賀状や来年の卓上カレンダーの申込受付けを開始しました。</a></li><li><a href="/2017/09/04/スペシャルイベントリンク-chihirobo-collage2への素材提供作品-を公開しました/">2017年09月04日 - 【スペシャルイベントリンク】CHIHIROBO×COLLAGE2への素材提供作品　を公開しました。</a></li><li><a href="/2017/08/21/ヤフーニュースに掲載されました/">2017年08月21日 - ヤフーニュースに掲載されました。　https://headlines.yahoo.co.jp/hl?a=20170622-00010000-fukui-l18</a></li><li><a href="/2017/07/03/アートの輪の作品数が1000作品になりました/">2017年07月03日 - アートの輪の作品数が1000作品になりました。</a></li><li><a href="/2017/06/25/6-25より繋がりにくい状態が発生しておりましたギャラリーサイト-アートの輪-ですが-現在は復旧しており正常にアクセスできる状態になっております-ご迷惑おかけいたしました/">2017年06月25日 - 6/25より繋がりにくい状態が発生しておりましたギャラリーサイト「アートの輪」ですが、現在は復旧しており正常にアクセスできる状態になっております。ご迷惑おかけいたしました。</a></li><li><a href="/2017/06/25/サーバーメンテナンス/">2017年06月25日 - 2017/06/25 10時頃よりギャラリーサイト「アートの輪」に繋がりにくい状態が一時的に発生しております。ご迷惑おかけしております。</a></li><li><a href="/2017/06/22/2017-06-22-10時頃より発生しておりましたギャラリーサイト-アートの輪-へ接続しにくい状態は-本日のヤフーニュースに弊協会に関連する記事が掲載された事によるものでした-正常な接続の復旧は未定です-ご迷惑おかけしております/">2017年06月22日 - 2017/06/22 10時頃より発生しておりましたギャラリーサイト「アートの輪」へ接続しにくい状態は、本日のヤフーニュースに弊協会に関連する記事が掲載された事によるものでした。正常な接続の復旧は未定です。ご迷惑おかけしております。</a></li><li><a href="/2017/06/22/2017-06-22-10時頃よりギャラリーサイト-アートの輪-に繋がりにくい状態が発生しております/">2017年06月22日 - 2017/06/22 10時頃よりギャラリーサイト「アートの輪」に繋がりにくい状態が発生しております。</a></li><li><a href="/2017/06/19/2016年度上期活動報告書を公開しました/">2017年06月19日 - 2016年度上期活動報告書を公開しました。</a></li><li><a href="/2017/06/14/イベントギャラリーのページができました/">2017年06月14日 - イベントギャラリーのページができました！メニューの「ギャラリー」からご覧いただけます。</a></li><li><a href="/2017/05/25/2017-05-24より-にがおえサービス-開始しました/">2017年05月25日 - 2017/05/24より「にがおえサービス」開始しました！　「応援する！」よりご覧いただけます</a></li><li><a href="/2017/05/25/アートの輪の作品点数が900点を超えました/">2017年05月25日 - アートの輪の作品点数が900点を超えました。</a></li><li><a href="/2017/05/16/artwith社と継続的なアート作品提供に関して基本契約締結に至りました/">2017年05月16日 - Artwith社と継続的なアート作品提供に関して基本契約締結に至りました。</a></li><li><a href="/2017/05/16/公益財団法人日本チャリティ協会さまと-障がいのある人のアート活動支援事業-について提携して取り組んでまいることとなりました/">2017年05月16日 - 公益財団法人日本チャリティ協会さまと、「障がいのある人のアート活動支援事業」について提携して取り組んでまいることとなりました。</a></li><li><a href="/https-www.u-x3.com-?p=3589">2017年05月10日 - NTTクラルティ様が運営する当事者目線で伝えるみんなの「ユニバーサル」情報サイト「ゆうゆうゆう」に、障がい者アート協会のコンテンツが掲載されました。</a></li><li><a href="/2017/05/10/障がい者の描いたアート作品に-販売-の選択肢-のプレスリリースを行いました/">2017年05月10日 - 「障がい者の描いたアート作品に「販売」の選択肢」のプレスリリースを行いました</a></li><li><a href="/2017/04/18/アートの輪の作品数が800点を超えました/">2017年04月18日 - アートの輪の作品数が800点を超えました。</a></li><li><a href="/2017/04/12/2017-04-12-対象登録アーティスト-23名に通算4回めの-創作活動応援費-の分配をおこないました/">2017年04月12日 - 2017/04/12 対象登録アーティスト 23名に通算4回めの 創作活動応援費 の分配をおこないました。</a></li><li><a href="/2017/03/21/寄付規定とプライバシーポリシーをサイトに掲載しました/">2017年03月21日 - 寄付規定とプライバシーポリシーをサイトに掲載しました</a></li><li><a href="/2017/02/27/事業-活動内容-を更新しました/">2017年02月27日 - 事業・活動内容　を更新しました。</a></li><li><a href="/2017/02/11/団体概要-のページに2015年度の活動報告と収支報告を掲載しました/">2017年02月11日 - 団体概要　のページに2015年度の活動報告と収支報告を掲載しました。</a></li><li><a href="/2017/02/11/商品化について-のページにご提案例と実際の商品写真が掲載されました/">2017年02月11日 - 商品化について のページにご提案例と実際の商品写真が掲載されました。</a></li><li><a href="/2017/02/04/企業-法人様向けコンテンツを追加しました/">2017年02月04日 - 企業・法人様向けコンテンツを追加しました。</a></li><li><a href="/2016/01/26/株式会社神奈川ナブコ様/">2016年01月26日 - 株式会社神奈川ナブコ様</a></li><li><a href="/2016/01/06/武田製靴株式会社様/">2016年01月06日 - 武田製靴株式会社様</a></li><li><a href="/2015/12/17/株式会社愛紳照明様/">2015年12月17日 - 株式会社愛紳照明様</a></li><li><a href="/2015/10/28/小林織ネーム株式会社様/">2015年10月28日 - コバオリ株式会社様</a></li><li><a href="/2015/10/22/株式会社海神貿易様/">2015年10月22日 - 株式会社海神貿易様</a></li><li><a href="/2015/10/19/有限会社東方商事様/">2015年10月19日 - 有限会社東方商事様</a></li><li><a href="/2015/10/13/金鶴食品製菓株式会社様/">2015年10月13日 - 金鶴食品製菓株式会社様</a></li><li><a href="/2015/10/10/えばた歯科クリニック様/">2015年10月10日 - えばた歯科クリニック様</a></li><li><a href="/2015/07/28/かたぎりクリニック様/">2015年07月28日 - かたぎりクリニック様</a></li></ul>
+</div></div>
+      </div>
+    </div>
+    <!-- END _content.sass -->
+
+    <!-- _section-aside.sass -->
+    <footer class="jtpl-section-aside sidebar-options"><div class="jtpl-section-aside__inner">
+        <div data-container="sidebar"><div id="cc-matrix-3582907924"><div id="cc-m-13965893524" class="j-module n j-callToAction "><div class="j-calltoaction-wrapper j-calltoaction-align-3">
+    <a class="j-calltoaction-link j-calltoaction-link-style-1" data-action="button" href="/企業-法人様へ/" data-title="企業・法人様用ページへ">
+        企業・法人様用ページへ    </a>
+</div>
+</div><div id="cc-m-12638945224" class="j-module n j-sharebuttons ">
+<div class="cc-sharebuttons-element cc-sharebuttons-size-64 cc-sharebuttons-style-colored cc-sharebuttons-design-square cc-sharebuttons-align-center">
+
+
+    <a class="cc-sharebuttons-facebook" href="http://www.facebook.com/sharer.php?u=https://www.borderlessart.or.jp/&amp;t=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B" title="Facebook" target="_blank"></a><a class="cc-sharebuttons-twitter" href="http://twitter.com/share?text=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B&amp;url=https%3A%2F%2Fwww.borderlessart.or.jp%2F" title="Twitter" target="_blank"></a><a class="cc-sharebuttons-linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.borderlessart.or.jp/&amp;title=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B" title="LinkedIn" target="_blank"></a><a class="cc-sharebuttons-reddit" href="http://reddit.com/submit?url=https://www.borderlessart.or.jp/&amp;title=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B" title="Reddit" target="_blank"></a><a class="cc-sharebuttons-line" href="http://line.me/R/msg/text/?%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B%0Ahttps://www.borderlessart.or.jp/" title="Line" target="_blank"></a><a class="cc-sharebuttons-hatena" href="http://b.hatena.ne.jp/entry/panel/?url=https://www.borderlessart.or.jp/&amp;btitle=%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%82%A2%E3%83%BC%E3%83%88%E3%82%92%E7%A4%BE%E4%BC%9A%E3%81%AB%E5%BA%83%E3%82%81%E3%82%8B" title="Hatena" target="_blank"></a>
+
+</div>
+</div><div id="cc-m-13566536024" class="j-module n j-htmlCode "><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KC8QLZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script type="text/javascript">
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KC8QLZ');
+//]]>
+</script><!-- End Google Tag Manager --></div><div id="cc-m-14665370424" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-15570641824" class="j-module n j-text "><p>
+    <span style="color: #000000;">協賛いただきました企業様一覧</span>
+</p></div><div id="cc-m-15570520724" class="j-module n j-gallery "><div class="cc-m-gallery-container ccgalerie clearover" id="cc-m-gallery-15570520724">
+            <div class="thumb_pro3" id="gallery_thumb_9859354324" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="https://www.borderlessart.or.jp/2015/10/19/有限会社東方商事様/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/i50a143b5c87064a0/version/1571653963/image.jpg" data-orig-width="215" data-orig-height="38" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354424" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="https://www.kobaori.biz/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/if219f96c99511267/version/1571653940/image.png" data-orig-width="333" data-orig-height="88" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354524" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://katagiri-clinic.jp/index.html" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/i61881432acd89090/version/1571654024/image.jpg" data-orig-width="215" data-orig-height="56" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354624" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="https://www.eco-ring.com/corporate/company" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/i1f8c4f920e6d2a54/version/1571653940/image.png" data-orig-width="275" data-orig-height="139" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354724" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.printpac.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/ifa600dc31f2d9099/version/1571653940/image.png" data-orig-width="197" data-orig-height="76" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354824" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="https://eitaikuyou.net/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/i8ab52ebba68e5f88/version/1571654050/image.png" data-orig-width="275" data-orig-height="100" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859354924" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.kanazuru.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/i892fef53164e2143/version/1571653981/image.jpg" data-orig-width="215" data-orig-height="36" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355024" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.knabco.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/i54e002ac4cd29818/version/1571653940/image.jpg" data-orig-width="215" data-orig-height="27" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355124" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.mmkchuck.com/index.html" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/ic4a4c01d0b980927/version/1571653940/image.jpg" data-orig-width="2048" data-orig-height="1639" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355224" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.ebata-dc.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/ia0090423da3d6fb9/version/1571653998/image.png" data-orig-width="215" data-orig-height="30" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355324" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.hu-friedy.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/iacfea7cb118c748f/version/1571653940/image.jpg" data-orig-width="255" data-orig-height="100" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355424" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="https://a-tie.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=png/path/scf8fc96972d51f67/image/i8a573d66a7bccf08/version/1571654066/image.png" data-orig-width="255" data-orig-height="140" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355524" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.netsquare.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/dimension=120x120:format=jpg/path/scf8fc96972d51f67/image/i585850f23f0da474/version/1571653940/image.jpg" data-orig-width="360" data-orig-height="76" alt=""/></a>            </div>
+        </div>
+            <div class="thumb_pro3" id="gallery_thumb_9859355624" style="width:126px; height:126px;">
+            <div class="innerthumbnail" style="width:126px; height:126px;">
+                <a href="http://www.kaijin.co.jp/" target="_blank"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/scf8fc96972d51f67/image/iedd22e8b27ec083f/version/1571653944/image.jpg" data-orig-width="101" data-orig-height="48" alt=""/></a>            </div>
+        </div>
+    </div>
+<script id="cc-m-reg-15570520724">// <![CDATA[
+
+    window.regModule("module_gallery", {"view":"1","countImages":14,"variant":"default","selector":"#cc-m-gallery-15570520724","imageCount":14,"enlargeable":"1","multiUpload":true,"autostart":1,"pause":"4","showSliderThumbnails":1,"coolSize":"1","coolPadding":"3","stackCount":"3","stackPadding":"3","options":{"pinterest":"0"},"id":15570520724});
+// ]]>
+</script></div><div id="cc-m-15563605024" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1 cc-m-width-maxed">
+<a href="/sdgs/"><img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg 960w, https://image.jimcdn.com/app/cms/image/transf/dimension=1050x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg 1050w, https://image.jimcdn.com/app/cms/image/transf/none/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg 1070w" sizes="(min-width: 1050px) 1050px, 100vw" id="cc-m-imagesubtitle-image-15563605024" src="https://image.jimcdn.com/app/cms/image/transf/dimension=1050x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg" alt="" class="" data-src-width="1070" data-src-height="757" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=1050x10000:format=jpg/path/scf8fc96972d51f67/image/idd2fddd2070e9cf5/version/1571654146/image.jpg" data-image-id="9854310424"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-15563605024">// <![CDATA[
+
+    window.regModule("module_imageSubtitle", {"data":{"imageExists":true,"hyperlink":"\/app\/scf8fc96972d51f67\/pc4e72bc64541e581\/","hyperlink_target":"","hyperlinkAsString":"SDGs","pinterest":"0","id":15563605024,"widthEqualsContent":"1","resizeWidth":"1050","resizeHeight":743},"id":15563605024});
+// ]]>
+</script></div><div id="cc-m-14665368024" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-4299643724"><div id="cc-m-14890881024" class="j-module n j-search "><div class="j-search-wrapper j-search-alignment-0">
+    <div class="j-search-content" style="width: 100%;">
+        <form action="/search" class="j-formnew">
+            <span class="cc-m-form-view-sortable">
+                <input type="text" class="j-search-input" aria-label="Search" name="q" placeholder="検索する" value=""/>
+                <input type="hidden" name="filter" value="0"/>
+                <input type="hidden" name="module" value="14890881024"/>
+                <button type="submit" style="display: none"/>
+            </span>
+        </form>
+    </div>
+</div>
+<script id="cc-m-reg-14890881024">// <![CDATA[
+
+    window.regModule("module_search", {"alignment":"0","width":"100","filter":"0","placeholder":"\u691c\u7d22\u3059\u308b","id":14890881024});
+// ]]>
+</script></div><div id="cc-m-14802537624" class="j-module n j-callToAction "><div class="j-calltoaction-wrapper j-calltoaction-align-2">
+    <a class="j-calltoaction-link j-calltoaction-link-style-3" data-action="button" href="/メルマガ会員/" data-title="障がい者アート協会からのおしらせを受け取る">
+        障がい者アート協会からのおしらせを受け取る    </a>
+</div>
+</div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-4299643824"><div id="cc-m-14665368424" class="j-module n j-text "><p>
+    <span style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;">Borderless Art Organisation は Google Ad Grants の参加団体です。Google Ad Grants プログラムは、Google
+    の社会貢献の理念に賛同し、世界各国において科学技術、教育、公</span><wbr style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;"/><span style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;">衆衛生、環境問題、若年者の支援、および芸術などの分野の発展に</span><wbr style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;"/><span style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;">貢献する登録非営利団体を対象としています。Google Ad Grants は、Google AdWords
+    を介したオンライン広告の掲載機会を非営利団体に無料で提供する</span><wbr style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;"/><span style="color: #222222; font-family: arial, sans-serif; font-size: 14px; background-color: #ffffff;">広告プログラムです。</span>
+</p></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div></div></div>
+      </div>
+      <div class="jtpl-footer footer-options"><div id="contentfooter" data-container="footer">
+
+    
+    <div class="j-meta-links">
+        <a href="//www.borderlessart.or.jp/j/shop/terms">利用規約</a> | <a href="//www.borderlessart.or.jp/j/shop/withdrawal">返金条件と返品取消申請書</a> | <a href="//www.borderlessart.or.jp/j/privacy">プライバシーポリシー</a> | <a id="cookie-policy" href="//www.borderlessart.or.jp/j/cookies/policy">Cookie ポリシー</a> | <a href="/sitemap/">サイトマップ</a><br/>©2015 BorderlessArtOrganization    </div>
+
+    <div class="j-admin-links">
+        
+<span class="loggedin">
+    <a rel="nofollow" id="logout" target="_top" href="https://cms.e.jimdo.com/app/cms/logout.php">
+        ログアウト    </a>
+    |
+    <a rel="nofollow" id="edit" target="_top" href="https://a.jimdo.com/app/auth/signin/jumpcms/?page=2404171724">編集</a>
+</span>
+        </div>
+
+    
+</div>
+</div>
+    </footer><!-- END _section-aside.sass -->
+</div>
+  <!-- END _main-sass -->
+
+</div>
+    <ul class="cc-FloatingButtonBarContainer cc-FloatingButtonBarContainer-right hidden">
+
+                    <!-- scroll to top button -->
+            <li class="cc-FloatingButtonBarContainer-button-scroll">
+                <a href="javascript:void(0);" title="トップへ戻る">
+                    <span>トップへ戻る</span>
+                </a>
+            </li>
+            <script>// <![CDATA[
+
+    window.regModule("common_scrolltotop", []);
+// ]]>
+</script>    </ul>
+    
+    
+
+
+
+<div id="cc-cookie-law" class="cc-cookie-law-hidden" style="display: none;">
+                         <span id="cc-cookie-law-text">
+                            <span id="cc-cookie-law-headline">このページは Cookie（クッキー）を利用しています。 </span>
+                            Cookie はホームページのユーザー体験や質を向上することに役立ちます。閲覧を続けることで、このホームページの Cookie ポリシーに同意したことになります。 詳細は <a href="https://www.borderlessart.or.jp/j/cookies/policy">こちら</a>
+                         </span>
+                         <div id="cc-cookie-law-button-group">
+                             <span id="cc-cookie-law-button">
+                    <a data-action="enable" href="javascript:;" class="cc-btn cc-btn-icon btn-tick"><span></span>OK</a>
+                </span>
+                         </div>
+                   </div><script>// <![CDATA[
+
+    window.regModule("web_cookielaw", []);
+// ]]>
+</script>
+
+</body>
+</html>

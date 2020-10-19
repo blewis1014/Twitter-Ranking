@@ -1,0 +1,451 @@
+<!doctype html>
+
+<html amp lang="en">
+  <head>
+    <script async custom-element="amp-date-display" src="https://cdn.ampproject.org/v0/amp-date-display-0.1.js"></script>
+    <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+
+      <meta charset="utf-8">
+  <meta property="fb:app_id" content="163646090334606"/>
+  <link rel="canonical" href="https://www.thegazette.com/subject/podcast/on-iowa-podcast/on-iowa-podcast-signing-off-20201016" />
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+      <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.thegazette.com/subject/podcast/on-iowa-podcast/on-iowa-podcast-signing-off-20201016?template=amphtml"
+      },
+      "headline": "On Iowa Podcast: Signing off",
+      
+          "image": {
+    "@type": "ImageObject",
+    "url": "https://www.thegazette.com/storyimage/GA/20201016/PODCAST/201019805/AR/0/AR-201019805.jpg",
+    "height": 1773,
+    "width": 3000
+  },
+        
+      "datePublished": "2020-10-16T17:11:00z",
+      "dateModified": "2020-10-16T17:11:00z",
+      
+      "author": {	"@type": "Person",	"name": "Marc Morehouse"},
+      
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Gazette",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.thegazette.com/images/The-Gazette_amp-270x60.jpg",
+          "width": 270,
+          "height": 60
+        }
+      },
+      "description": "The reminder for the podcast keeps popping up like every five minutes, so let's work around this one last thing.I'm leaving The Gazette. It's been 24 years, nea"
+    }
+
+    </script>
+ <!-- script for content build -->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <!-- Mobile meta tags-->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="apple-touch-fullscreen" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="apple-touch-icon" href="/images/glogo.png"/>
+
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+
+  <style amp-custom>
+@font-face{font-family:FontAwesome;src:url(/fonts/fontawesome-webfont.eot);src:url(/fonts/fontawesome-webfont.eot) format('embedded-opentype'),url(/fonts/fontawesome-webfont.woff) format('woff'),url(/fonts/fontawesome-webfont.ttf) format('truetype'),url(/fonts/fontawesome-webfont.svg) format('svg');font-weight:400;font-style:normal}nav .main-nav-item .fa,nav .main-nav-item a .fa{display:inline}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-search:before{content:"\f002"}.fa-user:before{content:"\f007"}.fa-sign-in:before{content:"\f090"}.fa-bars:before,.fa-navicon:before,.fa-reorder:before{content:"\f0c9"}.fa-angle-down:before{content:"\f107"}.fa-newspaper-o:before{content:"\f1ea"}.fa-line-chart:before{content:"\f201"}.fa-phone:before{content:"\f095"}.fa-leaf:before{content:"\f06c"}.fa-envelope:before{content:"\f0e0"}.fa-star:before{content:"\f005"}.fa-facebook:before{content:"\f09a"}.fa-twitter:before{content:"\f099"}.fa-google-plus:before{content:"\f0d5"}.fa-2x{font-size:2em}body{font-family:Montserrat,sans-serif;color:#555;max-width:1300px;padding-left:20px;padding-right:20px;margin:0 auto;counter-reset:myCounter;background-position:center center;background-repeat:no-repeat;background-size:cover;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover}h1{font-size:30px;font-weight:700;line-height:35px;margin:5px auto 10px auto}h2{font-size:18px;margin:5px 0 0;line-height:24px;margin-bottom:8px;font-weight:700}h4.number-big{font-size:60px;font-weight:800;color:#ffd100;margin:0}.caption{font-size:13px;line-height:20px;color:#666;font-style:italic;margin-bottom:10px}.date{font-size:16px;font-weight:700;color:#999;margin-bottom:10px}.ad-block{margin:10px auto;width:300px}.social-share-block{display:block}.social-share-block p{float:left;font-size:18px;font-weight:700;margin-right:10px}.amp-social-share{width:30px;height:30px}#email{display:inline-block;width:70px;text-align:center;height:29px;background-color:#444;color:#fff;position:relative;padding-top:11px;font-family:helvetica;cursor:pointer;margin-right:2px;text-decoration:none}#sections{width:75px;background-color:#ccc;color:#000}.bold{font-weight:700}.triplelift-holder{padding:1%}.site-wrap{margin-top:90px}.site-wrap article .byline-just-name{padding:0 15px;margin-bottom:20px;margin-top:20px;font-weight:600;border-left:3px solid #777}.author-name,.byline-just-name{font-weight:700}.social-share-block p{float:none}.photosHolderPhoto img{margin-bottom:10px}.site-wrap figure.amp-carousel-slide{margin:0}.collapsible-captions amp-img img{object-fit:contain}.carousel1 .caption{line-height:16px;margin-top:5px}.amp-carousel-button-prev{left:0}.amp-carousel-button-next{right:0}.collapsible-captions figure{margin:0;padding:0}.collapsible-captions{--caption-height:32px;--image-height:300px;--caption-padding:1rem;--button-size:28px;--caption-color:#f5f5f5;--caption-bg-color:#111;background:rgba(0,0,0,.8);font-size:13px}.collapsible-captions .fixed-height-container{position:relative;width:100%;height:var(--image-height)}.collapsible-captions figcaption{position:absolute;bottom:0;margin:0;width:100%;max-height:var(--caption-height);line-height:var(--caption-height);padding:0 var(--button-size);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:max-height .2s cubic-bezier(.4,0,.2,1);z-index:1000;color:var(--caption-color);background:rgba(0,0,0,.8)}.collapsible-captions figcaption span{display:block;position:absolute;top:calc((var(--caption-height) - var(--button-size))/ 2);right:2px;width:var(--button-size);height:var(--button-size);line-height:var(--button-size);text-align:center;font-size:12px;color:inherit;cursor:pointer}.collapsible-captions figcaption.expanded{padding:var(--button-size);line-height:inherit;white-space:normal;text-overflow:auto;max-height:calc(var(--caption-height) + var(--image-height));overflow:auto}.collapsible-captions *{-webkit-tap-highlight-color:rgba(255,255,255,0);box-sizing:border-box}footer{color:#fff;margin-top:40px;background:rgba(0,0,0,1);background:-moz-linear-gradient(top,rgba(0,0,0,1) 0,rgba(51,51,51,1) 100%);background:-webkit-gradient(left top,left bottom,color-stop(0,rgba(0,0,0,1)),color-stop(100%,rgba(51,51,51,1)));background:-webkit-linear-gradient(top,rgba(0,0,0,1) 0,rgba(51,51,51,1) 100%);background:-o-linear-gradient(top,rgba(0,0,0,1) 0,rgba(51,51,51,1) 100%);background:-ms-linear-gradient(top,rgba(0,0,0,1) 0,rgba(51,51,51,1) 100%);background:linear-gradient(to bottom,rgba(0,0,0,1) 0,rgba(51,51,51,1) 100%)}footer #footer{padding:0 30px}footer .row{margin-bottom:0}footer a,footer a:link,footer a:visited{color:#fff;text-decoration:none;font-size:12px;line-height:24px}footer a:hover{text-decoration:underline}footer .gaz-sites-title,footer .more-sites-title{border-top:1px solid #fff;border-bottom:1px solid #fff;padding:10px 0;margin:25px 0;text-transform:uppercase;font-weight:700}footer .iconlinks a{margin-bottom:10px}.sub-foot{margin-top:20px;padding:20px 0;border-top:1px solid #fff}.sub-foot .connect{font-size:14px;text-align:right}.sub-foot .socials{margin-top:10px;text-align:right}.sub-foot .socials a{margin-left:20px}footer a .fa-envelope,footer a .fa-facebook,footer a .fa-google-plus,footer a .fa-twitter{color:#fff}footer #piano-offer-footer-slideout{position:fixed;background-color:#fff;bottom:0;left:-542px;width:500px;padding:20px;padding-top:10px;color:#555;transition:1s;border:1px solid #c7c7c7}footer #piano-slide-close{cursor:pointer;float:right;font-size:16px;padding:5px;margin-bottom:10px}footer #piano-slide-close:hover{background-color:#c7c7c7}.sub-foot .socials a:hover{text-decoration:none}@media screen and (max-width:600px){.footer-divider{border-top:1px solid #fff;margin-top:20px}.iconlinks{margin-top:30px}.sub-foot,.sub-foot .connect,.sub-foot .socials{text-align:center}.sub-foot .connect{margin-top:20px}}@media screen and (max-width:360px){footer .row#footer .col.s12 .row .col.m6.s6{width:100%;text-align:left}.hide360{display:none}.row .col.iconlinks a.col.s12{padding:0}.row .col.iconlinks a.col.s12 i{margin:0 10px 0 0}}a,a:link,a:visited{color:#26729d;text-decoration:underline}a:active,a:hover{-moz-opacity:.75;opacity:.75}.row .col.nopad{padding:0}img{max-width:100%;height:auto}figure.photosHolderPhoto img{object-fit:cover}p{font-size:16px;line-height:22px;font-weight:400;color:#444;margin-bottom:10px}.mainlogo{width:162px;height:40px}a.logo{text-decoration:none}.logo{padding:12px 0 0 10px;margin:0 auto;vertical-align:middle}nav.mainnav{position:fixed;left:0;top:0;z-index:9999;background-color:#fff;display:block;margin:0;padding:0;border:0;vertical-align:baseline;width:100%;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2)}nav.mainnav,nav.mainnav .nav-wrapper i,nav.mainnav a.button-collapse,nav.mainnav a.button-collapse i{height:64px;line-height:64px}nav.mainnav .main-nav-item{border:0 none;border-left:1px solid #eee;text-decoration:none;color:#555;font-size:14px;cursor:pointer}nav.mainnav .main-nav-item a{text-decoration:none;font-size:14px;cursor:pointer;height:64px;line-height:66px;color:#555}nav.mainnav .main-nav-item .fa,nav.mainnav .main-nav-item a .fa{font-size:24px;margin-right:6px}nav.mainnav .main-nav-item.greyddd{background-color:#ddd}nav.mainnav li#nav-open.main-nav-item{padding:0 15px;height:64px;line-height:66px}li.main-nav-item .fa-angle-down,li.main-nav-item .fa-angle-right{margin-left:6px}nav.mainnav .nav-wrapper i{line-height:62px}.header-left{max-width:85%}.mainnav li.grey555{list-style:none;position:relative;float:left;margin:0;color:#fff;padding:0 15px;background-color:#555}.mainnav li.grey555 ul{display:none;position:fixed;top:64px;right:-1px;background:#fff;color:#555;padding:10px 0 0;border-left:1px solid #ddd;border-bottom:1px solid #ddd;max-height:calc(100% - 64px);height:100%;width:271px;z-index:998;letter-spacing:.5px}.mainnav li.grey555 ul li{float:none;width:100%}.mainnav li.grey555 ul li:hover a{color:#fff}.mainnav li.grey555 ul a{color:#fff;line-height:120%;padding:8px;height:auto;font-size:13px;font-weight:600;border-bottom:10px solid #fff;display:block;text-transform:uppercase}.mainnav li.grey555:hover>ul{display:block}#subscribe-CTA a.button{text-align:center;padding:7px;margin:17px 5px 0 0;line-height:1.3;background-color:#26729d;border:1px solid #126391;color:#fff;text-decoration:none;text-transform:uppercase;font-size:13px;font-weight:500}nav #subscribe-CTA a.button i{height:auto}.fa-angle-right:before{content:"\f105";margin-left:2px}.news-bg{background-color:#1a749c}.sports-bg{background-color:#e8930d}.obits-bg{background-color:#d86e52}.opinion-bg{background-color:#8e1147}.living-bg{background-color:#8db172}.hoopla-bg{background-color:#77489d}.developing-bg{background-color:#e90000}.weather-bg{background-color:#980100}.default-bg{background-color:#000}.bgcjobs{background-color:#03889d}.site-wrap{min-width:100%;min-height:100%;background-color:#fff;position:relative;top:0;bottom:100%;left:0;z-index:1}.site-wrap figure{margin:20px auto}.centered{position:fixed;top:28px;left:50%;transform:translate(-50%,-50%)}.clearfix{clear:both}.additional-elements{font-weight:700;background-color:#ccc;padding:10px;font-style:italic}@media only screen and (max-width:1024px){body amp-carousel.collapsible-captions{height:730px}}@media only screen and (max-width:992px){body amp-carousel.collapsible-captions{height:700px}}@media only screen and (max-width:960px){body amp-carousel.collapsible-captions{height:685px}}@media only screen and (max-width:900px){body amp-carousel.collapsible-captions{height:640px}}@media only screen and (max-width:854px){body amp-carousel.collapsible-captions{height:610px}}@media only screen and (max-width:823px){body amp-carousel.collapsible-captions{height:590px}}@media only screen and (max-width:800px){body amp-carousel.collapsible-captions{height:575px}}@media only screen and (max-width:768px){body amp-carousel.collapsible-captions{height:555px}}@media only screen and (max-width:736px){body amp-carousel.collapsible-captions{height:535px}}@media only screen and (max-width:667px){body amp-carousel.collapsible-captions{height:485px}}@media only screen and (max-width:640px){body amp-carousel.collapsible-captions{height:470px}}@media only screen and (max-width:600px){body amp-carousel.collapsible-captions{height:440px}}@media only screen and (max-width:568px){body amp-carousel.collapsible-captions{height:420px}}@media only screen and (max-width:533px){body amp-carousel.collapsible-captions{height:400px}}@media only screen and (max-width:480px){body amp-carousel.collapsible-captions{height:360px}}@media only screen and (max-width:414px){body amp-carousel.collapsible-captions{height:315px}}@media only screen and (max-width:384px){body{padding-left:10px;padding-right:10px}.mainnav li.grey555,nav ul#nav-mobile li a.iconnav{padding:0 10px}.logo{padding:12px 0 0 5px}}@media only screen and (max-width:375px){body amp-carousel.collapsible-captions{height:300px}}@media only screen and (max-width:360px){body amp-carousel.collapsible-captions{height:290px}.site-wrap{margin-top:100px}nav ul{position:relative}li#subscribe-CTA{position:absolute;right:0;top:47px;width:115px}#subscribe-CTA a.button{padding:4px;margin-right:0}}@media only screen and (max-width:320px){body amp-carousel.collapsible-captions{height:265px}}*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit}.center,.center-align{text-align:center}small{font-size:75%}.left{float:left}.right{float:right}ul:not(.browser-default){padding-left:0;list-style-type:none}nav ul{margin:0}nav ul li{-webkit-transition:background-color .3s;transition:background-color .3s;float:left;padding:0}nav ul a{-webkit-transition:background-color .3s;transition:background-color .3s;display:block;padding:0 15px}@media only screen and (max-width:992px){.hide-on-med-and-down{display:none}}.row{margin-left:auto;margin-right:auto;margin-bottom:20px}.row:after{content:"";display:table;clear:both}.row .col{float:left;box-sizing:border-box;padding:0 .75rem;min-height:1px}.row .col[class*=pull-],.row .col[class*=push-]{position:relative}.row .col.s1{width:8.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.s2{width:16.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.s3{width:25%;margin-left:auto;left:auto;right:auto}.row .col.s4{width:33.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.s5{width:41.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.s6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.s7{width:58.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.s8{width:66.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.s9{width:75%;margin-left:auto;left:auto;right:auto}.row .col.s10{width:83.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.s11{width:91.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.s12{width:100%;margin-left:auto;left:auto;right:auto}@media only screen and (min-width:601px){.row .col.m1{width:8.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.m2{width:16.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.m3{width:25%;margin-left:auto;left:auto;right:auto}.row .col.m4{width:33.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.m5{width:41.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.m6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.m7{width:58.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.m8{width:66.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.m9{width:75%;margin-left:auto;left:auto;right:auto}.row .col.m10{width:83.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.m11{width:91.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.m12{width:100%;margin-left:auto;left:auto;right:auto}}@media only screen and (min-width:993px){.row .col.l1{width:8.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.l2{width:16.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.l3{width:25%;margin-left:auto;left:auto;right:auto}.row .col.l4{width:33.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.l5{width:41.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.l6{width:50%;margin-left:auto;left:auto;right:auto}.row .col.l7{width:58.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.l8{width:66.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.l9{width:75%;margin-left:auto;left:auto;right:auto}.row .col.l10{width:83.3333333333%;margin-left:auto;left:auto;right:auto}.row .col.l11{width:91.6666666667%;margin-left:auto;left:auto;right:auto}.row .col.l12{width:100%;margin-left:auto;left:auto;right:auto}.row .col.push-l6{left:50%}}
+</style> <!-- css styles -->
+
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+  <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+  <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+  <script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+  <script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
+  <script async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js"></script>
+  <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <script async custom-element="amp-lightbox-gallery" src="https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js"></script>
+  <script async custom-element="amp-access" src="https://cdn.ampproject.org/v0/amp-access-0.1.js"></script>
+<script id="amp-access" type="application/json">
+        {
+            "authorization": "https://experience.tinypass.com/xbuilder/experience/executeAmp?protocol_version=1&aid=<YOUR_AID>&reader_id=READER_ID&url=SOURCE_URL&referer=DOCUMENT_REFERRER&_=RANDOM",
+            "noPingback": "true",
+            "login": {
+                "sign-in": "https://publisher.com/amp-login.html?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM",
+                "sign-out": "https://publisher.com/amp-logout.html?reader_id=READER_ID&_=RANDOM",
+                "subscribe": "https://publisher.com/amp-subscribe.html?reader_id=READER_ID&url=https://www.thegazette.com/subject/podcast/on-iowa-podcast/on-iowa-podcast-signing-off-20201016?template=amphtml&_=RANDOM"
+            },
+            "authorizationFallbackResponse": {
+                "error": true
+            }
+        }
+    </script>
+
+
+    
+</head>
+<body><!-- article96.pbs -->
+
+<!--<input type="checkbox" id="nav-trigger" class="nav-trigger" />
+<label for="nav-trigger"></label>-->
+
+  <header>
+    <nav class="mainnav">
+      <div class="header-left left">
+        <div class="left main-logo">
+          <div class="logo">
+            <a href="https://www.thegazette.com">
+              <amp-img src="/images/gaz-logo-full_162x40.png" width="162" height="40" alt="The Gazette" id="logo">
+                <noscript><img src="/images/gaz-logo-full_162x40.png" width="162" height="40" alt="The Gazette" role="img" aria-label="The Gazette logo"></noscript>
+              </amp-img>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="header-right right">
+        <ul id="nav-mobile">
+          <li id="subscribe-CTA"><a class="button" href="https://crgiservices.newscyclecloud.com/cmo_crg-c-cmdb-01/subscriber/web/startoffers.html" target="_blank">Subscribe <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+          <li class="main-nav-item greyddd"><a class="iconnav" href="/searchresults"><i class="fa fa-search" aria-hidden="true"></i> <span class="hide-on-med-and-down">SEARCH</span></a></li>
+          <!-- <li class="main-nav-item greyddd"><a class="iconnav" href="https://crgiservices.newscyclecloud.com/cmo_crg-c-cmdb-01/subscriber/web/signin.html"><i class="fa fa-sign-in" aria-hidden="true"></i> <span id="login-logout-text" class="hide-on-med-and-down">LOGIN</span></a></li> -->
+          <li class="main-nav-item grey555"><i class="fa fa-bars" aria-hidden="true"></i> <span class="hide-on-med-and-down">SECTIONS <i class="fa fa-angle-down" aria-hidden="true"></i></span>
+            <ul>
+              <li class="nav-item"><a href="/" class="default-bg">HOME</a></li>
+              <li class="nav-item"><a href="/subject/news" class="navgo parentlink news-bg">NEWS</a></li>
+              <li class="nav-item"><a href="/subject/sports" class="navgo parentlink sports-bg">SPORTS</a></li>
+              <li class="nav-item"><a href="/opinion" class="navgo parentlink opinion-bg">OPINION</a></li>
+              <li class="nav-item"><a href="/subject/life" class="navgo parentlink living-bg">LIVING</a></li>
+              <li class="nav-item"><a href="/subject/obits" class="navgo parentlink obits-bg">OBITUARIES</a></li>
+              <li class="nav-item"><a href="https://www.hooplanow.com" class="hoopla-bg">HOOPLA</a></li>
+              <li class="nav-item"><a href="https://www.corridorcareers.com/" class="bgcjobs">JOBS</a></li>
+              <li class="nav-item"><a href="/section/developing" class="developing-bg">DEVELOPING</a></li>
+              <li class="nav-item"><a href="/section/multimedia" class="default-bg">PHOTOS &amp; VIDEOS</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="clearfix"></div>
+    </nav>
+
+  </header>
+
+  <div class="site-wrap">
+
+    <article>
+      
+      <div itemprop="datePublished" class="date">Fri., October 16, 2020</div>
+
+
+<!-- opening tag is on articleHead96.pbo -->
+      <!-- closing tag is on article96.pbo -->
+
+<h1 itemprop="headline" class="posttitle">On Iowa Podcast: Signing off</h1>
+
+
+      
+        <amp-carousel class="collapsible-captions"
+          height="332"
+          layout="fixed-height"
+          controls
+          loop
+          type="slides">
+
+        
+
+
+  
+  <figure>
+    <div class="fixed-height-container">
+      <amp-img layout="fill"
+        src="https://www.thegazette.com/storyimage/GA/20201016/PODCAST/201019805/AR/0/AR-201019805.jpg&MaxH=300&MaxW=500"></amp-img>
+    </div>
+    <figcaption on="tap:AMP.setState({expanded: !expanded})"
+      tabindex="0"
+      role="button"
+      [class]="expanded ? 'expanded' : ''">On Iowa Podcast co-hosts Marc Morehouse and Scott Dochterman with The AFCA Coaches&#x2019; Trophy in 2016. (The Gazette)
+      <span [text]="expanded ? '&#9660;' : '&#9650;'">&#9650;</span>
+    </figcaption>
+  </figure>
+
+      
+      
+      
+      </amp-carousel>
+      
+
+
+      <div class="ad-block">
+	<amp-ad
+	 width="300"
+	 height="250"
+	 type="doubleclick"
+	 data-slot="/99211018/thegazette/amp-medrec-1">
+	 </amp-ad>
+</div>
+
+
+
+      <div class="social-share-block">
+        <p>Share this story</p>
+        <amp-social-share type="email" 
+          data-param-text="Check out this article: CANONICAL_URL" width="30" height="30">
+        </amp-social-share>
+        <amp-social-share type="facebook" 
+          data-param-text="Check out this article: CANONICAL_URL" 
+          data-param-app_id="163646090334606" width="30" height="30">
+        </amp-social-share>
+        <amp-social-share type="twitter" 
+          data-param-text="Check out this article: CANONICAL_URL" width="30" height="30">
+        </amp-social-share>
+        <amp-social-share type="gplus" 
+         data-param-text="Check out this article: CANONICAL_URL" width="30" height="30">
+        </amp-social-share>
+        <amp-social-share type="linkedin" 
+         data-param-text="Check out this article: CANONICAL_URL" width="30" height="30">
+        </amp-social-share>
+      </div>
+      
+      	<p itemprop="author" class="author-name">					By Marc Morehouse											</p>
+      
+      
+
+<p id="paragraph-1">
+
+<p>The reminder for the podcast keeps popping up like every five minutes, so let&rsquo;s work around this one last thing.</p>
+
+
+<p id="paragraph-2">
+<p>I&rsquo;m leaving The Gazette. It&rsquo;s been 24 years, nearly 22 covering Iowa football. That&rsquo;s a long damn time in the same circle against the same opponent. There can&rsquo;t be too many other beat writers who&rsquo;ve been on the griddle this long. If there are, what in the hell are you doing? You traded your heart for a phone.</p>
+
+
+<p id="paragraph-3">
+<p>Thanks to everyone who&rsquo;s been along for the ride. That&rsquo;s lame, I know, but we&rsquo;re not going to be dramatic here.</p>
+
+
+<p id="paragraph-4">
+<p>The On Iowa Podcast was sort of the ultimate &ldquo;Odd Couple&rdquo; thing. Scott Dochterman kept the records. I tagged along, learned a lot and had a lot of fun. I don&rsquo;t expect I&rsquo;ll be part of anything like it again unless I pull something fabulously entertaining out of my ass. I do plan to learn the electric guitar. The On Iowa pod worked because it was &ldquo;hyper-Iowa.&rdquo; There was nothing else, really. We didn&rsquo;t do guests. We did the Hawkeyes. You didn&rsquo;t get the &ldquo;drive by,&rdquo; you got a meal and a dessert and maybe a funny hat or an action figure. Scott is the smartest dude on the beat. I felt good in his company, during the podcast and out in stadiums. I was the &ldquo;Oscar,&rdquo; the Walter Matthau to Scott&rsquo;s &ldquo;Felix,&rdquo; the Jack Lemmon. But it wasn&rsquo;t always that way. This might not make sense, but I&rsquo;ll try: Where I was weak, Scott was strong and vice versa. That made for some really great content.</p>
+
+
+<p id="paragraph-5">
+<p>10 years and 2 &frac12; months worth, to be exact.</p>
+
+
+<p id="paragraph-6">
+<p>Yes, I&rsquo;m referencing a movie from 1968. I&rsquo;m no longer updating my references. I don&rsquo;t have to.</p>
+
+
+	<div class="ad-block">
+	<amp-ad
+	 width="300"
+	 height="250"
+	 type="doubleclick"
+	 data-slot="/99211018/thegazette/amp-medrec-2">
+	 </amp-ad>
+</div>
+
+
+<p id="paragraph-7">
+<p>We downsized and I moved to the woods across the river. That&rsquo;s something that&rsquo;s been in the mail for me since May and a big driving force behind this. Something something pandemic. Also, at some point, you have to stop bitching to your poor wife about your job. She&rsquo;s not your damn psychologist.</p>
+
+
+<p id="paragraph-8">
+<p>I&rsquo;m trading back for my heart. Face me to the shore. I&rsquo;m swimming to the good latitudes.</p>
+
+
+<p id="paragraph-9">
+<p>Comments: (319) 398-8256; marc.morehouse@thegazette.com</p>
+
+
+<p id="paragraph-10">
+
+</p>
+
+
+      
+
+      
+        <div class='additional-elements'>This article has additional features not visible on AMP. <a href="https://www.thegazette.com/subject/podcast/on-iowa-podcast/on-iowa-podcast-signing-off-20201016">Click Here</a> to view the full version.</div>
+      
+
+
+      
+      <div class="ad-block">
+	<amp-ad
+	 width="300"
+	 height="250"
+	 type="doubleclick"
+	 data-slot="/99211018/thegazette/amp-medrec-3">
+	 </amp-ad>
+</div>
+
+
+
+
+    </article>
+
+<amp-sticky-ad layout="nodisplay">
+  <amp-ad
+    width="320"
+    height="50"
+    type="doubleclick"
+    data-slot="/99211018/thegazette/amp-sticky">
+  </amp-ad>
+</amp-sticky-ad>
+
+  
+ <amp-analytics type="chartbeat">
+    <script type="application/json">
+        {
+            "vars": {
+                "uid": "65803",
+                "domain": "thegazette.com",
+                "sections": "Iowa Hawkeye Sports,Iowa Football,On Iowa Podcast",
+                "author": "Morehouse"
+            }
+        }
+        </script>
+    </amp-analytics> <!-- Chartbeat Analytics -->
+
+
+    <!-- "96" contains closing <head>, opening <body>, <header>, body content: opening .site-wrap -->
+
+    </div><!-- END .site-wrap -->
+    <!-- https://ampbyexample.com, https://www.ampproject.org/docs -->
+
+
+
+    <amp-analytics type="googleanalytics" id="analytics1">
+    <script type="application/json">
+    {
+      "vars": {
+        "account": "UA-30416-68"
+      },
+      "triggers": {
+        "trackPageview": {
+          "on": "visible",
+          "request": "pageview"
+        },
+        "click on #subscribe": {
+          "on": "click",
+          "selector": "subscribe-CTA",
+          "request":"event",
+          "vars": {
+            "eventCategory":"Subscribe",
+            "eventAction":"Header Button amp"
+          }
+        }
+      }
+    }
+    </script>
+    </amp-analytics>
+
+    <footer>
+      <div class="row" id="footer">
+        <div class="col s12">
+          <div class="row">
+            <div class="col l4 s12">
+              <div class="gaz-sites-title">Our Sites</div>
+              <div class="col m6 s6 nopad">
+                <a href="/iowaideas" target="_blank">Iowa Ideas</a><br/>
+                <a href="https://hooplanow.com" target="_blank">Hoopla</a><br/>
+                <a href="https://classifieds.thegazette.com" target="_blank">Classifieds</a><br/>
+                <a href="https://www.fusionfarm.com" target="_blank">Fusionfarm</a>
+              </div>
+              <div class="col m6 s6 nopad">
+                <a href="/photostore" target="_blank">Photo Store</a><br/>
+                <a href="/milestones">Milestones</a><br />
+                <a href="https://www.corridorcareers.com/" target="_blank">Corridor Careers</a><br/>
+                <a href="/podcast">Podcasts</a>
+              </div>
+            </div>
+            <div class="col l8 m12">
+              <div class="more-sites-title">More</div>
+              <div class="col l7 m7 s12 nopad">
+                <div class="col m6 s6 nopad">
+                  <a href="/mobile-apps">Mobile Apps</a><br/>
+                  <a href="/archives">Archives</a><br/>
+                  <a href="/puzzle-answers">Puzzle Answers</a><br/>
+                  <a href="/games">Online Games/Contests</a><br/>
+                  <a href="/data/arrest-database">CR Arrests</a><br/>
+                  <a href="https://local.thegazette.com/" target="_blank">Business Directory</a><br/>
+                </div>
+                <div class="col m6 s6 nopad">
+                  <a href="https://fusionfarm.wufoo.com/forms/mediacorporate-sponsorship/" target="_blank">Sponsor Requests</a><br />
+                  <a href="/back-issues">Order Back Issues</a><br/>
+                  <a href="/policies">Policies</a><br/>
+                  <a href="/section/site-map">Sitemap</a><br/>
+                  <a href="/subject/special-events">Special Events</a><br/>
+                  <a href="/rss-feeds">RSS Feeds</a>
+                </div>
+              </div>
+              <div class="col l5 m5 s12 nopad footer-divider">
+                <div class="col m6 s6 center iconlinks nopad">
+                  <a class="col s12" href="https://crgiservices.newscyclecloud.com/cmo_crg-c-cmdb-01/subscriber/web/startoffers.html">
+                    <i class="fa fa-newspaper-o fa-2x"></i><br class="hide360" />
+                    <span>Subscribe</span>
+                  </a>
+                  <a class="col s12" href="https://fusionfarm.wufoo.com/forms/advertise-with-the-gazette/" target="_blank">
+                    <i class="fa fa-line-chart fa-2x"></i><br class="hide360" />
+                    <span>Advertise</span>
+                  </a>
+                  <a class="col s12" href="/customer-care">
+                    <i class="fa fa-phone fa-2x"></i><br class="hide360" />
+                    <span>Contact Us</span>
+                  </a>
+                </div>
+                <div class="col m6 s6 center iconlinks nopad">
+                  <a class="col s12" href="https://cedarrapidsgazette.ia.newsmemory.com/" target="_blank">
+                    <i class="fa fa-leaf fa-2x"></i><br class="hide360" />
+                    <span>Green Gazette</span>
+                  </a>
+                  <a class="col s12" href="/email-newsletters">
+                    <i class="fa fa-envelope fa-2x"></i><br class="hide360" />
+                    <span>Newsletters</span>
+                  </a>
+                  <a class="col s12" href="https://rewards.thegazette.com/" target="_blank">
+                    <i class="fa fa-star fa-2x"></i><br class="hide360" />
+                    <span>Rewards</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row sub-foot">
+            <div class="col l3 m6 s12">
+              <div><amp-img id="logo" src="/images/gaz-logo-white_150x35.png" alt="The Gazette" height="35" width="150"></amp-img></div>
+              <div><small><!-- <script type="text/javascript">document.write(new Date().getFullYear());</script> --><amp-date-display datetime="now" layout="responsive" height="14" width="280"><template type="amp-mustache">&#169; {{year}} The Gazette</template></amp-date-display></small></div>
+            </div>
+            <div class="col l3 push-l6 m6 s12">
+              <div class="connect">Connect with us:</div>
+              <div class="socials">
+                <a href="https://www.facebook.com/GazetteOnline" target="_blank">
+                  <i class="fa fa-facebook fa-2x"></i>
+                </a>
+                <a href="https://twitter.com/gazettedotcom" target="_blank">
+                  <i class="fa fa-twitter fa-2x"></i>
+                </a>
+                <a href="https://plus.google.com/+cedarrapidsgazette/posts" target="_blank">
+                  <i class="fa fa-google-plus fa-2x"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
+<!--Updated: 2020/10/17 20:28:00-->

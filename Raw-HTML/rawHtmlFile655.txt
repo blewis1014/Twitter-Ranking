@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta property="fb:app_id" content="117106681655169" />
+	<meta property="fb:pages" content="1434910340064598" />
+	<meta property="fb:pages" content="229023931411" />
+	<meta property="fb:pages" content="110566825943939" />
+
+	<link rel="preconnect" href="https://search.koreaboo.com">
+	<link rel="dns-prefetch" href="https://search.koreaboo.com">
+
+	<link rel="dns-prefetch" href="https://s.ntv.io">
+	<link rel="dns-prefetch" href="https://us.ads.justpremium.com">
+	<link rel="dns-prefetch" href="https://video.unrulymedia.com">
+
+	<!-- chrome opensearch -->
+	<link type="application/opensearchdescription+xml" rel="search" href="https://www.koreaboo.com/opensearch.xml" />
+
+	
+		<script>var cur_post_id = 91000000;</script>
+	
+	<script>
+	var unruly = window.unruly || {};
+	function init_kb_ad_scripts(){
+		let ad_scripts = Array(
+			"/wp-content/themes/KbooOS2/js/prebid.js?v=20200910", //prebid.js
+			"//s.ntv.io/serve/load.js", //nativo
+			// "//native.sharethrough.com/assets/sfp.js", //sharethrough
+			"//us.ads.justpremium.com/adserve/js.php?zone=110041", // JustPremium
+		);
+				ad_scripts.forEach(function(x){
+			let el = document.createElement('script');
+			el.setAttribute('async','');
+			el.setAttribute('type','text/javascript');
+			el.setAttribute('src',x);
+			document.head.appendChild(el);
+		});
+	}
+	</script>
+	<script async type="text/javascript" src="//d14qpp2he5atys.cloudfront.net/script.js" onload="init_kb_ad_scripts();" onerror="init_kb_ad_scripts();"></script>
+
+	<script>
+	if (typeof(ga) == "undefined") {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-18893571-1', 'auto');
+		ga('send', 'pageview');
+	}
+	</script>
+
+	<!-- Chartbeat -->
+	<script type='text/javascript'>
+	(function() {
+		/** CONFIGURATION START **/
+		var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+		_sf_async_config.uid = 23820;
+		_sf_async_config.domain = 'koreaboo.com';
+		_sf_async_config.flickerControl = false;
+		_sf_async_config.useCanonical = true;
+					_sf_async_config.sections = '';
+			_sf_async_config.authors = '';
+				/** CONFIGURATION END **/
+		function loadChartbeat() {
+			var e = document.createElement('script');
+			var n = document.getElementsByTagName('script')[0];
+			e.type = 'text/javascript';
+			e.async = true;
+			e.src = '//static.chartbeat.com/js/chartbeat.js';
+			n.parentNode.insertBefore(e, n);
+		}
+		loadChartbeat();
+	})();
+	</script>
+
+	<title>Page Not Found - Koreaboo</title>
+
+<!-- ㅇㅅㅇ -->
+<meta name="robots" content="noindex,follow,max-image-preview:large"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found" />
+<meta property="og:site_name" content="Koreaboo" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page Not Found - Koreaboo" />
+<meta name="twitter:site" content="@Koreaboo" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.koreaboo.com\/","name":"Koreaboo","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.koreaboo.com\/search\/#{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":["https:\/\/www.facebook.com\/koreaboo","https:\/\/www.instagram.com\/koreaboo\/","https:\/\/www.youtube.com\/koreaboo","https:\/\/www.pinterest.com\/koreaboo","https:\/\/twitter.com\/Koreaboo"],"@id":"#organization","name":"Koreaboo","logo":"https:\/\/koreaboo-cdn.storage.googleapis.com\/koreaboo_logo_1024.png"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Koreaboo &raquo; Feed" href="https://www.koreaboo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Koreaboo &raquo; Comments Feed" href="https://www.koreaboo.com/comments/feed/" />
+<link rel='stylesheet' id='kbOS2-style-css'  href='https://www.koreaboo.com/wp-content/themes/KbooOS2/style-main.css?ver=20200909' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.koreaboo.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.koreaboo.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.koreaboo.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.15" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/site_icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/site_icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/site_icon/favicon-16x16.png">
+<link rel="manifest" href="/manifest0508.json">
+<link rel="mask-icon" href="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/site_icon/safari-pinned-tab.svg" color="#fd2870">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-config" content="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/site_icon/browserconfig.xml" />
+
+	<noscript><style>.no-js-hide {display: none !important;} #trending_sidebar_fallback {display: block !important;}</style></noscript>
+	<!-- lazyload init -->
+	<script>
+	window.addEventListener( "KBOSBodyLoaded", function(){
+		let els = document.getElementsByClassName('lazyload-ph');
+		for(let i=els.length-1;i>=0;i--) {
+			let ph = els[i].getAttribute('data-placeholder');
+			els[i].setAttribute('src', ph);
+			els[i].classList.remove('lazyload-ph');
+			}
+		});
+	</script>
+
+	<script>function kbos_share_pop(u,s=null) {
+		let w = s == 'fb' ? 450 : 600;
+		w = Math.min(window.screen.width, w);
+		let o_l = (window.screen.width-w)/2;
+		let o_t = Math.max(200,(window.screen.height-350)/2);
+		window.open(u, 'newwindow', 'toolbar=no,menubar=no,width=' + w.toString() + ',height=300,left=' + o_l.toString() + ',top=' + o_t.toString());
+		return false;
+	}
+	</script>
+
+	<script>
+	if ('serviceWorker' in navigator) {
+	window.addEventListener('load', function() {
+		navigator.serviceWorker.register('/sw.js', {updateViaCache:'imports'}).then(function(reg) {
+		console.log('ServiceWorker registration successful with scope: ', reg.scope);
+		}, function(err) {
+		console.error('ServiceWorker registration failed: ', err);
+		});
+	});
+	}
+	</script>
+
+</head>
+
+<body>
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+        <div class="header-container header-top grid-parent">    
+			<a class="header-logo" href="/">
+				<img class="koreaboo-logo square" alt="Koreaboo logo" src="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/icon/koreaboo-logo.svg" />
+			</a>
+		<div class="header-nav">
+            <a class="w480" href="/">Feed</a>
+            <a href="/news/">News</a>
+            <a href="/lists/">Lists</a>
+            <a href="/stories/">Stories</a>
+    </div>
+		<div class="header-burger"><a id="search_icon" data-nokus="1" aria-label="Search" href="https://www.koreaboo.com/search/" ><img id="search_icon_img" class="search-icon" alt="Search" src="https://www.koreaboo.com/wp-content/themes/KbooOS2/img/icon/search.svg" /></a></div>
+		</div>
+	</header>
+	<header id="loading_bar_container" class="loading-bar-container" hidden="true">
+		<div id="loading_bar"></div>
+	</header>
+	<header id="dropdown" class="header-burger-menu" hidden="true">
+		<div class="header-container">
+			<div class="header-search">
+				<form id="search_form"> <!-- KoreabooSearch -->
+					<div class="search-box-container grid-parent">
+						<input id="search_box" type="text" maxlength=150 autocorrect="off"></input>
+						<button type="submit" id="search_submit">Go</button>
+					</div>
+						<div class="search-tips-container"><span id="search_tips_button" class="noselect">Search Tips</span></div>
+				</form>
+			</div>
+			<div id="search_suggestions"><h2>Trending Topics</h2>
+    <ul class="search-trend-list">        <li>BTS</li>
+            <li>TWICE</li>
+            <li>BLACKPINK</li>
+            <li>NCT</li>
+            <li>(G)I-DLE</li>
+            <li>EXO</li>
+            <li>TXT</li>
+            <li>GOT7</li>
+            <li>Red Velvet</li>
+            <li>Stray Kids</li>
+    </ul></div>
+			<div id="search_results" class="header-search-results">
+			</div>
+			<div id="search_nav" class="search-buttons grid-parent">
+				<button data-action="prev">Previous Page</button>
+				<button data-action="next">More Results</button>
+			</div>
+			<div id="search_meta"></div>
+
+			
+			<div id="search_result_skeleton" class="search-result grid-parent">
+				<a class="search-link"><div class="article-click-box"></div></a>
+				<div class="search-result-image-container">
+					<img class="search-result-image" />
+				<div class="search-result-title-container mobile">
+					<span class="search-result-title"></span>
+				</div>
+				</div>
+				<div class="search-result-title-container desktop">
+					<h2 class="search-result-title"></h2>
+				</div>
+				<div class="search-result-meta-container">
+					<p class="search-result-caption"></p>
+					<span class="search-result-date"></span>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div class="body-container">
+
+	
+	<div class="kb_ads_dynamic no-label richmedia" data-tag='Koreaboo_RichMedia'></div>
+
+	<section id="leaderboard"><div class="kb-ads-dynamic no-label kba-outer" data-tag="Koreaboo_Leaderboard">
+</div></section>
+
+	<div id="content" class="site-content grid-parent">
+
+
+<main id="main" class="news-feed site-main main-area">
+
+<section class="kbos-page page-404">
+    <h1 class="entry-title">Page Not Found</h1>
+    <div class="entry-content">
+        <p>We couldn't find the page you're looking for. It may have been moved, or there might be a typo in the URL.</p>
+        <p><a href="https://www.koreaboo.com/">Back to Home</a></p>
+    </div>
+</section>
+</main>
+<aside class="desktop-sidebar">
+	<div class="float-box">
+    <div class="float-inner sidebar-adbox float-sbox">
+        <div class='kb-ads-dynamic kba-outer' data-tag='Koreaboo_Sidebar_Feed'>
+
+        </div>
+    </div>
+    <section id="sidebar_recommended_articles" class="widget K_Recommended_Sidebar">
+<article id="sidebar_skeleton" class="ap-archive-medium hidden">
+    <a><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb">
+    </div>
+    <span class="ap-archive-medium-title"></span>
+    </article>
+</section>
+</div>
+<section class="K_Recommended_Sidebar" id="trending_sidebar_fallback" style="display: none;">
+<section class="widget">
+
+    <h2 class="widget-title">Trending</h2>
+    <article class="ap-archive-medium">
+    <a aria-label="Stranger Things’ Finn Wolfhard Comes Out As A BLINK On Instagram" href="https://www.koreaboo.com/news/blackpink-stranger-things-finn-wolfhard-blink-instagram/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/nSS6q14BBR3flmunZ7dQ3AhqmFqarerpEGYXg0VJ9UZOYqWUClwmEg8lT448hSi3fSasL8OxCf735H6WZiluNaFaGRgX_CumEw=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">Stranger Things’ Finn Wolfhard Comes Out As A BLINK On Instagram</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="Wait They Used To Date? 8 K-Pop Idol Relationships You Forgot About" href="https://www.koreaboo.com/lists/8-kpop-idol-relationships/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/s7LlXPvHX-DoaTnIf-YOtZjWy58Qm6pa5KMZ0A9tO-tnED-B2uefpRvVqkRfd9sfCbpDDFvqzT2awkFTingvM6YUF9e9ak6tWA=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">Wait They Used To Date? 8 K-Pop Idol Relationships You Forgot About</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="An Airport Staff Shares The Real, True Impressions She Got When She Met BTS&#8217;s Jungkook And J-Hope" href="https://www.koreaboo.com/stories/army-fan-account-bts-airport-jungkook-jhope/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/xpIhkzGF9NWNGb_NjWpwjZfPeI7JJT-ClP4xZwxQ97TtB0mJHjdLKP6PXVso29ChILvImr-MockGYsq3vEOt3Yic3z8-TO7CJiE=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">An Airport Staff Shares The Real, True Impressions She Got When She Met BTS&#8217;s Jungkook And J-Hope</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="4 &#8220;Controversial&#8221; Moments In K-Pop That Had Fans And Netizens Divided" href="https://www.koreaboo.com/lists/4-controversial-moments-in-kpop-fans-netizens-divided/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/NbThu_5AgBzktet28Gynw53JosedbOdUm_rrKnhZPtTt4yQ_U2XJAYPYqoJeI-0pWq8uGRYMviD67PTk-cv5y4fl6hyv9P-1-KI=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">4 &#8220;Controversial&#8221; Moments In K-Pop That Had Fans And Netizens Divided</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="This Airport Staff Became An ARMY After Meeting BTS&#8230; Here&#8217;s How She Fell For RM, V And Suga" href="https://www.koreaboo.com/stories/bts-rm-v-suga-impressions-staff-fan-account/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/zez4jucpiDBAfXTWvpEpxFUu-Upv2UzK6IW0zBmx7ZniFRTagl4GL5kP6VnjSaZU-V6MOaIhuaU0YV2AoO8GpdZ9uomEyt4YX3A=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">This Airport Staff Became An ARMY After Meeting BTS&#8230; Here&#8217;s How She Fell For RM, V And Suga</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="TWICE&#8217;s Jeongyeon Will Take A Hiatus From &#8220;Eyes Wide Open&#8221; Promotions Due To Anxiety" href="https://www.koreaboo.com/news/twice-jeongyeon-will-take-hiatus-eyes-wide-open-promotions-due-anxiety/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/xJYLxcP1k4uFNd3ZAea_bZC1BC5GhSVSfn3aXeA1QMtFRqWwE6Gm3Vh4bG4fbIoj8LUtzUE4oxpS9Y2tvXC17GqIgRnHYO0QPw=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">TWICE&#8217;s Jeongyeon Will Take A Hiatus From &#8220;Eyes Wide Open&#8221; Promotions Due To Anxiety</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="Red Velvet&#8217;s Irene Reveals How She Got Scammed By An Online Purchase" href="https://www.koreaboo.com/stories/red-velvet-irene-reveals-scammed-online-purchase/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/lfX8OXcvR_NHKBF_RpE2ALo6bj4U-TgqoQozAq84vrxNEbUp7tN-M6XVbn1Z7UEFioOOSigTZdK2JgvXW5FtqAgs3goY8qfV7A=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">Red Velvet&#8217;s Irene Reveals How She Got Scammed By An Online Purchase</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="Korean Man Seeks Revenge On His Long-Time Crush With A Homemade Bomb&#8230; But Loses His Hand Instead" href="https://www.koreaboo.com/news/korean-man-revenge-crush-homemade-bomb-loses-hand/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/XIy0fo_Na73hKn0lsHiSaNV80zvnLO8ttROrBxPtJ6XXRGMge_YPpeNhbMQtkxwnANq8NsVuAo_XT-RVnT3g-f-SYErPo4UO-YQ=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">Korean Man Seeks Revenge On His Long-Time Crush With A Homemade Bomb&#8230; But Loses His Hand Instead</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="NCT Was Ready To Throw Hands At Renjun For Nearly Forgetting Their TVXQ Sunbae&#8217;s Name" href="https://www.koreaboo.com/stories/nct-throw-hands-renjun-forget-tvxq-sunbae-name/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/ezdyPAGEPkfZorfM9KbIsMT2ylypy-nWT6YvImNspJ_53pIp1Xkuu017hPAm79xx2lVJ9Z6Ji-ZTdVeOGo0lFk9OB79yNtJ1XBY=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">NCT Was Ready To Throw Hands At Renjun For Nearly Forgetting Their TVXQ Sunbae&#8217;s Name</span>
+</article><article class="ap-archive-medium">
+    <a aria-label="Veteran K-Pop Directors Explain Why BTS&#8217;s &#8220;No More Dream&#8221; MV Shouldn&#8217;t Be Pitied" href="https://www.koreaboo.com/news/veteran-kpop-directors-explain-bts-no-dream-mv-shouldnt-pitied/"><div class="article-click-box"></div></a>
+    <div class="ap-archive-medium-thumb-container">
+        <img class="ap-archive-medium-thumb lazyload" data-src="https://lh3.googleusercontent.com/IcjzCSkM5cZkBJa3LV2bDNO9X8earJSZOq9nNtusNvo9BDeOQu2dCjGl1Xo78SgvBKdmUBeKycT9dzHEL0fteINlHqE-AHb4sH4=w96-h96-pp-rj-e365">
+    </div>
+    <span class="ap-archive-medium-title">Veteran K-Pop Directors Explain Why BTS&#8217;s &#8220;No More Dream&#8221; MV Shouldn&#8217;t Be Pitied</span>
+</article> </section>
+
+</section>
+</aside>
+
+</div> <script type='text/javascript' src='https://www.koreaboo.com/wp-content/themes/KbooOS2/js/wp-embed-k.js'></script>
+<script src="https://www.koreaboo.com/wp-content/themes/KbooOS2/js/search.js?v=20200902b" type="text/javascript"></script><script src="https://www.koreaboo.com/wp-content/themes/KbooOS2/js/kbos.js?v=20200914" type="text/javascript"></script>	<script>
+	let kbev = new Event('KBOSBodyLoaded');
+	document.dispatchEvent(kbev);
+	</script>
+	
+</div> 	<section id="sitemap_footer">
+		<div class="footer-container grid-parent">
+			<div class="footer-section" id="footer_artists_a">
+				<h2>Artists</h2>
+				<ul>
+									<li><a href="https://www.koreaboo.com/artist/apink/">Apink</a></li>
+									<li><a href="https://www.koreaboo.com/artist/bigbang/">BIGBANG</a></li>
+									<li><a href="https://www.koreaboo.com/artist/blackpink/">BLACKPINK</a></li>
+									<li><a href="https://www.koreaboo.com/artist/bts/">BTS</a></li>
+									<li><a href="https://www.koreaboo.com/artist/exo/">EXO</a></li>
+									<li><a href="https://www.koreaboo.com/artist/gfriend/">GFRIEND</a></li>
+									<li><a href="https://www.koreaboo.com/artist/girlsgeneration/">Girls&#039; Generation</a></li>
+									<li><a href="https://www.koreaboo.com/artist/got7/">GOT7</a></li>
+									<li><a href="https://www.koreaboo.com/artist/itzy/">ITZY</a></li>
+									<li><a href="https://www.koreaboo.com/artist/iu/">IU</a></li>
+								</ul>
+			</div>
+			<div class="footer-section" id="footer_artists_b">
+				<ul>
+									<li><a href="https://www.koreaboo.com/artist/kang-daniel/">Kang Daniel</a></li>
+									<li><a href="https://www.koreaboo.com/artist/mamamoo/">MAMAMOO</a></li>
+									<li><a href="https://www.koreaboo.com/artist/monstax/">MONSTA X</a></li>
+									<li><a href="https://www.koreaboo.com/artist/nct/">NCT</a></li>
+									<li><a href="https://www.koreaboo.com/artist/redvelvet/">Red Velvet</a></li>
+									<li><a href="https://www.koreaboo.com/artist/seventeen/">SEVENTEEN</a></li>
+									<li><a href="https://www.koreaboo.com/artist/stray-kids/">Stray Kids</a></li>
+									<li><a href="https://www.koreaboo.com/artist/twice/">TWICE</a></li>
+									<li><a href="https://www.koreaboo.com/artist/txt/">TXT</a></li>
+									<li><a href="https://www.koreaboo.com/artist/winner/">WINNER</a></li>
+								</ul>
+			</div>
+			<div class="footer-section" id="footer_sections">
+				<h2>Sections</h2>
+				<ul>
+					<li><a href="/lists/">Lists</a></li>
+					<li><a href="/news/">News</a></li>
+					<li><a href="/stories/">Stories</a></li>
+				</ul>
+
+				<h2>Follow Us</h2>
+				<a style="margin-right: 10px;" aria-label="Facebook" class="social-icon-link" rel="noopener" href="https://www.facebook.com/koreaboo" target="_blank"><svg class="icon-facebook" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"></path></svg></a>
+				<a aria-label="Twitter" class="social-icon-link" rel="noopener" href="https://twitter.com/koreaboo" target="_blank"><svg class="icon-twitter" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></a>
+			</div>
+		</div>
+
+		<div class="footer-notice">© Koreaboo 2020 • <a href="/privacy-policy/">Privacy Policy</a></div>
+
+	</section>
+
+
+</body>
+</html>

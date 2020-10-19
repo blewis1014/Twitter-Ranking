@@ -1,0 +1,1645 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	    <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"0beba042e1",applicationID:"194631579"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,y=["click","keydown","mousedown","pointerdown","touchstart"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var c="nr@context",f=e("gos"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0},{}],"wrap-function":[function(e,t,n){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(7),a="nr@original",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){p([u,"",[r,a,i],c])}s(t+"start",[r,a,i],c);try{return f=e.apply(a,r)}catch(d){throw s(t+"err",[r,a,d],c),d}finally{s(t+"end",[r,a,f],c)}}return r(e)?e:(t||(t=""),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i="");var a,c,f,u="-"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return t}function p(t){try{e.emit("internal-error",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},["loader"]);</script>
+    <meta name="theme-color" content="#373f51">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="https://www.aviationtoday.com/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-30-at-11.27.03-AM.png">
+
+    <title>PODCAST: NSR&#039;s Brady Grady Talks IFC Business Models, COVID-19 and More - Aviation Today</title>
+    <!-- Bootstrap core CSS -->
+    <link href="https://www.aviationtoday.com/wp-content/themes/avi-17/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <script src="https://use.fontawesome.com/1042050258.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/slick/slick-theme.css"/>
+     <link href="https://www.aviationtoday.com/wp-content/themes/avi-17/css/style.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://www.aviationtoday.com/wp-content/themes/avi-17/assets/js/html5shiv.js"></script>
+      <script src="https://www.aviationtoday.com/wp-content/themes/avi-17/assets/js/respond.min.js"></script>
+    <![endif]-->
+       
+    
+<script language="javascript" type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script language="javascript" type="text/javascript">
+    googletag.cmd.push(function() {
+        var leader_mapping = googletag.sizeMapping().
+            addSize([970, 300], [[970, 90], [970,250], [728, 90]]).
+            addSize([508, 400], [468, 60]).
+            addSize([0,0], [[300, 50], [320, 50]]).
+            build();
+        googletag.defineSlot('/987/aviationtoday.com/Avionics-Leaderboard-created-Dec-2016', [970, 90], 'div-gpt-ad-1482248583477-0').defineSizeMapping(leader_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/987/aviationtoday.com/avionics-midpage-new', [[300, 250], [300, 600]], 'div-gpt-ad-1479409658442-0').addService(googletag.pubads());
+        googletag.defineSlot('/987/aviationtoday.com/avionicsrightsquarebottom', [[300, 250], [300, 600]], 'div-gpt-ad-1482261795020-0').addService(googletag.pubads());
+
+        googletag.defineSlot('/987/aviationtoday.com/av-native-content', ['fluid'], 'div-gpt-av-native-content').addService(googletag.pubads());
+
+
+
+        var story_mapping = googletag.sizeMapping().
+            addSize([728, 90], [728, 90]).
+            addSize([0,0], [[468, 60], [300, 50], [320, 50]]).
+            build();
+        googletag.defineSlot('/987/aviationtoday.com/Avionics_728x90_story_pages_only', [728, 90], 'div-gpt-ad-1485447378796-0').defineSizeMapping(story_mapping).addService(googletag.pubads());
+        googletag.defineSlot('/987/aviationtoday.com/avi-fluid', [1, 1], 'div-gpt-ad-1566569200082-0').addService(googletag.pubads());
+
+        googletag.pubads().setTargeting('path', '/2020/10/16/podcast-nsrs-brady-grady-tal').setTargeting('category', ['connectivity', 'iiot', 'iiot-aerospace']);
+        // googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+		
+		
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			if ( event.slot.getSlotElementId() == 'div-gpt-av-native-content' ) {
+				if ( event.isEmpty ) {
+					console.log('hide av-native-content');
+					jQuery('.av-native-content-container').hide();
+					jQuery('.av-native-content-container').addClass('hidden');
+					jQuery('.av-native-content-alt').show();
+					jQuery('.av-native-content-alt').removeClass('hidden');
+				}
+				else {
+					jQuery('.av-native-content-container').show();
+					jQuery('.av-native-content-container').removeClass('hidden');
+					jQuery('.av-native-content-alt').hide();
+					jQuery('.av-native-content-alt').addClass('hidden');
+				}
+			}
+		});
+    });
+</script>
+      
+    
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="PODCAST: NSR&#039;s Brady Grady Talks IFC Business Models, COVID-19 and More - Aviation Today" />
+<meta property="og:description" content="On this episode of the Connected Aircraft Podcast, Brad Grady, principal analyst for Northern Sky Research (NSR), gives some updates and insight on how COVID-19 is continuing to impact in-flight connectivity, antenna technology, the concept of free in-flight Internet, and more. Grady has given presentations at the Global Connected Aircraft Summit in recent years and &hellip;" />
+<meta property="og:url" content="https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/" />
+<meta property="og:site_name" content="Aviation Today" />
+<meta property="article:publisher" content="https://facebook.com/avionicsmagazine" />
+<meta property="article:tag" content="antennas" />
+<meta property="article:tag" content="COVID-19" />
+<meta property="article:tag" content="in-flight connectivity" />
+<meta property="article:tag" content="Northern Sky Research (NSR)" />
+<meta property="article:section" content="Connectivity" />
+<meta property="article:published_time" content="2020-10-16T17:06:50-04:00" />
+<meta property="article:modified_time" content="2020-10-16T17:14:55-04:00" />
+<meta property="og:updated_time" content="2020-10-16T17:14:55-04:00" />
+<meta property="og:image" content="https://www.aviationtoday.com/wp-content/uploads/2019/10/brad-grady.jpeg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="400" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="On this episode of the Connected Aircraft Podcast, Brad Grady, principal analyst for Northern Sky Research (NSR), gives some updates and insight on how COVID-19 is continuing to impact in-flight connectivity, antenna technology, the concept of free in-flight Internet, and more. Grady has given presentations at the Global Connected Aircraft Summit in recent years and [&hellip;]" />
+<meta name="twitter:title" content="PODCAST: NSR&#039;s Brady Grady Talks IFC Business Models, COVID-19 and More - Aviation Today" />
+<meta name="twitter:site" content="@avionicsmag" />
+<meta name="twitter:image" content="https://www.aviationtoday.com/wp-content/uploads/2019/10/brad-grady.jpeg" />
+<meta name="twitter:creator" content="@WBellamyIIIAC" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//apps.decisionbriefs.com' />
+<link rel='dns-prefetch' href='//www.aviationtoday.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Aviation Today &raquo; PODCAST: NSR&#8217;s Brady Grady Talks IFC Business Models, COVID-19 and More Comments Feed" href="https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.aviationtoday.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://www.aviationtoday.com/wp-content/plugins/popup-addon-for-ninja-forms/css/animations.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.aviationtoday.com/wp-content/plugins/popup-addon-for-ninja-forms/css/magnific-popup.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tweet_slide_bx_css-css'  href='https://www.aviationtoday.com/wp-content/plugins/tweet-slide/assets/css/jquery.bxslider.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tweet_slide_style_css-css'  href='https://www.aviationtoday.com/wp-content/plugins/tweet-slide/assets/css/tweet_slide_style.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rss-retriever-css'  href='https://www.aviationtoday.com/wp-content/plugins/wp-rss-retriever/inc/css/rss-retriever.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='https://www.aviationtoday.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://apps.decisionbriefs.com/widgets/component/prnewsonline/savepost?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/popup-addon-for-ninja-forms/js/magnific-popup.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/popup-addon-for-ninja-forms/js/nf-popups.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.2'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/bootstrap/js/bootstrap.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/waypoints/jquery.waypoints.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/waypoints/shortcuts/sticky.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/modernizr-custom.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/custom.js?ver=5.2.4'></script>
+<link rel='https://api.w.org/' href='https://www.aviationtoday.com/wp-json/' />
+<script type="text/javascript" src="https://apps.decisionbriefs.com/js/custom/bigquery/tracking.js"></script>	<script type="text/javascript">
+	t_set_identity_info(
+            '100.4.108.22', //ip
+            null, //identity id
+            '433d646c7162ca810ea9af9571a17ac6', //session id
+            null //hash email
+	);
+
+	
+	t_set_app_info(
+            'avionics-main-site', //application
+            'aviationtoday', //brand
+            'aviation', //market
+            null //profiles_collection
+	);
+	</script>
+	<!-- BEGIN wp-parsely Plugin Version 1.10.2 -->
+<meta name='wp-parsely_version' id='wp-parsely_version' content='1.10.2' />
+   <script type="application/ld+json">
+   {"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.aviationtoday.com\/2020\/10\/16\/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19\/"},"headline":"PODCAST: NSR&#8217;s Brady Grady Talks IFC Business Models, COVID-19 and More","url":"http:\/\/www.aviationtoday.com\/2020\/10\/16\/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19\/","thumbnailUrl":"https:\/\/www.aviationtoday.com\/wp-content\/uploads\/2019\/10\/brad-grady-150x150.jpeg","image":{"@type":"ImageObject","url":"https:\/\/www.aviationtoday.com\/wp-content\/uploads\/2019\/10\/brad-grady-150x150.jpeg"},"dateCreated":"2020-10-16T21:06:50Z","datePublished":"2020-10-16T21:06:50Z","dateModified":"1970-01-01T00:00:00Z","articleSection":"Connectivity","author":[{"@type":"Person","name":"Woodrow Bellamy III"}],"creator":[],"publisher":{"@type":"Organization","name":"Aviation Today"},"keywords":["antennas","covid-19","in-flight connectivity","northern sky research (nsr)"]}   </script>
+    <!-- END wp-parsely Plugin Version 1.10.2 -->
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.aviationtoday.com"><link rel="https://theeventscalendar.com" href="https://www.aviationtoday.com/wp-json/tribe/events/v1/" />
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pageTitle":"PODCAST: NSR&#039;s Brady Grady Talks IFC Business Models, COVID-19 and More - Aviation Today","pagePostType":"post","pagePostType2":"single-post","pageCategory":["connectivity","iiot","iiot-aerospace"],"pageAttributes":["antennas","covid-19","in-flight-connectivity","northern-sky-research-nsr"],"pagePostAuthor":"Woodrow Bellamy III","pagePostDate":"October 16, 2020","pagePostDateYear":"2020","pagePostDateMonth":"10","pagePostDateDay":"16"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBHJVHC');//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MS3GFZ7');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
+
+					var sampling_active = 0;
+					var sampling_rate   = 100;
+					var do_request = false;
+
+					if ( !sampling_active ) {
+						do_request = true;
+					} else {
+						var num = Math.floor(Math.random() * sampling_rate) + 1;
+						do_request = ( 1 === num );
+					}
+
+					if ( do_request ) {
+
+						/* Create XMLHttpRequest object and set variables */
+						var xhr = ( window.XMLHttpRequest )
+						  ? new XMLHttpRequest()
+						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
+						url = 'https://www.aviationtoday.com/wp-admin/admin-ajax.php',
+						params = 'action=update_views_ajax&token=d540b98d2e&wpp_id=92423';
+						/* Set request method and target URL */
+						xhr.open( "POST", url, true );
+						/* Set request header */
+						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
+						/* Hook into onreadystatechange */
+						xhr.onreadystatechange = function() {
+							if ( 4 === xhr.readyState && 200 === xhr.status ) {
+								if ( window.console && window.console.log ) {
+									window.console.log( xhr.responseText );
+								}
+							}
+						};
+						/* Send request */
+						xhr.send( params );
+
+					}
+
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
+				<link rel="icon" href="https://www.aviationtoday.com/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-30-at-11.27.03-AM-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.aviationtoday.com/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-30-at-11.27.03-AM-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.aviationtoday.com/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-30-at-11.27.03-AM-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.aviationtoday.com/wp-content/uploads/2017/01/cropped-Screen-Shot-2017-01-30-at-11.27.03-AM-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.nf-field-container, #ninja_forms_required_items {
+    margin-bottom: 5px !important;
+}
+.nf-field-container, #ninja_forms_required_items, .nf-input-limit {
+    margin-bottom: 5px !important;
+    margin-top: 0 !important;
+}
+.nf-form-cont {
+	padding: 8px !important;
+	font-size: 13px !important;
+}
+.label-above .nf-field-label {
+    margin-bottom: 5px !important;
+}		</style>
+		    
+<script>
+!function(f,e,a,t,h,r){if(!f[h]){r=f[h]=function()
+{r.invoke? r.invoke.apply(r,arguments):r.queue.push(arguments)}
+,
+r.queue=[],r.loaded=1*new Date,r.version="1.0.0",
+f.FeathrBoomerang=r;var g=e.createElement(a),
+h=e.getElementsByTagName("head")[0]||e.getElementsByTagName("script")[0].parentNode;
+g.async=!0,g.src=t,h.appendChild(g)}
+}(window,document,"script","https://cdn.feathr.co/js/boomerang.min.js","feathr")
+feathr("fly", "57277bfd8e8027356b7924b7");
+feathr("sprinkle", "page_view");
+</script>
+
+<script>
+!function(f,e,a,t,h,r){if(!f[h]){r=f[h]=function()
+{r.invoke? r.invoke.apply(r,arguments):r.queue.push(arguments)}
+,
+r.queue=[],r.loaded=1*new Date,r.version="1.0.0",
+f.FeathrBoomerang=r;var g=e.createElement(a),
+h=e.getElementsByTagName("head")[0]||e.getElementsByTagName("script")[0].parentNode;
+g.async=!0,g.src=t,h.appendChild(g)}
+}(window,document,"script","https://cdn.feathr.co/js/boomerang.min.js","feathr")
+feathr("fly", "57277bfd8e8027356b7924b7");
+feathr("sprinkle", "page_view");
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0017/1502.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+    
+  <!-- <script>
+  jQuery(window).ready(function($){
+      $('body').prependPopupEd('/987/aviationtoday.com/Aviation-Today-Roadblock-Created-Dec2016', [640, 480], 'div-gpt-ad-1522700136747-0');
+  });
+  </script> -->
+
+  </head>
+  <body class="post-template-default single single-post postid-92423 single-format-standard wp-custom-logo tribe-no-js" >
+
+    <div class="wrapper">
+      <header>
+       <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+             <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar top-bar"></span>
+                  <span class="icon-bar middle-bar"></span>
+                  <span class="icon-bar bottom-bar"></span>
+                </button> -->
+                <button type="button" class="navbar-toggle collapsed menu-toggle">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar top-bar"></span>
+                  <span class="icon-bar middle-bar"></span>
+                  <span class="icon-bar bottom-bar"></span>
+                </button>
+           <div class="brand">
+             <a href="https://www.aviationtoday.com/" class="custom-logo-link" rel="home"><img width="300" height="77" src="https://www.aviationtoday.com/wp-content/uploads/2020/06/cropped-26584_av_today_logo_2015_300.png" class="custom-logo" alt="Aviation Today" /></a>           </div>
+          </div>
+          <div id="navbar" class="collapse scrollable-menu">
+                  <div class="visible-xs"><div class="container-fluid" style="display:none">
+  <!--div class="row top-dd-menu">
+    <div class="col-sm-10 search-bar">
+		<form action='http://beta.rotorandwing.com/' method='GET'>			
+			<input type="text" class="form-control" id="s" name="s" placeholder="&#xF002; Search">
+		</form>
+    </div>
+    <div class="col-sm-2 close hidden-xs text-right" data-toggle="dropdown">
+      <div class="close-area">
+        <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div-->
+
+
+  <div class="mobi-search visible-xs visible-sm">
+    <form class="search-bar" action='/' method='GET'>      
+      <input type="text" class="form-control" id="s" name="s" placeholder="&#xF002; Search">
+    </form>
+  </div>
+  <div class="row middle-dd-menu">
+
+    <div class="col-sm-3 magazine">
+      <div class="inner text-center">
+      <div class="col-sm-12">
+        <h5 style="margin-top:0rem; margin-bottom:0rem;">Digital Edition</h5>
+      </div>
+        <!-- sb -->
+        <img class="aligncenter size-large wp-image-91328" src="https://www.aviationtoday.com/wp-content/uploads/2020/08/avs_080120_cover_dgtl-1024x768.jpg" alt="" width="1024" height="768" />
+
+<a href="http://interactive.aviationtoday.com/avionicsmagazine/august-september-2020/">August/September 2020</a>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>      </div>
+    </div>
+
+    <div class="col-sm-9 left-drop-menu">
+  		<div class="inner">
+                        <div class="row">
+                  <div class="col-sm-12">
+                    <h5>Categories</h5>
+                     <ul class="list-unstyled ">
+                            <li class='col-sm-4'><a href='https://www.aviationtoday.com/category/air-taxi/'>Air Taxi</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/commercial/'>Commercial</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/business-ga/'>Business & GA</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/atm-modernization/'>ATM Modernization</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/regulation/'>Regulation</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/military/'>Military</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/connectivity/'>Connectivity</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/unmanned/'>Unmanned</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/embedded-avionics/'>Embedded Avionics</a></li>                      </ul>
+                  </div>
+                </div>
+                        
+                    <div class="row">
+          <div class="col-sm-12">
+            <h5>Events &amp; Products</h5>
+             <ul class="list-unstyled">
+                  <li class='col-sm-4'><a href='http://interactive.aviationtoday.com/avionicsmagazine/'>Digital Edition</a></li><li class='col-sm-4'><a href='/news-archive/'>News Archive</a></li><li class='col-sm-4'><a href='http://interactive.aviationtoday.com/avionicsmagazine/archive/'>Magazine Archive</a></li><li class='col-sm-4'><a href='/industry-reports/'>Industry Reports</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/2010/12/01/aerospace-acronym-abbreviation-guide/'>Acronym & Abbreviation Guide</a></li><li class='col-sm-4'><a href='http://www.rotorandwing.com'>Rotor & Wing International</a></li><li class='col-sm-4'><a href='http://www.aircraftvaluenews.com/'>Aircraft Value News</a></li>              </ul>
+          </div>
+        </div>
+              </div>
+    </div>
+
+    
+    <!--
+    <div class="col-sm-3 log-in">
+      <form>
+
+        <div class="hidden-xs">
+          <div class="form-group">
+                <label class="col-sm-4 col-form-label">Login</label>
+              <div>
+                <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+              </div>
+          </div>
+          <div class="form-group">
+              <div>
+                <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+              </div>
+          </div>
+          <div class="form-group">
+            <div>
+              <a href="">Forgot your password?</a>
+            </div>
+              <div align="right">
+                <button type="submit" class="btn btn-primary">Sign in</button>
+              </div>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="col-md-12">
+            <div id="bar"></div>
+            <p><strong>Not yet a member?</strong><br>
+            Learn about all the benefits of<br>
+            signing up for <a href="">My Account</a></p>
+          </div>
+        </div>
+
+      </form>
+    </div>
+    -->
+  </div>
+
+  <div class="row bottom-dd-menu">
+      <div class="col-sm-12 visible-xs text-right" data-toggle="collapse" data-target="#navbar">
+        <div class="close-area">
+          <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+
+
+		<!--
+        <div class="row">
+          <div class="col-xs-6">
+            <ul class="list-inline visible-xs text-left">
+              <li><a href="">DIGITAL EDITION - July 2016</a></li>
+            </ul>
+          </div>
+          <div class="col-xs-6">
+            <ul class="list-inline visible-xs text-right">
+              <li><a href="">Sign in</a></li>
+              <li><a href="">Subscribe</a></li>
+            </ul>
+          </div>
+        </div>
+        -->
+        <!--
+                <ul class="list-inline hidden-xs text-right">
+			        </ul>
+                -->     
+      </div>
+    </div>
+</div>
+</div>
+          </div>
+
+          <div id="navbar" class="hidden-xs">
+            <ul class="nav navbar-nav navbar-right navi">
+              <li id="navi-hb">
+                <a class="feature" target="_blank" href="https://www.avionicsvendordirectory.com/"><span>Avionics Vendor Directory</span></a>
+              </li>
+              <li id="navi-hb" class="dropdown"><a href="/?s" class="dropdown-toggle search-only-sect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search fa-lg"></i> Search</a>
+                <div class="dropdown-menu scrollable-menu" style="padding-bottom: 0.3rem;border-radius: 0px;">
+                  
+
+<div class="container-fluid">
+  <div class="row top-dd-menu">
+      <form action='/' method='GET'>      
+        <div class="col-sm-6 col-sm-offset-2 search-bar search-bar-only">
+    			<input type="text" class="form-control" id="s" name="s" placeholder="&#xF002; Search">
+        </div>
+        <div class="col-sm-2 search-btn-cont"><button type="submit" class="btn btn-default search-btn form-control">Search</button></div>
+      </form>
+        <!--div class="col-sm-2 close hidden-xs text-right" data-toggle="dropdown">
+          <div class="close-area">
+          <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+          </div>
+        </div-->
+  </div>
+</div>
+
+                </div>
+              </li>
+              <!--<li><a href="">Sign in</a></li>-->
+              <li id="navi-hb"><a href="/subscribe/">Subscribe</a></li>
+
+              <li id="navi-hb" class="dropdown menu-link-cont">
+                <a href="#" id="menu-link" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars" aria-hidden="true">&nbsp;</i><i class="fa fa-close" aria-hidden="true">&nbsp;</i><span id="menu">MENU</span></a>
+                <div class="dropdown-menu scrollable-menu">
+                  <div class="container-fluid" style="display:none">
+  <!--div class="row top-dd-menu">
+    <div class="col-sm-10 search-bar">
+		<form action='http://beta.rotorandwing.com/' method='GET'>			
+			<input type="text" class="form-control" id="s" name="s" placeholder="&#xF002; Search">
+		</form>
+    </div>
+    <div class="col-sm-2 close hidden-xs text-right" data-toggle="dropdown">
+      <div class="close-area">
+        <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+      </div>
+    </div>
+  </div-->
+
+
+  <div class="mobi-search visible-xs visible-sm">
+    <form class="search-bar" action='/' method='GET'>      
+      <input type="text" class="form-control" id="s" name="s" placeholder="&#xF002; Search">
+    </form>
+  </div>
+  <div class="row middle-dd-menu">
+
+    <div class="col-sm-3 magazine">
+      <div class="inner text-center">
+      <div class="col-sm-12">
+        <h5 style="margin-top:0rem; margin-bottom:0rem;">Digital Edition</h5>
+      </div>
+        <!-- sb -->
+        <img class="aligncenter size-large wp-image-91328" src="https://www.aviationtoday.com/wp-content/uploads/2020/08/avs_080120_cover_dgtl-1024x768.jpg" alt="" width="1024" height="768" />
+
+<a href="http://interactive.aviationtoday.com/avionicsmagazine/august-september-2020/">August/September 2020</a>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>      </div>
+    </div>
+
+    <div class="col-sm-9 left-drop-menu">
+  		<div class="inner">
+                        <div class="row">
+                  <div class="col-sm-12">
+                    <h5>Categories</h5>
+                     <ul class="list-unstyled ">
+                            <li class='col-sm-4'><a href='https://www.aviationtoday.com/category/air-taxi/'>Air Taxi</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/commercial/'>Commercial</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/business-ga/'>Business & GA</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/atm-modernization/'>ATM Modernization</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/regulation/'>Regulation</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/military/'>Military</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/connectivity/'>Connectivity</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/unmanned/'>Unmanned</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/category/embedded-avionics/'>Embedded Avionics</a></li>                      </ul>
+                  </div>
+                </div>
+                        
+                    <div class="row">
+          <div class="col-sm-12">
+            <h5>Events &amp; Products</h5>
+             <ul class="list-unstyled">
+                  <li class='col-sm-4'><a href='http://interactive.aviationtoday.com/avionicsmagazine/'>Digital Edition</a></li><li class='col-sm-4'><a href='/news-archive/'>News Archive</a></li><li class='col-sm-4'><a href='http://interactive.aviationtoday.com/avionicsmagazine/archive/'>Magazine Archive</a></li><li class='col-sm-4'><a href='/industry-reports/'>Industry Reports</a></li><li class='col-sm-4'><a href='https://www.aviationtoday.com/2010/12/01/aerospace-acronym-abbreviation-guide/'>Acronym & Abbreviation Guide</a></li><li class='col-sm-4'><a href='http://www.rotorandwing.com'>Rotor & Wing International</a></li><li class='col-sm-4'><a href='http://www.aircraftvaluenews.com/'>Aircraft Value News</a></li>              </ul>
+          </div>
+        </div>
+              </div>
+    </div>
+
+    
+    <!--
+    <div class="col-sm-3 log-in">
+      <form>
+
+        <div class="hidden-xs">
+          <div class="form-group">
+                <label class="col-sm-4 col-form-label">Login</label>
+              <div>
+                <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+              </div>
+          </div>
+          <div class="form-group">
+              <div>
+                <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+              </div>
+          </div>
+          <div class="form-group">
+            <div>
+              <a href="">Forgot your password?</a>
+            </div>
+              <div align="right">
+                <button type="submit" class="btn btn-primary">Sign in</button>
+              </div>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="col-md-12">
+            <div id="bar"></div>
+            <p><strong>Not yet a member?</strong><br>
+            Learn about all the benefits of<br>
+            signing up for <a href="">My Account</a></p>
+          </div>
+        </div>
+
+      </form>
+    </div>
+    -->
+  </div>
+
+  <div class="row bottom-dd-menu">
+      <div class="col-sm-12 visible-xs text-right" data-toggle="collapse" data-target="#navbar">
+        <div class="close-area">
+          <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+
+
+		<!--
+        <div class="row">
+          <div class="col-xs-6">
+            <ul class="list-inline visible-xs text-left">
+              <li><a href="">DIGITAL EDITION - July 2016</a></li>
+            </ul>
+          </div>
+          <div class="col-xs-6">
+            <ul class="list-inline visible-xs text-right">
+              <li><a href="">Sign in</a></li>
+              <li><a href="">Subscribe</a></li>
+            </ul>
+          </div>
+        </div>
+        -->
+        <!--
+                <ul class="list-inline hidden-xs text-right">
+			        </ul>
+                -->     
+      </div>
+    </div>
+</div>
+                </div>
+              </li>
+
+              <!-- <li id="navi-hb" class="dropdown"><a href="/?s" class="dropdown-toggle search-only-sect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-search fa-lg"></i> Search</a>
+                <div class="dropdown-menu scrollable-menu" style="padding-bottom: 0.3rem;border-radius: 0px;">
+                                  </div>
+              </li> -->
+
+            </ul>
+          </div><!--/.nav-collapse -->
+
+          <div class="dropdown-new">
+          <!--   -->
+          <style>
+body{
+	overflow-x: hidden;
+}
+#menu-link.dropdown-button-reverse{
+	background:#fff;
+	color:#272932;
+}
+.dropdown-new{
+	display:none;
+	position: fixed;
+	width:100%;
+    top: 48px;
+    left: 0;
+    z-index: 1000;
+    padding: 30px 0;
+    margin: 2px 0 0;
+    list-style: none;
+    font-size: 16px;
+    text-align: left;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.15);
+    border-radius: 0;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    max-height:100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.dropdownmain{
+	padding-bottom:15px;
+	/* height:2000px;*/
+}
+.dropdown-new .inn{
+	display:inline-block;
+	text-align:left;
+}
+.dropdown-new .magazine{
+	border-right: 1px solid #CCC;
+}
+.dropdown-new .magazine a{
+	display:block;
+}
+.dropdown-new .magazine a img{
+	width:100%;
+	max-width:100%;
+}
+.dropdown-new .magazine a,
+.dropdown-new .magazine a img,
+.dropdown-new .magazine .text,
+.dropdown-new .magazine h5{
+	margin:0;
+	padding:0;
+}
+.dropdown-new .magazine h5{
+	font-size:14px;
+	font-weight:normal;
+	margin-bottom:5px;
+}
+.dropdown-new .magazine .text{
+	font-size:24px;
+	margin-top:5px;
+	padding-bottom:15px;
+	margin-bottom:15px;
+	/*border-bottom: 1px solid #CCC;*/
+}
+.dropdown-new .magazine .text a{
+	color:#6b6b6b;
+	font-family: Raleway;
+}
+.dropdown-new .magazine .text a:hover{
+	color:#5aa5b1 ;
+}
+.dropdown-new .unit{
+	padding:0 30px;
+}
+.dropdown-new .unit li{
+	line-height:30px;
+}
+.dropdown-new .unit a{
+	font-weight:normal;
+	font-size:16px;
+	color:#6b6b6b ;
+	font-family: Raleway;
+}
+.dropdown-new .unit a:hover{
+	color:#5aa5b1 ;
+}
+.dropdown-new .inn{
+	max-width:66%;
+	text-align:center;
+}
+.dropdown-new .inn img{
+	width:100% !important;
+	height:auto !important;
+}
+.dropdown-new .bottomLeft a{
+	color:#272932;
+}
+.dropdown-new .bottomLeft a:hover{
+	color:#5aa5b1 ;
+}
+.dropdown-new .inn .bottomLeft li{
+	line-height:30px;
+	padding:5px 0;
+	border-bottom:1px dotted rgba(0,0,0,0.3);
+}
+.dropdown-new .inn .bottomLeft ul li:last-of-type{
+	border-bottom:0;
+}
+.sm-clear-line{
+	clear:both;
+	height:30px;
+}
+.dropdown-new .search-box{
+	display:none;
+}
+@media only screen and (min-width: 992px) {
+	.sm-clear-line{
+		display:none;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.sm-clear-line{
+		display:none;
+	}
+	header .magazine .inner,
+	.dropdown-new .magazine{
+		border:0;
+	}
+	.dropdownmain .wrapper{
+		margin:0;
+	   display:table; 
+	}
+	.dropdownmain .wrapper .magazine{
+		width:100%;
+	    display:table-footer-group;
+	    float:none;  
+	}
+	.dropdownmain .wrapper .links{
+	    display:table-header-group;
+	    width:100%;
+	    float:none;  
+	}
+	.dropdown-new .unit ul{
+		padding-bottom:30px;
+		margin-bottom:30px;
+		border-bottom:1px solid #6b6b6b;
+	}
+	.dropdown-new .unit h5{
+		font-size:26px;
+	}
+	.dropdown-new .unit li{
+		padding:5px 0;
+		border-bottom:1px dotted rgba(0,0,0,0.3);
+	}
+	.dropdown-new .unit ul li:last-of-type{
+		border-bottom:0;
+	}
+	.dropdown-new .inn .bottomLeft li{
+		padding:5px 0;
+		border-bottom:1px dotted rgba(0,0,0,0.3);
+	}
+	.dropdown-new .inn .bottomLeft ul li:last-of-type{
+		border-bottom:0;
+	}
+	.dropdown-new .inn .bottomLeft{
+		margin-bottom:60px;
+	}
+	.dropdown-new .magazine .text{
+		border:0;
+	}
+	.dropdown-new .search-box{
+		display:block;
+		padding:0 30px 15px;
+	}
+	.dropdown-new .search-box input{
+		width:79.7%;
+		float:left;
+	}
+	.dropdown-new .search-box button{
+		width:19.7%;
+		float:right;
+	}
+}
+</style>
+<div class="dropdownmain">
+
+	<div class="search-box">
+		<form action="/" method="GET">      
+			<input type="text" class="form-control" id="s" name="s" placeholder="Search">
+			<button type="submit" class="btn btn-default search-btn form-control"><i class="fa fa-search" aria-hidden="true"></i></button>
+		</form>
+		<div style="clear:both;"></div>
+	</div>
+
+	<div class="row wrapper">
+		
+		<div class="col-sm-4 col-md-3 magazine">
+			<div class="inner text-center">
+				<div class="inn">
+					<h5>Digital Edition</h5>
+					<img class="aligncenter size-large wp-image-91328" src="https://www.aviationtoday.com/wp-content/uploads/2020/08/avs_080120_cover_dgtl-1024x768.jpg" alt="" width="1024" height="768" />
+
+<a href="http://interactive.aviationtoday.com/avionicsmagazine/august-september-2020/">August/September 2020</a>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>											<div class="bottomLeft">
+							<ul class="list-unstyled ">
+								<li><a href='https://www.aviationtoday.com/contact-us/'>Contact Us</a></li><li><a href='http://www.aviationtoday.com/news-archive/'>News Archive</a></li>							</ul>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-8 col-md-9 links">
+		<div class="row">
+
+		<div class="col-xs-12 col-sm-6 col-md-3">
+
+							<div class="unit">
+					<h5>Categories</h5>
+					<ul class="list-unstyled ">
+						<li><a href='https://www.aviationtoday.com/category/air-taxi/'>Air Taxi</a></li><li><a href='https://www.aviationtoday.com/category/commercial/'>Commercial</a></li><li><a href='https://www.aviationtoday.com/category/business-ga/'>Business & GA</a></li><li><a href='https://www.aviationtoday.com/category/atm-modernization/'>ATM Modernization</a></li><li><a href='https://www.aviationtoday.com/category/regulation/'>Regulation</a></li><li><a href='https://www.aviationtoday.com/category/military/'>Military</a></li><li><a href='https://www.aviationtoday.com/category/connectivity/'>Connectivity</a></li><li><a href='https://www.aviationtoday.com/category/unmanned/'>Unmanned</a></li><li><a href='https://www.aviationtoday.com/category/embedded-avionics/'>Embedded Avionics</a></li>					</ul>
+				</div>
+			
+		</div>
+
+		<div class="col-xs-12 col-sm-6 col-md-3">
+
+							<div class="unit">
+					<h5>Content</h5>
+					<ul class="list-unstyled ">
+						<li><a href='http://interactive.aviationtoday.com/avionicsmagazine/'>Digital Edition</a></li><li><a href='/news-archive/'>News Archive</a></li><li><a href='http://interactive.aviationtoday.com/avionicsmagazine/archive/'>Magazine Archive</a></li><li><a href='/industry-reports/'>Industry Reports</a></li><li><a href='https://www.aviationtoday.com/2010/12/01/aerospace-acronym-abbreviation-guide/'>Acronym & Abbreviation Guide</a></li><li><a href='http://www.rotorandwing.com'>Rotor & Wing International</a></li><li><a href='http://www.aircraftvaluenews.com/'>Aircraft Value News</a></li>					</ul>
+				</div>
+			
+		</div>
+
+		<div class="sm-clear-line"></div>
+
+		<div class="col-xs-12 col-sm-6 col-md-3">
+
+							<div class="unit">
+					<h5>Events</h5>
+					<ul class="list-unstyled ">
+						<li><a href='http://www.gcasummit.com/'>GCA Summit</a></li><li><a href='http://www.aviationtoday.com/events/'>Event Calendar</a></li><li><a href='https://jobs.aviationtoday.com/'>Job Center</a></li><li><a href='http://www.aviationtoday.com/webinars/'>Webinars</a></li>					</ul>
+				</div>
+			
+		</div>
+
+		<div class="col-xs-12 col-sm-6 col-md-3">
+
+							<div class="unit">
+					<h5>About Us</h5>
+					<ul class="list-unstyled ">
+						<li><a href='https://www.aviationtoday.com/contact-us/'>Contact Us</a></li><li><a href='http://www.aviationtoday.com/subscribe/'>Subscribe</a></li><li><a href='https://www.aviationtoday.com/advertising/'>Advertising</a></li><li><a href='http://www.aviationtoday.com/subscribe/'>E-letters</a></li><li><a href='https://www.gcasummit.com/podcasts/'>Podcasts</a></li><li><a href='http://www.aviationtoday.com/2018-writing-submission-guidelines/'>Contribute to Avionics</a></li><li><a href='http://www.accessintel.com/privacypolicy/'>Privacy Policy</a></li>					</ul>
+				</div>
+			
+		</div>
+
+		<div class="sm-clear-line"></div>
+
+		</div>
+		</div>
+
+</div>          </div>
+
+        </div>
+      </nav>
+      <div class="sec-menu container-fluid hidden-xs">
+		            <div class="row">
+            <div class="col-sm-12">
+              <div class="topics" align="center">
+                <ul class="list-inline">
+					<li class=''><a href='https://www.aviationtoday.com/category/air-taxi/'>Air Taxi</a></li><li class='highlignt'><a href='https://www.aviationtoday.com/category/commercial/'>Commercial</a></li><li class=''><a href='https://www.aviationtoday.com/category/business-ga/'>Business & GA</a></li><li class=''><a href='https://www.aviationtoday.com/category/atm-modernization/'>ATM Modernization</a></li><li class=''><a href='https://www.aviationtoday.com/category/regulation/'>Regulation</a></li><li class=''><a href='https://www.aviationtoday.com/category/military/'>Military</a></li><li class=''><a href='https://www.aviationtoday.com/category/connectivity/'>Connectivity</a></li><li class=''><a href='https://www.aviationtoday.com/category/embedded-avionics/'>Embedded Avionics</a></li>                </ul>
+              </div>
+            </div>
+          </div>
+                  </div>
+          </header>
+
+ <!-- /987/aviationtoday.com/avi-fluid hugo -->
+<div id='div-gpt-ad-1566569200082-0' style='width: 1px; height: 1px;'>
+</div>
+      
+
+
+
+<div id="featured-stories-slider" class="container-fluid top-post-feed-cont">
+	<div class="row">
+		<div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 latest_news slider-header-cont">
+			<div class="wrapper">Latest News</div>
+		</div>
+		<div class="col-xs-12 col-sm-10 col-md-10 col-lg-11">
+			<div class="row slicks slick-s-recent">
+									<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/17/cathay-pacific-launch-deutsche-telekom-flight-wi-fi-portal/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/bi-mi-201014-isp-cathay-en-300x200.jpg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/17/cathay-pacific-launch-deutsche-telekom-flight-wi-fi-portal/">Cathay Pacific to Launch Deutsche Telekom In-flight Wi-Fi Portal</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 partner-content" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.picwire.com/wp-content/uploads/files/pdfs/technical-articles/pic-technical-article-ultralite.pdf?utm_source=AvionicsNative&#038;utm_campaign=PIC-Avionics-Native#new_tab"><img src="https://www.aviationtoday.com/wp-content/uploads/2019/02/pic-wire-cable-300x200.jpg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.picwire.com/wp-content/uploads/files/pdfs/technical-articles/pic-technical-article-ultralite.pdf?utm_source=AvionicsNative&#038;utm_campaign=PIC-Avionics-Native#new_tab">How to SWAP-Optimize Aircraft Weight With Cabling</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/16/adacore-ceo-hes-adapting-face/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/screen-shot-2020-10-16-at-1-40-47-pm-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/16/adacore-ceo-hes-adapting-face/">AdaCore Develops New Capabilities for Open System Standards</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/16/elbit-systems-looks-provide-hdm-fvl-program/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/screen-shot-2020-10-16-at-12-25-57-pm-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/16/elbit-systems-looks-provide-hdm-fvl-program/">Elbit Systems Looks to Provide Wearable Display System for Future Vertical Lift Program</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/"><img src="https://www.aviationtoday.com/wp-content/uploads/2019/10/brad-grady-300x200.jpeg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/">PODCAST: NSR's Brady Grady Talks IFC Business Models, COVID-19 and More</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/14/defiant-test-pilot-talks-x2-technology-speed-and-maneuverability/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/06/sb-1-defiant-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/14/defiant-test-pilot-talks-x2-technology-speed-and-maneuverability/">Defiant Test Pilot Talks X2 Technology Speed and Maneuverability</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/13/preliminary-design-review-f-35-full-motion-video-data-link-upcoming/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/06/f-35a_paris_1920x1125-jpg-pc-adaptive-1920-medium-624x366-300x200.jpeg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/13/preliminary-design-review-f-35-full-motion-video-data-link-upcoming/">Preliminary Design Review for F-35 Full Motion Video Data Link Upcoming</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/13/collins-aerospace-develop-future-vertical-lift-digital-backbone/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/screen-shot-2020-10-13-at-4-10-48-pm-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/13/collins-aerospace-develop-future-vertical-lift-digital-backbone/">Collins Aerospace to Develop Future Vertical Lift Digital Backbone</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/13/atsg-expands-omni-air-connectivity-upgrades-abx-air-ati-fleet/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/atsg-tdy-press-release-1200x628-300x200.jpg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/13/atsg-expands-omni-air-connectivity-upgrades-abx-air-ati-fleet/">ATSG Expands Omni Air Connectivity Upgrades to ABX Air and ATI Fleet</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/11/whats-trending-aerospace-october-11-2020/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/b-scholl-rollout-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/11/whats-trending-aerospace-october-11-2020/">What's Trending in Aerospace - October 11, 2020</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/09/live-testing-passenger-data-simulation-show-low-risk-flight-covid-19-transmission/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/airbus-study-300x200.jpg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/09/live-testing-passenger-data-simulation-show-low-risk-flight-covid-19-transmission/">Live Testing, Passenger Data and Simulation Show Low Risk of In-flight COVID-19 Transmission</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/09/first-dod-kubernetes-installed-u-2-dragon-lady/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/screen-shot-2020-10-08-at-5-48-00-pm-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/09/first-dod-kubernetes-installed-u-2-dragon-lady/">In a First for the DoD, Kubernetes Installed on U-2 Dragon Lady</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/09/podcast-faas-peter-skaves-talks-aircraft-systems-information-security-protection/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/download-209x200.jpeg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/09/podcast-faas-peter-skaves-talks-aircraft-systems-information-security-protection/">PODCAST: FAA's Peter Skaves Talks Aircraft Systems Information Security Protection</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/08/transformed-for-the-21st-century-b-1b-lancer-completes-ibs-modification/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/2789894-300x200.jpg" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/08/transformed-for-the-21st-century-b-1b-lancer-completes-ibs-modification/">B-1B Systems Engineer Explains How IBS Makes Future Bomber Upgrades Easier</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/06/boeing-projects-hardship-commercial-stability-defense/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/screenshot-77-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/06/boeing-projects-hardship-commercial-stability-defense/">Boeing Projects Hardship for Commercial and Stability for Defense</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+								<div class="col-md-4 post" id="item">
+						<div class="row">
+							<div class="col-md-6 slider-img-div">
+								<a href="https://www.aviationtoday.com/2020/10/06/aersale-nears-certification-boeing-737-wearable-display-system/"><img src="https://www.aviationtoday.com/wp-content/uploads/2020/10/aeraware-300x200.png" style="width:100%;"/></a>
+							</div>
+							<div class="col-md-6 slider-text-div">
+								<div class="wrapper">
+									<h3><a href="https://www.aviationtoday.com/2020/10/06/aersale-nears-certification-boeing-737-wearable-display-system/">AerSale Nears Certification for Boeing 737 Wearable Display System</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+						</div>
+		</div>
+	</div>
+</div>
+
+  
+</section><!--TOP SECTION-->
+
+<section class="top-banner">
+	<div class="">
+		<div class="">
+		    <div class="banner-img text-center">
+				<!-- /987/aviationtoday.com/Avionics-Leaderboard-created-Dec-2016 -->
+				<!-- in file ad1.php -->
+				<div id="div-gpt-ad-1482248583477-0"></div>
+		    </div>
+		  </div>
+	</div><!--top-banner-->
+</section>
+
+<section class="container section5">
+	
+	<div class="row">
+		<div class="col-sm-12">
+			<!-- Header -->
+			<div class="post-header">
+	<div class="category">
+			</div>
+	<a href='/category/connectivity'>Connectivity</a>, <a href='/category/iiot'>IIOT</a>, <a href='/category/iiot-aerospace'>IIOT Aerospace</a>						
+	</p>
+	<h1>PODCAST: NSR&#8217;s Brady Grady Talks IFC Business Models, COVID-19 and More</h1>
+
+	<!-- categories and share -->
+	<div class="row">
+		<div id="light-bg" class="col-md-12">
+			<p>
+				<strong>By <a href='/author/wbellamyaccessintel-com'/>Woodrow Bellamy III</a></strong> | October 16, 2020				<br /><a href='/contact-us/'>Send Feedback</a> | <a title='Author Twitter' target='_blank' href='https://www.twitter.com/WBellamyIIIAC'><i class='fa fa-twitter' aria-hidden='true'></i> @WBellamyIIIAC</a>			</p>
+		</div>		
+	</div>
+	<div class="row">
+		<div id="light-bg" class="col-xs-12 col-sm-6 col-md-9">
+		<a href='/?s=&facets[taxonomy_post_tag][]=antennas'>antennas</a>, <a href='/?s=&facets[taxonomy_post_tag][]=covid-19'>COVID-19</a>, <a href='/?s=&facets[taxonomy_post_tag][]=in-flight+connectivity'>in-flight connectivity</a>, <a href='/?s=&facets[taxonomy_post_tag][]=northern+sky+research+%28nsr%29'>Northern Sky Research (NSR)</a>		</div>
+		<div class="col-xs-12 col-sm-6 col-md-3 social-links-row">
+				<div id="social-share">
+	<div class="addthis_toolbox">
+	  <div class="custom_images">
+	   <ul>
+	   	<li>
+	   		 <a class="addthis_button_facebook at300b" title="Facebook" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+	   	</li>
+	   	<li>
+	   		<a class="addthis_button_twitter at300b" title="Tweet" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+	   	</li>
+	   	<li>
+	   		<a class="addthis_button_email at300b" title="Email" href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+		</li>
+		<li>
+	   		<a class="addthis_button_linkedin at300b" title="View more services" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i>
+			</a>
+	   	</li>
+	   	<li>
+	   		<a class="addthis_button_print at300b" title="View more services" href="#"><i class="fa fa-print" aria-hidden="true"></i>
+			</a>
+	   	</li>
+		<li>
+	   		<a class="addthis_button_more at300b" title="View more services" href="#"><i class="fa fa-share" aria-hidden="true"></i></a>
+	   	</li>
+	   </ul>
+	  </div>
+		<div class="atclear"></div>
+	</div>
+</div>
+		</div>
+	</div>
+	<!--  -->
+</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-8">
+			<!-- Content -->
+			<div class="row">
+				<div class="col-sm-12">
+					<!-- content -->
+					<div class="the_content">
+	<p></p>
+<div id="attachment_84844" style="width: 310px" class="wp-caption aligncenter">
+<img aria-describedby="caption-attachment-84844" class="size-medium wp-image-84844" src="https://www.aviationtoday.com/wp-content/uploads/2019/10/brad-grady-300x300.jpeg" alt="" width="300" height="300"><p id="caption-attachment-84844" class="wp-caption-text">Brad Grady, principal analyst at Northern Sky Research, gave an insightful presentation on satellite connectivity along with Vivek Prasad during the recent Cabin Chats 2020 virtual event.</p>
+</div>
+<p>On this episode of the <a href="https://podcasts.apple.com/us/podcast/global-connected-aircraft-podcast/id1434117877"><em>Connected Aircraft Podcast</em></a>, Brad Grady, principal analyst for Northern Sky Research (NSR), gives some updates and insight on how COVID-19 is continuing to impact in-flight connectivity, antenna technology, the concept of free in-flight Internet, and more.</p>
+<p>Grady has given presentations at the Global Connected Aircraft Summit in recent years and leads a group of NSR Analysts focused on Aeronautical and Land-Mobile opportunities, and authors NSR’s Maritime [satellite communications] SATCOM Markets, Energy SATCOM Markets, and Government and Military satellite technologies, according to his <a href="https://www.nsr.com/team_new/brad-grady/">profile</a>.</p><div style='clear:both; border-top: 1px solid rgba(122, 122, 122, 0.5); border-bottom: 1px solid rgba(122, 122, 122, 0.5); text-align:center; padding-bottom:20px; padding-top:10px;'>
+  <!-- /987/aviationtoday.com/Avionics_728x90_story_pages_only -->
+  <!-- ad4.php -->
+  <div id="div-gpt-ad-1485447378796-0"></div>
+</div>
+
+<p class="p1">Have suggestions or topics we should focus on in the next episode? Email the host, Woodrow Bellamy at <a class="c-link" href="mailto:wbellamy@accessintel.com" target="_blank" rel="noreferrer noopener" data-feathr-click-track="true">wbellamy@accessintel.com</a>, or drop him a line on Twitter <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Ftwitter.com%2FWBellamyIIIAC" target="_blank" rel="noreferrer noopener" data-feathr-click-track="true">@WbellamyIIIAC</a>.</p>
+<p class="p1">Listen to this episode below, or <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fglobal-connected-aircraft-podcast%2Fid1434117877" target="_blank" rel="noopener noreferrer" data-stringify-link="https://podcasts.apple.com/us/podcast/global-connected-aircraft-podcast/id1434117877" data-sk="tooltip_parent" aria-describedby="sk-tooltip-116" data-feathr-click-track="true">check it out on iTunes</a> or <a class="c-link" href="https://slack-redir.net/link?url=https%3A%2F%2Fplay.google.com%2Fmusic%2Flisten%3Fu%3D0%23%2Fps%2FIzijk4ye74dwkaqsqeuhouongei" target="_blank" rel="noopener noreferrer" data-stringify-link="https://play.google.com/music/listen?u=0#/ps/Izijk4ye74dwkaqsqeuhouongei" data-sk="tooltip_parent" aria-describedby="sk-tooltip-117" data-feathr-click-track="true">Google Play</a> If you like the show, subscribe on your favorite podcast app to get new episodes as soon as they’re released.</p>
+<p style="text-align: center;"><iframe style="border: none;" title="Northern Sky Research Analyst Talks In-flight Connectivity Business Models, COVID-19 and More" src="https://www.podbean.com/media/player/vfmbe-ef9013?from=pb6admin&amp;download=1&amp;version=1&amp;auto=0&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Helvetica&amp;skin=1&amp;pfauth=&amp;btn-skin=107" width="100%" height="122" scrolling="no" data-name="pb-iframe-player"></iframe></p>
+</div>
+				</div>
+			</div>
+			<!-- Receive -->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row receive">
+	<div class="col-xs-12 col-sm-9 txt">
+		<h3>Receive the latest avionics news right to your inbox</h3>
+	</div>
+	<div class="col-xs-12 col-sm-3 btn">		
+		<a href="/subscribe/?utm_source=EditorialButton&utm_medium=Article&utm_campaign=EditorialSignUp">
+			<button type="submit" class="btn btn-default">
+				Sign Up
+			</button>
+		</a>	
+	</div>
+</div>
+				</div>
+			</div>
+			<!-- more on this topic -->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="more-on-this-topic">
+	<h2>More On This Topic</h2><div class='col-xs-6 col-sm-3' style='text-align:center;'>
+						<a href='https://www.aviationtoday.com/2020/10/16/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19/'>
+							<div class='img-div-story'>
+							<img src='https://www.aviationtoday.com/wp-content/uploads/2019/10/brad-grady-300x200.jpeg' style='height:auto; width:100%;' /></div>PODCAST: NSR's Brady Grady Talks IFC Business Models, COVID-19 and More
+						</a>
+					</div><div class='col-xs-6 col-sm-3' style='text-align:center;'>
+						<a href='https://www.aviationtoday.com/2020/10/11/whats-trending-aerospace-october-11-2020/'>
+							<div class='img-div-story'>
+							<img src='https://www.aviationtoday.com/wp-content/uploads/2020/10/b-scholl-rollout-300x200.png' style='height:auto; width:100%;' /></div>What's Trending in Aerospace - October 11, 2020
+						</a>
+					</div><div class="clearfix visible-xs"></div><div class='col-xs-6 col-sm-3' style='text-align:center;'>
+						<a href='https://www.aviationtoday.com/2020/10/09/first-dod-kubernetes-installed-u-2-dragon-lady/'>
+							<div class='img-div-story'>
+							<img src='https://www.aviationtoday.com/wp-content/uploads/2020/10/screen-shot-2020-10-08-at-5-48-00-pm-300x200.png' style='height:auto; width:100%;' /></div>In a First for the DoD, Kubernetes Installed on U-2 Dragon Lady
+						</a>
+					</div><div class='col-xs-6 col-sm-3' style='text-align:center;'>
+						<a href='https://www.aviationtoday.com/2020/10/09/podcast-faas-peter-skaves-talks-aircraft-systems-information-security-protection/'>
+							<div class='img-div-story'>
+							<img src='https://www.aviationtoday.com/wp-content/uploads/2020/10/download-209x200.jpeg' style='height:auto; width:100%;' /></div>PODCAST: FAA's Peter Skaves Talks Aircraft Systems Information Security Protection
+						</a>
+					</div><div class="clearfix visible-xs"></div>
+</div>
+				</div>
+			</div>
+			<!-- Story comments  -->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="story-comments">
+	
+<div id="disqus_thread">
+    </div>
+
+</div>				</div>
+			</div>
+			<!-- also on-->
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row also-on-rwi"'>
+		<div class='col-sm-12'><h2>Also On Avionics</h2></div><div class='col-xs-6 col-sm-3'>
+							<a href='https://www.aviationtoday.com/2014/04/28/duncan-sees-increase-in-demand-for-canadian-connectivity/'>
+								<div class='img-div-story'>
+								<img src='https://www.aviationtoday.com/wp-content/uploads/2017/01/ThinkstockPhotos-487603418-300x200.jpg' style='height:auto; width:100%;' /></div>
+								Duncan Sees Increase in Demand for Canadian Connectivity
+							</a>
+						</div><div class='col-xs-6 col-sm-3'>
+							<a href='https://www.aviationtoday.com/2015/01/13/arinc-direct-sees-full-integration-into-rockwell-collins-looks-to-synchronized-future/'>
+								<div class='img-div-story'>
+								<img src='https://www.aviationtoday.com/wp-content/uploads/2015/01/ARINCDirect-300x200.jpg' style='height:auto; width:100%;' /></div>
+								ARINC Direct Sees Full Integration into Rockwell Collins, Looks to Synchronized Future
+							</a>
+						</div><div class="clearfix visible-xs"></div><div class='col-xs-6 col-sm-3'>
+							<a href='https://www.aviationtoday.com/2012/05/31/northrop-grumman-l-3-mas-to-design-polar-hawk-uas-for-canada/'>
+								<div class='img-div-story'>
+								<img src='https://www.aviationtoday.com/wp-content/uploads/2017/01/ThinkstockPhotos-487603418-300x200.jpg' style='height:auto; width:100%;' /></div>
+								Northrop Grumman, L-3 MAS to Design Polar Hawk UAS for Canada
+							</a>
+						</div><div class='col-xs-6 col-sm-3'>
+							<a href='https://www.aviationtoday.com/2014/02/21/sandel-improves-sg102-performance/'>
+								<div class='img-div-story'>
+								<img src='https://www.aviationtoday.com/wp-content/uploads/2014/02/SG102-300x200.jpg' style='height:auto; width:100%;' /></div>
+								Sandel Improves SG102 Performance&nbsp;
+							</a>
+						</div><div class="clearfix visible-xs"></div>	</div>
+
+	
+				</div>
+			</div>	
+		</div>
+		<!-- Sidebar -->
+		<div class="col-sm-4 ad-300">
+			<!-- sidebar add -->
+			<div class="banner right" style="float:none">
+	<div style="width:300px; margin-left:auto; margin-right:auto;" id="item-banner" data-spy="affix" data-offset-top="590" data-offset-bottom="750">
+				<!-- sidebar-banner.php -->
+		<script>
+
+			googletag.cmd.push(function() {
+				googletag.defineSlot('/987/aviationtoday.com/avionics-midpage-new', [[300, 250], [300, 600]], 'div-gpt-ad-1479409658442-0').addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+			});
+
+		</script>
+		<div id="div-gpt-ad-1479409658442-0"></div>
+	</div>
+</div><!--/.banner .right-->
+		</div>
+	</div>
+
+</section>
+
+
+<!-- <script>
+var $j = jQuery.noConflict();
+
+$j(document).ready(function () {
+		// $(".home .post.one").css({'height':($(".home .post.one img").height()+'px')});
+
+
+    	// alert($j('#rotorwingrightsquarebottom').height());
+ 		var controller = new ScrollMagic.Controller();
+ 		if ($( window ).width() >= 768) {
+			var scenefront = new ScrollMagic.Scene({
+	      		triggerElement: ".the_content",
+	      		triggerHook:'.1',
+	      		// offset:450,
+	      		duration:$j(".the_content").height()
+	          })
+	          .setPin(".single .banner.right")
+	          // .addIndicators()
+	           .addTo(controller);
+	    
+	 }
+
+	 	
+  });
+	
+</script> -->
+			<footer class="footer-cont">
+				<div class="container-fluid">
+					<div class="row footer-top">
+						<div class="col-xs-12 col-sm-6 col-md-2 footer-logo" align="center">
+							<a href="https://www.aviationtoday.com/" class="custom-logo-link" rel="home"><img width="300" height="77" src="https://www.aviationtoday.com/wp-content/uploads/2020/06/cropped-26584_av_today_logo_2015_300.png" class="custom-logo" alt="Aviation Today" /></a>						</div>
+						<div class="hidden-xs hidden-sm col-md-8 footer-slogan text-center">
+							<div>
+								<h4>The Pulse of Avionics Technology</h4>
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6 col-md-2 footer-social-icons" align="center">
+							<div class="col-xs-3 col-sm-3">
+								<a href="https://www.facebook.com/avionicsmagazine/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+							</div>
+							<div class="col-xs-3 col-sm-3">
+								<a href="https://twitter.com/avionicsmag" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</div>
+							<div class="col-xs-3 col-sm-3">
+								<a href="https://www.linkedin.com/company/avionics-magazine" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+							</div>
+							<div class="col-xs-3 col-sm-3">
+								<a href="https://www.youtube.com/channel/UCVPZSvlx-8JEriWezRBIeOQ" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i>
+</i></a>
+							</div>
+						</div>
+					</div>
+					<!--footer-top-->
+										<div class="row footer-body">
+						<div class="col-sm-6 col-md-3">
+							<div class="quick-links">								<h1>Quick Links</h1>							
+								<div class="nav-links-white-light">
+									<ul>
+										<li><a href='https://www.aviationtoday.com/category/commercial/'>Commercial</a></li><li><a href='https://www.aviationtoday.com/category/business-ga/'>Business & GA</a></li><li><a href='https://www.aviationtoday.com/category/military/'>Military</a></li><li><a href='https://www.aviationtoday.com/category/embedded-avionics/'>Embedded Avionics</a></li><li><a href='https://www.aviationtoday.com/category/atm-modernization/'>ATM Modernization</a></li><li><a href='https://www.aviationtoday.com/category/connectivity/'>Connectivity</a></li><li><a href='/advertising/'>Advertise</a></li><li><a href='https://www.gcasummit.com/podcasts/'>Podcasts</a></li><li><a href='https://www.aviationtoday.com/webinars/'>Webinars</a></li><li><a href='http://www.aviationtoday.com/video_advertisers/'>Video Insight</a></li><li><a href='/subscribe/'>Subscribe to Avionics</a></li><li><a href='/contact-us/'>Contact Us</a></li><li><a href='http://jobs.aviationtoday.com/'>Job Center</a></li>									</ul>
+								</div>
+								</div>
+						</div>
+						<div class="col-md-6">
+							<div class="recent-issues hidden-sm hidden-xs">
+								<div>
+									<h1>Recent Issues</h1>
+								</div>
+													
+								<div class="row">
+									
+											<div class='col-sm-4 post'>
+												<div class='inner'>
+													<a href='http://interactive.aviationtoday.com/avionicsmagazine/august-september-2020/' target='_blank' rel='noopener'>
+														<img class='alignleft wp-image-42412 size-full' src='https://www.aviationtoday.com/wp-content/uploads/2020/08/avs_080120_cover_dgtl.jpg' />
+													</a>
+													<div class='text'>
+														<a href='http://interactive.aviationtoday.com/avionicsmagazine/august-september-2020/'>
+															<span id='date'>
+																August/September 2020
+															</span>
+														</a>
+														<div id='line'></div>
+													</div>
+												</div>
+											</div>
+											
+											<div class='col-sm-4 post'>
+												<div class='inner'>
+													<a href='http://interactive.aviationtoday.com/avionicsmagazine/june-july-2020/' target='_blank' rel='noopener'>
+														<img class='alignleft wp-image-42412 size-full' src='https://www.aviationtoday.com/wp-content/uploads/2020/06/avs_06_070120_dgtl.jpg' />
+													</a>
+													<div class='text'>
+														<a href='http://interactive.aviationtoday.com/avionicsmagazine/june-july-2020/'>
+															<span id='date'>
+																June/July 2020
+															</span>
+														</a>
+														<div id='line'></div>
+													</div>
+												</div>
+											</div>
+											
+											<div class='col-sm-4 post'>
+												<div class='inner'>
+													<a href='http://interactive.aviationtoday.com/avionicsmagazine/april-may-2020/' target='_blank' rel='noopener'>
+														<img class='alignleft wp-image-42412 size-full' src='https://www.aviationtoday.com/wp-content/uploads/2017/10/aprmay-2020-wide.jpg' />
+													</a>
+													<div class='text'>
+														<a href='http://interactive.aviationtoday.com/avionicsmagazine/april-may-2020/'>
+															<span id='date'>
+																April/May 2020
+															</span>
+														</a>
+														<div id='line'></div>
+													</div>
+												</div>
+											</div>
+																			</div>
+							</div>
+						</div>
+						<div class="col-sm-6 col-md-3 ad-300">
+							<div class="banner">
+								<div class="text-center" style='width: 300px;margin:0 auto;'>
+	<div class="news-sect left-side banner desktop text-center">
+		<!-- /987/aviationtoday.com/avionicsrightsquarebottom -->
+		<!-- ad3.php -->
+		<div id="div-gpt-ad-1482261795020-0"></div>
+	</div>
+</div>
+	
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--footer-body-->
+
+				<div class="footer-bottom">
+					<div class="text-center">
+						<span>&copy; 2020, Access Intelligence, LLC. All rights reserved. Learn more about licensing or reproducing content on this site. | <a target="_blank"href="http://www.accessintel.com/privacypolicy">privacy policy</a></span>
+
+					</div>
+				</div>
+
+			</footer><!--footer-cont-->
+		</div><!--wrapper-->
+		<script>
+			t_log_action(
+				'view', //action
+				'5f89f26cc91ff5fa0d8b45be', //entity label
+				'av_editorial', //entity collection
+				'', //owner
+				null, //distribution id
+				'', //channel
+				'', //widget
+				null, //campaign_id
+				null, //meta
+				null //value
+		);
+	
+		wp_gated_init_track_downloads('5f89f26cc91ff5fa0d8b45be','av_editorial');
+		
+
+            t_log_action(
+                    'impression', //action
+                    '5f89f26cc91ff5fa0d8b45be', //entity label
+                    'av_editorial', //entity collection
+                    '', //owner
+                    null, //distribution id
+                    '', //channel
+                    '', //widget
+                    null, //campaign_id
+                    null, //meta
+                    null //value
+            );
+            
+
+
+</script>
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="aviationtoday.com"></div>
+</div>
+<script data-cfasync="false">
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.setAttribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBHJVHC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MS3GFZ7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {"passthrough":{"twitter":{"via":"avionicsmag"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.6";
+                    var wp_product_version = "wpp-5.3.6";
+                    var wp_blog_version = "5.2.4";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.6","anonymous_profile_id":"wp-5956b05edf06a58ac6fe8476926eb822","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":true,"addthis_above_showon_posts":true,"addthis_above_showon_pages":true,"addthis_above_showon_archives":true,"addthis_above_showon_categories":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"posts","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {"passthrough":{"twitter":{"via":"avionicsmag"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5806743671f20c94 "
+                    async="async"
+                >
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <script type='text/javascript'> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script><link rel='stylesheet' id='addthis_output-css'  href='https://www.aviationtoday.com/wp-content/plugins/addthis/css/output.css?ver=5.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/tweet-slide/assets/js/jquery.bxslider.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/tweet-slide/assets/js/tweet_slide.js?ver=5.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rss_retriever = {"ajax_url":"https:\/\/www.aviationtoday.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/wp-rss-retriever/inc/js/rss-retriever-ajax.js?ver=1.6.1'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/slick/slick.min.js'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/themes/avi-17/scripts/theme.js'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@5.2.4","language":""},"disqusIdentifier":"92423 https:\/\/www.aviationtoday.com\/?p=92423","disqusShortname":"aviationtodaysite","disqusTitle":"PODCAST: NSR\u2019s Brady Grady Talks IFC Business Models, COVID-19 and More","disqusUrl":"https:\/\/www.aviationtoday.com\/2020\/10\/16\/podcast-nsrs-brady-grady-talks-ifc-business-models-covid-19\/","options":{"manualSync":false},"postId":"92423"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=5.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"aviationtodaysite"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.aviationtoday.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=5.2.4'></script>
+<!--wp_footer-->
+		<!-- scrollmagic -->
+
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.2/TweenMax.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+
+<!-- START EMBED CODE-->
+<script src="https://api.b2c.com/api/init-2886ngru5uzeozmbr3v.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-2886ngru5uzeozmbr3v.gif"></noscript>
+<!-- END EMBED CODE-->
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0beba042e1","applicationID":"194631579","transactionName":"Z1ZWY0tWVkECUBZbDl4cdVRNXldcTEALXAZcVg==","queueTime":0,"applicationTime":1407,"atts":"SxFVFQNMRU8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+
+

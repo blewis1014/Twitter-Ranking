@@ -1,0 +1,1234 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	
+<!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
+<title>Page Not Found | Leo Terrell</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Page Not Found | Leo Terrell">
+<meta property="og:site_name" content="Leo Terrell">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Page Not Found | Leo Terrell">
+<meta name="twitter:site" content="@TheLeoTerrell">
+<script type="application/ld+json" class="rank-math-schema">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Website",
+            "@id": "https://theleoterrell.com/#organization",
+            "name": "Leo Terrell",
+            "url": "https://theleoterrell.com",
+            "openingHours": [
+                "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"
+            ]
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://theleoterrell.com/#website",
+            "url": "https://theleoterrell.com",
+            "name": "Leo Terrell",
+            "publisher": {
+                "@id": "https://theleoterrell.com/#organization"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://theleoterrell.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "WebPage",
+            "@id": "#webpage",
+            "url": false,
+            "name": "Page Not Found | Leo Terrell",
+            "isPartOf": {
+                "@id": "https://theleoterrell.com/#website"
+            },
+            "inLanguage": "en-US"
+        }
+    ]
+}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Leo Terrell &raquo; Feed" href="https://theleoterrell.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Leo Terrell &raquo; Comments Feed" href="https://theleoterrell.com/comments/feed/" />
+			<link rel="preload" href="https://theleoterrell.com/wp-content/plugins/canvas/assets/fonts/canvas-icons.woff" as="font" type="font/woff" crossorigin>
+						<link rel="preload" href="https://theleoterrell.com/wp-content/plugins/powerkit/assets/fonts/powerkit-icons.woff" as="font" type="font/woff" crossorigin>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/theleoterrell.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='canvas-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/assets/css/canvas.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/assets/css/powerkit.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://theleoterrell.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-alert-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-alert/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-progress-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-progress/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-collapsibles-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-collapsibles/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-tabs-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-tabs/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-section-heading-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-section-heading/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-row-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/layout-blocks/block-row/block-row.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-justified-gallery-block-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/justified-gallery/block/block-justified-gallery.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-slider-gallery-block-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/slider-gallery/block/block-slider-gallery.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-posts-sidebar-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/posts/block-posts-sidebar/block-posts-sidebar.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='advanced-popups-css'  href='https://theleoterrell.com/wp-content/plugins/advanced-popups/public/css/advanced-popups-public.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-heading-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/content-formatting/block-heading/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-list-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/content-formatting/block-list/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-paragraph-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/content-formatting/block-paragraph/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-separator-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/content-formatting/block-separator/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-group-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-group/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='canvas-block-cover-style-css'  href='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-cover/block.css?ver=1602185053' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-author-box-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/author-box/public/css/public-powerkit-author-box.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-basic-elements-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/basic-elements/public/css/public-powerkit-basic-elements.css?ver=2.3.8' type='text/css' media='screen' />
+<link rel='stylesheet' id='powerkit-coming-soon-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/coming-soon/public/css/public-powerkit-coming-soon.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-content-formatting-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/content-formatting/public/css/public-powerkit-content-formatting.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-сontributors-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/contributors/public/css/public-powerkit-contributors.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-facebook-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/facebook/public/css/public-powerkit-facebook.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-featured-categories-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/featured-categories/public/css/public-powerkit-featured-categories.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-inline-posts-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/inline-posts/public/css/public-powerkit-inline-posts.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-justified-gallery-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/justified-gallery/public/css/public-powerkit-justified-gallery.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-lightbox-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/lightbox/public/css/public-powerkit-lightbox.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-opt-in-forms-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/opt-in-forms/public/css/public-powerkit-opt-in-forms.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-scroll-to-top-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/scroll-to-top/public/css/public-powerkit-scroll-to-top.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-share-buttons-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/share-buttons/public/css/public-powerkit-share-buttons.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-social-links-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/social-links/public/css/public-powerkit-social-links.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-twitter-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/twitter/public/css/public-powerkit-twitter.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='powerkit-widget-about-css'  href='https://theleoterrell.com/wp-content/plugins/powerkit/modules/widget-about/public/css/public-powerkit-widget-about.css?ver=2.3.8' type='text/css' media='all' />
+<link rel='stylesheet' id='csco-styles-css'  href='https://theleoterrell.com/wp-content/themes/newsblock/style.css?ver=1.0.8' type='text/css' media='all' />
+<style id='csco-styles-inline-css' type='text/css'>
+.searchwp-live-search-no-min-chars:after { content: "Continue typing" }
+</style>
+<link rel='stylesheet' id='searchwp-live-search-css'  href='https://theleoterrell.com/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='csco_child_css-css'  href='https://theleoterrell.com/wp-content/themes/newsblock-child/style.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://theleoterrell.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/advanced-popups/public/js/advanced-popups-public.js?ver=1.0.9' id='advanced-popups-js'></script>
+<script type='text/javascript' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?ver=5.5.1' id='csco_adsense-js'></script>
+<link rel="https://api.w.org/" href="https://theleoterrell.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://theleoterrell.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://theleoterrell.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+		<link rel="preload" href="https://theleoterrell.com/wp-content/plugins/advanced-popups/fonts/advanced-popups-icons.woff" as="font" type="font/woff" crossorigin>
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PDQK2P8');</script>
+<!-- End Google Tag Manager -->		<style type="text/css">.pp-podcast {opacity: 0;}</style>
+		<style id='csco-theme-typography'>
+	:root {
+		/* Base Font */
+		--cs-font-base-family: Inter;
+		--cs-font-base-size: 17px;
+		--cs-font-base-weight: 400;
+		--cs-font-base-style: normal;
+		--cs-font-base-letter-spacing: normal;
+		--cs-font-base-line-height: 21px;
+
+		/* Primary Font */
+		--cs-font-primary-family: Inter;
+		--cs-font-primary-size: 17px;
+		--cs-font-primary-weight: 800;
+		--cs-font-primary-style: normal;
+		--cs-font-primary-letter-spacing: -0.025em;
+		--cs-font-primary-text-transform: none;
+
+		/* Secondary Font */
+		--cs-font-secondary-family: Inter;
+		--cs-font-secondary-size: 0.75rem;
+		--cs-font-secondary-weight: 400;
+		--cs-font-secondary-style: normal;
+		--cs-font-secondary-letter-spacing: normal;
+		--cs-font-secondary-text-transform: none;
+
+		/* Category Font */
+		--cs-font-category-family: Inter;
+		--cs-font-category-size: .675rem;
+		--cs-font-category-weight: 500;
+		--cs-font-category-style: normal;
+		--cs-font-category-letter-spacing: 0.135em;
+		--cs-font-category-text-transform: uppercase;
+
+		/* Post Meta Font */
+		--cs-font-post-meta-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+		--cs-font-post-meta-size: 0.6555rem;
+		--cs-font-post-meta-weight: 400;
+		--cs-font-post-meta-style: normal;
+		--cs-font-post-meta-letter-spacing: normal;
+		--cs-font-post-meta-text-transform: uppercase;
+
+		/* Input Font */
+		--cs-font-input-family: Inter;
+		--cs-font-input-size: 0.75rem;
+		--cs-font-input-line-height: 1.625rem;
+		--cs-font-input-weight: 400;
+		--cs-font-input-style: normal;
+		--cs-font-input-letter-spacing: normal;
+		--cs-font-input-text-transform: none;
+
+		/* Post Subbtitle */
+		--cs-font-post-subtitle-family: inherit;
+		--cs-font-post-subtitle-size: 1.25rem;
+		--cs-font-post-subtitle-letter-spacing: normal;
+
+		/* Post Content */
+		--cs-font-post-content-family: Inter;
+		--cs-font-post-content-size: 17px;
+		--cs-font-post-content-letter-spacing: normal;
+
+		/* Summary */
+		--cs-font-entry-summary-family: Inter;
+		--cs-font-entry-summary-size: 1rem;
+		--cs-font-entry-summary-letter-spacing: normal;
+
+		/* Entry Excerpt */
+		--cs-font-entry-excerpt-family: Inter;
+		--cs-font-entry-excerpt-size: 0.875rem;
+		--cs-font-entry-excerpt-letter-spacing: normal;
+
+		/* Logos --------------- */
+
+		/* Main Logo */
+		--cs-font-main-logo-family: Inter;
+		--cs-font-main-logo-size: 1.5rem;
+		--cs-font-main-logo-weight: 700;
+		--cs-font-main-logo-style: normal;
+		--cs-font-main-logo-letter-spacing: -0.075em;
+		--cs-font-main-logo-text-transform: none;
+
+		/* Large Logo */
+		--cs-font-large-logo-family: Inter;
+		--cs-font-large-logo-size: 1.75rem;
+		--cs-font-large-logo-weight: 700;
+		--cs-font-large-logo-style: normal;
+		--cs-font-large-logo-letter-spacing: -0.075em;
+		--cs-font-large-logo-text-transform: none;
+
+		/* Footer Logo */
+		--cs-font-footer-logo-family: Inter;
+		--cs-font-footer-logo-size: 1.5rem;
+		--cs-font-footer-logo-weight: 700;
+		--cs-font-footer-logo-style: normal;
+		--cs-font-footer-logo-letter-spacing: -0.075em;
+		--cs-font-footer-logo-text-transform: none;
+
+		/* Headings --------------- */
+
+		/* Headings */
+		--cs-font-headings-family: Inter;
+		--cs-font-headings-weight: 800;
+		--cs-font-headings-style: normal;
+		--cs-font-headings-line-height: 1.25;
+		--cs-font-headings-letter-spacing: -0.025em;
+		--cs-font-headings-text-transform: none;
+
+		/* Styled Heading */
+		--cs-font-styled-heading-line-height: 1.4em;
+
+		/* Decorated Heading */
+		--cs-font-decorated-heading-family: Sriracha;
+		--cs-font-decorated-heading-font-size: 1.50rem;
+		--cs-font-decorated-heading-weight: 400;
+		--cs-font-decorated-heading-style: normal;
+		--cs-font-decorated-heading-line-height: 1;
+		--cs-font-decorated-heading-letter-spacing: -0.05em;
+		--cs-font-decorated-heading-text-transform: uppercase;
+
+		/* Menu Font --------------- */
+
+		/* Menu */
+		/* Used for main top level menu elements. */
+		--cs-font-menu-family: Inter;
+		--cs-font-menu-size: 0.875rem;
+		--cs-font-menu-weight: 800;
+		--cs-font-menu-style: normal;
+		--cs-font-menu-letter-spacing: -0.025em;
+		--cs-font-menu-text-transform: none;
+
+		/* Submenu Font */
+		/* Used for submenu elements. */
+		--cs-font-submenu-family: Inter;
+		--cs-font-submenu-size: 0.85rem;
+		--cs-font-submenu-weight: 400;
+		--cs-font-submenu-style: normal;
+		--cs-font-submenu-letter-spacing: 0px;
+		--cs-font-submenu-text-transform: none;
+
+		/* Section Headings --------------- */
+		--cs-font-section-headings-family: Inter;
+		--cs-font-section-headings-size: 1.25rem;
+		--cs-font-section-headings-weight: 800;
+		--cs-font-section-headings-style: normal;
+		--cs-font-section-headings-letter-spacing: -0.025em;
+		--cs-font-section-headings-text-transform: none;
+	}
+
+	</style>
+<link rel="icon" href="https://theleoterrell.com/wp-content/uploads/2020/09/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://theleoterrell.com/wp-content/uploads/2020/09/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://theleoterrell.com/wp-content/uploads/2020/09/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://theleoterrell.com/wp-content/uploads/2020/09/cropped-favicon-1-270x270.png" />
+<style id="kirki-inline-styles">:root, [site-data-scheme="default"]{--cs-color-site-background:#FFFFFF;--cs-color-search-background:#f8f9fa;--cs-color-header-background:#ffffff;--cs-color-submenu-background:#FFFFFF;--cs-color-footer-background:#111111;}:root, [data-scheme="default"]{--cs-color-accent:#ffdd00;--cs-color-accent-contrast:#000000;--cs-color-secondary:#818181;--cs-palette-color-secondary:#818181;--cs-color-secondary-contrast:#000000;--cs-color-styled-heading:#000000;--cs-color-styled-heading-contrast:#ffffff;--cs-color-styled-heading-hover:#ffdd00;--cs-color-styled-heading-hover-contrast:#000000;--cs-color-styled-category:#ffdd00;--cs-color-styled-category-contrast:#000000;--cs-color-styled-category-hover:#000000;--cs-color-styled-category-hover-contrast:#FFFFFF;--cs-color-category:#000000;--cs-color-category-hover:#000000;--cs-color-category-underline:#ffdd00;--cs-color-button:#000000;--cs-color-button-contrast:#FFFFFF;--cs-color-button-hover:#282828;--cs-color-button-hover-contrast:#FFFFFF;--cs-color-overlay-background:rgba(0,0,0,0.25);}[site-data-scheme="dark"]{--cs-color-site-background:#1c1c1c;--cs-color-search-background:#333335;--cs-color-header-background:#1c1c1c;--cs-color-submenu-background:#1c1c1c;--cs-color-footer-background:#1c1c1c;}[data-scheme="dark"]{--cs-color-accent:#daf400;--cs-color-accent-contrast:#000000;--cs-color-secondary:#858585;--cs-palette-color-secondary:#858585;--cs-color-secondary-contrast:#000000;--cs-color-styled-heading:#000000;--cs-color-styled-heading-contrast:#ffffff;--cs-color-styled-heading-hover:#daf400;--cs-color-styled-heading-hover-contrast:#000000;--cs-color-styled-category:#000000;--cs-color-styled-category-contrast:#FFFFFF;--cs-color-styled-category-hover:#daf400;--cs-color-styled-category-hover-contrast:#000000;--cs-color-category:#ffffff;--cs-color-category-hover:#FFFFFF;--cs-color-category-underline:rgba(255,255,255,0);--cs-color-button:#3d3d3d;--cs-color-button-contrast:#FFFFFF;--cs-color-button-hover:#242424;--cs-color-button-hover-contrast:#FFFFFF;--cs-color-overlay-background:rgba(0,0,0,0.25);}:root{--cs-common-border-radius:5px;--cs-primary-border-radius:50px;--cs-secondary-border-radius:100%;--cs-styled-category-border-radius:0;--cs-image-border-radius:0px;--cs-header-height:60px;}:root .cnvs-block-section-heading, [data-scheme="default"] .cnvs-block-section-heading, [data-scheme="dark"] [data-scheme="default"] .cnvs-block-section-heading{--cnvs-section-heading-border-color:#ffffff;}[data-scheme="dark"] .cnvs-block-section-heading{--cnvs-section-heading-border-color:#49494b;}.cs-search__posts{--cs-image-border-radius:50%!important;}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZJhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZthjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZNhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZxhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZBhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZFhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjp-Ek-_EeA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZJhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZthjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZNhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZxhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZBhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZFhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjp-Ek-_EeA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZJhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZthjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZNhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZxhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZBhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZFhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjp-Ek-_EeA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZJhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZthjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZNhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZxhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZBhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZFhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjp-Ek-_EeA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZJhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZthjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZNhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZxhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZBhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZFhjp-Ek-_EeAmM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/www/wp-content/fonts/inter/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjp-Ek-_EeA.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* thai */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url(/www/wp-content/fonts/sriracha/0nkrC9D4IuYBgWcI9NbLTwfAovb1sQM.woff) format('woff');
+  unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url(/www/wp-content/fonts/sriracha/0nkrC9D4IuYBgWcI9NbQTwfAovb1sQM.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url(/www/wp-content/fonts/sriracha/0nkrC9D4IuYBgWcI9NbRTwfAovb1sQM.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sriracha'), local('Sriracha-Regular'), url(/www/wp-content/fonts/sriracha/0nkrC9D4IuYBgWcI9NbfTwfAovb1.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="error404 wp-embed-responsive cs-page-layout-disabled cs-navbar-sticky-enabled cs-navbar-smart-enabled cs-sticky-sidebar-enabled cs-stick-to-bottom" data-scheme='default' site-data-scheme='default'>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDQK2P8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+	<div class="cs-site-overlay"></div>
+
+	<div class="cs-offcanvas">
+		<div class="cs-offcanvas__header" data-scheme="default">
+			
+			<nav class="cs-offcanvas__nav">
+						<div class="cs-logo ">
+			<a class="cs-header__logo cs-logo-default " href="https://theleoterrell.com/">
+				<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-black@2x.png"  alt="Leo Terrell" >			</a>
+
+									<a class="cs-header__logo cs-logo-dark " href="https://theleoterrell.com/">
+							<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-white@2x.png"  alt="Leo Terrell" >						</a>
+							</div>
+		
+				<span class="cs-offcanvas__toggle" role="button"><i class="cs-icon cs-icon-x"></i></span>
+			</nav>
+
+					</div>
+		<aside class="cs-offcanvas__sidebar">
+			<div class="cs-offcanvas__inner cs-offcanvas__area cs-widget-area">
+				<div class="widget widget_nav_menu cs-d-lg-none"><div class="menu-primary-new-container"><ul id="menu-primary-new" class="menu"><li id="menu-item-2311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2311"><a href="https://theleoterrell.com/category/politics/">Politics</a></li>
+<li id="menu-item-2208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2208"><a href="https://theleoterrell.com/category/election-2020/">Election 2020</a></li>
+<li id="menu-item-6269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6269"><a href="https://www.leoterrellhats.com/">Leo 2.0 Hats!</a></li>
+<li id="menu-item-2338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2338"><a href="https://theleoterrell.com/podcast/">Podcast</a></li>
+<li id="menu-item-2327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="https://theleoterrell.com/the-leo-letter/">Newsletter</a></li>
+<li id="menu-item-2210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2210"><a href="https://theleoterrell.com/contact-form/">Contact</a></li>
+</ul></div></div>
+				<div class="widget categories-2 widget_categories"><h5 class="cs-section-heading cnvs-block-section-heading is-style-cnvs-block-section-heading-default halignleft  "><span class="cnvs-section-title"><span>Categories</span></span></h5>
+			<ul>
+					<li class="cat-item cat-item-19"><a href="https://theleoterrell.com/category/covid-19/">COVID-19</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://theleoterrell.com/category/election-2020/">Election 2020</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="https://theleoterrell.com/category/media/">Media</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="https://theleoterrell.com/category/nation/">Nation</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="https://theleoterrell.com/category/politics/">Politics</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://theleoterrell.com/category/race/">Race</a>
+</li>
+			</ul>
+
+			</div>			</div>
+		</aside>
+	</div>
+	
+<div id="page" class="cs-site">
+
+	
+	<div class="cs-site-inner">
+
+		
+		
+<header class="cs-header cs-header-one" data-scheme="default">
+	<div class="cs-container">
+		<div class="cs-header__inner cs-header__inner-desktop">
+			<div class="cs-header__col cs-col-left">
+								<span class="cs-header__offcanvas-toggle  cs-d-lg-none" role="button">
+					<i class="cs-icon cs-icon-menu"></i>
+				</span>
+					<div class="cs-logo ">
+			<a class="cs-header__logo cs-logo-default " href="https://theleoterrell.com/">
+				<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-black@2x.png"  alt="Leo Terrell" >			</a>
+
+									<a class="cs-header__logo cs-logo-dark " href="https://theleoterrell.com/">
+							<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-white@2x.png"  alt="Leo Terrell" >						</a>
+							</div>
+		<nav class="cs-header__nav"><ul id="menu-primary-new-1" class="cs-header__nav-inner"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2311"><a href="https://theleoterrell.com/category/politics/"><span>Politics</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2208"><a href="https://theleoterrell.com/category/election-2020/"><span>Election 2020</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6269"><a href="https://www.leoterrellhats.com/"><span>Leo 2.0 Hats!</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2338"><a href="https://theleoterrell.com/podcast/"><span>Podcast</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="https://theleoterrell.com/the-leo-letter/"><span>Newsletter</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2210"><a href="https://theleoterrell.com/contact-form/"><span>Contact</span></a></li>
+</ul></nav>			</div>
+			<div class="cs-header__col cs-col-right">
+							<span role="button" class="cs-header__scheme-toggle cs-site-scheme-toggle">
+				<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-sun"></i>
+				<span class="cs-header__scheme-toggle-element"></span>
+				<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-moon"></i>
+			</span>
+				<div class="cs-navbar-social-links">
+				<div class="pk-social-links-wrap  pk-social-links-template-nav pk-social-links-align-default pk-social-links-scheme-bold pk-social-links-titles-disabled pk-social-links-counts-enabled pk-social-links-labels-disabled pk-social-links-mode-php pk-social-links-mode-rest">
+		<div class="pk-social-links-items">
+								<div class="pk-social-links-item pk-social-links-facebook " data-id="facebook">
+						<a href="https://facebook.com/TheLeoTerrell" class="pk-social-links-link" target="_blank" rel="nofollow">
+							<i class="pk-social-links-icon pk-icon pk-icon-facebook"></i>
+							
+															<span class="pk-social-links-count pk-font-secondary">74K</span>
+							
+							
+													</a>
+					</div>
+										<div class="pk-social-links-item pk-social-links-twitter " data-id="twitter">
+						<a href="https://twitter.com/TheLeoTerrell" class="pk-social-links-link" target="_blank" rel="nofollow">
+							<i class="pk-social-links-icon pk-icon pk-icon-twitter"></i>
+							
+															<span class="pk-social-links-count pk-font-secondary">312K</span>
+							
+							
+													</a>
+					</div>
+										<div class="pk-social-links-item pk-social-links-mail  pk-social-links-no-count" data-id="mail">
+						<a href="/cdn-cgi/l/email-protection#dcb5b2bab39ca8b4b9b0b9b3a8b9aeaeb9b0b0f2bfb3b1" class="pk-social-links-link" target="_blank" rel="nofollow">
+							<i class="pk-social-links-icon pk-icon pk-icon-mail"></i>
+							
+															<span class="pk-social-links-count pk-font-secondary"></span>
+							
+							
+													</a>
+					</div>
+							</div>
+	</div>
+			</div>
+				<span class="cs-header__search-toggle" role="button">
+			<i class="cs-icon cs-icon-search"></i>
+		</span>
+					</div>
+		</div>
+
+		
+<div class="cs-header__inner cs-header__inner-mobile">
+	<div class="cs-header__col cs-col-left">
+						<span class="cs-header__offcanvas-toggle  cs-d-lg-none" role="button">
+					<i class="cs-icon cs-icon-menu"></i>
+				</span>
+				</div>
+	<div class="cs-header__col cs-col-center">
+				<div class="cs-logo ">
+			<a class="cs-header__logo cs-logo-default " href="https://theleoterrell.com/">
+				<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-black@2x.png"  alt="Leo Terrell" >			</a>
+
+									<a class="cs-header__logo cs-logo-dark " href="https://theleoterrell.com/">
+							<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-white@2x.png"  alt="Leo Terrell" >						</a>
+							</div>
+			</div>
+	<div class="cs-header__col cs-col-right">
+				<span role="button" class="cs-header__scheme-toggle cs-header__scheme-toggle-mobile cs-site-scheme-toggle">
+			<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-sun"></i>
+			<i class="cs-header__scheme-toggle-icon cs-icon cs-icon-moon"></i>
+		</span>
+						<span class="cs-header__search-toggle" role="button">
+			<i class="cs-icon cs-icon-search"></i>
+		</span>
+			</div>
+</div>
+	</div>
+
+	
+<div class="cs-search" data-scheme="default">
+	<div class="cs-container">
+		<form role="search" method="get" class="cs-search__nav-form" action="https://theleoterrell.com/">
+			<div class="cs-search__group">
+				<button class="cs-search__submit">
+					<i class="cs-icon cs-icon-search"></i>
+				</button>
+
+				<input data-swpparentel=".cs-header .cs-search-live-result" required class="cs-search__input" data-swplive="true" type="search" value="" name="s" placeholder="Enter your search topic">
+
+				<button class="cs-search__close">
+					<i class="cs-icon cs-icon-x"></i>
+				</button>
+			</div>
+		</form>
+
+		<div class="cs-search__content">
+								<div class="cs-search__posts">
+						<h5 class="cs-section-heading cnvs-block-section-heading is-style-cnvs-block-section-heading-default halignleft  "><span class="cnvs-section-title"><span>The Latest</span></span></h5>
+						<div class="cs-search__posts-wrapper">
+															<article class="post-6947 post type-post status-publish format-standard has-post-thumbnail category-election-2020 category-politics tag-abc tag-joe-biden tag-town-hall cs-entry cs-video-wrap">
+									<div class="cs-entry__outer">
+																					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-square" data-scheme="inverse">
+												<div class="cs-overlay-background cs-overlay-transparent">
+													<img width="110" height="110" src="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-110x110.jpg" class="attachment-csco-small size-csco-small wp-post-image" alt="" loading="lazy" srcset="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-110x110.jpg 110w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-150x150.jpg 150w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-80x80.jpg 80w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-160x160.jpg 160w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-220x220.jpg 220w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1280424503-300x300.jpg 300w" sizes="(max-width: 110px) 100vw, 110px" />												</div>
+
+												<a href="https://theleoterrell.com/twisted-town-hall-biden-questioners-include-former-obama-speechwriter-top-dems-wife/" class="cs-overlay-link"></a>
+											</div>
+										
+										<div class="cs-entry__inner cs-entry__content">
+											<h6 class="cs-entry__title"><a href="https://theleoterrell.com/twisted-town-hall-biden-questioners-include-former-obama-speechwriter-top-dems-wife/">TWISTED TOWN HALL: Biden questioners include former Obama speechwriter, top Dem’s wife</a></h6>
+											<div class="cs-entry__post-meta" ><div class="cs-meta-category"><ul class="post-categories">
+	<li><a href="https://theleoterrell.com/category/election-2020/" rel="category tag">Election 2020</a></li>
+	<li><a href="https://theleoterrell.com/category/politics/" rel="category tag">Politics</a></li></ul></div><div class="cs-meta-date">October 16, 2020</div><div class="cs-meta-reading-time"><span class="cs-meta-icon"><i class="cs-icon cs-icon-clock"></i></span>2 minute read</div></div>										</div>
+									</div>
+								</article>
+															<article class="post-6942 post type-post status-publish format-standard has-post-thumbnail category-election-2020 category-media category-politics tag-hunter-biden tag-new-york-post tag-twitter cs-entry cs-video-wrap">
+									<div class="cs-entry__outer">
+																					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-square" data-scheme="inverse">
+												<div class="cs-overlay-background cs-overlay-transparent">
+													<img width="110" height="110" src="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-110x110.jpg" class="attachment-csco-small size-csco-small wp-post-image" alt="" loading="lazy" srcset="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-110x110.jpg 110w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-150x150.jpg 150w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-80x80.jpg 80w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-160x160.jpg 160w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-220x220.jpg 220w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-1227990150-300x300.jpg 300w" sizes="(max-width: 110px) 100vw, 110px" />												</div>
+
+												<a href="https://theleoterrell.com/twitter-tailors-network-changes-guidelines-following-controversial-censorship/" class="cs-overlay-link"></a>
+											</div>
+										
+										<div class="cs-entry__inner cs-entry__content">
+											<h6 class="cs-entry__title"><a href="https://theleoterrell.com/twitter-tailors-network-changes-guidelines-following-controversial-censorship/">TWITTER TAILORS: Network changes guidelines following controversial censorship</a></h6>
+											<div class="cs-entry__post-meta" ><div class="cs-meta-category"><ul class="post-categories">
+	<li><a href="https://theleoterrell.com/category/election-2020/" rel="category tag">Election 2020</a></li>
+	<li><a href="https://theleoterrell.com/category/media/" rel="category tag">Media</a></li>
+	<li><a href="https://theleoterrell.com/category/politics/" rel="category tag">Politics</a></li></ul></div><div class="cs-meta-date">October 16, 2020</div><div class="cs-meta-reading-time"><span class="cs-meta-icon"><i class="cs-icon cs-icon-clock"></i></span>2 minute read</div></div>										</div>
+									</div>
+								</article>
+															<article class="post-6929 post type-post status-publish format-standard has-post-thumbnail category-nation tag-nba tag-ratings cs-entry cs-video-wrap">
+									<div class="cs-entry__outer">
+																					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-square" data-scheme="inverse">
+												<div class="cs-overlay-background cs-overlay-transparent">
+													<img width="110" height="110" src="https://theleoterrell.com/wp-content/uploads/2020/10/empty-110x110.jpg" class="attachment-csco-small size-csco-small wp-post-image" alt="NBA" loading="lazy" srcset="https://theleoterrell.com/wp-content/uploads/2020/10/empty-110x110.jpg 110w, https://theleoterrell.com/wp-content/uploads/2020/10/empty-150x150.jpg 150w, https://theleoterrell.com/wp-content/uploads/2020/10/empty-80x80.jpg 80w, https://theleoterrell.com/wp-content/uploads/2020/10/empty-160x160.jpg 160w, https://theleoterrell.com/wp-content/uploads/2020/10/empty-220x220.jpg 220w, https://theleoterrell.com/wp-content/uploads/2020/10/empty-300x300.jpg 300w" sizes="(max-width: 110px) 100vw, 110px" />												</div>
+
+												<a href="https://theleoterrell.com/after-obnoxiously-woke-season-nba-finals-viewership-down-almost-70-percent/" class="cs-overlay-link"></a>
+											</div>
+										
+										<div class="cs-entry__inner cs-entry__content">
+											<h6 class="cs-entry__title"><a href="https://theleoterrell.com/after-obnoxiously-woke-season-nba-finals-viewership-down-almost-70-percent/">After Obnoxiously “Woke” Season, NBA Finals Viewership Down Almost 70 Percent</a></h6>
+											<div class="cs-entry__post-meta" ><div class="cs-meta-category"><ul class="post-categories">
+	<li><a href="https://theleoterrell.com/category/nation/" rel="category tag">Nation</a></li></ul></div><div class="cs-meta-date">October 16, 2020</div><div class="cs-meta-reading-time"><span class="cs-meta-icon"><i class="cs-icon cs-icon-clock"></i></span>2 minute read</div></div>										</div>
+									</div>
+								</article>
+															<article class="post-6918 post type-post status-publish format-standard has-post-thumbnail category-election-2020 category-politics tag-donald-trump tag-election tag-south-carolina cs-entry cs-video-wrap">
+									<div class="cs-entry__outer">
+																					<div class="cs-entry__inner cs-entry__thumbnail cs-entry__overlay cs-overlay-ratio cs-ratio-square" data-scheme="inverse">
+												<div class="cs-overlay-background cs-overlay-transparent">
+													<img width="110" height="110" src="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-110x110.jpg" class="attachment-csco-small size-csco-small wp-post-image" alt="Yard Sign" loading="lazy" srcset="https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-110x110.jpg 110w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-150x150.jpg 150w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-80x80.jpg 80w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-160x160.jpg 160w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-220x220.jpg 220w, https://theleoterrell.com/wp-content/uploads/2020/10/GettyImages-617293744-300x300.jpg 300w" sizes="(max-width: 110px) 100vw, 110px" />												</div>
+
+												<a href="https://theleoterrell.com/dump-trump-south-carolina-elections-chairman-resigns-after-he-and-his-wife-accused-of-removing-and-defacing-trump-signs/" class="cs-overlay-link"></a>
+											</div>
+										
+										<div class="cs-entry__inner cs-entry__content">
+											<h6 class="cs-entry__title"><a href="https://theleoterrell.com/dump-trump-south-carolina-elections-chairman-resigns-after-he-and-his-wife-accused-of-removing-and-defacing-trump-signs/">‘DUMP TRUMP’: South Carolina Elections Chairman resigns after he and his wife accused of removing and defacing Trump signs</a></h6>
+											<div class="cs-entry__post-meta" ><div class="cs-meta-category"><ul class="post-categories">
+	<li><a href="https://theleoterrell.com/category/election-2020/" rel="category tag">Election 2020</a></li>
+	<li><a href="https://theleoterrell.com/category/politics/" rel="category tag">Politics</a></li></ul></div><div class="cs-meta-date">October 15, 2020</div><div class="cs-meta-reading-time"><span class="cs-meta-icon"><i class="cs-icon cs-icon-clock"></i></span>2 minute read</div></div>										</div>
+									</div>
+								</article>
+													</div>
+					</div>
+					
+								<div class="cs-search__tags">
+						<ul>
+															<li>
+									<a href="https://theleoterrell.com/tag/who/" rel="tag">
+										WHO									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/walter-reed/" rel="tag">
+										walter reed									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/voter/" rel="tag">
+										Voter									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/vote/" rel="tag">
+										Vote									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/violence/" rel="tag">
+										Violence									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/union-baptist/" rel="tag">
+										Union Baptist									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/twitter/" rel="tag">
+										Twitter									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/tutorial/" rel="tag">
+										tutorial									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/trump/" rel="tag">
+										Trump									</a>
+								</li>
+															<li>
+									<a href="https://theleoterrell.com/tag/town-hall/" rel="tag">
+										town hall									</a>
+								</li>
+													</ul>
+					</div>
+					
+			<div class="cs-search-live-result"></div>
+		</div>
+	</div>
+</div>
+</header>
+
+		
+		<main id="main" class="cs-site-primary">
+
+			
+			<div class="cs-site-content cs-sidebar-disabled cs-metabar-disabled section-heading-default-style-1">
+
+				
+				<div class="cs-container">
+
+					
+					<div id="content" class="cs-main-content">
+
+						
+<div id="primary" class="cs-content-area">
+
+	
+<div class="cs-page__header ">
+
+
+					<h1 class="cs-page__title">404</h1>
+			
+
+</div>
+
+			<div class="entry-content cs-content-not-found">
+			<p>It seems we cannot find what you are looking for. Perhaps searching can help.</p>
+
+			
+<form role="search" method="get" class="cs-search__form" action="https://theleoterrell.com/">
+	<div class="cs-search__container">
+		<input required data-swplive="false" class="cs-search__input" type="search" value="" name="s" data-swplive="true" data-swpengine="default" data-swpconfig="default" placeholder="Enter keyword">
+
+		<button class="cs-search__submit">
+			Search		</button>
+	</div>
+</form>
+		</div>
+		
+	</div>
+
+
+							
+						</div>
+
+						
+					</div>
+
+					
+				</div>
+
+				
+			</main>
+
+		
+		
+<footer class="cs-footer cs-footer-two" data-scheme="dark">
+	
+	<div class="cs-container">
+		<div class="cs-footer__item">
+			<div class="cs-footer__col cs-col-left">
+				<div class="cs-footer__inner">
+							<div class="cs-logo">
+			<a class="cs-footer__logo cs-logo-default" href="https://theleoterrell.com/">
+				<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-white@2x.png"  alt="Leo Terrell" >			</a>
+
+									<a class="cs-footer__logo cs-logo-dark" href="https://theleoterrell.com/">
+							<img src="https://theleoterrell.com/wp-content/uploads/2020/09/Leo-Terrell-logo-white@2x.png"  alt="Leo Terrell" >						</a>
+							</div>
+		
+									</div>
+			</div>
+			<div class="cs-footer__col cs-col-center">
+							<div class="footer-nav-menu">
+				<ul id="menu-footer" class="cs-footer__nav cs-nav-grid"><li id="menu-item-2337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2337"><a href="https://theleoterrell.com/podcast/">Podcast</a></li>
+<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2325"><a href="https://theleoterrell.com/the-leo-letter/">Newsletter</a></li>
+<li id="menu-item-2315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2315"><a href="https://theleoterrell.com/contact-form/">Contact</a></li>
+<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2318"><a href="https://theleoterrell.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-2314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-2314"><a href="https://theleoterrell.com/privacy-policy/">Privacy Policy</a></li>
+</ul>			</div>
+						</div>
+			<div class="cs-footer__col cs-col-right">
+							<div class="cs-footer__desc">
+				🇺🇸 PROUDLY MADE IN AMERICA<BR>
+© M3 Media Management, LLC. All rights reserved			</div>
+						</div>
+		</div>
+	</div>
+</footer>
+
+		
+	</div>
+
+	
+</div>
+
+
+			<a href="#top" class="pk-scroll-to-top">
+				<i class="pk-icon pk-icon-up"></i>
+			</a>
+		
+			<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+				var _paq = _paq || [];
+								_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '33067']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+					<style type="text/css"></style>
+				<div id="fb-root"></div>
+		<script>( function( d, s, id ) {
+			var js, fjs = d.getElementsByTagName( s )[0];
+			if ( d.getElementById( id ) ) return;
+			js = d.createElement( s ); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=305449883698649";
+			fjs.parentNode.insertBefore( js, fjs );
+		}( document, 'script', 'facebook-jssdk' ) );</script>
+	<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-alert/public-block-alert.js?ver=2.0.9' id='canvas-block-alert-script-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-collapsibles/public-block-collapsibles.js?ver=2.0.9' id='canvas-block-collapsibles-script-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/basic-elements/block-tabs/public-block-tabs.js?ver=2.0.9' id='canvas-block-tabs-script-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/justified-gallery/block/jquery.justifiedGallery.min.js?ver=2.0.9' id='justifiedgallery-js'></script>
+<script type='text/javascript' id='canvas-justified-gallery-js-extra'>
+/* <![CDATA[ */
+var canvasJG = {"rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/justified-gallery/block/public-block-justified-gallery.js?ver=2.0.9' id='canvas-justified-gallery-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/slider-gallery/block/flickity.pkgd.min.js?ver=2.0.9' id='flickity-js'></script>
+<script type='text/javascript' id='canvas-slider-gallery-js-extra'>
+/* <![CDATA[ */
+var canvas_sg_flickity = {"page_info_sep":" of "};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/canvas/components/slider-gallery/block/public-block-slider-gallery.js?ver=2.0.9' id='canvas-slider-gallery-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/theleoterrell.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/basic-elements/public/js/public-powerkit-basic-elements.js?ver=4.0.0' id='powerkit-basic-elements-js'></script>
+<script type='text/javascript' id='powerkit-justified-gallery-js-extra'>
+/* <![CDATA[ */
+var powerkitJG = {"rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/justified-gallery/public/js/public-powerkit-justified-gallery.js?ver=2.3.8' id='powerkit-justified-gallery-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/lightbox/public/js/jquery.magnific-popup.min.js?ver=2.3.8' id='magnific-popup-js'></script>
+<script type='text/javascript' id='powerkit-lightbox-js-extra'>
+/* <![CDATA[ */
+var powerkit_lightbox_localize = {"text_previous":"Previous","text_next":"Next","text_close":"Close","text_loading":"Loading","text_counter":"of","single_image_selectors":".entry-content img","gallery_selectors":".wp-block-gallery, .gallery","exclude_selectors":"","zoom_icon":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/lightbox/public/js/public-powerkit-lightbox.js?ver=2.3.8' id='powerkit-lightbox-js'></script>
+<script type='text/javascript' id='powerkit-opt-in-forms-js-extra'>
+/* <![CDATA[ */
+var opt_in = {"ajax_url":"https:\/\/theleoterrell.com\/wp-admin\/admin-ajax.php","warning_privacy":"Please confirm that you agree with our policies."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/opt-in-forms/public/js/public-powerkit-opt-in-forms.js?ver=2.3.8' id='powerkit-opt-in-forms-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/scroll-to-top/public/js/public-powerkit-scroll-to-top.js?ver=2.3.8' id='powerkit-scroll-to-top-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/powerkit/modules/share-buttons/public/js/public-powerkit-share-buttons.js?ver=2.3.8' id='powerkit-share-buttons-js'></script>
+<script type='text/javascript' id='csco-scripts-js-extra'>
+/* <![CDATA[ */
+var csLocalize = {"darkMode":"true"};
+var csco_mega_menu = {"rest_url":"https:\/\/theleoterrell.com\/wp-json\/csco\/v1\/menu-posts"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/themes/newsblock/assets/js/scripts.js?ver=1.0.8' id='csco-scripts-js'></script>
+<script type='text/javascript' id='swp-live-search-client-js-extra'>
+/* <![CDATA[ */
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/theleoterrell.com\/wp-admin\/admin-ajax.php","origin_id":0,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/bundle.min.js?ver=1.4.6' id='swp-live-search-client-js'></script>
+<script type='text/javascript' src='https://theleoterrell.com/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+	<script type="text/javascript">
+		"use strict";
+
+		(function($) {
+
+			$( window ).on( 'load', function() {
+
+				// Get all links.
+				var powerkitSLinksIds = [];
+
+				var powerkitSLinksRestBox = $( '.pk-social-links-mode-rest' );
+
+				// Generate links Ids.
+				$( powerkitSLinksRestBox ).each( function( index, wrap ) {
+
+					if ( ! $( wrap ).hasClass( 'pk-social-links-counts-disabled' ) ) {
+
+						$( wrap ).find( '.pk-social-links-item' ).each( function() {
+							if ( $( this ).attr( 'data-id' ).length > 0 ) {
+								powerkitSLinksIds.push( $( this ).attr( 'data-id' ) );
+							}
+						});
+					}
+				});
+
+				// Generate links data.
+				var powerkitSLinksData = {};
+
+				if( powerkitSLinksIds.length > 0 ) {
+					powerkitSLinksData = { 'ids' : powerkitSLinksIds.join() };
+				}
+
+				// Check data.
+				if ( ! Object.entries( powerkitSLinksData ).length ) {
+					return;
+				}
+
+				// Get results by REST API.
+				$.ajax({
+					type: 'GET',
+					url: 'https://theleoterrell.com/wp-json/social-counts/v1/get-counts',
+					data: powerkitSLinksData,
+					beforeSend: function(){
+
+						// Add Loading Class.
+						powerkitSLinksRestBox.addClass( 'pk-social-links-loading' );
+					},
+					success: function( response ) {
+
+						if ( ! $.isEmptyObject( response ) && ! response.hasOwnProperty( 'code' ) ) {
+
+							// SLinks loop.
+							$.each( response, function( index, data ) {
+
+								// Find Bsa Item.
+								var powerkitSLinksItem = powerkitSLinksRestBox.find( '.pk-social-links-item[data-id="' + index + '"]');
+
+								// Set Class.
+								if ( data.hasOwnProperty( 'class' ) ) {
+									powerkitSLinksItem.addClass( data.class );
+								}
+
+								// Set Count.
+								if ( data.hasOwnProperty( 'result' ) && data.result !== null && data.result.hasOwnProperty( 'count' ) ) {
+
+									if ( data.result.count ) {
+										// Class Item.
+										powerkitSLinksItem.removeClass( 'pk-social-links-no-count' ).addClass( 'pk-social-links-item-count' );
+
+										// Count item.
+										powerkitSLinksItem.find( '.pk-social-links-count' ).not( '.pk-tippy' ).html( data.result.count );
+									}
+								} else {
+									powerkitSLinksItem.addClass( 'pk-social-links-no-count' );
+								}
+
+							});
+						}
+
+						// Remove Loading Class.
+						powerkitSLinksRestBox.removeClass( 'pk-social-links-loading' );
+					},
+					error: function() {
+
+						// Remove Loading Class.
+						powerkitSLinksRestBox.removeClass( 'pk-social-links-loading' );
+					}
+				});
+			});
+
+		})(jQuery);
+	</script>
+	<!-- Default Statcounter code for Leo Terrell
+https://theleoterrell.com/ -->
+<script type="text/javascript">
+var sc_project=12398444; 
+var sc_invisible=1; 
+var sc_security="446062e7"; 
+var sc_https=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12398444/0/446062e7/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+</body>
+</html>
