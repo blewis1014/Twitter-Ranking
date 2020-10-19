@@ -1,0 +1,28 @@
+Query: Xbox
+{'file': 'processedHtmlFile1.txt', 'words:': 412, 'occurences': 8}
+{'file': 'processedHtmlFile103.txt', 'words:': 256, 'occurences': 8}
+{'file': 'processedHtmlFile106.txt', 'words:': 407, 'occurences': 4}
+{'file': 'processedHtmlFile11.txt', 'words:': 581, 'occurences': 11}
+{'file': 'processedHtmlFile110.txt', 'words:': 407, 'occurences': 4}
+{'file': 'processedHtmlFile119.txt', 'words:': 587, 'occurences': 11}
+{'file': 'processedHtmlFile12.txt', 'words:': 481, 'occurences': 11}
+{'file': 'processedHtmlFile120.txt', 'words:': 407, 'occurences': 4}
+{'file': 'processedHtmlFile122.txt', 'words:': 252, 'occurences': 4}
+{'file': 'processedHtmlFile123.txt', 'words:': 450, 'occurences': 4}
+{'file': 'processedHtmlFile13.txt', 'words:': 225, 'occurences': 4}
+{'file': 'processedHtmlFile15.txt', 'words:': 138, 'occurences': 2}
+{'file': 'processedHtmlFile194.txt', 'words:': 1247, 'occurences': 1}
+{'file': 'processedHtmlFile2.txt', 'words:': 48, 'occurences': 1}
+{'file': 'processedHtmlFile235.txt', 'words:': 423, 'occurences': 1}
+{'file': 'processedHtmlFile3.txt', 'words:': 213, 'occurences': 1}
+{'file': 'processedHtmlFile4.txt', 'words:': 496, 'occurences': 6}
+{'file': 'processedHtmlFile5.txt', 'words:': 207, 'occurences': 2}
+{'file': 'processedHtmlFile6.txt', 'words:': 55, 'occurences': 1}
+{'file': 'processedHtmlFile740.txt', 'words:': 323, 'occurences': 4}
+{'file': 'processedHtmlFile8.txt', 'words:': 276, 'occurences': 7}
+{'file': 'processedHtmlFile96.txt', 'words:': 326, 'occurences': 5}
+{'file': 'processedHtmlFile97.txt', 'words:': 97, 'occurences': 2}
+{'file': 'processedHtmlFile99.txt', 'words:': 212, 'occurences': 5}
+
+Total # of documents: 701
+Total # of documents that contain query: 24
