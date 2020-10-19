@@ -1,0 +1,1521 @@
+<!doctype html>
+<html lang="id-ID">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="refresh" content="300; url=https://www.detik.com/" />
+    
+        <title>Halaman Tidak Ditemukan - Detikcom</title>
+        <meta name="description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="description" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://plus.google.com/+detikcom" rel="publisher" />
+    	<meta property="og:type" content="article" />
+    	<meta property="og:site_name" content="detiknews" />
+    	<meta property="og:title" content="Halaman Tidak Ditemukan - Detikcom" />
+    	<meta property="og:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" />
+    	<meta property="og:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+    	<meta property="og:url" content="https://www.detik.com" />
+    	<meta property="fb:app_id" content="187960271237149" />
+    	<meta property="fb:admins" content="100000607566694" />
+    	<meta property="og:image:type" content="image/jpeg" />
+    	<meta property="og:image:width" content="650" />
+    	<meta property="og:image:height" content="366" />
+        <meta name="copyright" content="" itemprop="dateline" />
+        <meta name="p:domain_verify" content="2057b86bf61e5a346e22a380c6fecf89" />
+        <meta name="robots" content="noindex, nofollow, max-snippet:160" />
+        <meta name="googlebot-news" content="noindex, nofollow" /><meta name="googlebot" content="noindex, nofollow" />
+        <meta content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="headline" />
+        <meta name="keywords" content="detikcom" itemprop="keywords" />
+        <meta name="thumbnailUrl" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" itemprop="thumbnailUrl" />
+        <meta name="dtk:acctype" content="acc-detiknews"  />
+        <meta name="dtk:kanalid" content="-" />
+        <meta name="dtk:articleid" content="-" />
+        <meta name="dtk:createddate" content="-1" />
+        <meta name="dtk:platform" content="" />
+        
+<meta name="contenttype" content="halaman404" />
+        <meta content="https://www.detik.com" itemprop="url" />
+        <link rel="canonical" href="https://news.detik.com/berita-jawa-tengah/d-5216604/sempat-landai-jumlah-kasus-corona-di-boyolali-melonjak-jadi-993%0A" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@detikcom" />
+        <meta name="twitter:site:id" content="@detikcom" />
+        <meta name="twitter:creator" content="@detikcom" />
+        <meta name="twitter:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+        <meta name="twitter:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" /><script>var wid_method = "GET";</script>    <script type="text/javascript" src="https://awscdn.detik.net.id/detik/libraries/jquery/1.8.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://awscdn.detik.net.id/detik2/css/style-404.css" />
+    <script type="text/javascript" src="https://awscdn.detik.net.id/libs/js-itportal/gtmdl.js?v=2.1.2"></script>
+    <!--s:dtkprv-->
+<!-- S: (script) Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NG6BTJ');</script>
+<!-- E: (script) Google Tag Manager -->
+<!--e:dtkprv--></head>
+<body class="move-area">
+    <!--s:dtkprv-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG6BTJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--e:dtkprv-->
+
+    <div id="navbar_block" data-platform="desktop"></div>
+
+    <div class="container">
+    <div class="four-image">
+        <div class="four-image__left">
+            <img src="https://awscdn.detik.net.id/detik2/images/left.png" alt="">
+        </div>
+        <div class="four-image__name">
+            <img src="https://awscdn.detik.net.id/detik2/images/404.png" alt="">
+        </div>
+        <div class="four-image__right">
+            <img src="https://awscdn.detik.net.id/detik2/images/right.png" alt="">
+        </div>
+    </div>
+    <div class="four-doodle">
+        <div class="four-wrap ">
+            <img src="https://awscdn.detik.net.id/detik2/images/face.png" alt="">
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="four-copy">
+        Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah.
+    </div>
+    
+        <div class="four-stream top">
+        <h2 class="four-title">
+            Mungkin halaman yang Anda maksud :
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/05/16/200b4829-3c4a-4190-81cf-d00147c07ed5_43.jpeg?w=300&q=90" alt="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" title="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                                Jabar Sepekan: Teror 'Kuyang' di Baleendah-Habib Bahar Menang di PTUN                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:50 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/13/gilang-widya-pramana-4_43.jpeg?w=300&q=90" alt="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" title="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                                Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Sabtu, 17-10-2020 12:01 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/12/banjir-bandang-di-garut_43.jpeg?w=300&q=90" alt="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" title="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                                Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:24 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+        <div class="four-stream">
+        <h2 class="four-title">
+            Berita Terpopuler:
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217934/inter-dibungkam-milan-conte-soroti-hal-ini">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/inter-milan-ac-milan-1_43.jpeg?w=300&q=90" alt="Inter Dibungkam Milan, Conte Soroti Hal Ini" title="Inter Dibungkam Milan, Conte Soroti Hal Ini" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217934/inter-dibungkam-milan-conte-soroti-hal-ini">
+                                Inter Dibungkam Milan, Conte Soroti Hal Ini                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 05:20 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217930/drama-var-everton-vs-liverpool-sadio-mane-offside-atau-tidak">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/jordan-henderson-liverpool-everton-vs-liverpool-liga-inggris-premier-league_43.jpeg?w=300&q=90" alt="Drama VAR Everton Vs Liverpool, Sadio Mane Offside atau Tidak?" title="Drama VAR Everton Vs Liverpool, Sadio Mane Offside atau Tidak?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217930/drama-var-everton-vs-liverpool-sadio-mane-offside-atau-tidak">
+                                Drama VAR Everton Vs Liverpool, Sadio Mane Offside atau Tidak?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 05:00 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217927/newcastle-vs-mu-setan-merah-menang-4-1">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/manchester-united-bruno-fernandes_43.jpeg?w=300&q=90" alt="Newcastle Vs MU: Setan Merah Menang 4-1" title="Newcastle Vs MU: Setan Merah Menang 4-1" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217927/newcastle-vs-mu-setan-merah-menang-4-1">
+                                Newcastle Vs MU: Setan Merah Menang 4-1                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 04:05 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://health.detik.com/berita-detikhealth/d-5217941/uji-coba-vaksin-corona-di-indonesia-sudah-sampai-mana-kelanjutannya">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2016/09/20/d823e909-4868-4312-9cad-f7424e4f3cab_43.jpg?w=300&q=90" alt="Uji Coba Vaksin Corona di Indonesia, Sudah Sampai Mana Kelanjutannya?" title="Uji Coba Vaksin Corona di Indonesia, Sudah Sampai Mana Kelanjutannya?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://health.detik.com/berita-detikhealth/d-5217941/uji-coba-vaksin-corona-di-indonesia-sudah-sampai-mana-kelanjutannya">
+                                Uji Coba Vaksin Corona di Indonesia, Sudah Sampai Mana Kelanjutannya?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikHealth - Minggu, 18-10-2020 05:29 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2018/05/24/23848126-7eae-4100-b002-3ca8d09abb5f_43.jpeg?w=300&q=90" alt="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" title="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                                Golongan O Disebut 'Kebal' COVID-19, Bisakah Ganti Golongan Darah?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikHealth - Minggu, 18-10-2020 05:50 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+    <div class="four-cta">
+        <a href="https://www.detik.com">
+            <img src="https://awscdn.detik.net.id/detik2/images/arrow404.png?v1" alt="">
+            <span>Kembali ke Detikcom</span>
+        </a>
+    </div>
+
+    <div class="four-links">
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/redaksi">Redaksi</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/pedoman-media">Pedoman Media Siber</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://microsite.detik.com/vacancy">Karir</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/disclaimer">Disclaimer</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/privacy-policy">Privacy Policy</a>
+        </div>
+    </div>
+
+    <div class="four-footer">
+        <p>Download aplikasi detikcom</p>
+        <div class="four-store">
+            <a href="https://apps.apple.com/id/app/detikcom-berita-terlengkap/id442914988" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/appstore.png" alt="">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=org.detikcom.rss" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/playstore.png" alt="">
+            </a>
+        </div>
+        <p>detiknetwork company - copyright 2019</p>
+        <div class="four-detik">
+            <a href="https://www.detik.com"><img src="https://awscdn.detik.net.id/detik2/images/detik404.png" alt=""></a>
+        </div>
+    </div>
+
+</div>
+
+    
+<script src="https://awscdn.detik.net.id/assets/js/navbar.portal.v2.js?v=4f4a8a4e">
+{
+    client_id: 3,
+    ui: 'popup',
+    site_id: 2,
+}
+</script>
+
+
+<script>
+  var navBlockFlag = true;
+  var loginStatusFlag = true;
+
+  $(document).on('DOMSubtreeModified', '#navbar_block', function() {
+
+    if (navBlockFlag) {
+      var $menuState = $('.dtkframebar__menu__icon, .dtkframebar__menu__kanal');      // attribute to check menu state
+      var $sidemenuToggle = $('.dtkframebar__menu__icon, .dtkframebar__menu__text');  // button that trigger sidemenu open
+
+      $sidemenuToggle.click(function() {
+        if ($menuState.hasClass('show')) {
+          hj('trigger', 'sidemenu_close');
+          // console.log('hotjar: close sidemenu');
+        } else {
+          hj('trigger', 'sidemenu_open');
+          // console.log('hotjar: open sidemenu');
+        }
+      });
+
+      navBlockFlag = false;
+    }
+
+    $(document).on('DOMSubtreeModified', '.dtkframebar__user', function() {
+      if (loginStatusFlag) {
+        setTimeout(function() {
+          $('.msk, .to_login').click(function() {
+            // console.log('hotjar: popup login');
+            hj('trigger', 'popup_detikid');
+          });
+        }, 100);
+
+        loginStatusFlag = false;
+      }
+    });
+  });
+</script>
+
+
+<!--profile_ad:detik_news-->
+<!--layout_type:desktop-->
+
+    <script type="text/javascript">
+        function lqd_img($param1) {
+            var lqd = $($param1);
+            $(lqd).each(function(index){
+                var img_src = $(this).find("img").attr( "src" );
+                if($param1 == ".lqd"){
+                    $(this).find("img").hide();
+                    $(this).css("background-image", "url(" + img_src + ")");
+                } else {
+                    $(this).append('<div class="lqd_img" style="background-image:url('+ img_src +');"></div>');
+                }
+            });
+            return;
+        }
+
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+         // some code..
+        }else
+        {
+            //Now include js files
+            // Initialize liquid images
+            lqd_img(".lqd");
+
+            $(".move-area").mousemove(function(event) {
+              var eye = $(".four-eye");
+              var x = (eye.offset().left) + (eye.width() / 2);
+              var y = (eye.offset().top) + (eye.height() / 2);
+              var rad = Math.atan2(event.pageX - x, event.pageY - y);
+              var rot = (rad * (180 / Math.PI) * -1) + 180;
+
+              var y2 = (event.pageY - eye.offset().top) / window.innerHeight;
+                  y2 = y2 * 60;
+
+              var x2 = (event.pageX - eye.offset().left) / window.innerHeight;
+                  x2 = x2 * 40;
+
+              eye.css({
+                '-webkit-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-moz-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-ms-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                'transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+              });
+            });
+        }
+    </script>
+</body>
+</html>
+<!--replaced--><!doctype html>
+<html lang="id-ID">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="refresh" content="300; url=https://www.detik.com/" />
+    
+        <title>Halaman Tidak Ditemukan - Detikcom</title>
+        <meta name="description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="description" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://plus.google.com/+detikcom" rel="publisher" />
+    	<meta property="og:type" content="article" />
+    	<meta property="og:site_name" content="detiknews" />
+    	<meta property="og:title" content="Halaman Tidak Ditemukan - Detikcom" />
+    	<meta property="og:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" />
+    	<meta property="og:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+    	<meta property="og:url" content="https://www.detik.com" />
+    	<meta property="fb:app_id" content="187960271237149" />
+    	<meta property="fb:admins" content="100000607566694" />
+    	<meta property="og:image:type" content="image/jpeg" />
+    	<meta property="og:image:width" content="650" />
+    	<meta property="og:image:height" content="366" />
+        <meta name="copyright" content="" itemprop="dateline" />
+        <meta name="p:domain_verify" content="2057b86bf61e5a346e22a380c6fecf89" />
+        <meta name="robots" content="noindex, nofollow, max-snippet:160" />
+        <meta name="googlebot-news" content="noindex, nofollow" /><meta name="googlebot" content="noindex, nofollow" />
+        <meta content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="headline" />
+        <meta name="keywords" content="detikcom" itemprop="keywords" />
+        <meta name="thumbnailUrl" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" itemprop="thumbnailUrl" />
+        <meta name="dtk:acctype" content="acc-detiknews"  />
+        <meta name="dtk:kanalid" content="-" />
+        <meta name="dtk:articleid" content="-" />
+        <meta name="dtk:createddate" content="-1" />
+        <meta name="dtk:platform" content="" />
+        
+<meta name="contenttype" content="halaman404" />
+        <meta content="https://www.detik.com" itemprop="url" />
+        <link rel="canonical" href="https://news.detik.com/berita-jawa-tengah/d-5216604/sempat-landai-jumlah-kasus-corona-di-boyolali-melonjak-jadi-993%0A" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@detikcom" />
+        <meta name="twitter:site:id" content="@detikcom" />
+        <meta name="twitter:creator" content="@detikcom" />
+        <meta name="twitter:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+        <meta name="twitter:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" /><script>var wid_method = "GET";</script>    <script type="text/javascript" src="https://awscdn.detik.net.id/detik/libraries/jquery/1.8.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://awscdn.detik.net.id/detik2/css/style-404.css" />
+    <script type="text/javascript" src="https://awscdn.detik.net.id/libs/js-itportal/gtmdl.js?v=2.1.2"></script>
+    <!--s:dtkprv-->
+<!-- S: (script) Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NG6BTJ');</script>
+<!-- E: (script) Google Tag Manager -->
+<!--e:dtkprv--></head>
+<body class="move-area">
+    <!--s:dtkprv-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG6BTJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--e:dtkprv-->
+
+    <div id="navbar_block" data-platform="desktop"></div>
+
+    <div class="container">
+    <div class="four-image">
+        <div class="four-image__left">
+            <img src="https://awscdn.detik.net.id/detik2/images/left.png" alt="">
+        </div>
+        <div class="four-image__name">
+            <img src="https://awscdn.detik.net.id/detik2/images/404.png" alt="">
+        </div>
+        <div class="four-image__right">
+            <img src="https://awscdn.detik.net.id/detik2/images/right.png" alt="">
+        </div>
+    </div>
+    <div class="four-doodle">
+        <div class="four-wrap ">
+            <img src="https://awscdn.detik.net.id/detik2/images/face.png" alt="">
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="four-copy">
+        Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah.
+    </div>
+    
+        <div class="four-stream top">
+        <h2 class="four-title">
+            Mungkin halaman yang Anda maksud :
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/05/16/200b4829-3c4a-4190-81cf-d00147c07ed5_43.jpeg?w=300&q=90" alt="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" title="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                                Jabar Sepekan: Teror 'Kuyang' di Baleendah-Habib Bahar Menang di PTUN                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:50 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/13/gilang-widya-pramana-4_43.jpeg?w=300&q=90" alt="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" title="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                                Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Sabtu, 17-10-2020 12:01 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/12/banjir-bandang-di-garut_43.jpeg?w=300&q=90" alt="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" title="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                                Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:24 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+        <div class="four-stream">
+        <h2 class="four-title">
+            Berita Terpopuler:
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil_43.jpeg?w=300&q=90" alt="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" title="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                                Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah 'Showroom' Mobil                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Minggu, 18-10-2020 05:42 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217934/inter-dibungkam-milan-conte-soroti-hal-ini">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/inter-milan-ac-milan-1_43.jpeg?w=300&q=90" alt="Inter Dibungkam Milan, Conte Soroti Hal Ini" title="Inter Dibungkam Milan, Conte Soroti Hal Ini" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217934/inter-dibungkam-milan-conte-soroti-hal-ini">
+                                Inter Dibungkam Milan, Conte Soroti Hal Ini                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 05:20 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217933/eks-penyerang-everton-heran-gol-henderson-dianulir">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/liverpool_43.jpeg?w=300&q=90" alt="Eks Penyerang Everton Heran Gol Henderson Dianulir" title="Eks Penyerang Everton Heran Gol Henderson Dianulir" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217933/eks-penyerang-everton-heran-gol-henderson-dianulir">
+                                Eks Penyerang Everton Heran Gol Henderson Dianulir                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 06:40 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/sanna-marin_43.jpeg?w=300&q=90" alt="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" title="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                                5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Minggu, 18-10-2020 07:00 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2018/05/24/23848126-7eae-4100-b002-3ca8d09abb5f_43.jpeg?w=300&q=90" alt="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" title="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                                Golongan O Disebut 'Kebal' COVID-19, Bisakah Ganti Golongan Darah?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikHealth - Minggu, 18-10-2020 05:50 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+    <div class="four-cta">
+        <a href="https://www.detik.com">
+            <img src="https://awscdn.detik.net.id/detik2/images/arrow404.png?v1" alt="">
+            <span>Kembali ke Detikcom</span>
+        </a>
+    </div>
+
+    <div class="four-links">
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/redaksi">Redaksi</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/pedoman-media">Pedoman Media Siber</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://microsite.detik.com/vacancy">Karir</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/disclaimer">Disclaimer</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/privacy-policy">Privacy Policy</a>
+        </div>
+    </div>
+
+    <div class="four-footer">
+        <p>Download aplikasi detikcom</p>
+        <div class="four-store">
+            <a href="https://apps.apple.com/id/app/detikcom-berita-terlengkap/id442914988" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/appstore.png" alt="">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=org.detikcom.rss" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/playstore.png" alt="">
+            </a>
+        </div>
+        <p>detiknetwork company - copyright 2019</p>
+        <div class="four-detik">
+            <a href="https://www.detik.com"><img src="https://awscdn.detik.net.id/detik2/images/detik404.png" alt=""></a>
+        </div>
+    </div>
+
+</div>
+
+    
+<script src="https://awscdn.detik.net.id/assets/js/navbar.portal.v2.js?v=4f4a8a4e">
+{
+    client_id: 3,
+    ui: 'popup',
+    site_id: 2,
+}
+</script>
+
+
+<script>
+  var navBlockFlag = true;
+  var loginStatusFlag = true;
+
+  $(document).on('DOMSubtreeModified', '#navbar_block', function() {
+
+    if (navBlockFlag) {
+      var $menuState = $('.dtkframebar__menu__icon, .dtkframebar__menu__kanal');      // attribute to check menu state
+      var $sidemenuToggle = $('.dtkframebar__menu__icon, .dtkframebar__menu__text');  // button that trigger sidemenu open
+
+      $sidemenuToggle.click(function() {
+        if ($menuState.hasClass('show')) {
+          hj('trigger', 'sidemenu_close');
+          // console.log('hotjar: close sidemenu');
+        } else {
+          hj('trigger', 'sidemenu_open');
+          // console.log('hotjar: open sidemenu');
+        }
+      });
+
+      navBlockFlag = false;
+    }
+
+    $(document).on('DOMSubtreeModified', '.dtkframebar__user', function() {
+      if (loginStatusFlag) {
+        setTimeout(function() {
+          $('.msk, .to_login').click(function() {
+            // console.log('hotjar: popup login');
+            hj('trigger', 'popup_detikid');
+          });
+        }, 100);
+
+        loginStatusFlag = false;
+      }
+    });
+  });
+</script>
+
+
+<!--profile_ad:detik_news-->
+<!--layout_type:desktop-->
+
+    <script type="text/javascript">
+        function lqd_img($param1) {
+            var lqd = $($param1);
+            $(lqd).each(function(index){
+                var img_src = $(this).find("img").attr( "src" );
+                if($param1 == ".lqd"){
+                    $(this).find("img").hide();
+                    $(this).css("background-image", "url(" + img_src + ")");
+                } else {
+                    $(this).append('<div class="lqd_img" style="background-image:url('+ img_src +');"></div>');
+                }
+            });
+            return;
+        }
+
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+         // some code..
+        }else
+        {
+            //Now include js files
+            // Initialize liquid images
+            lqd_img(".lqd");
+
+            $(".move-area").mousemove(function(event) {
+              var eye = $(".four-eye");
+              var x = (eye.offset().left) + (eye.width() / 2);
+              var y = (eye.offset().top) + (eye.height() / 2);
+              var rad = Math.atan2(event.pageX - x, event.pageY - y);
+              var rot = (rad * (180 / Math.PI) * -1) + 180;
+
+              var y2 = (event.pageY - eye.offset().top) / window.innerHeight;
+                  y2 = y2 * 60;
+
+              var x2 = (event.pageX - eye.offset().left) / window.innerHeight;
+                  x2 = x2 * 40;
+
+              eye.css({
+                '-webkit-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-moz-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-ms-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                'transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+              });
+            });
+        }
+    </script>
+</body>
+</html>
+<!--replaced--><!doctype html>
+<html lang="id-ID">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="refresh" content="300; url=https://www.detik.com/" />
+    
+        <title>Halaman Tidak Ditemukan - Detikcom</title>
+        <meta name="description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="description" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://plus.google.com/+detikcom" rel="publisher" />
+    	<meta property="og:type" content="article" />
+    	<meta property="og:site_name" content="detiknews" />
+    	<meta property="og:title" content="Halaman Tidak Ditemukan - Detikcom" />
+    	<meta property="og:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" />
+    	<meta property="og:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+    	<meta property="og:url" content="https://www.detik.com" />
+    	<meta property="fb:app_id" content="187960271237149" />
+    	<meta property="fb:admins" content="100000607566694" />
+    	<meta property="og:image:type" content="image/jpeg" />
+    	<meta property="og:image:width" content="650" />
+    	<meta property="og:image:height" content="366" />
+        <meta name="copyright" content="" itemprop="dateline" />
+        <meta name="p:domain_verify" content="2057b86bf61e5a346e22a380c6fecf89" />
+        <meta name="robots" content="noindex, nofollow, max-snippet:160" />
+        <meta name="googlebot-news" content="noindex, nofollow" /><meta name="googlebot" content="noindex, nofollow" />
+        <meta content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="headline" />
+        <meta name="keywords" content="detikcom" itemprop="keywords" />
+        <meta name="thumbnailUrl" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" itemprop="thumbnailUrl" />
+        <meta name="dtk:acctype" content="acc-detiknews"  />
+        <meta name="dtk:kanalid" content="-" />
+        <meta name="dtk:articleid" content="-" />
+        <meta name="dtk:createddate" content="-1" />
+        <meta name="dtk:platform" content="" />
+        
+<meta name="contenttype" content="halaman404" />
+        <meta content="https://www.detik.com" itemprop="url" />
+        <link rel="canonical" href="https://news.detik.com/berita-jawa-tengah/d-5216604/sempat-landai-jumlah-kasus-corona-di-boyolali-melonjak-jadi-993%0A" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@detikcom" />
+        <meta name="twitter:site:id" content="@detikcom" />
+        <meta name="twitter:creator" content="@detikcom" />
+        <meta name="twitter:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+        <meta name="twitter:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" /><script>var wid_method = "GET";</script>    <script type="text/javascript" src="https://awscdn.detik.net.id/detik/libraries/jquery/1.8.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://awscdn.detik.net.id/detik2/css/style-404.css" />
+    <script type="text/javascript" src="https://awscdn.detik.net.id/libs/js-itportal/gtmdl.js?v=2.1.2"></script>
+    <!--s:dtkprv-->
+<!-- S: (script) Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NG6BTJ');</script>
+<!-- E: (script) Google Tag Manager -->
+<!--e:dtkprv--></head>
+<body class="move-area">
+    <!--s:dtkprv-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG6BTJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--e:dtkprv-->
+
+    <div id="navbar_block" data-platform="desktop"></div>
+
+    <div class="container">
+    <div class="four-image">
+        <div class="four-image__left">
+            <img src="https://awscdn.detik.net.id/detik2/images/left.png" alt="">
+        </div>
+        <div class="four-image__name">
+            <img src="https://awscdn.detik.net.id/detik2/images/404.png" alt="">
+        </div>
+        <div class="four-image__right">
+            <img src="https://awscdn.detik.net.id/detik2/images/right.png" alt="">
+        </div>
+    </div>
+    <div class="four-doodle">
+        <div class="four-wrap ">
+            <img src="https://awscdn.detik.net.id/detik2/images/face.png" alt="">
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="four-copy">
+        Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah.
+    </div>
+    
+        <div class="four-stream top">
+        <h2 class="four-title">
+            Mungkin halaman yang Anda maksud :
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/05/16/200b4829-3c4a-4190-81cf-d00147c07ed5_43.jpeg?w=300&q=90" alt="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" title="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                                Jabar Sepekan: Teror 'Kuyang' di Baleendah-Habib Bahar Menang di PTUN                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:50 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/13/gilang-widya-pramana-4_43.jpeg?w=300&q=90" alt="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" title="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                                Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Sabtu, 17-10-2020 12:01 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/12/banjir-bandang-di-garut_43.jpeg?w=300&q=90" alt="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" title="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                                Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:24 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+        <div class="four-stream">
+        <h2 class="four-title">
+            Berita Terpopuler:
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil_43.jpeg?w=300&q=90" alt="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" title="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                                Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah 'Showroom' Mobil                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Minggu, 18-10-2020 05:42 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217976/zlatan-ibrahimovic-memangsa-inter-milan">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/zlatan-ibrahimovic-ac-milan-inter-milan-vs-ac-milan-derby-milan-derby-della-madonnia-liga-italia-serie-a_43.jpeg?w=300&q=90" alt="Zlatan Ibrahimovic Memangsa Inter Milan" title="Zlatan Ibrahimovic Memangsa Inter Milan" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217976/zlatan-ibrahimovic-memangsa-inter-milan">
+                                Zlatan Ibrahimovic Memangsa Inter Milan                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 07:20 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217933/eks-penyerang-everton-heran-gol-henderson-dianulir">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/liverpool_43.jpeg?w=300&q=90" alt="Eks Penyerang Everton Heran Gol Henderson Dianulir" title="Eks Penyerang Everton Heran Gol Henderson Dianulir" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217933/eks-penyerang-everton-heran-gol-henderson-dianulir">
+                                Eks Penyerang Everton Heran Gol Henderson Dianulir                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 06:40 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/sanna-marin_43.jpeg?w=300&q=90" alt="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" title="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                                5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Minggu, 18-10-2020 07:00 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2018/05/24/23848126-7eae-4100-b002-3ca8d09abb5f_43.jpeg?w=300&q=90" alt="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" title="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                                Golongan O Disebut 'Kebal' COVID-19, Bisakah Ganti Golongan Darah?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikHealth - Minggu, 18-10-2020 05:50 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+    <div class="four-cta">
+        <a href="https://www.detik.com">
+            <img src="https://awscdn.detik.net.id/detik2/images/arrow404.png?v1" alt="">
+            <span>Kembali ke Detikcom</span>
+        </a>
+    </div>
+
+    <div class="four-links">
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/redaksi">Redaksi</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/pedoman-media">Pedoman Media Siber</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://microsite.detik.com/vacancy">Karir</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/disclaimer">Disclaimer</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/privacy-policy">Privacy Policy</a>
+        </div>
+    </div>
+
+    <div class="four-footer">
+        <p>Download aplikasi detikcom</p>
+        <div class="four-store">
+            <a href="https://apps.apple.com/id/app/detikcom-berita-terlengkap/id442914988" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/appstore.png" alt="">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=org.detikcom.rss" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/playstore.png" alt="">
+            </a>
+        </div>
+        <p>detiknetwork company - copyright 2019</p>
+        <div class="four-detik">
+            <a href="https://www.detik.com"><img src="https://awscdn.detik.net.id/detik2/images/detik404.png" alt=""></a>
+        </div>
+    </div>
+
+</div>
+
+    
+<script src="https://awscdn.detik.net.id/assets/js/navbar.portal.v2.js?v=4f4a8a4e">
+{
+    client_id: 3,
+    ui: 'popup',
+    site_id: 2,
+}
+</script>
+
+
+<script>
+  var navBlockFlag = true;
+  var loginStatusFlag = true;
+
+  $(document).on('DOMSubtreeModified', '#navbar_block', function() {
+
+    if (navBlockFlag) {
+      var $menuState = $('.dtkframebar__menu__icon, .dtkframebar__menu__kanal');      // attribute to check menu state
+      var $sidemenuToggle = $('.dtkframebar__menu__icon, .dtkframebar__menu__text');  // button that trigger sidemenu open
+
+      $sidemenuToggle.click(function() {
+        if ($menuState.hasClass('show')) {
+          hj('trigger', 'sidemenu_close');
+          // console.log('hotjar: close sidemenu');
+        } else {
+          hj('trigger', 'sidemenu_open');
+          // console.log('hotjar: open sidemenu');
+        }
+      });
+
+      navBlockFlag = false;
+    }
+
+    $(document).on('DOMSubtreeModified', '.dtkframebar__user', function() {
+      if (loginStatusFlag) {
+        setTimeout(function() {
+          $('.msk, .to_login').click(function() {
+            // console.log('hotjar: popup login');
+            hj('trigger', 'popup_detikid');
+          });
+        }, 100);
+
+        loginStatusFlag = false;
+      }
+    });
+  });
+</script>
+
+
+<!--profile_ad:detik_news-->
+<!--layout_type:desktop-->
+
+    <script type="text/javascript">
+        function lqd_img($param1) {
+            var lqd = $($param1);
+            $(lqd).each(function(index){
+                var img_src = $(this).find("img").attr( "src" );
+                if($param1 == ".lqd"){
+                    $(this).find("img").hide();
+                    $(this).css("background-image", "url(" + img_src + ")");
+                } else {
+                    $(this).append('<div class="lqd_img" style="background-image:url('+ img_src +');"></div>');
+                }
+            });
+            return;
+        }
+
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+         // some code..
+        }else
+        {
+            //Now include js files
+            // Initialize liquid images
+            lqd_img(".lqd");
+
+            $(".move-area").mousemove(function(event) {
+              var eye = $(".four-eye");
+              var x = (eye.offset().left) + (eye.width() / 2);
+              var y = (eye.offset().top) + (eye.height() / 2);
+              var rad = Math.atan2(event.pageX - x, event.pageY - y);
+              var rot = (rad * (180 / Math.PI) * -1) + 180;
+
+              var y2 = (event.pageY - eye.offset().top) / window.innerHeight;
+                  y2 = y2 * 60;
+
+              var x2 = (event.pageX - eye.offset().left) / window.innerHeight;
+                  x2 = x2 * 40;
+
+              eye.css({
+                '-webkit-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-moz-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-ms-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                'transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+              });
+            });
+        }
+    </script>
+</body>
+</html>
+<!--replaced--><!doctype html>
+<html lang="id-ID">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="refresh" content="300; url=https://www.detik.com/" />
+    
+        <title>Halaman Tidak Ditemukan - Detikcom</title>
+        <meta name="description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="description" />
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://plus.google.com/+detikcom" rel="publisher" />
+    	<meta property="og:type" content="article" />
+    	<meta property="og:site_name" content="detiknews" />
+    	<meta property="og:title" content="Halaman Tidak Ditemukan - Detikcom" />
+    	<meta property="og:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" />
+    	<meta property="og:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+    	<meta property="og:url" content="https://www.detik.com" />
+    	<meta property="fb:app_id" content="187960271237149" />
+    	<meta property="fb:admins" content="100000607566694" />
+    	<meta property="og:image:type" content="image/jpeg" />
+    	<meta property="og:image:width" content="650" />
+    	<meta property="og:image:height" content="366" />
+        <meta name="copyright" content="" itemprop="dateline" />
+        <meta name="p:domain_verify" content="2057b86bf61e5a346e22a380c6fecf89" />
+        <meta name="robots" content="noindex, nofollow, max-snippet:160" />
+        <meta name="googlebot-news" content="noindex, nofollow" /><meta name="googlebot" content="noindex, nofollow" />
+        <meta content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." itemprop="headline" />
+        <meta name="keywords" content="detikcom" itemprop="keywords" />
+        <meta name="thumbnailUrl" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" itemprop="thumbnailUrl" />
+        <meta name="dtk:acctype" content="acc-detiknews"  />
+        <meta name="dtk:kanalid" content="-" />
+        <meta name="dtk:articleid" content="-" />
+        <meta name="dtk:createddate" content="-1" />
+        <meta name="dtk:platform" content="" />
+        
+<meta name="contenttype" content="halaman404" />
+        <meta content="https://www.detik.com" itemprop="url" />
+        <link rel="canonical" href="https://news.detik.com/berita-jawa-tengah/d-5216604/sempat-landai-jumlah-kasus-corona-di-boyolali-melonjak-jadi-993%0A" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@detikcom" />
+        <meta name="twitter:site:id" content="@detikcom" />
+        <meta name="twitter:creator" content="@detikcom" />
+        <meta name="twitter:description" content="Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah." />
+        <meta name="twitter:image" content="https://awscdn.detik.net.id/detik2/images/logo.jpg" /><script>var wid_method = "GET";</script>    <script type="text/javascript" src="https://awscdn.detik.net.id/detik/libraries/jquery/1.8.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://awscdn.detik.net.id/detik2/css/style-404.css" />
+    <script type="text/javascript" src="https://awscdn.detik.net.id/libs/js-itportal/gtmdl.js?v=2.1.2"></script>
+    <!--s:dtkprv-->
+<!-- S: (script) Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NG6BTJ');</script>
+<!-- E: (script) Google Tag Manager -->
+<!--e:dtkprv--></head>
+<body class="move-area">
+    <!--s:dtkprv-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG6BTJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--e:dtkprv-->
+
+    <div id="navbar_block" data-platform="desktop"></div>
+
+    <div class="container">
+    <div class="four-image">
+        <div class="four-image__left">
+            <img src="https://awscdn.detik.net.id/detik2/images/left.png" alt="">
+        </div>
+        <div class="four-image__name">
+            <img src="https://awscdn.detik.net.id/detik2/images/404.png" alt="">
+        </div>
+        <div class="four-image__right">
+            <img src="https://awscdn.detik.net.id/detik2/images/right.png" alt="">
+        </div>
+    </div>
+    <div class="four-doodle">
+        <div class="four-wrap ">
+            <img src="https://awscdn.detik.net.id/detik2/images/face.png" alt="">
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+            <div class="four-eye">
+                <img src="https://awscdn.detik.net.id/detik2/images/eye.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="four-copy">
+        Mohon Maaf, halaman tidak tersedia atau URL yang Anda inputkan salah.
+    </div>
+    
+        <div class="four-stream top">
+        <h2 class="four-title">
+            Mungkin halaman yang Anda maksud :
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/05/16/200b4829-3c4a-4190-81cf-d00147c07ed5_43.jpeg?w=300&q=90" alt="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" title="Jabar Sepekan: Teror Kuyang di Baleendah-Habib Bahar Menang di PTUN" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217841/jabar-sepekan-teror-kuyang-di-baleendah-habib-bahar-menang-di-ptun">
+                                Jabar Sepekan: Teror 'Kuyang' di Baleendah-Habib Bahar Menang di PTUN                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:50 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/13/gilang-widya-pramana-4_43.jpeg?w=300&q=90" alt="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" title="Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/entertainment-news/d-5217230/most-popular-sepekan-crazy-rich-malang-viral-hadiahi-istri-tower">
+                                Most Popular Sepekan: Crazy Rich Malang Viral, Hadiahi Istri Tower                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Sabtu, 17-10-2020 12:01 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/12/banjir-bandang-di-garut_43.jpeg?w=300&q=90" alt="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" title="Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita-jawa-barat/d-5217153/bencana-banjir-dan-longsor-mulai-menerjang-jawa-barat">
+                                Bencana Banjir dan Longsor Mulai Menerjang Jawa Barat                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Sabtu, 17-10-2020 09:24 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+        <div class="four-stream">
+        <h2 class="four-title">
+            Berita Terpopuler:
+        </h2>
+        <div class="four-list">
+                            <div class="four-list__item">
+                    <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil_43.jpeg?w=300&q=90" alt="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" title="Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah Showroom Mobil" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://news.detik.com/berita/d-5217942/penghuni-sekuriti-perumahan-di-tangerang-ribut-gegara-rumah-showroom-mobil">
+                                Penghuni-Sekuriti Perumahan di Tangerang Ribut Gegara Rumah 'Showroom' Mobil                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikNews - Minggu, 18-10-2020 05:42 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217976/zlatan-ibrahimovic-memangsa-inter-milan">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/zlatan-ibrahimovic-ac-milan-inter-milan-vs-ac-milan-derby-milan-derby-della-madonnia-liga-italia-serie-a_43.jpeg?w=300&q=90" alt="Zlatan Ibrahimovic Memangsa Inter Milan" title="Zlatan Ibrahimovic Memangsa Inter Milan" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-italia/d-5217976/zlatan-ibrahimovic-memangsa-inter-milan">
+                                Zlatan Ibrahimovic Memangsa Inter Milan                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 07:20 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217977/richarlison-minta-maaf-ke-thiago">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/18/richarlison-everton-vs-liverpool-thiago-alcantara-liga-inggris-premier-league_43.jpeg?w=300&q=90" alt="Richarlison Minta Maaf ke Thiago" title="Richarlison Minta Maaf ke Thiago" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://sport.detik.com/sepakbola/liga-inggris/d-5217977/richarlison-minta-maaf-ke-thiago">
+                                Richarlison Minta Maaf ke Thiago                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Sepakbola - Minggu, 18-10-2020 07:40 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2020/10/17/sanna-marin_43.jpeg?w=300&q=90" alt="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" title="5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://wolipop.detik.com/worklife/d-5217980/5-fakta-sanna-marin-perdana-menteri-yang-dikritik-karena-foto-belahan-dada">
+                                5 Fakta Sanna Marin, Perdana Menteri yang Dikritik karena Foto Belahan Dada                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            Wolipop - Minggu, 18-10-2020 07:00 WIB                        </div>
+                    </div>
+                </div>
+                            <div class="four-list__item">
+                    <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                        <div class="ratiobox ratio_4_3">
+                            <div class="ratiobox_content lqd">
+                                 <img src="https://awsimages.detik.net.id/community/media/visual/2018/05/24/23848126-7eae-4100-b002-3ca8d09abb5f_43.jpeg?w=300&q=90" alt="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" title="Golongan O Disebut Kebal COVID-19, Bisakah Ganti Golongan Darah?" class="" />                            </div>
+                        </div>
+                    </a>
+                    <div class="four-list__detail">
+                        <h3 class="four-list__title">
+                            <a href="https://health.detik.com/berita-detikhealth/d-5217945/golongan-o-disebut-kebal-covid-19-bisakah-ganti-golongan-darah">
+                                Golongan O Disebut 'Kebal' COVID-19, Bisakah Ganti Golongan Darah?                            </a>
+                        </h3>
+                        <div class="four-list__date">
+                            detikHealth - Minggu, 18-10-2020 05:50 WIB                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    
+    <div class="four-cta">
+        <a href="https://www.detik.com">
+            <img src="https://awscdn.detik.net.id/detik2/images/arrow404.png?v1" alt="">
+            <span>Kembali ke Detikcom</span>
+        </a>
+    </div>
+
+    <div class="four-links">
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/redaksi">Redaksi</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/pedoman-media">Pedoman Media Siber</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://microsite.detik.com/vacancy">Karir</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/disclaimer">Disclaimer</a>
+        </div>
+        <div class="four-links__item">
+            <a href="https://www.detik.com/dapur/privacy-policy">Privacy Policy</a>
+        </div>
+    </div>
+
+    <div class="four-footer">
+        <p>Download aplikasi detikcom</p>
+        <div class="four-store">
+            <a href="https://apps.apple.com/id/app/detikcom-berita-terlengkap/id442914988" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/appstore.png" alt="">
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=org.detikcom.rss" class="four-store__link">
+                <img src="https://awscdn.detik.net.id/detik2/images/playstore.png" alt="">
+            </a>
+        </div>
+        <p>detiknetwork company - copyright 2019</p>
+        <div class="four-detik">
+            <a href="https://www.detik.com"><img src="https://awscdn.detik.net.id/detik2/images/detik404.png" alt=""></a>
+        </div>
+    </div>
+
+</div>
+
+    
+<script src="https://awscdn.detik.net.id/assets/js/navbar.portal.v2.js?v=4f4a8a4e">
+{
+    client_id: 3,
+    ui: 'popup',
+    site_id: 2,
+}
+</script>
+
+
+<script>
+  var navBlockFlag = true;
+  var loginStatusFlag = true;
+
+  $(document).on('DOMSubtreeModified', '#navbar_block', function() {
+
+    if (navBlockFlag) {
+      var $menuState = $('.dtkframebar__menu__icon, .dtkframebar__menu__kanal');      // attribute to check menu state
+      var $sidemenuToggle = $('.dtkframebar__menu__icon, .dtkframebar__menu__text');  // button that trigger sidemenu open
+
+      $sidemenuToggle.click(function() {
+        if ($menuState.hasClass('show')) {
+          hj('trigger', 'sidemenu_close');
+          // console.log('hotjar: close sidemenu');
+        } else {
+          hj('trigger', 'sidemenu_open');
+          // console.log('hotjar: open sidemenu');
+        }
+      });
+
+      navBlockFlag = false;
+    }
+
+    $(document).on('DOMSubtreeModified', '.dtkframebar__user', function() {
+      if (loginStatusFlag) {
+        setTimeout(function() {
+          $('.msk, .to_login').click(function() {
+            // console.log('hotjar: popup login');
+            hj('trigger', 'popup_detikid');
+          });
+        }, 100);
+
+        loginStatusFlag = false;
+      }
+    });
+  });
+</script>
+
+
+<!--profile_ad:detik_news-->
+<!--layout_type:desktop-->
+
+    <script type="text/javascript">
+        function lqd_img($param1) {
+            var lqd = $($param1);
+            $(lqd).each(function(index){
+                var img_src = $(this).find("img").attr( "src" );
+                if($param1 == ".lqd"){
+                    $(this).find("img").hide();
+                    $(this).css("background-image", "url(" + img_src + ")");
+                } else {
+                    $(this).append('<div class="lqd_img" style="background-image:url('+ img_src +');"></div>');
+                }
+            });
+            return;
+        }
+
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+         // some code..
+        }else
+        {
+            //Now include js files
+            // Initialize liquid images
+            lqd_img(".lqd");
+
+            $(".move-area").mousemove(function(event) {
+              var eye = $(".four-eye");
+              var x = (eye.offset().left) + (eye.width() / 2);
+              var y = (eye.offset().top) + (eye.height() / 2);
+              var rad = Math.atan2(event.pageX - x, event.pageY - y);
+              var rot = (rad * (180 / Math.PI) * -1) + 180;
+
+              var y2 = (event.pageY - eye.offset().top) / window.innerHeight;
+                  y2 = y2 * 60;
+
+              var x2 = (event.pageX - eye.offset().left) / window.innerHeight;
+                  x2 = x2 * 40;
+
+              eye.css({
+                '-webkit-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-moz-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                '-ms-transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+                'transform': 'translate('+x2+'%, '+ y2 +'%) rotate('+ rot +'deg)',
+              });
+            });
+        }
+    </script>
+</body>
+</html>
+<!--replaced-->
