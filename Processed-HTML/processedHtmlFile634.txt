@@ -1,0 +1,8 @@
+You can now set Spotify as your default Podcast player on Google Assistant
+By
+Linkedin
+As spotted a few days ago Google was rolling out functionality for setting up a default Podcast player in Assistant settings. Now Spotify has been added into that list, making Spotify the first official third party podcasting service on Google Assistant.
+1 of 1
+We’re not thrilled that Spotify is the only option, we’ve had reason to question their business practices in the past . We are however happy that the platform has opened up for new entrants.
+We do worry however that Google has set the bar quite high with the new streaming media API . This may leave smaller developers like those who make most of the popular podcasting apps unable to implement the functionality. Regardless it’s great to see the walls of Google Assistant’s walled garden crumble a little. Even if it is to let in another walled garden like Spotify.
+COMPANIES
