@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.trainitright.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/html5.js"></script>
+	<![endif]-->
+	
+	<!-- STYLESHEETS -->
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/style.css" />
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/slick.css" />
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/magnific.css" />
+	
+	<script src="https://use.fontawesome.com/d2738749cd.js"></script>
+	
+	<!--[if gte IE 9]>
+	    <style type="text/css">
+	        .gradient { filter: none; }
+	    </style>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>World Animal Protection highlights the threat of superbugs on World Food Day &#8211; Alicia Bell IFBB Pro Train It Right</title>
+<style type="text/css">			.heateorSssInstagramBackground{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_vertical_sharing .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}article.article .heateor_sss_sharing_container { 
+  padding-top: 15px;
+  margin: 40px 0 0;
+  border-top: 1px solid #eaeaea; }
+
+.heateor_sss_sharing_title { font-weight: normal !important; }</style><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.trainitright.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://www.trainitright.com/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.trainitright.com/wp-includes/js/thickbox/thickbox.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='spectrum-style-css'  href='http://www.trainitright.com/wp-content/plugins/TapInfluence/spectrum.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-review-style-css'  href='http://www.trainitright.com/wp-content/plugins/TapInfluence/pluginstyle.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.trainitright.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.trainitright.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.56' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.56' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-slick-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/slick.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-font-awesome-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/font-awesome.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-deprecated-style-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/deprecated-style.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-style-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/style.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-au-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/style.css?ver=5.4.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='http://www.trainitright.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css'  href='http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_sharing_default_svg-css'  href='http://www.trainitright.com/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=3.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='simpleecommcart-css-css'  href='http://www.trainitright.com/wp-content/plugins/simple-e-commerce-shopping-cart/simpleecommcart.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.3.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='csf-google-web-fonts-sp_tpro_shortcode_options-css'  href='//fonts.googleapis.com/css?family=Open%20Sans:600%7COpen%20Sans:600%7COpen%20Sans:n%7COpen%20Sans:700%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/font-select.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/spectrum.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/ready.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.56'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"http:\/\/www.trainitright.com\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.56'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/simple-e-commerce-shopping-cart/js/simpleecommcart-library.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/www.trainitright.com\/wp-admin\/admin-ajax.php","security":"952e6798fa","gallery_scrolloffset":"100","eppathtoscripts":"http:\/\/www.trainitright.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/www.trainitright.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.3.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.3.1'></script>
+<link rel='https://api.w.org/' href='http://www.trainitright.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.trainitright.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.trainitright.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/" />
+<link rel='shortlink' href='http://www.trainitright.com/?p=16618' />
+<link rel="alternate" type="application/json+oembed" href="http://www.trainitright.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.trainitright.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F&#038;format=xml" />
+
+            <!-- TapInfluence -->
+            <script type="text/javascript">
+            ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+            p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+            };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+            n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//a.tapinfluence.com/tap.js","taptracker"));
+            taptracker('newTracker', 'cf', 'c.tapinfluence.com', {appId: 'abe876a0-5898-11e4-88e5-22000af93a2d'});
+            taptracker('crossDomainLinker', function(linkElement) {
+  				return true;
+			});
+            taptracker('trackPageView');
+            </script>
+            <!-- TapInfluence -->
+
+            <script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<meta name="SimpleEcommCartVersion" content="Professional 1.0.0" />
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36671625-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script> 
+</head>
+
+<body class="post-template-default single single-post postid-16618 single-format-standard">
+
+<div id="page">
+    
+    <header class="inner">
+        <a href="/" title="Train It Right by Alicia Bell"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/logo.png" class="logo" alt="Train It Right by Alicia Bell" /></a>
+        
+        <nav>
+            <ul>
+                <li><a href="/" >HOME</a></li>
+                <li><a href="/about/" >ABOUT</a></li>
+                <li><a href="/programs/" >TRAINING PROGRAMS</a></li>
+                <!--<li><a href="/membership/"  onclick="alert('Membership Page Coming Soon'); return false;">MEMBERSHIP</a></li>-->
+                <li><a href="/gallery/" >PORTFOLIO</a></li>
+                <li><a href="/blog/" >BLOG</a></li>
+                <li><a href="/vlog/" >VLOG</a></li>
+                <li><a href="/contact/" >CONTACT</a></li>
+            </ul>
+            
+            <div class="social">
+                <a href="https://www.facebook.com/TrainItRight/" class="facebook" target="_blank"></a>
+                <a href="https://twitter.com/trainitright" class="twitter" target="_blank"></a>
+                <a href="https://www.instagram.com/trainitright/" class="instagram" target="_blank"></a>
+                <a href="https://www.pinterest.com/trainitright/fitness/" class="pinterest" target="_blank"></a>
+                <a href="https://www.snapchat.com/add/trainitright" class="snapchat" target="_blank"></a>
+                <a href="https://www.youtube.com/trainitright" class="youtube" target="_blank"></a>
+            </div>
+        </nav>
+        
+        <a href="#" class="mobile"><span></span><span></span><span></span></a>
+    </header>
+
+<section class="page_header" data-parallax="scroll" data-image-src="
+		https://i.ytimg.com/vi/6PxBhw9fWBE/hqdefault.jpg"><div class="bg"></div></section>
+	
+<section>
+	<div class="wrapper">
+	
+		<div class="post_title">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Banner Ad On Blogs -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-3837024511285862"
+			     data-ad-slot="8973061689"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+			
+			<div class="date">October 17th, 2020</div>
+			<h1><span>//</span> World Animal Protection highlights the threat of superbugs on World Food Day</h1>		</div>
+	
+		<main>
+
+			
+		
+			<!--<div class="post_image" style="background-image: url();"></div>-->
+	
+			<article class="article">
+			
+		
+<h1>World Animal Protection highlights the threat of superbugs on World Food Day</h1>
+
+
+
+<p>TORONTO, Oct. 16, 2020 /CNW/ &#8211;&nbsp;The rise of superbugs from industrial farming is presenting a danger to public health worldwide says global charity World Animal Protection. This is because on industrial farms, animals are routinely given the same important antibiotics used to treat humans who are seriously ill.</p>
+
+
+
+<figure class="wp-block-image"><a href="http://email.prnewswire.com/ls/click?upn=3slWLw94I3jq-2B-2FedjFNgZGKjYfTMwyKW0nsjtCAaiTKTj6GUXLek28mUtydOB9EHVkJ5b2s5-2BLOQKWeV-2FnGlgw-3D-3DYL2j_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbygWCGgcUXxxMzW2ZhHxO5mOdIVtG1KJ5svS9-2FgQD9VGD5No11J5e0cw8NAl0MgD5aezxzFNDWB06w8mwDDdkbzMu7HITqStzkWEYgEEjbpHYgEC1-2FdsIP-2BpTLxOQJUVv0rQC2o-2B-2FMnY0EbgXJCr-2BxJ" target="_blank" rel="noreferrer noopener"><img src="https://i.ytimg.com/vi/6PxBhw9fWBE/hqdefault.jpg" alt="" title="A profile of a farmer in Ontario who is raising his pigs in a healthier, higher welfare system."/></a></figure>
+
+
+
+<p>Today, on World Food Day,&nbsp;<a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1f6vAygfgqSPt1pQc0-2Fcg8wBoeSttGlYEmkfSzC8qJqh8JI0zyrjlH16NiZSs5QFA-2B42roWJ1budmKzEMPdyWjgLUVKDQZLUPIN405IDYXnF2-2Fhz16875n-2BVAF9p-2FQNELYu6J5wz8Udl8d5LrPb947gD-2FxcaKpdyNLGyc3r3sM1pThiRE5pqBmp-2BI-2BCj6lsSw-2F8E4oMlTBUlfqEkgH5bavCFNQb8eV2-2BwQtiKc7mNc7Fz2t00vNPThM8FWWTLT5fVCNKMW1obr-2BF3YeOw44J-2BUBVXk0dU78dI8XteLFuXYfI4-3DxJDf_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbwV-2FdUEzhIrDjhJQg1BLzVfqTxPPElYkiwjA5eGOfedY3V-2Br2zEIgL1VbrFlEJdp4VYNxLqR44MjdU8Fo-2BvtAhUFJ2xWJubqIarR-2FnzFNHCRBNLmvt0F2N-2Fz-2B05Fk4MWQXO8GZ1eVOznS0wA2Utq1U7" rel="noreferrer noopener">a report</a>&nbsp;released by the organization shows that superbugs are emerging on farms from antibiotic overuse and those antibiotic resistant bacteria are entering our food chain and our environment. Almost three-quarters of the world&#8217;s antibiotics are used in animals, the majority on industrial farms. Antibiotics are often used to sustain low-welfare practices, such as the raising of fast-growing meat chickens and painful procedures performed on piglets, including cutting their teeth and tails. Many of these animals are housed in stressful, cramped conditions that can provide the perfect breeding ground for the spread of infection and emergence of disease.</p>
+
+
+
+<p>This is risky business &#8211; when superbugs are passed from animals to people, they make us less able to fight disease. Already, 700,000 people die each year from infections that cannot be treated by antibiotics. The World Health Organization has declared that Antimicrobial Resistance (AMR) is one of the top 10 global public health threats.</p>
+
+
+
+<p>Last year, a study from the Council of Canadian Academies warned of the potential rise in the percentage of bacterial infections that are resistant to antibiotic treatments. The report said that overuse of antibiotics on farm animals raised for food contributes to this.</p>
+
+
+
+<p>As of December 2018, in Canada, a veterinary prescription is required for antibiotics given to farm animals. However, administering antibiotics to farm animals for disease prevention is still commonplace, as revealed by the Canadian Antimicrobial Resistance Surveillance System report.</p>
+
+
+
+<p>One solution to help stop the superbug crisis, would be to keep farm animals in higher welfare, healthier conditions, to promote stronger immunity and better resilience. Some of these farms exist in Canada, but not enough. And with the current pandemic on everyone&#8217;s mind, there is growing concern of when and how the next pandemic will come. Previous outbreaks such as Avian Flu and swine flu emerged from farm animals.</p>
+
+
+
+<p><a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1f0qr9CIzFfzsZFNUeyYMqnPa5s-2Fr-2FVExs8tWMCOWsYjOJjRM6O2dL0lfnYD9ju6G2sETPQnYM1rnUTmSRwGydaJUpeMmWlMyUPhSxn6aSUSCDsu4R3cZzAacM2p4mHB0X688nwBAiHz4PtRxVKi1-2BOdXwwlrrjjVdtFARYnOhQyeQXLkMiEwsnKeFcoCxIitjKM2-_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbxUW1QXMhhOSHewNHxQxq-2FDLd9k7nlpiG7MvOYZHde395cLDG5Lxb11M7mdPlFvk0fgxP-2FQX40BYA7D3ZXIjLzweyYMAUInFfxtydxWaKSQcq3QgzrINDsnF44I5yQ8m763RI00vuZcEtI1nU5lXtOI" rel="noreferrer noopener">A recent public poll</a>&nbsp;shows that 4 out of 5 people surveyed across 15 countries, including Canada, are concerned that the next pandemic could come from farm animals.</p>
+
+
+
+<p><strong>Overall poll results showed that:&nbsp;</strong></p>
+
+
+
+<ul><li>4 out of 5 would refuse to shop with retailers that don&#8217;t ensure animals are treated well and antibiotics are used responsibly in the meat they sell.&nbsp;</li><li>75% of Canadians are concerned about the possibility of a pandemic originating from farm animals.&nbsp;</li><li>82% of Canadians believe antibiotics should only be used to treat sick animals.&nbsp;</li></ul>
+
+
+
+<p>Lynn Kavanagh, Farm Campaign Manager for World Animal Protection says, &#8220;The government needs to implement stricter laws to reduce the use of antibiotics in farming. And&nbsp;improve on its reporting and monitoring of antibiotic usage on farm animals. Having higher welfare standards on farms would help to lessen the need to use antibiotics in the first place. The government should also be supporting farmers to make a transition to higher welfare and more sustainable farming practices.&#8221;</p>
+
+
+
+<p>More Canadians are becoming aware of the cruelty of industrial farming and its negative effect on our environment, too. The same poll also showed that over half of Canadians felt that the way farm animals are currently treated is unsustainable for our health and the health of our planet.</p>
+
+
+
+<p>There&#8217;s a growing concern of the negative impact of industrial farming from environment groups too.</p>
+
+
+
+<p>Greenpeace International Senior Strategist, Monique Mikhail, says, &#8220;Industrial animal farming is tearing down our forests, polluting our water, warming the planet and harming our health. We must end industrial animal farming and its unacceptable dependence on antibiotics, drastically reduce how much meat we produce and eat, and transition to a just and ecological food system.&#8221;</p>
+
+
+
+<p>It&#8217;s clear that things need to change. World Animal Protection is calling for the end of industrial farming, reduced production and consumption of farm animal products and for remaining farm animal production to be high welfare. This includes keeping animals out of cages, allowing them access to the outdoors, with plenty of space to move around and to be able to perform natural behaviors.&nbsp;</p>
+
+
+
+<p>World Animal Protection is urging governments adopt a one health approach that recognizes the link between the wellbeing of people, animals and the environment.&nbsp;</p>
+
+
+
+<p><strong>About World Animal Protection</strong></p>
+
+
+
+<p>From our offices around the world, including China, Australia, Brazil, Kenya and Canada, we move the world to protect animals. Last year, we gave more than 3 billion animals better lives through our campaigns that focus on animals in the wild, animals in disasters, animals in communities and animals in farming. For more information visit&nbsp;<a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1fL4OtKwSHsBcMW-2FAkBbLiaVNbGxVRfTqBypltpC6Qb4JEPOAC-2FUjf-2BDpLZRPxHaZbYC1bTLPjkjNgZ-2FheWS9l5l9YABUh2xa1PAfvkkLL9ZkZnbrwQE55h4rK4muzqeXb-2B2TYS7F244awPzhSPzHeXonIC7T1p-2FAlLJ-2Fm7P5XnSg-3Dfo1s_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73Cbz2vR2mfr7dNWWohALAkoIP5s4lqHcuFK7AaCZI-2FxvyeRaO0xtp9HDYmdWFT4tgCaISoruWH64nfCfTbMwgIGs2DSSp9M3LAvCjI6HlftwPCcR9lhvzX16jBJIVLBxfz6El-2BAJBPpgVuTFeQ04l1i-2BM" rel="noreferrer noopener">https://www.worldanimalprotection.ca/</a>.</p>
+
+
+
+<p>SOURCE World Animal Protection</p>
+<div class='heateorSssClear'></div><div  class='heateor_sss_sharing_container heateor_sss_horizontal_sharing' heateor-sss-data-href='http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/'><div class='heateor_sss_sharing_title' style="font-weight:bold" ></div><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=World%20Animal%20Protection%20highlights%20the%20threat%20of%20superbugs%20on%20World%20Food%20Day&url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" title="More" alt="More" class="heateorSssSharing heateorSssMoreBackground" onclick="heateorSssMoreSharingPopup(this, 'http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/', 'World%20Animal%20Protection%20highlights%20the%20threat%20of%20superbugs%20on%20World%20Food%20Day', '' )" ><ss style="display:block" class="heateorSssSharingSvg heateorSssMoreSvg"></ss></i></li></ul><div class="heateorSssClear"></div></div><div class='heateorSssClear'></div>			</article>
+
+	
+	
+	<!--<footer class="entry-footer">
+					</footer>-->
+		
+		</main>
+		
+		<aside class="sidebar"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Box Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3837024511285862"
+     data-ad-slot="8371615824"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+	<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="recent-posts-widget-with-thumbnails-2" class="widget recent-posts-widget-with-thumbnails"><div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+	<h2 class="widget-title">Latest News</h2>	<ul>
+			<li><a href="http://www.trainitright.com/how-to-train-your-body-in-the-comfort-of-your-own-home/"><img width="64" height="64" src="http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-120x120.jpg" class="attachment-64x64 size-64x64" alt="" srcset="http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-120x120.jpg 120w, http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-150x150.jpg 150w" sizes="(max-width: 64px) 100vw, 64px" /><span class="rpwwt-post-title">How to Train Your Body in the Comfort of Your Own Home</span></a></li>
+			<li><a href="http://www.trainitright.com/addiction-treatment-pharmacy-earns-high-net-promoter-score-of-85-from-patients-in-managed-pharmacy-program/"><span class="rpwwt-post-title">ADDICTION TREATMENT PHARMACY EARNS HIGH NET PROMOTER SCORE OF 85 FROM PATIENTS IN MANAGED PHARMACY P&hellip;</span></a></li>
+			<li><a href="http://www.trainitright.com/wakamono-launches-the-worlds-first-anti-coronavirus-surgical-mask/"><span class="rpwwt-post-title">WAKAMONO Launches The World&#8217;s First Anti-Coronavirus Surgical Mask</span></a></li>
+			<li><a href="http://www.trainitright.com/4-essential-life-changes-to-support-an-increase-in-exercise/"><img width="64" height="64" src="http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-120x120.jpg" class="attachment-64x64 size-64x64" alt="" srcset="http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-120x120.jpg 120w, http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-150x150.jpg 150w" sizes="(max-width: 64px) 100vw, 64px" /><span class="rpwwt-post-title">4 Essential Life Changes to Support an Increase in Exercise</span></a></li>
+			<li><a href="http://www.trainitright.com/exercises-you-can-do-at-home-to-improve-your-balance-and-coordination/"><span class="rpwwt-post-title">Exercises You Can Do at Home to Improve Your Balance and Coordination</span></a></li>
+		</ul>
+</div><!-- .rpwwt-widget -->
+</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+				<li class="cat-item cat-item-2"><a href="http://www.trainitright.com/category/abdominal/">Abdominal</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.trainitright.com/category/about/">Alicia&#039;s Corner</a>
+</li>
+	<li class="cat-item cat-item-3035"><a href="http://www.trainitright.com/category/beauty-tips/">Beauty Tips</a>
+</li>
+	<li class="cat-item cat-item-2709"><a href="http://www.trainitright.com/category/book-reviews/">Book Reviews</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.trainitright.com/category/celebrities/">Celebrities</a>
+</li>
+	<li class="cat-item cat-item-1252"><a href="http://www.trainitright.com/category/featured-slides/">Featured</a>
+</li>
+	<li class="cat-item cat-item-2741"><a href="http://www.trainitright.com/category/guest-posts/">Guest Posts</a>
+</li>
+	<li class="cat-item cat-item-2409"><a href="http://www.trainitright.com/category/health/">Health</a>
+</li>
+	<li class="cat-item cat-item-2698"><a href="http://www.trainitright.com/category/health-care/">health care</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.trainitright.com/category/health-tips/">Health Tips</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.trainitright.com/category/new/">New</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.trainitright.com/category/nutrition/">Nutrition</a>
+</li>
+	<li class="cat-item cat-item-3193"><a href="http://www.trainitright.com/category/podcast/">Podcast</a>
+</li>
+	<li class="cat-item cat-item-2697"><a href="http://www.trainitright.com/category/press-release/">Press Release</a>
+</li>
+	<li class="cat-item cat-item-2750"><a href="http://www.trainitright.com/category/product-reviews/">Product Reviews</a>
+</li>
+	<li class="cat-item cat-item-2916"><a href="http://www.trainitright.com/category/recipes/">Recipes</a>
+</li>
+	<li class="cat-item cat-item-2719"><a href="http://www.trainitright.com/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.trainitright.com/category/sports-specific/">Sports Specific</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.trainitright.com/category/strength-training/">Strength Training</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.trainitright.com/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.trainitright.com/category/videos/">Videos</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.trainitright.com/category/weight-loss/">Weight Loss</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.trainitright.com/category/workout-gear/">Workout Gear</a>
+</li>
+		</ul>
+			</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+	
+	<!-- CNW Widget Code Starts Here -->
+<script>
+var _wsc = document.createElement('script');
+_wsc.src = "//tools.prnewswire.com/en-ca/live/9224/widget.js";
+document.getElementsByTagName('Head')[0].appendChild(_wsc);
+</script>
+<div id="w9224_widget"></div>
+<!-- CNW Widget Code Ends Here -->
+	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Box Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3837024511285862"
+     data-ad-slot="8371615824"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></aside>
+
+	</div>
+</section>
+	<section id="newsletter">
+        <span class="icon"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/icon_newsletter.png" /></span>
+        
+        <div class="wrapper">
+            <h3>TRAIN IT RIGHT NEWSLETTER</h3>
+            <p>Sign Up and get a <strong>free 7 day Train it Right HIIT Program!</strong></p>
+            
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+			<form action="//trainitright.us13.list-manage.com/subscribe/post?u=d5a623a7a8431f5470b4dbace&amp;id=e0f6635e90" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			    <div id="mc_embed_signup_scroll">
+				
+					<div class="col col_6 left">
+	                    <input type="text" name="EMAIL" class="text" placeholder="Name" id="mce-FNAME" />
+	                </div>
+	                <div class="col col_6 right">
+	                    <input type="email" name="EMAIL" class="required email text" placeholder="Email" id="mce-EMAIL" />
+	                </div>
+	                <div class="col col_12 bottom">
+	                    <input type="submit" class="submit" value="Subscribe" id="mc-embedded-subscribe" />
+	                </div>
+		
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					
+					<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d5a623a7a8431f5470b4dbace_e0f6635e90" tabindex="-1" value=""></div>
+			    </div>
+			</form>
+			</div>
+			
+			<!--End mc_embed_signup-->
+        </div>
+    </section>
+
+	<footer>
+        <div class="wrapper">
+            <p>All content &copy; 2020 <span>Train it Right</span></p>
+            <a href="http://www.trackie.org/" target="_blank" title="Trackie Group, Inc"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/logo_trackie.png" alt="Trackie Group, Inc" /></a>
+        </div>
+    </footer>
+    
+    <a href="#page" class="backtotop scrollTo">Top</a>
+    
+</div>
+
+<!-- JQUERY -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/retina.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/slick.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/parallax.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/magnific.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/custom.js"></script>
+
+<script>
+	$(document).ready(function() {
+	    var show_popup = localStorage.getItem('show_popup');
+	    if (show_popup== null) {
+	        localStorage.setItem('show_popup', 1);
+	
+	        $.magnificPopup.open({
+   		  	  items: {
+   		  		src: '/wp-content/themes/trainitright/popup/newsletter.html'
+   		  	},
+   		  	  type: 'ajax',
+   		  	  mainClass: 'mfp-fade'
+   		  	}, 0);
+	    }
+	});
+</script>
+
+</body>
+</html>
+
+<!-- YouTube Channel 3 --><script type="text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script><script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.trainitright.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/shortcode.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-admin/js/media-upload.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.trainitright.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.11.8'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/themes/trainitright/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/themes/trainitright/js/functions.js?ver=20150330'></script>
+<script type='text/javascript'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'http://www.trainitright.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "web";
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.10'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.3.1'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.trainitright.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/html5.js"></script>
+	<![endif]-->
+	
+	<!-- STYLESHEETS -->
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/style.css" />
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/slick.css" />
+	<link rel="stylesheet" href="http://www.trainitright.com/wp-content/themes/trainitright/css/magnific.css" />
+	
+	<script src="https://use.fontawesome.com/d2738749cd.js"></script>
+	
+	<!--[if gte IE 9]>
+	    <style type="text/css">
+	        .gradient { filter: none; }
+	    </style>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>World Animal Protection highlights the threat of superbugs on World Food Day &#8211; Alicia Bell IFBB Pro Train It Right</title>
+<style type="text/css">			.heateorSssInstagramBackground{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_horizontal_sharing .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container .heateorSssSharing{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+				.heateor_sss_vertical_sharing .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{
+						border-color: transparent;
+		}
+		
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}article.article .heateor_sss_sharing_container { 
+  padding-top: 15px;
+  margin: 40px 0 0;
+  border-top: 1px solid #eaeaea; }
+
+.heateor_sss_sharing_title { font-weight: normal !important; }</style><link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.trainitright.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://www.trainitright.com/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.trainitright.com/wp-includes/js/thickbox/thickbox.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-style-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='spectrum-style-css'  href='http://www.trainitright.com/wp-content/plugins/TapInfluence/spectrum.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-review-style-css'  href='http://www.trainitright.com/wp-content/plugins/TapInfluence/pluginstyle.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.trainitright.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.trainitright.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.56' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://www.trainitright.com/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.56' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-slick-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/slick.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-font-awesome-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/font-awesome.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-deprecated-style-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/deprecated-style.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tfree-style-css'  href='http://www.trainitright.com/wp-content/plugins/testimonial-free/public/assets/css/style.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-au-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/style.css?ver=5.4.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.trainitright.com/wp-content/themes/trainitright/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css'  href='http://www.trainitright.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=6.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css'  href='http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_sharing_default_svg-css'  href='http://www.trainitright.com/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=3.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='simpleecommcart-css-css'  href='http://www.trainitright.com/wp-content/plugins/simple-e-commerce-shopping-cart/simpleecommcart.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.3.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='csf-google-web-fonts-sp_tpro_shortcode_options-css'  href='//fonts.googleapis.com/css?family=Open%20Sans:600%7COpen%20Sans:600%7COpen%20Sans:n%7COpen%20Sans:700%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n%7COpen%20Sans:n' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/font-select.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/spectrum.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/TapInfluence/jsfiles/ready.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.56'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"http:\/\/www.trainitright.com\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.56'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/simple-e-commerce-shopping-cart/js/simpleecommcart-library.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/www.trainitright.com\/wp-admin\/admin-ajax.php","security":"952e6798fa","gallery_scrolloffset":"100","eppathtoscripts":"http:\/\/www.trainitright.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/www.trainitright.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.3.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.3.1'></script>
+<link rel='https://api.w.org/' href='http://www.trainitright.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.trainitright.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.trainitright.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/" />
+<link rel='shortlink' href='http://www.trainitright.com/?p=16618' />
+<link rel="alternate" type="application/json+oembed" href="http://www.trainitright.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.trainitright.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F&#038;format=xml" />
+
+            <!-- TapInfluence -->
+            <script type="text/javascript">
+            ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+            p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+            };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+            n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//a.tapinfluence.com/tap.js","taptracker"));
+            taptracker('newTracker', 'cf', 'c.tapinfluence.com', {appId: 'abe876a0-5898-11e4-88e5-22000af93a2d'});
+            taptracker('crossDomainLinker', function(linkElement) {
+  				return true;
+			});
+            taptracker('trackPageView');
+            </script>
+            <!-- TapInfluence -->
+
+            <script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<meta name="SimpleEcommCartVersion" content="Professional 1.0.0" />
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36671625-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script> 
+</head>
+
+<body class="post-template-default single single-post postid-16618 single-format-standard">
+
+<div id="page">
+    
+    <header class="inner">
+        <a href="/" title="Train It Right by Alicia Bell"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/logo.png" class="logo" alt="Train It Right by Alicia Bell" /></a>
+        
+        <nav>
+            <ul>
+                <li><a href="/" >HOME</a></li>
+                <li><a href="/about/" >ABOUT</a></li>
+                <li><a href="/programs/" >TRAINING PROGRAMS</a></li>
+                <!--<li><a href="/membership/"  onclick="alert('Membership Page Coming Soon'); return false;">MEMBERSHIP</a></li>-->
+                <li><a href="/gallery/" >PORTFOLIO</a></li>
+                <li><a href="/blog/" >BLOG</a></li>
+                <li><a href="/vlog/" >VLOG</a></li>
+                <li><a href="/contact/" >CONTACT</a></li>
+            </ul>
+            
+            <div class="social">
+                <a href="https://www.facebook.com/TrainItRight/" class="facebook" target="_blank"></a>
+                <a href="https://twitter.com/trainitright" class="twitter" target="_blank"></a>
+                <a href="https://www.instagram.com/trainitright/" class="instagram" target="_blank"></a>
+                <a href="https://www.pinterest.com/trainitright/fitness/" class="pinterest" target="_blank"></a>
+                <a href="https://www.snapchat.com/add/trainitright" class="snapchat" target="_blank"></a>
+                <a href="https://www.youtube.com/trainitright" class="youtube" target="_blank"></a>
+            </div>
+        </nav>
+        
+        <a href="#" class="mobile"><span></span><span></span><span></span></a>
+    </header>
+
+<section class="page_header" data-parallax="scroll" data-image-src="
+		https://i.ytimg.com/vi/6PxBhw9fWBE/hqdefault.jpg"><div class="bg"></div></section>
+	
+<section>
+	<div class="wrapper">
+	
+		<div class="post_title">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Banner Ad On Blogs -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-3837024511285862"
+			     data-ad-slot="8973061689"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+			
+			<div class="date">October 17th, 2020</div>
+			<h1><span>//</span> World Animal Protection highlights the threat of superbugs on World Food Day</h1>		</div>
+	
+		<main>
+
+			
+		
+			<!--<div class="post_image" style="background-image: url();"></div>-->
+	
+			<article class="article">
+			
+		
+<h1>World Animal Protection highlights the threat of superbugs on World Food Day</h1>
+
+
+
+<p>TORONTO, Oct. 16, 2020 /CNW/ &#8211;&nbsp;The rise of superbugs from industrial farming is presenting a danger to public health worldwide says global charity World Animal Protection. This is because on industrial farms, animals are routinely given the same important antibiotics used to treat humans who are seriously ill.</p>
+
+
+
+<figure class="wp-block-image"><a href="http://email.prnewswire.com/ls/click?upn=3slWLw94I3jq-2B-2FedjFNgZGKjYfTMwyKW0nsjtCAaiTKTj6GUXLek28mUtydOB9EHVkJ5b2s5-2BLOQKWeV-2FnGlgw-3D-3DYL2j_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbygWCGgcUXxxMzW2ZhHxO5mOdIVtG1KJ5svS9-2FgQD9VGD5No11J5e0cw8NAl0MgD5aezxzFNDWB06w8mwDDdkbzMu7HITqStzkWEYgEEjbpHYgEC1-2FdsIP-2BpTLxOQJUVv0rQC2o-2B-2FMnY0EbgXJCr-2BxJ" target="_blank" rel="noreferrer noopener"><img src="https://i.ytimg.com/vi/6PxBhw9fWBE/hqdefault.jpg" alt="" title="A profile of a farmer in Ontario who is raising his pigs in a healthier, higher welfare system."/></a></figure>
+
+
+
+<p>Today, on World Food Day,&nbsp;<a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1f6vAygfgqSPt1pQc0-2Fcg8wBoeSttGlYEmkfSzC8qJqh8JI0zyrjlH16NiZSs5QFA-2B42roWJ1budmKzEMPdyWjgLUVKDQZLUPIN405IDYXnF2-2Fhz16875n-2BVAF9p-2FQNELYu6J5wz8Udl8d5LrPb947gD-2FxcaKpdyNLGyc3r3sM1pThiRE5pqBmp-2BI-2BCj6lsSw-2F8E4oMlTBUlfqEkgH5bavCFNQb8eV2-2BwQtiKc7mNc7Fz2t00vNPThM8FWWTLT5fVCNKMW1obr-2BF3YeOw44J-2BUBVXk0dU78dI8XteLFuXYfI4-3DxJDf_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbwV-2FdUEzhIrDjhJQg1BLzVfqTxPPElYkiwjA5eGOfedY3V-2Br2zEIgL1VbrFlEJdp4VYNxLqR44MjdU8Fo-2BvtAhUFJ2xWJubqIarR-2FnzFNHCRBNLmvt0F2N-2Fz-2B05Fk4MWQXO8GZ1eVOznS0wA2Utq1U7" rel="noreferrer noopener">a report</a>&nbsp;released by the organization shows that superbugs are emerging on farms from antibiotic overuse and those antibiotic resistant bacteria are entering our food chain and our environment. Almost three-quarters of the world&#8217;s antibiotics are used in animals, the majority on industrial farms. Antibiotics are often used to sustain low-welfare practices, such as the raising of fast-growing meat chickens and painful procedures performed on piglets, including cutting their teeth and tails. Many of these animals are housed in stressful, cramped conditions that can provide the perfect breeding ground for the spread of infection and emergence of disease.</p>
+
+
+
+<p>This is risky business &#8211; when superbugs are passed from animals to people, they make us less able to fight disease. Already, 700,000 people die each year from infections that cannot be treated by antibiotics. The World Health Organization has declared that Antimicrobial Resistance (AMR) is one of the top 10 global public health threats.</p>
+
+
+
+<p>Last year, a study from the Council of Canadian Academies warned of the potential rise in the percentage of bacterial infections that are resistant to antibiotic treatments. The report said that overuse of antibiotics on farm animals raised for food contributes to this.</p>
+
+
+
+<p>As of December 2018, in Canada, a veterinary prescription is required for antibiotics given to farm animals. However, administering antibiotics to farm animals for disease prevention is still commonplace, as revealed by the Canadian Antimicrobial Resistance Surveillance System report.</p>
+
+
+
+<p>One solution to help stop the superbug crisis, would be to keep farm animals in higher welfare, healthier conditions, to promote stronger immunity and better resilience. Some of these farms exist in Canada, but not enough. And with the current pandemic on everyone&#8217;s mind, there is growing concern of when and how the next pandemic will come. Previous outbreaks such as Avian Flu and swine flu emerged from farm animals.</p>
+
+
+
+<p><a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1f0qr9CIzFfzsZFNUeyYMqnPa5s-2Fr-2FVExs8tWMCOWsYjOJjRM6O2dL0lfnYD9ju6G2sETPQnYM1rnUTmSRwGydaJUpeMmWlMyUPhSxn6aSUSCDsu4R3cZzAacM2p4mHB0X688nwBAiHz4PtRxVKi1-2BOdXwwlrrjjVdtFARYnOhQyeQXLkMiEwsnKeFcoCxIitjKM2-_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73CbxUW1QXMhhOSHewNHxQxq-2FDLd9k7nlpiG7MvOYZHde395cLDG5Lxb11M7mdPlFvk0fgxP-2FQX40BYA7D3ZXIjLzweyYMAUInFfxtydxWaKSQcq3QgzrINDsnF44I5yQ8m763RI00vuZcEtI1nU5lXtOI" rel="noreferrer noopener">A recent public poll</a>&nbsp;shows that 4 out of 5 people surveyed across 15 countries, including Canada, are concerned that the next pandemic could come from farm animals.</p>
+
+
+
+<p><strong>Overall poll results showed that:&nbsp;</strong></p>
+
+
+
+<ul><li>4 out of 5 would refuse to shop with retailers that don&#8217;t ensure animals are treated well and antibiotics are used responsibly in the meat they sell.&nbsp;</li><li>75% of Canadians are concerned about the possibility of a pandemic originating from farm animals.&nbsp;</li><li>82% of Canadians believe antibiotics should only be used to treat sick animals.&nbsp;</li></ul>
+
+
+
+<p>Lynn Kavanagh, Farm Campaign Manager for World Animal Protection says, &#8220;The government needs to implement stricter laws to reduce the use of antibiotics in farming. And&nbsp;improve on its reporting and monitoring of antibiotic usage on farm animals. Having higher welfare standards on farms would help to lessen the need to use antibiotics in the first place. The government should also be supporting farmers to make a transition to higher welfare and more sustainable farming practices.&#8221;</p>
+
+
+
+<p>More Canadians are becoming aware of the cruelty of industrial farming and its negative effect on our environment, too. The same poll also showed that over half of Canadians felt that the way farm animals are currently treated is unsustainable for our health and the health of our planet.</p>
+
+
+
+<p>There&#8217;s a growing concern of the negative impact of industrial farming from environment groups too.</p>
+
+
+
+<p>Greenpeace International Senior Strategist, Monique Mikhail, says, &#8220;Industrial animal farming is tearing down our forests, polluting our water, warming the planet and harming our health. We must end industrial animal farming and its unacceptable dependence on antibiotics, drastically reduce how much meat we produce and eat, and transition to a just and ecological food system.&#8221;</p>
+
+
+
+<p>It&#8217;s clear that things need to change. World Animal Protection is calling for the end of industrial farming, reduced production and consumption of farm animal products and for remaining farm animal production to be high welfare. This includes keeping animals out of cages, allowing them access to the outdoors, with plenty of space to move around and to be able to perform natural behaviors.&nbsp;</p>
+
+
+
+<p>World Animal Protection is urging governments adopt a one health approach that recognizes the link between the wellbeing of people, animals and the environment.&nbsp;</p>
+
+
+
+<p><strong>About World Animal Protection</strong></p>
+
+
+
+<p>From our offices around the world, including China, Australia, Brazil, Kenya and Canada, we move the world to protect animals. Last year, we gave more than 3 billion animals better lives through our campaigns that focus on animals in the wild, animals in disasters, animals in communities and animals in farming. For more information visit&nbsp;<a target="_blank" href="http://email.prnewswire.com/ls/click?upn=OXp-2BEvHp8OzhyU1j9bSWuwMvMWelqIco5RbfBrouY-2BTzVpuJvOkcae2bDNUgJX1fL4OtKwSHsBcMW-2FAkBbLiaVNbGxVRfTqBypltpC6Qb4JEPOAC-2FUjf-2BDpLZRPxHaZbYC1bTLPjkjNgZ-2FheWS9l5l9YABUh2xa1PAfvkkLL9ZkZnbrwQE55h4rK4muzqeXb-2B2TYS7F244awPzhSPzHeXonIC7T1p-2FAlLJ-2Fm7P5XnSg-3Dfo1s_ud9WbDpG-2Bsk4Ua-2BxglE76snwCzeiDwy46Ubj2wrvMJvZZfRssLkBHw8BWW-2BHU6-2FGAuLyR17kldedsz0WMJ-2Fv0UJ7-2FddO7QBQUuFpad7JcZeV-2BLR2KT4outnsJHptHde6zGUKYY-2FRa1L-2BSdpdu7t6LBipt0pMki7-2FEifS2cTvnqgPJYPCeaxcit5ys5QsXu-2FUsJyxw3eLaT94vEz5lUmZOmECA1zlCc-2BeVDI38y73Cbz2vR2mfr7dNWWohALAkoIP5s4lqHcuFK7AaCZI-2FxvyeRaO0xtp9HDYmdWFT4tgCaISoruWH64nfCfTbMwgIGs2DSSp9M3LAvCjI6HlftwPCcR9lhvzX16jBJIVLBxfz6El-2BAJBPpgVuTFeQ04l1i-2BM" rel="noreferrer noopener">https://www.worldanimalprotection.ca/</a>.</p>
+
+
+
+<p>SOURCE World Animal Protection</p>
+<div class='heateorSssClear'></div><div  class='heateor_sss_sharing_container heateor_sss_horizontal_sharing' heateor-sss-data-href='http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/'><div class='heateor_sss_sharing_title' style="font-weight:bold" ></div><ul class="heateor_sss_sharing_ul"><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Facebook" Title="Facebook" class="heateorSssSharing heateorSssFacebookBackground" onclick='heateorSssPopup("https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssFacebookSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" alt="Twitter" Title="Twitter" class="heateorSssSharing heateorSssTwitterBackground" onclick='heateorSssPopup("http://twitter.com/intent/tweet?text=World%20Animal%20Protection%20highlights%20the%20threat%20of%20superbugs%20on%20World%20Food%20Day&url=http%3A%2F%2Fwww.trainitright.com%2Fworld-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day%2F")'><ss style="display:block;border-radius:999px;" class="heateorSssSharingSvg heateorSssTwitterSvg"></ss></i></li><li class="heateorSssSharingRound"><i style="width:35px;height:35px;border-radius:999px;" title="More" alt="More" class="heateorSssSharing heateorSssMoreBackground" onclick="heateorSssMoreSharingPopup(this, 'http://www.trainitright.com/world-animal-protection-highlights-the-threat-of-superbugs-on-world-food-day/', 'World%20Animal%20Protection%20highlights%20the%20threat%20of%20superbugs%20on%20World%20Food%20Day', '' )" ><ss style="display:block" class="heateorSssSharingSvg heateorSssMoreSvg"></ss></i></li></ul><div class="heateorSssClear"></div></div><div class='heateorSssClear'></div>			</article>
+
+	
+	
+	<!--<footer class="entry-footer">
+					</footer>-->
+		
+		</main>
+		
+		<aside class="sidebar"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Box Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3837024511285862"
+     data-ad-slot="8371615824"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+	<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="recent-posts-widget-with-thumbnails-2" class="widget recent-posts-widget-with-thumbnails"><div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+	<h2 class="widget-title">Latest News</h2>	<ul>
+			<li><a href="http://www.trainitright.com/how-to-train-your-body-in-the-comfort-of-your-own-home/"><img width="64" height="64" src="http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-120x120.jpg" class="attachment-64x64 size-64x64" alt="" srcset="http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-120x120.jpg 120w, http://www.trainitright.com/wp-content/uploads/2020/10/How-to-Train-Your-Body-in-the-Comfort-of-Your-Own-Home-150x150.jpg 150w" sizes="(max-width: 64px) 100vw, 64px" /><span class="rpwwt-post-title">How to Train Your Body in the Comfort of Your Own Home</span></a></li>
+			<li><a href="http://www.trainitright.com/addiction-treatment-pharmacy-earns-high-net-promoter-score-of-85-from-patients-in-managed-pharmacy-program/"><span class="rpwwt-post-title">ADDICTION TREATMENT PHARMACY EARNS HIGH NET PROMOTER SCORE OF 85 FROM PATIENTS IN MANAGED PHARMACY P&hellip;</span></a></li>
+			<li><a href="http://www.trainitright.com/wakamono-launches-the-worlds-first-anti-coronavirus-surgical-mask/"><span class="rpwwt-post-title">WAKAMONO Launches The World&#8217;s First Anti-Coronavirus Surgical Mask</span></a></li>
+			<li><a href="http://www.trainitright.com/4-essential-life-changes-to-support-an-increase-in-exercise/"><img width="64" height="64" src="http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-120x120.jpg" class="attachment-64x64 size-64x64" alt="" srcset="http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-120x120.jpg 120w, http://www.trainitright.com/wp-content/uploads/2020/10/4-Essential-Life-Changes-to-Support-an-Increase-in-Exercise-150x150.jpg 150w" sizes="(max-width: 64px) 100vw, 64px" /><span class="rpwwt-post-title">4 Essential Life Changes to Support an Increase in Exercise</span></a></li>
+			<li><a href="http://www.trainitright.com/exercises-you-can-do-at-home-to-improve-your-balance-and-coordination/"><span class="rpwwt-post-title">Exercises You Can Do at Home to Improve Your Balance and Coordination</span></a></li>
+		</ul>
+</div><!-- .rpwwt-widget -->
+</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+				<li class="cat-item cat-item-2"><a href="http://www.trainitright.com/category/abdominal/">Abdominal</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.trainitright.com/category/about/">Alicia&#039;s Corner</a>
+</li>
+	<li class="cat-item cat-item-3035"><a href="http://www.trainitright.com/category/beauty-tips/">Beauty Tips</a>
+</li>
+	<li class="cat-item cat-item-2709"><a href="http://www.trainitright.com/category/book-reviews/">Book Reviews</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.trainitright.com/category/celebrities/">Celebrities</a>
+</li>
+	<li class="cat-item cat-item-1252"><a href="http://www.trainitright.com/category/featured-slides/">Featured</a>
+</li>
+	<li class="cat-item cat-item-2741"><a href="http://www.trainitright.com/category/guest-posts/">Guest Posts</a>
+</li>
+	<li class="cat-item cat-item-2409"><a href="http://www.trainitright.com/category/health/">Health</a>
+</li>
+	<li class="cat-item cat-item-2698"><a href="http://www.trainitright.com/category/health-care/">health care</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.trainitright.com/category/health-tips/">Health Tips</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.trainitright.com/category/new/">New</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.trainitright.com/category/nutrition/">Nutrition</a>
+</li>
+	<li class="cat-item cat-item-3193"><a href="http://www.trainitright.com/category/podcast/">Podcast</a>
+</li>
+	<li class="cat-item cat-item-2697"><a href="http://www.trainitright.com/category/press-release/">Press Release</a>
+</li>
+	<li class="cat-item cat-item-2750"><a href="http://www.trainitright.com/category/product-reviews/">Product Reviews</a>
+</li>
+	<li class="cat-item cat-item-2916"><a href="http://www.trainitright.com/category/recipes/">Recipes</a>
+</li>
+	<li class="cat-item cat-item-2719"><a href="http://www.trainitright.com/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.trainitright.com/category/sports-specific/">Sports Specific</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.trainitright.com/category/strength-training/">Strength Training</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.trainitright.com/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.trainitright.com/category/videos/">Videos</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.trainitright.com/category/weight-loss/">Weight Loss</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.trainitright.com/category/workout-gear/">Workout Gear</a>
+</li>
+		</ul>
+			</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+	
+	<!-- CNW Widget Code Starts Here -->
+<script>
+var _wsc = document.createElement('script');
+_wsc.src = "//tools.prnewswire.com/en-ca/live/9224/widget.js";
+document.getElementsByTagName('Head')[0].appendChild(_wsc);
+</script>
+<div id="w9224_widget"></div>
+<!-- CNW Widget Code Ends Here -->
+	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Box Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3837024511285862"
+     data-ad-slot="8371615824"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></aside>
+
+	</div>
+</section>
+	<section id="newsletter">
+        <span class="icon"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/icon_newsletter.png" /></span>
+        
+        <div class="wrapper">
+            <h3>TRAIN IT RIGHT NEWSLETTER</h3>
+            <p>Sign Up and get a <strong>free 7 day Train it Right HIIT Program!</strong></p>
+            
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+			<form action="//trainitright.us13.list-manage.com/subscribe/post?u=d5a623a7a8431f5470b4dbace&amp;id=e0f6635e90" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			    <div id="mc_embed_signup_scroll">
+				
+					<div class="col col_6 left">
+	                    <input type="text" name="EMAIL" class="text" placeholder="Name" id="mce-FNAME" />
+	                </div>
+	                <div class="col col_6 right">
+	                    <input type="email" name="EMAIL" class="required email text" placeholder="Email" id="mce-EMAIL" />
+	                </div>
+	                <div class="col col_12 bottom">
+	                    <input type="submit" class="submit" value="Subscribe" id="mc-embedded-subscribe" />
+	                </div>
+		
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					
+					<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d5a623a7a8431f5470b4dbace_e0f6635e90" tabindex="-1" value=""></div>
+			    </div>
+			</form>
+			</div>
+			
+			<!--End mc_embed_signup-->
+        </div>
+    </section>
+
+	<footer>
+        <div class="wrapper">
+            <p>All content &copy; 2020 <span>Train it Right</span></p>
+            <a href="http://www.trackie.org/" target="_blank" title="Trackie Group, Inc"><img src="http://www.trainitright.com/wp-content/themes/trainitright/images/logo_trackie.png" alt="Trackie Group, Inc" /></a>
+        </div>
+    </footer>
+    
+    <a href="#page" class="backtotop scrollTo">Top</a>
+    
+</div>
+
+<!-- JQUERY -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/retina.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/slick.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/parallax.min.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/magnific.js"></script>
+<script src="http://www.trainitright.com/wp-content/themes/trainitright/js/custom.js"></script>
+
+<script>
+	$(document).ready(function() {
+	    var show_popup = localStorage.getItem('show_popup');
+	    if (show_popup== null) {
+	        localStorage.setItem('show_popup', 1);
+	
+	        $.magnificPopup.open({
+   		  	  items: {
+   		  		src: '/wp-content/themes/trainitright/popup/newsletter.html'
+   		  	},
+   		  	  type: 'ajax',
+   		  	  mainClass: 'mfp-fade'
+   		  	}, 0);
+	    }
+	});
+</script>
+
+</body>
+</html>
+
+<!-- YouTube Channel 3 --><script type="text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script><script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.trainitright.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/shortcode.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-admin/js/media-upload.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.trainitright.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.11.8'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/themes/trainitright/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/themes/trainitright/js/functions.js?ver=20150330'></script>
+<script type='text/javascript'>
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'http://www.trainitright.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "web";
+</script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.10'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.3.1'></script>
+<script type='text/javascript' src='http://www.trainitright.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+
+</body>
+</html>

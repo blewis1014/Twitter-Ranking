@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="ja">
+<head>
+
+<meta charset="utf-8">
+<title>æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãããæ±æ¸å·åºãã¼ã ãã¼ã¸</title>
+<meta name="author" content="æ±æ¸å·åº">
+<meta name="viewport" content="width=device-width, maximum-scale=3.0">
+<meta name="format-detection" content="telephone=no">
+<link href="/shared/style/default.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/style/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/templates/free/style/edit.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/style/smartphone.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" class="mc_css">
+<link href="/shared/templates/free/style/edit_sp.css" rel="stylesheet" media="only screen and (max-width : 640px)" class="mc_css">
+<link href="/shared/images/favicon/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/shared/images/favicon/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<script src="/shared/js/jquery.js"></script>
+<script src="/shared/js/setting.js"></script>
+<script src="//f1-as.readspeaker.com/script/10384/webReader/webReader.js?pids=wr&amp;forceAdapter=ioshtml5&amp;disable=translation,lookup"></script>
+<script src="/shared/system/js/furigana/ysruby.js"></script>
+</head>
+<body class="format_free no_javascript">
+<script src="/shared/js/init.js"></script>
+<div id="tmp_wrapper">
+<noscript>
+<p>ãã®ãµã¤ãã§ã¯JavaScriptãä½¿ç¨ããã³ã³ãã³ãã»æ©è½ãæä¾ãã¦ãã¾ããJavaScriptãæå¹ã«ããã¨ãå©ç¨ããã ãã¾ãã</p>
+</noscript>
+<p><a href="#tmp_honbun" class="skip">æ¬æã¸ã¹ã­ãããã¾ãã</a></p>
+<header id="tmp_header">
+<div id="tmp_hlogo">
+<p><a href="/index.html"><span>æ±æ¸å·åº å¹³åã¨çºå±</span></a></p>
+</div>
+<div id="tmp_means">
+<nav id="tmp_setting">
+<p class="setting_link"><a href="/moji.html">æå­ãµã¤ãºã»è²åãå¤æ´</a></p>
+<p class="setting_sound"><a href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=10384&amp;lang=ja_jp&amp;readid=tmp_readcontents&amp;url=" onClick="readpage(this.href, 'tmp_readspeaker'); return false;" class="rs_href" rel="nofollow" accesskey="L">é³å£°èª­ã¿ä¸ã</a></p>
+<p class="setting_kana"><a id="furigana" data-target="tmp_contents" data-contents="tmp_contents" href="javascript:void(0);">ãµãããªè¡¨ç¤º</a></p>
+<p class="setting_multilingual"><a href="/foreign.html" lang="en">Multilingual</a></p>
+</nav>
+<div id="tmp_config_page">
+<p class="config_top"><a href="/top.html">ç·åãããã¸</a></p>
+</div>
+<div id="tmp_search">
+<form id="tmp_gsearch" name="tmp_gsearch" action="/search/search.php">
+<ul>
+<li class="label">
+<label for="tmp_query">ã­ã¼ã¯ã¼ãããæ¢ã</label>
+</li>
+<li class="input_control">
+<p>
+<input type="text" value="" name="keyword" size="31" id="tmp_query" placeholder="ãµã¤ãåæ¤ç´¢">
+</p>
+<p class="search_submit">
+<input type="submit" name="sa" value="æ¤ç´¢" id="tmp_func_sch_btn">
+</p>
+<p id="tmp_search_hidden">
+<input type="hidden" name="site" value="city">
+</p>
+</li>
+</ul>
+</form>
+<p class="type_search"><a href="/kensakuhoho.html">æ¤ç´¢ã®æ¹æ³</a></p>
+</div>
+</div>
+<ul id="tmp_hnavi_s">
+<li id="tmp_hnavi_lmenu"><a href="javascript:void(0);"><span class="icons_search_menu">&nbsp;</span><span class="nav_text">æ¤ç´¢</span></a></li>
+<li id="tmp_hnavi_rmenu"><a href="javascript:void(0);"><span class="symbol_nav">&nbsp;</span><span class="nav_text">ã¡ãã¥ã¼</span></a></li>
+</ul>
+</header>
+<div id="tmp_sma_menu">
+<div class="wrap_sma_sch" id="tmp_sma_lmenu">
+<div class="wrap_sma_sch2">
+<div class="sma_sch"></div>
+<p class="close_btn"><a href="javascript:void(0);"><span>éãã</span></a></p>
+</div>
+</div>
+<div class="wrap_sma_sch" id="tmp_sma_rmenu">
+<div class="wrap_sma_sch2">
+<div class="sma_sch"></div>
+<div class="sma_gnavi">
+<p class="gnavi_ttl">åºæ°åãæå ±</p>
+</div>
+<p class="close_btn"><a href="javascript:void(0);"><span>éãã</span></a></p>
+</div>
+</div>
+</div>
+<nav class="gnavi">
+<ul>
+<li class="glist1"><a href="/bosaianzen/index.html"><span>é²ç½ã»å®å¨</span></a></li>
+<li class="glist2"><a href="/kurashi/index.html"><span>ãããã»æç¶ã</span></a></li>
+<li class="glist3"><a href="/kosodate/index.html"><span>å­è²ã¦ã»æè²</span></a></li>
+<li class="glist4"><a href="/kenko/index.html"><span>å¥åº·ã»å»çã»ç¦ç¥</span></a></li>
+<li class="glist5"><a href="/sports/index.html"><span>ã¹ãã¼ãã»æåã»è¦³å</span></a></li>
+<li class="glist6"><a href="/toshikeikaku/index.html"><span>ã¾ã¡ã¥ããã»é½å¸è¨ç»</span></a></li>
+<li class="glist7"><a href="/shigotosangyo/index.html"><span>ããã¨ã»ç£æ¥­</span></a></li>
+<li class="glist8"><a href="/kuseijoho/index.html"><span>åºæ¿æå ±</span></a></li>
+</ul>
+</nav>
+<div id="tmp_pankuzu">
+<div class="container">
+<p> <a href="/index.html">ããããã¼ã¸</a> &gt; æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãã</p>
+</div>
+</div>
+<div id="tmp_wrap_main" class="column_cnt">
+<div id="tmp_main">
+<!--index_start-->
+<div class="col_main">
+<p id="tmp_honbun" class="skip">ããããæ¬æã§ãã</p>
+<div id="tmp_readspeaker" class="rs_preserve rs_skip rs_splitbutton rs_addtools rs_exp"></div>
+<div id="tmp_readcontents">
+<div id="tmp_contents">
+<h1>æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãã</h1>
+<p>2019å¹´1æ31æ¥ã«ãã¼ã ãã¼ã¸ãªãã¥ã¼ã¢ã«ãè¡ãã¾ããã</p>
+<p>ç³ãè¨³ããã¾ãããããæå®ã®ãã¼ã¸ãç§»åã¾ãã¯åé¤ããã¦ããå ´åãããã¾ãã<br>
+æ··éã®ããè¡¨ç¤ºã§ããªãå ´åãããã¾ãããã©ã¦ã¶ã§åèª­ã¿è¾¼ã¿ãè¡ã£ã¦ãã ããã</p>
+<p>ç®çã®ãã¼ã¸ãè¦ã¤ãããªãå ´åã¯ãä¸è¨ã®ã¡ãã¥ã¼ãã¼ã¸ããæ¢ããããã¼ã¸ä¸é¨ã«ãããµã¤ãåæ¤ç´¢ããæ¤ç´¢ãã¦ãã ããã<br>
+â»ãµã¤ãåæ¤ç´¢ãå©ç¨ã®å ´åãæ¤ç´¢ã·ã¹ãã ã®æ©è½ä¸ãããã¾ã§ã®å±¥æ­´ãåªåçã«æ¤ç´¢ãããããæ§URLã®ãã¼ã¸ãä¸ä½ã«è¡¨ç¤ºãããå ´åãããã¾ãã</p>
+<div class="outline">
+<p><strong>ã«ãã´ãªããæ¢ã</strong></p>
+<div class="col3">
+<div class="col3L">
+<ul>
+<li><a href="/bosaianzen/index.html">é²ç½ã»å®å¨</a></li>
+<li><a href="/kurashi/index.html">ãããã»æç¶ã</a></li>
+<li><a href="/kosodate/index.html">å­è²ã¦ã»æè²</a></li>
+</ul>
+</div>
+<div class="col3M">
+<ul>
+<li><a href="/kenko/index.html">å¥åº·ã»å»çã»ç¦ç¥</a></li>
+<li><a href="/sports/index.html">ã¹ãã¼ãã»æåã»è¦³å</a></li>
+<li><a href="/toshikeikaku/index.html">ã¾ã¡ã¥ããã»é½å¸è¨ç»</a></li>
+</ul>
+</div>
+<div class="col3R">
+<ul>
+<li><a href="/shigotosangyo/index.html">ããã¨ã»ç£æ¥­</a></li>
+<li><a href="/kuseijoho/index.html">åºæ¿æå ±</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="outline">
+<p><strong>å¯¾è±¡èããæ¢ã</strong></p>
+<div class="col3">
+<div class="col3L">
+<ul>
+<li><a href="/kosodate/kosodate_ouen/index.html">å­è²ã¦æå ±</a></li>
+</ul>
+</div>
+<div class="col3M">
+<ul>
+<li><a href="/kenko/fukushikaigo/jukunen/jukunen_ouen/index.html">çå¹´èæå ±</a></li>
+</ul>
+</div>
+<div class="col3R">
+<ul>
+<li><a href="/shigotosangyo/jigyosha_oen/index.html">äºæ¥­èæå ±</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col3">
+<div class="col3L">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/qa/index.html">ããããè³ªåQ&amp;A</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>åºã¸ã®ãåãåãããå¤ãæå ±ãæ²è¼ããã¦ãã¾ãã</p>
+</div>
+</div>
+</div>
+<div class="col3M">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/cgi-bin/event_cal_multi/calendar.cgi">ã¤ãã³ã</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>åºã®ã¤ãã³ãæå ±ãæ²è¼ããã¦ãã¾ãã</p>
+</div>
+</div>
+</div>
+<div class="col3R">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/sitemap.html">ãµã¤ãããã</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>ä¸è¦§ããæå ±ãæ¢ãããå ´åã«ãè©¦ããã ããã</p>
+</div>
+</div>
+</div>
+</div>
+<p><a href="/index.html">ããããã¼ã¸ã¸æ»ã</a></p>
+</div>
+<!--index_end-->
+</div>
+</div>
+</div>
+</div>
+<footer id="tmp_footer">
+<div class="container">
+<div class="footer_logo">
+<p class="logo">æ±æ¸å·åºå½¹æ</p>
+<p class="number"><a href="/kurashi/todoke/mynumbersedo/city_number.html">æ³äººçªå· 1000020131237</a></p>
+</div>
+<div class="footer_cnt">
+<address>
+<p class="large">ã132-8501 æ±äº¬é½æ±æ¸å·åºä¸­å¤®ä¸ä¸ç®4çª1å·</p>
+<p class="large">é»è©±çªå·ï¼03-3652-1151ï¼ä»£è¡¨ï¼</p>
+<p class="special"> <span class="open_time">éåºæé</span><span class="txt">ï¼æææ¥ããéææ¥ã®åå8æ30åããåå¾5æ<br>
+ï¼ç¥æ¥ã»ä¼æ¥ã12æ29æ¥ãã1æ3æ¥ãé¤ãï¼</span> </p>
+<p>â»é¨ç½²ãæ½è¨­ã«ãã£ã¦ã¯ãéåºã»éé¤¨ã®æ¥ã»æéãç°ãªãã¨ãããããã¾ãã</p>
+</address>
+</div>
+<nav class="footer_link">
+<ul class="fnavi">
+<li><a href="/aboutweb/index.html">æ±æ¸å·åºã¦ã§ããµã¤ãã«ã¤ãã¦</a></li>
+<li><a href="/aboutweb/privacypolicy.html">ãã©ã¤ãã·ã¼ããªã·ã¼</a></li>
+<li class="last"><a href="/sitemap.html">ãµã¤ãããã</a></li>
+</ul>
+<p class="copyright" lang="en">Copyright &copy; Edogawa city. All rights reserved.</p>
+</nav>
+<nav class="pnavi">
+<p class="ptop"><a href="#tmp_header">ãã¼ã¸ã®åé ­ã¸æ»ã</a></p>
+</nav>
+</div>
+</footer>
+</div>
+<script src="/shared/js/function.js"></script>
+<script src="/shared/js/main.js"></script>
+<script src="/search/template/shared/search.js"></script>
+<script src="/shared/js/analytics.js"></script>
+<noscript>
+<img src="https://kantan-log.jp/_analysis.rakulog?uid=oNpjNm0rt5zU9PAp&amp;key=noscript&amp;ctime=&amp;ltime=&amp;ftime=&amp;count=auto&amp;sorder=auto&amp;interval=auto" alt="" width="1" height="1">
+</noscript>
+</body>
+</html><!doctype html>
+<html lang="ja">
+<head>
+
+<meta charset="utf-8">
+<title>æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãããæ±æ¸å·åºãã¼ã ãã¼ã¸</title>
+<meta name="author" content="æ±æ¸å·åº">
+<meta name="viewport" content="width=device-width, maximum-scale=3.0">
+<meta name="format-detection" content="telephone=no">
+<link href="/shared/style/default.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/style/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/templates/free/style/edit.css" rel="stylesheet" type="text/css" media="all">
+<link href="/shared/style/smartphone.css" rel="stylesheet" media="only screen and (max-width : 640px)" type="text/css" class="mc_css">
+<link href="/shared/templates/free/style/edit_sp.css" rel="stylesheet" media="only screen and (max-width : 640px)" class="mc_css">
+<link href="/shared/images/favicon/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/shared/images/favicon/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+<script src="/shared/js/jquery.js"></script>
+<script src="/shared/js/setting.js"></script>
+<script src="//f1-as.readspeaker.com/script/10384/webReader/webReader.js?pids=wr&amp;forceAdapter=ioshtml5&amp;disable=translation,lookup"></script>
+<script src="/shared/system/js/furigana/ysruby.js"></script>
+</head>
+<body class="format_free no_javascript">
+<script src="/shared/js/init.js"></script>
+<div id="tmp_wrapper">
+<noscript>
+<p>ãã®ãµã¤ãã§ã¯JavaScriptãä½¿ç¨ããã³ã³ãã³ãã»æ©è½ãæä¾ãã¦ãã¾ããJavaScriptãæå¹ã«ããã¨ãå©ç¨ããã ãã¾ãã</p>
+</noscript>
+<p><a href="#tmp_honbun" class="skip">æ¬æã¸ã¹ã­ãããã¾ãã</a></p>
+<header id="tmp_header">
+<div id="tmp_hlogo">
+<p><a href="/index.html"><span>æ±æ¸å·åº å¹³åã¨çºå±</span></a></p>
+</div>
+<div id="tmp_means">
+<nav id="tmp_setting">
+<p class="setting_link"><a href="/moji.html">æå­ãµã¤ãºã»è²åãå¤æ´</a></p>
+<p class="setting_sound"><a href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=10384&amp;lang=ja_jp&amp;readid=tmp_readcontents&amp;url=" onClick="readpage(this.href, 'tmp_readspeaker'); return false;" class="rs_href" rel="nofollow" accesskey="L">é³å£°èª­ã¿ä¸ã</a></p>
+<p class="setting_kana"><a id="furigana" data-target="tmp_contents" data-contents="tmp_contents" href="javascript:void(0);">ãµãããªè¡¨ç¤º</a></p>
+<p class="setting_multilingual"><a href="/foreign.html" lang="en">Multilingual</a></p>
+</nav>
+<div id="tmp_config_page">
+<p class="config_top"><a href="/top.html">ç·åãããã¸</a></p>
+</div>
+<div id="tmp_search">
+<form id="tmp_gsearch" name="tmp_gsearch" action="/search/search.php">
+<ul>
+<li class="label">
+<label for="tmp_query">ã­ã¼ã¯ã¼ãããæ¢ã</label>
+</li>
+<li class="input_control">
+<p>
+<input type="text" value="" name="keyword" size="31" id="tmp_query" placeholder="ãµã¤ãåæ¤ç´¢">
+</p>
+<p class="search_submit">
+<input type="submit" name="sa" value="æ¤ç´¢" id="tmp_func_sch_btn">
+</p>
+<p id="tmp_search_hidden">
+<input type="hidden" name="site" value="city">
+</p>
+</li>
+</ul>
+</form>
+<p class="type_search"><a href="/kensakuhoho.html">æ¤ç´¢ã®æ¹æ³</a></p>
+</div>
+</div>
+<ul id="tmp_hnavi_s">
+<li id="tmp_hnavi_lmenu"><a href="javascript:void(0);"><span class="icons_search_menu">&nbsp;</span><span class="nav_text">æ¤ç´¢</span></a></li>
+<li id="tmp_hnavi_rmenu"><a href="javascript:void(0);"><span class="symbol_nav">&nbsp;</span><span class="nav_text">ã¡ãã¥ã¼</span></a></li>
+</ul>
+</header>
+<div id="tmp_sma_menu">
+<div class="wrap_sma_sch" id="tmp_sma_lmenu">
+<div class="wrap_sma_sch2">
+<div class="sma_sch"></div>
+<p class="close_btn"><a href="javascript:void(0);"><span>éãã</span></a></p>
+</div>
+</div>
+<div class="wrap_sma_sch" id="tmp_sma_rmenu">
+<div class="wrap_sma_sch2">
+<div class="sma_sch"></div>
+<div class="sma_gnavi">
+<p class="gnavi_ttl">åºæ°åãæå ±</p>
+</div>
+<p class="close_btn"><a href="javascript:void(0);"><span>éãã</span></a></p>
+</div>
+</div>
+</div>
+<nav class="gnavi">
+<ul>
+<li class="glist1"><a href="/bosaianzen/index.html"><span>é²ç½ã»å®å¨</span></a></li>
+<li class="glist2"><a href="/kurashi/index.html"><span>ãããã»æç¶ã</span></a></li>
+<li class="glist3"><a href="/kosodate/index.html"><span>å­è²ã¦ã»æè²</span></a></li>
+<li class="glist4"><a href="/kenko/index.html"><span>å¥åº·ã»å»çã»ç¦ç¥</span></a></li>
+<li class="glist5"><a href="/sports/index.html"><span>ã¹ãã¼ãã»æåã»è¦³å</span></a></li>
+<li class="glist6"><a href="/toshikeikaku/index.html"><span>ã¾ã¡ã¥ããã»é½å¸è¨ç»</span></a></li>
+<li class="glist7"><a href="/shigotosangyo/index.html"><span>ããã¨ã»ç£æ¥­</span></a></li>
+<li class="glist8"><a href="/kuseijoho/index.html"><span>åºæ¿æå ±</span></a></li>
+</ul>
+</nav>
+<div id="tmp_pankuzu">
+<div class="container">
+<p> <a href="/index.html">ããããã¼ã¸</a> &gt; æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãã</p>
+</div>
+</div>
+<div id="tmp_wrap_main" class="column_cnt">
+<div id="tmp_main">
+<!--index_start-->
+<div class="col_main">
+<p id="tmp_honbun" class="skip">ããããæ¬æã§ãã</p>
+<div id="tmp_readspeaker" class="rs_preserve rs_skip rs_splitbutton rs_addtools rs_exp"></div>
+<div id="tmp_readcontents">
+<div id="tmp_contents">
+<h1>æå®ã®ãã¼ã¸ã¯è¦ã¤ããã¾ããã§ãã</h1>
+<p>2019å¹´1æ31æ¥ã«ãã¼ã ãã¼ã¸ãªãã¥ã¼ã¢ã«ãè¡ãã¾ããã</p>
+<p>ç³ãè¨³ããã¾ãããããæå®ã®ãã¼ã¸ãç§»åã¾ãã¯åé¤ããã¦ããå ´åãããã¾ãã<br>
+æ··éã®ããè¡¨ç¤ºã§ããªãå ´åãããã¾ãããã©ã¦ã¶ã§åèª­ã¿è¾¼ã¿ãè¡ã£ã¦ãã ããã</p>
+<p>ç®çã®ãã¼ã¸ãè¦ã¤ãããªãå ´åã¯ãä¸è¨ã®ã¡ãã¥ã¼ãã¼ã¸ããæ¢ããããã¼ã¸ä¸é¨ã«ãããµã¤ãåæ¤ç´¢ããæ¤ç´¢ãã¦ãã ããã<br>
+â»ãµã¤ãåæ¤ç´¢ãå©ç¨ã®å ´åãæ¤ç´¢ã·ã¹ãã ã®æ©è½ä¸ãããã¾ã§ã®å±¥æ­´ãåªåçã«æ¤ç´¢ãããããæ§URLã®ãã¼ã¸ãä¸ä½ã«è¡¨ç¤ºãããå ´åãããã¾ãã</p>
+<div class="outline">
+<p><strong>ã«ãã´ãªããæ¢ã</strong></p>
+<div class="col3">
+<div class="col3L">
+<ul>
+<li><a href="/bosaianzen/index.html">é²ç½ã»å®å¨</a></li>
+<li><a href="/kurashi/index.html">ãããã»æç¶ã</a></li>
+<li><a href="/kosodate/index.html">å­è²ã¦ã»æè²</a></li>
+</ul>
+</div>
+<div class="col3M">
+<ul>
+<li><a href="/kenko/index.html">å¥åº·ã»å»çã»ç¦ç¥</a></li>
+<li><a href="/sports/index.html">ã¹ãã¼ãã»æåã»è¦³å</a></li>
+<li><a href="/toshikeikaku/index.html">ã¾ã¡ã¥ããã»é½å¸è¨ç»</a></li>
+</ul>
+</div>
+<div class="col3R">
+<ul>
+<li><a href="/shigotosangyo/index.html">ããã¨ã»ç£æ¥­</a></li>
+<li><a href="/kuseijoho/index.html">åºæ¿æå ±</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="outline">
+<p><strong>å¯¾è±¡èããæ¢ã</strong></p>
+<div class="col3">
+<div class="col3L">
+<ul>
+<li><a href="/kosodate/kosodate_ouen/index.html">å­è²ã¦æå ±</a></li>
+</ul>
+</div>
+<div class="col3M">
+<ul>
+<li><a href="/kenko/fukushikaigo/jukunen/jukunen_ouen/index.html">çå¹´èæå ±</a></li>
+</ul>
+</div>
+<div class="col3R">
+<ul>
+<li><a href="/shigotosangyo/jigyosha_oen/index.html">äºæ¥­èæå ±</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col3">
+<div class="col3L">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/qa/index.html">ããããè³ªåQ&amp;A</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>åºã¸ã®ãåãåãããå¤ãæå ±ãæ²è¼ããã¦ãã¾ãã</p>
+</div>
+</div>
+</div>
+<div class="col3M">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/cgi-bin/event_cal_multi/calendar.cgi">ã¤ãã³ã</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>åºã®ã¤ãã³ãæå ±ãæ²è¼ããã¦ãã¾ãã</p>
+</div>
+</div>
+</div>
+<div class="col3R">
+<div class="box_menu">
+<div class="box_menu_ttl">
+<p><a href="/sitemap.html">ãµã¤ãããã</a></p>
+</div>
+<div class="box_menu_cnt">
+<p>ä¸è¦§ããæå ±ãæ¢ãããå ´åã«ãè©¦ããã ããã</p>
+</div>
+</div>
+</div>
+</div>
+<p><a href="/index.html">ããããã¼ã¸ã¸æ»ã</a></p>
+</div>
+<!--index_end-->
+</div>
+</div>
+</div>
+</div>
+<footer id="tmp_footer">
+<div class="container">
+<div class="footer_logo">
+<p class="logo">æ±æ¸å·åºå½¹æ</p>
+<p class="number"><a href="/kurashi/todoke/mynumbersedo/city_number.html">æ³äººçªå· 1000020131237</a></p>
+</div>
+<div class="footer_cnt">
+<address>
+<p class="large">ã132-8501 æ±äº¬é½æ±æ¸å·åºä¸­å¤®ä¸ä¸ç®4çª1å·</p>
+<p class="large">é»è©±çªå·ï¼03-3652-1151ï¼ä»£è¡¨ï¼</p>
+<p class="special"> <span class="open_time">éåºæé</span><span class="txt">ï¼æææ¥ããéææ¥ã®åå8æ30åããåå¾5æ<br>
+ï¼ç¥æ¥ã»ä¼æ¥ã12æ29æ¥ãã1æ3æ¥ãé¤ãï¼</span> </p>
+<p>â»é¨ç½²ãæ½è¨­ã«ãã£ã¦ã¯ãéåºã»éé¤¨ã®æ¥ã»æéãç°ãªãã¨ãããããã¾ãã</p>
+</address>
+</div>
+<nav class="footer_link">
+<ul class="fnavi">
+<li><a href="/aboutweb/index.html">æ±æ¸å·åºã¦ã§ããµã¤ãã«ã¤ãã¦</a></li>
+<li><a href="/aboutweb/privacypolicy.html">ãã©ã¤ãã·ã¼ããªã·ã¼</a></li>
+<li class="last"><a href="/sitemap.html">ãµã¤ãããã</a></li>
+</ul>
+<p class="copyright" lang="en">Copyright &copy; Edogawa city. All rights reserved.</p>
+</nav>
+<nav class="pnavi">
+<p class="ptop"><a href="#tmp_header">ãã¼ã¸ã®åé ­ã¸æ»ã</a></p>
+</nav>
+</div>
+</footer>
+</div>
+<script src="/shared/js/function.js"></script>
+<script src="/shared/js/main.js"></script>
+<script src="/search/template/shared/search.js"></script>
+<script src="/shared/js/analytics.js"></script>
+<noscript>
+<img src="https://kantan-log.jp/_analysis.rakulog?uid=oNpjNm0rt5zU9PAp&amp;key=noscript&amp;ctime=&amp;ltime=&amp;ftime=&amp;count=auto&amp;sorder=auto&amp;interval=auto" alt="" width="1" height="1">
+</noscript>
+</body>
+</html>

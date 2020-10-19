@@ -1,0 +1,3146 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8">
+    <title>同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもちWEB MAGAZINE</title>
+    <meta name="description" content="犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。">
+    <meta name="keywords" content="いぬのきもち">
+            <meta name="thumbnail" content="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">
+            <meta property="article:published_time" content="2020-10-10T00:00:00+09:00">
+            <meta property="article:author" content="いぬのきもちWeb編集室">
+        <meta property="og:title" content="同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもちWEB MAGAZINE">
+    <meta property="og:description" content="犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dog.benesse.ne.jp/lovedog/content/?id=69504">
+    <meta property="og:image" content="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="fb:app_id" content="1958400984423012">
+        
+        <link rel="canonical" href="https://dog.benesse.ne.jp/lovedog/content/?id=69504">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/resource/css/pc/master.min.css?id=d5a4561c5e1e4ce78dbb">
+    <link rel="stylesheet" href="/resource/css/pc/adjust.css?id=e3ecb4a2ee5d3cf0eb46">
+    <link rel="stylesheet" href="/resource/renewal_design/css/common_pc.css?id=79e7ee6dc9dae6e952ef">
+    <link rel="stylesheet" href="/resource/renewal_design/css/article_pc.css?id=b11a63f4f7918aa6bb5c">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="/resource/renewal_design/js/menu.js?id=070208191a7e193d56cb"></script>
+    <script src="/resource/js/pc/app.min.js?id=02db91d708164c318670"></script>
+    <script src="/resource/js/pc/adjust.js?id=94726be622081040ed12"></script>
+        <script async defer src="//assets.pinterest.com/js/pinit.js"></script>    <script src="https://pet.benesse.ne.jp/static/common/js/ga.js" type="text/javascript"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TX6427');</script>
+<!-- End Google Tag Manager -->
+    <!-- ##### DFP HEAD TAG START ##### -->
+
+<!-- jquery.inview.min.jsの呼び出し -->
+<script src="/resource/js/pc/jquery.inview.min.js?id=5db0816885c5354ee2fb" type="text/javascript"></script>
+<!-- jquery.inview.min.jsの呼び出し -->
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+
+                PetDFPcontentsID = "lovedog";
+        PetDFPVersionID = "dog";
+
+                    PetTagID = "まとめ 雑学・豆知識 多頭飼い";
+        
+        //検証パラメータ用
+        var BCAD = BCAD || {};
+
+        BCAD.param = location.search;
+        BCAD.arg = new Object;
+        BCAD.pair=BCAD.param.substring(1).split('&');
+
+        for(var i=0;BCAD.pair[i];i++) {
+            BCAD.kv = BCAD.pair[i].split('=');
+            BCAD.arg[BCAD.kv[0]]=BCAD.kv[1];
+        }
+
+        if(typeof(BCAD.arg["DFPkeyTest"]) != "undefined"){
+            googletag.pubads().setTargeting("DFPkeyTest",BCAD.arg["DFPkeyTest"]);
+        }
+
+                    PetArticleID = "69504";
+        
+        var extractHost = function(uri){
+            if (typeof(uri) !== 'string') {
+                return 'null';
+            }
+            var re = /^https?:\/\/([^\/]+)(\/.*)?$/;
+            var match = uri.match(re);
+            return (match && match.length > 1) ? match[1] : 'null';
+        };
+
+        googletag.pubads().setTargeting('articleID', PetArticleID);
+
+        googletag.pubads().setTargeting('contentsID', PetDFPcontentsID);
+        googletag.pubads().setTargeting('versionID', PetDFPVersionID);
+        googletag.pubads().setTargeting('tagID', PetTagID);
+        googletag.pubads().setTargeting('referrerUrl', location.href);
+        googletag.pubads().setTargeting('hostName', location.hostname);
+        googletag.pubads().setTargeting('pathName', location.pathname);
+        googletag.pubads().setTargeting('documentReferrerHost', extractHost(document.referrer));
+
+        //中央ビルボード、ビッグバナー
+        googletag.defineSlot('/271891203/PET_PC/M_UP_bnr_950x250', [950, 250], 'div-M_UP_bnr_950x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_BT_bnr_728x90', [728, 90], 'div-M_BT_bnr_728x90').addService(googletag.pubads());
+
+        //右枠レクタングル
+        googletag.defineSlot('/271891203/PET_PC/R_UP_bnr_300x250', [300, 250], 'div-R_UP_bnr_300x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_bnr_300x250', [300, 250], 'div-R_MD_bnr_300x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_BT_bnr_300x250', [300, 250], 'div-R_BT_bnr_300x250').addService(googletag.pubads());
+
+        //右枠インフィード
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_1').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_2').addService(googletag.pubads());
+
+        //中央レクタングル
+        googletag.defineSlot('/271891203/PET_PC/M_MD_bnr_300x250', [300, 250], 'div-M_MD_bnr_300x250_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_bnr_300x250', [300, 250], 'div-M_MD_bnr_300x250_1').addService(googletag.pubads());
+
+        //中央インフィード
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_1').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_2').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_3').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_4').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_5').addService(googletag.pubads());
+
+        //記事下タイアップ
+        googletag.defineSlot('/271891203/PET_PC/M_MD_kiji_fluid', ['fluid',[1,1]], 'div-M_MD_kiji_fluid_0').setTargeting('position', 'top').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_kiji_fluid', ['fluid',[1,1]], 'div-M_MD_kiji_fluid_1').setTargeting('position', 'mid').addService(googletag.pubads());
+
+        //コーナースポンサード誘導枠
+        googletag.defineSlot('/271891203/PET_PC/M_MD_gtxt_fluid', ['fluid',[1,1]], 'div-M_MD_gtxt_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_gtxt_fluid', ['fluid',[1,1]], 'div-M_MD_gtxt_fluid_1').addService(googletag.pubads());
+
+        //自社広インフィード枠
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid_ha', ['fluid',[1,1]], 'div-M_MD_inf_fluid_ha').addService(googletag.pubads());
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.enableServices();
+
+        //loglyインフィード
+        googletag.defineSlot('/271891203/PET_PC/M_MD_logly_fluid', ['fluid'], 'div-M_MD_logly_fluid_0').addService(googletag.pubads());
+    });
+</script>
+<!-- ##### DFP HEAD TAG END ##### -->
+
+<!-- outbrain
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+ /outbrain -->
+    
+            <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://dog.benesse.ne.jp/lovedog/content/?id=69504",
+    "headline": "同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもち",
+    "description": "犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。",
+    "datePublished": "2020-03-23T15:04:20.000+09:00",
+    "dateModified": "2020-10-10T19:00:11.000+09:00",
+    "author": {
+        "@type": "Organization",
+        "name": "いぬのきもちWeb編集室"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "いぬのきもちWeb編集室",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://dog.benesse.ne.jp/share/img/pc/common/og_1200_630.png",
+            "width": 1200,
+            "height": 630
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg",
+        "width": 640,
+        "height": 480
+    }
+}
+</script>
+        <script type="application/ld+json">
+        {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "いぬのきもち",
+            "item": "https://dog.benesse.ne.jp"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "犬が好き",
+            "item": "https://dog.benesse.ne.jp/lovedog/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "雑学・豆知識",
+            "item": "https://dog.benesse.ne.jp/tags/?id=573"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる",
+            "item": "https://dog.benesse.ne.jp/lovedog/content/?id=69504"
+        }
+    ]
+}
+</script>
+            </head>
+<body class="theme_detail">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX6427"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Yahoo Tag Manager -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=EBITKMm";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+	<iframe src="//b.yjtag.jp/iframe?c=EBITKMm" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+
+<!-- End Yahoo Tag Manager -->
+<header id="header" class="l-header">
+  <div class="header_wrap">
+    <div class="inner">
+      <p class="header_logo"> <a href="/"><img src="/share/renewal_design/img/cmn_lg_dog.png" alt="いぬのきもち" class="logo_dog"> </a> </p>
+      <nav class="header_nav">
+        <ul class="gnav">
+            <li class="here"><a href="/tags/?id=578,573">雑学お楽しみ</a></li>
+            <li><a href="/tags/?id=569">しつけ</a></li>
+            <li><a href="/tags/?id=571,572">生態・健康</a></li>
+            <li><a href="/tags/?id=577,576,574,570">飼い方</a></li>
+            <li><a href="/tags/?id=575,2109">漫画・コラム</a></li>
+            <li><a href="/gallery/">投稿写真</a></li>
+            <li><a href="/doglist/">犬図鑑</a></li>
+            <li><a href="/soudan/">獣医師Q&amp;A</a></li>
+            <li><a href="https://pet.benesse.ne.jp/hospital/">病院を探す</a></li>
+            <li><a href="/tags/?id=2111">犬の解説記事</a></li>
+            <li><a href="/expert/">専門家一覧</a></li>
+            <li><a href="/tagindex/">タグ一覧</a></li>
+        </ul>
+      </nav>
+			<p class="menu"><a href="javascript:void(0)"></a></p>
+    </div>
+        <div id="menu">
+            <div class="search_area">
+                <form action="/search/" class="ad_search">
+                    <input id="q" type="text" name="q" value="" placeholder="しつけ しぐさ 知りたいワードで探す♪">
+                    <input type="submit" value="検索">
+                </form>
+            </div>
+            <ul id="tab">
+                <li class="tab-01 select"><a href="javascript:void(0)">カテゴリ</a></li>
+                <li class="tab-02"><a href="javascript:void(0)">サブカテゴリ</a></li>
+            </ul>
+            <div class="tab">
+                <h2><a href="/doglist/">犬種</a></h2>
+                <h2><a href="/tags/?id=583">食事・ドッグフード</a></h2>
+                <h2><a href="/tags/?id=569">しつけ</a></h2>
+                <h2><a href="/tags/?id=577">飼い方</a></h2>
+                <h2><a href="/tags/?id=570">お手入れ</a></h2>
+                <h2><a href="/tags/?id=571">しぐさ・生態</a></h2>
+                <h2><a href="/tags/?id=572">健康・病気</a></h2>
+                <h2><a href="/tags/?id=573">雑学・豆知識</a></h2>
+                <h2><a href="/tags/?id=574">グッズ</a></h2>
+                <h2><a href="/tags/?id=575">連載</a></h2>
+                <h2><a href="/tags/?id=578">エンタメ</a></h2>
+                <h2><a href="/tags/?id=576">お出かけ</a></h2>
+            </div>
+            <div class="tab hide">
+                <h2><a href="/doglist/">犬種</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=702">トイ・プードル</a></li>
+                    <li><a href="/tags/?id=699">チワワ</a></li>
+                    <li><a href="/tags/?id=582">柴犬</a></li>
+                    <li><a href="/tags/?id=1106">Ｍｉｘ（雑種）小型犬</a></li>
+                    <li><a href="/tags/?id=849">ポメラニアン</a></li>
+                    <li><a href="/tags/?id=850">ミニチュア・ダックスフンド</a></li>
+                    <li><a href="/tags/?id=1108">Ｍｉｘ（雑種）大型犬</a></li>
+                    <li><a href="/tags/?id=1107">Ｍｉｘ（雑種）中型犬</a></li>
+                    <li><a href="/tags/?id=861">ミニチュア・シュナウザー</a></li>
+                    <li><a href="/tags/?id=880">ヨークシャー・テリア</a></li>
+                    <li><a href="/tags/?id=847">マルチーズ</a></li>
+                    <li><a href="/tags/?id=859">シー・ズー</a></li>
+                    <li><a href="/tags/?id=852">フレンチ・ブルドッグ</a></li>
+                    <li><a href="/tags/?id=1569">カニーンヘン・ダックスフンド</a></li>
+                    <li><a href="/tags/?id=905">ゴールデン・レトリーバー</a></li>
+                    <li><a href="/tags/?id=853">パグ</a></li>
+                    <li><a href="/tags/?id=856">パピヨン</a></li>
+                    <li><a href="/tags/?id=863">キャバリア・キング・チャールズ・スパニエル</a></li>
+                    <li><a href="/tags/?id=854">ウェルシュ・コーギー・ペンブローク</a></li>
+                    <li><a href="/tags/?id=870">ビション・フリーゼ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=583">食事・ドッグフード</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=584">栄養</a></li>
+                    <li><a href="/tags/?id=659">危険な食べ物</a></li>
+                    <li><a href="/tags/?id=999">ドッグフードＱ＆Ａ</a></li>
+                    <li><a href="/tags/?id=1000">ドッグフードガイド</a></li>
+                </ul>
+                <h2><a href="/tags/?id=569">しつけ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=691">噛む</a></li>
+                    <li><a href="/tags/?id=692">留守番</a></li>
+                    <li><a href="/tags/?id=693">マーキング</a></li>
+                    <li><a href="/tags/?id=694">マウンティング</a></li>
+                    <li><a href="/tags/?id=695">いたずら</a></li>
+                    <li><a href="/tags/?id=696">引っ張る</a></li>
+                    <li><a href="/tags/?id=697">唸る</a></li>
+                    <li><a href="/tags/?id=698">吠え</a></li>
+                    <li><a href="/tags/?id=947">トイレ</a></li>
+                    <li><a href="/tags/?id=961">オイデ</a></li>
+                    <li><a href="/tags/?id=980">コマンド・命令</a></li>
+                </ul>
+                <h2><a href="/tags/?id=577">飼い方</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=607">遊び</a></li>
+                    <li><a href="/tags/?id=608">散歩</a></li>
+                    <li><a href="/tags/?id=609">トラブル</a></li>
+                    <li><a href="/tags/?id=610">災害対策</a></li>
+                    <li><a href="/tags/?id=611">飼い始め</a></li>
+                    <li><a href="/tags/?id=612">多頭飼い</a></li>
+                    <li><a href="/tags/?id=613">餌</a></li>
+                    <li><a href="/tags/?id=1004">ペットロス</a></li>
+                    <li><a href="/tags/?id=1062">睡眠</a></li>
+                    <li><a href="/tags/?id=1742">共働き　</a></li>
+                    <li><a href="/tags/?id=1743">一人暮らし</a></li>
+                    <li><a href="/tags/?id=1739">家族と犬</a></li>
+                    <li><a href="/tags/?id=1744">しつけ教室・トレーナー</a></li>
+                </ul>
+                <h2><a href="/tags/?id=570">お手入れ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=682">シャンプー・お風呂</a></li>
+                    <li><a href="/tags/?id=683">ブラッシング</a></li>
+                    <li><a href="/tags/?id=684">マッサージ</a></li>
+                    <li><a href="/tags/?id=685">耳掃除</a></li>
+                    <li><a href="/tags/?id=686">爪切り</a></li>
+                    <li><a href="/tags/?id=687">歯磨き</a></li>
+                    <li><a href="/tags/?id=688">肛門腺絞り</a></li>
+                    <li><a href="/tags/?id=689">抜け毛</a></li>
+                    <li><a href="/tags/?id=690">トリミング</a></li>
+                </ul>
+                <h2><a href="/tags/?id=571">しぐさ・生態</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=672">行動</a></li>
+                    <li><a href="/tags/?id=673">鳴き声</a></li>
+                    <li><a href="/tags/?id=674">生理</a></li>
+                    <li><a href="/tags/?id=675">性格</a></li>
+                    <li><a href="/tags/?id=676">オス</a></li>
+                    <li><a href="/tags/?id=677">メス</a></li>
+                    <li><a href="/tags/?id=678">しっぽ</a></li>
+                    <li><a href="/tags/?id=679">おしり</a></li>
+                    <li><a href="/tags/?id=680">肉球</a></li>
+                    <li><a href="/tags/?id=681">コミュニケーション</a></li>
+                    <li><a href="/tags/?id=956">ジャンプ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=572">健康・病気</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=587">肥満・ダイエット</a></li>
+                    <li><a href="/tags/?id=649">暑さ対策・熱中症</a></li>
+                    <li><a href="/tags/?id=650">寒さ対策</a></li>
+                    <li><a href="/tags/?id=651">ストレス</a></li>
+                    <li><a href="/tags/?id=652">予防接種・ワクチン</a></li>
+                    <li><a href="/tags/?id=653">事故・ケガ防止</a></li>
+                    <li><a href="/tags/?id=654">病気の兆候</a></li>
+                    <li><a href="/tags/?id=655">サプリメント</a></li>
+                    <li><a href="/tags/?id=656">保険</a></li>
+                    <li><a href="/tags/?id=657">ダニ・ノミ・寄生虫</a></li>
+                    <li><a href="/tags/?id=588">アレルギー</a></li>
+                    <li><a href="/tags/?id=658">薬・投薬</a></li>
+                    <li><a href="/tags/?id=586">避妊・去勢</a></li>
+                    <li><a href="/tags/?id=585">健康管理・健康診断</a></li>
+                    <li><a href="/tags/?id=659">危険な食べ物</a></li>
+                    <li><a href="/tags/?id=660">病気の予防</a></li>
+                    <li><a href="/tags/?id=661">白内障</a></li>
+                    <li><a href="/tags/?id=662">皮膚病</a></li>
+                    <li><a href="/tags/?id=663">目の病気</a></li>
+                    <li><a href="/tags/?id=664">耳の病気</a></li>
+                    <li><a href="/tags/?id=665">誤飲誤食</a></li>
+                    <li><a href="/tags/?id=666">狂犬病</a></li>
+                    <li><a href="/tags/?id=667">歯周病</a></li>
+                    <li><a href="/tags/?id=668">口臭</a></li>
+                    <li><a href="/tags/?id=669">動物病院</a></li>
+                    <li><a href="/tags/?id=670">介護</a></li>
+                    <li><a href="/tags/?id=671">体重</a></li>
+                    <li><a href="/tags/?id=949">交配</a></li>
+                    <li><a href="/tags/?id=962">診療費</a></li>
+                    <li><a href="/tags/?id=966">いぬのきもち相談室</a></li>
+                    <li><a href="/tags/?id=969">アンチエイジング</a></li>
+                    <li><a href="/tags/?id=1058">発情</a></li>
+                </ul>
+                <h2><a href="/tags/?id=573">雑学・豆知識</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=644">保護活動</a></li>
+                    <li><a href="/tags/?id=645">保護犬</a></li>
+                    <li><a href="/tags/?id=646">名前</a></li>
+                    <li><a href="/tags/?id=647">里親</a></li>
+                    <li><a href="/tags/?id=648">資格</a></li>
+                    <li><a href="/tags/?id=1738">法律・条例</a></li>
+                </ul>
+                <h2><a href="/tags/?id=574">グッズ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=625">3コインズ</a></li>
+                    <li><a href="/tags/?id=626">セリア</a></li>
+                    <li><a href="/tags/?id=627">ザ・ダイソー</a></li>
+                    <li><a href="/tags/?id=628">おもちゃ</a></li>
+                    <li><a href="/tags/?id=629">犬雑貨</a></li>
+                    <li><a href="/tags/?id=630">トイレグッズ</a></li>
+                    <li><a href="/tags/?id=631">ドッグフード</a></li>
+                    <li><a href="/tags/?id=632">おやつ</a></li>
+                    <li><a href="/tags/?id=1687">しつけグッズ</a></li>
+                    <li><a href="/tags/?id=633">お出かけグッズ</a></li>
+                    <li><a href="/tags/?id=634">Can Do（キャンドゥ）</a></li>
+                    <li><a href="/tags/?id=635">100円ショップ</a></li>
+                    <li><a href="/tags/?id=636">いぬのきもちふろく</a></li>
+                    <li><a href="/tags/?id=637">ファッション</a></li>
+                    <li><a href="/tags/?id=638">ケージ</a></li>
+                    <li><a href="/tags/?id=639">ベッド</a></li>
+                    <li><a href="/tags/?id=641">防災グッズ</a></li>
+                    <li><a href="/tags/?id=642">IKEA</a></li>
+                    <li><a href="/tags/?id=643">ニトリ</a></li>
+                    <li><a href="/tags/?id=948">インテリア</a></li>
+                    <li><a href="/tags/?id=979">選び方</a></li>
+                    <li><a href="/tags/?id=2107">リード・首輪</a></li>
+                    <li><a href="/tags/?id=1746">カート</a></li>
+                    <li><a href="/tags/?id=2113">クレート</a></li>
+                    <li><a href="/tags/?id=640">消臭衛生グッズ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=575">連載</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=619">穴澤賢の犬のはなし</a></li>
+                    <li><a href="/tags/?id=623">柴犬かぼすちゃん</a></li>
+                    <li><a href="/tags/?id=624">柴犬マロたん</a></li>
+                    <li><a href="/tags/?id=1056">暮瀬姉弟と吉田くん</a></li>
+                    <li><a href="/tags/?id=1074">初音じゃけえ</a></li>
+                    <li><a href="/tags/?id=1022">犬のオモシロ習性図鑑</a></li>
+                    <li><a href="/tags/?id=621">いぬのきもち</a></li>
+                    <li><a href="/tags/?id=622">いぬのきもち健保</a></li>
+                    <li><a href="/tags/?id=1750">RoomClip</a></li>
+                    <li><a href="/tags/?id=1756">モフモフ柴とプニプニ娘</a></li>
+                    <li><a href="/tags/?id=2109">ライフスタイル</a></li>
+                    <li><a href="/tags/?id=2117">おばあちゃん犬がやってきた</a></li>
+                    <li><a href="/tags/?id=1167">愛犬のための法律事典</a></li>
+                    <li><a href="/tags/?id=1151">犬にやさしく人にやさしい社会へ</a></li>
+                    <li><a href="/tags/?id=620">マシューとマルモ友達100ワンできるかな？（連載終了）</a></li>
+                    <li><a href="/tags/?id=1737">「愛犬は大切な家族」エピソード（連載終了）</a></li>
+                    <li><a href="/tags/?id=1751">柴公園（連載終了）</a></li>
+                    <li><a href="/tags/?id=1749">吉田山田（連載終了）</a></li>
+                </ul>
+                <h2><a href="/tags/?id=578">エンタメ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=596">癒し</a></li>
+                    <li><a href="/tags/?id=597">感動</a></li>
+                    <li><a href="/tags/?id=598">特技</a></li>
+                    <li><a href="/tags/?id=599">失敗</a></li>
+                    <li><a href="/tags/?id=581">あるある</a></li>
+                    <li><a href="/tags/?id=579">かわいい</a></li>
+                    <li><a href="/tags/?id=580">おもしろ</a></li>
+                    <li><a href="/tags/?id=600">驚き</a></li>
+                    <li><a href="/tags/?id=601">トレンド</a></li>
+                    <li><a href="/tags/?id=602">本・漫画紹介</a></li>
+                    <li><a href="/tags/?id=603">イベント・催事</a></li>
+                    <li><a href="/tags/?id=604">人気犬</a></li>
+                    <li><a href="/tags/?id=605">海外事情</a></li>
+                    <li><a href="/tags/?id=606">映画紹介</a></li>
+                    <li><a href="/tags/?id=964">インスタグラム</a></li>
+                    <li><a href="/tags/?id=968">ハロウィン</a></li>
+                    <li><a href="/tags/?id=1014">子犬と子犬</a></li>
+                    <li><a href="/tags/?id=1012">犬と猫</a></li>
+                    <li><a href="/tags/?id=1013">犬と他の動物</a></li>
+                    <li><a href="/tags/?id=1015">犬と犬</a></li>
+                    <li><a href="/tags/?id=985">友情</a></li>
+                    <li><a href="/tags/?id=986">絆</a></li>
+                    <li><a href="/tags/?id=993">寝顔</a></li>
+                    <li><a href="/tags/?id=994">youtube</a></li>
+                    <li><a href="/tags/?id=1006">ツイッター</a></li>
+                </ul>
+                <h2><a href="/tags/?id=576">お出かけ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=614">ドッグラン</a></li>
+                    <li><a href="/tags/?id=615">ドッグカフェ</a></li>
+                    <li><a href="/tags/?id=616">ペットホテル</a></li>
+                    <li><a href="/tags/?id=617">旅行</a></li>
+                    <li><a href="/tags/?id=618">ドライブ</a></li>
+                    <li><a href="/tags/?id=952">プール</a></li>
+                    <li><a href="/tags/?id=953">海</a></li>
+                    <li><a href="/tags/?id=954">山</a></li>
+                    <li><a href="/tags/?id=955">川</a></li>
+                </ul>
+            </div>
+            <!-- /menu --></div>
+    </div>
+</header>
+<!-- /l-header -->
+    <section class="bread_area">
+        <div class="inner">
+            <ol>
+                <li>
+                    <a href="/">トップ</a>
+                </li>
+                <li>
+                    <a href="/lovedog/">犬が好き</a>
+                </li>
+                <li>
+            <a href="/tags/?id=573">雑学・豆知識</a>
+        </li>
+                            <li>
+                    同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる
+                </li>
+            </ol>
+        </div>
+    </section>
+<section>
+	<div class="bannar_area">
+
+		<!-- /271891203/PET_PC/M_UP_bnr_950x250 -->
+        <div id="div-M_UP_bnr_950x250">
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_UP_bnr_950x250'); });
+			</script>
+		</div>
+
+	</div>
+</section>
+<senction class="l-container mt_normal">
+    <div class="inner">
+        <main class="l-contents">
+                <article>
+        <section class="article_detail_item">
+            <p class="article_description_category">犬が好き</p>
+            <p class="article_description_update"><time>2020/10/10</time> UP DATE</p>
+            <h1 class="ttl_primary_ver3">同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる</h1>
+<ul class="sns_list_secondary">
+    <li>
+      <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdog.benesse.ne.jp%2Flovedog%2Fcontent%3Fid%3D69504%250A&layout=button&size=small&mobile_iframe=true&appId=1958400984423012&width=61&height=20" width="61" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </li>
+    <li>
+      <script>
+                ! function(d, s, id)
+                {
+                    var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id))
+                    {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+      </script>
+      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+    </li>
+    <li>
+      <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://dog.benesse.ne.jp/lovedog/content?id=69504%0A" style="display: none;"></div>
+      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+    </li>
+    <li>
+      <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加">
+        <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+      </a>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    </li>
+    <li class="pinterest">
+      <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
+    </li>
+  </ul>
+<div class="ad_article_detail">
+    
+                
+        
+                                  
+                                                                <p class="article_detail_description mb_normal">犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？<br />
+<br />
+今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に<b>「犬を迎え入れた時期」</b>についてアンケート調査を実施してみました。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >同時期に2匹（複数匹）家族に迎え入れた？</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_976272a4-7ae9-4d44-8991-7bd0f60e506a.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_976272a4-7ae9-4d44-8991-7bd0f60e506a.jpg" alt="いぬのきもちWEB MAGAZINE　犬の多頭飼いに関するアンケートvol.01">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/survey/91422419-8e68-43bb-aba2-8741a30d2502" target="_blank">いぬのきもちWEB MAGAZINE　犬の多頭飼いに関するアンケートvol.01　119件の回答</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">「犬を同時期に2匹（複数匹）を迎え入れた」という飼い主さんがどれくらいいるかを調査したところ、飼い主さんの約2割が「同時期に迎えた」と回答。多くの飼い主さんは、時期をずらして先住犬のもとに新入り犬を迎えたようですね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【体験談】同時期に複数飼って思う「よかったこと」と「大変なこと」</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_5334e1af-1818-4e4d-984d-84b671bba51a.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_5334e1af-1818-4e4d-984d-84b671bba51a.jpg" alt="お座りするミニチュア・シュナウザー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/475555" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">ここからは、同時期に複数の犬を迎えた飼い主さんたちの体験談を紹介します。「よかったこと」「大変だったこと」について、お話を聞いてみました。<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「一頭一頭個性がありとても楽しかった」<br />
+<br />
+<br />
+・「お留守番のときは、2頭で遊んでいるようで心配しなくて良い。雨降りの散歩は1匹ずつになるので時間が必要で大変です」<br />
+<br />
+<br />
+・「いつも2頭一緒なので、淋しくはないと思います。しつけが、大変です。1頭に教えて褒めたら、もう1頭が拗ねます」<br />
+<br />
+<br />
+・「半年違いで飼ったのですが、お留守番などは2頭一緒なので少し安心。病院に行くときなど、1頭でお留守番したことないので、2頭連れて行かなきゃいけない」<br />
+<br />
+<br />
+・「よかったのは他の犬への慣れが苦労なくできたこと。大変だったのは散歩慣れしてない頃に1人で2頭を散歩させたこと」<br />
+<br />
+<br />
+・「同じ月齢（3カ月）の子だったので遊び相手には困らなかった。何をするにも一緒なので、ワクチンやごはんなどの出費はいたかった」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_2e456bf4-8dd8-465e-abc5-86a636f66868.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_2e456bf4-8dd8-465e-abc5-86a636f66868.jpg" alt="おやつ待ちをするミニチュア・ダックスフンド">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/474455" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「犬同士で遊びまわってて飼って良かったが、しつけがすごく大変だった！」<br />
+<br />
+<br />
+・「良かったことはじゃれ合う姿に幸せを感じたこと。大変だったことは、たとえばシートにゆるいウンチがあっても、その瞬間を見ていないと、誰が体調を崩しているのかわからないこと」<br />
+<br />
+<br />
+・「いろいろ事情があって同時に子犬2頭飼うことになりましたが、2頭の中がとても良くずっとくっついて一緒に遊んでる姿はとても癒されました。トイレの失敗をどっちがしたのかわからないのは困ったかな」<br />
+<br />
+<br />
+・「3頭産まれて、孫のようで手放せずそのまま飼うことに。ちゃんと授乳するか、夜中も目覚ましを3時間おきにセットし授乳を見守って寝不足に！　しつけが3頭同時にはできず、ダラダラに。。　ショップだと離乳食期くらいからの大きさからの育犬だけど、産まれたて、へその緒を切るところからの育犬に喜びもひとしお！」</b><br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">よかった点で多かったのが、「犬たちの個性の違いなど、いろんな姿を見ることができる」「遊び相手ができて楽しそう」「さみしくなさそう、お留守番のときも安心」などといった声でした。<br />
+<br />
+一方で大変だった点では、「しつけを同時にしなければならない」「お金が2倍以上かかる」「下痢や嘔吐をしたときに、誰がしたのかわからないことがある」などといった声が寄せられています。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【体験談】時期をずらして先住犬のもとに新入り犬を迎えたことで思う「よかったこと」と「大変なこと」</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_426fea0f-d120-4590-ad14-7cbe5a6064a2.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_426fea0f-d120-4590-ad14-7cbe5a6064a2.jpg" alt="おやつを見るトイ・プードル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/472029" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">また、時期をずらして先住犬のもとに新入り犬を迎えた経験のある飼い主さんにも、「よかったこと」「大変だったこと」についてお話を聞いてみることに。<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「トイレなど先住犬がいろいろと教えてくれた」<br />
+<br />
+<br />
+・「当初は、先住犬がやきもちをやいて大変でしたが、順位をしっかり守り、接することで落ち着きました。2頭で、付かず離れず良い関係を保っています」<br />
+<br />
+<br />
+・「1頭目の犬のおかげでしつけや接し方に慣れてきていたので、2頭目を迎え入れたときに2頭を慣れさせるだけで済んだのでとても楽でした」<br />
+<br />
+<br />
+・「先住犬の刺激になって元気になった。かまってもらおうとアピールがすごい。2頭のできることとできないことがまったく違うので、遊んだり、グルーミンングやしつけのときのどれも褒めるバランスが難しいです」<br />
+<br />
+<br />
+・「良かったことは、歳とって、動くのが億劫になっていた先住犬が、刺激を受けて元気に散歩するようになったこと。大変なのは、普段、新入り犬が先住犬にちょっかいを出し過ぎなところ」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_9fb462c3-6a1c-4ea7-bff6-77a6cc4dd230.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_9fb462c3-6a1c-4ea7-bff6-77a6cc4dd230.jpg" alt="見つめるボーダー・コリー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/449069" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「同時期でないものの、先住犬が1才になるちょっと前に同じ月齢の子を迎え入れました。いたずらが2倍になりました。先住犬にとっては戸惑いがあったでしょうけど、遊び相手ができたようでこちらも幸せな気持ちでした」<br />
+<br />
+<br />
+・「最初の1年は仲良くならず、先住犬は知らん顔だし新入りは『あたしあたしー！』と自己主張が激しい子でダメかもと思ったけど、今はとても仲良しです。ドッグランで新入りが追い込まれてると助けにいきます」<br />
+<br />
+<br />
+・「先住犬はとても活発で遊ぶのが大好きなので、常に遊び相手ができたところがよかったです。大変なのは、2頭続けてトイレをすることがあり（大も小も）、それを片付けるのに大変でした」<br />
+<br />
+<br />
+・「9才と2カ月だったので、新入りが8カ月になった今も、新入りが激しすぎて先住犬が困ってる」<br />
+<br />
+<br />
+・「よかったことは、時期をずらしたことですべてのことがゼロからでなかったこと。大変だったことは、先住犬のしつけが一段落して、また新入り犬にイチからしつけを教えなくてはならないこと」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg" alt="くつろぐ柴犬">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/470284" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「上の子も下の子ができたことで先輩としての成長が見られた。1匹のときと、兄弟ができたときで上の子の見たことない顔が見られる。でも、下の子に注意がいく分、上の子に構ってあげられる時間が少なくなってしまった」<br />
+<br />
+<br />
+・「先住犬が1才になってすぐに来たので、遊び相手になって楽しく走り回ってるのを見ると良かったなぁと思う。大変なのは病院代が2倍なのです。それをわかってて迎え入れたので、良かったほうが大きいです」<br />
+<br />
+<br />
+・「先住犬が警戒が強く、なかなか仲良くなれない」<br />
+<br />
+<br />
+・「保護犬を迎えたんですが、先住犬が犬社会のことを教えてくれました。また、おもちゃの遊び方も教えてました」<br />
+<br />
+<br />
+・「2頭目を迎えて半年くらいは、大変でした（チョロチョロしているし、トイレトレーニングなど）。先住犬もストレスで血便が出てしまったり、後悔したこともありましたが、3年近く経った今は2頭いるのが当たり前の生活になり、日々可愛さに癒されています」</b><br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">よかった点では、「先住犬が新入り犬の面倒を見てくれる」「お互いにいい遊び相手になっている」などといった声が寄せられています。飼い主さんも先住犬のお世話の経験で慣れていることもあり、余裕があったと感じる人もいるようですね。<br />
+<br />
+一方、大変だった点では、「新入り犬にかまいすぎて、先住犬がやきもちをやく」「先住犬が戸惑っていた」「なかなか仲良くなれず困っている」などといった声が。先住犬と新入り犬の相性が合わず、関係性に悩んでいる飼い主さんもいるようですね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【解説】「2頭同時」と「後でもう1頭」…犬の多頭飼いはどっちがいいの？</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_bde88cca-d20d-4ca0-be02-0d69ada51233.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_bde88cca-d20d-4ca0-be02-0d69ada51233.jpg" alt="寝転がるビーグル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/440243" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">同時期に2頭（複数）迎えた飼い主さん、時期をずらして迎えた飼い主さん、それぞれの体験談をご紹介してきました。<br />
+<br />
+どちらにもいい面・大変な面があるようですが、犬を多頭飼いする場合、実際どちらが望ましいのでしょうか…？<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">可能であれば、1頭目を成犬まで育てあげてから、次のコを迎えるのがおすすめ</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">いぬのきもち獣医師相談室の先生によると、可能であれば<b>「1頭目を成犬まで育てあげてから、次のコを迎える</b>」のがおすすめだそう。<b>先住犬が新入り犬を教育してくれて、飼い主さんと協力してお世話をしてくれることもある</b>からです。<br />
+<br />
+子犬を同時期に迎える場合、子犬たちそれぞれの健康状態を見ることは簡単なことではありません。元気や食欲、排尿・排便の状態、体重の変化など、1頭をお世話するだけでもとても大変ですよね。<br />
+<br />
+さらに、子犬の頃はトイレのしつけや甘噛み、食糞など…それに応じたしつけをしなければなりません。病気になったときには通院、投薬なども必要になり、それが複数だと大変です。<b>子犬を迎えたことがない方は、とくに時期をずらして飼ったほうがよい</b>でしょう。<br />
+<br />
+また、子犬の頃から複数の犬を家族に迎えた場合、同時に年齢を重ねていくので、シニアになったときに同じ時期に闘病、介護が始まるかもしれない…ということを理解しておきましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">同じ時期に子犬を2頭飼うのは、メリットもある</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">一方で、同じ時期に子犬を2頭飼うことはメリットもあると、いぬのきもち獣医師相談室の先生は話します。<br />
+<br />
+たとえば…<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b><ul><li>2頭で遊んでくれることもあるため、飼い主さんが遊び相手をする時間が少なくて済むこともある。</li><li>飼い主さんでは教えることのできない、犬同士にしかわからない遊びや楽しさがあり、犬らしい生活ができる。</li></ul></b></p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">といった利点もあるそうです。飼い主さんの体験談からもそうした声が寄せられていましたよね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【解説】多頭飼いを決断する前に飼い主さんが確認すべき6つのこと</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_ed0996c8-5c40-47b2-bbe0-28e66d1e7b3c.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_ed0996c8-5c40-47b2-bbe0-28e66d1e7b3c.jpg" alt="じゃれ合うシベリアン・ハスキー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/386733" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">飼い主さんたちの経験談を見て、これから多頭飼いをしたいと思っている人は、不安になってしまったかもしれません。<br />
+<br />
+最後に、これから多頭飼いをしたいと考えている人に確認してほしい6つのことを紹介します。すでに先住犬がいる飼い主さんは、先住犬のことも考慮してあげることが大切に。ぜひ参考にしてみてください！<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">①先住犬の性格を考慮しよう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>先住犬の性格が神経質だったり、過度に臆病である場合、ほかの犬を受け入れられない</b>ことも。また、<b>先住犬が吠える、噛む、分離不安などの問題行動があるような場合も、多頭飼いに向いていない</b>傾向にあります。<br />
+<br />
+「新しいコを迎えれば問題が解決するのでは？」と期待する人もいますが、場合によっては、新入り犬が先住犬のよくない行動をマネして、飼い主さんの負担が増えてしまうことも。<br />
+<br />
+ほかにも、<b>甘えん坊な性格の犬や、飼い主さんへの依存心が強い犬の場合、愛情が分散することを嫌がって、ほかの犬との生活を望まないコも</b>います。<br />
+<br />
+犬同士の相性が悪いと大きなストレスとなり、お互いに我慢した生活を強いることになります。それではかわいそうですよね。<br />
+<br />
+まずは、先住犬の性格を考慮してから多頭飼いを検討しましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">②犬同士の年齢が離れすぎている場合も難しいことが多いと知っておこう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">犬同士の年齢が離れすぎているケースでも、多頭飼いが難しいこともあります。<br />
+<br />
+たとえば、<b>先住犬と10才以上離れた子犬を新たに迎え入れることになった場合、先住犬が静かな生活を望むタイプのコだと疲れてしまう</b>ことも。<br />
+<br />
+ただ、なかには新入り犬の若さが刺激になっていい場合もあるので、飼い主さんは充分に見極めて多頭飼いを検討してみてくださいね。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">③「なぜ多頭飼いをしたいか？」を飼い主さん自身がよく考えよう</h3>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_a5cb6393-24f0-429d-87b0-26189504e857.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_a5cb6393-24f0-429d-87b0-26189504e857.jpg" alt="手のひらサイズのミニチュア・ダックスフンド">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/477188" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">飼い主さん自身、<b>「なぜ多頭飼いをしたいのか？」</b>をよく考えてみましょう。「家族を増やして楽しく暮らしたい」「気になるコと出会ってしまった」など、理由はさまざまでしょう。<br />
+<br />
+「先住犬のために多頭飼いをしたい」と考える飼い主さんもいるかもしれませんが、いざ望むような結果が得られなかったときに、犬も飼い主さんも幸せになれません。<br />
+<br />
+<b>新入り犬を迎えるのは、飼い主さん自身の責任</b>です。新しいコを迎えて、どんなことがあっても愛せる覚悟があるかどうかを、飼い主さんは自問自答してみましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">④多頭飼いを検討するときは、家族でよく話し合おう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">多頭飼いを検討する際、必ず家族と相談して協力することが大切です。いざ多頭飼いをしてみたものの、<b>「犬のお世話をするのはお母さんだけ」というケースがありますが、それは重労働</b>です。<br />
+<br />
+ごはんやお散歩などの日々のお世話、健康チェック、通院などをおこなうのはひとりでは大変です。飼い主さんに余裕がなくなると、犬の小さな異変にも気づけなくなってしまうこともあるでしょう。<br />
+<br />
+また、お世話する人が体調不良のときに、ほかの家族が犬のお世話をできないこともよくありません。<b>お世話を協力できる大人が犬の頭数と同じ人数、できればもう1名いるのが望ましい</b>です。そうすれば、ひとりあたりの負担も少なくなりますよね。<br />
+<br />
+誰かがお世話をできない状況になったとしても大丈夫なように、家族の協力は不可欠です。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">⑤金銭面に問題がないかよく考えよう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>フード代、フィラリア予防やワクチン代、トリミング代、その他医療費</b>など、犬を飼うとさまざまな面でお金がかかります。多頭飼いとなると、さらに金額が増えていきます。<br />
+<br />
+犬たちとともに10年以上生活するなかで、飼い主さん自身の生活が変わったり、病気をしたりなども考えられます。そのようなときでも、犬を飼い続けることのできる余裕があるのかどうか、よく考えましょう。<br />
+<br />
+とくに<b>動物病院に入院、手術となると、数十万単位のお金が必要</b>になります。多頭飼いの場合、犬が同時に病気になることも想定しておかなくてはなりません。<br />
+<br />
+今一度、金銭的な面で問題がないかを考えてみるようにしましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">⑥災害時のことも考えておこう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">地震や台風などの災害が起こったとき、犬を連れて避難しなければならないこともあります。<b>何頭までであれば、飼い主さん自身で連れ出すことができるでしょうか？</b><br />
+<br />
+避難時は犬だけでなく、飼い主さん自身で必要なものはもちろん、犬のフードなどの必要品も持ち出すことになります。飼い主さんも犬も安全に避難できるかどうか、シミュレーションしてみてください。<br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_7f0aec4f-d235-4235-9d30-eba85f8f215e.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_7f0aec4f-d235-4235-9d30-eba85f8f215e.jpg" alt="見つめるトイ・プードル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/477196" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">多頭飼いを検討する際には、「楽しそうだから」と安易に考えるのではなく、あらゆることを想定しておくことが大切です。<br />
+<br />
+「多頭飼いをしたいな」と考えている方は、犬も飼い主さんも幸せに暮らせるよう、ぜひ上記の6つのことを参考にしてみてくださいね！<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">『いぬのきもちWEB MAGAZINEアンケート　犬の多頭飼いに関するアンケートvol.01』<br />
+（監修：いぬのきもち・ねこのきもち獣医師相談室　担当獣医師）<br />
+※写真は「いぬ・ねこのきもちアプリ」で投稿されたものです。<br />
+※記事と写真に関連性はありませんので予めご了承ください。<br />
+文／雨宮カイ</p>
+                                      </div>
+<div class="text_r">
+    <div class="icon_category">CATEGORY &nbsp; 犬が好き</div>
+    <p class="font_color_light">
+        <time>2020/10/10</time> UP DATE</p>
+</div>
+    <!-- AIコメントいぬのきもち　START -->
+<div id="ulCommentWidget" style="clear:both; background-color:#f6f6f6; padding: 20px;"></div>
+<script>
+    var _ul_comment_config = _ul_comment_config||{};
+    _ul_comment_config['id'] = 'CM-RNbjG8Si';
+    _ul_comment_config['article_id'] = "69504";
+    _ul_comment_config['author'] = 'いぬのきもちWeb編集室';
+    _ul_comment_config['published_at'] = "2020-10-10 19:00:11";
+    _ul_comment_config['anonymous_report'] = true;
+    _ul_comment_config['url'] = "https://dog.benesse.ne.jp/lovedog/content?id=69504%0A";
+
+    (function (c, n, s) {if (c[n] === void 0) {c['ULObject'] = n;
+        c[n] = c[n] || function () {(c[n].q = c[n].q || []).push(arguments)};
+        c[n].l = 1 * new Date();var e = document.createElement('script');e.async = 1;
+        e.src = s + "/comment.js";var t = document.getElementsByTagName('script')[0];
+        t.parentNode.insertBefore(e, t);}})
+    (window, 'ul_comment_widget', 'https://cm-widget.nakanohito.jp/cm');
+    ul_comment_widget('init', _ul_comment_config);
+</script>
+<!-- AIコメントいぬのきもち　END -->
+<p class="random_banner mb_large"><a href="https://pet.benesse.ne.jp/dog/lp_tokuten/?utm_source=ownmedia&utm_medium=dog&utm_campaign=webarticle_bookdog2"><img src="/share/img/pc/bannar/bnr_honshi02.jpg" alt=""></a></p>
+        </section>
+        <section class="bottom">
+            <ul class="btn_list list_type_tag ad_large_tag">
+                    <li>
+            <a href="/tags/?id=563" class="icon_tag">まとめ</a>
+        </li>
+                    <li>
+            <a href="/tags/?id=573" class="icon_tag">雑学・豆知識</a>
+        </li>
+                    <li>
+            <a href="/tags/?id=612" class="icon_tag">多頭飼い</a>
+        </li>
+    </ul>
+<p class="mb_xsmall"><a href="/tagindex/" class="ad-txt_link">関連するキーワード一覧</a></p>
+        </section>
+        <!-- 1つ目の記事タイアップ広告 -->
+<div id='div-M_MD_kiji_fluid_0'></div>
+<script>
+    $('#div-M_MD_kiji_fluid_0').on('inview', function() {
+        //ブラウザの表示域に表示されたときに実行する処理
+        googletag.cmd.push(function() { googletag.display('div-M_MD_kiji_fluid_0'); });
+    });
+</script>
+        <ul class="sns_list_secondary">
+    <li>
+      <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdog.benesse.ne.jp%2Flovedog%2Fcontent%3Fid%3D69504%250A&layout=button&size=small&mobile_iframe=true&appId=1958400984423012&width=61&height=20" width="61" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </li>
+    <li>
+      <script>
+                ! function(d, s, id)
+                {
+                    var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id))
+                    {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+      </script>
+      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+    </li>
+    <li>
+      <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://dog.benesse.ne.jp/lovedog/content?id=69504%0A" style="display: none;"></div>
+      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+    </li>
+    <li>
+      <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加">
+        <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+      </a>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    </li>
+    <li class="pinterest">
+      <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
+    </li>
+  </ul>
+        <div class="mb_normal">
+            <ul class="bannar_list mb_normal">
+	<li>
+		<!-- 中央レクタングル1つ目の広告 -->
+		<div id='div-M_MD_bnr_300x250_0'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_MD_bnr_300x250_0'); });
+			</script>
+		</div>
+	</li>
+	<li>
+		<!-- 中央レクタングル２つ目の広告 -->
+		<div id='div-M_MD_bnr_300x250_1'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_MD_bnr_300x250_1'); });
+			</script>
+		</div>
+	</li>
+</ul>
+        </div>
+        <h2 class="ttl_secondary_ver1 theme">人気テーマ</h2>
+<div class="mb_xlarge">
+  <ul class="theme_list">
+    <li id="div-M_MD_gtxt_fluid_0" style="display:none;">
+      <script type="text/javascript">googletag.cmd.push(function () {
+          googletag.display("div-M_MD_gtxt_fluid_0");
+        });</script>
+    </li>
+
+    <li id="div-M_MD_gtxt_fluid_1" style="display:none;">
+      <script type="text/javascript">googletag.cmd.push(function () {
+          googletag.display("div-M_MD_gtxt_fluid_1");
+        });</script>
+    </li>
+
+            <li>
+          <a href="/tags/?id=578" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">エンタメ</h3>
+            <p>犬好きなら誰でも共感しちゃう楽しいエッセイ・画像・動画をご紹介</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=575" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">連載</h3>
+            <p>ブログやSNSで人気の犬のコラムやエッセイが読める大人気連載</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=576" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">お出かけ</h3>
+            <p>愛犬とのおでかけが楽しくなるスポット情報やコツなど</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=558" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">動画</h3>
+            <p>犬好きにはたまらない！かわいい・面白い・感動の犬の動画</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=573" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">雑学・豆知識</h3>
+            <p>明日誰かに話したくなる犬にまつわる”あれこれ”ネタはこちら</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=574" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">犬グッズ</h3>
+            <p>犬との暮らしに意外と使える100均グッズから、犬モチーフの雑貨まで</p>
+          </a>
+        </li>
+      </ul>
+</div>
+    </article>
+    <input type="hidden" id="article_total" name="article_total" value="4952">
+<input type="hidden" id="now" name="now" value="2">
+<section class="mb_normal">
+    <h2 class="ttl_primary_ver2">あわせて読みたい！<br>「犬が好き」の新着記事</h2>
+    <ul class="article_list_secondary article_new_secondary mb_small row2">
+                        <li>
+            <a href="/lovedog/content/?id=85077">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_9b7ad523-af48-4439-8455-cc9362705242.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「被災犬」を救助し続けSNSで発信した保護シェルター、著名コピーライターから届いたメッセージとは</h3>
+                    <p class="mb_xsmall">ここでは、犬と、犬を取り巻く社会がもっと幸せで素敵なものになるよう活動している方々をレポートします。今回は、2014年に、トリミングサロンと動物病院、保護シェルターを合わせた施設を都心にオープンした、ミグノンプランの活動をご紹介します。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=81824">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_59909491-fc6d-404c-855e-a9bebad1837d.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">子犬が「へそ天でスヤスヤ」「前足ピーン」柴犬の愛しい成長日記</h3>
+                    <p class="mb_xsmall">子犬の柴犬、こてつくん。へそ天しながらバンザイポーズで爆睡したり、ぬいぐるみとスヤスヤ眠ったり。ソファの上をよちよち歩き回る姿は、まるで動くぬいぐるみのよう♡　こてつくんの成長が垣間見れますね。柴犬好きも子犬好きも必見の動画です。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85101">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_d6076247-f3ab-4234-a3df-2f3026bdff9b.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">野犬の子犬を迎えて約7カ月が経過→「成長ビフォーアフター」に驚き！　家族になった今の心境を飼い主に聞いてみた</h3>
+                    <p class="mb_xsmall">2020年3月8日、Twitterユーザーの@raterate1224さんは保護犬・ラテちゃん（♀）を家族に迎えました。野犬の子犬だったというラテちゃんと家族になって、どんな日々を過ごし、そしてどのような心境なのか…いぬのきもちWEB MAGAZINEでは、ラテちゃんを迎えて1カ月の頃と7カ月が経った頃の2回に分けて、飼い主さんにお話を伺いました。ラテちゃんの成長ビフォーアフターにも注目しながら読んでみてくださいね！
+</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 1つ目の広告タグ -->
+        <!-- /271891203/PET_PC/div-M_MD_inf_fluid_0 -->
+        <li id='div-M_MD_inf_fluid_0'>
+            <script type='text/javascript'>googletag.cmd.push(function () {
+                    googletag.display('div-M_MD_inf_fluid_0');
+                });</script>
+        </li>
+                                                <li>
+            <a href="/lovedog/content/?id=81825">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_e72f1e30-992f-4547-9a48-1579d66cc82d.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">柴犬の大歓迎！しっぽフリフリどころか嬉しすぎて「おしりブンブン」が止まらない！</h3>
+                    <p class="mb_xsmall">今日はおうちに、柴犬のこてつくんが大好きなお友達が来る日です。こてつくん、しっぽをフリフリして大歓迎します！　ついでにおしりも勢いよくブンブン。しっぽが……というよりは、おしりが止まらないこてつくんの動画です。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85108">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_014bba2e-8d4c-4639-b577-52848e13529c.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">柴犬マロたんの健康診断、寝耳に水の結果に落ち込んでしまったけれど…</h3>
+                    <p class="mb_xsmall">【連載】柴犬マロたん　毎年恒例の健康診断を受けたところ、気管虚脱（気管がつぶれている）だとわかったマロたん。詳しい検査結果が出るのはこれからですが、ものすごくショックで…</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85094">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_dc623458-73a5-4c11-b0a7-40fed68d4b97.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「陽の光が気持ちいいいワン」!?　コーギー兄妹のヘソ天ポーズが癒しの極みだった</h3>
+                    <p class="mb_xsmall">陽があたる場所って絶好のお昼寝ポイントで気持ちいいですよね。Twitterユーザー@muchi21067312さんの愛犬、コーギー兄妹の「ちい」くんと「むう」ちゃん。ふだんの関係性は優しい兄とジャイアンのような妹だそうですが、そんなふたりのなんとも無防備なヘソ天ポーズが可愛すぎるんです！
+</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 2つ目の広告タグ -->
+        <li id="div-M_MD_inf_fluid_1"></li>
+                                                <li>
+            <a href="/lovedog/content/?id=81852">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_ce92e2d8-1bc5-4bfc-b888-b13e5a001af7.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">食べ物の名前が多数ランクイン!?　人気の「メス犬の名前ランキング」</h3>
+                    <p class="mb_xsmall">犬を迎え入れるとき、ドキドキわくわくしますよね。名前のつけ方は飼い主さんによってさまざまだと思いますが、「どんな名前にしようかな」と悩んでしまい、なかなか決められないという人もいるでしょう。そこで今回は、「いぬのきもちアプリ」で調査した「犬の名前ランキング2019」より、メス犬に人気な名前をご紹介します♪</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=81844">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_1f6301e1-bbcb-4def-8a1a-30ace7e066e7.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「待ちきれないワン！」秋田犬の子犬がゴハンの用意をさり気なくのぞきに来た！</h3>
+                    <p class="mb_xsmall">9匹のワンちゃん、猫ちゃんと暮らす飼い主さん。みんなの分のゴハンを用意していると、別の部屋で待っているはずの秋田犬らんぷちゃんが、キッチンまで様子を見に来てしまいました！　おいしそうなニオイに誘われて、待ちきれなかったのかな？　動画です♪</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85084">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_1e42a98c-2edd-4644-9ddd-58426f101e3a.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">季節の変わり目の体調は？おかーさんの心配がさく裂！【連載】おばあちゃん犬がやってきた第85回</h3>
+                    <p class="mb_xsmall">【連載】おばあちゃん犬がやってきた！　季節の変わり目、気づいたこと、、シロさんが好きすぎておかーさんの心配性がさく裂過ぎ？？</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 3つ目の広告タグ -->
+        <li id="div-M_MD_inf_fluid_2"></li>
+                                                <li>
+            <a href="/lovedog/content/?id=81803">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_39300292-3168-4ad8-b17a-3f1678bbfcaf.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">私の存在そのものが犬たちのおかげできている|連載・西川文二の「犬ってホントは」＃犬の日特別連載</h3>
+                    <p class="mb_xsmall">【連載】西川文二の「犬ってホントは」　今回は「＃スマイルドッグ　愛犬へありがとうを叫ぼう」をテーマに送る特別編。幼い頃から犬に囲まれて育った西川先生。しつけインストラクターとして活躍する現在までを振り返り、犬たちへの感謝の思いをハートフルに綴ります。</p>
+                </div>
+            </a>
+        </li>
+                            </ul>
+    <!-- 広告の読み込み用のスクリプトタグ -->
+    <script type='text/javascript'>
+        <!--//
+        googletag.cmd.push(function () {
+
+            var FrameID = "M_MD_Box";
+            var divDfp = "div-M_MD_inf_fluid";
+            var divNum = 0;
+            var divBox = divDfp + '_' + divNum;
+
+            googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                if (event.slot.getSlotElementId() === divBox) {
+                    if (!event.isEmpty && divNum < 6) {
+                        divNum = divNum + 1;
+                        divBox = divDfp + '_' + divNum;
+                        googletag.cmd.push(function () {
+                            googletag.display(divBox);
+                        });
+                    }
+                }
+            });
+
+        });
+        //-->
+    </script>
+
+
+    <!--記事間広告の終了タグ-->
+
+        <div>
+        <a href="" class="txt_btn btn_more">新着記事をもっと見る</a>
+    </div>
+    </section>
+<!-- 2つ目の記事タイアップ広告 -->
+<div id='div-M_MD_kiji_fluid_1'></div>
+<script>
+    $('#div-M_MD_kiji_fluid_1').on('inview', function() {
+        //ブラウザの表示域に表示されたときに実行する処理
+        googletag.cmd.push(function() { googletag.display('div-M_MD_kiji_fluid_1'); });
+    });
+</script>
+
+<div id="recommend_placeholder"></div>
+        </main>
+        <!-- /l-contents -->
+            <div class="l-sidenav">
+
+	<nav class="mb_normal">
+		<div class="mb_normal">
+	<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+	<div class="section_ad_subcont">
+		<!-- 1stレクタングル -->
+		<!-- /271891203/PET_PC/R_UP_bnr_300x250 -->
+		<div id="div-R_UP_bnr_300x250"></div>
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-R_UP_bnr_300x250'); });
+		</script>
+
+	</div>
+	<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+</div>
+		<div class="mb_normal">
+  <p class="sidenav_ttl_ver1">
+    <img src="/share/img/pc/common/icon_map.png" alt="" class="mr_xsmall">Pick Up!
+  </p>
+  <ul class="snav">
+    <li><a href="/withdog/">犬と暮らす</a></li>
+    <li><a href="/lovedog/">犬が好き♥</a></li>
+    <li><a href="/disease/">病気・症状データベース</a></li>
+    <li><a href="/tags/?id=575">連載</a></li>
+    <li><a href="/tags/?id=564">漫画</a></li>
+    <li><a href="/tags/?id=557">コラム</a></li>
+    <li><a href="/tags/?id=558">動画</a></li>
+    <li><a href="/tags/?id=559">画像</a></li>
+    <li><a href="/tags/?id=562">解説</a></li>
+    <li><a href="/tags/?id=563">まとめ</a></li>
+    <li><a href="/tags/?id=565">犬の種類</a></li>
+    <li><a href="/survey/">アンケート</a></li>
+  </ul>
+</div>
+		<p class="sidenav_ttl_ver1 ad-ttl_side">
+  <span><img src="/share/img/pc/common/icon_heart.png" alt="" class="mr_xsmall">人気キーワード</span>
+  <a href="/tagindex/" class="ad-txt_link">一覧</a>
+</p>
+<ul class="snav">
+    <li><a href="/tags/?id=569">しつけ</a></li>
+    <li><a href="/tags/?id=571">しぐさ・生態</a></li>
+    <li><a href="/tags/?id=583">食事・フード</a></li>
+    <li><a href="/tags/?id=572">健康・病気</a></li>
+    <li><a href="/tags/?id=579">かわいい</a></li>
+    <li><a href="/tags/?id=580">おもしろ</a></li>
+    <li><a href="/tags/?id=581">あるある</a></li>
+    <li><a href="/tags/?id=597">感動</a></li>
+    <li><a href="/tags/?id=573">雑学・豆知識</a></li>
+    <li><a href="/tags/?id=582">柴犬</a></li>
+</ul>
+		<div class="ranking_nav">
+        <p class="sidenav_ttl_ver1 ad-ttl_side">「犬が好き」のランキング</p>
+        <ul class="sidePostWrap_list rankingList">
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81818">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/2c560116047312a53ed399e228dc922b.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">散歩中の信号待ちで、まさかの出来事が！　笑顔が素敵な柴犬に魅了された人たちのほっこり温かいエピソード</h3>
+                    <p class="sidePostWrap_desc">愛犬が嬉しそうに飼い主さんのことを見つめてくることがありますが、その姿は飼い主さんだけでなく周りの人を癒してくれることも。Twitterユーザーの@shomaruoneoneさんが投稿した愛犬・柴犬のまるちゃんとの微笑ましいエピソードが、大きな反響を呼んでいたようです。信号待ちをしていたら…へへへっ♪@shomaruoneoneとある日のお散歩中、信号待ちをしていたという飼い主さんとまるちゃん。すると飼い主さんは、後ろにいたおばあさんから「お母さん下を見てあげて!!　さっきからずーっと見つめているから」</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=85081">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/1168563c7e1ef4d9607529d51ec6c045.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">病院が苦手な柴犬・ハナちゃん　注射前のリアクションに応援の声が！　舞台裏を飼い主が語る</h3>
+                    <p class="sidePostWrap_desc">「どうしても病院が苦手だ…」という犬は少なくないですよね…。とくに注射は人間でも怖いという人は多いのではないでしょうか。Twitterユーザー@87shiba87さんの愛犬・ハナちゃんも、病院がとっても苦手なワンコのようで。ハナちゃんが病院で頑張っている姿に、多くの反響が寄せられていたんです！注射が怖すぎて…「グゥゥゥゥウ！」@87shiba87注射を打つことになり震えるハナちゃん。そうだよね、そりゃ怖いよね…。恐怖のあまりか、顔もちょっと苦しそう？「グゥゥゥギャアオオオ！！！」と鳴き声をあげながら、し</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81847">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/e6e84f2bcd9bc138a228c2e258160063.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">飼い主が草刈りをしたら「満足気に笑う」犬にツッコミの嵐！　連載でもおなじみパグ犬・めーちゃんの魅力に迫る</h3>
+                    <p class="sidePostWrap_desc">愛犬の表情や態度などを見ていて、「こんなことを思っているのかな？」と想像する飼い主さんはきっと多いはずですよね。いぬのきもちWEB MAGAZINEの連載マンガ「パグ犬・めー」でおなじみのめーちゃん（♂）は、SNSや書籍「パグまんがめー語」などでも大人気のワンコ。現在14才でシニア犬のめーちゃんですが、じつは最近Twitterのある投稿で話題になっていたんです！飼い主がやっと草刈りをしたら…めーちゃん、めちゃくちゃ喜んでる！@menglish222それは、9月のある日のことでした。この日、家の庭の草刈り</p>
+                </div>
+            </a>
+        </li>
+                        <!-- /271891203/TMH_SP/M_MD_logly_fluid -->
+        <li class="sidePostWrap_item" id='div-M_MD_logly_fluid_0'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-M_MD_logly_fluid_0'); });
+            </script>
+        </li>
+                <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81823">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/1879cd87d8a8188b623b1ca8c6c9e240.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">パグ犬めーの名前はおめめが大きいから？|連載「パグ犬・めー」vol.74</h3>
+                    <p class="sidePostWrap_desc">前に一度お話した人が、めーのことを覚えていてくれた！【連載】パグ犬めーいぬのきもちWEB MAGAZINE以前やはり散歩中に一度だけ会ったことのある人だったのですが、そのときに話した内容を細かく記憶してくれていて感激してしまいました。めーは呼びかけてもらっただけで嬉しくて、始終ニコニコしていました。めーはめがおおきいから、あいちゃんですプロフィールよしこ　14才のパグ・めーと暮らしています。趣味は犬の漫画を描くこと。著書に「パグまんが　めー語」（河出書房新社）、「めー先生ですよ」（幻冬舎）など。めーは食</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81821">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/61fd348cc6603bdc88ae2a1b1bdfc000.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">雨に濡れた柴犬タロさん。ドライヤーに興味を示すも「もういいです」と断念⁉|連載「モフモフ柴とプニプニ娘」第88話</h3>
+                    <p class="sidePostWrap_desc">雨の中の散歩【連載】モフモフ柴とプニプニ娘みなさんこんにちはさるわたりです。 我が家は夫と私、柴犬のタロさん、娘と暮らしています。雨が降りそうな怪しい天気の中、タロさんと娘と私で散歩へ出ました。 始めは雨も降らず順調な散歩だったのですが、帰り際に雨に降られてしまいました。娘にはあらかじめカッパを着せていたので良かったのですが、タロさんと私はビショビショに…娘以外はみんなビショビショ…家に帰って、濡れたタロさんをタオルで拭いてあげます。 タロさんはタオルで拭かれるのが好きなので、嬉しそうにしています。もし</p>
+                </div>
+            </a>
+        </li>
+                
+        <li class="sidePostWrap_item" id="logly-lift-4289439">
+            <script charset="UTF-8">
+            (function(){
+                var _lgy_lw = document.createElement("script");
+                _lgy_lw.type = "text/javascript";
+                _lgy_lw.charset = "UTF-8";
+                _lgy_lw.async = true;
+                _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4289439";
+                var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+                _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+            })();
+            </script>
+        </li>
+    </ul>
+    <div class="ranking_more_btn">
+                <a href="/lovedog/ranking/" class="txt_btn btn_more btn_next">もっと見る</a>
+            </div>
+</div>
+	</nav>
+	<aside>
+		<div class="mb_normal">
+		<a href="https://pet.benesse.ne.jp/dog/lp/" class="side_magazine_area" target="_blank">
+		<div class="side_magazine_txt">
+			<p class="side_magazine_ttl">いぬのきもち<br>
+				最新号
+			</p>
+			<p class="side_magazine_p mr_xsmall">『いぬのきもち』は、飼い主さんの<br>“知りたい”“伝えたい”にこたえる<br>犬のこと総合雑誌です。</p>
+		</div>
+		<figure class="side_magazine_img">
+				<img src="https://pet.benesse.ne.jp/dog/include/sp/img_dog_cover.jpg" alt="雑誌『いぬのきもち』">
+			<span class="txt_btn btn_primary icon_arrow_r font_size_small mt_xsmall">雑誌『いぬのきもち』</span>
+		</figure>
+	</a>
+</div>
+		<div class="mb_normal">
+  <ul>
+    <li class="mb_small"><a href="https://pet.benesse.ne.jp/hoken/dog/ani.html?id=ANIinuTopPc" target="_blank"><img src="/share/img/pc/common/bnr_hoken.jpg" width="100%" alt="いぬのきもち健保"></a></li>
+    <li class="mb_small"><a href="https://pet.benesse.ne.jp/hospital/" target="_blank"><img src="/share/img/pc/common/bnr_search.jpg" width="100%" alt="動物病院検索"></a></li>
+    <li><a href="/tags/?id=999"><img src="/share/img/pc/common/20180131/bnr_food.jpg" width="100%" alt="獣医師が解説ドッグフードの正しい選び方"></a></li>
+  </ul>
+</div>
+		<ul class="snav notitle">
+  <li>
+      <a href="https://pf.benesse.ne.jp/Dog/" class="">フードサポート</a>
+    <a href="/soudan/" class="">獣医師が答えるQ&A</a>
+    <a href="/doglist/" class="">犬図鑑</a>
+      <a href="https://pet.benesse.ne.jp/kimochi/dogquiz/" class="">いぬのきもちクイズ</a>
+      <a href="/gallery/" class="">いぬフォトギャラリー</a>
+    <a href="https://pet.benesse.ne.jp/official_shindan/" class="">犬診断</a>
+      <a href="https://pet.benesse.ne.jp/dog/mook.html" class="">書店で買える本</a>
+      <a href="https://pet.benesse.ne.jp/dog/members/index.html" class="">購読者専用ページ</a>
+  </li>
+</ul>
+		<aside>
+  <div class="side_sns_area">
+    <p class="sidenav_ttl_ver2">FOLLOW US</p>
+    <ul class="flex_row row4">
+      <li>
+        <a href="https://www.facebook.com/inunokimochinews/" target="_blank">
+          <img src="/share/img/pc/common/logo_facebook.png" alt="facebook">
+        </a>
+      </li>
+      <li>
+        <a href="https://line.me/R/ti/p/%40oa-dognews" target="_blank">
+          <img src="/share/img/pc/common/logo_line.png" alt="line">
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/inunekome" target="_blank">
+          <img src="/share/img/pc/common/logo_twitter.png" alt="twitter">
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/inunekome/" target="_blank">
+          <img src="/share/img/pc/common/logo_instagram.png" alt="instagram">
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="mb_normal">
+    <div class="app_download_area cf">
+      <div class="app_download_ttl">
+        <p class="img"><img src="/share/img/pc/common/app_download_ttl.png" alt=""></p>
+        <p class="txt">いぬのきもち<br>ねこのきもち</p>
+      </div>
+      <p>いぬ・ねこの毎日役立つペット情報をお届けします。</p>
+      <ul>
+        <li>
+          <a href="https://app.adjust.com/3dgcdkj?redirect_android=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessedogcat%3A%2F%2Fjpcobenessedogcat%2Fhome&amp;redirect_ios=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessepet%3A%2F%2Fhome" target="_blank">
+            <img src="/share/img/pc/common/app_download_btn_ios.png" alt="App Store">
+          </a>
+        </li>
+        <li>
+          <a href="https://app.adjust.com/3dgcdkj?redirect_android=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessedogcat%3A%2F%2Fjpcobenessedogcat%2Fhome&amp;redirect_ios=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessepet%3A%2F%2Fhome" target="_blank">
+            <img src="/share/img/pc/common/app_download_btn_android.png" alt="Google Play">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="mb_normal">
+    <div class="line-news-banner" data-id="oa-dognews" data-type="a1" style="display:none;"> </div>
+    <script src="https://scdn.line-apps.com/stf/line-news/js/thirdparty/banner2.js" defer="defer" async="async"></script>
+  </div>
+  <div class="mb_normal">
+    <a href="https://pet.benesse.ne.jp/gallery/" target="_blank">
+      <img src="/share/img/pc/common/20171127/bnr_gallery.png" alt="#いぬのきもち　詳しくはこちら">
+    </a>
+  </div>
+</aside>
+		<div class="mb_normal">
+	<p><a href="https://www.dcm-b.jp/cs/cpsite.html?id=01cpn255001" target="_blank"><img src="/share/img/pc/common/bnr_sugotoku.png"></a></p>
+</div>
+		<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+<div class="section_ad_subcont">
+	<!-- 2ndレクタングル -->
+	<!-- /271891203/PET_PC/R_BT_bnr_300x250 -->
+	<div id='div-R_BT_bnr_300x250'>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-R_BT_bnr_300x250'); });
+		</script>
+	</div>
+</div>
+<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+		<div class="abj">
+    <img src="/share/img/pc/common/abj_1109_1003_w.png" alt="">
+    <div class="abjinfo">
+        <div>ＡＢＪマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第11091003号）です。</div>
+        <div>ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら→ <a href="https://aebs.or.jp/">https://aebs.or.jp/</a></div>
+    </div>
+</div>	</aside>
+</div>
+<!-- /l-sidenav -->
+    </div>
+</senction>
+<!-- /l-container -->
+<!-- /l-container -->
+<footer class="l-footer">
+  <div>
+    <a href="#header" class="js-footer_btn_top">ページトップへ</a>
+  </div>
+  <div class="mt_small">
+    <nav>
+      <ul class="footer_nav">
+          <li><a href="https://pet.benesse.ne.jp/">いぬのきもち・ねこのきもち</a></li>
+          <li><a href="https://cat.benesse.ne.jp/">ねこのきもち</a></li>
+        <li><a href="http://ad.benesse.ne.jp/">広告掲載</a></li>
+        <li><a href="https://pet.benesse.ne.jp/info/kiyaku.html">利用規約</a></li>
+        <li><a href="https://www.benesse.co.jp/cgi-bin/pets/fan/zbfan003.pl" target="_blank">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>
+<div class="benesse-footer" id="benesse-footer">
+  <div class="benesse-footer__inner">
+    <ul class="benesse-footer__link">
+      <li><a href="https://www.benesse.co.jp/benesseinfo/">会社案内</a></li>
+      <li><a href="https://www.benesse.co.jp/privacy/">個人情報保護への取り組みについて</a></li>
+    </ul>
+    <p class="caution">本サイトに掲載されている記事・写真・イラスト等のコンテンツの無断転載を禁じます。</p>
+    <p class="benesse-footer__copyright">Copyright ©Benesse Corporation All rights reserved.</p>
+  </div>
+</div>
+<section class="l-modal">
+    <div class="modal_header">
+        <a class="js-btn_close"></a>
+    </div>
+    <div class="inner">
+        <div class="mb_xsmall">
+            <div class="search_area">
+                <!-- <script>
+                    (function()
+                    {
+                        var cx = '000158589134449391804:km2yq-4d9em';
+                        var gcse = document.createElement('script');
+                        gcse.type = 'text/javascript';
+                        gcse.async = true;
+                        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(gcse, s);
+                    })();
+                </script>
+                <gcse:search></gcse:search> -->
+                <form action="/search/" class="ad_search">
+                    <input id="q" type="text" name="q" value="" placeholder="検索キーワード">
+                    <input type="submit" value="検索">
+                </form>
+            </div>
+        </div>
+        <div class="mb_xsmall">
+            <h2 class="modal_ttl ttl_contents">コンテンツ</h2>
+            <ul class="pagenav_list row2 mb_small">
+                <li><a href="/withdog/">犬と暮らす</a></li>
+                <li><a href="/lovedog/">犬が好き♥</a></li>
+                <li><a href="https://pet.benesse.ne.jp/gallery/">投稿写真</a></li>
+                <li><a href="/doglist/">犬図鑑</a></li>
+                <li><a href="/soudan/">獣医師Q&A</a></li>
+            </ul>
+            <nav>
+                <ul class="pagenav_list row4 mb_small">
+                  <li><a href="/tags/?id=575">連載</a></li>
+                  <li><a href="/tags/?id=564">漫画</a></li>
+                  <li><a href="/tags/?id=557">コラム</a></li>
+                  <li><a href="/tags/?id=558">動画</a></li>
+                  <li><a href="/tags/?id=559">画像</a></li>
+                  <li><a href="/tags/?id=562">解説</a></li>
+                  <li><a href="/tags/?id=563">まとめ</a></li>
+                </ul>
+                <ul class="pagenav_list row1">
+                    <li style="border-bottom: none;"><a href="/tagindex/">人気キーワード一覧</a></li>
+                </ul>
+                <ul class="pagenav_list row4 mb_small">
+                  <li><a href="/tags/?id=569">しつけ</a></li>
+                  <li><a href="/tags/?id=571">しぐさ・生態</a></li>
+                  <li><a href="/tags/?id=583">食事・フード</a></li>
+                  <li><a href="/tags/?id=572">健康・病気</a></li>
+                  <li><a href="/tags/?id=579">かわいい</a></li>
+                  <li><a href="/tags/?id=580">おもしろ</a></li>
+                  <li><a href="/tags/?id=581">あるある</a></li>
+                  <li><a href="/tags/?id=597">感動</a></li>
+                  <li><a href="/tags/?id=573">雑学・豆知識</a></li>
+                  <li><a href="/tags/?id=582">柴犬</a></li>
+                </ul>
+                <ul class="pagenav_list row4">
+                  <li><a href="https://pet.benesse.ne.jp/dog/lp/" class="">雑誌『いぬのきもち』</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/hoken/dog/ani.html?id=ANIinuTopPc" class="">いぬのきもち健保</a></li>
+                    <li><a href="https://pet.benesse.ne.jp/hospital/" class="">動物病院検索</a></li>
+                  <li><a href="https://dog.benesse.ne.jp/tags/?id=999" class="">ドッグフードの正しい選び方</a></li>
+                  <li><a href="https://pf.benesse.ne.jp/Dog/" class="">フードサポート</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/sogojoho/disease/" class="">病気・症状データベース</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/kimochi/dogquiz/" class="">いぬのきもちクイズ</a></li>
+                    <li><a href="https://pet.benesse.ne.jp/official_shindan/" class="">犬診断</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/mook.html" class="">書店で買える本</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/members/index.html" class="">購読者専用ページ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+<!-- /l-modal -->
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8">
+    <title>同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもちWEB MAGAZINE</title>
+    <meta name="description" content="犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。">
+    <meta name="keywords" content="いぬのきもち">
+            <meta name="thumbnail" content="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">
+            <meta property="article:published_time" content="2020-10-10T00:00:00+09:00">
+            <meta property="article:author" content="いぬのきもちWeb編集室">
+        <meta property="og:title" content="同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもちWEB MAGAZINE">
+    <meta property="og:description" content="犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://dog.benesse.ne.jp/lovedog/content/?id=69504">
+    <meta property="og:image" content="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">
+    <meta property="og:locale" content="ja_JP">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="fb:app_id" content="1958400984423012">
+        
+        <link rel="canonical" href="https://dog.benesse.ne.jp/lovedog/content/?id=69504">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/resource/css/pc/master.min.css?id=d5a4561c5e1e4ce78dbb">
+    <link rel="stylesheet" href="/resource/css/pc/adjust.css?id=e3ecb4a2ee5d3cf0eb46">
+    <link rel="stylesheet" href="/resource/renewal_design/css/common_pc.css?id=79e7ee6dc9dae6e952ef">
+    <link rel="stylesheet" href="/resource/renewal_design/css/article_pc.css?id=b11a63f4f7918aa6bb5c">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="/resource/renewal_design/js/menu.js?id=070208191a7e193d56cb"></script>
+    <script src="/resource/js/pc/app.min.js?id=02db91d708164c318670"></script>
+    <script src="/resource/js/pc/adjust.js?id=94726be622081040ed12"></script>
+        <script async defer src="//assets.pinterest.com/js/pinit.js"></script>    <script src="https://pet.benesse.ne.jp/static/common/js/ga.js" type="text/javascript"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TX6427');</script>
+<!-- End Google Tag Manager -->
+    <!-- ##### DFP HEAD TAG START ##### -->
+
+<!-- jquery.inview.min.jsの呼び出し -->
+<script src="/resource/js/pc/jquery.inview.min.js?id=5db0816885c5354ee2fb" type="text/javascript"></script>
+<!-- jquery.inview.min.jsの呼び出し -->
+
+<script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+
+                PetDFPcontentsID = "lovedog";
+        PetDFPVersionID = "dog";
+
+                    PetTagID = "まとめ 雑学・豆知識 多頭飼い";
+        
+        //検証パラメータ用
+        var BCAD = BCAD || {};
+
+        BCAD.param = location.search;
+        BCAD.arg = new Object;
+        BCAD.pair=BCAD.param.substring(1).split('&');
+
+        for(var i=0;BCAD.pair[i];i++) {
+            BCAD.kv = BCAD.pair[i].split('=');
+            BCAD.arg[BCAD.kv[0]]=BCAD.kv[1];
+        }
+
+        if(typeof(BCAD.arg["DFPkeyTest"]) != "undefined"){
+            googletag.pubads().setTargeting("DFPkeyTest",BCAD.arg["DFPkeyTest"]);
+        }
+
+                    PetArticleID = "69504";
+        
+        var extractHost = function(uri){
+            if (typeof(uri) !== 'string') {
+                return 'null';
+            }
+            var re = /^https?:\/\/([^\/]+)(\/.*)?$/;
+            var match = uri.match(re);
+            return (match && match.length > 1) ? match[1] : 'null';
+        };
+
+        googletag.pubads().setTargeting('articleID', PetArticleID);
+
+        googletag.pubads().setTargeting('contentsID', PetDFPcontentsID);
+        googletag.pubads().setTargeting('versionID', PetDFPVersionID);
+        googletag.pubads().setTargeting('tagID', PetTagID);
+        googletag.pubads().setTargeting('referrerUrl', location.href);
+        googletag.pubads().setTargeting('hostName', location.hostname);
+        googletag.pubads().setTargeting('pathName', location.pathname);
+        googletag.pubads().setTargeting('documentReferrerHost', extractHost(document.referrer));
+
+        //中央ビルボード、ビッグバナー
+        googletag.defineSlot('/271891203/PET_PC/M_UP_bnr_950x250', [950, 250], 'div-M_UP_bnr_950x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_BT_bnr_728x90', [728, 90], 'div-M_BT_bnr_728x90').addService(googletag.pubads());
+
+        //右枠レクタングル
+        googletag.defineSlot('/271891203/PET_PC/R_UP_bnr_300x250', [300, 250], 'div-R_UP_bnr_300x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_bnr_300x250', [300, 250], 'div-R_MD_bnr_300x250').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_BT_bnr_300x250', [300, 250], 'div-R_BT_bnr_300x250').addService(googletag.pubads());
+
+        //右枠インフィード
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_1').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/R_MD_inf_fluid', 'fluid', 'div-R_MD_inf_fluid_2').addService(googletag.pubads());
+
+        //中央レクタングル
+        googletag.defineSlot('/271891203/PET_PC/M_MD_bnr_300x250', [300, 250], 'div-M_MD_bnr_300x250_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_bnr_300x250', [300, 250], 'div-M_MD_bnr_300x250_1').addService(googletag.pubads());
+
+        //中央インフィード
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_1').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_2').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_3').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_4').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid', 'fluid', 'div-M_MD_inf_fluid_5').addService(googletag.pubads());
+
+        //記事下タイアップ
+        googletag.defineSlot('/271891203/PET_PC/M_MD_kiji_fluid', ['fluid',[1,1]], 'div-M_MD_kiji_fluid_0').setTargeting('position', 'top').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_kiji_fluid', ['fluid',[1,1]], 'div-M_MD_kiji_fluid_1').setTargeting('position', 'mid').addService(googletag.pubads());
+
+        //コーナースポンサード誘導枠
+        googletag.defineSlot('/271891203/PET_PC/M_MD_gtxt_fluid', ['fluid',[1,1]], 'div-M_MD_gtxt_fluid_0').addService(googletag.pubads());
+        googletag.defineSlot('/271891203/PET_PC/M_MD_gtxt_fluid', ['fluid',[1,1]], 'div-M_MD_gtxt_fluid_1').addService(googletag.pubads());
+
+        //自社広インフィード枠
+        googletag.defineSlot('/271891203/PET_PC/M_MD_inf_fluid_ha', ['fluid',[1,1]], 'div-M_MD_inf_fluid_ha').addService(googletag.pubads());
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.enableServices();
+
+        //loglyインフィード
+        googletag.defineSlot('/271891203/PET_PC/M_MD_logly_fluid', ['fluid'], 'div-M_MD_logly_fluid_0').addService(googletag.pubads());
+    });
+</script>
+<!-- ##### DFP HEAD TAG END ##### -->
+
+<!-- outbrain
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+ /outbrain -->
+    
+            <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://dog.benesse.ne.jp/lovedog/content/?id=69504",
+    "headline": "同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる｜いぬのきもち",
+    "description": "犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？　今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に「同時期に2匹（複数匹）家族に迎えたか」どうか、アンケート調査を実施しました。",
+    "datePublished": "2020-03-23T15:04:20.000+09:00",
+    "dateModified": "2020-10-10T19:00:11.000+09:00",
+    "author": {
+        "@type": "Organization",
+        "name": "いぬのきもちWeb編集室"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "いぬのきもちWeb編集室",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://dog.benesse.ne.jp/share/img/pc/common/og_1200_630.png",
+            "width": 1200,
+            "height": 630
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg",
+        "width": 640,
+        "height": 480
+    }
+}
+</script>
+        <script type="application/ld+json">
+        {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "いぬのきもち",
+            "item": "https://dog.benesse.ne.jp"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "犬が好き",
+            "item": "https://dog.benesse.ne.jp/lovedog/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "雑学・豆知識",
+            "item": "https://dog.benesse.ne.jp/tags/?id=573"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる",
+            "item": "https://dog.benesse.ne.jp/lovedog/content/?id=69504"
+        }
+    ]
+}
+</script>
+            </head>
+<body class="theme_detail">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TX6427"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Yahoo Tag Manager -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=EBITKMm";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+	<iframe src="//b.yjtag.jp/iframe?c=EBITKMm" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+
+<!-- End Yahoo Tag Manager -->
+<header id="header" class="l-header">
+  <div class="header_wrap">
+    <div class="inner">
+      <p class="header_logo"> <a href="/"><img src="/share/renewal_design/img/cmn_lg_dog.png" alt="いぬのきもち" class="logo_dog"> </a> </p>
+      <nav class="header_nav">
+        <ul class="gnav">
+            <li class="here"><a href="/tags/?id=578,573">雑学お楽しみ</a></li>
+            <li><a href="/tags/?id=569">しつけ</a></li>
+            <li><a href="/tags/?id=571,572">生態・健康</a></li>
+            <li><a href="/tags/?id=577,576,574,570">飼い方</a></li>
+            <li><a href="/tags/?id=575,2109">漫画・コラム</a></li>
+            <li><a href="/gallery/">投稿写真</a></li>
+            <li><a href="/doglist/">犬図鑑</a></li>
+            <li><a href="/soudan/">獣医師Q&amp;A</a></li>
+            <li><a href="https://pet.benesse.ne.jp/hospital/">病院を探す</a></li>
+            <li><a href="/tags/?id=2111">犬の解説記事</a></li>
+            <li><a href="/expert/">専門家一覧</a></li>
+            <li><a href="/tagindex/">タグ一覧</a></li>
+        </ul>
+      </nav>
+			<p class="menu"><a href="javascript:void(0)"></a></p>
+    </div>
+        <div id="menu">
+            <div class="search_area">
+                <form action="/search/" class="ad_search">
+                    <input id="q" type="text" name="q" value="" placeholder="しつけ しぐさ 知りたいワードで探す♪">
+                    <input type="submit" value="検索">
+                </form>
+            </div>
+            <ul id="tab">
+                <li class="tab-01 select"><a href="javascript:void(0)">カテゴリ</a></li>
+                <li class="tab-02"><a href="javascript:void(0)">サブカテゴリ</a></li>
+            </ul>
+            <div class="tab">
+                <h2><a href="/doglist/">犬種</a></h2>
+                <h2><a href="/tags/?id=583">食事・ドッグフード</a></h2>
+                <h2><a href="/tags/?id=569">しつけ</a></h2>
+                <h2><a href="/tags/?id=577">飼い方</a></h2>
+                <h2><a href="/tags/?id=570">お手入れ</a></h2>
+                <h2><a href="/tags/?id=571">しぐさ・生態</a></h2>
+                <h2><a href="/tags/?id=572">健康・病気</a></h2>
+                <h2><a href="/tags/?id=573">雑学・豆知識</a></h2>
+                <h2><a href="/tags/?id=574">グッズ</a></h2>
+                <h2><a href="/tags/?id=575">連載</a></h2>
+                <h2><a href="/tags/?id=578">エンタメ</a></h2>
+                <h2><a href="/tags/?id=576">お出かけ</a></h2>
+            </div>
+            <div class="tab hide">
+                <h2><a href="/doglist/">犬種</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=702">トイ・プードル</a></li>
+                    <li><a href="/tags/?id=699">チワワ</a></li>
+                    <li><a href="/tags/?id=582">柴犬</a></li>
+                    <li><a href="/tags/?id=1106">Ｍｉｘ（雑種）小型犬</a></li>
+                    <li><a href="/tags/?id=849">ポメラニアン</a></li>
+                    <li><a href="/tags/?id=850">ミニチュア・ダックスフンド</a></li>
+                    <li><a href="/tags/?id=1108">Ｍｉｘ（雑種）大型犬</a></li>
+                    <li><a href="/tags/?id=1107">Ｍｉｘ（雑種）中型犬</a></li>
+                    <li><a href="/tags/?id=861">ミニチュア・シュナウザー</a></li>
+                    <li><a href="/tags/?id=880">ヨークシャー・テリア</a></li>
+                    <li><a href="/tags/?id=847">マルチーズ</a></li>
+                    <li><a href="/tags/?id=859">シー・ズー</a></li>
+                    <li><a href="/tags/?id=852">フレンチ・ブルドッグ</a></li>
+                    <li><a href="/tags/?id=1569">カニーンヘン・ダックスフンド</a></li>
+                    <li><a href="/tags/?id=905">ゴールデン・レトリーバー</a></li>
+                    <li><a href="/tags/?id=853">パグ</a></li>
+                    <li><a href="/tags/?id=856">パピヨン</a></li>
+                    <li><a href="/tags/?id=863">キャバリア・キング・チャールズ・スパニエル</a></li>
+                    <li><a href="/tags/?id=854">ウェルシュ・コーギー・ペンブローク</a></li>
+                    <li><a href="/tags/?id=870">ビション・フリーゼ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=583">食事・ドッグフード</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=584">栄養</a></li>
+                    <li><a href="/tags/?id=659">危険な食べ物</a></li>
+                    <li><a href="/tags/?id=999">ドッグフードＱ＆Ａ</a></li>
+                    <li><a href="/tags/?id=1000">ドッグフードガイド</a></li>
+                </ul>
+                <h2><a href="/tags/?id=569">しつけ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=691">噛む</a></li>
+                    <li><a href="/tags/?id=692">留守番</a></li>
+                    <li><a href="/tags/?id=693">マーキング</a></li>
+                    <li><a href="/tags/?id=694">マウンティング</a></li>
+                    <li><a href="/tags/?id=695">いたずら</a></li>
+                    <li><a href="/tags/?id=696">引っ張る</a></li>
+                    <li><a href="/tags/?id=697">唸る</a></li>
+                    <li><a href="/tags/?id=698">吠え</a></li>
+                    <li><a href="/tags/?id=947">トイレ</a></li>
+                    <li><a href="/tags/?id=961">オイデ</a></li>
+                    <li><a href="/tags/?id=980">コマンド・命令</a></li>
+                </ul>
+                <h2><a href="/tags/?id=577">飼い方</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=607">遊び</a></li>
+                    <li><a href="/tags/?id=608">散歩</a></li>
+                    <li><a href="/tags/?id=609">トラブル</a></li>
+                    <li><a href="/tags/?id=610">災害対策</a></li>
+                    <li><a href="/tags/?id=611">飼い始め</a></li>
+                    <li><a href="/tags/?id=612">多頭飼い</a></li>
+                    <li><a href="/tags/?id=613">餌</a></li>
+                    <li><a href="/tags/?id=1004">ペットロス</a></li>
+                    <li><a href="/tags/?id=1062">睡眠</a></li>
+                    <li><a href="/tags/?id=1742">共働き　</a></li>
+                    <li><a href="/tags/?id=1743">一人暮らし</a></li>
+                    <li><a href="/tags/?id=1739">家族と犬</a></li>
+                    <li><a href="/tags/?id=1744">しつけ教室・トレーナー</a></li>
+                </ul>
+                <h2><a href="/tags/?id=570">お手入れ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=682">シャンプー・お風呂</a></li>
+                    <li><a href="/tags/?id=683">ブラッシング</a></li>
+                    <li><a href="/tags/?id=684">マッサージ</a></li>
+                    <li><a href="/tags/?id=685">耳掃除</a></li>
+                    <li><a href="/tags/?id=686">爪切り</a></li>
+                    <li><a href="/tags/?id=687">歯磨き</a></li>
+                    <li><a href="/tags/?id=688">肛門腺絞り</a></li>
+                    <li><a href="/tags/?id=689">抜け毛</a></li>
+                    <li><a href="/tags/?id=690">トリミング</a></li>
+                </ul>
+                <h2><a href="/tags/?id=571">しぐさ・生態</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=672">行動</a></li>
+                    <li><a href="/tags/?id=673">鳴き声</a></li>
+                    <li><a href="/tags/?id=674">生理</a></li>
+                    <li><a href="/tags/?id=675">性格</a></li>
+                    <li><a href="/tags/?id=676">オス</a></li>
+                    <li><a href="/tags/?id=677">メス</a></li>
+                    <li><a href="/tags/?id=678">しっぽ</a></li>
+                    <li><a href="/tags/?id=679">おしり</a></li>
+                    <li><a href="/tags/?id=680">肉球</a></li>
+                    <li><a href="/tags/?id=681">コミュニケーション</a></li>
+                    <li><a href="/tags/?id=956">ジャンプ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=572">健康・病気</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=587">肥満・ダイエット</a></li>
+                    <li><a href="/tags/?id=649">暑さ対策・熱中症</a></li>
+                    <li><a href="/tags/?id=650">寒さ対策</a></li>
+                    <li><a href="/tags/?id=651">ストレス</a></li>
+                    <li><a href="/tags/?id=652">予防接種・ワクチン</a></li>
+                    <li><a href="/tags/?id=653">事故・ケガ防止</a></li>
+                    <li><a href="/tags/?id=654">病気の兆候</a></li>
+                    <li><a href="/tags/?id=655">サプリメント</a></li>
+                    <li><a href="/tags/?id=656">保険</a></li>
+                    <li><a href="/tags/?id=657">ダニ・ノミ・寄生虫</a></li>
+                    <li><a href="/tags/?id=588">アレルギー</a></li>
+                    <li><a href="/tags/?id=658">薬・投薬</a></li>
+                    <li><a href="/tags/?id=586">避妊・去勢</a></li>
+                    <li><a href="/tags/?id=585">健康管理・健康診断</a></li>
+                    <li><a href="/tags/?id=659">危険な食べ物</a></li>
+                    <li><a href="/tags/?id=660">病気の予防</a></li>
+                    <li><a href="/tags/?id=661">白内障</a></li>
+                    <li><a href="/tags/?id=662">皮膚病</a></li>
+                    <li><a href="/tags/?id=663">目の病気</a></li>
+                    <li><a href="/tags/?id=664">耳の病気</a></li>
+                    <li><a href="/tags/?id=665">誤飲誤食</a></li>
+                    <li><a href="/tags/?id=666">狂犬病</a></li>
+                    <li><a href="/tags/?id=667">歯周病</a></li>
+                    <li><a href="/tags/?id=668">口臭</a></li>
+                    <li><a href="/tags/?id=669">動物病院</a></li>
+                    <li><a href="/tags/?id=670">介護</a></li>
+                    <li><a href="/tags/?id=671">体重</a></li>
+                    <li><a href="/tags/?id=949">交配</a></li>
+                    <li><a href="/tags/?id=962">診療費</a></li>
+                    <li><a href="/tags/?id=966">いぬのきもち相談室</a></li>
+                    <li><a href="/tags/?id=969">アンチエイジング</a></li>
+                    <li><a href="/tags/?id=1058">発情</a></li>
+                </ul>
+                <h2><a href="/tags/?id=573">雑学・豆知識</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=644">保護活動</a></li>
+                    <li><a href="/tags/?id=645">保護犬</a></li>
+                    <li><a href="/tags/?id=646">名前</a></li>
+                    <li><a href="/tags/?id=647">里親</a></li>
+                    <li><a href="/tags/?id=648">資格</a></li>
+                    <li><a href="/tags/?id=1738">法律・条例</a></li>
+                </ul>
+                <h2><a href="/tags/?id=574">グッズ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=625">3コインズ</a></li>
+                    <li><a href="/tags/?id=626">セリア</a></li>
+                    <li><a href="/tags/?id=627">ザ・ダイソー</a></li>
+                    <li><a href="/tags/?id=628">おもちゃ</a></li>
+                    <li><a href="/tags/?id=629">犬雑貨</a></li>
+                    <li><a href="/tags/?id=630">トイレグッズ</a></li>
+                    <li><a href="/tags/?id=631">ドッグフード</a></li>
+                    <li><a href="/tags/?id=632">おやつ</a></li>
+                    <li><a href="/tags/?id=1687">しつけグッズ</a></li>
+                    <li><a href="/tags/?id=633">お出かけグッズ</a></li>
+                    <li><a href="/tags/?id=634">Can Do（キャンドゥ）</a></li>
+                    <li><a href="/tags/?id=635">100円ショップ</a></li>
+                    <li><a href="/tags/?id=636">いぬのきもちふろく</a></li>
+                    <li><a href="/tags/?id=637">ファッション</a></li>
+                    <li><a href="/tags/?id=638">ケージ</a></li>
+                    <li><a href="/tags/?id=639">ベッド</a></li>
+                    <li><a href="/tags/?id=641">防災グッズ</a></li>
+                    <li><a href="/tags/?id=642">IKEA</a></li>
+                    <li><a href="/tags/?id=643">ニトリ</a></li>
+                    <li><a href="/tags/?id=948">インテリア</a></li>
+                    <li><a href="/tags/?id=979">選び方</a></li>
+                    <li><a href="/tags/?id=2107">リード・首輪</a></li>
+                    <li><a href="/tags/?id=1746">カート</a></li>
+                    <li><a href="/tags/?id=2113">クレート</a></li>
+                    <li><a href="/tags/?id=640">消臭衛生グッズ</a></li>
+                </ul>
+                <h2><a href="/tags/?id=575">連載</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=619">穴澤賢の犬のはなし</a></li>
+                    <li><a href="/tags/?id=623">柴犬かぼすちゃん</a></li>
+                    <li><a href="/tags/?id=624">柴犬マロたん</a></li>
+                    <li><a href="/tags/?id=1056">暮瀬姉弟と吉田くん</a></li>
+                    <li><a href="/tags/?id=1074">初音じゃけえ</a></li>
+                    <li><a href="/tags/?id=1022">犬のオモシロ習性図鑑</a></li>
+                    <li><a href="/tags/?id=621">いぬのきもち</a></li>
+                    <li><a href="/tags/?id=622">いぬのきもち健保</a></li>
+                    <li><a href="/tags/?id=1750">RoomClip</a></li>
+                    <li><a href="/tags/?id=1756">モフモフ柴とプニプニ娘</a></li>
+                    <li><a href="/tags/?id=2109">ライフスタイル</a></li>
+                    <li><a href="/tags/?id=2117">おばあちゃん犬がやってきた</a></li>
+                    <li><a href="/tags/?id=1167">愛犬のための法律事典</a></li>
+                    <li><a href="/tags/?id=1151">犬にやさしく人にやさしい社会へ</a></li>
+                    <li><a href="/tags/?id=620">マシューとマルモ友達100ワンできるかな？（連載終了）</a></li>
+                    <li><a href="/tags/?id=1737">「愛犬は大切な家族」エピソード（連載終了）</a></li>
+                    <li><a href="/tags/?id=1751">柴公園（連載終了）</a></li>
+                    <li><a href="/tags/?id=1749">吉田山田（連載終了）</a></li>
+                </ul>
+                <h2><a href="/tags/?id=578">エンタメ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=596">癒し</a></li>
+                    <li><a href="/tags/?id=597">感動</a></li>
+                    <li><a href="/tags/?id=598">特技</a></li>
+                    <li><a href="/tags/?id=599">失敗</a></li>
+                    <li><a href="/tags/?id=581">あるある</a></li>
+                    <li><a href="/tags/?id=579">かわいい</a></li>
+                    <li><a href="/tags/?id=580">おもしろ</a></li>
+                    <li><a href="/tags/?id=600">驚き</a></li>
+                    <li><a href="/tags/?id=601">トレンド</a></li>
+                    <li><a href="/tags/?id=602">本・漫画紹介</a></li>
+                    <li><a href="/tags/?id=603">イベント・催事</a></li>
+                    <li><a href="/tags/?id=604">人気犬</a></li>
+                    <li><a href="/tags/?id=605">海外事情</a></li>
+                    <li><a href="/tags/?id=606">映画紹介</a></li>
+                    <li><a href="/tags/?id=964">インスタグラム</a></li>
+                    <li><a href="/tags/?id=968">ハロウィン</a></li>
+                    <li><a href="/tags/?id=1014">子犬と子犬</a></li>
+                    <li><a href="/tags/?id=1012">犬と猫</a></li>
+                    <li><a href="/tags/?id=1013">犬と他の動物</a></li>
+                    <li><a href="/tags/?id=1015">犬と犬</a></li>
+                    <li><a href="/tags/?id=985">友情</a></li>
+                    <li><a href="/tags/?id=986">絆</a></li>
+                    <li><a href="/tags/?id=993">寝顔</a></li>
+                    <li><a href="/tags/?id=994">youtube</a></li>
+                    <li><a href="/tags/?id=1006">ツイッター</a></li>
+                </ul>
+                <h2><a href="/tags/?id=576">お出かけ</a></h2>
+                <ul>
+                    <li><a href="/tags/?id=614">ドッグラン</a></li>
+                    <li><a href="/tags/?id=615">ドッグカフェ</a></li>
+                    <li><a href="/tags/?id=616">ペットホテル</a></li>
+                    <li><a href="/tags/?id=617">旅行</a></li>
+                    <li><a href="/tags/?id=618">ドライブ</a></li>
+                    <li><a href="/tags/?id=952">プール</a></li>
+                    <li><a href="/tags/?id=953">海</a></li>
+                    <li><a href="/tags/?id=954">山</a></li>
+                    <li><a href="/tags/?id=955">川</a></li>
+                </ul>
+            </div>
+            <!-- /menu --></div>
+    </div>
+</header>
+<!-- /l-header -->
+    <section class="bread_area">
+        <div class="inner">
+            <ol>
+                <li>
+                    <a href="/">トップ</a>
+                </li>
+                <li>
+                    <a href="/lovedog/">犬が好き</a>
+                </li>
+                <li>
+            <a href="/tags/?id=573">雑学・豆知識</a>
+        </li>
+                            <li>
+                    同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる
+                </li>
+            </ol>
+        </div>
+    </section>
+<section>
+	<div class="bannar_area">
+
+		<!-- /271891203/PET_PC/M_UP_bnr_950x250 -->
+        <div id="div-M_UP_bnr_950x250">
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_UP_bnr_950x250'); });
+			</script>
+		</div>
+
+	</div>
+</section>
+<senction class="l-container mt_normal">
+    <div class="inner">
+        <main class="l-contents">
+                <article>
+        <section class="article_detail_item">
+            <p class="article_description_category">犬が好き</p>
+            <p class="article_description_update"><time>2020/10/10</time> UP DATE</p>
+            <h1 class="ttl_primary_ver3">同時期に、それとも時期をずらして迎える？　犬の「多頭飼い」経験者が語るリアルな体験談が参考になる</h1>
+<ul class="sns_list_secondary">
+    <li>
+      <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdog.benesse.ne.jp%2Flovedog%2Fcontent%3Fid%3D69504%250A&layout=button&size=small&mobile_iframe=true&appId=1958400984423012&width=61&height=20" width="61" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </li>
+    <li>
+      <script>
+                ! function(d, s, id)
+                {
+                    var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id))
+                    {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+      </script>
+      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+    </li>
+    <li>
+      <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://dog.benesse.ne.jp/lovedog/content?id=69504%0A" style="display: none;"></div>
+      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+    </li>
+    <li>
+      <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加">
+        <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+      </a>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    </li>
+    <li class="pinterest">
+      <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
+    </li>
+  </ul>
+<div class="ad_article_detail">
+    
+                
+        
+                                  
+                                                                <p class="article_detail_description mb_normal">犬の多頭飼いに憧れを抱いている犬飼いさんは多いと思いますが、「どのタイミングで迎え入れるべきか」など、気になっている方もいるのではないでしょうか？<br />
+<br />
+今回いぬのきもちWEB MAGAZINEでは、犬の多頭飼いをしている飼い主さん119名に<b>「犬を迎え入れた時期」</b>についてアンケート調査を実施してみました。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >同時期に2匹（複数匹）家族に迎え入れた？</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_976272a4-7ae9-4d44-8991-7bd0f60e506a.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_976272a4-7ae9-4d44-8991-7bd0f60e506a.jpg" alt="いぬのきもちWEB MAGAZINE　犬の多頭飼いに関するアンケートvol.01">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/survey/91422419-8e68-43bb-aba2-8741a30d2502" target="_blank">いぬのきもちWEB MAGAZINE　犬の多頭飼いに関するアンケートvol.01　119件の回答</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">「犬を同時期に2匹（複数匹）を迎え入れた」という飼い主さんがどれくらいいるかを調査したところ、飼い主さんの約2割が「同時期に迎えた」と回答。多くの飼い主さんは、時期をずらして先住犬のもとに新入り犬を迎えたようですね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【体験談】同時期に複数飼って思う「よかったこと」と「大変なこと」</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_5334e1af-1818-4e4d-984d-84b671bba51a.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_5334e1af-1818-4e4d-984d-84b671bba51a.jpg" alt="お座りするミニチュア・シュナウザー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/475555" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">ここからは、同時期に複数の犬を迎えた飼い主さんたちの体験談を紹介します。「よかったこと」「大変だったこと」について、お話を聞いてみました。<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「一頭一頭個性がありとても楽しかった」<br />
+<br />
+<br />
+・「お留守番のときは、2頭で遊んでいるようで心配しなくて良い。雨降りの散歩は1匹ずつになるので時間が必要で大変です」<br />
+<br />
+<br />
+・「いつも2頭一緒なので、淋しくはないと思います。しつけが、大変です。1頭に教えて褒めたら、もう1頭が拗ねます」<br />
+<br />
+<br />
+・「半年違いで飼ったのですが、お留守番などは2頭一緒なので少し安心。病院に行くときなど、1頭でお留守番したことないので、2頭連れて行かなきゃいけない」<br />
+<br />
+<br />
+・「よかったのは他の犬への慣れが苦労なくできたこと。大変だったのは散歩慣れしてない頃に1人で2頭を散歩させたこと」<br />
+<br />
+<br />
+・「同じ月齢（3カ月）の子だったので遊び相手には困らなかった。何をするにも一緒なので、ワクチンやごはんなどの出費はいたかった」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_2e456bf4-8dd8-465e-abc5-86a636f66868.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_2e456bf4-8dd8-465e-abc5-86a636f66868.jpg" alt="おやつ待ちをするミニチュア・ダックスフンド">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/474455" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「犬同士で遊びまわってて飼って良かったが、しつけがすごく大変だった！」<br />
+<br />
+<br />
+・「良かったことはじゃれ合う姿に幸せを感じたこと。大変だったことは、たとえばシートにゆるいウンチがあっても、その瞬間を見ていないと、誰が体調を崩しているのかわからないこと」<br />
+<br />
+<br />
+・「いろいろ事情があって同時に子犬2頭飼うことになりましたが、2頭の中がとても良くずっとくっついて一緒に遊んでる姿はとても癒されました。トイレの失敗をどっちがしたのかわからないのは困ったかな」<br />
+<br />
+<br />
+・「3頭産まれて、孫のようで手放せずそのまま飼うことに。ちゃんと授乳するか、夜中も目覚ましを3時間おきにセットし授乳を見守って寝不足に！　しつけが3頭同時にはできず、ダラダラに。。　ショップだと離乳食期くらいからの大きさからの育犬だけど、産まれたて、へその緒を切るところからの育犬に喜びもひとしお！」</b><br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">よかった点で多かったのが、「犬たちの個性の違いなど、いろんな姿を見ることができる」「遊び相手ができて楽しそう」「さみしくなさそう、お留守番のときも安心」などといった声でした。<br />
+<br />
+一方で大変だった点では、「しつけを同時にしなければならない」「お金が2倍以上かかる」「下痢や嘔吐をしたときに、誰がしたのかわからないことがある」などといった声が寄せられています。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【体験談】時期をずらして先住犬のもとに新入り犬を迎えたことで思う「よかったこと」と「大変なこと」</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_426fea0f-d120-4590-ad14-7cbe5a6064a2.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_426fea0f-d120-4590-ad14-7cbe5a6064a2.jpg" alt="おやつを見るトイ・プードル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/472029" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">また、時期をずらして先住犬のもとに新入り犬を迎えた経験のある飼い主さんにも、「よかったこと」「大変だったこと」についてお話を聞いてみることに。<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「トイレなど先住犬がいろいろと教えてくれた」<br />
+<br />
+<br />
+・「当初は、先住犬がやきもちをやいて大変でしたが、順位をしっかり守り、接することで落ち着きました。2頭で、付かず離れず良い関係を保っています」<br />
+<br />
+<br />
+・「1頭目の犬のおかげでしつけや接し方に慣れてきていたので、2頭目を迎え入れたときに2頭を慣れさせるだけで済んだのでとても楽でした」<br />
+<br />
+<br />
+・「先住犬の刺激になって元気になった。かまってもらおうとアピールがすごい。2頭のできることとできないことがまったく違うので、遊んだり、グルーミンングやしつけのときのどれも褒めるバランスが難しいです」<br />
+<br />
+<br />
+・「良かったことは、歳とって、動くのが億劫になっていた先住犬が、刺激を受けて元気に散歩するようになったこと。大変なのは、普段、新入り犬が先住犬にちょっかいを出し過ぎなところ」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_9fb462c3-6a1c-4ea7-bff6-77a6cc4dd230.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_9fb462c3-6a1c-4ea7-bff6-77a6cc4dd230.jpg" alt="見つめるボーダー・コリー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/449069" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「同時期でないものの、先住犬が1才になるちょっと前に同じ月齢の子を迎え入れました。いたずらが2倍になりました。先住犬にとっては戸惑いがあったでしょうけど、遊び相手ができたようでこちらも幸せな気持ちでした」<br />
+<br />
+<br />
+・「最初の1年は仲良くならず、先住犬は知らん顔だし新入りは『あたしあたしー！』と自己主張が激しい子でダメかもと思ったけど、今はとても仲良しです。ドッグランで新入りが追い込まれてると助けにいきます」<br />
+<br />
+<br />
+・「先住犬はとても活発で遊ぶのが大好きなので、常に遊び相手ができたところがよかったです。大変なのは、2頭続けてトイレをすることがあり（大も小も）、それを片付けるのに大変でした」<br />
+<br />
+<br />
+・「9才と2カ月だったので、新入りが8カ月になった今も、新入りが激しすぎて先住犬が困ってる」<br />
+<br />
+<br />
+・「よかったことは、時期をずらしたことですべてのことがゼロからでなかったこと。大変だったことは、先住犬のしつけが一段落して、また新入り犬にイチからしつけを教えなくてはならないこと」</b><br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_f0402ae0-f668-46fb-835c-de62f33a6835.jpg" alt="くつろぐ柴犬">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/470284" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>・「上の子も下の子ができたことで先輩としての成長が見られた。1匹のときと、兄弟ができたときで上の子の見たことない顔が見られる。でも、下の子に注意がいく分、上の子に構ってあげられる時間が少なくなってしまった」<br />
+<br />
+<br />
+・「先住犬が1才になってすぐに来たので、遊び相手になって楽しく走り回ってるのを見ると良かったなぁと思う。大変なのは病院代が2倍なのです。それをわかってて迎え入れたので、良かったほうが大きいです」<br />
+<br />
+<br />
+・「先住犬が警戒が強く、なかなか仲良くなれない」<br />
+<br />
+<br />
+・「保護犬を迎えたんですが、先住犬が犬社会のことを教えてくれました。また、おもちゃの遊び方も教えてました」<br />
+<br />
+<br />
+・「2頭目を迎えて半年くらいは、大変でした（チョロチョロしているし、トイレトレーニングなど）。先住犬もストレスで血便が出てしまったり、後悔したこともありましたが、3年近く経った今は2頭いるのが当たり前の生活になり、日々可愛さに癒されています」</b><br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">よかった点では、「先住犬が新入り犬の面倒を見てくれる」「お互いにいい遊び相手になっている」などといった声が寄せられています。飼い主さんも先住犬のお世話の経験で慣れていることもあり、余裕があったと感じる人もいるようですね。<br />
+<br />
+一方、大変だった点では、「新入り犬にかまいすぎて、先住犬がやきもちをやく」「先住犬が戸惑っていた」「なかなか仲良くなれず困っている」などといった声が。先住犬と新入り犬の相性が合わず、関係性に悩んでいる飼い主さんもいるようですね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【解説】「2頭同時」と「後でもう1頭」…犬の多頭飼いはどっちがいいの？</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_bde88cca-d20d-4ca0-be02-0d69ada51233.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_bde88cca-d20d-4ca0-be02-0d69ada51233.jpg" alt="寝転がるビーグル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/440243" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">同時期に2頭（複数）迎えた飼い主さん、時期をずらして迎えた飼い主さん、それぞれの体験談をご紹介してきました。<br />
+<br />
+どちらにもいい面・大変な面があるようですが、犬を多頭飼いする場合、実際どちらが望ましいのでしょうか…？<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">可能であれば、1頭目を成犬まで育てあげてから、次のコを迎えるのがおすすめ</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">いぬのきもち獣医師相談室の先生によると、可能であれば<b>「1頭目を成犬まで育てあげてから、次のコを迎える</b>」のがおすすめだそう。<b>先住犬が新入り犬を教育してくれて、飼い主さんと協力してお世話をしてくれることもある</b>からです。<br />
+<br />
+子犬を同時期に迎える場合、子犬たちそれぞれの健康状態を見ることは簡単なことではありません。元気や食欲、排尿・排便の状態、体重の変化など、1頭をお世話するだけでもとても大変ですよね。<br />
+<br />
+さらに、子犬の頃はトイレのしつけや甘噛み、食糞など…それに応じたしつけをしなければなりません。病気になったときには通院、投薬なども必要になり、それが複数だと大変です。<b>子犬を迎えたことがない方は、とくに時期をずらして飼ったほうがよい</b>でしょう。<br />
+<br />
+また、子犬の頃から複数の犬を家族に迎えた場合、同時に年齢を重ねていくので、シニアになったときに同じ時期に闘病、介護が始まるかもしれない…ということを理解しておきましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">同じ時期に子犬を2頭飼うのは、メリットもある</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">一方で、同じ時期に子犬を2頭飼うことはメリットもあると、いぬのきもち獣医師相談室の先生は話します。<br />
+<br />
+たとえば…<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b><ul><li>2頭で遊んでくれることもあるため、飼い主さんが遊び相手をする時間が少なくて済むこともある。</li><li>飼い主さんでは教えることのできない、犬同士にしかわからない遊びや楽しさがあり、犬らしい生活ができる。</li></ul></b></p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">といった利点もあるそうです。飼い主さんの体験談からもそうした声が寄せられていましたよね。<br />
+<br />
+</p>
+                                                        
+                                                                <h2 class="ttl_secondary_ver1" >【解説】多頭飼いを決断する前に飼い主さんが確認すべき6つのこと</h2>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_ed0996c8-5c40-47b2-bbe0-28e66d1e7b3c.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_ed0996c8-5c40-47b2-bbe0-28e66d1e7b3c.jpg" alt="じゃれ合うシベリアン・ハスキー">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/386733" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">飼い主さんたちの経験談を見て、これから多頭飼いをしたいと思っている人は、不安になってしまったかもしれません。<br />
+<br />
+最後に、これから多頭飼いをしたいと考えている人に確認してほしい6つのことを紹介します。すでに先住犬がいる飼い主さんは、先住犬のことも考慮してあげることが大切に。ぜひ参考にしてみてください！<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">①先住犬の性格を考慮しよう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>先住犬の性格が神経質だったり、過度に臆病である場合、ほかの犬を受け入れられない</b>ことも。また、<b>先住犬が吠える、噛む、分離不安などの問題行動があるような場合も、多頭飼いに向いていない</b>傾向にあります。<br />
+<br />
+「新しいコを迎えれば問題が解決するのでは？」と期待する人もいますが、場合によっては、新入り犬が先住犬のよくない行動をマネして、飼い主さんの負担が増えてしまうことも。<br />
+<br />
+ほかにも、<b>甘えん坊な性格の犬や、飼い主さんへの依存心が強い犬の場合、愛情が分散することを嫌がって、ほかの犬との生活を望まないコも</b>います。<br />
+<br />
+犬同士の相性が悪いと大きなストレスとなり、お互いに我慢した生活を強いることになります。それではかわいそうですよね。<br />
+<br />
+まずは、先住犬の性格を考慮してから多頭飼いを検討しましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">②犬同士の年齢が離れすぎている場合も難しいことが多いと知っておこう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">犬同士の年齢が離れすぎているケースでも、多頭飼いが難しいこともあります。<br />
+<br />
+たとえば、<b>先住犬と10才以上離れた子犬を新たに迎え入れることになった場合、先住犬が静かな生活を望むタイプのコだと疲れてしまう</b>ことも。<br />
+<br />
+ただ、なかには新入り犬の若さが刺激になっていい場合もあるので、飼い主さんは充分に見極めて多頭飼いを検討してみてくださいね。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">③「なぜ多頭飼いをしたいか？」を飼い主さん自身がよく考えよう</h3>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_a5cb6393-24f0-429d-87b0-26189504e857.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_a5cb6393-24f0-429d-87b0-26189504e857.jpg" alt="手のひらサイズのミニチュア・ダックスフンド">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/477188" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">飼い主さん自身、<b>「なぜ多頭飼いをしたいのか？」</b>をよく考えてみましょう。「家族を増やして楽しく暮らしたい」「気になるコと出会ってしまった」など、理由はさまざまでしょう。<br />
+<br />
+「先住犬のために多頭飼いをしたい」と考える飼い主さんもいるかもしれませんが、いざ望むような結果が得られなかったときに、犬も飼い主さんも幸せになれません。<br />
+<br />
+<b>新入り犬を迎えるのは、飼い主さん自身の責任</b>です。新しいコを迎えて、どんなことがあっても愛せる覚悟があるかどうかを、飼い主さんは自問自答してみましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">④多頭飼いを検討するときは、家族でよく話し合おう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">多頭飼いを検討する際、必ず家族と相談して協力することが大切です。いざ多頭飼いをしてみたものの、<b>「犬のお世話をするのはお母さんだけ」というケースがありますが、それは重労働</b>です。<br />
+<br />
+ごはんやお散歩などの日々のお世話、健康チェック、通院などをおこなうのはひとりでは大変です。飼い主さんに余裕がなくなると、犬の小さな異変にも気づけなくなってしまうこともあるでしょう。<br />
+<br />
+また、お世話する人が体調不良のときに、ほかの家族が犬のお世話をできないこともよくありません。<b>お世話を協力できる大人が犬の頭数と同じ人数、できればもう1名いるのが望ましい</b>です。そうすれば、ひとりあたりの負担も少なくなりますよね。<br />
+<br />
+誰かがお世話をできない状況になったとしても大丈夫なように、家族の協力は不可欠です。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">⑤金銭面に問題がないかよく考えよう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal"><b>フード代、フィラリア予防やワクチン代、トリミング代、その他医療費</b>など、犬を飼うとさまざまな面でお金がかかります。多頭飼いとなると、さらに金額が増えていきます。<br />
+<br />
+犬たちとともに10年以上生活するなかで、飼い主さん自身の生活が変わったり、病気をしたりなども考えられます。そのようなときでも、犬を飼い続けることのできる余裕があるのかどうか、よく考えましょう。<br />
+<br />
+とくに<b>動物病院に入院、手術となると、数十万単位のお金が必要</b>になります。多頭飼いの場合、犬が同時に病気になることも想定しておかなくてはなりません。<br />
+<br />
+今一度、金銭的な面で問題がないかを考えてみるようにしましょう。<br />
+<br />
+</p>
+                                                        
+                                                                <h3 class="ttl_thirdary_ver1">⑥災害時のことも考えておこう</h3>
+                                                        
+                                                                <p class="article_detail_description mb_normal">地震や台風などの災害が起こったとき、犬を連れて避難しなければならないこともあります。<b>何頭までであれば、飼い主さん自身で連れ出すことができるでしょうか？</b><br />
+<br />
+避難時は犬だけでなく、飼い主さん自身で必要なものはもちろん、犬のフードなどの必要品も持ち出すことになります。飼い主さんも犬も安全に避難できるかどうか、シミュレーションしてみてください。<br />
+<br />
+</p>
+                                                        
+                                                                <figure class="blockquote_area image_size_0">
+                     <a href="gallery/?id=69504%0A&amp;img_id=resized_7f0aec4f-d235-4235-9d30-eba85f8f215e.jpg">                         <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_7f0aec4f-d235-4235-9d30-eba85f8f215e.jpg" alt="見つめるトイ・プードル">
+                     </a>                                                                 <figcaption><a href="https://dog.benesse.ne.jp/gallery/photo/477196" target="_blank">いぬのきもち投稿写真ギャラリー</a></figcaption>
+                                    </figure>
+                                                        
+                                                                <p class="article_detail_description mb_normal">多頭飼いを検討する際には、「楽しそうだから」と安易に考えるのではなく、あらゆることを想定しておくことが大切です。<br />
+<br />
+「多頭飼いをしたいな」と考えている方は、犬も飼い主さんも幸せに暮らせるよう、ぜひ上記の6つのことを参考にしてみてくださいね！<br />
+<br />
+</p>
+                                                        
+                                                                <p class="article_detail_description mb_normal">『いぬのきもちWEB MAGAZINEアンケート　犬の多頭飼いに関するアンケートvol.01』<br />
+（監修：いぬのきもち・ねこのきもち獣医師相談室　担当獣医師）<br />
+※写真は「いぬ・ねこのきもちアプリ」で投稿されたものです。<br />
+※記事と写真に関連性はありませんので予めご了承ください。<br />
+文／雨宮カイ</p>
+                                      </div>
+<div class="text_r">
+    <div class="icon_category">CATEGORY &nbsp; 犬が好き</div>
+    <p class="font_color_light">
+        <time>2020/10/10</time> UP DATE</p>
+</div>
+    <!-- AIコメントいぬのきもち　START -->
+<div id="ulCommentWidget" style="clear:both; background-color:#f6f6f6; padding: 20px;"></div>
+<script>
+    var _ul_comment_config = _ul_comment_config||{};
+    _ul_comment_config['id'] = 'CM-RNbjG8Si';
+    _ul_comment_config['article_id'] = "69504";
+    _ul_comment_config['author'] = 'いぬのきもちWeb編集室';
+    _ul_comment_config['published_at'] = "2020-10-10 19:00:11";
+    _ul_comment_config['anonymous_report'] = true;
+    _ul_comment_config['url'] = "https://dog.benesse.ne.jp/lovedog/content?id=69504%0A";
+
+    (function (c, n, s) {if (c[n] === void 0) {c['ULObject'] = n;
+        c[n] = c[n] || function () {(c[n].q = c[n].q || []).push(arguments)};
+        c[n].l = 1 * new Date();var e = document.createElement('script');e.async = 1;
+        e.src = s + "/comment.js";var t = document.getElementsByTagName('script')[0];
+        t.parentNode.insertBefore(e, t);}})
+    (window, 'ul_comment_widget', 'https://cm-widget.nakanohito.jp/cm');
+    ul_comment_widget('init', _ul_comment_config);
+</script>
+<!-- AIコメントいぬのきもち　END -->
+<p class="random_banner mb_large"><a href="https://pet.benesse.ne.jp/dog/lp_tokuten/?utm_source=ownmedia&utm_medium=dog&utm_campaign=webarticle_bookdog2"><img src="/share/img/pc/bannar/bnr_honshi02.jpg" alt=""></a></p>
+        </section>
+        <section class="bottom">
+            <ul class="btn_list list_type_tag ad_large_tag">
+                    <li>
+            <a href="/tags/?id=563" class="icon_tag">まとめ</a>
+        </li>
+                    <li>
+            <a href="/tags/?id=573" class="icon_tag">雑学・豆知識</a>
+        </li>
+                    <li>
+            <a href="/tags/?id=612" class="icon_tag">多頭飼い</a>
+        </li>
+    </ul>
+<p class="mb_xsmall"><a href="/tagindex/" class="ad-txt_link">関連するキーワード一覧</a></p>
+        </section>
+        <!-- 1つ目の記事タイアップ広告 -->
+<div id='div-M_MD_kiji_fluid_0'></div>
+<script>
+    $('#div-M_MD_kiji_fluid_0').on('inview', function() {
+        //ブラウザの表示域に表示されたときに実行する処理
+        googletag.cmd.push(function() { googletag.display('div-M_MD_kiji_fluid_0'); });
+    });
+</script>
+        <ul class="sns_list_secondary">
+    <li>
+      <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fdog.benesse.ne.jp%2Flovedog%2Fcontent%3Fid%3D69504%250A&layout=button&size=small&mobile_iframe=true&appId=1958400984423012&width=61&height=20" width="61" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </li>
+    <li>
+      <script>
+                ! function(d, s, id)
+                {
+                    var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id))
+                    {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+      </script>
+      <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+    </li>
+    <li>
+      <div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://dog.benesse.ne.jp/lovedog/content?id=69504%0A" style="display: none;"></div>
+      <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+    </li>
+    <li>
+      <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加">
+        <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+      </a>
+      <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    </li>
+    <li class="pinterest">
+      <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
+    </li>
+  </ul>
+        <div class="mb_normal">
+            <ul class="bannar_list mb_normal">
+	<li>
+		<!-- 中央レクタングル1つ目の広告 -->
+		<div id='div-M_MD_bnr_300x250_0'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_MD_bnr_300x250_0'); });
+			</script>
+		</div>
+	</li>
+	<li>
+		<!-- 中央レクタングル２つ目の広告 -->
+		<div id='div-M_MD_bnr_300x250_1'>
+			<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-M_MD_bnr_300x250_1'); });
+			</script>
+		</div>
+	</li>
+</ul>
+        </div>
+        <h2 class="ttl_secondary_ver1 theme">人気テーマ</h2>
+<div class="mb_xlarge">
+  <ul class="theme_list">
+    <li id="div-M_MD_gtxt_fluid_0" style="display:none;">
+      <script type="text/javascript">googletag.cmd.push(function () {
+          googletag.display("div-M_MD_gtxt_fluid_0");
+        });</script>
+    </li>
+
+    <li id="div-M_MD_gtxt_fluid_1" style="display:none;">
+      <script type="text/javascript">googletag.cmd.push(function () {
+          googletag.display("div-M_MD_gtxt_fluid_1");
+        });</script>
+    </li>
+
+            <li>
+          <a href="/tags/?id=578" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">エンタメ</h3>
+            <p>犬好きなら誰でも共感しちゃう楽しいエッセイ・画像・動画をご紹介</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=575" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">連載</h3>
+            <p>ブログやSNSで人気の犬のコラムやエッセイが読める大人気連載</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=576" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">お出かけ</h3>
+            <p>愛犬とのおでかけが楽しくなるスポット情報やコツなど</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=558" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">動画</h3>
+            <p>犬好きにはたまらない！かわいい・面白い・感動の犬の動画</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=573" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">雑学・豆知識</h3>
+            <p>明日誰かに話したくなる犬にまつわる”あれこれ”ネタはこちら</p>
+          </a>
+        </li>
+        <li>
+          <a href="/tags/?id=574" class="theme_item">
+            <h3 class="ttl_thirdary_ver2">犬グッズ</h3>
+            <p>犬との暮らしに意外と使える100均グッズから、犬モチーフの雑貨まで</p>
+          </a>
+        </li>
+      </ul>
+</div>
+    </article>
+    <input type="hidden" id="article_total" name="article_total" value="4952">
+<input type="hidden" id="now" name="now" value="2">
+<section class="mb_normal">
+    <h2 class="ttl_primary_ver2">あわせて読みたい！<br>「犬が好き」の新着記事</h2>
+    <ul class="article_list_secondary article_new_secondary mb_small row2">
+                        <li>
+            <a href="/lovedog/content/?id=85077">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_9b7ad523-af48-4439-8455-cc9362705242.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「被災犬」を救助し続けSNSで発信した保護シェルター、著名コピーライターから届いたメッセージとは</h3>
+                    <p class="mb_xsmall">ここでは、犬と、犬を取り巻く社会がもっと幸せで素敵なものになるよう活動している方々をレポートします。今回は、2014年に、トリミングサロンと動物病院、保護シェルターを合わせた施設を都心にオープンした、ミグノンプランの活動をご紹介します。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=81824">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_59909491-fc6d-404c-855e-a9bebad1837d.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">子犬が「へそ天でスヤスヤ」「前足ピーン」柴犬の愛しい成長日記</h3>
+                    <p class="mb_xsmall">子犬の柴犬、こてつくん。へそ天しながらバンザイポーズで爆睡したり、ぬいぐるみとスヤスヤ眠ったり。ソファの上をよちよち歩き回る姿は、まるで動くぬいぐるみのよう♡　こてつくんの成長が垣間見れますね。柴犬好きも子犬好きも必見の動画です。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85101">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_d6076247-f3ab-4234-a3df-2f3026bdff9b.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">野犬の子犬を迎えて約7カ月が経過→「成長ビフォーアフター」に驚き！　家族になった今の心境を飼い主に聞いてみた</h3>
+                    <p class="mb_xsmall">2020年3月8日、Twitterユーザーの@raterate1224さんは保護犬・ラテちゃん（♀）を家族に迎えました。野犬の子犬だったというラテちゃんと家族になって、どんな日々を過ごし、そしてどのような心境なのか…いぬのきもちWEB MAGAZINEでは、ラテちゃんを迎えて1カ月の頃と7カ月が経った頃の2回に分けて、飼い主さんにお話を伺いました。ラテちゃんの成長ビフォーアフターにも注目しながら読んでみてくださいね！
+</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 1つ目の広告タグ -->
+        <!-- /271891203/PET_PC/div-M_MD_inf_fluid_0 -->
+        <li id='div-M_MD_inf_fluid_0'>
+            <script type='text/javascript'>googletag.cmd.push(function () {
+                    googletag.display('div-M_MD_inf_fluid_0');
+                });</script>
+        </li>
+                                                <li>
+            <a href="/lovedog/content/?id=81825">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_e72f1e30-992f-4547-9a48-1579d66cc82d.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">柴犬の大歓迎！しっぽフリフリどころか嬉しすぎて「おしりブンブン」が止まらない！</h3>
+                    <p class="mb_xsmall">今日はおうちに、柴犬のこてつくんが大好きなお友達が来る日です。こてつくん、しっぽをフリフリして大歓迎します！　ついでにおしりも勢いよくブンブン。しっぽが……というよりは、おしりが止まらないこてつくんの動画です。</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85108">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_014bba2e-8d4c-4639-b577-52848e13529c.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">柴犬マロたんの健康診断、寝耳に水の結果に落ち込んでしまったけれど…</h3>
+                    <p class="mb_xsmall">【連載】柴犬マロたん　毎年恒例の健康診断を受けたところ、気管虚脱（気管がつぶれている）だとわかったマロたん。詳しい検査結果が出るのはこれからですが、ものすごくショックで…</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85094">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_dc623458-73a5-4c11-b0a7-40fed68d4b97.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「陽の光が気持ちいいいワン」!?　コーギー兄妹のヘソ天ポーズが癒しの極みだった</h3>
+                    <p class="mb_xsmall">陽があたる場所って絶好のお昼寝ポイントで気持ちいいですよね。Twitterユーザー@muchi21067312さんの愛犬、コーギー兄妹の「ちい」くんと「むう」ちゃん。ふだんの関係性は優しい兄とジャイアンのような妹だそうですが、そんなふたりのなんとも無防備なヘソ天ポーズが可愛すぎるんです！
+</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 2つ目の広告タグ -->
+        <li id="div-M_MD_inf_fluid_1"></li>
+                                                <li>
+            <a href="/lovedog/content/?id=81852">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_ce92e2d8-1bc5-4bfc-b888-b13e5a001af7.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">食べ物の名前が多数ランクイン!?　人気の「メス犬の名前ランキング」</h3>
+                    <p class="mb_xsmall">犬を迎え入れるとき、ドキドキわくわくしますよね。名前のつけ方は飼い主さんによってさまざまだと思いますが、「どんな名前にしようかな」と悩んでしまい、なかなか決められないという人もいるでしょう。そこで今回は、「いぬのきもちアプリ」で調査した「犬の名前ランキング2019」より、メス犬に人気な名前をご紹介します♪</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=81844">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_1f6301e1-bbcb-4def-8a1a-30ace7e066e7.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">「待ちきれないワン！」秋田犬の子犬がゴハンの用意をさり気なくのぞきに来た！</h3>
+                    <p class="mb_xsmall">9匹のワンちゃん、猫ちゃんと暮らす飼い主さん。みんなの分のゴハンを用意していると、別の部屋で待っているはずの秋田犬らんぷちゃんが、キッチンまで様子を見に来てしまいました！　おいしそうなニオイに誘われて、待ちきれなかったのかな？　動画です♪</p>
+                </div>
+            </a>
+        </li>
+                                <li>
+            <a href="/lovedog/content/?id=85084">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_1e42a98c-2edd-4644-9ddd-58426f101e3a.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">季節の変わり目の体調は？おかーさんの心配がさく裂！【連載】おばあちゃん犬がやってきた第85回</h3>
+                    <p class="mb_xsmall">【連載】おばあちゃん犬がやってきた！　季節の変わり目、気づいたこと、、シロさんが好きすぎておかーさんの心配性がさく裂過ぎ？？</p>
+                </div>
+            </a>
+        </li>
+                    <!-- 3つ目の広告タグ -->
+        <li id="div-M_MD_inf_fluid_2"></li>
+                                                <li>
+            <a href="/lovedog/content/?id=81803">
+                <figure class="article_img">
+                    <img src="https://img.benesse-cms.jp/pet-dog/item/image/normal/resized/resized_39300292-3168-4ad8-b17a-3f1678bbfcaf.jpg?w=160&amp;h=160&amp;resize_type=cover" alt="">
+                </figure>
+                <div class="article_txt">
+                    <h3 class="ttl_thirdary_ver2">私の存在そのものが犬たちのおかげできている|連載・西川文二の「犬ってホントは」＃犬の日特別連載</h3>
+                    <p class="mb_xsmall">【連載】西川文二の「犬ってホントは」　今回は「＃スマイルドッグ　愛犬へありがとうを叫ぼう」をテーマに送る特別編。幼い頃から犬に囲まれて育った西川先生。しつけインストラクターとして活躍する現在までを振り返り、犬たちへの感謝の思いをハートフルに綴ります。</p>
+                </div>
+            </a>
+        </li>
+                            </ul>
+    <!-- 広告の読み込み用のスクリプトタグ -->
+    <script type='text/javascript'>
+        <!--//
+        googletag.cmd.push(function () {
+
+            var FrameID = "M_MD_Box";
+            var divDfp = "div-M_MD_inf_fluid";
+            var divNum = 0;
+            var divBox = divDfp + '_' + divNum;
+
+            googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                if (event.slot.getSlotElementId() === divBox) {
+                    if (!event.isEmpty && divNum < 6) {
+                        divNum = divNum + 1;
+                        divBox = divDfp + '_' + divNum;
+                        googletag.cmd.push(function () {
+                            googletag.display(divBox);
+                        });
+                    }
+                }
+            });
+
+        });
+        //-->
+    </script>
+
+
+    <!--記事間広告の終了タグ-->
+
+        <div>
+        <a href="" class="txt_btn btn_more">新着記事をもっと見る</a>
+    </div>
+    </section>
+<!-- 2つ目の記事タイアップ広告 -->
+<div id='div-M_MD_kiji_fluid_1'></div>
+<script>
+    $('#div-M_MD_kiji_fluid_1').on('inview', function() {
+        //ブラウザの表示域に表示されたときに実行する処理
+        googletag.cmd.push(function() { googletag.display('div-M_MD_kiji_fluid_1'); });
+    });
+</script>
+
+<div id="recommend_placeholder"></div>
+        </main>
+        <!-- /l-contents -->
+            <div class="l-sidenav">
+
+	<nav class="mb_normal">
+		<div class="mb_normal">
+	<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+	<div class="section_ad_subcont">
+		<!-- 1stレクタングル -->
+		<!-- /271891203/PET_PC/R_UP_bnr_300x250 -->
+		<div id="div-R_UP_bnr_300x250"></div>
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-R_UP_bnr_300x250'); });
+		</script>
+
+	</div>
+	<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+</div>
+		<div class="mb_normal">
+  <p class="sidenav_ttl_ver1">
+    <img src="/share/img/pc/common/icon_map.png" alt="" class="mr_xsmall">Pick Up!
+  </p>
+  <ul class="snav">
+    <li><a href="/withdog/">犬と暮らす</a></li>
+    <li><a href="/lovedog/">犬が好き♥</a></li>
+    <li><a href="/disease/">病気・症状データベース</a></li>
+    <li><a href="/tags/?id=575">連載</a></li>
+    <li><a href="/tags/?id=564">漫画</a></li>
+    <li><a href="/tags/?id=557">コラム</a></li>
+    <li><a href="/tags/?id=558">動画</a></li>
+    <li><a href="/tags/?id=559">画像</a></li>
+    <li><a href="/tags/?id=562">解説</a></li>
+    <li><a href="/tags/?id=563">まとめ</a></li>
+    <li><a href="/tags/?id=565">犬の種類</a></li>
+    <li><a href="/survey/">アンケート</a></li>
+  </ul>
+</div>
+		<p class="sidenav_ttl_ver1 ad-ttl_side">
+  <span><img src="/share/img/pc/common/icon_heart.png" alt="" class="mr_xsmall">人気キーワード</span>
+  <a href="/tagindex/" class="ad-txt_link">一覧</a>
+</p>
+<ul class="snav">
+    <li><a href="/tags/?id=569">しつけ</a></li>
+    <li><a href="/tags/?id=571">しぐさ・生態</a></li>
+    <li><a href="/tags/?id=583">食事・フード</a></li>
+    <li><a href="/tags/?id=572">健康・病気</a></li>
+    <li><a href="/tags/?id=579">かわいい</a></li>
+    <li><a href="/tags/?id=580">おもしろ</a></li>
+    <li><a href="/tags/?id=581">あるある</a></li>
+    <li><a href="/tags/?id=597">感動</a></li>
+    <li><a href="/tags/?id=573">雑学・豆知識</a></li>
+    <li><a href="/tags/?id=582">柴犬</a></li>
+</ul>
+		<div class="ranking_nav">
+        <p class="sidenav_ttl_ver1 ad-ttl_side">「犬が好き」のランキング</p>
+        <ul class="sidePostWrap_list rankingList">
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81818">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/2c560116047312a53ed399e228dc922b.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">散歩中の信号待ちで、まさかの出来事が！　笑顔が素敵な柴犬に魅了された人たちのほっこり温かいエピソード</h3>
+                    <p class="sidePostWrap_desc">愛犬が嬉しそうに飼い主さんのことを見つめてくることがありますが、その姿は飼い主さんだけでなく周りの人を癒してくれることも。Twitterユーザーの@shomaruoneoneさんが投稿した愛犬・柴犬のまるちゃんとの微笑ましいエピソードが、大きな反響を呼んでいたようです。信号待ちをしていたら…へへへっ♪@shomaruoneoneとある日のお散歩中、信号待ちをしていたという飼い主さんとまるちゃん。すると飼い主さんは、後ろにいたおばあさんから「お母さん下を見てあげて!!　さっきからずーっと見つめているから」</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=85081">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/1168563c7e1ef4d9607529d51ec6c045.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">病院が苦手な柴犬・ハナちゃん　注射前のリアクションに応援の声が！　舞台裏を飼い主が語る</h3>
+                    <p class="sidePostWrap_desc">「どうしても病院が苦手だ…」という犬は少なくないですよね…。とくに注射は人間でも怖いという人は多いのではないでしょうか。Twitterユーザー@87shiba87さんの愛犬・ハナちゃんも、病院がとっても苦手なワンコのようで。ハナちゃんが病院で頑張っている姿に、多くの反響が寄せられていたんです！注射が怖すぎて…「グゥゥゥゥウ！」@87shiba87注射を打つことになり震えるハナちゃん。そうだよね、そりゃ怖いよね…。恐怖のあまりか、顔もちょっと苦しそう？「グゥゥゥギャアオオオ！！！」と鳴き声をあげながら、し</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81847">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/e6e84f2bcd9bc138a228c2e258160063.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">飼い主が草刈りをしたら「満足気に笑う」犬にツッコミの嵐！　連載でもおなじみパグ犬・めーちゃんの魅力に迫る</h3>
+                    <p class="sidePostWrap_desc">愛犬の表情や態度などを見ていて、「こんなことを思っているのかな？」と想像する飼い主さんはきっと多いはずですよね。いぬのきもちWEB MAGAZINEの連載マンガ「パグ犬・めー」でおなじみのめーちゃん（♂）は、SNSや書籍「パグまんがめー語」などでも大人気のワンコ。現在14才でシニア犬のめーちゃんですが、じつは最近Twitterのある投稿で話題になっていたんです！飼い主がやっと草刈りをしたら…めーちゃん、めちゃくちゃ喜んでる！@menglish222それは、9月のある日のことでした。この日、家の庭の草刈り</p>
+                </div>
+            </a>
+        </li>
+                        <!-- /271891203/TMH_SP/M_MD_logly_fluid -->
+        <li class="sidePostWrap_item" id='div-M_MD_logly_fluid_0'>
+            <script>
+                googletag.cmd.push(function() { googletag.display('div-M_MD_logly_fluid_0'); });
+            </script>
+        </li>
+                <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81823">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/1879cd87d8a8188b623b1ca8c6c9e240.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">パグ犬めーの名前はおめめが大きいから？|連載「パグ犬・めー」vol.74</h3>
+                    <p class="sidePostWrap_desc">前に一度お話した人が、めーのことを覚えていてくれた！【連載】パグ犬めーいぬのきもちWEB MAGAZINE以前やはり散歩中に一度だけ会ったことのある人だったのですが、そのときに話した内容を細かく記憶してくれていて感激してしまいました。めーは呼びかけてもらっただけで嬉しくて、始終ニコニコしていました。めーはめがおおきいから、あいちゃんですプロフィールよしこ　14才のパグ・めーと暮らしています。趣味は犬の漫画を描くこと。著書に「パグまんが　めー語」（河出書房新社）、「めー先生ですよ」（幻冬舎）など。めーは食</p>
+                </div>
+            </a>
+        </li>
+                        <li class="sidePostWrap_item">
+            <a class="sidePostWrap_link" href="https://dog.benesse.ne.jp/lovedog/content/?id=81821">
+                <figure class="article_img">
+                    <div class="rankingList_rankNum">
+                        <img class="sidePostWrap_thumb" src="//cdn.logly.co.jp/recommend/img.benesse-cms.jp/61fd348cc6603bdc88ae2a1b1bdfc000.jpeg" alt="">
+                    </div>
+                </figure>
+                <div class="sidePostWrap_textArea">
+                    <h3 class="sidePostWrap_tit">雨に濡れた柴犬タロさん。ドライヤーに興味を示すも「もういいです」と断念⁉|連載「モフモフ柴とプニプニ娘」第88話</h3>
+                    <p class="sidePostWrap_desc">雨の中の散歩【連載】モフモフ柴とプニプニ娘みなさんこんにちはさるわたりです。 我が家は夫と私、柴犬のタロさん、娘と暮らしています。雨が降りそうな怪しい天気の中、タロさんと娘と私で散歩へ出ました。 始めは雨も降らず順調な散歩だったのですが、帰り際に雨に降られてしまいました。娘にはあらかじめカッパを着せていたので良かったのですが、タロさんと私はビショビショに…娘以外はみんなビショビショ…家に帰って、濡れたタロさんをタオルで拭いてあげます。 タロさんはタオルで拭かれるのが好きなので、嬉しそうにしています。もし</p>
+                </div>
+            </a>
+        </li>
+                
+        <li class="sidePostWrap_item" id="logly-lift-4289439">
+            <script charset="UTF-8">
+            (function(){
+                var _lgy_lw = document.createElement("script");
+                _lgy_lw.type = "text/javascript";
+                _lgy_lw.charset = "UTF-8";
+                _lgy_lw.async = true;
+                _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4289439";
+                var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+                _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+            })();
+            </script>
+        </li>
+    </ul>
+    <div class="ranking_more_btn">
+                <a href="/lovedog/ranking/" class="txt_btn btn_more btn_next">もっと見る</a>
+            </div>
+</div>
+	</nav>
+	<aside>
+		<div class="mb_normal">
+		<a href="https://pet.benesse.ne.jp/dog/lp/" class="side_magazine_area" target="_blank">
+		<div class="side_magazine_txt">
+			<p class="side_magazine_ttl">いぬのきもち<br>
+				最新号
+			</p>
+			<p class="side_magazine_p mr_xsmall">『いぬのきもち』は、飼い主さんの<br>“知りたい”“伝えたい”にこたえる<br>犬のこと総合雑誌です。</p>
+		</div>
+		<figure class="side_magazine_img">
+				<img src="https://pet.benesse.ne.jp/dog/include/sp/img_dog_cover.jpg" alt="雑誌『いぬのきもち』">
+			<span class="txt_btn btn_primary icon_arrow_r font_size_small mt_xsmall">雑誌『いぬのきもち』</span>
+		</figure>
+	</a>
+</div>
+		<div class="mb_normal">
+  <ul>
+    <li class="mb_small"><a href="https://pet.benesse.ne.jp/hoken/dog/ani.html?id=ANIinuTopPc" target="_blank"><img src="/share/img/pc/common/bnr_hoken.jpg" width="100%" alt="いぬのきもち健保"></a></li>
+    <li class="mb_small"><a href="https://pet.benesse.ne.jp/hospital/" target="_blank"><img src="/share/img/pc/common/bnr_search.jpg" width="100%" alt="動物病院検索"></a></li>
+    <li><a href="/tags/?id=999"><img src="/share/img/pc/common/20180131/bnr_food.jpg" width="100%" alt="獣医師が解説ドッグフードの正しい選び方"></a></li>
+  </ul>
+</div>
+		<ul class="snav notitle">
+  <li>
+      <a href="https://pf.benesse.ne.jp/Dog/" class="">フードサポート</a>
+    <a href="/soudan/" class="">獣医師が答えるQ&A</a>
+    <a href="/doglist/" class="">犬図鑑</a>
+      <a href="https://pet.benesse.ne.jp/kimochi/dogquiz/" class="">いぬのきもちクイズ</a>
+      <a href="/gallery/" class="">いぬフォトギャラリー</a>
+    <a href="https://pet.benesse.ne.jp/official_shindan/" class="">犬診断</a>
+      <a href="https://pet.benesse.ne.jp/dog/mook.html" class="">書店で買える本</a>
+      <a href="https://pet.benesse.ne.jp/dog/members/index.html" class="">購読者専用ページ</a>
+  </li>
+</ul>
+		<aside>
+  <div class="side_sns_area">
+    <p class="sidenav_ttl_ver2">FOLLOW US</p>
+    <ul class="flex_row row4">
+      <li>
+        <a href="https://www.facebook.com/inunokimochinews/" target="_blank">
+          <img src="/share/img/pc/common/logo_facebook.png" alt="facebook">
+        </a>
+      </li>
+      <li>
+        <a href="https://line.me/R/ti/p/%40oa-dognews" target="_blank">
+          <img src="/share/img/pc/common/logo_line.png" alt="line">
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/inunekome" target="_blank">
+          <img src="/share/img/pc/common/logo_twitter.png" alt="twitter">
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/inunekome/" target="_blank">
+          <img src="/share/img/pc/common/logo_instagram.png" alt="instagram">
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="mb_normal">
+    <div class="app_download_area cf">
+      <div class="app_download_ttl">
+        <p class="img"><img src="/share/img/pc/common/app_download_ttl.png" alt=""></p>
+        <p class="txt">いぬのきもち<br>ねこのきもち</p>
+      </div>
+      <p>いぬ・ねこの毎日役立つペット情報をお届けします。</p>
+      <ul>
+        <li>
+          <a href="https://app.adjust.com/3dgcdkj?redirect_android=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessedogcat%3A%2F%2Fjpcobenessedogcat%2Fhome&amp;redirect_ios=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessepet%3A%2F%2Fhome" target="_blank">
+            <img src="/share/img/pc/common/app_download_btn_ios.png" alt="App Store">
+          </a>
+        </li>
+        <li>
+          <a href="https://app.adjust.com/3dgcdkj?redirect_android=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessedogcat%3A%2F%2Fjpcobenessedogcat%2Fhome&amp;redirect_ios=https%3A%2F%2Fapp.adjust.com%2F3dgcdkj%3Fdeep_link%3Djpcobenessepet%3A%2F%2Fhome" target="_blank">
+            <img src="/share/img/pc/common/app_download_btn_android.png" alt="Google Play">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="mb_normal">
+    <div class="line-news-banner" data-id="oa-dognews" data-type="a1" style="display:none;"> </div>
+    <script src="https://scdn.line-apps.com/stf/line-news/js/thirdparty/banner2.js" defer="defer" async="async"></script>
+  </div>
+  <div class="mb_normal">
+    <a href="https://pet.benesse.ne.jp/gallery/" target="_blank">
+      <img src="/share/img/pc/common/20171127/bnr_gallery.png" alt="#いぬのきもち　詳しくはこちら">
+    </a>
+  </div>
+</aside>
+		<div class="mb_normal">
+	<p><a href="https://www.dcm-b.jp/cs/cpsite.html?id=01cpn255001" target="_blank"><img src="/share/img/pc/common/bnr_sugotoku.png"></a></p>
+</div>
+		<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+<div class="section_ad_subcont">
+	<!-- 2ndレクタングル -->
+	<!-- /271891203/PET_PC/R_BT_bnr_300x250 -->
+	<div id='div-R_BT_bnr_300x250'>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-R_BT_bnr_300x250'); });
+		</script>
+	</div>
+</div>
+<!-- +++++++++++++++++++++++++++++++++++++ AD -->
+		<div class="abj">
+    <img src="/share/img/pc/common/abj_1109_1003_w.png" alt="">
+    <div class="abjinfo">
+        <div>ＡＢＪマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第11091003号）です。</div>
+        <div>ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら→ <a href="https://aebs.or.jp/">https://aebs.or.jp/</a></div>
+    </div>
+</div>	</aside>
+</div>
+<!-- /l-sidenav -->
+    </div>
+</senction>
+<!-- /l-container -->
+<!-- /l-container -->
+<footer class="l-footer">
+  <div>
+    <a href="#header" class="js-footer_btn_top">ページトップへ</a>
+  </div>
+  <div class="mt_small">
+    <nav>
+      <ul class="footer_nav">
+          <li><a href="https://pet.benesse.ne.jp/">いぬのきもち・ねこのきもち</a></li>
+          <li><a href="https://cat.benesse.ne.jp/">ねこのきもち</a></li>
+        <li><a href="http://ad.benesse.ne.jp/">広告掲載</a></li>
+        <li><a href="https://pet.benesse.ne.jp/info/kiyaku.html">利用規約</a></li>
+        <li><a href="https://www.benesse.co.jp/cgi-bin/pets/fan/zbfan003.pl" target="_blank">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>
+<div class="benesse-footer" id="benesse-footer">
+  <div class="benesse-footer__inner">
+    <ul class="benesse-footer__link">
+      <li><a href="https://www.benesse.co.jp/benesseinfo/">会社案内</a></li>
+      <li><a href="https://www.benesse.co.jp/privacy/">個人情報保護への取り組みについて</a></li>
+    </ul>
+    <p class="caution">本サイトに掲載されている記事・写真・イラスト等のコンテンツの無断転載を禁じます。</p>
+    <p class="benesse-footer__copyright">Copyright ©Benesse Corporation All rights reserved.</p>
+  </div>
+</div>
+<section class="l-modal">
+    <div class="modal_header">
+        <a class="js-btn_close"></a>
+    </div>
+    <div class="inner">
+        <div class="mb_xsmall">
+            <div class="search_area">
+                <!-- <script>
+                    (function()
+                    {
+                        var cx = '000158589134449391804:km2yq-4d9em';
+                        var gcse = document.createElement('script');
+                        gcse.type = 'text/javascript';
+                        gcse.async = true;
+                        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(gcse, s);
+                    })();
+                </script>
+                <gcse:search></gcse:search> -->
+                <form action="/search/" class="ad_search">
+                    <input id="q" type="text" name="q" value="" placeholder="検索キーワード">
+                    <input type="submit" value="検索">
+                </form>
+            </div>
+        </div>
+        <div class="mb_xsmall">
+            <h2 class="modal_ttl ttl_contents">コンテンツ</h2>
+            <ul class="pagenav_list row2 mb_small">
+                <li><a href="/withdog/">犬と暮らす</a></li>
+                <li><a href="/lovedog/">犬が好き♥</a></li>
+                <li><a href="https://pet.benesse.ne.jp/gallery/">投稿写真</a></li>
+                <li><a href="/doglist/">犬図鑑</a></li>
+                <li><a href="/soudan/">獣医師Q&A</a></li>
+            </ul>
+            <nav>
+                <ul class="pagenav_list row4 mb_small">
+                  <li><a href="/tags/?id=575">連載</a></li>
+                  <li><a href="/tags/?id=564">漫画</a></li>
+                  <li><a href="/tags/?id=557">コラム</a></li>
+                  <li><a href="/tags/?id=558">動画</a></li>
+                  <li><a href="/tags/?id=559">画像</a></li>
+                  <li><a href="/tags/?id=562">解説</a></li>
+                  <li><a href="/tags/?id=563">まとめ</a></li>
+                </ul>
+                <ul class="pagenav_list row1">
+                    <li style="border-bottom: none;"><a href="/tagindex/">人気キーワード一覧</a></li>
+                </ul>
+                <ul class="pagenav_list row4 mb_small">
+                  <li><a href="/tags/?id=569">しつけ</a></li>
+                  <li><a href="/tags/?id=571">しぐさ・生態</a></li>
+                  <li><a href="/tags/?id=583">食事・フード</a></li>
+                  <li><a href="/tags/?id=572">健康・病気</a></li>
+                  <li><a href="/tags/?id=579">かわいい</a></li>
+                  <li><a href="/tags/?id=580">おもしろ</a></li>
+                  <li><a href="/tags/?id=581">あるある</a></li>
+                  <li><a href="/tags/?id=597">感動</a></li>
+                  <li><a href="/tags/?id=573">雑学・豆知識</a></li>
+                  <li><a href="/tags/?id=582">柴犬</a></li>
+                </ul>
+                <ul class="pagenav_list row4">
+                  <li><a href="https://pet.benesse.ne.jp/dog/lp/" class="">雑誌『いぬのきもち』</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/hoken/dog/ani.html?id=ANIinuTopPc" class="">いぬのきもち健保</a></li>
+                    <li><a href="https://pet.benesse.ne.jp/hospital/" class="">動物病院検索</a></li>
+                  <li><a href="https://dog.benesse.ne.jp/tags/?id=999" class="">ドッグフードの正しい選び方</a></li>
+                  <li><a href="https://pf.benesse.ne.jp/Dog/" class="">フードサポート</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/sogojoho/disease/" class="">病気・症状データベース</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/kimochi/dogquiz/" class="">いぬのきもちクイズ</a></li>
+                    <li><a href="https://pet.benesse.ne.jp/official_shindan/" class="">犬診断</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/mook.html" class="">書店で買える本</a></li>
+                  <li><a href="https://pet.benesse.ne.jp/dog/members/index.html" class="">購読者専用ページ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+<!-- /l-modal -->
+</body>
+</html>

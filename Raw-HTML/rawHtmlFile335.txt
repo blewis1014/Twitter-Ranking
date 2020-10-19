@@ -1,0 +1,2261 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="google-play-app" content="app-id=in.scroll.android">
+    <meta name="twitter:app:name:googleplay" content="Scroll.in App for Android">
+    <meta name="twitter:app:id:googleplay" content="in.scroll.android">
+    <link rel="alternate" type="application/rss+xml" title="Scroll.in News (RSS 2.0)" href="http://feeds.feedburner.com/ScrollinArticles.rss">
+    <title>Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Scroll.in">
+    <link href="scroll_in" rel="publisher">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon.5f31c86209ff21c26b68aabf47772769.006.png">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-16x16.5f31c86209ff21c26b68aabf47772769.006.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-32x32.5f31c86209ff21c26b68aabf47772769.006.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-96x96.4cc034945103e3d2a902c9f81dceb823.006.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-160x160.7d97c537daffcf114789e9abfa5fb07f.006.png" sizes="160x160">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-57x57.277cea0346eb4df5b677579fca717306.006.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-72x72.53ee5cb4271f912e403784b41ffd9311.006.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-114x114.9dc8c17e787ea5a8d991fe66621ed49a.006.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-144x144.b71c766a62abe812b4b37e7f21e91e56.006.png" sizes="144x144">
+    <meta property="og:title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="author" content="Mir Taqi Mir, Mirza Ghalib & Prashant Keshavmurthy">
+    <meta property="og:description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://s01.sgp1.cdn.digitaloceanspaces.com/book/138276-msapkfpgal-1584099802.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+    <meta property="og:site_name" content="Scroll.in">
+    <meta property="og:url" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta property="article:publisher" content="https://www.facebook.com/scroll.in">
+    <meta name="keywords" content="Books and Ideas, cats, poetry, Mir taqi mir, Ghalib, Urdu poetry, translation">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="https://s01.sgp1.cdn.digitaloceanspaces.com/book/138276-msapkfpgal-1584099802.jpg">
+    <meta name="twitter:description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="twitter:title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="twitter:url" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta name="twitter:site" content="@scroll_in">
+    <meta name="twitter:creator" content="@scroll_in">
+    <meta name="twitter:site:id" content="@scroll_in">
+    <meta name="dcterms.title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="dcterms.description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="dcterms.type" content="Text">
+    <meta name="dcterms.format" content="text/html">
+    <meta name="dcterms.language" content="en_US">
+    <meta name="dcterms.identifier" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta name="dcterms.created" content="2020-03-14T08:30:00+05:30">
+    <meta name="dcterms.available" content="2020-03-14T08:30:00+05:30">
+    <meta name="dcterms.publisher" content="https://scroll.in">
+    <meta name="dcterms.creator" content="Mir Taqi Mir, Mirza Ghalib & Prashant Keshavmurthy">
+    <meta name="dcterms.subject" content="Books and Ideas, cats, poetry, Mir taqi mir, Ghalib, Urdu poetry, translation">
+    <meta name="atdlayout" content="articlepage">
+    <meta property="article:tag" content="Books and Ideas">
+    <meta property="article:tag" content="cats">
+    <meta property="article:tag" content="poetry">
+    <meta property="article:tag" content="Mir taqi mir">
+    <meta property="article:tag" content="Ghalib">
+    <meta property="article:tag" content="Urdu poetry">
+    <meta property="article:tag" content="translation">
+    <link rel="canonical" href="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+    <link rel="amphtml" href="https://amp.scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media"
+      },
+      "headline": "Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/138276-msapkfpgal-1584099802.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "datePublished": "2020-03-14T08:30:00+05:30",
+      "dateModified": "2020-03-14T08:32:00.987499+05:30",
+      "author": 
+  {
+    "@type": "Person",
+    "name": "Mir Taqi Mir",
+    "sameAs": "https://scroll.in/author/18582"
+  }
+,
+      "publisher": {
+    "@type" : "Organization",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://scroll.in/static/assets/scroll-logo-235x60.f692efa0f186cc40d85a5dac45e3a4af.006.png",
+      "width": 235,
+      "height": 60
+    },
+    "sameAs" : [ "https://www.facebook.com/scroll.in",
+      "https://www.twitter.com/scroll_in",
+      "https://plus.google.com/scroll_in",
+      "https://instagram.com/+ScrollIn"]
+  },
+      "description": "Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy."
+    }
+  </script>
+
+  <script type="application/ld+json">
+    {"@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://scroll.in/static/assets/scroll-logo-235x60.f692efa0f186cc40d85a5dac45e3a4af.006.png",
+      "width": 235,
+      "height": 60
+    },
+    "sameAs" : [ "https://www.facebook.com/scroll.in",
+      "https://www.twitter.com/scroll_in",
+      "https://plus.google.com/scroll_in",
+      "https://instagram.com/+ScrollIn"]
+  }
+  </script>
+  <script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "potentialAction":
+        {
+        "@type":"SearchAction",
+        "target":"https://scroll.in/search?q={search_term_string}",
+        "query-input":"required name=search_term_string"
+        }
+     }
+  </script>
+    <link rel="stylesheet" crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,400i,700,700i&display=swap">
+    <link rel="stylesheet" href="https://scroll.in/static/css/base.3507681fe27c7c30e0ba.006.css">
+      <link rel="stylesheet" href="https://scroll.in/static/css/article.7271893b55fddb1bd788.006.css">
+  
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47293256-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-47293256-1');
+    </script>
+    
+
+    
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>window.googletag = window.googletag || {cmd: []};</script>
+    
+
+    <script>
+      (function() {
+        var faLink = document.createElement('link');
+        faLink.type = 'text/css';
+        faLink.rel = 'stylesheet';
+        faLink.href='https://use.fontawesome.com/releases/v5.0.6/css/all.css';
+        document.getElementsByTagName('head')[0].appendChild(faLink);
+      })();
+    </script>
+  </head>
+  <body class="scroll">
+    
+    
+      
+        
+          
+          
+<div id="app-banner-container"></div>
+<nav class=" global-navigation clearfix hideOnApp">
+  <div class="scroll-logo-block clearfix">
+    <div class="column scroll-box scroll-box-1 masthead-slot masthead-slot-1">
+      
+      <a class="ga-track slot-link" href="https://scroll.in/subscribe?utm_source=InternalMasthead&amp;utm_medium=Left&amp;utm_campaign=Aug21&amp;utm_content=MHL" target="_blank" data-label="Masthead Slot - 1">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://s01.sgp1.cdn.digitaloceanspaces.com/images/999.jpg" loading="lazy">
+      </a>
+      
+    </div>
+
+    <div class="column scroll-box scroll-box-3">
+      
+      <a href="//scroll.in" data-category="Desktop" data-label="Scroll logo clicked" class="ga-track">
+        <i class="scroll-logo">Scroll.in</i>
+      </a>
+      <em class="scroll-publication-date current-date">-</em>
+    </div>
+
+    <div class="column scroll-box scroll-box-1 masthead-slot masthead-slot-2">
+      
+      <a class="ga-track slot-link" href="https://scroll.in/subscribe?utm_source=InternalMasthead&amp;utm_medium=Right&amp;utm_campaign=Aug21&amp;utm_content=MHR" target="_blank" data-label="Masthead Slot - 2">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://s01.sgp1.cdn.digitaloceanspaces.com/images/1009.jpg" loading="lazy">
+      </a>
+      
+    </div>
+  </div>
+
+  <div class="mobile-scroll-logo-block">
+    <a href="//scroll.in/" data-category="Mobile" data-label="Scroll logo clicked">
+      <i class="scroll-logo">Scroll.in</i>
+    </a>
+    <ul class="scroll-navigation-action-icons mobile-scroll-navigation-icons clearfix">
+      <li id="exchangeIconMobile" class=" scroll-navigation-scroll-exchange">
+          <a class="ga-track" data-category="Mobile" data-label="Scroll Exchange clicked from header" href="//scroll.in/community">
+              <span class="nav-icon-container">
+                  <i class="scroll-exchange"></i>
+                  <i class="nav-new-tag"></i>
+              </span>
+              <span class="nav-label"><strong>Exchange</strong></span>
+              <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+      </li>
+      <li id="thePlusIconMobile" class="scroll-navigation-scroll-plus ">
+        <a class="ga-track" data-category="Mobile" data-label="Scroll plus clicked from header" href="//scroll.in/theplus/">
+          <span class="nav-icon-container">
+              <i class="the-plus"></i>
+          </span>
+          <span class="nav-label">The <strong>Plus</strong></span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+
+      
+        
+          <li id="loginIconMobile" class="scroll-navigation-login">
+            <a class="ga-track" data-category="Mobile" data-label="Login Button clicked from header" href="//scroll.in/login">
+              <span class="nav-icon-container">
+                  <i class="nav-login"></i>
+              </span>
+              <i class="fas fa-caret-up is-active-caret"></i>
+            </a>
+          </li>
+        
+      
+
+      <li id="searchIconMobile" class=" scroll-navigation-search">
+        <a href="//scroll.in/search" data-category="Mobile" data-label="Search button clicked" class="ga-track nav-search-button">
+          <span class="nav-icon-container">
+              <i class="nav-search"></i>
+          </span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+
+      <li id="settingsIconMobile" class="scroll-navigation-more scroll-navigation-plus-mobile">
+        <a href="#" data-category="Mobile" data-label="Ellipsis button clicked"
+          class="ga-track">
+          <span class="nav-icon-container">
+              <i class="nav-settings"></i>
+          </span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="scroll-navigation-container clearfix">
+    <div class="scroll-navigation-links-block clearfix">
+      <ul class="scroll-navigation-feeds clearfix">
+        <li data-stop-js="1" class="">
+          <a href="//scroll.in/" data-category="Mobile" data-label="All News Clicked from menu" class="ga-track">
+            Home
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/global/" data-category="Mobile" data-label="Global Clicked from menu" class="ga-track">
+            Global
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/topic/56256/coronavirus-crisis" data-category="Mobile" data-label="Covid Clicked from men
+          u" class="ga-track">
+            Covid-19
+          </a>
+       </li>
+        <li class="">
+          <a href="//scroll.in/food/" data-category="Mobile" data-label="Food Clicked from menu" class="ga-track">
+            Food
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/video/" data-category="Mobile" data-label="Videoblog Clicked from menu" class="ga-track">
+            Video
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/latest/" data-category="Mobile" data-label="Latest Clicked from menu" class="ga-track">
+            Latest
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/reel/" data-category="Mobile" data-label="Reel Clicked from menu" class="ga-track">
+            The Reel
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/field/" data-category="Mobile" data-label="Field Clicked from menu" class="ga-track">
+            The Field
+          </a>
+        </li>
+        <li class="scroll-navigation-trending has-submenu">
+          <a href="#" data-category="Mobile" data-label="Trending Clicked from menu" class="ga-track">
+            Trending <i class="fas fa-angle-down"></i>
+          </a>
+          <ul><li>
+              <a href="https://scroll.in/latest/976053/tanishq-ad-amit-shah-warns-against-over-activism-says-indias-roots-of-harmony-very-strong">Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’</a>
+            </li><li>
+              <a href="https://scroll.in/video/974581/watch-the-next-instalment-in-comedian-sarah-coopers-series-on-donald-trump-is-how-to-drugs">Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’</a>
+            </li><li>
+              <a href="https://scroll.in/latest/975947/sc-rejects-petition-for-presidents-rule-removal-of-uddhav-thackeray-government-in-maharashtra">SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra</a>
+            </li><li>
+              <a href="https://scroll.in/article/975902/democracy-gives-us-the-right-to-ask-questions-neha-singh-rathores-bhojpuri-tunes-are-going-viral">‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976019/french-teacher-beheaded-for-showing-caricatures-of-prophet-muhammad-attacker-shot-dead">French teacher beheaded for showing caricatures of Prophet Muhammad, attacker shot dead</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976028/court-orders-fir-against-kangana-ranaut-her-sister-for-allegedly-trying-to-create-communal-tensions">Court orders FIR against Kangana Ranaut, her sister for allegedly trying to create communal tensions</a>
+            </li><li>
+              <a href="https://scroll.in/article/947110/the-pluto-effect-the-sun-and-moon-were-once-planets-and-the-earth-was-not">The Pluto effect: The Sun and Moon were once planets, and the Earth was not</a>
+            </li><li>
+              <a href="https://scroll.in/reel/975990/in-hun-hunshi-hunshilal-an-invented-country-and-a-very-real-exploration-of-misrule-and-dissent">In ‘Hun, Hunshi, Hunshilal’, an invented country and a very real exploration of misrule and dissent </a>
+            </li><li>
+              <a href="https://scroll.in/video/974737/watch-new-video-from-biden-campaign-targets-trump-for-not-having-a-pet-dog-in-the-white-house">Watch: New video from Biden campaign targets Trump for not having a pet dog in the White House</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976054/the-big-news-modi-says-access-to-covid-vaccine-should-be-ensured-speedily-and-9-other-top-stories">The big news: Modi says access to Covid vaccine should be ensured speedily, and 9 other top stories</a>
+            </li><li>
+              <a href="https://scroll.in/article/975636/fossil-footprints-of-a-mother-child-reveal-the-story-behind-the-longest-known-prehistoric-journey">Fossil footprints of a mother, child reveal the story behind the longest known prehistoric journey</a>
+            </li><li>
+              <a href="https://scroll.in/article/975984/kashmir-has-a-new-political-alliance-to-fight-for-special-status-but-how-will-it-work">Kashmir has a new political alliance to fight for special status – but how will it work?</a>
+            </li></ul>
+        </li>
+        <li class="scroll-navigation-sections has-submenu">
+          <a href="#" data-category="Mobile" data-label="Sections Clicked from menu" class="ga-track">
+            Sections <i class="fas fa-angle-down"></i>
+          </a>
+          <ul>
+            <li>
+              <a href="//scroll.in/magazine/" data-category="Mobile" data-label="Magazine Clicked from menu" class="ga-track">
+                Magazine
+              </a>
+            </li>
+          <!-- Filtering out opinion since it is used outside sections -->
+            <li>
+              <a href="//scroll.in/category/76/politics" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Politics</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/107/culture" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Culture</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/105/india" data-category="Mobile" data-label="Section icon clicked" class="ga-track">India</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/3554/world" data-category="Mobile" data-label="Section icon clicked" class="ga-track">World</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/3/film-and-tv" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Film and TV</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/4/music" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Music</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/80/books-and-ideas" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Books and Ideas</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/77/business-and-economy" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Business and Economy</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/83/science-and-technology" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Science and Technology</a>
+            </li><li>
+              <a href="//scroll.in/roving/" data-category="Mobile" data-label="In pictures Clicked from menu" class="ga-track">
+                In Pictures
+              </a>
+            </li>
+            <li>
+              <a href="//scroll.in/announcements/" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Announcements</a>
+            </li>
+            <li>
+              <a href="//shop.scroll.in" data-category="Mobile" data-label="Bookshop Clicked from menu" class="ga-track">
+                Bookshop
+              </a>
+            </li>
+            <li class="">
+              <a href="//scroll.in/pulse/" data-category="Mobile" data-label="Pulse Clicked from menu" class="ga-track">
+                Pulse
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="scroll-navigation-action-icons clearfix">
+        <li id="exchangeIcon" class=" scroll-navigation-scroll-exchange">
+            <a class="ga-track" data-category="Mobile" data-label="Scroll Exchange clicked from header" href="//scroll.in/community">
+                <span class="nav-icon-container">
+                    <i class="scroll-exchange"></i>
+                    <i class="nav-new-tag"></i>
+                </span>
+                <span class="nav-label"><strong>Exchange</strong></span>
+                <i class="fas fa-caret-up is-active-caret"></i>
+            </a>
+        </li>
+        <li id="thePlusIcon" class=" scroll-navigation-scroll-plus">
+          <a class="ga-track" data-category="Mobile" data-label="Scroll plus clicked from header" href="//scroll.in/theplus/">
+            <span class="nav-icon-container">
+                <i class="the-plus"></i>
+            </span>
+            <span class="nav-label">The <strong>Plus</strong></span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+
+        
+          
+            <li id="loginIcon" class="scroll-navigation-login">
+              <a class="ga-track" data-category="Mobile" data-label="Login Button clicked from header" href="//scroll.in/login">
+                <span class="nav-icon-container">
+                    <i class="nav-login"></i>
+                </span>
+                <i class="fas fa-caret-up is-active-caret"></i>
+              </a>
+            </li>
+          
+        
+
+        <li id="searchIcon" class=" scroll-navigation-search">
+          <a href="//scroll.in/search" data-category="Mobile" data-label="Search button clicked" class="ga-track nav-search-button">
+            <span class="nav-icon-container">
+                <i class="nav-search"></i>
+            </span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+        <li id="settingsIcon" class="scroll-navigation-more">
+          <a href="#" data-category="Mobile" data-label="Ellipsis button clicked"
+            class="ga-track">
+            <span class="nav-icon-container">
+                <i class="nav-settings"></i>
+            </span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
+<div id="infoModal"></div>
+<div class="error-message warning" style="display: none">
+  <p><i class="fa fa-exclamation-circle"></i><span class="error-message-block"></span></p>
+</div>
+<div id="modal-container"></div>
+<div class="tooltip-container" style="display:none">
+  <div id="tooltip"></div>
+</div>
+        
+      
+    
+    <div id="notification-alert-banner"></div>
+    <div id="GDPRAlertBanner"></div>
+    
+    <div class="main-container " >
+      
+
+  
+    
+  
+  <div class="below-navigation-banner-wrapper">
+    <div id='div-gpt-ad-1530701734090-0' class="below-navigation-banner"></div>
+  </div>
+  
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [300, 250])
+                  .addSize([768, 50], [300, 250])
+                  .addSize([1050, 250], [970, 250])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-0"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-below-navigation',
+      [[970, 250], [300, 250]],
+      'div-gpt-ad-1530701734090-0')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (false) {
+      window.gptSlots["div-gpt-ad-1530701734090-0"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-0"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-0"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-0'); });
+</script>
+
+
+  
+
+  <div id="server-articles" class="article-page scroll-article-page">
+    
+  <!-- ARTICLE STARTS HERE-->
+  <article id="article-unique-956092" data-series-id="0" class="article scroll-article normal-article scroll-in-article" data-seo-title="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media" data-title="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media" data-permalink="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" data-id="956092" data-cb-authors="Mir Taqi Mir, Mirza Ghalib, Prashant Keshavmurthy" data-cb-categories="Scroll.in, Books and Ideas" data-in-viewport="true">
+    <!-- ARTICLE HEADER    -->
+    <header>
+      
+  <span class="orange-tag">
+    <a href="//scroll.in/topic/39391/uses-of-poetry">
+        USES OF POETRY
+      </a>
+    
+  </span>
+
+      <h1>Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media</h1>
+      <h2>Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.</h2>
+      <!-- MOBILE & TABLET ONLY META-->
+      <div class="article-meta-container-with-comments">
+        <div class="article-meta-container hide-for-large">
+          
+  <address><a href="//scroll.in/author/18582"
+         rel="author"
+         
+        >Mir Taqi Mir</a><span class="comma-separator">&comma;&nbsp;</span><a href="//scroll.in/author/10304"
+         rel="author"
+         
+        >Mirza Ghalib</a><span class="comma-separator">&nbsp;&amp;&nbsp;</span><a href="//scroll.in/author/18583"
+         rel="author"
+         
+        >Prashant Keshavmurthy</a></address>
+
+          
+  <div class="article-time-container">
+    <time datetime="2020-03-14T08:30:00+05:30" class="article-published-time">
+      Mar 14, 2020 &middot; 08:30 am
+    </time>
+    
+  </div>
+
+        </div>
+        
+  <ul class="comments-entry-point-meta hide-for-large">
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="meta-icons" >
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="meta-icons">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li></ul>
+
+      </div>
+      <!-- END OF MOBILE & TABLET ONLY META-->
+    </header>
+    <!-- END OF ARTICLE HEADER-->
+    <!-- ARTICLE IMAGE-->
+    <figure class="featured-image"><picture class="aspect-ratio-placeholder image-width-1200-height-630"><img src="https://s01.sgp1.cdn.digitaloceanspaces.com/article/138276-msapkfpgal-1584099802.jpg" loading="lazy" alt="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    </picture>
+    <figcaption class="featured-image-caption">
+      
+  
+    
+    
+    Jennifer Boyer / CC BY 2.0
+  
+
+    </figcaption>
+  </figure>
+
+    <!-- END OF ARTICLE IMAGE-->
+    <!-- ARTICLE CONTENT-->
+    <div class="article-content-container">
+      <!-- DESKTOP ONLY META & SHARING-->
+      <aside class="article-meta-container large-3 columns show-for-large">
+        <!-- ARTICLE PUBLISHED & UPDATED TIMES-->
+        
+  <div class="article-time-container">
+    <time datetime="2020-03-14T08:30:00+05:30" class="article-published-time">
+      Mar 14, 2020 &middot; 08:30 am
+    </time>
+    
+  </div>
+
+        <!-- END OF ARTICLE PUBLISHED & UPDATED TIMES-->
+        <!-- ARTICLE AUTHOR BY-LINE-->
+        
+  <address><a href="//scroll.in/author/18582"
+         rel="author"
+         
+        >Mir Taqi Mir</a><span class="comma-separator">&comma;&nbsp;</span><a href="//scroll.in/author/10304"
+         rel="author"
+         
+        >Mirza Ghalib</a><span class="comma-separator">&nbsp;&amp;&nbsp;</span><a href="//scroll.in/author/18583"
+         rel="author"
+         
+        >Prashant Keshavmurthy</a></address>
+
+        <!-- END OF ARTICLE AUTHOR BY-LINE-->
+
+        <!-- ARTICLE SHARE SHEET-->
+        <ul class="article-share-sheet">
+          
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+        Share
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+        Tweet
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+        Email
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+        Reddit
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+        </ul>
+        <!-- END OF ARTICLE SHARE SHEET-->
+        <!-- ARTICLE BOTTOM SHARE SHEET-->
+        <ul class="article-share-sheet bottom-share-sheet">
+          
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+        Share
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+        Tweet
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+        Email
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+        Reddit
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+        </ul>
+        <!-- END OF ARTICLE BOTTOM SHARE SHEET-->
+      </aside>
+      <!-- END OF DESKTOP ONLY META & SHARING-->
+      <!-- ARTICLE RENDER FROM CMS-->
+      <section class="article-content scroll-article-content normal-article-content large-6 columns">
+        <div id="article-contents" class="article-body">
+          <p>Canonised as one of Urdu’s greatest poets, Mir Muhammad Taqi “Mir” of Delhi, who died in 1810, also authored a collection of verse in Persian. He composed verse in genres other than the ghazal, in which his accomplishments are rightly revered. Among these is the masnavi, a narrative poem of indeterminate length but in in a uniform meter and with rhymed couplets. In this genre he composed seven relatively short masnavis on animals.</p><p>These animal poems stand out in the corpus of Urdu and Persian literature because they do not quite correspond to either of the two literary attitudes towards animals we see in earlier Persian and Urdu literature: a typically Sufi allegorical attitude (such as we see in the 13th century Rumi) wherein animals symbolise human traits; and a wholly celebratory attitude (such as we see in Mir’s contemporary Nazeer Akbarabadi) wherein animals like dancing bears or squirrels are elements of a mosaic of urban spectacles. </p><p>By contrast, Mir’s animal poems are personal. Brimming with autobiographical affection and humour, they convey Mir’s own relationship to the dog, cats, baby monkey, rooster and goat with whom he shared his home at various times. In their non-allegorical and non-Sufi validation of the here-and-now, these poems belong to a corpus of 18th and early 19th century Urdu literature that was distinguished (like the older profane poetics of Sanskrit and Braj Bhasha) by its insistence on the primary reality of this world rather than the next. </p><h3 class="cms-block cms-block-heading">Their profane joy is a celebration of the mundane sharply different from the late 19th century reform-minded naturalism that was to dominate Urdu literature on English colonial models.</h3><p>Mir’s poem on his cat Mohini and her kittens, translated below, joins a tradition of such secular panegyrics to and elegies for cats in Arabic, Persian and Turkish going back to the 11th century. The scholar Jalaluddin as-Suyuti of 15th century Cairo even compiled an anthology entitled <em>The Merits of the House Cat</em>. </p><p>Arguably every urban literary tradition has a sub-tradition of cat-poetry (Sanskrit is no exception) but hagiographical reports on the Prophet Muhammad’s fondness for cats as well as one of his companion’s affection for kittens singled the cat out from other creatures for special Muslim attention. Again, what distinguishes Mir’s poem from these secular predecessors is the sense it conveys of his individual presence. We cannot see and feel for Mohini and her offspring except as Mir sees and feels for them. </p><p>At the same time, what Mir’s poem shares with these predecessors is the foregrounding of language. As in earlier Islamic cat-poems so in Mir’s, we cannot see Mohini and her kittens except through the veil of Mir’s many allusions to cat-related proverbs and legends, allusions that Mir plays with to distinguish his own voice from the chorus of poets and hagiographers who had extolled cats before him. This translation mimics the rhythm and rhymes of Mir’s Urdu poem. </p><p>The second cat poem below is by Asadullah Khan “Ghalib”, who died in 1869 in Delhi and who is sometimes canonised as the greatest Urdu poet after Mir and sometimes as greater than him. The poem itself, however, comes from Ghalib’s collection of Persian verse which is larger than his Urdu collection. </p><p>It belongs to the genre of the <em>qit’a</em>, typically a short poem on a single everyday topic, in a uniform meter and monorhymed like the ghazal. Like Mir’s cats, Ghalib’s too is like a Sufi in her altruism, frail might and translucent beauty and yet also like the beloved of the ghazal genre in her coy strutting that is the envy of strutting cocks and quails, her uncurling tail a superior version of the curls of beauties. This translation, too, replicates the rhythm and rhymes of Ghalib’s poem. </p><p>In imitation of the short and long syllabic units of Urdu and Persian prosody, both translations are in English iambic tetrameter – that is, in four iambs (an iamb is an unstressed syllable followed by a stressed one) per line, long a meter of choice for the English ballad and other such rapid poems on everyday subjects.</p><h3 class="cms-block cms-block-heading"><strong>Mohini the Cat</strong></h3><p><strong>Mir Taqi Mir</strong></p><p>A cat called Mohini one day<br> Came home and decided to stay.  <br> Of some of us she grew fond then<br> And seldom left, staying mostly in. <br> And then she grew so fond of me<br> In all things she’d then look to me.<br> At dawn she’d come to me and purr.<br> The sky’s pale cat rose after her. [i] <br> That is, she came as evening fell<br> And stayed for hours, my sentinel. <br> The leanest scrap of meat I’d find<br> On seeing my straits, she wouldn’t mind. <br> And if a pot had spilled by chance [ii]<br> She’d give it not the slightest glance.<br> She’d hardly meddle, never peep<br> At fallen crumbs, her hunger deep.<br> From her it takes nothing away<br> If trembling mice themselves fall prey.<br> Some cat our food had gobbled up <br> So, this one fought, but paws held up. <br> I won’t forget her purity.<br> She never crossed her path with me.<br> Did she step out with me and keep<br> Me home or sneeze just as I would leave? [iii]<br> Though kettle-black from head to tail <br> Her manners were a spectacle. <br> Adored by the women next door,<br> She only left when they implored. <br> For wanderlust she had Delhi.<br> She was no vagabond, you see. </p><p>By bits she climbed the roofs around<br> Returning later every round. <br> Knocked up, her kittens then arrived<br> And not a single one survived. <br> This happened again. This affair<br> Of dead kittens was hard to bear.<br> To guard her womb was paramount<br> By all that spells could bring about.<br> To keep alive her next kittens <br> We promised alms and talismans<br> Were brought and bound in threads<br> Of indigo to her stomach. [iv] <br> Some wrote their spells in her meat bits. <br> Some wrote in blood in amulets. <br> To Bi Bila’i we rushed and prayed.<br> The mihrab’s cat we begged for aid. [v] <br> We flung meat bits to circling kites.<br> We baked bean bread of large, fat bites. [vi]<br> Beneath the beds we had girls sit<br> To keep the cat crouched as is fit. <br> From hand to mouth they’d each feed her<br> And meow and mewl like cats to her.<br> A manna rained of morsel bits.<br> The pampered cat had quite the feast. </p><p>Into the night we prayed and prayed<br> And begged the Saint’s Cat for its aid. [vii] <br> To Bu Hurairah, saint of cats,<br> We prayed and lavished feasts on cats. [viii] <br> The cat that Ubayd had extolled<br> Was free in prayer of craft and fraud. [ix]<br> Where Khwaja Ismat bowed to pray<br> A cat arrived and settled there. [x]<br> At dawn she’d stoop in supplication,<br> Rise and fall in adoration.</p><p>Each dawn we prayed to her for strength.<br> Her powers then bore fruit at length. <br> Thus, Mohini’s litter was five<br> Kittens and each, thank god, survived. <br> Why shouldn’t aid come mightily?<br> With Bu Hurairah, Bi Bila’i,<br> She mindful of our outward rite,<br> He granting prayers by secret might.<br> The kittens clasped their mother nights<br> And then all five sipped milk by bits.<br> With little milk to sate us all<br> I ordered milk at night as well.<br> On cow- and goat-milk they pulled by<br> Not once away from watchful eyes<strong>.</strong><br> When I considered them a while<br> The five turned out to share a style. </p><p>Two months we spent with vigilance,<br> Kept cats and dogs at a distance. <br> No sooner than a dog entered<br> Than, lion-like, the people roared. <br> When they stepped out we rushed in sport,<br> Their tails so yellow, noses soft<br> Like multicoloured skeins of silk,<br> Some white, some black, some yellow-pink.<br> Wherever these kittens turned out<br> A springtime garden came about.<br> A world was in love and restless,<br> Hungry and sleepless for a glimpse.</p><p>Of them, by ones, friends took all three<br> To leave me Munni and Mani.<br> A gentleman then chose Munni,<br> Fine cat favoured by destiny.<br> Long-suffering Mani, graver, <br> Chose poverty and stayed on here,<br> Upon my mattress her own bed,<br> Coddler of my heart and head. <br> When I’m not home, she waits hungry<br> And stirs to life on hearing me.<br> She beats each person to the door<br> And looks me over head to toe,<br> Longing in her eyes a sparkle – <br> Is this a cat or miracle? <br> Good cats abound in general.<br> This is no cat but spectacle!<br> With ornament she’s houri-like.<br> In moonlight she’s a knot of light. <br> When she’s as saucy as lightning<br> Both cat and lightning seem one thing.<br> Is that a fairy bright out there?<br> You’re transfixed and can’t help but stare.<br> No matter how fine Persian cats<br> Look well – around her angels faint.<br> My spirit too is bound to her.<br> When she curls up I caress her.<br> One day she fell asleep elsewhere<br> And “Mani! Mani!” filled the air.<br> But this does not befit a cat –<br> A blue-eyed beloved at that.<br> And if someone should glare at her<br> Then may the sun be struck blind there!<br> Her virtues lie beyond surmise,<br> A hundred worlds before our eyes. <br> Her excellence ineffable,<br> Without her life’s unbearable. <br> Her spots now make the garden bloom,<br> Beloved brightness of our gloom.<br> Her soaring mind, her refinement!<br> What a comrade and companion!<br> Her judgement is so exquisite<br> She looks down on the finest treat.<br> If in the Kaaba she’s as skilled<br> Its pigeons may be rightly killed. [xi] <br> But she’s touched neither mouse nor bird<br> Nor of Mecca has she heard. [xii]<br> The “love for cats” that’s “part of faith”<br> Was possibly said for her sake. [xiii]</p><p>We dearly wished for Mani’s kids<br> And so, she’s birthed two – moon-feathered. <br> They have their mother’s spots, it’s clear,<br> But aren’t as good and aren’t as dear. <br> Named Mohini and Sohini,<br> They rush like ribbons friskily. <br> They’re tied by blue threads at their necks<br> Arresting people in their tracks. <br> All tomcats must be kept away.<br> May both be spared the evil eye. <br> And if someone should glare at them<br> Gouge out his eyes to then feed them. <br> The upshot then is Mohini<br> Died, bringing me calamity. <br> Endure was all I could do, then<br> Bury her in Billimaran. [xiv]</p><p>Happy the man with successors.<br> Weep for him who none remembers.</p><p>[i] “The sky’s pale cat” is the sun.</p><p>[ii] The original literally says “If by luck the string has snapped”. Shamsur Rahman Faruqi glosses this line in his translation of this poem by saying that this refers to the Urdu proverb “‘By good fortune the string broke and the food basket fell at the cat’s feet’. That is to say, an undeserving piece of good luck happened to an undeserving person.” Faruqi’s translation may be found under the title “Mohini the Cat” in Mir Taqi Mir, <em>Selected Ghazals and </em>Other Poems; translated by Shamsur Rahman Faruqi (Murty Classical Library of India, 2019).</p><p>[iii] Sneezing as someone left home was thought to bring bad luck, so such a person might linger at home till the danger had passed. Also inauspicious was a cat crossing one’s path.</p><p>[iv] Shamsur Rahman Faruqi glosses this practice in his translation thus: “A thread dyed in indigo and tied on a sick person, especially on the afflicted body part, was supposed to cure illness by keeping the evil eye at bay.”</p><p>[v] Shamsur Rahman Faruqi: “A domestic cat in the house of Shaikh Jahangir Ashraf Simnani (1287-1386), a famous Sufi of the Qadiri and Chishti orders who lies buried in Kichaucha in Faizabad district in today’s Uttar Pradesh; a miracle is attributed to him. A domestic cat who lived in his house became a <em>waliyya</em> (feminine of <em>wali</em>, “friend [of God]”] as a result of a glance of power bestowed on her by the saint. After that she became known as Bi Bila’i, or Bibi Bila’i (Lady Cat), and was revered by the people. It was therefore quite proper to pray to her that she bless Mohini with healthy kittens able to survive”.</p><p>[vi] Shamsur Rahman Faruqi notes that this was a bean bread believed to ward off the evil eye.</p><p>[vii] Shamsur Rahman Faruqi, crediting Professor Chander Shekhar of Delhi University, glosses this cat as that of the 14th century jurisconsult Imad Faqih who had trained his cat into performing the five prayers with him, tricking people into taking it for a pious Muslim. Mir’s humour here is thus ironical.</p><p>[viii] Bu or Abu Hurairah, literally “Father of Kittens” in Arabic, was one of the Prophet Muhammad’s companions who was given this nickname because of his fondness for cats.</p><p>[ix] Ubaid Zakani (d.1370), one of the most famous satirists in the Persian language, composed a short didactic poem called “The Mice and the Cat” whose protagonist was a dissembling cat. Here, again then, Mir’s invocation is humorous by irony.</p><p>[x] Khwaja Ismat, as Shamsur Rahman Faruqi notes, cannot be identified with any person known in the archives of the time and may have been one of Mir’s acquaintances.</p><p>[xi] Mir is alluding to and overturning the custom according to which the Kaaba is a sanctuary to pigeons which, venerated by association with the history of prophets, may not be harmed.</p><p>[xii] This is a reference, as Shamsur Rahman Faruqi observes, to the Urdu proverb: “Having eaten nine hundred mice, the cat now goes to perform the hajj.”</p><p>[xiii] Mir is claiming, with characteristic poetic hyperbole, that the saying attributed to the Prophet Muhammad – “The love of cats is part of faith” – was possibly uttered for Mani’s sake.</p><p>[xiv] Mir puns on the first part of the place name Billimaran – Billi – which means “cat”. Billimaran itself thus means “Cat Killers”. Shamsur Rahman Faruqi notes that the people of Old Delhi sometimes still call it by this name, otherwise pronouncing it Ballimaran or “Oar Pullers”.</p><figure class="cms-block cms-block-image has-subtext" itemscope itemtype="https://schema.org/ImageObject" data-width="2745" data-height="3780" style=""><img src="https://s01.sgp1.cdn.digitaloceanspaces.com/inline/fjbqlcrdts-1584100190.jpg" alt="" title="Folio from an illustrated manuscript | Image credit: Metropolitan Museum of Art / Public Domain" itemprop="contentUrl" /><figcaption itemprop="caption description">Folio from an illustrated manuscript | Image credit: Metropolitan Museum of Art / Public Domain</figcaption></figure><h3 class="cms-block cms-block-heading"><strong>Qit’a 19</strong></h3><p><strong>Asadullah Khan Ghalib <br> <br> </strong></p><p>I own a noble-tempered cat<br> Whose leap’s a wave of fairy-wing.<br> She sways coyly when back on earth,<br> Her footprints now buds blossoming.<br> As through a mirror’s limpid frame,<br> Her belly shows her young moving.<br> Each fearsome lion that’s in the wood<br> Begs of her purr his own roaring. <br> Should she come by a cadaver<br> She’s taken, pure soul, by pitying. <br> The sparrow’s chick consigned to her,<br> She’s sworn then to its upbringing. <br> If she’s tyrant to cock and quail<br> It’s envy of her deep strutting.<br> Her tongue makes her the starry sky.<br> Her lick’s wetness Pleiades’ glowing. <br> A flowering and swelling of tones<br> Is her tail-wagging nearing.<br> Unknotting her tail flatteringly, <br> Her curls sets beauties’ locks trembling.<br> So long as on the sky’s chessboard<br> The sun keeps his pieces moving<br> Long live my stroking hand upon<br> Her belly and her back’s arching.</p><p><em>Prashant Keshavmurthy is Associate Professor of Persian-Iranian Studies in the Institute of Islamic Studies, McGill University. He is the author of a study of poetry, Sufism and politics in the circle of the Persian poet Abdul Qadir Khan Bedil of Delhi, titled Persian</em> Authorship and Canonicity in Late Mughal Delhi: Building an Ark<em> and is working on a study of figures of the barbarian in Persian literature.</em></p>
+        </div>
+        <i class="mail-us-section">
+      
+        Support our journalism by
+        <a href="https://scroll.in/subscribe?utm_source=internal&amp;utm_medium=scroll_article&amp;utm_campaign=article_footer">subscribing to Scroll+</a>.
+      
+      We welcome your comments at
+      <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;to=letters@scroll.in" target="_blank">letters@scroll.in</a>.
+    </i>
+        
+  <ul class="article-tags-list"><li>
+      <a href="//scroll.in/tag/cats" class="tag-menu">
+        cats
+      </a>
+    </li><li>
+      <a href="//scroll.in/tag/poetry" class="tag-menu">
+        poetry
+      </a>
+    </li></ul>
+
+
+        
+
+        <!-- END OF ARTICLE RENDER FROM CMS-->
+        <!-- SHARE BAR FOR MOBILE-->
+        <div class="share-bar-mobile fixedsticky hide-for-large hideOnApp">
+          <div class="tablet-width-container">
+            <!-- ARTICLE VIEW COUNTER-->
+            <!-- END OF ARTICLE VIEW COUNTER-->
+            <!-- ARTICLE SHARE SHEET-->
+            <ul class="article-share-sheet">
+              
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+            </ul>
+            <!-- END OF ARTICLE SHARE SHEET-->
+          </div>
+          <!-- END OF SHARE BAR FOR MOBILE-->
+        </div>
+      </section>
+
+      
+  <div id='commentsSection'></div>
+
+
+      <!-- RECOMMENDED ARTICLES BAR-->
+      <aside class="article-recommended-list-container large-3 columns">
+        
+  
+  <div class="article-related">
+    <h3>Related</h3>
+    <div class="card related-card">
+      <a href="https://scroll.in/article/970889/how-long-does-it-take-a-hand-of-my-country-to-reach-a-hungry-mouth-six-poems-by-kedarnath-singh" data-label="Clicked from related article section of article page" class="ga-track">
+        <figure>
+          <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/146331-mapwoihand-1597934704.jpeg" loading="lazy" alt="‘How long does it take a hand of my country to reach a hungry mouth?’ Six poems by Kedarnath Singh">
+        </figure>
+        <h4>‘How long does it take a hand of my country to reach a hungry mouth?’ Six poems by Kedarnath Singh</h4>
+      </a>
+    </div>
+  </div>
+  
+
+            
+  
+  <div class="below-related-banner-wrapper">
+    <div id='div-gpt-ad-1530701734090-1' class="below-related-banner"></div>
+  </div>
+    
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [300, 250])
+                  .addSize([768, 50], [])
+                  .addSize([1050, 250], [])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-1"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-below-related',
+      [300, 250],
+      'div-gpt-ad-1530701734090-1')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (false) {
+      window.gptSlots["div-gpt-ad-1530701734090-1"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-1"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-1"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-1'); });
+</script>
+
+
+          
+          
+  
+  <div class="card-container-parent">
+    
+    <h3>Trending</h3>
+    <div class="article-recommended-list">
+      
+      <ol class="cards-container">
+            <li class="card">
+              <a href="https://scroll.in/latest/976053/tanishq-ad-amit-shah-warns-against-over-activism-says-indias-roots-of-harmony-very-strong" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/149313-dorksduysy-1602947280.jpg" loading="lazy" alt="Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’">
+                </figure>
+                <h4>Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/video/974581/watch-the-next-instalment-in-comedian-sarah-coopers-series-on-donald-trump-is-how-to-drugs" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/148394-qgdnwphaqk-1601522417.jpeg" loading="lazy" alt="Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’">
+                </figure>
+                <h4>Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/latest/975947/sc-rejects-petition-for-presidents-rule-removal-of-uddhav-thackeray-government-in-maharashtra" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/131578-xlmvezanmn-1582011220.jpg" loading="lazy" alt="SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra">
+                </figure>
+                <h4>SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/article/975902/democracy-gives-us-the-right-to-ask-questions-neha-singh-rathores-bhojpuri-tunes-are-going-viral" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/149243-wjhzwkywyy-1602784787.jpg" loading="lazy" alt="‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral">
+                </figure>
+                <h4>‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/latest/976019/french-teacher-beheaded-for-showing-caricatures-of-prophet-muhammad-attacker-shot-dead" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/149284-rqrxzskrms-1602911769.jpg" loading="lazy" alt="French teacher beheaded for showing caricatures of Prophet Muhammad, attacker shot dead">
+                </figure>
+                <h4>French teacher beheaded for showing caricatures of Prophet Muhammad, attacker shot dead</h4>
+              </a>
+            </li>
+          </ol>
+    </div>
+  </div>
+  
+
+        
+      </aside>
+      <!-- END OF RECOMMENDED ARTICLES BAR-->
+    </div>
+    <!-- END OF ARTICLE CONTENT-->
+  </article>
+</div>
+
+  
+    
+  
+  
+    <div class="oop-in-article-wrapper" style="height: 0;">
+      <div id="div-gpt-ad-1530701734090-oop-in-article" class="oop-in-article"></div>
+    </div>
+
+  <div class="scroll-ad hideOnApp">
+      <div id="article-dfpad-0" class="ad-container"></div>
+    </div>
+  
+
+  <div id="vue-articles"></div>
+    </div>
+    
+      
+    
+
+    <!-- to be renamed -->
+    
+        
+  
+  <div id="bottomStickyWrapper"
+    class="bottom-sticky-banner-wrapper engagement-bar hide hideOnApp hide-for-large"
+  >
+    <div id="div-gpt-ad-1530701734090-3" class="bottom-sticky-banner"></div>
+  </div>
+  
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [320, 50])
+                  .addSize([768, 50], [])
+                  .addSize([1050, 250], [])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-3"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-bottom-sticky',
+      [320, 50],
+      'div-gpt-ad-1530701734090-3')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (true) {
+      window.gptSlots["div-gpt-ad-1530701734090-3"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-3"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-3"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-3'); });
+</script>
+
+
+      
+    
+
+    
+      <div id="search-container"></div>
+    
+
+    
+      
+      
+      
+
+      
+      <script>
+        _atrk_opts = { atrk_acct:"k8gmo1IW1810em", domain:"scroll.in",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+      </script>
+      <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=k8gmo1IW1810em" style="display:none" height="1" width="1" alt=""></noscript>
+      
+
+      
+      <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "19749776" });
+        (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+        })();
+      </script>
+      <noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&c2=19749776&cv=2.0&cj=1" />
+      </noscript>
+      <script>
+        (function() {
+          var _Scroll = window._Scroll || {};
+          _Scroll.siteLang = "en";
+          _Scroll.baseLink = '//scroll.in';
+          _Scroll.currentName = 'scroll';
+          _Scroll.isBrand = '';
+          _Scroll.months =  ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+          _Scroll.weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+          _Scroll.timelines = ['Today', 'Yesterday'];
+          _Scroll.quantifiers = ['ago', 'seconds', 'minute', 'minutes', 'hour', 'hours', 'day', 'days', 'month', 'months', 'year', 'years', 'a', 'an' ];
+          _Scroll.subscribed = false;
+          _Scroll.userGroups = {"expired": "expired", "registered": "registered", "subscriber": "subscriber", "unverified": "unverified"};
+          _Scroll.subscriptions_enabled = true;
+          _Scroll.comments_enabled = true;
+          _Scroll.isCanvasShown = false;
+          _Scroll.userinfo = {"groups": [], "uid": ""};
+          _Scroll.showBannerAds = true;
+          _Scroll.adx = {"enabled": true, "openwrap": {"enabled": true, "profile_id": "2477", "pub_id": "159549"}, "out_of_page": {"in_article": {"div_id": "div-gpt-ad-1530701734090-oop-in-article", "mapping": [1, 1], "slot_id": "/21719278143/scroll-web-all-oop-in-article"}}, "slots": {"below_navigation": {"amp_slot_id": "/21719278143/scroll-amp-all-below-navigation", "div_id": "div-gpt-ad-1530701734090-0", "mapping": [[], [300, 250], [300, 250], [970, 250]], "sizes": [[970, 250], [300, 250]], "slot_id": "/21719278143/scroll-web-all-below-navigation"}, "below_related": {"amp_slot_id": "/21719278143/scroll-amp-all-below-related", "div_id": "div-gpt-ad-1530701734090-1", "mapping": [[], [300, 250], [], []], "sizes": [300, 250], "slot_id": "/21719278143/scroll-web-all-below-related"}, "bottom_sticky": {"amp_slot_id": "/21719278143/scroll-amp-all-bottom-sticky", "div_id": "div-gpt-ad-1530701734090-3", "mapping": [[], [320, 50], [], []], "sizes": [320, 50], "slot_id": "/21719278143/scroll-web-all-bottom-sticky"}, "in_article": {"amp_slot_id": "/21719278143/scroll-amp-all-in-article", "div_id": "div-gpt-ad-1530701734090-2", "mapping": [[], [300, 250], [300, 250], [300, 250]], "sizes": [300, 250], "slot_id": "/21719278143/scroll-web-all-in-article"}}};
+          _Scroll.gonativeApp = false;
+          _Scroll.articleFeed = 'series';
+          _Scroll.seriesTitle = 'Scroll.in';
+          _Scroll.gaId = 'UA-47293256-1';
+          _Scroll.publication = 'scroll';
+          _Scroll.electionWidgetArticles = {};
+          window._Scroll = _Scroll;
+        })();
+      </script>
+    <script>
+    (function() {
+      var _Scroll = window._Scroll || {};
+      _Scroll.lastArticleId = 956092;
+      _Scroll.seriesId = 0;
+      _Scroll.categoryIds = [80];
+      _Scroll.templateMap = {'normal': [1, 11], 'thin': [2, 3, 4], 'pollable': [10], 'audio': [5], 'deal': [9], 'recipe': [12]};
+      _Scroll.notShowingCoverFor = [3, 4];
+
+      
+        
+          _Scroll.articleFeed = 'category';
+          _Scroll.isFromHomePage = false;
+      window._Scroll = _Scroll;
+    })();
+  </script>
+  
+  
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement":
+      [{
+        "@type": "ListItem",
+        "position": 1,
+        "item":
+        {
+          "@id": "https://scroll.in/category/80/books-and-ideas",
+          "name": "Books And Ideas"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item":
+        {
+          "@id": "https://scroll.in/topic/39391/uses-of-poetry",
+          "name": "Uses Of Poetry"
+        }
+      }]
+    }
+  </script>
+  
+
+
+    <script crossorigin="anonymous" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+    <script src="https://go.automatad.com/geo/IEpFQC/afihbs.js" async></script><script src="https://scroll.in/static/js/common.31619575e6473c058ac8.006.js"></script>
+    
+  <script src="https://scroll.in/static/js/article.954a247628ccedbf458b.006.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="google-play-app" content="app-id=in.scroll.android">
+    <meta name="twitter:app:name:googleplay" content="Scroll.in App for Android">
+    <meta name="twitter:app:id:googleplay" content="in.scroll.android">
+    <link rel="alternate" type="application/rss+xml" title="Scroll.in News (RSS 2.0)" href="http://feeds.feedburner.com/ScrollinArticles.rss">
+    <title>Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Scroll.in">
+    <link href="scroll_in" rel="publisher">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon.5f31c86209ff21c26b68aabf47772769.006.png">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-16x16.5f31c86209ff21c26b68aabf47772769.006.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-32x32.5f31c86209ff21c26b68aabf47772769.006.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-96x96.4cc034945103e3d2a902c9f81dceb823.006.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="https://scroll.in/static/assets/favicon-160x160.7d97c537daffcf114789e9abfa5fb07f.006.png" sizes="160x160">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-57x57.277cea0346eb4df5b677579fca717306.006.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-72x72.53ee5cb4271f912e403784b41ffd9311.006.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-114x114.9dc8c17e787ea5a8d991fe66621ed49a.006.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="https://scroll.in/static/assets/apple-touch-icon-144x144.b71c766a62abe812b4b37e7f21e91e56.006.png" sizes="144x144">
+    <meta property="og:title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="author" content="Mir Taqi Mir, Mirza Ghalib & Prashant Keshavmurthy">
+    <meta property="og:description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://s01.sgp1.cdn.digitaloceanspaces.com/book/138276-msapkfpgal-1584099802.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+    <meta property="og:site_name" content="Scroll.in">
+    <meta property="og:url" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta property="article:publisher" content="https://www.facebook.com/scroll.in">
+    <meta name="keywords" content="Books and Ideas, cats, poetry, Mir taqi mir, Ghalib, Urdu poetry, translation">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="https://s01.sgp1.cdn.digitaloceanspaces.com/book/138276-msapkfpgal-1584099802.jpg">
+    <meta name="twitter:description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="twitter:title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="twitter:url" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta name="twitter:site" content="@scroll_in">
+    <meta name="twitter:creator" content="@scroll_in">
+    <meta name="twitter:site:id" content="@scroll_in">
+    <meta name="dcterms.title" content="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    <meta name="dcterms.description" content="Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.">
+    <meta name="dcterms.type" content="Text">
+    <meta name="dcterms.format" content="text/html">
+    <meta name="dcterms.language" content="en_US">
+    <meta name="dcterms.identifier" content="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <meta name="dcterms.created" content="2020-03-14T08:30:00+05:30">
+    <meta name="dcterms.available" content="2020-03-14T08:30:00+05:30">
+    <meta name="dcterms.publisher" content="https://scroll.in">
+    <meta name="dcterms.creator" content="Mir Taqi Mir, Mirza Ghalib & Prashant Keshavmurthy">
+    <meta name="dcterms.subject" content="Books and Ideas, cats, poetry, Mir taqi mir, Ghalib, Urdu poetry, translation">
+    <meta name="atdlayout" content="articlepage">
+    <meta property="article:tag" content="Books and Ideas">
+    <meta property="article:tag" content="cats">
+    <meta property="article:tag" content="poetry">
+    <meta property="article:tag" content="Mir taqi mir">
+    <meta property="article:tag" content="Ghalib">
+    <meta property="article:tag" content="Urdu poetry">
+    <meta property="article:tag" content="translation">
+    <link rel="canonical" href="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+    <link rel="amphtml" href="https://amp.scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media">
+    
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media"
+      },
+      "headline": "Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/article/138276-msapkfpgal-1584099802.jpg",
+        "width": 1200,
+        "height": 630
+      },
+      "datePublished": "2020-03-14T08:30:00+05:30",
+      "dateModified": "2020-03-14T08:32:00.987499+05:30",
+      "author": 
+  {
+    "@type": "Person",
+    "name": "Mir Taqi Mir",
+    "sameAs": "https://scroll.in/author/18582"
+  }
+,
+      "publisher": {
+    "@type" : "Organization",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://scroll.in/static/assets/scroll-logo-235x60.f692efa0f186cc40d85a5dac45e3a4af.006.png",
+      "width": 235,
+      "height": 60
+    },
+    "sameAs" : [ "https://www.facebook.com/scroll.in",
+      "https://www.twitter.com/scroll_in",
+      "https://plus.google.com/scroll_in",
+      "https://instagram.com/+ScrollIn"]
+  },
+      "description": "Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy."
+    }
+  </script>
+
+  <script type="application/ld+json">
+    {"@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://scroll.in/static/assets/scroll-logo-235x60.f692efa0f186cc40d85a5dac45e3a4af.006.png",
+      "width": 235,
+      "height": 60
+    },
+    "sameAs" : [ "https://www.facebook.com/scroll.in",
+      "https://www.twitter.com/scroll_in",
+      "https://plus.google.com/scroll_in",
+      "https://instagram.com/+ScrollIn"]
+  }
+  </script>
+  <script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "Scroll.in",
+    "url" : "https://scroll.in",
+    "potentialAction":
+        {
+        "@type":"SearchAction",
+        "target":"https://scroll.in/search?q={search_term_string}",
+        "query-input":"required name=search_term_string"
+        }
+     }
+  </script>
+    <link rel="stylesheet" crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Serif:400,400i,700,700i&display=swap">
+    <link rel="stylesheet" href="https://scroll.in/static/css/base.3507681fe27c7c30e0ba.006.css">
+      <link rel="stylesheet" href="https://scroll.in/static/css/article.7271893b55fddb1bd788.006.css">
+  
+  
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-47293256-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-47293256-1');
+    </script>
+    
+
+    
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>window.googletag = window.googletag || {cmd: []};</script>
+    
+
+    <script>
+      (function() {
+        var faLink = document.createElement('link');
+        faLink.type = 'text/css';
+        faLink.rel = 'stylesheet';
+        faLink.href='https://use.fontawesome.com/releases/v5.0.6/css/all.css';
+        document.getElementsByTagName('head')[0].appendChild(faLink);
+      })();
+    </script>
+  </head>
+  <body class="scroll">
+    
+    
+      
+        
+          
+          
+<div id="app-banner-container"></div>
+<nav class=" global-navigation clearfix hideOnApp">
+  <div class="scroll-logo-block clearfix">
+    <div class="column scroll-box scroll-box-1 masthead-slot masthead-slot-1">
+      
+      <a class="ga-track slot-link" href="https://scroll.in/subscribe?utm_source=InternalMasthead&amp;utm_medium=Left&amp;utm_campaign=Aug21&amp;utm_content=MHL" target="_blank" data-label="Masthead Slot - 1">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://s01.sgp1.cdn.digitaloceanspaces.com/images/999.jpg" loading="lazy">
+      </a>
+      
+    </div>
+
+    <div class="column scroll-box scroll-box-3">
+      
+      <a href="//scroll.in" data-category="Desktop" data-label="Scroll logo clicked" class="ga-track">
+        <i class="scroll-logo">Scroll.in</i>
+      </a>
+      <em class="scroll-publication-date current-date">-</em>
+    </div>
+
+    <div class="column scroll-box scroll-box-1 masthead-slot masthead-slot-2">
+      
+      <a class="ga-track slot-link" href="https://scroll.in/subscribe?utm_source=InternalMasthead&amp;utm_medium=Right&amp;utm_campaign=Aug21&amp;utm_content=MHR" target="_blank" data-label="Masthead Slot - 2">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://s01.sgp1.cdn.digitaloceanspaces.com/images/1009.jpg" loading="lazy">
+      </a>
+      
+    </div>
+  </div>
+
+  <div class="mobile-scroll-logo-block">
+    <a href="//scroll.in/" data-category="Mobile" data-label="Scroll logo clicked">
+      <i class="scroll-logo">Scroll.in</i>
+    </a>
+    <ul class="scroll-navigation-action-icons mobile-scroll-navigation-icons clearfix">
+      <li id="exchangeIconMobile" class=" scroll-navigation-scroll-exchange">
+          <a class="ga-track" data-category="Mobile" data-label="Scroll Exchange clicked from header" href="//scroll.in/community">
+              <span class="nav-icon-container">
+                  <i class="scroll-exchange"></i>
+                  <i class="nav-new-tag"></i>
+              </span>
+              <span class="nav-label"><strong>Exchange</strong></span>
+              <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+      </li>
+      <li id="thePlusIconMobile" class="scroll-navigation-scroll-plus ">
+        <a class="ga-track" data-category="Mobile" data-label="Scroll plus clicked from header" href="//scroll.in/theplus/">
+          <span class="nav-icon-container">
+              <i class="the-plus"></i>
+          </span>
+          <span class="nav-label">The <strong>Plus</strong></span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+
+      
+        
+          <li id="loginIconMobile" class="scroll-navigation-login">
+            <a class="ga-track" data-category="Mobile" data-label="Login Button clicked from header" href="//scroll.in/login">
+              <span class="nav-icon-container">
+                  <i class="nav-login"></i>
+              </span>
+              <i class="fas fa-caret-up is-active-caret"></i>
+            </a>
+          </li>
+        
+      
+
+      <li id="searchIconMobile" class=" scroll-navigation-search">
+        <a href="//scroll.in/search" data-category="Mobile" data-label="Search button clicked" class="ga-track nav-search-button">
+          <span class="nav-icon-container">
+              <i class="nav-search"></i>
+          </span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+
+      <li id="settingsIconMobile" class="scroll-navigation-more scroll-navigation-plus-mobile">
+        <a href="#" data-category="Mobile" data-label="Ellipsis button clicked"
+          class="ga-track">
+          <span class="nav-icon-container">
+              <i class="nav-settings"></i>
+          </span>
+          <i class="fas fa-caret-up is-active-caret"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="scroll-navigation-container clearfix">
+    <div class="scroll-navigation-links-block clearfix">
+      <ul class="scroll-navigation-feeds clearfix">
+        <li data-stop-js="1" class="">
+          <a href="//scroll.in/" data-category="Mobile" data-label="All News Clicked from menu" class="ga-track">
+            Home
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/global/" data-category="Mobile" data-label="Global Clicked from menu" class="ga-track">
+            Global
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/topic/56256/coronavirus-crisis" data-category="Mobile" data-label="Covid Clicked from men
+          u" class="ga-track">
+            Covid-19
+          </a>
+       </li>
+        <li class="">
+          <a href="//scroll.in/food/" data-category="Mobile" data-label="Food Clicked from menu" class="ga-track">
+            Food
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/video/" data-category="Mobile" data-label="Videoblog Clicked from menu" class="ga-track">
+            Video
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/latest/" data-category="Mobile" data-label="Latest Clicked from menu" class="ga-track">
+            Latest
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/reel/" data-category="Mobile" data-label="Reel Clicked from menu" class="ga-track">
+            The Reel
+          </a>
+        </li>
+        <li class="">
+          <a href="//scroll.in/field/" data-category="Mobile" data-label="Field Clicked from menu" class="ga-track">
+            The Field
+          </a>
+        </li>
+        <li class="scroll-navigation-trending has-submenu">
+          <a href="#" data-category="Mobile" data-label="Trending Clicked from menu" class="ga-track">
+            Trending <i class="fas fa-angle-down"></i>
+          </a>
+          <ul><li>
+              <a href="https://scroll.in/latest/976053/tanishq-ad-amit-shah-warns-against-over-activism-says-indias-roots-of-harmony-very-strong">Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’</a>
+            </li><li>
+              <a href="https://scroll.in/latest/975947/sc-rejects-petition-for-presidents-rule-removal-of-uddhav-thackeray-government-in-maharashtra">SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra</a>
+            </li><li>
+              <a href="https://scroll.in/video/974581/watch-the-next-instalment-in-comedian-sarah-coopers-series-on-donald-trump-is-how-to-drugs">Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’</a>
+            </li><li>
+              <a href="https://scroll.in/article/975902/democracy-gives-us-the-right-to-ask-questions-neha-singh-rathores-bhojpuri-tunes-are-going-viral">‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976028/court-orders-fir-against-kangana-ranaut-her-sister-for-allegedly-trying-to-create-communal-tensions">Court orders FIR against Kangana Ranaut, her sister for allegedly trying to create communal tensions</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976019/french-teacher-beheaded-for-showing-caricatures-of-prophet-muhammad-attacker-shot-dead">French teacher beheaded for showing caricatures of Prophet Muhammad, attacker shot dead</a>
+            </li><li>
+              <a href="https://scroll.in/article/947110/the-pluto-effect-the-sun-and-moon-were-once-planets-and-the-earth-was-not">The Pluto effect: The Sun and Moon were once planets, and the Earth was not</a>
+            </li><li>
+              <a href="https://scroll.in/article/975984/kashmir-has-a-new-political-alliance-to-fight-for-special-status-but-how-will-it-work">Kashmir has a new political alliance to fight for special status – but how will it work?</a>
+            </li><li>
+              <a href="https://scroll.in/video/974737/watch-new-video-from-biden-campaign-targets-trump-for-not-having-a-pet-dog-in-the-white-house">Watch: New video from Biden campaign targets Trump for not having a pet dog in the White House</a>
+            </li><li>
+              <a href="https://scroll.in/reel/975990/in-hun-hunshi-hunshilal-an-invented-country-and-a-very-real-exploration-of-misrule-and-dissent">In ‘Hun, Hunshi, Hunshilal’, an invented country and a very real exploration of misrule and dissent </a>
+            </li><li>
+              <a href="https://scroll.in/article/975636/fossil-footprints-of-a-mother-child-reveal-the-story-behind-the-longest-known-prehistoric-journey">Fossil footprints of a mother, child reveal the story behind the longest known prehistoric journey</a>
+            </li><li>
+              <a href="https://scroll.in/latest/976054/the-big-news-modi-says-access-to-covid-vaccine-should-be-ensured-speedily-and-9-other-top-stories">The big news: Modi says access to Covid vaccine should be ensured speedily, and 9 other top stories</a>
+            </li></ul>
+        </li>
+        <li class="scroll-navigation-sections has-submenu">
+          <a href="#" data-category="Mobile" data-label="Sections Clicked from menu" class="ga-track">
+            Sections <i class="fas fa-angle-down"></i>
+          </a>
+          <ul>
+            <li>
+              <a href="//scroll.in/magazine/" data-category="Mobile" data-label="Magazine Clicked from menu" class="ga-track">
+                Magazine
+              </a>
+            </li>
+          <!-- Filtering out opinion since it is used outside sections -->
+            <li>
+              <a href="//scroll.in/category/76/politics" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Politics</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/107/culture" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Culture</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/105/india" data-category="Mobile" data-label="Section icon clicked" class="ga-track">India</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/3554/world" data-category="Mobile" data-label="Section icon clicked" class="ga-track">World</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/3/film-and-tv" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Film and TV</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/4/music" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Music</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/80/books-and-ideas" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Books and Ideas</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/77/business-and-economy" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Business and Economy</a>
+            </li>
+            <li>
+              <a href="//scroll.in/category/83/science-and-technology" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Science and Technology</a>
+            </li><li>
+              <a href="//scroll.in/roving/" data-category="Mobile" data-label="In pictures Clicked from menu" class="ga-track">
+                In Pictures
+              </a>
+            </li>
+            <li>
+              <a href="//scroll.in/announcements/" data-category="Mobile" data-label="Section icon clicked" class="ga-track">Announcements</a>
+            </li>
+            <li>
+              <a href="//shop.scroll.in" data-category="Mobile" data-label="Bookshop Clicked from menu" class="ga-track">
+                Bookshop
+              </a>
+            </li>
+            <li class="">
+              <a href="//scroll.in/pulse/" data-category="Mobile" data-label="Pulse Clicked from menu" class="ga-track">
+                Pulse
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="scroll-navigation-action-icons clearfix">
+        <li id="exchangeIcon" class=" scroll-navigation-scroll-exchange">
+            <a class="ga-track" data-category="Mobile" data-label="Scroll Exchange clicked from header" href="//scroll.in/community">
+                <span class="nav-icon-container">
+                    <i class="scroll-exchange"></i>
+                    <i class="nav-new-tag"></i>
+                </span>
+                <span class="nav-label"><strong>Exchange</strong></span>
+                <i class="fas fa-caret-up is-active-caret"></i>
+            </a>
+        </li>
+        <li id="thePlusIcon" class=" scroll-navigation-scroll-plus">
+          <a class="ga-track" data-category="Mobile" data-label="Scroll plus clicked from header" href="//scroll.in/theplus/">
+            <span class="nav-icon-container">
+                <i class="the-plus"></i>
+            </span>
+            <span class="nav-label">The <strong>Plus</strong></span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+
+        
+          
+            <li id="loginIcon" class="scroll-navigation-login">
+              <a class="ga-track" data-category="Mobile" data-label="Login Button clicked from header" href="//scroll.in/login">
+                <span class="nav-icon-container">
+                    <i class="nav-login"></i>
+                </span>
+                <i class="fas fa-caret-up is-active-caret"></i>
+              </a>
+            </li>
+          
+        
+
+        <li id="searchIcon" class=" scroll-navigation-search">
+          <a href="//scroll.in/search" data-category="Mobile" data-label="Search button clicked" class="ga-track nav-search-button">
+            <span class="nav-icon-container">
+                <i class="nav-search"></i>
+            </span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+        <li id="settingsIcon" class="scroll-navigation-more">
+          <a href="#" data-category="Mobile" data-label="Ellipsis button clicked"
+            class="ga-track">
+            <span class="nav-icon-container">
+                <i class="nav-settings"></i>
+            </span>
+            <i class="fas fa-caret-up is-active-caret"></i>
+          </a>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
+<div id="infoModal"></div>
+<div class="error-message warning" style="display: none">
+  <p><i class="fa fa-exclamation-circle"></i><span class="error-message-block"></span></p>
+</div>
+<div id="modal-container"></div>
+<div class="tooltip-container" style="display:none">
+  <div id="tooltip"></div>
+</div>
+        
+      
+    
+    <div id="notification-alert-banner"></div>
+    <div id="GDPRAlertBanner"></div>
+    
+    <div class="main-container " >
+      
+
+  
+    
+  
+  <div class="below-navigation-banner-wrapper">
+    <div id='div-gpt-ad-1530701734090-0' class="below-navigation-banner"></div>
+  </div>
+  
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [300, 250])
+                  .addSize([768, 50], [300, 250])
+                  .addSize([1050, 250], [970, 250])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-0"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-below-navigation',
+      [[970, 250], [300, 250]],
+      'div-gpt-ad-1530701734090-0')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (false) {
+      window.gptSlots["div-gpt-ad-1530701734090-0"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-0"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-0"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-0'); });
+</script>
+
+
+  
+
+  <div id="server-articles" class="article-page scroll-article-page">
+    
+  <!-- ARTICLE STARTS HERE-->
+  <article id="article-unique-956092" data-series-id="0" class="article scroll-article normal-article scroll-in-article" data-seo-title="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media" data-title="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media" data-permalink="https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" data-id="956092" data-cb-authors="Mir Taqi Mir, Mirza Ghalib, Prashant Keshavmurthy" data-cb-categories="Scroll.in, Books and Ideas" data-in-viewport="true">
+    <!-- ARTICLE HEADER    -->
+    <header>
+      
+  <span class="orange-tag">
+    <a href="//scroll.in/topic/39391/uses-of-poetry">
+        USES OF POETRY
+      </a>
+    
+  </span>
+
+      <h1>Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media</h1>
+      <h2>Mir wrote of ‘a cat called Mohini’, and Ghalib, of his ‘noble-tempered’ pet. These poems are translated by Prashant Keshavmurthy.</h2>
+      <!-- MOBILE & TABLET ONLY META-->
+      <div class="article-meta-container-with-comments">
+        <div class="article-meta-container hide-for-large">
+          
+  <address><a href="//scroll.in/author/18582"
+         rel="author"
+         
+        >Mir Taqi Mir</a><span class="comma-separator">&comma;&nbsp;</span><a href="//scroll.in/author/10304"
+         rel="author"
+         
+        >Mirza Ghalib</a><span class="comma-separator">&nbsp;&amp;&nbsp;</span><a href="//scroll.in/author/18583"
+         rel="author"
+         
+        >Prashant Keshavmurthy</a></address>
+
+          
+  <div class="article-time-container">
+    <time datetime="2020-03-14T08:30:00+05:30" class="article-published-time">
+      Mar 14, 2020 &middot; 08:30 am
+    </time>
+    
+  </div>
+
+        </div>
+        
+  <ul class="comments-entry-point-meta hide-for-large">
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="meta-icons" >
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="meta-icons">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li></ul>
+
+      </div>
+      <!-- END OF MOBILE & TABLET ONLY META-->
+    </header>
+    <!-- END OF ARTICLE HEADER-->
+    <!-- ARTICLE IMAGE-->
+    <figure class="featured-image"><picture class="aspect-ratio-placeholder image-width-1200-height-630"><img src="https://s01.sgp1.cdn.digitaloceanspaces.com/article/138276-msapkfpgal-1584099802.jpg" loading="lazy" alt="Cats: Ghazal writers Mir and Ghalib composed these poems about the animal that rules social media">
+    </picture>
+    <figcaption class="featured-image-caption">
+      
+  
+    
+    
+    Jennifer Boyer / CC BY 2.0
+  
+
+    </figcaption>
+  </figure>
+
+    <!-- END OF ARTICLE IMAGE-->
+    <!-- ARTICLE CONTENT-->
+    <div class="article-content-container">
+      <!-- DESKTOP ONLY META & SHARING-->
+      <aside class="article-meta-container large-3 columns show-for-large">
+        <!-- ARTICLE PUBLISHED & UPDATED TIMES-->
+        
+  <div class="article-time-container">
+    <time datetime="2020-03-14T08:30:00+05:30" class="article-published-time">
+      Mar 14, 2020 &middot; 08:30 am
+    </time>
+    
+  </div>
+
+        <!-- END OF ARTICLE PUBLISHED & UPDATED TIMES-->
+        <!-- ARTICLE AUTHOR BY-LINE-->
+        
+  <address><a href="//scroll.in/author/18582"
+         rel="author"
+         
+        >Mir Taqi Mir</a><span class="comma-separator">&comma;&nbsp;</span><a href="//scroll.in/author/10304"
+         rel="author"
+         
+        >Mirza Ghalib</a><span class="comma-separator">&nbsp;&amp;&nbsp;</span><a href="//scroll.in/author/18583"
+         rel="author"
+         
+        >Prashant Keshavmurthy</a></address>
+
+        <!-- END OF ARTICLE AUTHOR BY-LINE-->
+
+        <!-- ARTICLE SHARE SHEET-->
+        <ul class="article-share-sheet">
+          
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+        Share
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+        Tweet
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+        Email
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+        Reddit
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+        </ul>
+        <!-- END OF ARTICLE SHARE SHEET-->
+        <!-- ARTICLE BOTTOM SHARE SHEET-->
+        <ul class="article-share-sheet bottom-share-sheet">
+          
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+        Share
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+        Tweet
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+        Email
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+        Reddit
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+        </ul>
+        <!-- END OF ARTICLE BOTTOM SHARE SHEET-->
+      </aside>
+      <!-- END OF DESKTOP ONLY META & SHARING-->
+      <!-- ARTICLE RENDER FROM CMS-->
+      <section class="article-content scroll-article-content normal-article-content large-6 columns">
+        <div id="article-contents" class="article-body">
+          <p>Canonised as one of Urdu’s greatest poets, Mir Muhammad Taqi “Mir” of Delhi, who died in 1810, also authored a collection of verse in Persian. He composed verse in genres other than the ghazal, in which his accomplishments are rightly revered. Among these is the masnavi, a narrative poem of indeterminate length but in in a uniform meter and with rhymed couplets. In this genre he composed seven relatively short masnavis on animals.</p><p>These animal poems stand out in the corpus of Urdu and Persian literature because they do not quite correspond to either of the two literary attitudes towards animals we see in earlier Persian and Urdu literature: a typically Sufi allegorical attitude (such as we see in the 13th century Rumi) wherein animals symbolise human traits; and a wholly celebratory attitude (such as we see in Mir’s contemporary Nazeer Akbarabadi) wherein animals like dancing bears or squirrels are elements of a mosaic of urban spectacles. </p><p>By contrast, Mir’s animal poems are personal. Brimming with autobiographical affection and humour, they convey Mir’s own relationship to the dog, cats, baby monkey, rooster and goat with whom he shared his home at various times. In their non-allegorical and non-Sufi validation of the here-and-now, these poems belong to a corpus of 18th and early 19th century Urdu literature that was distinguished (like the older profane poetics of Sanskrit and Braj Bhasha) by its insistence on the primary reality of this world rather than the next. </p><h3 class="cms-block cms-block-heading">Their profane joy is a celebration of the mundane sharply different from the late 19th century reform-minded naturalism that was to dominate Urdu literature on English colonial models.</h3><p>Mir’s poem on his cat Mohini and her kittens, translated below, joins a tradition of such secular panegyrics to and elegies for cats in Arabic, Persian and Turkish going back to the 11th century. The scholar Jalaluddin as-Suyuti of 15th century Cairo even compiled an anthology entitled <em>The Merits of the House Cat</em>. </p><p>Arguably every urban literary tradition has a sub-tradition of cat-poetry (Sanskrit is no exception) but hagiographical reports on the Prophet Muhammad’s fondness for cats as well as one of his companion’s affection for kittens singled the cat out from other creatures for special Muslim attention. Again, what distinguishes Mir’s poem from these secular predecessors is the sense it conveys of his individual presence. We cannot see and feel for Mohini and her offspring except as Mir sees and feels for them. </p><p>At the same time, what Mir’s poem shares with these predecessors is the foregrounding of language. As in earlier Islamic cat-poems so in Mir’s, we cannot see Mohini and her kittens except through the veil of Mir’s many allusions to cat-related proverbs and legends, allusions that Mir plays with to distinguish his own voice from the chorus of poets and hagiographers who had extolled cats before him. This translation mimics the rhythm and rhymes of Mir’s Urdu poem. </p><p>The second cat poem below is by Asadullah Khan “Ghalib”, who died in 1869 in Delhi and who is sometimes canonised as the greatest Urdu poet after Mir and sometimes as greater than him. The poem itself, however, comes from Ghalib’s collection of Persian verse which is larger than his Urdu collection. </p><p>It belongs to the genre of the <em>qit’a</em>, typically a short poem on a single everyday topic, in a uniform meter and monorhymed like the ghazal. Like Mir’s cats, Ghalib’s too is like a Sufi in her altruism, frail might and translucent beauty and yet also like the beloved of the ghazal genre in her coy strutting that is the envy of strutting cocks and quails, her uncurling tail a superior version of the curls of beauties. This translation, too, replicates the rhythm and rhymes of Ghalib’s poem. </p><p>In imitation of the short and long syllabic units of Urdu and Persian prosody, both translations are in English iambic tetrameter – that is, in four iambs (an iamb is an unstressed syllable followed by a stressed one) per line, long a meter of choice for the English ballad and other such rapid poems on everyday subjects.</p><h3 class="cms-block cms-block-heading"><strong>Mohini the Cat</strong></h3><p><strong>Mir Taqi Mir</strong></p><p>A cat called Mohini one day<br> Came home and decided to stay.  <br> Of some of us she grew fond then<br> And seldom left, staying mostly in. <br> And then she grew so fond of me<br> In all things she’d then look to me.<br> At dawn she’d come to me and purr.<br> The sky’s pale cat rose after her. [i] <br> That is, she came as evening fell<br> And stayed for hours, my sentinel. <br> The leanest scrap of meat I’d find<br> On seeing my straits, she wouldn’t mind. <br> And if a pot had spilled by chance [ii]<br> She’d give it not the slightest glance.<br> She’d hardly meddle, never peep<br> At fallen crumbs, her hunger deep.<br> From her it takes nothing away<br> If trembling mice themselves fall prey.<br> Some cat our food had gobbled up <br> So, this one fought, but paws held up. <br> I won’t forget her purity.<br> She never crossed her path with me.<br> Did she step out with me and keep<br> Me home or sneeze just as I would leave? [iii]<br> Though kettle-black from head to tail <br> Her manners were a spectacle. <br> Adored by the women next door,<br> She only left when they implored. <br> For wanderlust she had Delhi.<br> She was no vagabond, you see. </p><p>By bits she climbed the roofs around<br> Returning later every round. <br> Knocked up, her kittens then arrived<br> And not a single one survived. <br> This happened again. This affair<br> Of dead kittens was hard to bear.<br> To guard her womb was paramount<br> By all that spells could bring about.<br> To keep alive her next kittens <br> We promised alms and talismans<br> Were brought and bound in threads<br> Of indigo to her stomach. [iv] <br> Some wrote their spells in her meat bits. <br> Some wrote in blood in amulets. <br> To Bi Bila’i we rushed and prayed.<br> The mihrab’s cat we begged for aid. [v] <br> We flung meat bits to circling kites.<br> We baked bean bread of large, fat bites. [vi]<br> Beneath the beds we had girls sit<br> To keep the cat crouched as is fit. <br> From hand to mouth they’d each feed her<br> And meow and mewl like cats to her.<br> A manna rained of morsel bits.<br> The pampered cat had quite the feast. </p><p>Into the night we prayed and prayed<br> And begged the Saint’s Cat for its aid. [vii] <br> To Bu Hurairah, saint of cats,<br> We prayed and lavished feasts on cats. [viii] <br> The cat that Ubayd had extolled<br> Was free in prayer of craft and fraud. [ix]<br> Where Khwaja Ismat bowed to pray<br> A cat arrived and settled there. [x]<br> At dawn she’d stoop in supplication,<br> Rise and fall in adoration.</p><p>Each dawn we prayed to her for strength.<br> Her powers then bore fruit at length. <br> Thus, Mohini’s litter was five<br> Kittens and each, thank god, survived. <br> Why shouldn’t aid come mightily?<br> With Bu Hurairah, Bi Bila’i,<br> She mindful of our outward rite,<br> He granting prayers by secret might.<br> The kittens clasped their mother nights<br> And then all five sipped milk by bits.<br> With little milk to sate us all<br> I ordered milk at night as well.<br> On cow- and goat-milk they pulled by<br> Not once away from watchful eyes<strong>.</strong><br> When I considered them a while<br> The five turned out to share a style. </p><p>Two months we spent with vigilance,<br> Kept cats and dogs at a distance. <br> No sooner than a dog entered<br> Than, lion-like, the people roared. <br> When they stepped out we rushed in sport,<br> Their tails so yellow, noses soft<br> Like multicoloured skeins of silk,<br> Some white, some black, some yellow-pink.<br> Wherever these kittens turned out<br> A springtime garden came about.<br> A world was in love and restless,<br> Hungry and sleepless for a glimpse.</p><p>Of them, by ones, friends took all three<br> To leave me Munni and Mani.<br> A gentleman then chose Munni,<br> Fine cat favoured by destiny.<br> Long-suffering Mani, graver, <br> Chose poverty and stayed on here,<br> Upon my mattress her own bed,<br> Coddler of my heart and head. <br> When I’m not home, she waits hungry<br> And stirs to life on hearing me.<br> She beats each person to the door<br> And looks me over head to toe,<br> Longing in her eyes a sparkle – <br> Is this a cat or miracle? <br> Good cats abound in general.<br> This is no cat but spectacle!<br> With ornament she’s houri-like.<br> In moonlight she’s a knot of light. <br> When she’s as saucy as lightning<br> Both cat and lightning seem one thing.<br> Is that a fairy bright out there?<br> You’re transfixed and can’t help but stare.<br> No matter how fine Persian cats<br> Look well – around her angels faint.<br> My spirit too is bound to her.<br> When she curls up I caress her.<br> One day she fell asleep elsewhere<br> And “Mani! Mani!” filled the air.<br> But this does not befit a cat –<br> A blue-eyed beloved at that.<br> And if someone should glare at her<br> Then may the sun be struck blind there!<br> Her virtues lie beyond surmise,<br> A hundred worlds before our eyes. <br> Her excellence ineffable,<br> Without her life’s unbearable. <br> Her spots now make the garden bloom,<br> Beloved brightness of our gloom.<br> Her soaring mind, her refinement!<br> What a comrade and companion!<br> Her judgement is so exquisite<br> She looks down on the finest treat.<br> If in the Kaaba she’s as skilled<br> Its pigeons may be rightly killed. [xi] <br> But she’s touched neither mouse nor bird<br> Nor of Mecca has she heard. [xii]<br> The “love for cats” that’s “part of faith”<br> Was possibly said for her sake. [xiii]</p><p>We dearly wished for Mani’s kids<br> And so, she’s birthed two – moon-feathered. <br> They have their mother’s spots, it’s clear,<br> But aren’t as good and aren’t as dear. <br> Named Mohini and Sohini,<br> They rush like ribbons friskily. <br> They’re tied by blue threads at their necks<br> Arresting people in their tracks. <br> All tomcats must be kept away.<br> May both be spared the evil eye. <br> And if someone should glare at them<br> Gouge out his eyes to then feed them. <br> The upshot then is Mohini<br> Died, bringing me calamity. <br> Endure was all I could do, then<br> Bury her in Billimaran. [xiv]</p><p>Happy the man with successors.<br> Weep for him who none remembers.</p><p>[i] “The sky’s pale cat” is the sun.</p><p>[ii] The original literally says “If by luck the string has snapped”. Shamsur Rahman Faruqi glosses this line in his translation of this poem by saying that this refers to the Urdu proverb “‘By good fortune the string broke and the food basket fell at the cat’s feet’. That is to say, an undeserving piece of good luck happened to an undeserving person.” Faruqi’s translation may be found under the title “Mohini the Cat” in Mir Taqi Mir, <em>Selected Ghazals and </em>Other Poems; translated by Shamsur Rahman Faruqi (Murty Classical Library of India, 2019).</p><p>[iii] Sneezing as someone left home was thought to bring bad luck, so such a person might linger at home till the danger had passed. Also inauspicious was a cat crossing one’s path.</p><p>[iv] Shamsur Rahman Faruqi glosses this practice in his translation thus: “A thread dyed in indigo and tied on a sick person, especially on the afflicted body part, was supposed to cure illness by keeping the evil eye at bay.”</p><p>[v] Shamsur Rahman Faruqi: “A domestic cat in the house of Shaikh Jahangir Ashraf Simnani (1287-1386), a famous Sufi of the Qadiri and Chishti orders who lies buried in Kichaucha in Faizabad district in today’s Uttar Pradesh; a miracle is attributed to him. A domestic cat who lived in his house became a <em>waliyya</em> (feminine of <em>wali</em>, “friend [of God]”] as a result of a glance of power bestowed on her by the saint. After that she became known as Bi Bila’i, or Bibi Bila’i (Lady Cat), and was revered by the people. It was therefore quite proper to pray to her that she bless Mohini with healthy kittens able to survive”.</p><p>[vi] Shamsur Rahman Faruqi notes that this was a bean bread believed to ward off the evil eye.</p><p>[vii] Shamsur Rahman Faruqi, crediting Professor Chander Shekhar of Delhi University, glosses this cat as that of the 14th century jurisconsult Imad Faqih who had trained his cat into performing the five prayers with him, tricking people into taking it for a pious Muslim. Mir’s humour here is thus ironical.</p><p>[viii] Bu or Abu Hurairah, literally “Father of Kittens” in Arabic, was one of the Prophet Muhammad’s companions who was given this nickname because of his fondness for cats.</p><p>[ix] Ubaid Zakani (d.1370), one of the most famous satirists in the Persian language, composed a short didactic poem called “The Mice and the Cat” whose protagonist was a dissembling cat. Here, again then, Mir’s invocation is humorous by irony.</p><p>[x] Khwaja Ismat, as Shamsur Rahman Faruqi notes, cannot be identified with any person known in the archives of the time and may have been one of Mir’s acquaintances.</p><p>[xi] Mir is alluding to and overturning the custom according to which the Kaaba is a sanctuary to pigeons which, venerated by association with the history of prophets, may not be harmed.</p><p>[xii] This is a reference, as Shamsur Rahman Faruqi observes, to the Urdu proverb: “Having eaten nine hundred mice, the cat now goes to perform the hajj.”</p><p>[xiii] Mir is claiming, with characteristic poetic hyperbole, that the saying attributed to the Prophet Muhammad – “The love of cats is part of faith” – was possibly uttered for Mani’s sake.</p><p>[xiv] Mir puns on the first part of the place name Billimaran – Billi – which means “cat”. Billimaran itself thus means “Cat Killers”. Shamsur Rahman Faruqi notes that the people of Old Delhi sometimes still call it by this name, otherwise pronouncing it Ballimaran or “Oar Pullers”.</p><figure class="cms-block cms-block-image has-subtext" itemscope itemtype="https://schema.org/ImageObject" data-width="2745" data-height="3780" style=""><img src="https://s01.sgp1.cdn.digitaloceanspaces.com/inline/fjbqlcrdts-1584100190.jpg" alt="" title="Folio from an illustrated manuscript | Image credit: Metropolitan Museum of Art / Public Domain" itemprop="contentUrl" /><figcaption itemprop="caption description">Folio from an illustrated manuscript | Image credit: Metropolitan Museum of Art / Public Domain</figcaption></figure><h3 class="cms-block cms-block-heading"><strong>Qit’a 19</strong></h3><p><strong>Asadullah Khan Ghalib <br> <br> </strong></p><p>I own a noble-tempered cat<br> Whose leap’s a wave of fairy-wing.<br> She sways coyly when back on earth,<br> Her footprints now buds blossoming.<br> As through a mirror’s limpid frame,<br> Her belly shows her young moving.<br> Each fearsome lion that’s in the wood<br> Begs of her purr his own roaring. <br> Should she come by a cadaver<br> She’s taken, pure soul, by pitying. <br> The sparrow’s chick consigned to her,<br> She’s sworn then to its upbringing. <br> If she’s tyrant to cock and quail<br> It’s envy of her deep strutting.<br> Her tongue makes her the starry sky.<br> Her lick’s wetness Pleiades’ glowing. <br> A flowering and swelling of tones<br> Is her tail-wagging nearing.<br> Unknotting her tail flatteringly, <br> Her curls sets beauties’ locks trembling.<br> So long as on the sky’s chessboard<br> The sun keeps his pieces moving<br> Long live my stroking hand upon<br> Her belly and her back’s arching.</p><p><em>Prashant Keshavmurthy is Associate Professor of Persian-Iranian Studies in the Institute of Islamic Studies, McGill University. He is the author of a study of poetry, Sufism and politics in the circle of the Persian poet Abdul Qadir Khan Bedil of Delhi, titled Persian</em> Authorship and Canonicity in Late Mughal Delhi: Building an Ark<em> and is working on a study of figures of the barbarian in Persian literature.</em></p>
+        </div>
+        <i class="mail-us-section">
+      
+        Support our journalism by
+        <a href="https://scroll.in/subscribe?utm_source=internal&amp;utm_medium=scroll_article&amp;utm_campaign=article_footer">subscribing to Scroll+</a>.
+      
+      We welcome your comments at
+      <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;to=letters@scroll.in" target="_blank">letters@scroll.in</a>.
+    </i>
+        
+  <ul class="article-tags-list"><li>
+      <a href="//scroll.in/tag/cats" class="tag-menu">
+        cats
+      </a>
+    </li><li>
+      <a href="//scroll.in/tag/poetry" class="tag-menu">
+        poetry
+      </a>
+    </li></ul>
+
+
+        
+
+        <!-- END OF ARTICLE RENDER FROM CMS-->
+        <!-- SHARE BAR FOR MOBILE-->
+        <div class="share-bar-mobile fixedsticky hide-for-large hideOnApp">
+          <div class="tablet-width-container">
+            <!-- ARTICLE VIEW COUNTER-->
+            <!-- END OF ARTICLE VIEW COUNTER-->
+            <!-- ARTICLE SHARE SHEET-->
+            <ul class="article-share-sheet">
+              
+  <li class="article-share-link article-share-link-whatsapp show-for-small-only">
+    <a href="whatsapp://send?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media%0A%0Ahttps://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Whatsapp share button clicked" class="ga-track">
+      <i class="icon icon-print fab fa-whatsapp"></i>
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-facebook">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="new" data-category="Mobile" data-label="Facebook share button clicked" class="ga-track">
+      <i class="icon icon-facebook fab fa-facebook-f"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-twitter">
+    <a href="https://twitter.com/share?text=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;url=https%3A//scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;via=scroll_in" target="new" data-category="Mobile" data-label="Twitter share button clicked" class="ga-track">
+      <i class="icon icon-twitter fab fa-twitter"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-email">
+    <a href="mailto:?Subject=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media&amp;body=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media" target="_blank" data-category="Mobile" data-label="Email share button clicked" class="ga-track">
+      <i class="icon icon-email fas fa-envelope"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-reddit">
+    <a href="http://www.reddit.com/submit?url=https://scroll.in/article/956092/cats-ghazal-writers-mir-and-ghalib-composed-these-poems-about-the-animal-that-rules-social-media&amp;title=Cats%3A%20Ghazal%20writers%20Mir%20and%20Ghalib%20composed%20these%20poems%20about%20the%20animal%20that%20rules%20social%20media" target="new" data-category="Mobile" data-label="Reddit share button clicked" class="ga-track">
+      <i class="icon icon-google fab fa-reddit-alien"></i>
+      
+    </a>
+  </li>
+  <li class="article-share-link article-share-link-print show-for-large">
+    <a href="/article/print/956092" target="_blank" data-category="Mobile" data-label="Print button clicked" class="ga-track">
+      <i class="icon icon-print fas fa-print"></i>
+      Print
+    </a>
+  </li>
+  <!-- starting of comments entry point in share bar -->
+  
+  <!-- ending of comments entry point in share bar -->
+  
+
+            </ul>
+            <!-- END OF ARTICLE SHARE SHEET-->
+          </div>
+          <!-- END OF SHARE BAR FOR MOBILE-->
+        </div>
+      </section>
+
+      
+  <div id='commentsSection'></div>
+
+
+      <!-- RECOMMENDED ARTICLES BAR-->
+      <aside class="article-recommended-list-container large-3 columns">
+        
+  
+  <div class="article-related">
+    <h3>Related</h3>
+    <div class="card related-card">
+      <a href="https://scroll.in/article/970889/how-long-does-it-take-a-hand-of-my-country-to-reach-a-hungry-mouth-six-poems-by-kedarnath-singh" data-label="Clicked from related article section of article page" class="ga-track">
+        <figure>
+          <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/146331-mapwoihand-1597934704.jpeg" loading="lazy" alt="‘How long does it take a hand of my country to reach a hungry mouth?’ Six poems by Kedarnath Singh">
+        </figure>
+        <h4>‘How long does it take a hand of my country to reach a hungry mouth?’ Six poems by Kedarnath Singh</h4>
+      </a>
+    </div>
+  </div>
+  
+
+            
+  
+  <div class="below-related-banner-wrapper">
+    <div id='div-gpt-ad-1530701734090-1' class="below-related-banner"></div>
+  </div>
+    
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [300, 250])
+                  .addSize([768, 50], [])
+                  .addSize([1050, 250], [])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-1"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-below-related',
+      [300, 250],
+      'div-gpt-ad-1530701734090-1')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (false) {
+      window.gptSlots["div-gpt-ad-1530701734090-1"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-1"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-1"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-1'); });
+</script>
+
+
+          
+          
+  
+  <div class="card-container-parent">
+    
+    <h3>Trending</h3>
+    <div class="article-recommended-list">
+      
+      <ol class="cards-container">
+            <li class="card">
+              <a href="https://scroll.in/latest/976053/tanishq-ad-amit-shah-warns-against-over-activism-says-indias-roots-of-harmony-very-strong" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/149313-dorksduysy-1602947280.jpg" loading="lazy" alt="Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’">
+                </figure>
+                <h4>Tanishq ad: Amit Shah warns against ‘over-activism’, says India’s roots of harmony ‘very strong’</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/latest/975947/sc-rejects-petition-for-presidents-rule-removal-of-uddhav-thackeray-government-in-maharashtra" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/131578-xlmvezanmn-1582011220.jpg" loading="lazy" alt="SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra">
+                </figure>
+                <h4>SC rejects petition for president’s rule, removal of Uddhav Thackeray government in Maharashtra</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/video/974581/watch-the-next-instalment-in-comedian-sarah-coopers-series-on-donald-trump-is-how-to-drugs" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/148394-qgdnwphaqk-1601522417.jpeg" loading="lazy" alt="Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’">
+                </figure>
+                <h4>Watch: The next instalment in comedian Sarah Cooper’s series on Donald Trump is ‘how to drugs’</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/article/975902/democracy-gives-us-the-right-to-ask-questions-neha-singh-rathores-bhojpuri-tunes-are-going-viral" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/149243-wjhzwkywyy-1602784787.jpg" loading="lazy" alt="‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral">
+                </figure>
+                <h4>‘Democracy gives us the right to ask questions’: Neha Singh Rathore’s Bhojpuri tunes are going viral</h4>
+              </a>
+            </li>
+          
+            <li class="card">
+              <a href="https://scroll.in/latest/976028/court-orders-fir-against-kangana-ranaut-her-sister-for-allegedly-trying-to-create-communal-tensions" data-label="Clicked from Trending section of article page" class="ga-track">
+                <figure class="hide-for-large">
+                  <img src="https://s01.sgp1.cdn.digitaloceanspaces.com/book/140042-ykxqoytumh-1587031872.jpg" loading="lazy" alt="Court orders FIR against Kangana Ranaut, her sister for allegedly trying to create communal tensions">
+                </figure>
+                <h4>Court orders FIR against Kangana Ranaut, her sister for allegedly trying to create communal tensions</h4>
+              </a>
+            </li>
+          </ol>
+    </div>
+  </div>
+  
+
+        
+      </aside>
+      <!-- END OF RECOMMENDED ARTICLES BAR-->
+    </div>
+    <!-- END OF ARTICLE CONTENT-->
+  </article>
+</div>
+
+  
+    
+  
+  
+    <div class="oop-in-article-wrapper" style="height: 0;">
+      <div id="div-gpt-ad-1530701734090-oop-in-article" class="oop-in-article"></div>
+    </div>
+
+  <div class="scroll-ad hideOnApp">
+      <div id="article-dfpad-0" class="ad-container"></div>
+    </div>
+  
+
+  <div id="vue-articles"></div>
+    </div>
+    
+      
+    
+
+    <!-- to be renamed -->
+    
+        
+  
+  <div id="bottomStickyWrapper"
+    class="bottom-sticky-banner-wrapper engagement-bar hide hideOnApp hide-for-large"
+  >
+    <div id="div-gpt-ad-1530701734090-3" class="bottom-sticky-banner"></div>
+  </div>
+  
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  window.gptSlots = window.gptSlots || {};
+
+  googletag.cmd.push(function() {
+    
+    var mapping = googletag.sizeMapping()
+                  .addSize([0, 0], [])
+                  .addSize([320, 50], [320, 50])
+                  .addSize([768, 50], [])
+                  .addSize([1050, 250], [])
+                  .build();
+
+    window.gptSlots["div-gpt-ad-1530701734090-3"] =  googletag.defineSlot(
+      '/21719278143/scroll-web-all-bottom-sticky',
+      [320, 50],
+      'div-gpt-ad-1530701734090-3')
+      .defineSizeMapping(mapping)
+      .addService(googletag.pubads())
+      .setCollapseEmptyDiv(false);
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().collapseEmptyDivs(false);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+    if (true) {
+      window.gptSlots["div-gpt-ad-1530701734090-3"].setCollapseEmptyDiv(true, true);
+    } else {
+      window.gptSlots["div-gpt-ad-1530701734090-3"].setCollapseEmptyDiv(false);
+    }
+
+    if (false) {
+      googletag.pubads().refresh([window.gptSlots["div-gpt-ad-1530701734090-3"]]);
+    }
+  });
+
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530701734090-3'); });
+</script>
+
+
+      
+    
+
+    
+      <div id="search-container"></div>
+    
+
+    
+      
+      
+      
+
+      
+      <script>
+        _atrk_opts = { atrk_acct:"k8gmo1IW1810em", domain:"scroll.in",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+      </script>
+      <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=k8gmo1IW1810em" style="display:none" height="1" width="1" alt=""></noscript>
+      
+
+      
+      <script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "19749776" });
+        (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+        })();
+      </script>
+      <noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&c2=19749776&cv=2.0&cj=1" />
+      </noscript>
+      <script>
+        (function() {
+          var _Scroll = window._Scroll || {};
+          _Scroll.siteLang = "en";
+          _Scroll.baseLink = '//scroll.in';
+          _Scroll.currentName = 'scroll';
+          _Scroll.isBrand = '';
+          _Scroll.months =  ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+          _Scroll.weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+          _Scroll.timelines = ['Today', 'Yesterday'];
+          _Scroll.quantifiers = ['ago', 'seconds', 'minute', 'minutes', 'hour', 'hours', 'day', 'days', 'month', 'months', 'year', 'years', 'a', 'an' ];
+          _Scroll.subscribed = false;
+          _Scroll.userGroups = {"expired": "expired", "registered": "registered", "subscriber": "subscriber", "unverified": "unverified"};
+          _Scroll.subscriptions_enabled = true;
+          _Scroll.comments_enabled = true;
+          _Scroll.isCanvasShown = false;
+          _Scroll.userinfo = {"groups": [], "uid": ""};
+          _Scroll.showBannerAds = true;
+          _Scroll.adx = {"enabled": true, "openwrap": {"enabled": true, "profile_id": "2477", "pub_id": "159549"}, "out_of_page": {"in_article": {"div_id": "div-gpt-ad-1530701734090-oop-in-article", "mapping": [1, 1], "slot_id": "/21719278143/scroll-web-all-oop-in-article"}}, "slots": {"below_navigation": {"amp_slot_id": "/21719278143/scroll-amp-all-below-navigation", "div_id": "div-gpt-ad-1530701734090-0", "mapping": [[], [300, 250], [300, 250], [970, 250]], "sizes": [[970, 250], [300, 250]], "slot_id": "/21719278143/scroll-web-all-below-navigation"}, "below_related": {"amp_slot_id": "/21719278143/scroll-amp-all-below-related", "div_id": "div-gpt-ad-1530701734090-1", "mapping": [[], [300, 250], [], []], "sizes": [300, 250], "slot_id": "/21719278143/scroll-web-all-below-related"}, "bottom_sticky": {"amp_slot_id": "/21719278143/scroll-amp-all-bottom-sticky", "div_id": "div-gpt-ad-1530701734090-3", "mapping": [[], [320, 50], [], []], "sizes": [320, 50], "slot_id": "/21719278143/scroll-web-all-bottom-sticky"}, "in_article": {"amp_slot_id": "/21719278143/scroll-amp-all-in-article", "div_id": "div-gpt-ad-1530701734090-2", "mapping": [[], [300, 250], [300, 250], [300, 250]], "sizes": [300, 250], "slot_id": "/21719278143/scroll-web-all-in-article"}}};
+          _Scroll.gonativeApp = false;
+          _Scroll.articleFeed = 'series';
+          _Scroll.seriesTitle = 'Scroll.in';
+          _Scroll.gaId = 'UA-47293256-1';
+          _Scroll.publication = 'scroll';
+          _Scroll.electionWidgetArticles = {};
+          window._Scroll = _Scroll;
+        })();
+      </script>
+    <script>
+    (function() {
+      var _Scroll = window._Scroll || {};
+      _Scroll.lastArticleId = 956092;
+      _Scroll.seriesId = 0;
+      _Scroll.categoryIds = [80];
+      _Scroll.templateMap = {'normal': [1, 11], 'thin': [2, 3, 4], 'pollable': [10], 'audio': [5], 'deal': [9], 'recipe': [12]};
+      _Scroll.notShowingCoverFor = [3, 4];
+
+      
+        
+          _Scroll.articleFeed = 'category';
+          _Scroll.isFromHomePage = false;
+      window._Scroll = _Scroll;
+    })();
+  </script>
+  
+  
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement":
+      [{
+        "@type": "ListItem",
+        "position": 1,
+        "item":
+        {
+          "@id": "https://scroll.in/category/80/books-and-ideas",
+          "name": "Books And Ideas"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item":
+        {
+          "@id": "https://scroll.in/topic/39391/uses-of-poetry",
+          "name": "Uses Of Poetry"
+        }
+      }]
+    }
+  </script>
+  
+
+
+    <script crossorigin="anonymous" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+    <script src="https://go.automatad.com/geo/IEpFQC/afihbs.js" async></script><script src="https://scroll.in/static/js/common.31619575e6473c058ac8.006.js"></script>
+    
+  <script src="https://scroll.in/static/js/article.954a247628ccedbf458b.006.js"></script>
+  </body>
+</html>

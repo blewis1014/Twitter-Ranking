@@ -1,0 +1,1799 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <title>Urge Shriners International to Oppose Cruel Animal Circuses! | PETA</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="Content-Script-Type" content="text/javascript"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <script language="javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> 
+  <script src="https://cdn.optimizely.com/js/2806791494.js"></script> 
+  <!--favicon --> 
+  <link rel="apple-touch-icon" sizes="180x180" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/apple-touch-icon.png"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon-32x32.png"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon-16x16.png"> 
+  <link rel="shortcut icon" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon.ico"> 
+  <link rel="manifest" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/site.webmanifest"> 
+  <link rel="mask-icon" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/safari-pinned-tab.svg" color="#5bbad5"> 
+  <meta name="msapplication-TileColor" content="#64c0dd"> 
+  <meta name="theme-color" content="#ffffff"> 
+  <!--end favicon --> 
+  <script>
+if(document.location.search.indexOf("mode=DEMO")!= -1)
+document.head.insertAdjacentHTML( "beforeEnd", "<meta name='robots' content='noindex' />" );
+</script> 
+  <script src="https://use.fontawesome.com/be5da11684.js"></script> 
+  <link rel="stylesheet" href="https://use.typekit.net/akq4hkn.css"> 
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,600i,700,700i,800,800i" rel="stylesheet"> 
+  <!--wp site css --> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/style.css" rel="stylesheet" type="text/css"> 
+  <!--end wp site css --> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/magnific.min.css?v=1.0.2" rel="stylesheet"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/main-content.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/footer-simple.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/en-page-custom.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/pe-standard-header-theme-styles.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/hidden-form-content.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/display-widgets-custom.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/_shared/styles/applepay.css" rel="stylesheet" type="text/css"> 
+  <!-- BEGIN APPLE PAY --> 
+  <script type="text/javascript">
+    var merchantIdentifier = 'merchant.com.petamem.prod';
+    var merchantDomainName ='support.peta.org';
+    var merchantDisplayName ='PETA';
+
+    // Session
+    var merchantSessionIdentifier = '590ad337ca94409fa7f86f13e3191a1a-server50025';
+    var merchantNonce = 'fake-nonce';
+    var merchantEpochTimestamp = '1467051059';
+    var merchantSignature = 'fake-signature';
+
+    // Validation
+    var merchantCountryCode = 'US';
+    var merchantCurrencyCode = 'USD';
+    var merchantSupportedNetworks = [ 'visa', 'masterCard', 'amex', 'discover' ];
+    var merchantCapabilities = [ 'supports3DS' ];
+    var merchantTotalLabel = '';
+</script> 
+  <!-- END APPLE PAY --> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:site" content="@your-handle"> 
+  <meta name="twitter:creator" content="@your-handle"> 
+  <!-- styles for legacy counter widget --> 
+  <link href="https://us.e-activist.com/ea-demo/js/jquery.ui/jquery-ui-1.8.17.custom.css" rel="stylesheet"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/display-widgets-1.2.custom.css" rel="stylesheet"> 
+  <!-- scripts for legacy counter widget --> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.ui/jquery-ui-1.8.17.custom.min.js"></script> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.en/jquery.en-1.1.js"></script> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.supersleight/jquery.supersleight.js"></script> 
+  <script type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/peta/js/display-widgets-1.2.custom.js"></script> 
+  <!--START GOOGLE ANALYTICS--> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/global/ga_constants.js"></script> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/petaUS/peta/gaBase.js"></script> 
+  <!-- END GOOGLE ANALYTICS --> 
+  <!-- Start Data Layer --> 
+  <script type="text/javascript">// <![CDATA[
+//Donation TY page
+function checkIsSent(ref) {
+	var cookiename = 'gaSaleSent_' + ref;	
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(cookiename + '=') != -1){
+        	return true;
+        }
+    }    
+    var d = new Date();
+    d.setTime(d.getTime() + (90*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cookiename + '=1; ' + expires;
+    
+    return false;  
+}
+
+!function (w, d, e, u, m, t, s) {
+    if (w.care2Targeting) return;
+    m = w.care2Targeting = function (params) {
+        m.callMethod ? m.callMethod.apply(m, [params]) : m.queue.push(params)
+    };
+    m.push = m;
+    m.version = '1.0';
+    m.queue = [];
+    t = d.createElement(e);
+    t.async = !0;
+    t.src = u;
+    s = d.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s);
+}(window, document, 'script', '//dingo.care2.com/targeting/pixel.js');
+
+jQuery(document).ready(function() {	
+	if(window.location.href.toLowerCase().indexOf('/donate/2') > 0 || window.location.href.toLowerCase().indexOf('/donation/2') > 0)
+	{                           
+        var transactionID =  '{receipt_data~txId}';
+        var isRepeating = false;
+		
+		if(!checkIsSent(transactionID)){ 
+			var transactionType = pageJson.transactionType;
+
+			if(transactionType == 'FCS' || transactionType == 'FBS' || transactionType == 'ACS'){
+                transactionType = 'Single Gift';
+                isRepeating = false;
+			}
+			else if(transactionType == 'FCR' || transactionType == 'FUR' || transactionType == 'FBR' || transactionType == 'ACR'){
+                transactionType = 'Recurring Gift';
+                isRepeating = true;
+			}
+			else if(transactionType == 'FIM'){
+                transactionType = 'Memorial Gift';
+                isRepeating = false;
+			}
+
+			(function() {
+				dataLayer = dataLayer || [];
+				dataLayer.push({
+					'transactionId': '{receipt_data~txId}',
+					'transactionTotal': +('{receipt_data~amount}'.replace( /(\$|,)/g, '' )),
+					'transactionProducts': [{
+						  'name': transactionType,
+						  'sku': 'id:'+ pageJson.campaignPageId + ' ' + pageJson.pageName,
+						  'price': +('{receipt_data~amount}'.replace( /(\$|,)/g, '' )),
+						  'quantity': 1}]
+				});
+            })();
+            
+            care2Targeting({
+                clientid: '154',
+                email: '{user_data~EMail Address}',
+                value: '{receipt_data~amount}'.replace('$',''),
+                repeating: isRepeating
+            });
+		}
+	}
+});
+</script> 
+  <!-- End Data Layer --> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K76L3F');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta name="title" content="Urge Shriners International to Oppose Cruel Animal Circuses!"> 
+  <meta property="og:title" content="Urge Shriners International to Oppose Cruel Animal Circuses!"> 
+  <meta property="og:description" content="Tell Shriners International that you won't support it until it drops the cruelty."> 
+  <meta name="description" content="Tell Shriners International that you won't support it until it drops the cruelty."> 
+  <meta property="og:image" content="https://acb0a5d73b67fccd4bbe-c2d8138f0ea10a18dd4c43ec3aa4240a.ssl.cf5.rackcdn.com/10003/ENT+Elephants+Shrine+Circus+NC+PO+WC.jpg?v=1499981945000"> 
+  <link rel="canonical" href="https://support.peta.org/page/1860/action/1?locale=en-US"> 
+  <meta property="og:url" content="https://support.peta.org/page/1860/action/1?locale=en-US"> 
+  <link rel="image_src" href="https://acb0a5d73b67fccd4bbe-c2d8138f0ea10a18dd4c43ec3aa4240a.ssl.cf5.rackcdn.com/10003/ENT+Elephants+Shrine+Circus+NC+PO+WC.jpg?v=1499981945000"> 
+  <link href="/ea-demo/frontend/pbAssets/build/css/enPage.css?v=3.59.0" rel="stylesheet" type="text/css"> 
+  <script>var pageJson = {"clientId":10003,"pageNumber":1,"campaignId":1332,"pageCount":1,"pageName":"PE ETT ENT 2017-05-23 Urge Shriners International to Oppose Cruel Animal Circuses (R:MJohnson|C:DB)","externalReference8":"ENT::Action::EN::AA::PE Urge Shriners International to Oppose Cruel Animal Circuses","externalReference9":"act::ent::peta","redirectPresent":true,"giftProcess":false,"pageType":"emailtotarget","campaignPageId":1860,"locale":"en-US"};</script> 
+  <script src="/page/1860/campaigner/0/pagedata.js?locale=en-US"></script> 
+  <script src="/ea-demo/frontend/pbAssets/build/js/enPage.js?v=3.59.0"></script> 
+ </head> 
+ <body class="post-template-default single single-post postid-895634 single-format-standard"> 
+  <!--fb embed --> 
+  <div id="fb-root"></div> 
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=1525501187525084&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+  <form method="post" action="/page/1860/action/2" class="en__component en__component--page"> 
+   <input type="hidden" name="hidden" class="en__hiddenFields" value=""> 
+   <input type="hidden" name="sessionId" value="590ad337ca94409fa7f86f13e3191a1a-server50025"> 
+   <ul class="en__errorList"> 
+   </ul> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock hdr" style="
+
+
+
+
+
+
+
+"> 
+      <div class="off-canvas-wrapper"> 
+       <div class="off-canvas position-left is-closed is-transition-push" data-off-canvas="" data-position="left" id="offcanvas">
+        <button aria-label="Close menu" class="close-button medium" data-close="" type="button"><span aria-hidden="true">Ã</span></button>
+        <span class="logo"><a accesskey="1" href="https://www.peta.org" title=""><img alt="PETA" height="78" itemprop="logo" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-text-logo-blue.svg" width="120"> </a> </span> 
+        <a class="donate-button button yellow" href="https://support.peta.org/page/1828/donate/1?en_txn7=Navigation::top%20donate%20now%20button&amp;supporter.appealCode=IXXXWBXXXXG">Donate Now</a> 
+        <div class="main-nav"> 
+         <ul class="menu" id="menu-top-navigation"> 
+          <li class="nav-features menu-item menu-item-type-post_type_archive menu-item-object-feature menu-item-745" id="menu-item-745"><a accesskey="3" href="https://www.peta.org/features/" title="Features">Features</a></li> 
+          <li class="nav-video menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-846429" id="menu-item-846429"><a accesskey="4" href="https://www.peta.org/videos/" title="Videos">Videos</a></li> 
+          <li class="nav-action menu-item menu-item-type-post_type_archive menu-item-object-peta-action menu-item-has-children menu-item-145474" id="menu-item-145474"><a accesskey="5" href="https://www.peta.org/action/" title="Action">Action</a></li> 
+          <li class="nav-blog menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148174" id="menu-item-148174"><a accesskey="6" href="https://www.peta.org/blog/" title="News">News</a></li> 
+          <li class="nav-issues menu-item menu-item-type-post_type_archive menu-item-object-issue menu-item-has-children menu-item-748" id="menu-item-748"><a accesskey="7" href="https://www.peta.org/issues/" title="Issues">Issues</a></li> 
+          <li class="nav-living menu-item menu-item-type-post_type_archive menu-item-object-living menu-item-has-children menu-item-145472" id="menu-item-145472"><a accesskey="8" href="https://www.peta.org/living/" title="Living">Living</a></li> 
+          <li class="menu-item menu-item-type-post_type_archive menu-item-object-student menu-item-has-children menu-item-920111" id="menu-item-920111"><a accesskey="t" href="https://www.peta.org/students/">Students</a></li> 
+          <li class="nav-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-596" id="menu-item-596"><a accesskey="b" href="https://www.peta.org/shop/" title="Shop">Shop</a></li> 
+          <li class="nav-interactive menu-item menu-item-type-post_type menu-item-object-page menu-item-602710" id="menu-item-602710"><a accesskey="c" href="https://www.peta.org/investigations/" title="Investigations">Investigations</a></li> 
+          <li class="nav-media menu-item menu-item-type-post_type_archive menu-item-object-media_center menu-item-has-children menu-item-145464" id="menu-item-145464"><a accesskey="d" href="https://www.peta.org/media/" title="Media">Media</a></li> 
+          <li class="nav-about menu-item menu-item-type-post_type_archive menu-item-object-about menu-item-has-children menu-item-145470" id="menu-item-145470"><a accesskey="e" href="https://www.peta.org/about-peta/" title="About">About</a></li> 
+          <li class="nav-donate menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149040" id="menu-item-149040"><a accesskey="a" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA" title="Donate Now">Donate Now</a></li> 
+         </ul> 
+        </div> 
+        <ul class="menu" id="menu-top-bar-sites-2"> 
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-825" id="menu-item-825"><a href="https://www.peta.org/misc/topics/" title="Programs">Programs</a> 
+          <ul class="sub-menu"> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644003" id="menu-item-644003"><a accesskey="u" href="https://prime.peta.org" target="_blank">PETA Prime</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644008" id="menu-item-644008"><a accesskey="w" href="https://www.petakids.com" target="_blank">PETA Kids</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644010" id="menu-item-644010"><a href="http://teachkind.org">TeachKind</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955908" id="menu-item-955908"><a href="https://sos.peta.org">Students Opposing Speciesism (SOS)</a></li> 
+          </ul> </li> 
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-826" id="menu-item-826"><a href="https://www.peta.org/donate/ways-to-support-peta/" title="Support PETA">Support PETA</a> 
+          <ul class="sub-menu"> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="https://support.peta.org/page/2141/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Join&amp;supporter.appealCode=IXXXWBXXXXM" title="Become a Member">Become a Member</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828" id="menu-item-828"><a href="https://support.peta.org/page/6064/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Monthly&amp;supporter.appealCode=IXXXWBXXXXG" title="Make a Monthly Gift">Make a Monthly Gift</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831709" id="menu-item-831709"><a href="http://memorial.peta.org">Make a Memorial Gift</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-962909" id="menu-item-962909"><a href="https://presents.peta.org/?en_txn7=Navigation::Support-PETA-dropdown">Make an Honorary Gift</a></li> 
+           <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-143349" id="menu-item-143349"><a href="https://www.peta.org/donate/planned-giving/" title="Planned Giving">Your Legacy For Animals</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-798669" id="menu-item-798669"><a href="https://www.peta.org/donate/vanguard/">Vanguard Society</a></li> 
+           <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-798668" id="menu-item-798668"><a href="https://www.peta.org/donate/membership-services/">Membership Services</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831710" id="menu-item-831710"><a href="https://shop.peta.org/peta-gift-membership.html" target="_blank">Gift Memberships</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644014" id="menu-item-644014"><a accesskey="y" href="https://www.peta.org/donate/ways-to-support-peta/" title="More Ways to Support PETA">More Ways</a></li> 
+          </ul> </li> 
+         <li class="top-bar-events menu-item menu-item-type-custom menu-item-object-custom menu-item-970522" id="menu-item-970522"><a href="https://www.peta.org/events">Events</a></li> 
+         <li class="menu-item menu-item-type-post_type menu-item-object-about menu-item-143350" id="menu-item-143350"><a accesskey="9" href="https://www.peta.org/about-peta/contact-peta/report-cruelty/" title="Report Cruelty to Animals">Report Cruelty to Animals</a></li> 
+        </ul> 
+       </div> 
+       <div class="off-canvas-content" data-off-canvas-content=""> 
+        <header class="header" role="banner">
+         <a class="screen-reader-shortcut" href="#peta-content-start" tabindex="1">Skip to Main Content</a> 
+         <div class="mobile-top-bar top-bar-container hide-for-large" data-sticky-container="" id="top-bar-block"> 
+          <div class="mobile-nav menu-icon-wrap sticky" data-btm-anchor="footer:bottom" data-margin-top="0" data-sticky="" data-sticky-on="small" data-top-anchor="top-bar-block"> 
+           <div class="align-left">
+            <button class="menu-icon" data-open="offcanvas" type="button">&nbsp;</button>
+            <span class="logo"><a accesskey="1" href="https://www.peta.org" title=""><img alt="PETA" height="78" itemprop="logo" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-text-logo-white.svg" width="120"> </a> </span>
+           </div> 
+           <div class="align-right default">
+            <a class="donate-link" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA">Donate Now</a>
+           </div> 
+          </div> 
+         </div> 
+         <div class="super-nav bar show-for-large"> 
+          <nav class="row"> 
+           <div class="nav columns large-9"> 
+            <div class="logo-text">
+             <a href="https://www.peta.org" title="PETA | People for the Ethical Treatment of Animals"><span>People for the Ethical Treatment of Animals</span> </a>
+            </div> 
+            <ul class="vertical medium-horizontal large-horizontal menu align-right dropdown" data-dropdown-menu="" id="menu-top-bar-sites-3"> 
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-825"><a href="https://www.peta.org/misc/topics/" title="Programs">Programs</a> 
+              <ul class="sub-menu"> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644003"><a accesskey="u" href="https://prime.peta.org" target="_blank">PETA Prime</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644008"><a accesskey="w" href="https://www.petakids.com" target="_blank">PETA Kids</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644010"><a href="http://teachkind.org">TeachKind</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955908"><a href="https://sos.peta.org">Students Opposing Speciesism (SOS)</a></li> 
+              </ul> </li> 
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-826"><a href="https://www.peta.org/donate/ways-to-support-peta/" title="Support PETA">Support PETA</a> 
+              <ul class="sub-menu"> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="https://support.peta.org/page/2141/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Join&amp;supporter.appealCode=IXXXWBXXXXM" title="Become a Member">Become a Member</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a href="https://support.peta.org/page/6064/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Monthly&amp;supporter.appealCode=IXXXWBXXXXG" title="Make a Monthly Gift">Make a Monthly Gift</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831709"><a href="http://memorial.peta.org">Make a Memorial Gift</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-962909"><a href="https://presents.peta.org/?en_txn7=Navigation::Support-PETA-dropdown">Make an Honorary Gift</a></li> 
+               <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-143349"><a href="https://www.peta.org/donate/planned-giving/" title="Planned Giving">Your Legacy For Animals</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-798669"><a href="https://www.peta.org/donate/vanguard/">Vanguard Society</a></li> 
+               <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-798668"><a href="https://www.peta.org/donate/membership-services/">Membership Services</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831710"><a href="https://shop.peta.org/peta-gift-membership.html" target="_blank">Gift Memberships</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644014"><a accesskey="y" href="https://www.peta.org/donate/ways-to-support-peta/" title="More Ways to Support PETA">More Ways</a></li> 
+              </ul> </li> 
+             <li class="top-bar-events menu-item menu-item-type-custom menu-item-object-custom menu-item-970522" role="menuitem"><a href="https://www.peta.org/events">Events</a></li> 
+             <li class="menu-item menu-item-type-post_type menu-item-object-about menu-item-143350"><a accesskey="9" href="https://www.peta.org/about-peta/contact-peta/report-cruelty/" title="Report Cruelty to Animals">Report Cruelty to Animals</a></li> 
+            </ul> 
+           </div> 
+           <div class="search-peta columns large-3">
+            &nbsp;
+           </div> 
+          </nav> 
+         </div> 
+         <div class="logo-header bar"> 
+          <div class="wrapper row"> 
+           <div class="logo-column hide-for-small-only"> 
+            <div class="inner">
+             <a href="https://www.peta.org" title="PETA | People for the Ethical Treatment of Animals"><img height="120" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-logo.svg" width="120"> </a>
+            </div> 
+           </div> 
+           <div class="mission column medium-12"> 
+            <div class="important">
+             <a href="https://www.peta.org/features/what-peta-really-stands-for/">Animals are not ours</a>
+            </div> 
+            <div>
+             <a href="https://www.peta.org/features/what-peta-really-stands-for/">to experiment on, eat, wear, use for entertainment, or abuse in any other way. <span class="arrow">&nbsp;</span></a>
+            </div> 
+           </div> 
+           <div class="header-rabbit show-for-medium">
+            <img height="82" src="https://resources.peta.org/engaging-networks/pages/peta/images/bunny.svg" width="162">
+           </div> 
+          </div> 
+         </div> 
+         <div class="nav row show-for-large"> 
+          <div class="main-nav"> 
+           <ul class="menu" id="menu-top-navigation-1"> 
+            <li class="nav-features menu-item menu-item-type-post_type_archive menu-item-object-feature menu-item-745"><a accesskey="3" href="https://www.peta.org/features/" title="Features">Features</a></li> 
+            <li class="nav-video menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-846429"><a accesskey="4" href="https://www.peta.org/videos/" title="Videos">Videos</a></li> 
+            <li class="nav-action menu-item menu-item-type-post_type_archive menu-item-object-peta-action current-menu-item menu-item-has-children has-dropdown menu-item-145474 current-menu-item"><a accesskey="5" href="https://www.peta.org/action/" title="Action">Action</a></li> 
+            <li class="nav-blog menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148174"><a accesskey="6" href="https://www.peta.org/blog/" title="News">News</a></li> 
+            <li class="nav-issues menu-item menu-item-type-post_type_archive menu-item-object-issue menu-item-has-children menu-item-748"><a accesskey="7" href="https://www.peta.org/issues/" title="Issues">Issues</a></li> 
+            <li class="nav-living menu-item menu-item-type-post_type_archive menu-item-object-living menu-item-has-children menu-item-145472"><a accesskey="8" href="https://www.peta.org/living/" title="Living">Living</a></li> 
+            <li class="menu-item menu-item-type-post_type_archive menu-item-object-student menu-item-has-children menu-item-920111"><a accesskey="t" href="https://www.peta.org/students/">Students</a></li> 
+            <li class="nav-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a accesskey="b" href="https://www.peta.org/shop/" title="Shop">Shop</a></li> 
+            <li class="nav-interactive menu-item menu-item-type-post_type menu-item-object-page menu-item-602710"><a accesskey="c" href="https://www.peta.org/investigations/" title="Investigations">Investigations</a></li> 
+            <li class="nav-media menu-item menu-item-type-post_type_archive menu-item-object-media_center menu-item-has-children menu-item-145464"><a accesskey="d" href="https://www.peta.org/media/" title="Media">Media</a></li> 
+            <li class="nav-about menu-item menu-item-type-post_type_archive menu-item-object-about menu-item-has-children menu-item-145470"><a accesskey="e" href="https://www.peta.org/about-peta/" title="About">About</a></li> 
+            <li class="nav-donate menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149040"><a accesskey="a" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA" title="Donate Now">Donate Now</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </header> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="title-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Title Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("title-begins").style.display = "block";
+}
+</script>
+      <!--TITLE BEGINS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h1>Urge Shriners International to Oppose Cruel Animal Circuses!</h1> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="title-ends"> 
+       <p><kbd>UN LAB Middleware Label: Title Ends</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+    document.getElementById("title-ends").style.display = "none";
+}
+</script>
+      <!--TITLE ENDS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="add__this__toolbar" style="display: none;"> 
+       <p><kbd>UN MIS AddThis Inline Share Toolbar</kbd></p> 
+      </div> 
+      <style type="text/css">/* Add styles */
+</style> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("add__this__toolbar").style.display = "block";
+}
+</script>
+      <!-- AddThis --> 
+      <div class="addthis_inline_share_toolbox">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="description-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Description Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("description-begins").style.display = "block";
+}
+</script>
+      <!--DESCRIPTION BEGINS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="intro-image"> 
+       <p><kbd>UN INT Intro Text w/ Responsive Image - *Important Note* You must UNLINK this shared library component before making page-specific customizations.</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+Â  Â  document.getElementById("intro-image").style.display = "none";
+}
+</script>
+      <!--RESPONSIVE IMAGE DIV --> 
+      <p>Shriners International claims to be dedicated to compassion and service to others, yet its member clubs continue to host notoriously cruel animal circuses. PETA recently obtained horrific footage showing an emaciated tiger named King in desperate need of veterinary care as well as tigers pacing in cramped transport cages that are so small they can't even fully stretch.</p> 
+      <div class="video-container"> 
+       <div class="video-fullwidth">
+        <iframe allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/f2ZrL2K58aE?showinfo=0" width="560" wmode="transparent"></iframe>
+       </div> 
+      </div> 
+      <p>An animal behavior expert <a href="https://www.mediapeta.com/peta/PDF/ShrineCircusReport2018PratteSigned.pdf" target="_blank">reported</a> that, while circus trainers, ringmasters, and staff claimed that the animals at Shrine circuses perform tricks through rewards and trust, "what actually occurs is environmental and physiological neglect, psychological abuse, and coercing the animals to behave through dominance and fear-based techniques."</p> 
+      <p>In the following video of Shrine circuses, an elephant is jabbed with a <strong>bullhook</strong> (a sharp steel-tipped weapon resembling a fireplace poker), a tiger is whipped in the face, a bear urinates on herself while being forced to do a handstand, and many other animals suffer in despair.</p> 
+      <div class="video-container"> 
+       <div class="video-fullwidth">
+        <iframe allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/vxnj_X5NJCY?showinfo=0" width="560" wmode="transparent"></iframe>
+       </div> 
+      </div> 
+      <p>Keeping far-ranging tigers inside cramped cages, forcing sensitive elephants to perform uncomfortable tricks under the threat of punishment, and dressing up curious bears in demeaning costumes is a form of speciesism, a human-supremacist worldview. .</p> 
+      <p style="text-align: center;"><big><span style="color:#FF0000;"><strong>Tell Shriners International to require its chapters to host only animal-free fundraisers.</strong></span></big></p> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="description-ends" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Description Ends</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("description-ends").style.display = "block";
+}
+</script>
+      <!--DESCRIPTION BEGINS --> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--2"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--codeblock">
+      <script>
+function toggle() {
+    // ETT Message Box
+    var ele = document.querySelectorAll('.en__component--contactblock, .en__component--pledgeblock')[0];
+    var text = document.getElementById('displayText');
+
+    if (ele.style.display == "block") {
+        ele.style.display = "none";
+        text.innerHTML = "View Message +";
+    } else {
+        ele.style.display = "block";
+        text.innerHTML = "Hide Message -";
+    }
+}
+</script> 
+      <div class="view_hide">
+       <a href="javascript:toggle();" id="displayText">View Message +</a>
+      </div> 
+     </div> 
+     <div class="en__component en__component--contactblock" style=""> 
+      <div class="en__contacts en__contacts--hideContact en__contacts--hideCheck en__contacts--singleMessageMode" style=""> 
+       <div data-contact="5330" class="en__contact en__contact--5330 en__contact--open">
+        <div class="en__contact__detail" style=""> 
+         <div class="en__contactDetails" style=""> 
+          <input class="en__contactDetails__select" type="checkbox" checked value="Y" name="contact.5330.send"> 
+          <div class="en__contactDetails__rows"> 
+           <div class="en__contactDetails__row en__contactDetails__row--1"> 
+            <div class="en__contactDetail en__contactDetail--title">
+              Mr. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--firstName">
+              James R. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--lastName">
+              Smith 
+            </div> 
+           </div> 
+           <div class="en__contactDetails__row en__contactDetails__row--2"> 
+            <div class="en__contactDetail en__contactDetail--organization">
+              Shriners International 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div>
+       </div> 
+       <div data-contact="5331" class="en__contact en__contact--5331 en__contact--closed">
+        <div class="en__contact__detail" style=""> 
+         <div class="en__contactDetails" style=""> 
+          <input class="en__contactDetails__select" type="checkbox" checked value="Y" name="contact.5331.send"> 
+          <div class="en__contactDetails__rows"> 
+           <div class="en__contactDetails__row en__contactDetails__row--1"> 
+            <div class="en__contactDetail en__contactDetail--title">
+              Mr. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--firstName">
+              James R. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--lastName">
+              Smith 
+            </div> 
+           </div> 
+           <div class="en__contactDetails__row en__contactDetails__row--2"> 
+            <div class="en__contactDetail en__contactDetail--organization">
+              Shriners International 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div>
+       </div> 
+      </div> 
+      <div class="en__singleMessage" style=""> 
+       <div class="en__contactSubject"> 
+        <input autocomplete="off" class="en__field__input en__field__input--text en__contactSubject__field" type="text" value="Please read this." name="contact.subject"> 
+       </div> 
+       <div class="en__contactMessage en__contactMessage--typePlainText"> 
+        <textarea name="contact.message" class="en__field en__field--textarea en__contactMessage__plainText">Message to {contact_data~firstName} {contact_data~lastName}: 
+
+I was disappointed to learn that Shriners International has not yet directed its chapters to end the use of animal acts for fundraisers. At a time when Ringling Bros. and Barnum &amp; Bailey Circus has shut down, some Shrine chapters are nixing animal circuses, and human-only circuses  captivate audiences, this is out of step with the shifting tide of public opinion.
+
+Bears, elephants, tigers, and other wild animals forced to perform in circuses live under the constant threat of being hit with bullhooksâsharp steel-tipped weapons resembling a fireplace pokerâwhips, or electric prods. Trainers exploit the animals' natural desire to avoid pain in order to make them balance on balls, spin on pedestals, walk on two legs, and ride bicycles. 
+
+Shriners Internationalâan organization devoted to doing goodâshould dissociate itself from the egregious cruelty inherent in using animals for entertainment. Doing so would surely attract a new generation of Shriners. Please urge your chapters to stop hosting circuses with animals. 
+
+Thank you for your consideration.
+
+Sincerely,
+{user_data~First Name} {user_data~Last Name}
+{user_data~EMail Address}
+</textarea> 
+        <input name="contact.origmessage" class="en__contactMessage__plainTextOriginal" value="Message to {contact_data~firstName} {contact_data~lastName}: 
+
+I was disappointed to learn that Shriners International has not yet directed its chapters to end the use of animal acts for fundraisers. At a time when Ringling Bros. and Barnum &amp; Bailey Circus has shut down, some Shrine chapters are nixing animal circuses, and human-only circuses  captivate audiences, this is out of step with the shifting tide of public opinion.
+
+Bears, elephants, tigers, and other wild animals forced to perform in circuses live under the constant threat of being hit with bullhooksâsharp steel-tipped weapons resembling a fireplace pokerâwhips, or electric prods. Trainers exploit the animals' natural desire to avoid pain in order to make them balance on balls, spin on pedestals, walk on two legs, and ride bicycles. 
+
+Shriners Internationalâan organization devoted to doing goodâshould dissociate itself from the egregious cruelty inherent in using animals for entertainment. Doing so would surely attract a new generation of Shriners. Please urge your chapters to stop hosting circuses with animals. 
+
+Thank you for your consideration.
+
+Sincerely,
+{user_data~First Name} {user_data~Last Name}
+{user_data~EMail Address}
+" type="hidden"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="en__component en__component en__component--column en__component--column--2"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="cta-title-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Call to Action Title Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("cta-title-begins").style.display = "block";
+}
+</script>
+      <!--CALL TO ACTION TITLE BEGINS --> 
+     </div> 
+     <div class="en__component en__component--widgetblock"> 
+      <script data-id="265191" src="/ea-demo/frontend/pbAssets/build/js/enWidget.loader.js"></script> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h2>Take Action Now!</h2> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="cta-title-ends" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Call to Action Title Ends</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("cta-title-ends").style.display = "block";
+}
+</script>
+      <!--CALL TO ACTION TITLE ENDS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <p><em>Fields with an asterisk(*) are required.&nbsp;</em></p> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--1709 en__field--firstName"> 
+       <label for="en__field_supporter_firstName" class="en__field__label" style="">First Name</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_firstName" type="text" class="en__field__input en__field__input--text" name="supporter.firstName" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--text en__field--1710 en__field--lastName"> 
+       <label for="en__field_supporter_lastName" class="en__field__label" style="">Last Name</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_lastName" type="text" class="en__field__input en__field__input--text" name="supporter.lastName" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--text en__field--1715 en__field--emailAddress en__mandatory"> 
+       <label for="en__field_supporter_emailAddress" class="en__field__label" style="">E-Mail Address</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_emailAddress" type="text" class="en__field__input en__field__input--text" name="supporter.emailAddress" value=""> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--checkbox en__field--question en__field--164 en__field--membership-updates"> 
+       <label class="en__field__label" style="">Membership Updates</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_questions_164" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.164"> 
+         <label for="en__field_supporter_questions_164" class="en__field__label en__field__label--item"></label> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--checkbox en__field--question en__field--167 en__field--peta-e-news"> 
+       <label class="en__field__label" style="">PETA E-News</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_questions_167" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.167"> 
+         <label for="en__field_supporter_questions_167" class="en__field__label en__field__label--item"></label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h3>Get texts &amp; occasional phone calls for Action Alerts, local events, &amp; other updates to help animals with PETA!&nbsp;<em>(optional)</em></h3> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--10563 en__field--NOT_TAGGED_69"> 
+       <label for="en__field_supporter_NOT_TAGGED_69" class="en__field__label" style="">Mobile Phone</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_NOT_TAGGED_69" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_69" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--checkbox en__field--1907 en__field--NOT_TAGGED_9"> 
+       <label class="en__field__label" style="">PETA Mobile Opt In</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_NOT_TAGGED_9" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.NOT_TAGGED_9"> 
+         <label for="en__field_supporter_NOT_TAGGED_9" class="en__field__label en__field__label--item">By clicking, you agree to receive automated texts and calls from PETA and accept our <a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/" target="_blank">terms and conditions</a>. Message and data rates may apply. U.S. mobile users only.</label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--2236 en__field--NOT_TAGGED_16"> 
+       <label for="en__field_supporter_NOT_TAGGED_16" class="en__field__label" style="">IMG BOt D3t3ction</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_NOT_TAGGED_16" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_16" value=""> 
+       </div> 
+      </div> 
+      <div class="en__submit">
+       <button style="">SEND MESSAGE</button>
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <p class="privacy-policy">By submitting this form, you are agreeing to our collection, storage, use, and disclosure of your personal info in accordance with our&nbsp;<a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/" target="_blank">privacy policy</a>&nbsp;as well as to receiving e-mails from us.</p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="hidden_info"> 
+       <p><kbd>UN MIS Hidden Thank You Text w/ Social Sharing Email Info - *Important Note* You must UNLINK this shared library component before making page-specific customizations.</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+Â  Â  document.getElementById("hidden_info").style.display = "none";
+}
+</script> 
+      <div id="hiddenInfo" style="display: none;"> 
+       <h2 class="tyHeader">&nbsp;</h2> 
+       <div class="tyText"> 
+        <p>&nbsp;</p> 
+        <p>&nbsp;</p> 
+       </div> 
+       <img class="tyImage" src=""> 
+       <div class="tyImageText">
+        &nbsp;
+       </div> 
+       <div class="twitterMessage">
+        Horrifying &amp; abusive animal acts were caught on tape at several Shrine circuses. Take action with @PETA to urge @shriners not to support cruelty: http://peta.vg/205d
+       </div> 
+       <div class="emailSubject">
+        Urge Shriners International to Oppose Cruel Animal Circuses!
+       </div> 
+       <div class="emailBody">
+        The Shriners' continued use of animalsâespecially after the closure of Ringling Bros. and Barnum &amp; Bailey Circusâshows how out of step they are with the shifting tide of public opinion. Tell Shriners International that you won't support it until it drops the cruelty. http://peta.vg/205d
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <!--FOOTER--> 
+      <div class="footer" id="footer"> 
+       <div class="footer-border"> 
+        <div class="footer-logo">
+         <img alt="PETA" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-logo-gray-x3.png" width="65">
+        </div> 
+        <div class="footer-text"> 
+         <ul> 
+          <li><a href="https://www.peta.org/about-peta/contact-peta/" target="_self">Contact PETA</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/disclaimer/" target="_self">Disclaimer</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/" target="_self">Privacy Policy</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/" target="_self">Contest Terms and Conditions</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/" target="_self">Texting Terms and Conditions </a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/peta-online-community-terms-of-use-agreement/" target="_self">Terms of Use</a></li> 
+          <li><a href="https://support.peta.org/page/1828/donate/1?en_txn7=Navigation::top%20donate%20now%20button&amp;supporter.appealCode=IXXXWBXXXXG" target="_self">Donate Now</a></li> 
+          <li><a href="https://www.peta.org/about-peta/contact-peta/report-website-abuse/" target="_self">Report Website Abuse</a></li> 
+          <li id="last">Â© <script>
+        if(window.EngagingNetworks)
+        {
+
+         document.write(new Date().getFullYear());
+
+        }
+        </script> PETA. <a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/" target="_self">Read our full policy.</a></li> 
+         </ul> 
+         <p>People for the Ethical Treatment of Animals<br> 501 Front St., Norfolk, VA 23510<br> 757-622-PETA (7382)<br> 757-622-0457 (fax)</p> 
+         <p>PETA is a nonprofit, tax-exempt 501(c)(3) corporation (tax ID number 52-1218336)</p> 
+        </div> 
+        <div id="photo-credit">
+         &nbsp;
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </form>
+  <!--START Google Analytics Social Button Tracking--> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/global/ga_social_tracking.js"></script> 
+  <!--END Google Analytics Social Button Tracking--> 
+  <!-- Lightbox BEGIN --> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/jquery.magnific-popup.min.js"></script> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/magnific-scripts.js"></script> 
+  <!-- Lightbox END --> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/peta/js/scripts.js"></script> 
+  <!-- AddThis --> 
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58d54ee605594635"></script> 
+  <script type="text/javascript">
+var addthis_config = addthis_config||{};
+    addthis_config.data_track_clickback = false;
+</script> 
+  <script type="text/javascript" src="https://h.online-metrix.net/fp/tags.js?org_id=e0j3u9ji&amp;session_id=10003-590ad337ca94409fa7f86f13e3191a1a-server50025&amp;pageid=1"></script> 
+  <noscript> 
+   <iframe style="width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;" src="https://h.online-metrix.net/tags?org_id=e0j3u9ji&amp;session_id=10003-590ad337ca94409fa7f86f13e3191a1a-server50025&amp;pageid=1"></iframe> 
+  </noscript> 
+  <script type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/applepay.js"></script>   
+  <!-- PE ETT ENT 2017-05-23 Urge Shriners International to Oppose Cruel Animal Circuses (R:MJohnson|C:DB):1860:1332:10003 -->
+ </body>
+</html><!doctype html>
+<html lang="en">
+ <head> 
+  <title>Urge Shriners International to Oppose Cruel Animal Circuses! | PETA</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="Content-Script-Type" content="text/javascript"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <script language="javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script> 
+  <script src="https://cdn.optimizely.com/js/2806791494.js"></script> 
+  <!--favicon --> 
+  <link rel="apple-touch-icon" sizes="180x180" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/apple-touch-icon.png"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon-32x32.png"> 
+  <link rel="icon" type="image/png" sizes="16x16" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon-16x16.png"> 
+  <link rel="shortcut icon" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/favicon.ico"> 
+  <link rel="manifest" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/site.webmanifest"> 
+  <link rel="mask-icon" href="https://resources.peta.org/engaging-networks/pages/_shared/images/favicons/safari-pinned-tab.svg" color="#5bbad5"> 
+  <meta name="msapplication-TileColor" content="#64c0dd"> 
+  <meta name="theme-color" content="#ffffff"> 
+  <!--end favicon --> 
+  <script>
+if(document.location.search.indexOf("mode=DEMO")!= -1)
+document.head.insertAdjacentHTML( "beforeEnd", "<meta name='robots' content='noindex' />" );
+</script> 
+  <script src="https://use.fontawesome.com/be5da11684.js"></script> 
+  <link rel="stylesheet" href="https://use.typekit.net/akq4hkn.css"> 
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,600i,700,700i,800,800i" rel="stylesheet"> 
+  <!--wp site css --> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/style.css" rel="stylesheet" type="text/css"> 
+  <!--end wp site css --> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/magnific.min.css?v=1.0.2" rel="stylesheet"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/main-content.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/footer-simple.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/en-page-custom.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/pe-standard-header-theme-styles.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/hidden-form-content.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/display-widgets-custom.css" rel="stylesheet" type="text/css"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/_shared/styles/applepay.css" rel="stylesheet" type="text/css"> 
+  <!-- BEGIN APPLE PAY --> 
+  <script type="text/javascript">
+    var merchantIdentifier = 'merchant.com.petamem.prod';
+    var merchantDomainName ='support.peta.org';
+    var merchantDisplayName ='PETA';
+
+    // Session
+    var merchantSessionIdentifier = '707012e14bf54ca5b9b6f20132f87724-server50011';
+    var merchantNonce = 'fake-nonce';
+    var merchantEpochTimestamp = '1467051059';
+    var merchantSignature = 'fake-signature';
+
+    // Validation
+    var merchantCountryCode = 'US';
+    var merchantCurrencyCode = 'USD';
+    var merchantSupportedNetworks = [ 'visa', 'masterCard', 'amex', 'discover' ];
+    var merchantCapabilities = [ 'supports3DS' ];
+    var merchantTotalLabel = '';
+</script> 
+  <!-- END APPLE PAY --> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:site" content="@your-handle"> 
+  <meta name="twitter:creator" content="@your-handle"> 
+  <!-- styles for legacy counter widget --> 
+  <link href="https://us.e-activist.com/ea-demo/js/jquery.ui/jquery-ui-1.8.17.custom.css" rel="stylesheet"> 
+  <link href="https://resources.peta.org/engaging-networks/pages/peta/styles/display-widgets-1.2.custom.css" rel="stylesheet"> 
+  <!-- scripts for legacy counter widget --> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.ui/jquery-ui-1.8.17.custom.min.js"></script> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.en/jquery.en-1.1.js"></script> 
+  <script type="text/javascript" src="https://us.e-activist.com/ea-demo/js/jquery.supersleight/jquery.supersleight.js"></script> 
+  <script type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/peta/js/display-widgets-1.2.custom.js"></script> 
+  <!--START GOOGLE ANALYTICS--> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/global/ga_constants.js"></script> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/petaUS/peta/gaBase.js"></script> 
+  <!-- END GOOGLE ANALYTICS --> 
+  <!-- Start Data Layer --> 
+  <script type="text/javascript">// <![CDATA[
+//Donation TY page
+function checkIsSent(ref) {
+	var cookiename = 'gaSaleSent_' + ref;	
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(cookiename + '=') != -1){
+        	return true;
+        }
+    }    
+    var d = new Date();
+    d.setTime(d.getTime() + (90*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cookiename + '=1; ' + expires;
+    
+    return false;  
+}
+
+!function (w, d, e, u, m, t, s) {
+    if (w.care2Targeting) return;
+    m = w.care2Targeting = function (params) {
+        m.callMethod ? m.callMethod.apply(m, [params]) : m.queue.push(params)
+    };
+    m.push = m;
+    m.version = '1.0';
+    m.queue = [];
+    t = d.createElement(e);
+    t.async = !0;
+    t.src = u;
+    s = d.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s);
+}(window, document, 'script', '//dingo.care2.com/targeting/pixel.js');
+
+jQuery(document).ready(function() {	
+	if(window.location.href.toLowerCase().indexOf('/donate/2') > 0 || window.location.href.toLowerCase().indexOf('/donation/2') > 0)
+	{                           
+        var transactionID =  '{receipt_data~txId}';
+        var isRepeating = false;
+		
+		if(!checkIsSent(transactionID)){ 
+			var transactionType = pageJson.transactionType;
+
+			if(transactionType == 'FCS' || transactionType == 'FBS' || transactionType == 'ACS'){
+                transactionType = 'Single Gift';
+                isRepeating = false;
+			}
+			else if(transactionType == 'FCR' || transactionType == 'FUR' || transactionType == 'FBR' || transactionType == 'ACR'){
+                transactionType = 'Recurring Gift';
+                isRepeating = true;
+			}
+			else if(transactionType == 'FIM'){
+                transactionType = 'Memorial Gift';
+                isRepeating = false;
+			}
+
+			(function() {
+				dataLayer = dataLayer || [];
+				dataLayer.push({
+					'transactionId': '{receipt_data~txId}',
+					'transactionTotal': +('{receipt_data~amount}'.replace( /(\$|,)/g, '' )),
+					'transactionProducts': [{
+						  'name': transactionType,
+						  'sku': 'id:'+ pageJson.campaignPageId + ' ' + pageJson.pageName,
+						  'price': +('{receipt_data~amount}'.replace( /(\$|,)/g, '' )),
+						  'quantity': 1}]
+				});
+            })();
+            
+            care2Targeting({
+                clientid: '154',
+                email: '{user_data~EMail Address}',
+                value: '{receipt_data~amount}'.replace('$',''),
+                repeating: isRepeating
+            });
+		}
+	}
+});
+</script> 
+  <!-- End Data Layer --> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K76L3F');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta name="title" content="Urge Shriners International to Oppose Cruel Animal Circuses!"> 
+  <meta property="og:title" content="Urge Shriners International to Oppose Cruel Animal Circuses!"> 
+  <meta property="og:description" content="Tell Shriners International that you won't support it until it drops the cruelty."> 
+  <meta name="description" content="Tell Shriners International that you won't support it until it drops the cruelty."> 
+  <meta property="og:image" content="https://acb0a5d73b67fccd4bbe-c2d8138f0ea10a18dd4c43ec3aa4240a.ssl.cf5.rackcdn.com/10003/ENT+Elephants+Shrine+Circus+NC+PO+WC.jpg?v=1499981945000"> 
+  <link rel="canonical" href="https://support.peta.org/page/1860/action/1?locale=en-US"> 
+  <meta property="og:url" content="https://support.peta.org/page/1860/action/1?locale=en-US"> 
+  <link rel="image_src" href="https://acb0a5d73b67fccd4bbe-c2d8138f0ea10a18dd4c43ec3aa4240a.ssl.cf5.rackcdn.com/10003/ENT+Elephants+Shrine+Circus+NC+PO+WC.jpg?v=1499981945000"> 
+  <link href="/ea-demo/frontend/pbAssets/build/css/enPage.css?v=3.59.0" rel="stylesheet" type="text/css"> 
+  <script>var pageJson = {"clientId":10003,"campaignPageId":1860,"pageType":"emailtotarget","pageNumber":1,"campaignId":1332,"externalReference8":"ENT::Action::EN::AA::PE Urge Shriners International to Oppose Cruel Animal Circuses","externalReference9":"act::ent::peta","redirectPresent":true,"giftProcess":false,"pageCount":1,"pageName":"PE ETT ENT 2017-05-23 Urge Shriners International to Oppose Cruel Animal Circuses (R:MJohnson|C:DB)","locale":"en-US"};</script> 
+  <script src="/page/1860/campaigner/0/pagedata.js?locale=en-US"></script> 
+  <script src="/ea-demo/frontend/pbAssets/build/js/enPage.js?v=3.59.0"></script> 
+ </head> 
+ <body class="post-template-default single single-post postid-895634 single-format-standard"> 
+  <!--fb embed --> 
+  <div id="fb-root"></div> 
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=1525501187525084&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+  <form method="post" action="/page/1860/action/2" class="en__component en__component--page"> 
+   <input type="hidden" name="hidden" class="en__hiddenFields" value=""> 
+   <input type="hidden" name="sessionId" value="707012e14bf54ca5b9b6f20132f87724-server50011"> 
+   <ul class="en__errorList"> 
+   </ul> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock hdr" style="
+
+
+
+
+
+
+
+"> 
+      <div class="off-canvas-wrapper"> 
+       <div class="off-canvas position-left is-closed is-transition-push" data-off-canvas="" data-position="left" id="offcanvas">
+        <button aria-label="Close menu" class="close-button medium" data-close="" type="button"><span aria-hidden="true">Ã</span></button>
+        <span class="logo"><a accesskey="1" href="https://www.peta.org" title=""><img alt="PETA" height="78" itemprop="logo" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-text-logo-blue.svg" width="120"> </a> </span> 
+        <a class="donate-button button yellow" href="https://support.peta.org/page/1828/donate/1?en_txn7=Navigation::top%20donate%20now%20button&amp;supporter.appealCode=IXXXWBXXXXG">Donate Now</a> 
+        <div class="main-nav"> 
+         <ul class="menu" id="menu-top-navigation"> 
+          <li class="nav-features menu-item menu-item-type-post_type_archive menu-item-object-feature menu-item-745" id="menu-item-745"><a accesskey="3" href="https://www.peta.org/features/" title="Features">Features</a></li> 
+          <li class="nav-video menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-846429" id="menu-item-846429"><a accesskey="4" href="https://www.peta.org/videos/" title="Videos">Videos</a></li> 
+          <li class="nav-action menu-item menu-item-type-post_type_archive menu-item-object-peta-action menu-item-has-children menu-item-145474" id="menu-item-145474"><a accesskey="5" href="https://www.peta.org/action/" title="Action">Action</a></li> 
+          <li class="nav-blog menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148174" id="menu-item-148174"><a accesskey="6" href="https://www.peta.org/blog/" title="News">News</a></li> 
+          <li class="nav-issues menu-item menu-item-type-post_type_archive menu-item-object-issue menu-item-has-children menu-item-748" id="menu-item-748"><a accesskey="7" href="https://www.peta.org/issues/" title="Issues">Issues</a></li> 
+          <li class="nav-living menu-item menu-item-type-post_type_archive menu-item-object-living menu-item-has-children menu-item-145472" id="menu-item-145472"><a accesskey="8" href="https://www.peta.org/living/" title="Living">Living</a></li> 
+          <li class="menu-item menu-item-type-post_type_archive menu-item-object-student menu-item-has-children menu-item-920111" id="menu-item-920111"><a accesskey="t" href="https://www.peta.org/students/">Students</a></li> 
+          <li class="nav-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-596" id="menu-item-596"><a accesskey="b" href="https://www.peta.org/shop/" title="Shop">Shop</a></li> 
+          <li class="nav-interactive menu-item menu-item-type-post_type menu-item-object-page menu-item-602710" id="menu-item-602710"><a accesskey="c" href="https://www.peta.org/investigations/" title="Investigations">Investigations</a></li> 
+          <li class="nav-media menu-item menu-item-type-post_type_archive menu-item-object-media_center menu-item-has-children menu-item-145464" id="menu-item-145464"><a accesskey="d" href="https://www.peta.org/media/" title="Media">Media</a></li> 
+          <li class="nav-about menu-item menu-item-type-post_type_archive menu-item-object-about menu-item-has-children menu-item-145470" id="menu-item-145470"><a accesskey="e" href="https://www.peta.org/about-peta/" title="About">About</a></li> 
+          <li class="nav-donate menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149040" id="menu-item-149040"><a accesskey="a" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA" title="Donate Now">Donate Now</a></li> 
+         </ul> 
+        </div> 
+        <ul class="menu" id="menu-top-bar-sites-2"> 
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-825" id="menu-item-825"><a href="https://www.peta.org/misc/topics/" title="Programs">Programs</a> 
+          <ul class="sub-menu"> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644003" id="menu-item-644003"><a accesskey="u" href="https://prime.peta.org" target="_blank">PETA Prime</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644008" id="menu-item-644008"><a accesskey="w" href="https://www.petakids.com" target="_blank">PETA Kids</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644010" id="menu-item-644010"><a href="http://teachkind.org">TeachKind</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955908" id="menu-item-955908"><a href="https://sos.peta.org">Students Opposing Speciesism (SOS)</a></li> 
+          </ul> </li> 
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-826" id="menu-item-826"><a href="https://www.peta.org/donate/ways-to-support-peta/" title="Support PETA">Support PETA</a> 
+          <ul class="sub-menu"> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827" id="menu-item-827"><a href="https://support.peta.org/page/2141/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Join&amp;supporter.appealCode=IXXXWBXXXXM" title="Become a Member">Become a Member</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828" id="menu-item-828"><a href="https://support.peta.org/page/6064/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Monthly&amp;supporter.appealCode=IXXXWBXXXXG" title="Make a Monthly Gift">Make a Monthly Gift</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831709" id="menu-item-831709"><a href="http://memorial.peta.org">Make a Memorial Gift</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-962909" id="menu-item-962909"><a href="https://presents.peta.org/?en_txn7=Navigation::Support-PETA-dropdown">Make an Honorary Gift</a></li> 
+           <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-143349" id="menu-item-143349"><a href="https://www.peta.org/donate/planned-giving/" title="Planned Giving">Your Legacy For Animals</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-798669" id="menu-item-798669"><a href="https://www.peta.org/donate/vanguard/">Vanguard Society</a></li> 
+           <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-798668" id="menu-item-798668"><a href="https://www.peta.org/donate/membership-services/">Membership Services</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831710" id="menu-item-831710"><a href="https://shop.peta.org/peta-gift-membership.html" target="_blank">Gift Memberships</a></li> 
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644014" id="menu-item-644014"><a accesskey="y" href="https://www.peta.org/donate/ways-to-support-peta/" title="More Ways to Support PETA">More Ways</a></li> 
+          </ul> </li> 
+         <li class="top-bar-events menu-item menu-item-type-custom menu-item-object-custom menu-item-970522" id="menu-item-970522"><a href="https://www.peta.org/events">Events</a></li> 
+         <li class="menu-item menu-item-type-post_type menu-item-object-about menu-item-143350" id="menu-item-143350"><a accesskey="9" href="https://www.peta.org/about-peta/contact-peta/report-cruelty/" title="Report Cruelty to Animals">Report Cruelty to Animals</a></li> 
+        </ul> 
+       </div> 
+       <div class="off-canvas-content" data-off-canvas-content=""> 
+        <header class="header" role="banner">
+         <a class="screen-reader-shortcut" href="#peta-content-start" tabindex="1">Skip to Main Content</a> 
+         <div class="mobile-top-bar top-bar-container hide-for-large" data-sticky-container="" id="top-bar-block"> 
+          <div class="mobile-nav menu-icon-wrap sticky" data-btm-anchor="footer:bottom" data-margin-top="0" data-sticky="" data-sticky-on="small" data-top-anchor="top-bar-block"> 
+           <div class="align-left">
+            <button class="menu-icon" data-open="offcanvas" type="button">&nbsp;</button>
+            <span class="logo"><a accesskey="1" href="https://www.peta.org" title=""><img alt="PETA" height="78" itemprop="logo" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-text-logo-white.svg" width="120"> </a> </span>
+           </div> 
+           <div class="align-right default">
+            <a class="donate-link" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA">Donate Now</a>
+           </div> 
+          </div> 
+         </div> 
+         <div class="super-nav bar show-for-large"> 
+          <nav class="row"> 
+           <div class="nav columns large-9"> 
+            <div class="logo-text">
+             <a href="https://www.peta.org" title="PETA | People for the Ethical Treatment of Animals"><span>People for the Ethical Treatment of Animals</span> </a>
+            </div> 
+            <ul class="vertical medium-horizontal large-horizontal menu align-right dropdown" data-dropdown-menu="" id="menu-top-bar-sites-3"> 
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-825"><a href="https://www.peta.org/misc/topics/" title="Programs">Programs</a> 
+              <ul class="sub-menu"> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644003"><a accesskey="u" href="https://prime.peta.org" target="_blank">PETA Prime</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644008"><a accesskey="w" href="https://www.petakids.com" target="_blank">PETA Kids</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644010"><a href="http://teachkind.org">TeachKind</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955908"><a href="https://sos.peta.org">Students Opposing Speciesism (SOS)</a></li> 
+              </ul> </li> 
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-826"><a href="https://www.peta.org/donate/ways-to-support-peta/" title="Support PETA">Support PETA</a> 
+              <ul class="sub-menu"> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a href="https://support.peta.org/page/2141/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Join&amp;supporter.appealCode=IXXXWBXXXXM" title="Become a Member">Become a Member</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a href="https://support.peta.org/page/6064/donate/1?en_txn7=Navigation::0718-PETAorg-Support-PETA-Dropdown-Monthly&amp;supporter.appealCode=IXXXWBXXXXG" title="Make a Monthly Gift">Make a Monthly Gift</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831709"><a href="http://memorial.peta.org">Make a Memorial Gift</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-962909"><a href="https://presents.peta.org/?en_txn7=Navigation::Support-PETA-dropdown">Make an Honorary Gift</a></li> 
+               <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-143349"><a href="https://www.peta.org/donate/planned-giving/" title="Planned Giving">Your Legacy For Animals</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-798669"><a href="https://www.peta.org/donate/vanguard/">Vanguard Society</a></li> 
+               <li class="menu-item menu-item-type-post_type menu-item-object-donate menu-item-798668"><a href="https://www.peta.org/donate/membership-services/">Membership Services</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831710"><a href="https://shop.peta.org/peta-gift-membership.html" target="_blank">Gift Memberships</a></li> 
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644014"><a accesskey="y" href="https://www.peta.org/donate/ways-to-support-peta/" title="More Ways to Support PETA">More Ways</a></li> 
+              </ul> </li> 
+             <li class="top-bar-events menu-item menu-item-type-custom menu-item-object-custom menu-item-970522" role="menuitem"><a href="https://www.peta.org/events">Events</a></li> 
+             <li class="menu-item menu-item-type-post_type menu-item-object-about menu-item-143350"><a accesskey="9" href="https://www.peta.org/about-peta/contact-peta/report-cruelty/" title="Report Cruelty to Animals">Report Cruelty to Animals</a></li> 
+            </ul> 
+           </div> 
+           <div class="search-peta columns large-3">
+            &nbsp;
+           </div> 
+          </nav> 
+         </div> 
+         <div class="logo-header bar"> 
+          <div class="wrapper row"> 
+           <div class="logo-column hide-for-small-only"> 
+            <div class="inner">
+             <a href="https://www.peta.org" title="PETA | People for the Ethical Treatment of Animals"><img height="120" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-logo.svg" width="120"> </a>
+            </div> 
+           </div> 
+           <div class="mission column medium-12"> 
+            <div class="important">
+             <a href="https://www.peta.org/features/what-peta-really-stands-for/">Animals are not ours</a>
+            </div> 
+            <div>
+             <a href="https://www.peta.org/features/what-peta-really-stands-for/">to experiment on, eat, wear, use for entertainment, or abuse in any other way. <span class="arrow">&nbsp;</span></a>
+            </div> 
+           </div> 
+           <div class="header-rabbit show-for-medium">
+            <img height="82" src="https://resources.peta.org/engaging-networks/pages/peta/images/bunny.svg" width="162">
+           </div> 
+          </div> 
+         </div> 
+         <div class="nav row show-for-large"> 
+          <div class="main-nav"> 
+           <ul class="menu" id="menu-top-navigation-1"> 
+            <li class="nav-features menu-item menu-item-type-post_type_archive menu-item-object-feature menu-item-745"><a accesskey="3" href="https://www.peta.org/features/" title="Features">Features</a></li> 
+            <li class="nav-video menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-846429"><a accesskey="4" href="https://www.peta.org/videos/" title="Videos">Videos</a></li> 
+            <li class="nav-action menu-item menu-item-type-post_type_archive menu-item-object-peta-action current-menu-item menu-item-has-children has-dropdown menu-item-145474 current-menu-item"><a accesskey="5" href="https://www.peta.org/action/" title="Action">Action</a></li> 
+            <li class="nav-blog menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-148174"><a accesskey="6" href="https://www.peta.org/blog/" title="News">News</a></li> 
+            <li class="nav-issues menu-item menu-item-type-post_type_archive menu-item-object-issue menu-item-has-children menu-item-748"><a accesskey="7" href="https://www.peta.org/issues/" title="Issues">Issues</a></li> 
+            <li class="nav-living menu-item menu-item-type-post_type_archive menu-item-object-living menu-item-has-children menu-item-145472"><a accesskey="8" href="https://www.peta.org/living/" title="Living">Living</a></li> 
+            <li class="menu-item menu-item-type-post_type_archive menu-item-object-student menu-item-has-children menu-item-920111"><a accesskey="t" href="https://www.peta.org/students/">Students</a></li> 
+            <li class="nav-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a accesskey="b" href="https://www.peta.org/shop/" title="Shop">Shop</a></li> 
+            <li class="nav-interactive menu-item menu-item-type-post_type menu-item-object-page menu-item-602710"><a accesskey="c" href="https://www.peta.org/investigations/" title="Investigations">Investigations</a></li> 
+            <li class="nav-media menu-item menu-item-type-post_type_archive menu-item-object-media_center menu-item-has-children menu-item-145464"><a accesskey="d" href="https://www.peta.org/media/" title="Media">Media</a></li> 
+            <li class="nav-about menu-item menu-item-type-post_type_archive menu-item-object-about menu-item-has-children menu-item-145470"><a accesskey="e" href="https://www.peta.org/about-peta/" title="About">About</a></li> 
+            <li class="nav-donate menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149040"><a accesskey="a" href="https://support.peta.org/page/22115/donate/1?en_txn7=Navigation::091520-Donate-Now-btn&amp;supporter.appealCode=I20JWAXXXXA" title="Donate Now">Donate Now</a></li> 
+           </ul> 
+          </div> 
+         </div> 
+        </header> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="title-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Title Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("title-begins").style.display = "block";
+}
+</script>
+      <!--TITLE BEGINS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h1>Urge Shriners International to Oppose Cruel Animal Circuses!</h1> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="title-ends"> 
+       <p><kbd>UN LAB Middleware Label: Title Ends</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+    document.getElementById("title-ends").style.display = "none";
+}
+</script>
+      <!--TITLE ENDS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="add__this__toolbar" style="display: none;"> 
+       <p><kbd>UN MIS AddThis Inline Share Toolbar</kbd></p> 
+      </div> 
+      <style type="text/css">/* Add styles */
+</style> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("add__this__toolbar").style.display = "block";
+}
+</script>
+      <!-- AddThis --> 
+      <div class="addthis_inline_share_toolbox">
+       &nbsp;
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="description-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Description Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("description-begins").style.display = "block";
+}
+</script>
+      <!--DESCRIPTION BEGINS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="intro-image"> 
+       <p><kbd>UN INT Intro Text w/ Responsive Image - *Important Note* You must UNLINK this shared library component before making page-specific customizations.</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+Â  Â  document.getElementById("intro-image").style.display = "none";
+}
+</script>
+      <!--RESPONSIVE IMAGE DIV --> 
+      <p>Shriners International claims to be dedicated to compassion and service to others, yet its member clubs continue to host notoriously cruel animal circuses. PETA recently obtained horrific footage showing an emaciated tiger named King in desperate need of veterinary care as well as tigers pacing in cramped transport cages that are so small they can't even fully stretch.</p> 
+      <div class="video-container"> 
+       <div class="video-fullwidth">
+        <iframe allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/f2ZrL2K58aE?showinfo=0" width="560" wmode="transparent"></iframe>
+       </div> 
+      </div> 
+      <p>An animal behavior expert <a href="https://www.mediapeta.com/peta/PDF/ShrineCircusReport2018PratteSigned.pdf" target="_blank">reported</a> that, while circus trainers, ringmasters, and staff claimed that the animals at Shrine circuses perform tricks through rewards and trust, "what actually occurs is environmental and physiological neglect, psychological abuse, and coercing the animals to behave through dominance and fear-based techniques."</p> 
+      <p>In the following video of Shrine circuses, an elephant is jabbed with a <strong>bullhook</strong> (a sharp steel-tipped weapon resembling a fireplace poker), a tiger is whipped in the face, a bear urinates on herself while being forced to do a handstand, and many other animals suffer in despair.</p> 
+      <div class="video-container"> 
+       <div class="video-fullwidth">
+        <iframe allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/vxnj_X5NJCY?showinfo=0" width="560" wmode="transparent"></iframe>
+       </div> 
+      </div> 
+      <p>Keeping far-ranging tigers inside cramped cages, forcing sensitive elephants to perform uncomfortable tricks under the threat of punishment, and dressing up curious bears in demeaning costumes is a form of speciesism, a human-supremacist worldview. .</p> 
+      <p style="text-align: center;"><big><span style="color:#FF0000;"><strong>Tell Shriners International to require its chapters to host only animal-free fundraisers.</strong></span></big></p> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="description-ends" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Description Ends</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("description-ends").style.display = "block";
+}
+</script>
+      <!--DESCRIPTION BEGINS --> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--2"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--codeblock">
+      <script>
+function toggle() {
+    // ETT Message Box
+    var ele = document.querySelectorAll('.en__component--contactblock, .en__component--pledgeblock')[0];
+    var text = document.getElementById('displayText');
+
+    if (ele.style.display == "block") {
+        ele.style.display = "none";
+        text.innerHTML = "View Message +";
+    } else {
+        ele.style.display = "block";
+        text.innerHTML = "Hide Message -";
+    }
+}
+</script> 
+      <div class="view_hide">
+       <a href="javascript:toggle();" id="displayText">View Message +</a>
+      </div> 
+     </div> 
+     <div class="en__component en__component--contactblock" style=""> 
+      <div class="en__contacts en__contacts--hideContact en__contacts--hideCheck en__contacts--singleMessageMode" style=""> 
+       <div data-contact="5330" class="en__contact en__contact--5330 en__contact--open">
+        <div class="en__contact__detail" style=""> 
+         <div class="en__contactDetails" style=""> 
+          <input class="en__contactDetails__select" type="checkbox" checked value="Y" name="contact.5330.send"> 
+          <div class="en__contactDetails__rows"> 
+           <div class="en__contactDetails__row en__contactDetails__row--1"> 
+            <div class="en__contactDetail en__contactDetail--title">
+              Mr. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--firstName">
+              James R. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--lastName">
+              Smith 
+            </div> 
+           </div> 
+           <div class="en__contactDetails__row en__contactDetails__row--2"> 
+            <div class="en__contactDetail en__contactDetail--organization">
+              Shriners International 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div>
+       </div> 
+       <div data-contact="5331" class="en__contact en__contact--5331 en__contact--closed">
+        <div class="en__contact__detail" style=""> 
+         <div class="en__contactDetails" style=""> 
+          <input class="en__contactDetails__select" type="checkbox" checked value="Y" name="contact.5331.send"> 
+          <div class="en__contactDetails__rows"> 
+           <div class="en__contactDetails__row en__contactDetails__row--1"> 
+            <div class="en__contactDetail en__contactDetail--title">
+              Mr. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--firstName">
+              James R. 
+            </div> 
+            <div class="en__contactDetail en__contactDetail--lastName">
+              Smith 
+            </div> 
+           </div> 
+           <div class="en__contactDetails__row en__contactDetails__row--2"> 
+            <div class="en__contactDetail en__contactDetail--organization">
+              Shriners International 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div>
+       </div> 
+      </div> 
+      <div class="en__singleMessage" style=""> 
+       <div class="en__contactSubject"> 
+        <input autocomplete="off" class="en__field__input en__field__input--text en__contactSubject__field" type="text" value="Please Urge Your Chapters Not to Host Circuses With Animals" name="contact.subject"> 
+       </div> 
+       <div class="en__contactMessage en__contactMessage--typePlainText"> 
+        <textarea name="contact.message" class="en__field en__field--textarea en__contactMessage__plainText">Message to {contact_data~firstName} {contact_data~lastName}: 
+
+I was disappointed to learn that Shriners International has not yet directed its chapters to end the use of animal acts for fundraisers. At a time when Ringling Bros. and Barnum &amp; Bailey Circus has shut down, some Shrine chapters are nixing animal circuses, and human-only circuses  captivate audiences, this is out of step with the shifting tide of public opinion.
+
+Bears, elephants, tigers, and other wild animals forced to perform in circuses live under the constant threat of being hit with bullhooksâsharp steel-tipped weapons resembling a fireplace pokerâwhips, or electric prods. Trainers exploit the animals' natural desire to avoid pain in order to make them balance on balls, spin on pedestals, walk on two legs, and ride bicycles. 
+
+Shriners Internationalâan organization devoted to doing goodâshould dissociate itself from the egregious cruelty inherent in using animals for entertainment. Doing so would surely attract a new generation of Shriners. Please urge your chapters to stop hosting circuses with animals. 
+
+Thank you for your consideration.
+
+Sincerely,
+{user_data~First Name} {user_data~Last Name}
+{user_data~EMail Address}
+</textarea> 
+        <input name="contact.origmessage" class="en__contactMessage__plainTextOriginal" value="Message to {contact_data~firstName} {contact_data~lastName}: 
+
+I was disappointed to learn that Shriners International has not yet directed its chapters to end the use of animal acts for fundraisers. At a time when Ringling Bros. and Barnum &amp; Bailey Circus has shut down, some Shrine chapters are nixing animal circuses, and human-only circuses  captivate audiences, this is out of step with the shifting tide of public opinion.
+
+Bears, elephants, tigers, and other wild animals forced to perform in circuses live under the constant threat of being hit with bullhooksâsharp steel-tipped weapons resembling a fireplace pokerâwhips, or electric prods. Trainers exploit the animals' natural desire to avoid pain in order to make them balance on balls, spin on pedestals, walk on two legs, and ride bicycles. 
+
+Shriners Internationalâan organization devoted to doing goodâshould dissociate itself from the egregious cruelty inherent in using animals for entertainment. Doing so would surely attract a new generation of Shriners. Please urge your chapters to stop hosting circuses with animals. 
+
+Thank you for your consideration.
+
+Sincerely,
+{user_data~First Name} {user_data~Last Name}
+{user_data~EMail Address}
+" type="hidden"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="en__component en__component en__component--column en__component--column--2"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="cta-title-begins" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Call to Action Title Begins</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("cta-title-begins").style.display = "block";
+}
+</script>
+      <!--CALL TO ACTION TITLE BEGINS --> 
+     </div> 
+     <div class="en__component en__component--widgetblock"> 
+      <script data-id="265191" src="/ea-demo/frontend/pbAssets/build/js/enWidget.loader.js"></script> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h2>Take Action Now!</h2> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="cta-title-ends" style="display: none;"> 
+       <p><kbd>UN LAB Middleware Label: Call to Action Title Ends</kbd></p> 
+      </div> 
+      <script>
+if(!window.EngagingNetworks)
+{
+    document.getElementById("cta-title-ends").style.display = "block";
+}
+</script>
+      <!--CALL TO ACTION TITLE ENDS --> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <p><em>Fields with an asterisk(*) are required.&nbsp;</em></p> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--1709 en__field--firstName"> 
+       <label for="en__field_supporter_firstName" class="en__field__label" style="">First Name</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_firstName" type="text" class="en__field__input en__field__input--text" name="supporter.firstName" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--text en__field--1710 en__field--lastName"> 
+       <label for="en__field_supporter_lastName" class="en__field__label" style="">Last Name</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_lastName" type="text" class="en__field__input en__field__input--text" name="supporter.lastName" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--text en__field--1715 en__field--emailAddress en__mandatory"> 
+       <label for="en__field_supporter_emailAddress" class="en__field__label" style="">E-Mail Address</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_emailAddress" type="text" class="en__field__input en__field__input--text" name="supporter.emailAddress" value=""> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--checkbox en__field--question en__field--164 en__field--membership-updates"> 
+       <label class="en__field__label" style="">Membership Updates</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_questions_164" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.164"> 
+         <label for="en__field_supporter_questions_164" class="en__field__label en__field__label--item"></label> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--checkbox en__field--question en__field--167 en__field--peta-e-news"> 
+       <label class="en__field__label" style="">PETA E-News</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_questions_167" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.questions.167"> 
+         <label for="en__field_supporter_questions_167" class="en__field__label en__field__label--item"></label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <h3>Get texts &amp; occasional phone calls for Action Alerts, local events, &amp; other updates to help animals with PETA!&nbsp;<em>(optional)</em></h3> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--10563 en__field--NOT_TAGGED_69"> 
+       <label for="en__field_supporter_NOT_TAGGED_69" class="en__field__label" style="">Mobile Phone</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_NOT_TAGGED_69" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_69" value=""> 
+       </div> 
+      </div> 
+      <div class="en__field en__field--checkbox en__field--1907 en__field--NOT_TAGGED_9"> 
+       <label class="en__field__label" style="">PETA Mobile Opt In</label> 
+       <div class="en__field__element en__field__element--checkbox
+	"> 
+        <div class="en__field__item"> 
+         <input id="en__field_supporter_NOT_TAGGED_9" type="checkbox" class="en__field__input en__field__input--checkbox" value="Y" name="supporter.NOT_TAGGED_9"> 
+         <label for="en__field_supporter_NOT_TAGGED_9" class="en__field__label en__field__label--item">By clicking, you agree to receive automated texts and calls from PETA and accept our <a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/" target="_blank">terms and conditions</a>. Message and data rates may apply. U.S. mobile users only.</label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--formblock" style=""> 
+      <div class="en__field en__field--text en__field--2236 en__field--NOT_TAGGED_16"> 
+       <label for="en__field_supporter_NOT_TAGGED_16" class="en__field__label" style="">IMG BOt D3t3ction</label> 
+       <div class="en__field__element en__field__element--text"> 
+        <input id="en__field_supporter_NOT_TAGGED_16" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_16" value=""> 
+       </div> 
+      </div> 
+      <div class="en__submit">
+       <button style="">SEND MESSAGE</button>
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <p class="privacy-policy">By submitting this form, you are agreeing to our collection, storage, use, and disclosure of your personal info in accordance with our&nbsp;<a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/" target="_blank">privacy policy</a>&nbsp;as well as to receiving e-mails from us.</p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="en__component en__component--row en__component--row--1"> 
+    <div class="en__component en__component en__component--column en__component--column--1"> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <div id="hidden_info"> 
+       <p><kbd>UN MIS Hidden Thank You Text w/ Social Sharing Email Info - *Important Note* You must UNLINK this shared library component before making page-specific customizations.</kbd></p> 
+      </div> 
+      <script>
+if(window.EngagingNetworks)
+{
+Â  Â  document.getElementById("hidden_info").style.display = "none";
+}
+</script> 
+      <div id="hiddenInfo" style="display: none;"> 
+       <h2 class="tyHeader">&nbsp;</h2> 
+       <div class="tyText"> 
+        <p>&nbsp;</p> 
+        <p>&nbsp;</p> 
+       </div> 
+       <img class="tyImage" src=""> 
+       <div class="tyImageText">
+        &nbsp;
+       </div> 
+       <div class="twitterMessage">
+        Horrifying &amp; abusive animal acts were caught on tape at several Shrine circuses. Take action with @PETA to urge @shriners not to support cruelty: http://peta.vg/205d
+       </div> 
+       <div class="emailSubject">
+        Urge Shriners International to Oppose Cruel Animal Circuses!
+       </div> 
+       <div class="emailBody">
+        The Shriners' continued use of animalsâespecially after the closure of Ringling Bros. and Barnum &amp; Bailey Circusâshows how out of step they are with the shifting tide of public opinion. Tell Shriners International that you won't support it until it drops the cruelty. http://peta.vg/205d
+       </div> 
+      </div> 
+     </div> 
+     <div class="en__component en__component--copyblock" style="
+
+
+
+
+
+
+
+"> 
+      <!--FOOTER--> 
+      <div class="footer" id="footer"> 
+       <div class="footer-border"> 
+        <div class="footer-logo">
+         <img alt="PETA" src="https://resources.peta.org/engaging-networks/pages/peta/images/peta-logo-gray-x3.png" width="65">
+        </div> 
+        <div class="footer-text"> 
+         <ul> 
+          <li><a href="https://www.peta.org/about-peta/contact-peta/" target="_self">Contact PETA</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/disclaimer/" target="_self">Disclaimer</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/" target="_self">Privacy Policy</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/" target="_self">Contest Terms and Conditions</a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/" target="_self">Texting Terms and Conditions </a></li> 
+          <li><a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/peta-online-community-terms-of-use-agreement/" target="_self">Terms of Use</a></li> 
+          <li><a href="https://support.peta.org/page/1828/donate/1?en_txn7=Navigation::top%20donate%20now%20button&amp;supporter.appealCode=IXXXWBXXXXG" target="_self">Donate Now</a></li> 
+          <li><a href="https://www.peta.org/about-peta/contact-peta/report-website-abuse/" target="_self">Report Website Abuse</a></li> 
+          <li id="last">Â© <script>
+        if(window.EngagingNetworks)
+        {
+
+         document.write(new Date().getFullYear());
+
+        }
+        </script> PETA. <a href="https://www.peta.org/about-peta/learn-about-peta/website-policies/" target="_self">Read our full policy.</a></li> 
+         </ul> 
+         <p>People for the Ethical Treatment of Animals<br> 501 Front St., Norfolk, VA 23510<br> 757-622-PETA (7382)<br> 757-622-0457 (fax)</p> 
+         <p>PETA is a nonprofit, tax-exempt 501(c)(3) corporation (tax ID number 52-1218336)</p> 
+        </div> 
+        <div id="photo-credit">
+         &nbsp;
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </form>
+  <!--START Google Analytics Social Button Tracking--> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/googleAnalytics/global/ga_social_tracking.js"></script> 
+  <!--END Google Analytics Social Button Tracking--> 
+  <!-- Lightbox BEGIN --> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/jquery.magnific-popup.min.js"></script> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/magnific-scripts.js"></script> 
+  <!-- Lightbox END --> 
+  <script language="javascript" type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/peta/js/scripts.js"></script> 
+  <!-- AddThis --> 
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58d54ee605594635"></script> 
+  <script type="text/javascript">
+var addthis_config = addthis_config||{};
+    addthis_config.data_track_clickback = false;
+</script> 
+  <script type="text/javascript" src="https://h.online-metrix.net/fp/tags.js?org_id=e0j3u9ji&amp;session_id=10003-707012e14bf54ca5b9b6f20132f87724-server50011&amp;pageid=1"></script> 
+  <noscript> 
+   <iframe style="width: 100px; height: 100px; border: 0; position: absolute; top: -5000px;" src="https://h.online-metrix.net/tags?org_id=e0j3u9ji&amp;session_id=10003-707012e14bf54ca5b9b6f20132f87724-server50011&amp;pageid=1"></iframe> 
+  </noscript> 
+  <script type="text/javascript" src="https://resources.peta.org/engaging-networks/pages/_shared/js/applepay.js"></script>   
+  <!-- PE ETT ENT 2017-05-23 Urge Shriners International to Oppose Cruel Animal Circuses (R:MJohnson|C:DB):1860:1332:10003 -->
+ </body>
+</html>

@@ -1,0 +1,2696 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xmlns:og="http://ogp.me/ns#">
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href='//pagead2.googlesyndication.com' rel='preconnect dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='preconnect dns-prefetch'/>
+<link href='//www.gstatic.com' rel='preconnect dns-prefetch'/>
+
+<link href="https://image.entabe.jp/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="https://image.entabe.jp/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="apple-touch-icon" href="https://image.entabe.jp/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://image.entabe.jp/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://image.entabe.jp/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://image.entabe.jp/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://image.entabe.jp/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://image.entabe.jp/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://image.entabe.jp/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://image.entabe.jp/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://image.entabe.jp/apple-touch-icon-180x180.png" />
+
+ 
+
+<meta name="robots" content="noindex,noarchive">
+
+
+
+<title>えん食べ [グルメニュース] [えん食べ]</title>
+
+<meta name="description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+
+<meta property="og:title" content="えん食べ [グルメニュース] [えん食べ]" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+<meta property="og:site_name" content="えん食べ [グルメニュース]" />
+<meta property="og:url" content="https://entabe.jp/34688/tabekko-animal-ichiban-kuji-re-release%0A" />
+
+<meta property="og:image" content="https://image.entabe.jp" />
+
+<meta property="fb:app_id" content="236959193084547" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@entabejp" />
+<meta name="twitter:creator" content="@entabejp" />
+<meta name="twitter:title" content="えん食べ [グルメニュース] [えん食べ]" />
+<meta name="twitter:description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+<meta property="twitter:image" content="https://image.entabe.jp" />
+
+
+<meta name="amp-google-client-id-api" content="googleanalytics">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="manifest" href="/manifest.json">
+
+
+
+
+
+
+
+		
+
+
+
+<link rel="stylesheet" type="text/css" href="https://image.entabe.jp/css/desktop.33.css" /><link rel="stylesheet" type="text/css" href="https://image.entabe.jp/css/rrssb.css" /><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	 <script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot("/12126725/entabe-pc-right-bottom",[[336, 280], [300, 250]], "div-gpt-ad-1586239756490-0").addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<style>
+
+ul.list-pc div.index-last-line div.line-buzz-count {
+    left: 236px;
+}
+
+
+ul.list-pc>li>a>picture>img {
+    width: 222px;
+    height: 128px;
+}
+
+ul.list-pc>li>a>div>picture>img {
+    width: 222px;
+    height: 128px;
+}
+
+
+ul.list-pc>li>a>img {
+    width: 222px;
+    height: 128px;
+}
+
+ul.list-pc>li>a>div>img {
+    width: 222px;
+    height: 128px;
+}
+
+#contents > div > div.span8 > ul > li > a.news-index-latest > p.related-title.related-title-over {
+ font-size:18px;
+}
+
+#contents > div > div.span8 > ul > li > a > p.related-summary.hidden-phone {
+	display:none;
+}
+
+
+
+.ribbon_box3{
+    display: block;
+    position: relative;
+    margin-right:1em;
+    padding: 0;
+    width: 80px;
+    height: 80px;
+    background: #f1f1f1;
+    box-sizing: border-box;
+		float:left;
+}
+.big.ribbon_box3{
+    width: 120px;
+		height: 120px;
+    width: 222px;
+		height: 128px;
+}
+
+.ribbon_area {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+}
+.big .ribbon_area {
+    width: 120px;
+    height: 120px;
+    width: 222px;
+		height: 128px;
+}
+.big .ribbon_area img{
+    width: 120px;
+    height: 120px;
+    width: 222px;
+    height: 128px;
+}
+
+.ribbon16 {
+    display: inline-block;
+    position: absolute;
+    padding: 0px;
+    left: 35px;
+    top: 8px;
+    width: 63px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 12px;
+    background: #39c3d4;
+    color: #fff;
+    letter-spacing: 0.05em;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    box-shadow: 0 0 0 2px rgb(57, 195, 212);
+}
+
+.big .ribbon16 {
+    left: 176px;
+}
+
+.ad-div2 ins {
+	margin-left:-3px !important;
+}
+
+
+.thumbnail {
+	border:none;
+	-webkit-border-radius: none;
+	-moz-border-radius: none;
+	border-radius: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.article-date a {
+	color:#777;
+}
+
+
+</style>
+
+<style>
+
+.container {
+	width:1036px;
+}
+
+div.maker-block {
+	box-shadow:none;
+}
+
+
+div.side > table.table.table-striped.special-header > thead > tr > th {
+    background: white;
+    color: #333;
+    padding-left: 5px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+		font-weight:normal;
+}
+
+div.eatout-header {
+    background: white;
+    color: #333;
+    padding-left: 15px;
+    border-bottom: 1px solid #eee;
+    border-left: 2px solid #f6791d;
+    border-radius: 0px;
+		font-weight:normal;
+}
+
+
+._popIn_recommend_header {
+	background:white !important;
+	color:#333 !important;
+	padding-left:5px !important;
+	border-bottom:1px solid #ddd !important;
+	border-radius:0px !important;
+}
+
+#special th, .on-sale th {
+	background:white;
+	color:#333;
+	padding-left:5px;
+	border-bottom:1px solid #ddd;
+	border-radius:0px;
+}
+
+.nav-pills>li>div.related-header {
+	background:white;
+	color:#333;
+	padding-left:5px;
+	border-bottom:1px solid #ddd;
+	border-radius:0px;
+}
+
+
+.navbar .nav>li>a {
+	text-shadow:none;
+	font-weight:normal;
+}
+.nav-pills.nav-stacked>li.active>div.new-list-tab div {
+	text-shadow:none;
+	font-weight:normal;
+}
+
+#special th,.on-sale th {
+	text-shadow:none;
+	font-weight:normal;
+}
+
+#ranking th {
+	text-shadow:none;
+	font-weight:normal;
+}
+.on-sale-text a {
+	font-weight:normal;
+}
+.news-index-latest1 h4 {
+	font-weight:normal;
+    font-size: 13px;
+}
+.badge {
+	font-weight:normal;
+	text-shadow:none;
+}
+#related-tab {
+	font-weight:normal;
+}
+
+.on-sale>tbody>tr>td.on-sale-text {
+    font-size: 13px;
+}
+.on-sale>tbody>tr>td.on-sale-ad {
+		padding-right:5px;
+}
+.special-text p {
+	padding-right:5px;
+}
+
+</style>
+
+
+<style>
+
+.index-last-line2 {
+	font-size:10px;
+	margin-top:8px;
+  color: gray;
+}
+
+.list-pc .index-last-line2 {
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+.related-title.related-title-over {
+		-webkit-line-clamp: 3;
+}
+
+
+.list-pc .related-title.related-title-over {
+		-webkit-line-clamp: 4;
+}
+
+.related-title {
+	min-height:55px;
+}
+
+.list-pc .related-title {
+	min-height:105px;
+}
+
+.related-title.related-title-onsale {
+		min-height:35px;
+		-webkit-line-clamp: 2;
+}
+
+.list-pc .related-title.related-title-onsale {
+		min-height:85px;
+}
+
+.index-last-line2 .line-buzz-count {
+	float:left;	
+}
+
+.index-last-line2 .line-category {
+	float:right;	
+	margin-right:5px;
+}
+
+.index-last-line2 img {
+	margin-top:2px;
+	width:11px;
+	height:11px;
+	margin-right:4px;
+}
+</style>
+
+
+
+
+
+<meta name="p:domain_verify" content="b8f2ae4b3eef489557c635bd4730b59d"/>
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="えん食べ" href="https://entabe.jp/news/feed.rss">
+
+
+
+
+
+
+
+
+ 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-32572161-1', 'auto',{'useAmpClientId': true});  // Replace with your property ID.
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+
+
+
+	<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"https://entabe.jp/news/article"
+    },
+		"headline": "",    "image": [
+
+
+
+
+],
+    "datePublished": "1970-01-01T09:00:00+09:00",
+    "dateModified": "1970-01-01T09:00:00+09:00",
+    "author": {
+      "@type": "Person",
+			"name": "",
+			"url": "https://entabe.jp/news/editor"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "えん食べ",
+      "logo": {
+        "@type": "ImageObject",
+			        "url": "https://image.entabe.jp/img/publisher.png",
+        "width": 600,         "height": 60        
+																					}
+    },
+    "description": ""
+}
+</script>
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://entabe.jp/",
+      "name": "ホーム"
+    }
+  },
+
+	
+
+
+
+	{	
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://entabe.jp/34688/tabekko-animal-ichiban-kuji-re-release%0A",
+      "name": "",
+			"image" : "https://image.entabe.jp"
+    }
+  }]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "えん食べ",
+  "alternateName": "えん食べ [グルメニュース]",
+  "url": "https://entabe.jp/"
+}
+</script>
+
+
+
+
+
+
+
+
+
+	</head>
+	<body>
+
+
+
+
+
+
+		
+
+
+					<style>
+.fixed-header {
+	min-width:1010px;
+	position:fixed;
+	padding-top:0px;	
+	padding-bottom:0px;	
+	z-index:1;
+	background-color:white;
+	width:100%;	
+	border-bottom:1px solid #eee;
+	height:52px;
+}
+
+.fixed-center {
+	margin:0 auto;
+	width:1010px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.fixed-margin {
+	margin-top:45px;
+}
+.fixed-logo {
+	float:left;
+}
+.fixed-logo img {
+	padding-top:3px;
+	padding-left:3px;
+	height:45px;
+	padding-bottom:3px;
+}
+
+.fixed-right {
+	float:right;
+}
+.fixed-search {
+display: table-cell;    
+vertical-align: middle;
+padding-left:15px;
+padding-top:8px;
+}
+.fixed-search input {
+margin:0 0 0 0px;
+}
+.fixed-search form {
+margin:0 0 0 0px;
+}
+.fixed-social {
+display: table-cell;    
+vertical-align: bottom;
+padding:0 0 0 0px;
+margin:0 0 0 0px;
+padding-top:8px;
+}
+.fixed-social a svg{
+margin-top:4px;
+margin-bottom:-3px;
+fill: #777;
+}
+
+
+.fixed-button {
+	float:left;
+	width:520px;
+	display:none;
+}
+
+.fixed-menu {
+	float:left;
+	width:520px;
+	position:relative;
+	height:51px;
+}
+
+
+
+
+.fixed-menu-top {
+	position:absolute;
+	top:3px;
+	left:13px;
+	font-size:12px;
+	color: #f6921d;
+	font-weight:normal;
+}
+.fixed-menu-bottom {
+	position:absolute;
+	bottom:3px;
+	left:10px;
+}
+.fixed-menu-bottom a {
+	font-size:12px;
+	color:gray;
+	font-weight:normal;
+	margin-left:3px;
+}
+
+
+.fixed-button ul  {
+	margin-left:60px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	padding-top:12px;
+}
+
+div.fixed-header > div > div.fixed-button > div > ul > li > a > span.rrssb-text > span {
+	font-size:14px;
+}
+
+.fixed-button ul > li {
+	width:150px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	padding-top:0px;
+	font-size:14px;
+}
+
+.fixed-button ul > li > a {
+	height:30px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-top:9px;
+}
+
+div.fixed-button > div > ul > li > a > span.rrssb-icon > svg {
+	padding-top:0px;
+	margin-top:-2px;
+} 
+
+</style>
+
+
+<div class="fixed-header">
+	<div class="fixed-center clearfix">
+		<div class="fixed-logo">
+		<a href="https://entabe.jp/">
+								<img src="https://image.entabe.jp/img/logo.gif">
+							</a>
+		</div>
+
+		<div class="fixed-button">
+	
+		
+
+
+
+
+
+<style>
+.child-button li {
+	margin-bottom:0px;
+	width:34px;
+	height:30px;
+}
+
+
+
+.rrssb-buttons li.rrssb-share a .rrssb-icon {
+/*	left:100px; */
+}
+
+.rrssb-buttons li.rrssb-share a .rrssb-icon img {
+	width:16px;
+}
+
+.chiild-button .rrssb-buttons li { 
+		
+}
+
+.rrssb-buttons li.rrssb-hatena a .rrssb-icon img {
+	width:30px;
+	max-width:30px;
+	margin-left:-8px;
+	margin-top:-9px;
+}
+
+.rrssb-buttons li.rrssb-hatena a {
+	background:white;	
+}
+
+.rrssb-facebook, .rrssb-twitter, .rrssb-share {
+	width:223px;
+	font-size:18px;
+}
+.child-button  {
+	width:200px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:5px;
+	padding-bottom:0px;
+	margin-top:5px;
+}
+
+.child-button.rrssb-buttons li a .rrssb-icon {
+	left:7px;
+}
+
+
+.child-button.rrssb-buttons li a{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.child-button.rrssb-buttons li {
+	margin-right:5px;
+}
+
+.child-button.rrssb-buttons li.rrssb-email {
+	margin-right:0px;
+}
+.rrssb-buttons.bottom-share .rrssb-facebook, .rrssb-buttons.bottom-share .rrssb-twitter,.rrssb-buttons.bottom-share  .rrssb-share {
+	width:226.5px
+}
+
+.rrssb-buttons.bottom-share li  {
+}
+
+
+.rrssb-buttons.bottom-share  {
+	padding:0 0 0 0px;
+}
+.bottom-share .share-text {
+	font-size:16px;
+	margin-top:4px;
+	margin-bottom:10px;
+}
+.bottom-share li.rrssb-share .share-text {
+	margin-top:12px;
+}
+
+.rrssb-buttons {
+	margin-left:-3px;
+	margin-right:-3px;
+}
+.bottom-share li {
+	height:65px;
+}
+.rrssb-buttons.bottom-share li a .rrssb-icon svg {
+    width: 28px;
+    height: 28px;
+    margin-top: 9px;
+    margin-left: 6px;
+}
+
+.rrssb-buttons.bottom-share li a .rrssb-icon img {
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 6px;
+}
+.bottom-share li.rrssb-share .rrssb-text span {
+	display:none;
+}
+
+
+.bottom-share .share-text {
+	display:block;
+}
+
+.child-button .rrssb-text {
+	display:none;
+}
+.popover-content {
+	border:1px solid #ccc;
+	border-radius:2px;
+}
+
+.popover-title {
+	display:none;
+}
+
+.share-text {
+	display:none;
+}
+
+
+
+.rrssb-buttons li a {
+	font-weight:bold;
+}
+
+
+
+
+.rrssb-buttons li.rrssb-share a {
+	background:white;
+	border:1px solid #ccc;
+	color:blue;
+}
+
+.rrssb-buttons li.rrssb-share .rrssb-text {
+	color:gray;
+	font-size:14px;
+}
+</style>
+
+
+
+
+
+<div class=" -pc-header">
+    <ul class="rrssb-buttons  top-share ">
+
+
+      <li class="rrssb-facebook">
+        <!--  Replace with your URL. For best results, make sure you page has the proper FB Open Graph tags in header:
+              https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/ -->
+				<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle" class="popup" onclick="ga('send','event','sns','click','fb-pc-header',1);">
+          <span class="rrssb-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/></svg>
+          </span>
+          <span class="rrssb-text">
+						<div class="share-text">
+						シェアする						</div>
+						0				</span>
+        </a>
+      </li>
+
+
+      <li class="rrssb-twitter">
+        <!-- Replace href with your Meta and URL information  -->
+        <a href="https://twitter.com/share?url=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle&text=&via=entabejp"
+        class="popup" onclick="ga('send','event','sns','click','tw-pc-header',1);">
+          <span class="rrssb-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z"/></svg>
+          </span>
+          <span class="rrssb-text">
+						<div class="share-text">
+						ツイートする						</div>
+						0					</span>
+        </a>
+      </li>
+
+
+
+
+
+
+      <li class="rrssb-share">
+        <!-- Replace href with your meta and URL information.  -->
+				<a href="javascript:void(0);" data-html="true" data-toggle="popover" data-container="body"  data-content='&lt;div class=&quot;clearfix&quot;&gt;
+    &lt;ul class=&quot;rrssb-buttons child-button&quot;&gt;
+
+
+      &lt;li class=&quot;rrssb-hatena&quot;&gt;
+        &lt;a href=&quot;https://b.hatena.ne.jp/entry/https://entabe.jp/news/article&quot; class=&quot;popup&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+						&lt;img src=&quot;https://image.entabe.jp/img/icons/hatena.svg&quot;&gt;
+          &lt;/span&gt;
+			&lt;/a&gt;
+      &lt;/li&gt;
+
+
+
+
+      &lt;li class=&quot;rrssb-line&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+&lt;div class=&quot;line-it-button&quot; style=&quot;display: none;&quot; data-type=&quot;share-c&quot; data-lang=&quot;ja&quot;&gt;&lt;/div&gt;
+          &lt;/span&gt;
+      &lt;/li&gt;
+
+
+
+      &lt;li class=&quot;rrssb-pocket&quot;&gt;
+        &lt;a href=&quot;https://getpocket.com/save?url=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle&quot; class=&quot;popup&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+            &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path d=&quot;M28.782.002c2.03.002 3.193 1.12 3.182 3.106-.022 3.57.17 7.16-.158 10.7-1.09 11.773-14.588 18.092-24.6 11.573C2.72 22.458.197 18.313.057 12.937c-.09-3.36-.05-6.72-.026-10.08C.04 1.113 1.212.016 3.02.008 7.347-.006 11.678.004 16.006.002c4.258 0 8.518-.004 12.776 0zM8.65 7.856c-1.262.135-1.99.57-2.357 1.476-.392.965-.115 1.81.606 2.496a746.818 746.818 0 0 0 7.398 6.966c1.086 1.003 2.237.99 3.314-.013a700.448 700.448 0 0 0 7.17-6.747c1.203-1.148 1.32-2.468.365-3.426-1.01-1.014-2.302-.933-3.558.245-1.596 1.497-3.222 2.965-4.75 4.526-.706.715-1.12.627-1.783-.034a123.71 123.71 0 0 0-4.93-4.644c-.47-.42-1.123-.647-1.478-.844z&quot;/&gt;&lt;/svg&gt;
+          &lt;/span&gt;
+          &lt;span class=&quot;rrssb-text&quot;&gt;pocket&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+
+
+      &lt;li class=&quot;rrssb-email&quot;&gt;
+        &lt;a href=&quot;mailto:?Subject=&amp;body=%0A%0Ahttps%3A%2F%2Fentabe.jp%2Fnews%2Farticle&quot; target=&quot;_blank&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+            &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 4 24 20&quot;&gt;&lt;path d=&quot;M21.386 2.614H2.614A2.345 2.345 0 0 0 .279 4.961l-.01 14.078a2.353 2.353 0 0 0 2.346 2.347h18.771a2.354 2.354 0 0 0 2.347-2.347V4.961a2.356 2.356 0 0 0-2.347-2.347zm0 4.694L12 13.174 2.614 7.308V4.961L12 10.827l9.386-5.866v2.347z&quot;/&gt;&lt;/svg&gt;
+          &lt;/span&gt;
+          &lt;span class=&quot;rrssb-text&quot;&gt;email&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+
+		&lt;/ul&gt;
+
+&lt;/div&gt;
+' 
+data-placement="bottom"
+
+ onclick="ga('send','event','sns','click','share-pc-header',1);"
+
+
+ >
+
+
+
+
+					<span class="rrssb-icon">
+
+<svg version="1.1" id="_x31_0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="width: 16px; height: 16px; opacity: 1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#374149;}
+</style>
+<g>
+	<path class="st0" d="M425.797,306.941c-28.594,0-53.863,13.977-69.546,35.414l-185.114-72.125c0.774-4.641,1.27-9.371,1.27-14.23
+		c0-4.856-0.496-9.586-1.27-14.227l185.117-72.125c15.68,21.434,40.95,35.414,69.543,35.414c47.61,0,86.203-38.598,86.203-86.203
+		c0-47.61-38.594-86.207-86.203-86.207s-86.203,38.598-86.203,86.207c0,1.258,0.133,2.48,0.188,3.726l-190.883,74.371
+		c-15.722-16.688-37.961-27.16-62.695-27.16C38.594,169.797,0,208.395,0,256c0,47.609,38.594,86.202,86.203,86.202
+		c24.734,0,46.973-10.472,62.695-27.16l190.883,74.375c-0.055,1.242-0.188,2.469-0.188,3.726c0,47.61,38.594,86.203,86.203,86.203
+		S512,440.754,512,393.144C512,345.536,473.406,306.941,425.797,306.941z" style="fill: rgb(75, 75, 75);"></path>
+</g>
+</svg>
+
+ </span>
+
+
+          <span class="rrssb-text">
+					<div class="share-text">
+						共有する					</div>
+					<span>
+					共有
+					</span>
+					</span>
+
+
+
+        </a>
+      </li>
+
+    </ul>
+    <!-- Buttons end here -->
+
+  </div>
+
+
+		</div>
+
+
+
+		<div class="fixed-right clearfix">
+
+			<div class="fixed-social">
+				<a href="https://twitter.com/entabejp" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Twitter" ><svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewbox="0 0 53 49"><title>Twitter</title><path d="M45 6.9c-1.6 1-3.3 1.6-5.2 2-1.5-1.6-3.6-2.6-5.9-2.6-4.5 0-8.2 3.7-8.2 8.3 0 .6.1 1.3.2 1.9-6.8-.4-12.8-3.7-16.8-8.7C8.4 9 8 10.5 8 12c0 2.8 1.4 5.4 3.6 6.9-1.3-.1-2.6-.5-3.7-1.1v.1c0 4 2.8 7.4 6.6 8.1-.7.2-1.5.3-2.2.3-.5 0-1 0-1.5-.1 1 3.3 4 5.7 7.6 5.7-2.8 2.2-6.3 3.6-10.2 3.6-.6 0-1.3-.1-1.9-.1 3.6 2.3 7.9 3.7 12.5 3.7 15.1 0 23.3-12.6 23.3-23.6 0-.3 0-.7-.1-1 1.6-1.2 3-2.7 4.1-4.3-1.4.6-3 1.1-4.7 1.3 1.7-1 3-2.7 3.6-4.6"></path></svg></a>
+
+<a href="https://www.instagram.com/entabejp" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Facebook"><svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="-5 -5 35 35"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+
+			</div>
+
+			<div class="fixed-search">
+				<form action="https://entabe.jp/news" method="post">
+			 		<input name="search" type="text" placeholder="気になるグルメのキーワードで探す"
+						value=""
+					> <input type="submit" value="検索" class="btn btn-default">
+				</form>
+			</div>	
+		</div>
+	</div>
+</div>
+
+	
+			<div class="container">
+				<div class="row">
+					<div class="container fixed-margin">
+							&nbsp;
+					</div>
+				</div>
+			</div>
+		
+		
+		<div class="container" id="contents">
+			
+
+<h3>
+<br>
+指定されたURLは存在しませんでした。
+</h3>
+<p class="error">
+
+<b>
+</b>
+
+URLが正しく入力されていないか、このページが削除された可能性があります。
+
+</p>
+
+		</div>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+		
+
+
+		<div class="container">
+
+
+
+
+
+
+
+		
+<div id="_popIn_recommend"></div>
+<script type="text/javascript">
+
+    (function() {
+
+        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+
+        pa.src = window.location.protocol + "//api.popin.cc/searchbox/entabe.js";
+
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+
+    })(); 
+
+</script>
+
+
+
+
+<div class="before-footer">
+
+	<a href="https://entabe.jp/">
+	<div class="spritemachine_img_logo"></div>
+	<div>
+		えん食べトップへ &gt;&gt;
+	</div>
+	</a>
+			
+</div>
+
+
+
+
+
+
+
+
+<div class="navbar footer">
+	<div class="navbar-inner">
+		<div class="nav-collapse1">
+			<div class="footer-contents">
+
+<ul class="clearfix"><li><a href="https://entabe.jp/pages/1">運営会社</a></li><li>|</li><li><a href="https://entabe.jp/pages/7">お問い合わせ</a></li><li>|</li><li><a href="https://entabe.jp/pages/8">プライバシーポリシー</a></li></ul><ul class="clearfix"><li><a href="https://entabe.jp/pages/10">利用規約</a></li><li>|</li><li><a href="https://entabe.jp/pages/9">著作権・商標権</a></li><li>|</li><li><a href="https://entabe.jp/pages/6">採用情報</a></li><li>|</li><li><a href="https://entabe.jp/pages/5">広告掲載</a></li></ul>
+
+<ul class="clearfix">
+		<li class="copyright">
+		Copyright 2020 internetcom K.K. All Rights Reserved
+		</li>
+</ul>
+
+
+
+			</div>
+		</div><!-- /.nav-collapse -->
+	</div><!-- /navbar-inner -->
+</div><!-- /navbar -->
+
+
+
+
+		</div><!-- /container -->
+
+
+
+<script type="text/javascript" src="https://image.entabe.jp/js/all.7.js"></script>
+
+
+<script>
+$(document).ready(function () {
+	$('img.lazy').lazyload({
+		threshold : 300,
+		failure_limit:7
+});
+
+
+		$('.nav1 img.lazy').lazyload({
+		threshold : 300,
+		failure_limit:7,
+	});
+	
+
+
+	
+});
+</script>
+
+
+
+
+
+
+<script>
+	$(window).on('resize load',
+		function () {
+			$('.article-body iframe').each(function(){
+				var $this = $(this);
+				var proportion = $this.data( 'proportion' );
+				var	w = $this.attr('width');
+				var actual_w = $this.width();
+
+				if ( !proportion ) {
+					proportion = $this.attr('height') / w;
+					$this.data( 'proportion', proportion );
+				}
+
+				if ( actual_w != w ) {
+					$this.css( 'height', Math.round( actual_w * proportion ) + 'px' );
+				}
+			});
+		}
+	);	
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+
+
+
+$(document).ready (
+ function () {
+
+
+
+$('.top-search-icon').click(function () {
+	if ( $('#hide-search-box').is(':hidden') ) {
+		$('#hide-search-box').slideDown();
+	}	
+	else {
+		$('#hide-search-box').slideUp();
+	}
+});
+
+
+
+
+
+
+ }
+);
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+			
+
+
+
+
+
+<style>
+.nav1 {
+	position: -webkit-sticky;
+	position:sticky;
+	top:47px;
+	text-align:center;
+}	
+</style>
+
+
+
+
+
+
+<script>
+$(function() {
+		$("img").bind('contextmenu', function() {
+				return false;
+				});
+		}); 
+</script>
+
+
+
+
+
+
+<script src="//scdn.line-apps.com/n/line_it/thirdparty/loader.min.js" async="async"　defer="defer"></script>
+
+<script>
+$(document).ready(function(){
+
+$("a[data-toggle=popover]").popover();
+
+
+$(".bottom-share .rrssb-share a[data-toggle=popover]").on('shown.bs.popover',function (){
+	$(this).find('.share-text').text('閉じる');
+	LineIt.loadButton();
+});
+$(".bottom-share .rrssb-share a[data-toggle=popover]").on('hidden.bs.popover',function (){
+	$(this).find('.share-text').text('共有する');
+});
+
+
+$(".top-share .rrssb-share a[data-toggle=popover]").on('shown.bs.popover',function (){
+	$(this).find('.rrssb-text').text('閉じる');
+	LineIt.loadButton();
+});
+$(".top-share .rrssb-share a[data-toggle=popover]").on('hidden.bs.popover',function (){
+	$(this).find('.rrssb-text').text('共有');
+});
+
+
+
+
+
+$(document).on("click",".rrssb-buttons a.popup",function () {
+			window.open($(this).attr('href'), '', 'width=850, height=850, menubar=no, toolbar=no, scrollbars=yes');
+			return false;
+});
+
+
+});
+
+
+
+
+
+
+</script>
+
+<script>
+$(function() {
+    // 引き金となる要素を設定
+    var triggerNode = $('.article-box .top-share');
+    // 画面スクロール毎に判定を行う
+    $(window).scroll(function(){
+        // 引き金となる要素の位置を取得
+        var triggerNodePosition = $(triggerNode).offset().top;
+        // 現在のスクロール位置が引き金要素の位置より下にあれば‥
+        if ($(window).scrollTop() > triggerNodePosition ) {
+            // なんらかの命令を実行
+						$(".fixed-button").show('fast');
+        }
+				else {
+						$(".fixed-button").hide('fast');
+				}
+		});
+
+
+		$('.article-body a[href^="https://www.amazon.co.jp"]:not(.asin-box):not(.simple-box)').each( function () {
+			$(this).css('position','relative');
+			$(this).css('display','inline-block');
+			$(this).find('img').after('<img src="https://image.entabe.jp/assocbutt_or_detail._V371070159_.png" style="position:absolute;top:0;right:0;">');
+		});
+
+});
+</script>
+
+
+
+
+
+
+
+
+	<script src="https://www.gstatic.com/firebasejs/5.7.3/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.7.3/firebase-messaging.js"></script>
+<script>
+// Initialize Firebase
+var config = {
+	apiKey: "AIzaSyAK2TJMbq1MRcmkL-IeS5Bk1Ke2Ga92oKQ",
+	authDomain: "entabe-webpush.firebaseapp.com",
+	databaseURL: "https://entabe-webpush.firebaseio.com",
+	projectId: "entabe-webpush",
+	storageBucket: "entabe-webpush.appspot.com",
+	messagingSenderId: "673000282998"
+};
+firebase.initializeApp(config);
+
+// メッセージング オブジェクトの取得
+const messaging = firebase.messaging();
+// アプリにウェブ認証情報を設定する
+messaging.usePublicVapidKey("BDSf32c20SEw4tdEioEPSDMdtpi87z79nIKJmD8KhoZI22Vm-OUgG9LaPdLwK5hJbVA6wv3ivoWfVcyVkGrMIZQ");
+// 通知を受信する権限を要求する
+messaging.requestPermission().then(function() {
+	// 現在の登録トークンの取得
+	messaging.getToken().then(function(token) {
+		sendTokenToServer(token);
+	}).catch(function(err) {
+	});
+}).catch(function(err) {
+});
+
+
+messaging.onTokenRefresh(function() {
+	messaging.getToken().then(function(token) {
+		sendTokenToServer(token);
+  }).catch(function(err) {
+  });
+});
+
+function sendTokenToServer(token) {
+	var data = {"subscription" : token};
+	$.ajax({
+	type: "POST",
+		url: "/top/saveToken",
+		dataType: "json",
+		cache: false,
+		data: data
+	});
+}
+
+
+</script>
+
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xmlns:og="http://ogp.me/ns#">
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href='//pagead2.googlesyndication.com' rel='preconnect dns-prefetch'/>
+<link href='//googleads.g.doubleclick.net' rel='preconnect dns-prefetch'/>
+<link href='//www.gstatic.com' rel='preconnect dns-prefetch'/>
+
+<link href="https://image.entabe.jp/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="https://image.entabe.jp/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link rel="apple-touch-icon" href="https://image.entabe.jp/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://image.entabe.jp/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://image.entabe.jp/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://image.entabe.jp/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://image.entabe.jp/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://image.entabe.jp/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://image.entabe.jp/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://image.entabe.jp/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://image.entabe.jp/apple-touch-icon-180x180.png" />
+
+ 
+
+<meta name="robots" content="noindex,noarchive">
+
+
+
+<title>えん食べ [グルメニュース] [えん食べ]</title>
+
+<meta name="description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+
+<meta property="og:title" content="えん食べ [グルメニュース] [えん食べ]" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+<meta property="og:site_name" content="えん食べ [グルメニュース]" />
+<meta property="og:url" content="https://entabe.jp/34688/tabekko-animal-ichiban-kuji-re-release%0A" />
+
+<meta property="og:image" content="https://image.entabe.jp" />
+
+<meta property="fb:app_id" content="236959193084547" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@entabejp" />
+<meta name="twitter:creator" content="@entabejp" />
+<meta name="twitter:title" content="えん食べ [グルメニュース] [えん食べ]" />
+<meta name="twitter:description" content="グルメニュースをお届けするえん食べは、美味しい食べ物、話題のレストラン、コンビニの新商品、実食レポートなどをお届けするグルメサイトです。" />
+<meta property="twitter:image" content="https://image.entabe.jp" />
+
+
+<meta name="amp-google-client-id-api" content="googleanalytics">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="manifest" href="/manifest.json">
+
+
+
+
+
+
+
+		
+
+
+
+<link rel="stylesheet" type="text/css" href="https://image.entabe.jp/css/desktop.33.css" /><link rel="stylesheet" type="text/css" href="https://image.entabe.jp/css/rrssb.css" /><script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	 <script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot("/12126725/entabe-pc-right-bottom",[[336, 280], [300, 250]], "div-gpt-ad-1586239756490-0").addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<style>
+
+ul.list-pc div.index-last-line div.line-buzz-count {
+    left: 236px;
+}
+
+
+ul.list-pc>li>a>picture>img {
+    width: 222px;
+    height: 128px;
+}
+
+ul.list-pc>li>a>div>picture>img {
+    width: 222px;
+    height: 128px;
+}
+
+
+ul.list-pc>li>a>img {
+    width: 222px;
+    height: 128px;
+}
+
+ul.list-pc>li>a>div>img {
+    width: 222px;
+    height: 128px;
+}
+
+#contents > div > div.span8 > ul > li > a.news-index-latest > p.related-title.related-title-over {
+ font-size:18px;
+}
+
+#contents > div > div.span8 > ul > li > a > p.related-summary.hidden-phone {
+	display:none;
+}
+
+
+
+.ribbon_box3{
+    display: block;
+    position: relative;
+    margin-right:1em;
+    padding: 0;
+    width: 80px;
+    height: 80px;
+    background: #f1f1f1;
+    box-sizing: border-box;
+		float:left;
+}
+.big.ribbon_box3{
+    width: 120px;
+		height: 120px;
+    width: 222px;
+		height: 128px;
+}
+
+.ribbon_area {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+}
+.big .ribbon_area {
+    width: 120px;
+    height: 120px;
+    width: 222px;
+		height: 128px;
+}
+.big .ribbon_area img{
+    width: 120px;
+    height: 120px;
+    width: 222px;
+    height: 128px;
+}
+
+.ribbon16 {
+    display: inline-block;
+    position: absolute;
+    padding: 0px;
+    left: 35px;
+    top: 8px;
+    width: 63px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 12px;
+    background: #39c3d4;
+    color: #fff;
+    letter-spacing: 0.05em;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    box-shadow: 0 0 0 2px rgb(57, 195, 212);
+}
+
+.big .ribbon16 {
+    left: 176px;
+}
+
+.ad-div2 ins {
+	margin-left:-3px !important;
+}
+
+
+.thumbnail {
+	border:none;
+	-webkit-border-radius: none;
+	-moz-border-radius: none;
+	border-radius: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.article-date a {
+	color:#777;
+}
+
+
+</style>
+
+<style>
+
+.container {
+	width:1036px;
+}
+
+div.maker-block {
+	box-shadow:none;
+}
+
+
+div.side > table.table.table-striped.special-header > thead > tr > th {
+    background: white;
+    color: #333;
+    padding-left: 5px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+		font-weight:normal;
+}
+
+div.eatout-header {
+    background: white;
+    color: #333;
+    padding-left: 15px;
+    border-bottom: 1px solid #eee;
+    border-left: 2px solid #f6791d;
+    border-radius: 0px;
+		font-weight:normal;
+}
+
+
+._popIn_recommend_header {
+	background:white !important;
+	color:#333 !important;
+	padding-left:5px !important;
+	border-bottom:1px solid #ddd !important;
+	border-radius:0px !important;
+}
+
+#special th, .on-sale th {
+	background:white;
+	color:#333;
+	padding-left:5px;
+	border-bottom:1px solid #ddd;
+	border-radius:0px;
+}
+
+.nav-pills>li>div.related-header {
+	background:white;
+	color:#333;
+	padding-left:5px;
+	border-bottom:1px solid #ddd;
+	border-radius:0px;
+}
+
+
+.navbar .nav>li>a {
+	text-shadow:none;
+	font-weight:normal;
+}
+.nav-pills.nav-stacked>li.active>div.new-list-tab div {
+	text-shadow:none;
+	font-weight:normal;
+}
+
+#special th,.on-sale th {
+	text-shadow:none;
+	font-weight:normal;
+}
+
+#ranking th {
+	text-shadow:none;
+	font-weight:normal;
+}
+.on-sale-text a {
+	font-weight:normal;
+}
+.news-index-latest1 h4 {
+	font-weight:normal;
+    font-size: 13px;
+}
+.badge {
+	font-weight:normal;
+	text-shadow:none;
+}
+#related-tab {
+	font-weight:normal;
+}
+
+.on-sale>tbody>tr>td.on-sale-text {
+    font-size: 13px;
+}
+.on-sale>tbody>tr>td.on-sale-ad {
+		padding-right:5px;
+}
+.special-text p {
+	padding-right:5px;
+}
+
+</style>
+
+
+<style>
+
+.index-last-line2 {
+	font-size:10px;
+	margin-top:8px;
+  color: gray;
+}
+
+.list-pc .index-last-line2 {
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+.related-title.related-title-over {
+		-webkit-line-clamp: 3;
+}
+
+
+.list-pc .related-title.related-title-over {
+		-webkit-line-clamp: 4;
+}
+
+.related-title {
+	min-height:55px;
+}
+
+.list-pc .related-title {
+	min-height:105px;
+}
+
+.related-title.related-title-onsale {
+		min-height:35px;
+		-webkit-line-clamp: 2;
+}
+
+.list-pc .related-title.related-title-onsale {
+		min-height:85px;
+}
+
+.index-last-line2 .line-buzz-count {
+	float:left;	
+}
+
+.index-last-line2 .line-category {
+	float:right;	
+	margin-right:5px;
+}
+
+.index-last-line2 img {
+	margin-top:2px;
+	width:11px;
+	height:11px;
+	margin-right:4px;
+}
+</style>
+
+
+
+
+
+<meta name="p:domain_verify" content="b8f2ae4b3eef489557c635bd4730b59d"/>
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="えん食べ" href="https://entabe.jp/news/feed.rss">
+
+
+
+
+
+
+
+
+ 
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-32572161-1', 'auto',{'useAmpClientId': true});  // Replace with your property ID.
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+
+
+
+	<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"https://entabe.jp/news/article"
+    },
+		"headline": "",    "image": [
+
+
+
+
+],
+    "datePublished": "1970-01-01T09:00:00+09:00",
+    "dateModified": "1970-01-01T09:00:00+09:00",
+    "author": {
+      "@type": "Person",
+			"name": "",
+			"url": "https://entabe.jp/news/editor"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "えん食べ",
+      "logo": {
+        "@type": "ImageObject",
+			        "url": "https://image.entabe.jp/img/publisher.png",
+        "width": 600,         "height": 60        
+																					}
+    },
+    "description": ""
+}
+</script>
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://entabe.jp/",
+      "name": "ホーム"
+    }
+  },
+
+	
+
+
+
+	{	
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://entabe.jp/34688/tabekko-animal-ichiban-kuji-re-release%0A",
+      "name": "",
+			"image" : "https://image.entabe.jp"
+    }
+  }]
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "えん食べ",
+  "alternateName": "えん食べ [グルメニュース]",
+  "url": "https://entabe.jp/"
+}
+</script>
+
+
+
+
+
+
+
+
+
+	</head>
+	<body>
+
+
+
+
+
+
+		
+
+
+					<style>
+.fixed-header {
+	min-width:1010px;
+	position:fixed;
+	padding-top:0px;	
+	padding-bottom:0px;	
+	z-index:1;
+	background-color:white;
+	width:100%;	
+	border-bottom:1px solid #eee;
+	height:52px;
+}
+
+.fixed-center {
+	margin:0 auto;
+	width:1010px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.fixed-margin {
+	margin-top:45px;
+}
+.fixed-logo {
+	float:left;
+}
+.fixed-logo img {
+	padding-top:3px;
+	padding-left:3px;
+	height:45px;
+	padding-bottom:3px;
+}
+
+.fixed-right {
+	float:right;
+}
+.fixed-search {
+display: table-cell;    
+vertical-align: middle;
+padding-left:15px;
+padding-top:8px;
+}
+.fixed-search input {
+margin:0 0 0 0px;
+}
+.fixed-search form {
+margin:0 0 0 0px;
+}
+.fixed-social {
+display: table-cell;    
+vertical-align: bottom;
+padding:0 0 0 0px;
+margin:0 0 0 0px;
+padding-top:8px;
+}
+.fixed-social a svg{
+margin-top:4px;
+margin-bottom:-3px;
+fill: #777;
+}
+
+
+.fixed-button {
+	float:left;
+	width:520px;
+	display:none;
+}
+
+.fixed-menu {
+	float:left;
+	width:520px;
+	position:relative;
+	height:51px;
+}
+
+
+
+
+.fixed-menu-top {
+	position:absolute;
+	top:3px;
+	left:13px;
+	font-size:12px;
+	color: #f6921d;
+	font-weight:normal;
+}
+.fixed-menu-bottom {
+	position:absolute;
+	bottom:3px;
+	left:10px;
+}
+.fixed-menu-bottom a {
+	font-size:12px;
+	color:gray;
+	font-weight:normal;
+	margin-left:3px;
+}
+
+
+.fixed-button ul  {
+	margin-left:60px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	padding-top:12px;
+}
+
+div.fixed-header > div > div.fixed-button > div > ul > li > a > span.rrssb-text > span {
+	font-size:14px;
+}
+
+.fixed-button ul > li {
+	width:150px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	padding-top:0px;
+	font-size:14px;
+}
+
+.fixed-button ul > li > a {
+	height:30px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+	padding-top:9px;
+}
+
+div.fixed-button > div > ul > li > a > span.rrssb-icon > svg {
+	padding-top:0px;
+	margin-top:-2px;
+} 
+
+</style>
+
+
+<div class="fixed-header">
+	<div class="fixed-center clearfix">
+		<div class="fixed-logo">
+		<a href="https://entabe.jp/">
+								<img src="https://image.entabe.jp/img/logo.gif">
+							</a>
+		</div>
+
+		<div class="fixed-button">
+	
+		
+
+
+
+
+
+<style>
+.child-button li {
+	margin-bottom:0px;
+	width:34px;
+	height:30px;
+}
+
+
+
+.rrssb-buttons li.rrssb-share a .rrssb-icon {
+/*	left:100px; */
+}
+
+.rrssb-buttons li.rrssb-share a .rrssb-icon img {
+	width:16px;
+}
+
+.chiild-button .rrssb-buttons li { 
+		
+}
+
+.rrssb-buttons li.rrssb-hatena a .rrssb-icon img {
+	width:30px;
+	max-width:30px;
+	margin-left:-8px;
+	margin-top:-9px;
+}
+
+.rrssb-buttons li.rrssb-hatena a {
+	background:white;	
+}
+
+.rrssb-facebook, .rrssb-twitter, .rrssb-share {
+	width:223px;
+	font-size:18px;
+}
+.child-button  {
+	width:200px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:5px;
+	padding-bottom:0px;
+	margin-top:5px;
+}
+
+.child-button.rrssb-buttons li a .rrssb-icon {
+	left:7px;
+}
+
+
+.child-button.rrssb-buttons li a{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.child-button.rrssb-buttons li {
+	margin-right:5px;
+}
+
+.child-button.rrssb-buttons li.rrssb-email {
+	margin-right:0px;
+}
+.rrssb-buttons.bottom-share .rrssb-facebook, .rrssb-buttons.bottom-share .rrssb-twitter,.rrssb-buttons.bottom-share  .rrssb-share {
+	width:226.5px
+}
+
+.rrssb-buttons.bottom-share li  {
+}
+
+
+.rrssb-buttons.bottom-share  {
+	padding:0 0 0 0px;
+}
+.bottom-share .share-text {
+	font-size:16px;
+	margin-top:4px;
+	margin-bottom:10px;
+}
+.bottom-share li.rrssb-share .share-text {
+	margin-top:12px;
+}
+
+.rrssb-buttons {
+	margin-left:-3px;
+	margin-right:-3px;
+}
+.bottom-share li {
+	height:65px;
+}
+.rrssb-buttons.bottom-share li a .rrssb-icon svg {
+    width: 28px;
+    height: 28px;
+    margin-top: 9px;
+    margin-left: 6px;
+}
+
+.rrssb-buttons.bottom-share li a .rrssb-icon img {
+    width: 30px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 6px;
+}
+.bottom-share li.rrssb-share .rrssb-text span {
+	display:none;
+}
+
+
+.bottom-share .share-text {
+	display:block;
+}
+
+.child-button .rrssb-text {
+	display:none;
+}
+.popover-content {
+	border:1px solid #ccc;
+	border-radius:2px;
+}
+
+.popover-title {
+	display:none;
+}
+
+.share-text {
+	display:none;
+}
+
+
+
+.rrssb-buttons li a {
+	font-weight:bold;
+}
+
+
+
+
+.rrssb-buttons li.rrssb-share a {
+	background:white;
+	border:1px solid #ccc;
+	color:blue;
+}
+
+.rrssb-buttons li.rrssb-share .rrssb-text {
+	color:gray;
+	font-size:14px;
+}
+</style>
+
+
+
+
+
+<div class=" -pc-header">
+    <ul class="rrssb-buttons  top-share ">
+
+
+      <li class="rrssb-facebook">
+        <!--  Replace with your URL. For best results, make sure you page has the proper FB Open Graph tags in header:
+              https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/ -->
+				<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle" class="popup" onclick="ga('send','event','sns','click','fb-pc-header',1);">
+          <span class="rrssb-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z"/></svg>
+          </span>
+          <span class="rrssb-text">
+						<div class="share-text">
+						シェアする						</div>
+						0				</span>
+        </a>
+      </li>
+
+
+      <li class="rrssb-twitter">
+        <!-- Replace href with your Meta and URL information  -->
+        <a href="https://twitter.com/share?url=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle&text=&via=entabejp"
+        class="popup" onclick="ga('send','event','sns','click','tw-pc-header',1);">
+          <span class="rrssb-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z"/></svg>
+          </span>
+          <span class="rrssb-text">
+						<div class="share-text">
+						ツイートする						</div>
+						0					</span>
+        </a>
+      </li>
+
+
+
+
+
+
+      <li class="rrssb-share">
+        <!-- Replace href with your meta and URL information.  -->
+				<a href="javascript:void(0);" data-html="true" data-toggle="popover" data-container="body"  data-content='&lt;div class=&quot;clearfix&quot;&gt;
+    &lt;ul class=&quot;rrssb-buttons child-button&quot;&gt;
+
+
+      &lt;li class=&quot;rrssb-hatena&quot;&gt;
+        &lt;a href=&quot;https://b.hatena.ne.jp/entry/https://entabe.jp/news/article&quot; class=&quot;popup&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+						&lt;img src=&quot;https://image.entabe.jp/img/icons/hatena.svg&quot;&gt;
+          &lt;/span&gt;
+			&lt;/a&gt;
+      &lt;/li&gt;
+
+
+
+
+      &lt;li class=&quot;rrssb-line&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+&lt;div class=&quot;line-it-button&quot; style=&quot;display: none;&quot; data-type=&quot;share-c&quot; data-lang=&quot;ja&quot;&gt;&lt;/div&gt;
+          &lt;/span&gt;
+      &lt;/li&gt;
+
+
+
+      &lt;li class=&quot;rrssb-pocket&quot;&gt;
+        &lt;a href=&quot;https://getpocket.com/save?url=https%3A%2F%2Fentabe.jp%2Fnews%2Farticle&quot; class=&quot;popup&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+            &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path d=&quot;M28.782.002c2.03.002 3.193 1.12 3.182 3.106-.022 3.57.17 7.16-.158 10.7-1.09 11.773-14.588 18.092-24.6 11.573C2.72 22.458.197 18.313.057 12.937c-.09-3.36-.05-6.72-.026-10.08C.04 1.113 1.212.016 3.02.008 7.347-.006 11.678.004 16.006.002c4.258 0 8.518-.004 12.776 0zM8.65 7.856c-1.262.135-1.99.57-2.357 1.476-.392.965-.115 1.81.606 2.496a746.818 746.818 0 0 0 7.398 6.966c1.086 1.003 2.237.99 3.314-.013a700.448 700.448 0 0 0 7.17-6.747c1.203-1.148 1.32-2.468.365-3.426-1.01-1.014-2.302-.933-3.558.245-1.596 1.497-3.222 2.965-4.75 4.526-.706.715-1.12.627-1.783-.034a123.71 123.71 0 0 0-4.93-4.644c-.47-.42-1.123-.647-1.478-.844z&quot;/&gt;&lt;/svg&gt;
+          &lt;/span&gt;
+          &lt;span class=&quot;rrssb-text&quot;&gt;pocket&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+
+
+      &lt;li class=&quot;rrssb-email&quot;&gt;
+        &lt;a href=&quot;mailto:?Subject=&amp;body=%0A%0Ahttps%3A%2F%2Fentabe.jp%2Fnews%2Farticle&quot; target=&quot;_blank&quot;&gt;
+          &lt;span class=&quot;rrssb-icon&quot;&gt;
+            &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 4 24 20&quot;&gt;&lt;path d=&quot;M21.386 2.614H2.614A2.345 2.345 0 0 0 .279 4.961l-.01 14.078a2.353 2.353 0 0 0 2.346 2.347h18.771a2.354 2.354 0 0 0 2.347-2.347V4.961a2.356 2.356 0 0 0-2.347-2.347zm0 4.694L12 13.174 2.614 7.308V4.961L12 10.827l9.386-5.866v2.347z&quot;/&gt;&lt;/svg&gt;
+          &lt;/span&gt;
+          &lt;span class=&quot;rrssb-text&quot;&gt;email&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+
+		&lt;/ul&gt;
+
+&lt;/div&gt;
+' 
+data-placement="bottom"
+
+ onclick="ga('send','event','sns','click','share-pc-header',1);"
+
+
+ >
+
+
+
+
+					<span class="rrssb-icon">
+
+<svg version="1.1" id="_x31_0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="width: 16px; height: 16px; opacity: 1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#374149;}
+</style>
+<g>
+	<path class="st0" d="M425.797,306.941c-28.594,0-53.863,13.977-69.546,35.414l-185.114-72.125c0.774-4.641,1.27-9.371,1.27-14.23
+		c0-4.856-0.496-9.586-1.27-14.227l185.117-72.125c15.68,21.434,40.95,35.414,69.543,35.414c47.61,0,86.203-38.598,86.203-86.203
+		c0-47.61-38.594-86.207-86.203-86.207s-86.203,38.598-86.203,86.207c0,1.258,0.133,2.48,0.188,3.726l-190.883,74.371
+		c-15.722-16.688-37.961-27.16-62.695-27.16C38.594,169.797,0,208.395,0,256c0,47.609,38.594,86.202,86.203,86.202
+		c24.734,0,46.973-10.472,62.695-27.16l190.883,74.375c-0.055,1.242-0.188,2.469-0.188,3.726c0,47.61,38.594,86.203,86.203,86.203
+		S512,440.754,512,393.144C512,345.536,473.406,306.941,425.797,306.941z" style="fill: rgb(75, 75, 75);"></path>
+</g>
+</svg>
+
+ </span>
+
+
+          <span class="rrssb-text">
+					<div class="share-text">
+						共有する					</div>
+					<span>
+					共有
+					</span>
+					</span>
+
+
+
+        </a>
+      </li>
+
+    </ul>
+    <!-- Buttons end here -->
+
+  </div>
+
+
+		</div>
+
+
+
+		<div class="fixed-right clearfix">
+
+			<div class="fixed-social">
+				<a href="https://twitter.com/entabejp" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Twitter" ><svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewbox="0 0 53 49"><title>Twitter</title><path d="M45 6.9c-1.6 1-3.3 1.6-5.2 2-1.5-1.6-3.6-2.6-5.9-2.6-4.5 0-8.2 3.7-8.2 8.3 0 .6.1 1.3.2 1.9-6.8-.4-12.8-3.7-16.8-8.7C8.4 9 8 10.5 8 12c0 2.8 1.4 5.4 3.6 6.9-1.3-.1-2.6-.5-3.7-1.1v.1c0 4 2.8 7.4 6.6 8.1-.7.2-1.5.3-2.2.3-.5 0-1 0-1.5-.1 1 3.3 4 5.7 7.6 5.7-2.8 2.2-6.3 3.6-10.2 3.6-.6 0-1.3-.1-1.9-.1 3.6 2.3 7.9 3.7 12.5 3.7 15.1 0 23.3-12.6 23.3-23.6 0-.3 0-.7-.1-1 1.6-1.2 3-2.7 4.1-4.3-1.4.6-3 1.1-4.7 1.3 1.7-1 3-2.7 3.6-4.6"></path></svg></a>
+
+<a href="https://www.instagram.com/entabejp" target="_blank" class="inline-block p1" aria-label="Link to AMP HTML Facebook"><svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="-5 -5 35 35"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg></a>
+
+			</div>
+
+			<div class="fixed-search">
+				<form action="https://entabe.jp/news" method="post">
+			 		<input name="search" type="text" placeholder="気になるグルメのキーワードで探す"
+						value=""
+					> <input type="submit" value="検索" class="btn btn-default">
+				</form>
+			</div>	
+		</div>
+	</div>
+</div>
+
+	
+			<div class="container">
+				<div class="row">
+					<div class="container fixed-margin">
+							&nbsp;
+					</div>
+				</div>
+			</div>
+		
+		
+		<div class="container" id="contents">
+			
+
+<h3>
+<br>
+指定されたURLは存在しませんでした。
+</h3>
+<p class="error">
+
+<b>
+</b>
+
+URLが正しく入力されていないか、このページが削除された可能性があります。
+
+</p>
+
+		</div>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+		
+
+
+		<div class="container">
+
+
+
+
+
+
+
+		
+<div id="_popIn_recommend"></div>
+<script type="text/javascript">
+
+    (function() {
+
+        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+
+        pa.src = window.location.protocol + "//api.popin.cc/searchbox/entabe.js";
+
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+
+    })(); 
+
+</script>
+
+
+
+
+<div class="before-footer">
+
+	<a href="https://entabe.jp/">
+	<div class="spritemachine_img_logo"></div>
+	<div>
+		えん食べトップへ &gt;&gt;
+	</div>
+	</a>
+			
+</div>
+
+
+
+
+
+
+
+
+<div class="navbar footer">
+	<div class="navbar-inner">
+		<div class="nav-collapse1">
+			<div class="footer-contents">
+
+<ul class="clearfix"><li><a href="https://entabe.jp/pages/1">運営会社</a></li><li>|</li><li><a href="https://entabe.jp/pages/7">お問い合わせ</a></li><li>|</li><li><a href="https://entabe.jp/pages/8">プライバシーポリシー</a></li></ul><ul class="clearfix"><li><a href="https://entabe.jp/pages/10">利用規約</a></li><li>|</li><li><a href="https://entabe.jp/pages/9">著作権・商標権</a></li><li>|</li><li><a href="https://entabe.jp/pages/6">採用情報</a></li><li>|</li><li><a href="https://entabe.jp/pages/5">広告掲載</a></li></ul>
+
+<ul class="clearfix">
+		<li class="copyright">
+		Copyright 2020 internetcom K.K. All Rights Reserved
+		</li>
+</ul>
+
+
+
+			</div>
+		</div><!-- /.nav-collapse -->
+	</div><!-- /navbar-inner -->
+</div><!-- /navbar -->
+
+
+
+
+		</div><!-- /container -->
+
+
+
+<script type="text/javascript" src="https://image.entabe.jp/js/all.7.js"></script>
+
+
+<script>
+$(document).ready(function () {
+	$('img.lazy').lazyload({
+		threshold : 300,
+		failure_limit:7
+});
+
+
+		$('.nav1 img.lazy').lazyload({
+		threshold : 300,
+		failure_limit:7,
+	});
+	
+
+
+	
+});
+</script>
+
+
+
+
+
+
+<script>
+	$(window).on('resize load',
+		function () {
+			$('.article-body iframe').each(function(){
+				var $this = $(this);
+				var proportion = $this.data( 'proportion' );
+				var	w = $this.attr('width');
+				var actual_w = $this.width();
+
+				if ( !proportion ) {
+					proportion = $this.attr('height') / w;
+					$this.data( 'proportion', proportion );
+				}
+
+				if ( actual_w != w ) {
+					$this.css( 'height', Math.round( actual_w * proportion ) + 'px' );
+				}
+			});
+		}
+	);	
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+
+
+
+$(document).ready (
+ function () {
+
+
+
+$('.top-search-icon').click(function () {
+	if ( $('#hide-search-box').is(':hidden') ) {
+		$('#hide-search-box').slideDown();
+	}	
+	else {
+		$('#hide-search-box').slideUp();
+	}
+});
+
+
+
+
+
+
+ }
+);
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+			
+
+
+
+
+
+<style>
+.nav1 {
+	position: -webkit-sticky;
+	position:sticky;
+	top:47px;
+	text-align:center;
+}	
+</style>
+
+
+
+
+
+
+<script>
+$(function() {
+		$("img").bind('contextmenu', function() {
+				return false;
+				});
+		}); 
+</script>
+
+
+
+
+
+
+<script src="//scdn.line-apps.com/n/line_it/thirdparty/loader.min.js" async="async"　defer="defer"></script>
+
+<script>
+$(document).ready(function(){
+
+$("a[data-toggle=popover]").popover();
+
+
+$(".bottom-share .rrssb-share a[data-toggle=popover]").on('shown.bs.popover',function (){
+	$(this).find('.share-text').text('閉じる');
+	LineIt.loadButton();
+});
+$(".bottom-share .rrssb-share a[data-toggle=popover]").on('hidden.bs.popover',function (){
+	$(this).find('.share-text').text('共有する');
+});
+
+
+$(".top-share .rrssb-share a[data-toggle=popover]").on('shown.bs.popover',function (){
+	$(this).find('.rrssb-text').text('閉じる');
+	LineIt.loadButton();
+});
+$(".top-share .rrssb-share a[data-toggle=popover]").on('hidden.bs.popover',function (){
+	$(this).find('.rrssb-text').text('共有');
+});
+
+
+
+
+
+$(document).on("click",".rrssb-buttons a.popup",function () {
+			window.open($(this).attr('href'), '', 'width=850, height=850, menubar=no, toolbar=no, scrollbars=yes');
+			return false;
+});
+
+
+});
+
+
+
+
+
+
+</script>
+
+<script>
+$(function() {
+    // 引き金となる要素を設定
+    var triggerNode = $('.article-box .top-share');
+    // 画面スクロール毎に判定を行う
+    $(window).scroll(function(){
+        // 引き金となる要素の位置を取得
+        var triggerNodePosition = $(triggerNode).offset().top;
+        // 現在のスクロール位置が引き金要素の位置より下にあれば‥
+        if ($(window).scrollTop() > triggerNodePosition ) {
+            // なんらかの命令を実行
+						$(".fixed-button").show('fast');
+        }
+				else {
+						$(".fixed-button").hide('fast');
+				}
+		});
+
+
+		$('.article-body a[href^="https://www.amazon.co.jp"]:not(.asin-box):not(.simple-box)').each( function () {
+			$(this).css('position','relative');
+			$(this).css('display','inline-block');
+			$(this).find('img').after('<img src="https://image.entabe.jp/assocbutt_or_detail._V371070159_.png" style="position:absolute;top:0;right:0;">');
+		});
+
+});
+</script>
+
+
+
+
+
+
+
+
+	<script src="https://www.gstatic.com/firebasejs/5.7.3/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.7.3/firebase-messaging.js"></script>
+<script>
+// Initialize Firebase
+var config = {
+	apiKey: "AIzaSyAK2TJMbq1MRcmkL-IeS5Bk1Ke2Ga92oKQ",
+	authDomain: "entabe-webpush.firebaseapp.com",
+	databaseURL: "https://entabe-webpush.firebaseio.com",
+	projectId: "entabe-webpush",
+	storageBucket: "entabe-webpush.appspot.com",
+	messagingSenderId: "673000282998"
+};
+firebase.initializeApp(config);
+
+// メッセージング オブジェクトの取得
+const messaging = firebase.messaging();
+// アプリにウェブ認証情報を設定する
+messaging.usePublicVapidKey("BDSf32c20SEw4tdEioEPSDMdtpi87z79nIKJmD8KhoZI22Vm-OUgG9LaPdLwK5hJbVA6wv3ivoWfVcyVkGrMIZQ");
+// 通知を受信する権限を要求する
+messaging.requestPermission().then(function() {
+	// 現在の登録トークンの取得
+	messaging.getToken().then(function(token) {
+		sendTokenToServer(token);
+	}).catch(function(err) {
+	});
+}).catch(function(err) {
+});
+
+
+messaging.onTokenRefresh(function() {
+	messaging.getToken().then(function(token) {
+		sendTokenToServer(token);
+  }).catch(function(err) {
+  });
+});
+
+function sendTokenToServer(token) {
+	var data = {"subscription" : token};
+	$.ajax({
+	type: "POST",
+		url: "/top/saveToken",
+		dataType: "json",
+		cache: false,
+		data: data
+	});
+}
+
+
+</script>
+
+</body>
+</html>

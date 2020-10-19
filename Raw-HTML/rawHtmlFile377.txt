@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412) - Fido Finder</title>
+		<meta property="og:title" content="Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412)"/>
+		<meta name="description" content="Lost Chihuahua Puppy in Minneapolis (55412), MN US. Lost and found dogs in the US andCanada." />
+		<meta property="og:description" content="Lost Chihuahua Puppy in Minneapolis (55412), MN US. Lost and found dogs in the US andCanada." />
+		<meta name="keywords" content="lost dog, lost dogs, found dog, found dogs, missing dog, missing dogs, lost pet, lost pets, find dog, find dogs, stray dog, stray dogs"/>
+		<meta property="og:site_name" content="Fido Finder"/>
+		<meta property="og:image" content="https://www.fidofinder.com/image.php?id=646524
+"/>
+		<meta property="og:url" content="https://www.fidofinder.com/dog.php?id=646524%0A"/>
+		<meta property="og:type" content="website"/>
+		<meta property="fb:admins" content="1432476597"/>
+		<meta property="fb:app_id" content="320913482148"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<!-- fav icons -->
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png"/>
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png"/>
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png"/>
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png"/>
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png"/>
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png"/>
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png"/>
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"/>
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+		<link rel="manifest" href="/manifest.json"/>
+		<meta name="msapplication-TileColor" content="#ffffff"/>
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+		<meta name="theme-color" content="#ffffff"/>
+		<!-- end fav icons -->
+		<link rel="shortcut icon" href="/favicon.ico" />
+
+		<link type="text/css" href="/css/style.css?20201017" rel="stylesheet"/>
+
+		<link rel="alternate" type="application/rss+xml" title="Fido Finder Lost and Found Dogs" href="https://www.fidofinder.com/recent_rss.php" />
+
+		<link rel="P3Pv1" href="https://www.fidofinder.com/w3c/p3p.xml" />
+		<link rel="canonical" href="https://www.fidofinder.com/dog.php?id=646524
+" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<!-- Select2 CSS-->
+		<link type="text/css" href="/css/select2.min.css" rel="stylesheet"/>
+		<!-- Font Awesome CSS -->
+		<link type="text/css" href="/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+		<!-- jQuery UI CSS -->
+		<link type="text/css" href="/css/jquery-ui.min.css" rel="stylesheet"/>
+
+
+		<!-- jQuery JS -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<!-- jQuery UI JS -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+		<!-- jQuery Add-ons JS -->
+		<script type="text/javascript" src="/js/jquery_addons.min.js"></script>
+		<!-- Popper JS -->
+		<script type="text/javascript" src="/js/popper.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+		<!-- Lazy Loading Images JS -->
+		<script type="text/javascript" src="/js/jquery.lazy.min.js"></script>
+		<!-- Select2 JS -->
+		<script type="text/javascript" src="/js/select2.min.js"></script>
+		<!-- Mask Text JS -->
+		<script type="text/javascript" src="/js/jquery.mask.min.js"></script>
+		<!-- Site Functions JS -->
+		<script type="text/javascript" src="/js/functions.min.js?20201017"></script>
+		<!-- reCAPTCHA JS -->
+		<script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E" async="defer"></script>
+		<script>
+			function recaptchaOnloadCallback(){
+				grecaptcha.execute('6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E').then(function(token) {
+					verifycaptcha(token);
+				});
+			};
+		</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57806-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-57806-1');
+		</script>
+	</head>
+	<body>
+		<script>
+			var siteurl = "www.fidofinder.com";
+			var domain = "fidofinder";
+		</script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-57806-1', 'auto');
+		  ga('send', 'pageview');
+		  		</script>
+		<noscript>
+			<div class="left" style="width:100%;text-align:center;background-color:rgb(200,0,0);color:white;font-weight:bold;height:40px;"><div class="left" style="margin-top:10px;width:100%;text-align:center;">Fido Finder will not work correctly with JavaScript disabled</div></div>
+		</noscript>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=320913482148&autoLogAppEvents=1';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<div class="container header">
+			<nav class="navbar navbar-expand-lg navbar-dark align-items-start" id="sitenav">
+				<div class="col-lg-4 col-sm-12 pl-2 mr-auto">
+					<a class="navbar-brand" href="//www.fidofinder.com"><img src="/images/logo.png" border="0" alt="Fido Finder - Where Lost Dogs Are Found" id="logo"/><div>Where Lost Dogs Are Found</div></a>
+				</div>
+				<div class="col-auto pl-2">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle Navigation">
+						<span class="navbar-toggler-icon"></span> Menu
+					</button>
+					<div class="collapse navbar-collapse" id="navbarToggler">
+						<ul class="navbar-nav nav-pills ml-auto mt-2">
+							<li class="nav-item"><a class="nav-link" href="//www.fidofinder.com/register/">register</a></li>
+							<li class="nav-item"><a class="nav-link" href="//www.fidofinder.com/signin/">sign in</a></li>
+						</ul>
+					</div>
+					<div class="col-12 text-right" id="countries">United States and Canada</div>
+				</div>
+				<div class="col-auto d-lg-none d-block">
+					<form method="get" action="/dog.php" class="form-inline">
+						<input type="hidden" name="mode" value="search"/>
+						<input type="text" name="id" size="14" placeholder="find dog by id#" class="form-control" style="max-width:140px;display:inline;"/>
+						<button class="btn btn-sm btn-primary ml-2 mr-2" type="submit">go</button>
+					</form>
+				</div>
+			</nav>
+		</div>
+		<div class="container tabscontainer">
+			<div class="row justify-content-between">
+				<div class="col-12 col-lg-7 order-12 order-lg-1">
+					<div class="row">
+						<div class="col-5 col-lg-5 tabon">
+							<h3><a href="//www.fidofinder.com/lost-dogs/">Lost Dogs</a></h3>
+						</div>
+						<div class="col-6 col-lg-5 ml-1 ml-xl-1 taboff">
+							<h3><a href="//www.fidofinder.com/found-dogs/">Found Dogs</a></h3>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-lg-3 order-1 order-lg-12 text-xl-right d-none d-lg-block">
+					<form method="get" action="/dog.php" >
+						<input type="hidden" name="mode" value="search"/>
+						<input type="text" name="id" size="14" placeholder="find dog by id#" class="form-control" style="max-width:150px;display:inline;"/>
+						<button class="btn btn-sm btn-primary ml-2" type="submit">go</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="container page"><div id="profile">
+	<script type="text/javascript">
+		var appId = 320913482148;
+		var domain = "fidofinder";
+
+		$(window).on("load",
+			function()
+			{
+				$("select[name='breed3']").select2(
+					{
+						dropdownParent: $('#identifybreed')
+					}
+				);
+			}
+		);
+
+		var xhr;
+
+		function savebreed()
+		{
+			if(xhr && xhr.readyState != 4)
+			{
+	            xhr.abort();
+	        }
+
+	        var suggestedbreed = $("#breed3").val();
+
+	        var data = {breed1:44, breed3:suggestedbreed};
+
+			xhr = $.ajax(
+			{
+				type: "POST",
+				url: "//www.fidofinder.com/dog.php?id=646524
+",
+				data: data,
+				success: function(html)
+				{
+					$('#identifybreed').modal('hide');
+
+					$("#spnsuggestion").html(html);
+		     	}
+			});
+		}
+
+		  function handleApiReady() {
+	  	geocoder = new google.maps.Geocoder();
+	    var myLatlng = new google.maps.LatLng(45.026523, -93.303691);
+	    var myOptions = {
+	      zoom: 11,
+	      center: myLatlng,
+	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	    }
+	    var map = new google.maps.Map(document.getElementById("divmap"), myOptions);
+
+	    geocoder.geocode( { 'address': "55412"}, function(results, status) {
+	      if(status == google.maps.GeocoderStatus.OK) {
+	        map.setCenter(results[0].geometry.location);
+	      } else {
+	        alert("Geocode was not successful for the following reason: " + status);
+	      }
+	    });
+	  }
+			var mapshown = false;
+	  function showmap() {
+		  if(mapshown == false){
+	    var script = document.createElement("script");
+	    script.type = "text/javascript";
+	    script.src = "https://maps.google.com/maps/api/js?key=AIzaSyDZrLRvaqMWY0CbK0oijbpwhzMqaViXkMM&callback=handleApiReady";
+	    document.body.appendChild(script);
+		mapshown = true;
+
+	    $("#divmap,#divmaprow").show();
+		}
+
+	  }
+		function getcontact(response)
+		{
+			var data = {id: 646524
+, response:response};
+
+			$.ajax(
+			{
+				type: "GET",
+				url: "/_getcontact.php",
+				data: data,
+				success: function(html)
+				{
+					var obj = jQuery.parseJSON(html);
+					var email = obj.email;
+					var phone = obj.phone;
+					if(phone != ""){
+						$("#profilephone").html(phone);
+					}
+					if(email != ""){
+						$("#profileemail").html(email);
+					}
+					$("#viewphone").hide();
+					//$("html, body").animate({ scrollTop: $("#profilephone").offset().top - 100 }, "slow");
+
+		     	}
+			});
+		}
+
+		function showcontact(){
+			grecaptcha.execute("6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E", { action: 'contact' }).then(function (token) {
+				getcontact(token);
+			}, function (reason) {
+			  console.log(reason);
+			});
+		}
+ 		function lazyimages()
+		{
+			$('div.lazy').Lazy({
+				threshold: 3000
+			});
+		}
+	</script>
+	<section>
+		<div class="row">
+			<div class="col">
+				<h1>Lost Dog</h1>
+				<h2>Lost Chihuahua in Minneapolis, MN US</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 col-md-6 col-lg-6 col-xl-6 order-12 order-md-1">
+				<div class="row">
+					<div class="col">
+						<h2 class="name">Puppy</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h3><span class="description">Female <br/>Yellow  (yellow/golden)<br/>Chihuahua <span id="spnsuggestion"></span><br/>Minneapolis, MN 55412  &nbsp;<a href="javascript:showmap();"><i class="fa fa-map-o"></i></a> </span></h3>
+					</div>
+				</div>
+				<div class="row" id="divmaprow">
+					<div class="col">
+						<div id="divmap"></div>
+					</div>
+				</div>
+				<div class="row mb-2">
+					<div class="col">
+						<h3>Lost on 10/16/2020 </h3>
+					</div>
+				</div>
+				<div class="row mb-2">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-primary" onclick="showcontact();" id="viewphone" style="width:100%;">view contact info</button>
+					</div>
+					<div class="col-12">
+						<div id="profilephone"></div>
+						<div id="profileemail"></div>
+					</div>
+					<div class="col-12 mt-3">
+<div class="alert alert-warning" role="alert"><i class="fa fa-user-secret fa-4x float-left mr-4" aria-hidden="true"></i><h4>A Warning: Lost Pet Scams</h4> <a data-toggle="collapse" href="#petscamwarning" style="color:inherit;">show details</a><div class="collapse" id="petscamwarning">Please be aware that it is not uncommon for scammers to target lost dogs owners. To avoid being a victim of a scam we recommend that you do not send money to anyone claiming to have your dog. Always insist that your pet is returned to you before any reward is paid. Do not send money to someone claiming to need money to ship your pet to you; this is a common scam. Always meet the the person who is claiming to have your dog in a public place. If you run into any difficulties with the person claiming to have found your dog contact the local authorities to help resolve the situation.</div></div>					</div>
+				</div>
+				<div class="row mb-5 d-block d-md-none">
+					<div class="col">
+						<h4>Dog's Description</h4>
+						She is a small yellow chihuahua mix, she was last seen on 36th and penn ave north about three hours ago. Please contact 612-310-7919 if she was seen or you have her. Please please please call me, she has a family and she is loved and missed so much , thankyou.. there's also a cash reward for her safe return					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h2>Spread the Word</h2>
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col-12 col-xl-9">
+						<a href="/upgrade.php?id=646524
+&selbroadcast=true" class="btn btn-lg btn-primary" style="width:100%;">Send Poster to Shelters</a>
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-facebook" type="button" onclick="FBpost('Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412)', 'https://www.fidofinder.com/dog.php?id=646524
+', 'Fido Finder - Where Lost Dogs Are Found', 'https://www.fidofinder.com/image.php?id=646524
+');" id="profilefacebookbutton" style="width:100%;"><i class="fa fa-facebook-square fa-fw"></i> Post to Facebook</button>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-twitter" type="button" onclick="twitterpost('lostdo.gs/duv0', 'Lost dog in Minneapolis, MN US (55412)');" id="profiletwitterbutton" style="width:100%;"><i class="fa fa-twitter-square fa-fw"></i> Post to Twitter</button>
+					</div>
+				</div>
+				<div class="row mt-3">
+					<div class="col">
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-6 col-xl-6 order-1 order-md-12">
+				<div class="row">
+					<div class="col">
+						<img src="/image.php?id=646524
+&nocache=49" alt="Lost Chihuahua in Minneapolis, MN US" title="Lost Chihuahua in Minneapolis, MN US" id="profileimage" style="border:1px solid black;"/>					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h4 id="idnumber">ID# 646524
+</h4>
+					</div>
+				</div>
+				<div class="row d-none d-md-block">
+					<div class="col">
+						<h4>Dog's Description</h4>
+						She is a small yellow chihuahua mix, she was last seen on 36th and penn ave north about three hours ago. Please contact 612-310-7919 if she was seen or you have her. Please please please call me, she has a family and she is loved and missed so much , thankyou.. there's also a cash reward for her safe return					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="row">
+			<div class="col">
+				<hr size="1" style="margin-top:40px;margin-bottom:40px;"/>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<h2>Possible Found Dog Matches</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				
+						<div class="alert alert-danger" role="alert">No exact matches found.</div>			</div>
+		</div>
+	</section>
+	<div class="row">
+		<div class="col">
+			<h2><a href="/found-dogs/citystate/Minneapolis-MN">Found Dogs in Minneapolis, MN US</a></h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<h2><a href="/shelters/">Local Animal Shelters</a></h2>
+		</div>
+	</div>
+
+	<div class="modal fade" id="identifybreed" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Suggest Different Breed</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<select name="breed3" id="breed3" class="left">
+						<option value="0">Select Breed Suggestion</option>
+											</select>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary" onclick="savebreed();">Save</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="modalprogress" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="progress">
+						<div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+		<footer class="container">
+			<div class="row container">
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/signin/">Sign In</a></li>
+						<li><a href="/register/">Register</a></li>
+						<li><a href="/remove/">Delete Account</a></li>
+						<li><a href="/unsubscribe/">Unsubscribe</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/lost-dogs/">Lost Dogs</a></li>
+						<li><a href="/found-dogs/">Found Dogs</a></li>
+						<li><a href="/how/">How This Site Works</a></li>
+						<li><a href="/faq/">FAQ</a></li>
+						<li><a href="/contact_us/">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/shelter-register/">Animal Shelter Alerts</a></li>
+						<li><a href="/shelter-register/">Animal Shelter Registration</a></li>
+						<li><a href="/resources/">Animal Shelter Resources</a></li>
+						<li><a href="/shelters/">View Local Shelters</a></li>
+						<li><a href="/flyer/">Print Fido Finder Flyer</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/watch/">Neighborhood Watch</a></li>
+						<li><a href="/buy-dog-tag/">Buy FF Dog Tags</a></li>
+						<li><a href="/lost-dog-success-stories/">Success Stories</a></li>
+						<li><a href="/lost-dog-statistics/">Lost Dog Statistics</a></li>
+						<li><a href="/app/">Mobile App</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					&copy; 2020 FidoFinder.com - Where Lost Dogs Are Found &nbsp;&nbsp;<a href="https://www.32nddegree.com/" style="color:inherit;">a 32nd&deg; website</a> | <a href="/privacy/" style="color:inherit;">Privacy Policy</a>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+	</body>
+</html>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412) - Fido Finder</title>
+		<meta property="og:title" content="Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412)"/>
+		<meta name="description" content="Lost Chihuahua Puppy in Minneapolis (55412), MN US. Lost and found dogs in the US andCanada." />
+		<meta property="og:description" content="Lost Chihuahua Puppy in Minneapolis (55412), MN US. Lost and found dogs in the US andCanada." />
+		<meta name="keywords" content="lost dog, lost dogs, found dog, found dogs, missing dog, missing dogs, lost pet, lost pets, find dog, find dogs, stray dog, stray dogs"/>
+		<meta property="og:site_name" content="Fido Finder"/>
+		<meta property="og:image" content="https://www.fidofinder.com/image.php?id=646524
+"/>
+		<meta property="og:url" content="https://www.fidofinder.com/dog.php?id=646524%0A"/>
+		<meta property="og:type" content="website"/>
+		<meta property="fb:admins" content="1432476597"/>
+		<meta property="fb:app_id" content="320913482148"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<!-- fav icons -->
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png"/>
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png"/>
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png"/>
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png"/>
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png"/>
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png"/>
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png"/>
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
+		<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+		<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"/>
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+		<link rel="manifest" href="/manifest.json"/>
+		<meta name="msapplication-TileColor" content="#ffffff"/>
+		<meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+		<meta name="theme-color" content="#ffffff"/>
+		<!-- end fav icons -->
+		<link rel="shortcut icon" href="/favicon.ico" />
+
+		<link type="text/css" href="/css/style.css?20201017" rel="stylesheet"/>
+
+		<link rel="alternate" type="application/rss+xml" title="Fido Finder Lost and Found Dogs" href="https://www.fidofinder.com/recent_rss.php" />
+
+		<link rel="P3Pv1" href="https://www.fidofinder.com/w3c/p3p.xml" />
+		<link rel="canonical" href="https://www.fidofinder.com/dog.php?id=646524
+" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="expires" content="0" />
+		<!-- Select2 CSS-->
+		<link type="text/css" href="/css/select2.min.css" rel="stylesheet"/>
+		<!-- Font Awesome CSS -->
+		<link type="text/css" href="/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+		<!-- jQuery UI CSS -->
+		<link type="text/css" href="/css/jquery-ui.min.css" rel="stylesheet"/>
+
+
+		<!-- jQuery JS -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<!-- jQuery UI JS -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+		<!-- jQuery Add-ons JS -->
+		<script type="text/javascript" src="/js/jquery_addons.min.js"></script>
+		<!-- Popper JS -->
+		<script type="text/javascript" src="/js/popper.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+		<!-- Lazy Loading Images JS -->
+		<script type="text/javascript" src="/js/jquery.lazy.min.js"></script>
+		<!-- Select2 JS -->
+		<script type="text/javascript" src="/js/select2.min.js"></script>
+		<!-- Mask Text JS -->
+		<script type="text/javascript" src="/js/jquery.mask.min.js"></script>
+		<!-- Site Functions JS -->
+		<script type="text/javascript" src="/js/functions.min.js?20201017"></script>
+		<!-- reCAPTCHA JS -->
+		<script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E" async="defer"></script>
+		<script>
+			function recaptchaOnloadCallback(){
+				grecaptcha.execute('6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E').then(function(token) {
+					verifycaptcha(token);
+				});
+			};
+		</script>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57806-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-57806-1');
+		</script>
+	</head>
+	<body>
+		<script>
+			var siteurl = "www.fidofinder.com";
+			var domain = "fidofinder";
+		</script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-57806-1', 'auto');
+		  ga('send', 'pageview');
+		  		</script>
+		<noscript>
+			<div class="left" style="width:100%;text-align:center;background-color:rgb(200,0,0);color:white;font-weight:bold;height:40px;"><div class="left" style="margin-top:10px;width:100%;text-align:center;">Fido Finder will not work correctly with JavaScript disabled</div></div>
+		</noscript>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=320913482148&autoLogAppEvents=1';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<div class="container header">
+			<nav class="navbar navbar-expand-lg navbar-dark align-items-start" id="sitenav">
+				<div class="col-lg-4 col-sm-12 pl-2 mr-auto">
+					<a class="navbar-brand" href="//www.fidofinder.com"><img src="/images/logo.png" border="0" alt="Fido Finder - Where Lost Dogs Are Found" id="logo"/><div>Where Lost Dogs Are Found</div></a>
+				</div>
+				<div class="col-auto pl-2">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle Navigation">
+						<span class="navbar-toggler-icon"></span> Menu
+					</button>
+					<div class="collapse navbar-collapse" id="navbarToggler">
+						<ul class="navbar-nav nav-pills ml-auto mt-2">
+							<li class="nav-item"><a class="nav-link" href="//www.fidofinder.com/register/">register</a></li>
+							<li class="nav-item"><a class="nav-link" href="//www.fidofinder.com/signin/">sign in</a></li>
+						</ul>
+					</div>
+					<div class="col-12 text-right" id="countries">United States and Canada</div>
+				</div>
+				<div class="col-auto d-lg-none d-block">
+					<form method="get" action="/dog.php" class="form-inline">
+						<input type="hidden" name="mode" value="search"/>
+						<input type="text" name="id" size="14" placeholder="find dog by id#" class="form-control" style="max-width:140px;display:inline;"/>
+						<button class="btn btn-sm btn-primary ml-2 mr-2" type="submit">go</button>
+					</form>
+				</div>
+			</nav>
+		</div>
+		<div class="container tabscontainer">
+			<div class="row justify-content-between">
+				<div class="col-12 col-lg-7 order-12 order-lg-1">
+					<div class="row">
+						<div class="col-5 col-lg-5 tabon">
+							<h3><a href="//www.fidofinder.com/lost-dogs/">Lost Dogs</a></h3>
+						</div>
+						<div class="col-6 col-lg-5 ml-1 ml-xl-1 taboff">
+							<h3><a href="//www.fidofinder.com/found-dogs/">Found Dogs</a></h3>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-lg-3 order-1 order-lg-12 text-xl-right d-none d-lg-block">
+					<form method="get" action="/dog.php" >
+						<input type="hidden" name="mode" value="search"/>
+						<input type="text" name="id" size="14" placeholder="find dog by id#" class="form-control" style="max-width:150px;display:inline;"/>
+						<button class="btn btn-sm btn-primary ml-2" type="submit">go</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="container page"><div id="profile">
+	<script type="text/javascript">
+		var appId = 320913482148;
+		var domain = "fidofinder";
+
+		$(window).on("load",
+			function()
+			{
+				$("select[name='breed3']").select2(
+					{
+						dropdownParent: $('#identifybreed')
+					}
+				);
+			}
+		);
+
+		var xhr;
+
+		function savebreed()
+		{
+			if(xhr && xhr.readyState != 4)
+			{
+	            xhr.abort();
+	        }
+
+	        var suggestedbreed = $("#breed3").val();
+
+	        var data = {breed1:44, breed3:suggestedbreed};
+
+			xhr = $.ajax(
+			{
+				type: "POST",
+				url: "//www.fidofinder.com/dog.php?id=646524
+",
+				data: data,
+				success: function(html)
+				{
+					$('#identifybreed').modal('hide');
+
+					$("#spnsuggestion").html(html);
+		     	}
+			});
+		}
+
+		  function handleApiReady() {
+	  	geocoder = new google.maps.Geocoder();
+	    var myLatlng = new google.maps.LatLng(45.026523, -93.303691);
+	    var myOptions = {
+	      zoom: 11,
+	      center: myLatlng,
+	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	    }
+	    var map = new google.maps.Map(document.getElementById("divmap"), myOptions);
+
+	    geocoder.geocode( { 'address': "55412"}, function(results, status) {
+	      if(status == google.maps.GeocoderStatus.OK) {
+	        map.setCenter(results[0].geometry.location);
+	      } else {
+	        alert("Geocode was not successful for the following reason: " + status);
+	      }
+	    });
+	  }
+			var mapshown = false;
+	  function showmap() {
+		  if(mapshown == false){
+	    var script = document.createElement("script");
+	    script.type = "text/javascript";
+	    script.src = "https://maps.google.com/maps/api/js?key=AIzaSyDZrLRvaqMWY0CbK0oijbpwhzMqaViXkMM&callback=handleApiReady";
+	    document.body.appendChild(script);
+		mapshown = true;
+
+	    $("#divmap,#divmaprow").show();
+		}
+
+	  }
+		function getcontact(response)
+		{
+			var data = {id: 646524
+, response:response};
+
+			$.ajax(
+			{
+				type: "GET",
+				url: "/_getcontact.php",
+				data: data,
+				success: function(html)
+				{
+					var obj = jQuery.parseJSON(html);
+					var email = obj.email;
+					var phone = obj.phone;
+					if(phone != ""){
+						$("#profilephone").html(phone);
+					}
+					if(email != ""){
+						$("#profileemail").html(email);
+					}
+					$("#viewphone").hide();
+					//$("html, body").animate({ scrollTop: $("#profilephone").offset().top - 100 }, "slow");
+
+		     	}
+			});
+		}
+
+		function showcontact(){
+			grecaptcha.execute("6Ld3o-sUAAAAAOYUuUIUTqIA2I6XFnE-ViUzA14E", { action: 'contact' }).then(function (token) {
+				getcontact(token);
+			}, function (reason) {
+			  console.log(reason);
+			});
+		}
+ 		function lazyimages()
+		{
+			$('div.lazy').Lazy({
+				threshold: 3000
+			});
+		}
+	</script>
+	<section>
+		<div class="row">
+			<div class="col">
+				<h1>Lost Dog</h1>
+				<h2>Lost Chihuahua in Minneapolis, MN US</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 col-md-6 col-lg-6 col-xl-6 order-12 order-md-1">
+				<div class="row">
+					<div class="col">
+						<h2 class="name">Puppy</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h3><span class="description">Female <br/>Yellow  (yellow/golden)<br/>Chihuahua <span id="spnsuggestion"></span><br/>Minneapolis, MN 55412  &nbsp;<a href="javascript:showmap();"><i class="fa fa-map-o"></i></a> </span></h3>
+					</div>
+				</div>
+				<div class="row" id="divmaprow">
+					<div class="col">
+						<div id="divmap"></div>
+					</div>
+				</div>
+				<div class="row mb-2">
+					<div class="col">
+						<h3>Lost on 10/16/2020 </h3>
+					</div>
+				</div>
+				<div class="row mb-2">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-primary" onclick="showcontact();" id="viewphone" style="width:100%;">view contact info</button>
+					</div>
+					<div class="col-12">
+						<div id="profilephone"></div>
+						<div id="profileemail"></div>
+					</div>
+					<div class="col-12 mt-3">
+<div class="alert alert-warning" role="alert"><i class="fa fa-user-secret fa-4x float-left mr-4" aria-hidden="true"></i><h4>A Warning: Lost Pet Scams</h4> <a data-toggle="collapse" href="#petscamwarning" style="color:inherit;">show details</a><div class="collapse" id="petscamwarning">Please be aware that it is not uncommon for scammers to target lost dogs owners. To avoid being a victim of a scam we recommend that you do not send money to anyone claiming to have your dog. Always insist that your pet is returned to you before any reward is paid. Do not send money to someone claiming to need money to ship your pet to you; this is a common scam. Always meet the the person who is claiming to have your dog in a public place. If you run into any difficulties with the person claiming to have found your dog contact the local authorities to help resolve the situation.</div></div>					</div>
+				</div>
+				<div class="row mb-5 d-block d-md-none">
+					<div class="col">
+						<h4>Dog's Description</h4>
+						She is a small yellow chihuahua mix, she was last seen on 36th and penn ave north about three hours ago. Please contact 612-310-7919 if she was seen or you have her. Please please please call me, she has a family and she is loved and missed so much , thankyou.. there's also a cash reward for her safe return					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h2>Spread the Word</h2>
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col-12 col-xl-9">
+						<a href="/upgrade.php?id=646524
+&selbroadcast=true" class="btn btn-lg btn-primary" style="width:100%;">Send Poster to Shelters</a>
+					</div>
+				</div>
+				<div class="row mb-3">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-facebook" type="button" onclick="FBpost('Lost Chihuahua Dog Puppy in Minneapolis, MN US (55412)', 'https://www.fidofinder.com/dog.php?id=646524
+', 'Fido Finder - Where Lost Dogs Are Found', 'https://www.fidofinder.com/image.php?id=646524
+');" id="profilefacebookbutton" style="width:100%;"><i class="fa fa-facebook-square fa-fw"></i> Post to Facebook</button>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12 col-xl-9">
+						<button class="btn btn-lg btn-twitter" type="button" onclick="twitterpost('lostdo.gs/duv0', 'Lost dog in Minneapolis, MN US (55412)');" id="profiletwitterbutton" style="width:100%;"><i class="fa fa-twitter-square fa-fw"></i> Post to Twitter</button>
+					</div>
+				</div>
+				<div class="row mt-3">
+					<div class="col">
+					</div>
+				</div>
+			</div>
+			<div class="col-12 col-md-6 col-lg-6 col-xl-6 order-1 order-md-12">
+				<div class="row">
+					<div class="col">
+						<img src="/image.php?id=646524
+&nocache=7" alt="Lost Chihuahua in Minneapolis, MN US" title="Lost Chihuahua in Minneapolis, MN US" id="profileimage" style="border:1px solid black;"/>					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<h4 id="idnumber">ID# 646524
+</h4>
+					</div>
+				</div>
+				<div class="row d-none d-md-block">
+					<div class="col">
+						<h4>Dog's Description</h4>
+						She is a small yellow chihuahua mix, she was last seen on 36th and penn ave north about three hours ago. Please contact 612-310-7919 if she was seen or you have her. Please please please call me, she has a family and she is loved and missed so much , thankyou.. there's also a cash reward for her safe return					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="row">
+			<div class="col">
+				<hr size="1" style="margin-top:40px;margin-bottom:40px;"/>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<h2>Possible Found Dog Matches</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				
+						<div class="alert alert-danger" role="alert">No exact matches found.</div>			</div>
+		</div>
+	</section>
+	<div class="row">
+		<div class="col">
+			<h2><a href="/found-dogs/citystate/Minneapolis-MN">Found Dogs in Minneapolis, MN US</a></h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<h2><a href="/shelters/">Local Animal Shelters</a></h2>
+		</div>
+	</div>
+
+	<div class="modal fade" id="identifybreed" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Suggest Different Breed</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<select name="breed3" id="breed3" class="left">
+						<option value="0">Select Breed Suggestion</option>
+											</select>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-primary" onclick="savebreed();">Save</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="modalprogress" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-body">
+					<div class="progress">
+						<div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+		<footer class="container">
+			<div class="row container">
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/signin/">Sign In</a></li>
+						<li><a href="/register/">Register</a></li>
+						<li><a href="/remove/">Delete Account</a></li>
+						<li><a href="/unsubscribe/">Unsubscribe</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/lost-dogs/">Lost Dogs</a></li>
+						<li><a href="/found-dogs/">Found Dogs</a></li>
+						<li><a href="/how/">How This Site Works</a></li>
+						<li><a href="/faq/">FAQ</a></li>
+						<li><a href="/contact_us/">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/shelter-register/">Animal Shelter Alerts</a></li>
+						<li><a href="/shelter-register/">Animal Shelter Registration</a></li>
+						<li><a href="/resources/">Animal Shelter Resources</a></li>
+						<li><a href="/shelters/">View Local Shelters</a></li>
+						<li><a href="/flyer/">Print Fido Finder Flyer</a></li>
+					</ul>
+				</div>
+				<div class="col-md-3">
+					<ul>
+						<li><a href="/watch/">Neighborhood Watch</a></li>
+						<li><a href="/buy-dog-tag/">Buy FF Dog Tags</a></li>
+						<li><a href="/lost-dog-success-stories/">Success Stories</a></li>
+						<li><a href="/lost-dog-statistics/">Lost Dog Statistics</a></li>
+						<li><a href="/app/">Mobile App</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col">
+					&copy; 2020 FidoFinder.com - Where Lost Dogs Are Found &nbsp;&nbsp;<a href="https://www.32nddegree.com/" style="color:inherit;">a 32nd&deg; website</a> | <a href="/privacy/" style="color:inherit;">Privacy Policy</a>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+	</body>
+</html>
