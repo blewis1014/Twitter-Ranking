@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    
+	<!--<title>The Rising Nepal</title>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="https://risingnepaldaily.com/front/img/favicon.ico">
+    
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.css">
+
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/main.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/nav.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/owl/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/owl/dist/assets/owl.theme.default.min.css">
+    <script src="https://risingnepaldaily.com/front/owl/dist/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/news-carosel.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/footer.css">
+
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/archive.css">
+    
+    <style>
+        .dekhau {
+            display: none;
+        }
+
+        @media (max-width: 767px) {
+            .dekhau {
+                display: block;
+            }
+        }
+
+        .navbar button {
+            border: none;
+            outline: none;
+        }
+
+        .navbar .icon-bar {
+
+            padding: 3px 0;
+            display: block;
+            border-bottom: 2px solid #fff;
+            width: 25px;
+        }
+
+    </style>
+    
+    <script data-ad-client="ca-pub-9002288804434762" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head>
+
+<body>
+    <!-- header -->
+    <div class="main-header">
+        <div class="header">
+            <div class="grid-container">
+                <div class="wrapper">
+                    <div class="top-header">
+                        <div class="top-headers1 date">
+
+                            <script type='text/javascript'
+                                src='https://darksky.net/widget/default-small/27.7089559,85.2911133/uk12/en.js?width=100%&height=70&title=Full Forecast&textColor=333333&bgColor=ransparent&transparency=false&skyColor=undefined&fontFamily=Default&customFont=&units=uk'>
+                            </script>
+                            <div id="time">
+                                Sunday, 18 October, 2020                            </div>
+
+                        </div>
+                        <div class="top-headers2 title">
+                                                        <a href="https://risingnepaldaily.com"><img src="https://risingnepaldaily.com/logo/5d5e4daa7d509_logo.jpg" alt="logo"
+                                width="100%"></a>
+
+                            
+                        </div>
+                        <div class="top-headers3 weather">
+                            
+
+                        </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <!-- scroll and fixed -->
+    
+
+
+    <nav class="navbar navbar-expand-xl sticky-top navbar-light bg-light sticky-top main-navbar" id="navbar" background:red;><a
+            class="navbar-brand active" href="https://risingnepaldaily.com"><i class="fas fa-home"></i></a>
+            
+        <a href="https://risingnepaldaily.com" style="display:none" class="dekhau">
+        	<img src="https://risingnepaldaily.com/logo/5d5e4daa7d509_logo.jpg" alt="logo" class="img-responsive"
+                height="40">
+        </a>
+
+            
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <div class="my-collapse collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav forlist">
+                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/nation">Nation</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/world">World</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/sports">Sports</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/editorial">Editorial</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/interview">Interview</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/business">Business</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/detour">Detour</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/main-news">Headlines</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/miscellany">Miscellany</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/opinion">Oped</a></li>
+                	                </li>
+                                            </ul>
+
+        <!--</div>-->
+        <!--<div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar7">-->
+            <ul class="navbar-nav ml-auto flex-nowrap forlist">
+                <li class="nav-item">
+                    <a href="https://risingnepaldaily.com/news-search" target="_blank" class="nav-link">
+                   <i class="fas fa-search"></i>
+                        </a>
+
+                </li>
+                <li class="nav-item" style="align-self:center;">
+                    <a href="https://gorkhapatraonline.com" target="_blank" class="nav-link">
+                        Gorkhapatra
+                        
+                    </a>
+
+                </li>
+                <li class="nav-item">
+                                        <a href="https://risingnepaldaily.com/epapermaincategory" class="nav-link">
+                    	E-paper
+                        <!--<img src="https://risingnepaldaily.com/front/static/egorkhapatra2.png" alt="epapper"-->
+                        <!--    class=" img-responsive navee"></a>-->
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+     
+    
+
+    
+    
+
+        <div class="grid-container">
+    <div class="wrapper">
+        <div class="archive">
+
+<h1>Sorry No Data Available !!!</h1>
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="before-footer">
+        
+            <a href="https://risingnepaldaily.com/gkppdf/gorkhapatra">
+
+            <img src="https://risingnepaldaily.com/front/static/gorkhapatra.png" alt="gorkhapatra" width="100%" class="img-responsive">
+        </a>
+        
+            <a href="https://risingnepaldaily.com/gkppdf/risingnepal">
+
+            <img src="https://risingnepaldaily.com/front/static/risingnepal.png" alt="risingnepal" width="100%" class="img-responsive">
+        </a>
+        
+            <a href="https://risingnepaldaily.com/gkppdf/nayanepal">
+
+            <img src="https://risingnepaldaily.com/front/static/nayanepal.png" alt="nayanepal" width="100%" class="img-responsive">
+        </a>
+                                                                                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/friday">
+
+            <img src="https://risingnepaldaily.com/front/static/friday.png" alt="friday" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/shanibar">
+
+            <img src="https://risingnepaldaily.com/front/static/shanibar.png" alt="shanibar" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/madhuparka">
+
+            <img src="https://risingnepaldaily.com/front/static/madhuparka.png" alt="madhuparka" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/yubamunch">
+
+            <img src="https://risingnepaldaily.com/front/static/yubamunch.png" alt="yubamunch" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/muna">
+
+            <img src="https://risingnepaldaily.com/front/static/muna.png" alt="muna" width="100%"
+                class="img-responsive ">
+        </a>
+                                                
+
+    </div>
+
+    <footer>
+        <div class="main-footer">
+            <div class="grid-container">
+                <div class="wrapper">
+                    <div class="footers">
+                        <div class="footer1">
+                            <div class="footer-head">
+                                <h5>
+                                    The Rising Nepal
+                                </h5>
+                                <hr>
+                            </div>
+                                                        <div class="footer-body">
+                                <ul class="forlist">
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-map-marker-alt"></i></li>
+                                                <li>Dharmapath, Kathmandu , Nepal</li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-phone"></i></li>
+                                                <li>01-4222921 , 01-4244429 </li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-print"></i></li>
+                                                <li>422438</li>
+
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-envelope"></i></li>
+                                                <li>news.gorkhapatra@gmail.com
+                                                </li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising forlist">
+                                                <li class="forlist"><i class="fas fa-mobile-alt"></i></li>
+                                                <li class="forlist">Toll Free No. 1660-01-94444</li>
+                                            </ul>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                                                    </div>
+                        <div class="footer2">
+                            <div class="footer-head">
+                                <h5>
+                                    Quick Link
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                <ul class="forlist">
+                                                                        <li class="forlist"><a href="https://countingdownto.com/?c=2791156" target="_blank">Visit Nepal 2020 Countdown</a></li>
+
+                                                                        <li class="forlist"><a href="https://www.welcomenepal.com/" target="_blank">NTB</a></li>
+
+                                                                        <li class="forlist"><a href="https://www.nrb.org.np/fxmexchangerate.php" target="_blank">FOREX</a></li>
+
+                                                                        <li class="forlist"><a href="https://mofa.gov.np" target="_blank">Foreign Ministry</a></li>
+
+                                    
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <div class="footer3">
+                            <div class="footer-head">
+                                <h5>
+                                    Popular Category
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                <ul class="forlist">
+                                    	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/nation">Nation</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/world">World</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/sports">Sports</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/editorial">Editorial</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/interview">Interview</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                                                        </ul>
+                            </div>
+                        </div>
+                        <div class="footer4">
+                            <div class="footer-head">
+                                <h5>
+                                    Subscribe Us
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                
+
+                                <form method="post" action="https://risingnepaldaily.com/subscription" class="form-footer my-3">
+
+                                    <input type="hidden" name="_token" value="xSqlmehHvXlCxMCpKdvxHxO4wBu1qCy12EW8Q8b1">
+                                    <input type="email" name="email" placeholder="Email Address" required>
+                                    <input type="submit" class="submit" value="Subscribe">
+                                    
+                                </form>
+                                                                <div class="social-buttons">
+                                    <a href="https://www.facebook.com" target="_blank"
+                                        class="fab fa-facebook-f social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.twitter.com" target="_blank"
+                                        class="fab fa-twitter social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.linkedin.com" target="_blank"
+                                        class="fab fa-linkedin-in social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.youtube.com" target="_blank"
+                                        class="fab fa-youtube social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.instagram.com" target="_blank"
+                                        class="fab fa-instagram social-icon" aria-hidden="true"></a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="last-footer">
+            <p>
+                Copyright © 2019. All Right Reserved
+            </p>
+            <a href="http://www.codeforcore.com" target="_blank">
+                Designed & Developed by Code For Core Innovation
+            </a>
+        </div>
+    </footer>
+    <script>
+        $(window).scroll(function () {
+            if ($(window).width() < 1200) {
+                $('.dekhau').css('display', 'block');
+            }
+
+
+
+            if ($(window).scrollTop() === 0 || $(window).width() >= 1200) {
+                $('.dekhau').css('display', 'none');
+            }
+        });
+
+        $(window).click(function () {
+            $('.my-collapse').removeClass('show');
+        });
+
+    </script>
+    <!-- <script>
+        window.onscroll = function() {
+            myFunction()
+        }
+
+        ;
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+
+        function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky")
+            } else {
+                navbar.classList.remove("sticky");
+            }
+        }
+    </script> -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".myselect").select2({
+        placeholder: "Select category"
+
+    });
+
+
+            $('.sec-carosel .owl-carousel').owlCarousel({
+
+                loop: true,
+                margin: 30,
+                width: 700,
+                autoplay: true,
+                lazyLoad: true,
+                autoplayHoverPause: false,
+                // animateOut: 'fadeOut',
+                animateOut: 'slideOutDown',
+                animateIn: 'flipInX',
+                slideAll: true,
+                nav: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            });
+
+        });
+
+    </script>
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180640962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180640962-1');
+</script>
+
+    
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    
+	<!--<title>The Rising Nepal</title>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="https://risingnepaldaily.com/front/img/favicon.ico">
+    
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.css">
+
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/main.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/nav.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/owl/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/owl/dist/assets/owl.theme.default.min.css">
+    <script src="https://risingnepaldaily.com/front/owl/dist/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/news-carosel.css">
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/footer.css">
+
+    <link rel="stylesheet" href="https://risingnepaldaily.com/front/css/archive.css">
+    
+    <style>
+        .dekhau {
+            display: none;
+        }
+
+        @media (max-width: 767px) {
+            .dekhau {
+                display: block;
+            }
+        }
+
+        .navbar button {
+            border: none;
+            outline: none;
+        }
+
+        .navbar .icon-bar {
+
+            padding: 3px 0;
+            display: block;
+            border-bottom: 2px solid #fff;
+            width: 25px;
+        }
+
+    </style>
+    
+    <script data-ad-client="ca-pub-9002288804434762" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head>
+
+<body>
+    <!-- header -->
+    <div class="main-header">
+        <div class="header">
+            <div class="grid-container">
+                <div class="wrapper">
+                    <div class="top-header">
+                        <div class="top-headers1 date">
+
+                            <script type='text/javascript'
+                                src='https://darksky.net/widget/default-small/27.7089559,85.2911133/uk12/en.js?width=100%&height=70&title=Full Forecast&textColor=333333&bgColor=ransparent&transparency=false&skyColor=undefined&fontFamily=Default&customFont=&units=uk'>
+                            </script>
+                            <div id="time">
+                                Sunday, 18 October, 2020                            </div>
+
+                        </div>
+                        <div class="top-headers2 title">
+                                                        <a href="https://risingnepaldaily.com"><img src="https://risingnepaldaily.com/logo/5d5e4daa7d509_logo.jpg" alt="logo"
+                                width="100%"></a>
+
+                            
+                        </div>
+                        <div class="top-headers3 weather">
+                            
+
+                        </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <!-- scroll and fixed -->
+    
+
+
+    <nav class="navbar navbar-expand-xl sticky-top navbar-light bg-light sticky-top main-navbar" id="navbar" background:red;><a
+            class="navbar-brand active" href="https://risingnepaldaily.com"><i class="fas fa-home"></i></a>
+            
+        <a href="https://risingnepaldaily.com" style="display:none" class="dekhau">
+        	<img src="https://risingnepaldaily.com/logo/5d5e4daa7d509_logo.jpg" alt="logo" class="img-responsive"
+                height="40">
+        </a>
+
+            
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <div class="my-collapse collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav forlist">
+                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/nation">Nation</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/world">World</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/sports">Sports</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/editorial">Editorial</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/interview">Interview</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/business">Business</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/detour">Detour</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/main-news">Headlines</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/miscellany">Miscellany</a></li>
+                	                </li>
+                                                
+                
+
+
+                <li class="nav-item dropdown forlist">
+
+                                    		<li class="nav-item"><a class="nav-link" href="https://risingnepaldaily.com/opinion">Oped</a></li>
+                	                </li>
+                                            </ul>
+
+        <!--</div>-->
+        <!--<div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar7">-->
+            <ul class="navbar-nav ml-auto flex-nowrap forlist">
+                <li class="nav-item">
+                    <a href="https://risingnepaldaily.com/news-search" target="_blank" class="nav-link">
+                   <i class="fas fa-search"></i>
+                        </a>
+
+                </li>
+                <li class="nav-item" style="align-self:center;">
+                    <a href="https://gorkhapatraonline.com" target="_blank" class="nav-link">
+                        Gorkhapatra
+                        
+                    </a>
+
+                </li>
+                <li class="nav-item">
+                                        <a href="https://risingnepaldaily.com/epapermaincategory" class="nav-link">
+                    	E-paper
+                        <!--<img src="https://risingnepaldaily.com/front/static/egorkhapatra2.png" alt="epapper"-->
+                        <!--    class=" img-responsive navee"></a>-->
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+     
+    
+
+    
+    
+
+        <div class="grid-container">
+    <div class="wrapper">
+        <div class="archive">
+
+<h1>Sorry No Data Available !!!</h1>
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="before-footer">
+        
+            <a href="https://risingnepaldaily.com/gkppdf/gorkhapatra">
+
+            <img src="https://risingnepaldaily.com/front/static/gorkhapatra.png" alt="gorkhapatra" width="100%" class="img-responsive">
+        </a>
+        
+            <a href="https://risingnepaldaily.com/gkppdf/risingnepal">
+
+            <img src="https://risingnepaldaily.com/front/static/risingnepal.png" alt="risingnepal" width="100%" class="img-responsive">
+        </a>
+        
+            <a href="https://risingnepaldaily.com/gkppdf/nayanepal">
+
+            <img src="https://risingnepaldaily.com/front/static/nayanepal.png" alt="nayanepal" width="100%" class="img-responsive">
+        </a>
+                                                                                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/friday">
+
+            <img src="https://risingnepaldaily.com/front/static/friday.png" alt="friday" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/shanibar">
+
+            <img src="https://risingnepaldaily.com/front/static/shanibar.png" alt="shanibar" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/madhuparka">
+
+            <img src="https://risingnepaldaily.com/front/static/madhuparka.png" alt="madhuparka" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/yubamunch">
+
+            <img src="https://risingnepaldaily.com/front/static/yubamunch.png" alt="yubamunch" width="100%"
+                class="img-responsive ">
+        </a>
+                                
+        
+            <a href="https://risingnepaldaily.com/gkppdf/muna">
+
+            <img src="https://risingnepaldaily.com/front/static/muna.png" alt="muna" width="100%"
+                class="img-responsive ">
+        </a>
+                                                
+
+    </div>
+
+    <footer>
+        <div class="main-footer">
+            <div class="grid-container">
+                <div class="wrapper">
+                    <div class="footers">
+                        <div class="footer1">
+                            <div class="footer-head">
+                                <h5>
+                                    The Rising Nepal
+                                </h5>
+                                <hr>
+                            </div>
+                                                        <div class="footer-body">
+                                <ul class="forlist">
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-map-marker-alt"></i></li>
+                                                <li>Dharmapath, Kathmandu , Nepal</li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-phone"></i></li>
+                                                <li>01-4222921 , 01-4244429 </li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-print"></i></li>
+                                                <li>422438</li>
+
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising">
+                                                <li><i class="fas fa-envelope"></i></li>
+                                                <li>news.gorkhapatra@gmail.com
+                                                </li>
+                                            </ul>
+                                        </a>
+                                    </li>
+                                    <li class="forlist">
+                                        <a href="#">
+                                            <ul class="rising forlist">
+                                                <li class="forlist"><i class="fas fa-mobile-alt"></i></li>
+                                                <li class="forlist">Toll Free No. 1660-01-94444</li>
+                                            </ul>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                                                    </div>
+                        <div class="footer2">
+                            <div class="footer-head">
+                                <h5>
+                                    Quick Link
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                <ul class="forlist">
+                                                                        <li class="forlist"><a href="https://countingdownto.com/?c=2791156" target="_blank">Visit Nepal 2020 Countdown</a></li>
+
+                                                                        <li class="forlist"><a href="https://www.welcomenepal.com/" target="_blank">NTB</a></li>
+
+                                                                        <li class="forlist"><a href="https://www.nrb.org.np/fxmexchangerate.php" target="_blank">FOREX</a></li>
+
+                                                                        <li class="forlist"><a href="https://mofa.gov.np" target="_blank">Foreign Ministry</a></li>
+
+                                    
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <div class="footer3">
+                            <div class="footer-head">
+                                <h5>
+                                    Popular Category
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                <ul class="forlist">
+                                    	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/nation">Nation</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/world">World</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/sports">Sports</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/editorial">Editorial</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    		                                    <li class="nav-item forlist"><a class="nav-link"
+		                                            href="https://risingnepaldaily.com/interview">Interview</a>
+		                                    </li>
+		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                        	                                    		                                    	                                                                                                        </ul>
+                            </div>
+                        </div>
+                        <div class="footer4">
+                            <div class="footer-head">
+                                <h5>
+                                    Subscribe Us
+                                </h5>
+                                <hr>
+                            </div>
+                            <div class="footer-body">
+                                
+
+                                <form method="post" action="https://risingnepaldaily.com/subscription" class="form-footer my-3">
+
+                                    <input type="hidden" name="_token" value="roVHS8eFnPnEQmBGIXAGwuqojbZB9VxpJArFMJep">
+                                    <input type="email" name="email" placeholder="Email Address" required>
+                                    <input type="submit" class="submit" value="Subscribe">
+                                    
+                                </form>
+                                                                <div class="social-buttons">
+                                    <a href="https://www.facebook.com" target="_blank"
+                                        class="fab fa-facebook-f social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.twitter.com" target="_blank"
+                                        class="fab fa-twitter social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.linkedin.com" target="_blank"
+                                        class="fab fa-linkedin-in social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.youtube.com" target="_blank"
+                                        class="fab fa-youtube social-icon" aria-hidden="true"></a>
+                                    <a href="https://www.instagram.com" target="_blank"
+                                        class="fab fa-instagram social-icon" aria-hidden="true"></a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="last-footer">
+            <p>
+                Copyright © 2019. All Right Reserved
+            </p>
+            <a href="http://www.codeforcore.com" target="_blank">
+                Designed & Developed by Code For Core Innovation
+            </a>
+        </div>
+    </footer>
+    <script>
+        $(window).scroll(function () {
+            if ($(window).width() < 1200) {
+                $('.dekhau').css('display', 'block');
+            }
+
+
+
+            if ($(window).scrollTop() === 0 || $(window).width() >= 1200) {
+                $('.dekhau').css('display', 'none');
+            }
+        });
+
+        $(window).click(function () {
+            $('.my-collapse').removeClass('show');
+        });
+
+    </script>
+    <!-- <script>
+        window.onscroll = function() {
+            myFunction()
+        }
+
+        ;
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+
+        function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky")
+            } else {
+                navbar.classList.remove("sticky");
+            }
+        }
+    </script> -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".myselect").select2({
+        placeholder: "Select category"
+
+    });
+
+
+            $('.sec-carosel .owl-carousel').owlCarousel({
+
+                loop: true,
+                margin: 30,
+                width: 700,
+                autoplay: true,
+                lazyLoad: true,
+                autoplayHoverPause: false,
+                // animateOut: 'fadeOut',
+                animateOut: 'slideOutDown',
+                animateIn: 'flipInX',
+                slideAll: true,
+                nav: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            });
+
+        });
+
+    </script>
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180640962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180640962-1');
+</script>
+
+    
+</body>
+
+</html>

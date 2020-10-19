@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã</title>
+<meta name="keywords" content="ã¯ã³ããã®ã£ã©ãªã¼,ã¯ã³ããG,ã°ããã¹ãã¤ã«ã«ã³ããã¼,GOOD SMILE COMPANY,ã°ãã¹ã,ã­ãã©ããã©,nendoroid,ããã¯ã¹ãã¡ã¯ããªã¼,MAX FACTORY,ãã£ã®ã¥ã¢,figure,figma">
+<meta name="description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="images/favicon.png">
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/general.css">
+
+<!-- FACEBOOK -->
+<meta property="og:title" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã" />
+<meta property="og:site_name" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã"/>
+<meta property="og:url" content="https://special.goodsmile.info/whg_2020_autumn/" />
+<meta property="og:description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã" />
+<meta property="og:image" content="https://special.goodsmile.info/whg_2020_autumn/OGimage02.jpg" />
+
+<!--TWITTER -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gsc_goodsmile">
+<meta name="twitter:creator" content="@gsc_goodsmile">
+<meta name="twitter:title" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã">
+<meta name="twitter:description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã">
+<meta name="twitter:image:src" content="https://special.goodsmile.info/whg_2020_autumn/OGimage02.jpg">
+
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+
+<meta name="theme-color" content="#E83E0B">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48515744-6"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-48515744-6');
+</script>
+
+</head>
+
+<!-------- header_area ----------->
+
+<body>
+<header id="basicheader" class="cf">
+<div class="contentsizer cf">
+<h1 class="title">ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã</h1>
+<div class="header-right cf">
+<div id="social_buttons" class="cf">
+<a class="twitter-share-button" data-text="ãã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMNããéå¬æ±ºå®ï¼ä»åã®ã¯ã³ããã®ã£ã©ãªã¼ããªã³ã©ã¤ã³å±ç¤ºã¨ãªã¢ã«å±ç¤ºã®Wéå¬ï¼â" data-chrome="noborders" data-url="https://special.goodsmile.info/whg_2020_autumn/" data-hashtags="ã¯ã³ããG,goodsmile,MAXFACTORY" data-lang="ja" href="https://twitter.com/share">ãã¤ã¼ã</a>
+<div class="fb-like" data-href="https://special.goodsmile.info/whg_2020_autumn/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</div>
+</div>
+</header>
+
+<!-------- header_area_end -------->
+
+<!-------- globalnav_area -------->
+
+<div class="navToggle fadein">
+<span></span>
+<span></span>
+<span></span><span>menu</span>
+</div>
+
+<div class="g-nav cf">
+<div class="g-nav-inner">
+<ul class="cf">
+<li><a href="#">TOP</a></li>
+<li><a href="#online">ãªã³ã©ã¤ã³å±ç¤º</a></li>
+<li><a href="#real">ãªã¢ã«å±ç¤º</a></li>
+<li><a href="#live">çæ¾éæå ±</a></li>
+<li><a href="#product">è²©å£²åå</a></li>
+</ul>
+</div>
+</div>
+
+<!-------- globalnav_area_end -------->
+
+<!-------- contents_area ------------>	
+
+<div class="contents_area">
+<div class="contents_area_inner">
+
+<h2><img src="images/img_top.png" alt="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ã°ãã¹ããç§èåãã¸ã£ãã¯ï¼ï½ãã£ã®ã¥ã¢ãã¬ã¼ãï½" class="pcc"></h2>
+<h2><img src="images/img_top_sp.png" alt="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ã°ãã¹ããç§èåãã¸ã£ãã¯ï¼ï½ãã£ã®ã¥ã¢ãã¬ã¼ãï½" class="sp"></h2>
+
+<div class="exhibition">
+<div class="exhibition-inner">
+
+<h3><img src="images/img_h3_txt.png" alt="ãªã³ã©ã¤ã³å±ç¤º&ãªã¢ã«å±ç¤º åæéå¬ï¼"></h3>
+<p class="read_txt">ä»åã®ã¯ã³ããã®ã£ã©ãªã¼ããªã³ã©ã¤ã³å±ç¤ºã¨ãªã¢ã«å±ç¤ºã®Wéå¬ï¼<br>	
+ãªã³ã©ã¤ã³ã¤ãã³ãã¯PCãã¹ãããããæ¥½ãã¿ããã ãããã¼ãã£ã«å±ç¤ºä¼ãå®æ½ã<br>
+è©³ç´°ã¯æ¥é±ã®ç¶å ±ããå¾ã¡ãã ããï¼</p>
+
+<p class="maker_txt">åºå±ã¡ã¼ã«ã¼ã»ãã©ã³ãï¼é ä¸åï¼</p>
+<div class="maker">
+<img src="images/img_maker.png" alt="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ããªã©ã³ã¸ã¥ã»ã«ã¼ã¸ã¥ãPhat!ããã¤ããã¯ãFineÎ¦CloverãPLMãthreezeroãWINGãWonderful Worksãã­ã£ã©ã¢ããã¸ã¥ã¦ã­ã¯ãã¦ã¤" class="pc">
+<img src="images/img_maker_sp.png" alt="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ããªã©ã³ã¸ã¥ã»ã«ã¼ã¸ã¥ãPhat!ããã¤ããã¯ãFineÎ¦CloverãPLMãthreezeroãWINGãWonderful Worksãã­ã£ã©ã¢ããã¸ã¥ã¦ã­ã¯ãã¦ã¤" class="sp">
+</div>
+
+</div>
+
+<div class="online" id="online">
+<div class="online_inner">
+<h4><img src="images/img_h3_txt_01.png" alt="ãªã³ã©ã¤ã³å±ç¤º"></h4>
+<p>çºå£²åã»ãäºç´éå§åã®ãã­ãã©ããã©ãããfigmaãããã¹ã±ã¼ã«ãã£ã®ã¥ã¢ããªã©ãå¤æ°ã®æ°ä½ãã£ã®ã¥ã¢ãå±ç¤ºãã¾ãã<br>
+ä»åã¯10æ17æ¥ï¼åï¼ã«æ°ä½ãã£ã®ã¥ã¢æå ±ãå¬éï¼å¥å ´ã¯ç¡æã§ãï¼<br>
+ãã£ã®ã¥ã¢ãã¡ã³ããã¡ãã£ã¨æ°ã«ãªãæ¹ãæ¯éãæ¥å ´ãã ããï¼<br>
+ã<a href="https://twitter.com/hashtag/%E3%83%AF%E3%83%B3%E3%83%9B%E3%83%93G?src=hashtag_click" target="_blank">#ã¯ã³ããG</a>ãã®ããã·ã¥ã¿ã°ãã¤ãã¦ããã²SNSã«æç¨¿ãã¦ãã ããã­âª<br>
+<small>â»ãªã³ã©ã¤ã³ã¤ãã³ãã«ã¤ãã¾ãã¦ãã¹ãã¼ããã©ã³ã§ã®é²è¦§ã¯ãå¤ãæ©ç¨®ã®ä¸é¨ç«¯æ«ã§ã¯åä½ä¿è¨¼ã§ãã¾ããã</small></p>
+
+<p class="date">éå¬æé<br>2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br class="sp">18æ¥ï¼æ¥ï¼23:59</p>
+<p class="center"><small>â»ã¢ã¼ã«ã¤ãã¨ãã¦ã10æ23æ¥ï¼éï¼23:59ã¾ã§å¬éãããã¾ãã</small></p>
+
+<div class="live_btn cf">
+<p><img src="images/img_live_ja_txt.png" alt="æ¥æ¬èª"></p>
+<ul>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/virtual-event/" target="_blank"><img src="images/img_pc.jpg" alt="PCçã¯ãã¡ã"></a></li>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/virtual-event-lq/" target="_blank"><img src="images/img_sp.jpg" alt="SPçã¯ãã¡ã"></a></li>
+</ul>
+</div>
+
+<div class="live_btn cf">
+<p><img src="images/img_live_en_txt.png" alt="English"></p>
+<ul>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/en/virtual-event/" target="_blank"><img src="images/img_pc_en.jpg" alt="PC Version"></a></li>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/en/virtual-event-lq/" target="_blank"><img src="images/img_sp_en.jpg" alt="Mobile Version"></a></li>
+</ul>
+</div>
+
+<p class="mb50"><img src="images/img_live_survey.jpg" alt="ã¢ã³ã±ã¼ãã«ç­ãã¦è±ªè¯ãã¬ã¼ã³ããã²ããï¼ï¼"></p>
+	
+<p><a href="https://special.goodsmile.info/whg_2020_autumn/gallery/" target="_blank"><img src="images/img_photo.jpg" alt="ã¯ã³ããã®ã£ã©ãªã¼2020AUTUMN æ°ä½å±ç¤ºãã©ãã®ã£ã©ãªã¼ ãã¹ã¦ã®æ°ä½ååãæ²è¼ä¸­ï¼"></a></p>
+
+</div>
+</div>
+
+<div class="real cf" id="real">
+<div class="real_inner">
+<h4><img src="images/img_h3_txt_02.png" alt="ãªã¢ã«å±ç¤º"></h4>
+<ul>
+<li><strong>æéï¼</strong>2020å¹´10æ17æ¥ï¼åï¼ï½18æ¥ï¼æ¥ï¼</li>
+<li><strong>ä¼æï¼</strong>10æ17æ¥ï¼åï¼12:00ï½19:30<br>ããã10æ18æ¥ï¼æ¥ï¼12:00ï½18:30</li>
+<li><strong>å ´æï¼</strong>ã¢ã­ãCOã®ã£ã©ãªã¼ï¼å¥å ´ç¡æã»å¥å ´å¶éæï¼</li>
+<li><strong>ä½æï¼</strong>101-0021 æ±äº¬é½åä»£ç°åºå¤ç¥ç°3-16-12 ã¢ã­ãCOãã«1F</li>
+<li><strong>å°å³ãªã³ã¯ï¼</strong><a href="https://goodsmile.link/2YPWzQQ" target="_blank">https://goodsmile.link/2YPWzQQ</a></li>
+</ul>
+
+<hr>
+
+<p class="date">å¥å ´æ¹æ³</p>
+
+<div class="cf">
+
+<table class="first">
+<tbody>
+<tr>
+<td class="day" colspan="3">10æ17æ¥ï¼åï¼</td>
+</tr>
+<tr>
+<td>1é¨</td>
+<td>12:00ï½12:45</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>2é¨</td>
+<td>12:50ï½13:35</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>3é¨</td>
+<td>13:40ï½14:25</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>4é¨</td>
+<td>14:30ï½15:05</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>èªç±å¥å ´</td>
+<td>15:10ï½19:30</td>
+<td>å¥å ´è¦å¶ãã</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td class="day" colspan="3">10æ18æ¥ï¼æ¥ï¼</td>
+</tr>
+<tr>
+<td>1é¨</td>
+<td>12:00ï½12:45</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>2é¨</td>
+<td>12:50ï½13:35</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>èªç±å¥å ´</td>
+<td>13:40ï½18:30</td>
+<td>å¥å ´è¦å¶ãã</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<p><strong>æ´çå¸éå¸æéï¼</strong><br>
+ç¬¬1é¨ã»ç¬¬2é¨ã11æ30åï½<br>
+ç¬¬3é¨ã»ç¬¬4é¨ã13æ00åï½ãâ»åææ¥ã®ã¿</p>
+<ul class="notice">
+<li>â»ãã²ã¨ãæ§1æã®éå¸ã¨ãªãã¾ãã</li>
+<li>â»æ´çå¸ã¯åçé ã¨ãªãã¾ãã</li>
+<li>â»éå¸æéä»¥å¤ã«å¨è¾ºã«å¾æ©ãåå½¢æããè¡çºã¯ãé æ®ãã ããã</li>
+<li>â»èªç±å¥å ´ã§ã¯ãä¼å ´åã®äººæ°ã40äººãè¶ããå ´åãå¥å ´è¦å¶ãããã¦ããã ãã¾ãã</li>
+</ul>
+
+<hr>
+
+<p class="date">æ°åã³ã­ãã¦ã¤ã«ã¹ææäºé²ã«ã¤ãã¦</p>
+
+<p>ã°ããã¹ãã¤ã«ã«ã³ããã¼ã¯ä¸è¨ã®ç¹ã«çæãã¦ã¾ããã¾ããä½åãçè§£ããååã®ç¨ãé¡ãç³ãä¸ãã¾ãã
+</p>
+
+<ul class="notice">
+<p><strong>â ãæ¥å ´åã«å¿ããç¢ºèªãã ãã</strong></p>
+<li>ã»ä½æ¸©ã37.5åº¦ä»¥ä¸ã®æ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+<li>ã»çºç±ãå³ããããã¿ãé¼»æ°´ãå¦æ æãå¨èº«çãä¸ç¢ãªã©ã®è«¸çç¶ãããæ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+<li>ã»æ¿åºãå¥å½å¶éãè¡ã£ã¦ããå½ãå°åããæ¥æ¬ã¸å¥å½ãããã®ã¡ã14æ¥éçµéãã¦ããªãæ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+</ul>
+
+<ul class="notice">
+<p><strong>â ãå¥å ´æã«ã¤ãã¾ãã¦</strong></p>
+<li>ã»å¿ããã¹ã¯ã®çç¨ããé¡ããããã¾ãã</li>
+<li>ã»å¥å£ã«æ¶æ¯ç¨ã¢ã«ã³ã¼ã«ãè¨­ç½®ãããã¾ãããå¥å ´åã«å¿ãææã®æ¶æ¯ãè¡ã£ã¦ãã ããã</li>
+<li>ã»å¥å£ã«ã¦æ¤æ¸©ãè¡ãã¾ãã37.5åº¦ä»¥ä¸ã®çºç±ãç¢ºèªãããå ´åããå¥å ´ããæ­ãããã¦ããã ãã¾ãã</li>
+<li>ã»éè³ä¸­ãä½èª¿ãæªããªã£ãå ´åããè¿ãã®ã¹ã¿ããã«ãå£°ãããã ããã</li>
+<li>ã»ä¸ãä¸ããæ¥å ´ããã ãããå®¢æ§ã«ææãçºè¦ããå ´åãä¸æã¡ã¼ã«ã«ã¦ãé£çµ¡ãããã¦ããã ãã¾ããå¥å£ã«ã¦ã¡ã¼ã«ã¢ãã¬ã¹ã®ãè¨å¥ã«ãååãã ãããï¼ç¡è¨åå¼ï¼</li>
+<li>ã»æ··éæãå¨å²ã«å¾æ©åãã§ããå ´åãäºåãªãã¤ãã³ããä¸­æ­¢ããå ´åããããã¾ããäºããäºæ¿ãã ããã</li>
+<li>ã»éå ´åãæ´çå¸éå¸åã«ä¼å ´å¨è¾ºã«ã¦å¾æ©ããè¡çºã¯ãé æ®ãã ããã</li>
+</ul>
+
+<ul class="notice">
+<p><strong>â ãéè³ã«ã¤ãã¾ãã¦</strong></p>
+<li>ã»è¶³åã®ãµã¤ã³ï¼ç®å°ï¼ããè¦§ããã ããä»ã®ãå®¢æ§ã¨ã®ééãä¿ã¡ãéè³ãã ããã</li>
+<li>ã»å±ç¤ºã±ã¼ã¹ãä»å¨ã«ç´æ¥ãæãè§¦ããªããããé¡ããããã¾ãã</li>
+</ul>
+
+<hr>
+
+<ul class="notice">
+<li>â»æ°åã³ã­ãã¦ã£ã«ã¹ææçã®æµè¡ã«éãããæ¥å ´ã®ã¿ãªãã¾ã®å¥åº·ã¨å®å¨ãç¬¬ä¸ã«èãã<br class="pc">ãªã¢ã«å±ç¤ºã¯ç¶æ³ã«ããå»¶æã¾ãã¯ä¸­æ­¢ã«ãªãå ´åããããã¾ãã<br>
+ãã®éã¯ãã¡ãã®ãã¼ã¸ãããã¯å¬å¼Twitterã«ã¦åç¥ããã¦ããã ãã¾ãã</li>
+<li>â»ãªã¢ã«å±ç¤ºã®åå®¹ã¯ããªã³ã©ã¤ã³å±ç¤ºã¨ä¸é¨ç°ãªãã¾ãã</li>
+<li>â»URLãå¥å ´æ¹æ³ãªã©è©³ç´°ã«é¢ãã¦ã¯ãå¾æ¥ãã¡ãã®ãã¼ã¸ã«ã¦ãæ¡åãããã¾ãã</li>
+<li>â»ã¤ãã³ãåå®¹ã¯äºåãªãå¤æ´ã«ãªãå ´åããããã¾ãã</li>
+</ul>
+
+</div>
+</div>
+
+<div class="live cf" id="live">
+<div class="live_inner">
+<h4><img src="images/img_h3_txt_03.png" alt="çæ¾éæå ±"></h4>
+
+<p class="live_date">10/16ï¼éï¼ 18:30~</p>	
+<p class="date">#çãã£ã®ã¥ã¢æ¾éä¸­ ã·ã¡<br>
+<small>ï½ãã¯ã³ããGãéå¬è¨å¿µï¼ãªã³ã©ã¤ã³éå®è²©å£²ãã£ã¡ããã¾ãï¼ï¼ï½</small></p>
+<p><a href="https://youtu.be/5ehkxUpg-60" target="_blank"><img src="images/img_live_01.jpg" alt=""></a></p>
+<p><strong>æ¾éæ¥æï¼</strong>2020å¹´10æ16æ¥ï¼éï¼18:30ï½ äºå®<br>
+<strong>çæ¾éURLï¼</strong><a href="https://youtu.be/5ehkxUpg-60" target="_blank">https://youtu.be/5ehkxUpg-60</a><br>
+YouTubeã©ã¤ãã«ã¦æ¾éäºå®</p>
+<p>ã#çãã£ã®ã¥ã¢æ¾éä¸­ã·ã¡ãç·æ¥çæ¾éæ±ºå®ï¼ï¼<br>
+æ¾éä¸­ã«ã°ãã¹ããªã³ã©ã¤ã³éå®ã¢ã¤ãã ãçºè¡¨ããã¦äºç´éå§ï¼ï¼<br><br>
+17æ¥(å)ããè²©å£²éå§ãã<br>
+ã<a href="https://www.goodsmile.info/ja/product/10159/" target="_blank">ã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½</a>ã(æ°ééå®ã»åè¡è²©å£²)<br>
+ã<a href="https://www.goodsmile.info/ja/product/9952/" target="_blank">PLAMAX MS-02G é¾ç¥ä¸¸ ã´ã¼ã«ãã¡ãã­Ver.</a>ã(æ°ééå®è²©å£²)<br>
+ã³ãã©ãä¸è¶³åã«ãç´¹ä»ï¼
+</p>
+
+<hr>
+
+<p class="live_date">10/17ï¼åï¼ 14:00~</p>
+<p class="date">#çãã£ã®ã¥ã¢æ¾éä¸­<br>
+<small>ï½ã°ãã¹ããåã³ãªã³ã©ã¤ã³å±ç¤ºä¼ãã£ã¦ã¾ãï½</small></p>
+<p><a href="https://youtu.be/gyiDnc0Pmu4" target="_blank"><img src="images/img_live_02.jpg" alt=""></a></p>
+<p><strong>æ¾éæ¥æï¼</strong>2020å¹´10æ17æ¥ï¼åï¼14:00ï½ äºå®<br>
+<strong>çæ¾éURLï¼</strong><a href="https://youtu.be/gyiDnc0Pmu4" target="_blank">https://youtu.be/gyiDnc0Pmu4</a><br>
+YouTubeã©ã¤ãã«ã¦æ¾éäºå®<br></p>
+
+<table class="live_schedule">
+<tbody>
+<tr>
+<td colspan="3" class="time">14:00ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_01.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãªã¼ããã³ã°/ã¯ã³ããGãªã³ã©ã¤ã³ãã£ã¦ã¿ããï¼</td>
+</tr>
+<tr>
+<td colspan="2">åæéå¬ä¸­ã®ã¯ã³ããGãªã³ã©ã¤ã³ãå®éã«ãã¬ã¤ãã¦ãç´¹ä»ï¼</td>
+</tr>
+<tr>
+<td colspan="3" class="time">14:35ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_05.jpg" alt=""></td>
+<td colspan="2" class="l-title">âèªç¤¾ä»ç¤¾åããï¼æ°ä½ç´¹ä»3åãã£ã¬ã³ã¸ï¼åç·¨/å¾ç·¨)</td>
+</tr>
+<tr>
+<td colspan="2">åã¡ã¼ã«ã¼ãèªæ¢ã®æ°ä½ã3åéã§ç´¹ä»ï¼ï¼<br>
+<small>åå ã¡ã¼ã«ã¼ï¼ã°ããã¹ãã¤ã«ã«ã³ããã¼/ããã¯ã¹ãã¡ã¯ããªã¼/ã¸ã¥ã¦ã­ã¯ãã¦ã¤/Phat!/ANIPLEX/ã­ã£ã©ã¢ã</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">15:50ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_03.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãchitocerium(ããã»ãªã¦ã )ãã³ã¼ãã¼</td>
+</tr>
+<tr>
+<td colspan="2">æµäºçç´ÃhukeÃGOOD SMILE COMPANYãéããã©ã¹ããã¯ã¢ãã«ã·ãªã¼ãºãchitoceriumãã«ã¤ãã¦ã®ãã¼ã¯ããå±ããã¾ãã<br>
+<small>ã²ã¹ãï¼æµäºçç´ãhuke(å¤©ã®å£°)</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">16:25ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_02.jpg" alt=""></td>
+<td colspan="2" class="l-title">âå£°åªã»æ³°åæ°ããã¨ãMODEROIDããèªããï¼</td>
+</tr>
+<tr>
+<td colspan="2">ã¢ãã©ã¼ã¨ãã¦ãæ´»èºä¸­ã®ç§¦åæ°ããããMODEROIDãã«ã¤ãã¦ç±ãèªãï¼ãè¦éããªãï¼<br>
+<small>ã²ã¹ãï¼ç§¦åæ°</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">17:00ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_04.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãã®å ´ã§"ç"åç­ï¼ï¼ï½ã°ãã¹ãQ&Aï½</td>
+</tr>
+<tr>
+<td colspan="2">Twitterã§äºåã«åéããã¢ã³ã±ã¼ãçµæã«å ããã°ãã¹ãã¹ã¿ãããçã§ãè³ªåã«ãç­ããã¾ãï¼</td>
+</tr>
+</tbody>
+</table>
+<p>â»æéã¯åå¾ããå ´åããããã¾ãã</p>
+</div>
+</div>
+
+<div class="product cf" id="product">
+<div class="product_inner cf">
+<h4><img src="images/img_h3_txt_04.png" alt="è²©å£²åå"></h4>
+<p>æ³¨ç®ååããã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ï½ONLINEï½ãã«ã¦æ°ééå®ã§è²©å£²ãããã¾ãï¼<br><small>â»ãã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½ãã«é¢ãã¦ã¯å¾æ¥åæ³¨è²©å£²ãå¥éè¡ãã¾ãã</small></p>
+
+<ul class="p_list cf">
+<li class="matchHeight">
+<p class="p_img"><img src="images/img_product_01.jpg" alt=""></p>
+<p class="p_title">åå ´çãFate/stay night [Heaven's Feel]ã</p>
+<p class="p_name">ã­ãã©ããã© éæ¡æ¡<br><small>ï½ãã­ãªã®æ¯ï½</small></p>
+<p class="p_btn"><a href="https://www.goodsmile.info/ja/product/10159/" target="_blank"><img src="images/img_btn_product.png" alt="ååè©³ç´°ã¯ãã¡ã GOOD SMILE COMPANYå¬å¼ãµã¤ã"></a></p>
+<table>
+<tbody>
+<tr>
+</tr>
+<tr>
+<td>åè¡è²©å£²</td>
+<td colspan="2">2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br>2020å¹´10æ23æ¥ï¼éï¼17:00<br><small>ï¼ãã²ã¨ããã¾2åã¾ã§ã»äºå®æ°éã«éãæ¬¡ç¬¬çµäºï¼</small></td>
+</tr>
+<tr>
+<td>åæ³¨è²©å£²</td>
+<td colspan="2">2020å¹´10æ23æ¥ï¼éï¼18:00ï½<br>2020å¹´11æ29æ¥ï¼æ¥ï¼21:00</td>
+</tr>
+</tbody>
+</table>
+</li>
+
+<li class="matchHeight">
+<p class="p_img"><img src="images/img_product_02.jpg" alt=""></p>
+<p class="p_title">é­ç¥è±éä¼ã¯ã¿ã«</p>
+<p class="p_name">PLAMAX MS-02G é¾ç¥ä¸¸<br><small>ã´ã¼ã«ãã¡ãã­Ver.</small></p>
+<p class="p_btn"><a href="https://www.goodsmile.info/ja/product/9952/" target="_blank"><img src="images/img_btn_product.png" alt="ååè©³ç´°ã¯ãã¡ã GOOD SMILE COMPANYå¬å¼ãµã¤ã"></a></p>
+<table>
+<tbody>
+<tr>
+</tr>
+<tr>
+<td>éå®è²©å£²</td>
+<td colspan="2">2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br>ç¡ããªãæ¬¡ç¬¬çµäº<br><small>ï¼ãã²ã¨ããã¾2åã¾ã§ã»äºå®æ°éã«éãæ¬¡ç¬¬çµäºï¼</small></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+
+<div class="del">
+<p class="hedding">ããå±ãã«ã¤ãã¦ã</p>
+<hr>
+<p>ãã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½ã<br><br>
+<strong>åè¡è²©å£²ã«ã¦ãè²·ãä¸ãã®å ´åï¼</strong><br class="sp">2020å¹´12æçºå£²äºå®<br>
+<strong>åæ³¨è²©å£²ã«ã¦ãè²·ãä¸ãã®å ´åï¼</strong><br class="sp">2021å¹´6æä»¥éçºå£²äºå®</p>
+<hr>
+<p>ãPLAMAX MS-02G é¾ç¥ä¸¸ ã´ã¼ã«ãã¡ãã­Ver.ã<br><br>
+2020å¹´10æ29æ¥ï¼æ¨ï¼ããé æ¬¡çºéäºå®</p>
+</div>
+
+<ul class="notice">
+<li>â»æ¬ååã¯å½åå¤ã®ã¤ãã³ããå¬äºç­ã§è²©å£²ããå ´åããããã¾ãã</li>
+<li>â»ãªã¢ã«å±ç¤ºä¼å ´ã§ã®è²©å£²ã¯ãããã¾ããã</li>
+</ul>
+
+</div>
+</div>
+
+<div class="copy">
+<p class="copy_inner">&copy;2019 ä¸¸æ¸å²æã»æ·±å´æ®äººã»KADOKAWA ãã¡ã³ã¿ã¸ã¢æåº«åï¼æ ç»ãå´ããªãè£½ä½å§å¡ä¼ &copy;TYPE-MOON / FGO PROJECT Â©TYPE-MOONã»ufotableã»FSNPC Â©TYPE-MOON &copy;SUNRISEã»R ATLUS CD PROJEKTÂ®, CyberpunkÂ®, Cyberpunk 2077Â® are registered trademarks of CD PROJEKT S.A. &copy; 2020
+CD PROJEKT S.A. All rights reserved. All other copyrights and trademarks are the property of their
+respective owners. &copy; 2017 SQUARE ENIX CO., LTD. All Rights Reserved. Developed by PlatinumGames Inc. &copy;SEGA All rights reserved. &copy;MAX FACTORY &copy; GOOD SMILE COMPANY</p>
+</div>
+
+</div>
+</div>
+</div>
+
+<!------ contents_area_end ---------->	
+
+<!-------- fooder_area ----------->
+
+<footer>
+<div class="footer-inneer cf">
+<p class="left"><a href="https://www.goodsmile.info/" target="_blank"><img src="images/img_footer_logo_gsc.png" alt="GOOD SMILE COMPANY"></a></p>
+<p class="right"><a href="https://www.maxfactory.jp/ja/mxf/" target="_blank"><img src="images/img_footer_logo_mxf.png" alt="MAX FACTORY"></a></p>
+</div>
+</footer>
+
+<!-------- fooder_area_end -------->
+
+</body>
+
+<script src="scripts/jquery.min.js" type="text/javascript"></script>
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+<script src="scripts/final.js" type="text/javascript"></script>
+<script src="scripts/jquery.matchHeight.js" type="text/javascript"></script>
+<script>
+$(function(){
+$('.matchHeight').matchHeight();
+});
+</script>
+
+</html><!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã</title>
+<meta name="keywords" content="ã¯ã³ããã®ã£ã©ãªã¼,ã¯ã³ããG,ã°ããã¹ãã¤ã«ã«ã³ããã¼,GOOD SMILE COMPANY,ã°ãã¹ã,ã­ãã©ããã©,nendoroid,ããã¯ã¹ãã¡ã¯ããªã¼,MAX FACTORY,ãã£ã®ã¥ã¢,figure,figma">
+<meta name="description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="images/favicon.png">
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/general.css">
+
+<!-- FACEBOOK -->
+<meta property="og:title" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã" />
+<meta property="og:site_name" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã"/>
+<meta property="og:url" content="https://special.goodsmile.info/whg_2020_autumn/" />
+<meta property="og:description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã" />
+<meta property="og:image" content="https://special.goodsmile.info/whg_2020_autumn/OGimage02.jpg" />
+
+<!--TWITTER -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@gsc_goodsmile">
+<meta name="twitter:creator" content="@gsc_goodsmile">
+<meta name="twitter:title" content="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã">
+<meta name="twitter:description" content="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ãã¯ããã¨ãããåã¡ã¼ã«ã¼ã®æ°ä½ãã£ã®ã¥ã¢ãéãå±ç¤ºä¼ãã¯ã³ããã®ã£ã©ãªã¼ãã®ç¹è¨­ãµã¤ãã§ãã">
+<meta name="twitter:image:src" content="https://special.goodsmile.info/whg_2020_autumn/OGimage02.jpg">
+
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+
+<meta name="theme-color" content="#E83E0B">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48515744-6"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-48515744-6');
+</script>
+
+</head>
+
+<!-------- header_area ----------->
+
+<body>
+<header id="basicheader" class="cf">
+<div class="contentsizer cf">
+<h1 class="title">ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ç¹è¨­ãµã¤ã</h1>
+<div class="header-right cf">
+<div id="social_buttons" class="cf">
+<a class="twitter-share-button" data-text="ãã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMNããéå¬æ±ºå®ï¼ä»åã®ã¯ã³ããã®ã£ã©ãªã¼ããªã³ã©ã¤ã³å±ç¤ºã¨ãªã¢ã«å±ç¤ºã®Wéå¬ï¼â" data-chrome="noborders" data-url="https://special.goodsmile.info/whg_2020_autumn/" data-hashtags="ã¯ã³ããG,goodsmile,MAXFACTORY" data-lang="ja" href="https://twitter.com/share">ãã¤ã¼ã</a>
+<div class="fb-like" data-href="https://special.goodsmile.info/whg_2020_autumn/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+</div>
+</div>
+</header>
+
+<!-------- header_area_end -------->
+
+<!-------- globalnav_area -------->
+
+<div class="navToggle fadein">
+<span></span>
+<span></span>
+<span></span><span>menu</span>
+</div>
+
+<div class="g-nav cf">
+<div class="g-nav-inner">
+<ul class="cf">
+<li><a href="#">TOP</a></li>
+<li><a href="#online">ãªã³ã©ã¤ã³å±ç¤º</a></li>
+<li><a href="#real">ãªã¢ã«å±ç¤º</a></li>
+<li><a href="#live">çæ¾éæå ±</a></li>
+<li><a href="#product">è²©å£²åå</a></li>
+</ul>
+</div>
+</div>
+
+<!-------- globalnav_area_end -------->
+
+<!-------- contents_area ------------>	
+
+<div class="contents_area">
+<div class="contents_area_inner">
+
+<h2><img src="images/img_top.png" alt="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ã°ãã¹ããç§èåãã¸ã£ãã¯ï¼ï½ãã£ã®ã¥ã¢ãã¬ã¼ãï½" class="pcc"></h2>
+<h2><img src="images/img_top_sp.png" alt="ã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ã°ãã¹ããç§èåãã¸ã£ãã¯ï¼ï½ãã£ã®ã¥ã¢ãã¬ã¼ãï½" class="sp"></h2>
+
+<div class="exhibition">
+<div class="exhibition-inner">
+
+<h3><img src="images/img_h3_txt.png" alt="ãªã³ã©ã¤ã³å±ç¤º&ãªã¢ã«å±ç¤º åæéå¬ï¼"></h3>
+<p class="read_txt">ä»åã®ã¯ã³ããã®ã£ã©ãªã¼ããªã³ã©ã¤ã³å±ç¤ºã¨ãªã¢ã«å±ç¤ºã®Wéå¬ï¼<br>	
+ãªã³ã©ã¤ã³ã¤ãã³ãã¯PCãã¹ãããããæ¥½ãã¿ããã ãããã¼ãã£ã«å±ç¤ºä¼ãå®æ½ã<br>
+è©³ç´°ã¯æ¥é±ã®ç¶å ±ããå¾ã¡ãã ããï¼</p>
+
+<p class="maker_txt">åºå±ã¡ã¼ã«ã¼ã»ãã©ã³ãï¼é ä¸åï¼</p>
+<div class="maker">
+<img src="images/img_maker.png" alt="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ããªã©ã³ã¸ã¥ã»ã«ã¼ã¸ã¥ãPhat!ããã¤ããã¯ãFineÎ¦CloverãPLMãthreezeroãWINGãWonderful Worksãã­ã£ã©ã¢ããã¸ã¥ã¦ã­ã¯ãã¦ã¤" class="pc">
+<img src="images/img_maker_sp.png" alt="ã°ããã¹ãã¤ã«ã«ã³ããã¼ãããã¯ã¹ãã¡ã¯ããªã¼ããªã©ã³ã¸ã¥ã»ã«ã¼ã¸ã¥ãPhat!ããã¤ããã¯ãFineÎ¦CloverãPLMãthreezeroãWINGãWonderful Worksãã­ã£ã©ã¢ããã¸ã¥ã¦ã­ã¯ãã¦ã¤" class="sp">
+</div>
+
+</div>
+
+<div class="online" id="online">
+<div class="online_inner">
+<h4><img src="images/img_h3_txt_01.png" alt="ãªã³ã©ã¤ã³å±ç¤º"></h4>
+<p>çºå£²åã»ãäºç´éå§åã®ãã­ãã©ããã©ãããfigmaãããã¹ã±ã¼ã«ãã£ã®ã¥ã¢ããªã©ãå¤æ°ã®æ°ä½ãã£ã®ã¥ã¢ãå±ç¤ºãã¾ãã<br>
+ä»åã¯10æ17æ¥ï¼åï¼ã«æ°ä½ãã£ã®ã¥ã¢æå ±ãå¬éï¼å¥å ´ã¯ç¡æã§ãï¼<br>
+ãã£ã®ã¥ã¢ãã¡ã³ããã¡ãã£ã¨æ°ã«ãªãæ¹ãæ¯éãæ¥å ´ãã ããï¼<br>
+ã<a href="https://twitter.com/hashtag/%E3%83%AF%E3%83%B3%E3%83%9B%E3%83%93G?src=hashtag_click" target="_blank">#ã¯ã³ããG</a>ãã®ããã·ã¥ã¿ã°ãã¤ãã¦ããã²SNSã«æç¨¿ãã¦ãã ããã­âª<br>
+<small>â»ãªã³ã©ã¤ã³ã¤ãã³ãã«ã¤ãã¾ãã¦ãã¹ãã¼ããã©ã³ã§ã®é²è¦§ã¯ãå¤ãæ©ç¨®ã®ä¸é¨ç«¯æ«ã§ã¯åä½ä¿è¨¼ã§ãã¾ããã</small></p>
+
+<p class="date">éå¬æé<br>2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br class="sp">18æ¥ï¼æ¥ï¼23:59</p>
+<p class="center"><small>â»ã¢ã¼ã«ã¤ãã¨ãã¦ã10æ23æ¥ï¼éï¼23:59ã¾ã§å¬éãããã¾ãã</small></p>
+
+<div class="live_btn cf">
+<p><img src="images/img_live_ja_txt.png" alt="æ¥æ¬èª"></p>
+<ul>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/virtual-event/" target="_blank"><img src="images/img_pc.jpg" alt="PCçã¯ãã¡ã"></a></li>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/virtual-event-lq/" target="_blank"><img src="images/img_sp.jpg" alt="SPçã¯ãã¡ã"></a></li>
+</ul>
+</div>
+
+<div class="live_btn cf">
+<p><img src="images/img_live_en_txt.png" alt="English"></p>
+<ul>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/en/virtual-event/" target="_blank"><img src="images/img_pc_en.jpg" alt="PC Version"></a></li>
+<li><a href="https://special.goodsmile.info/whg_2020_autumn/en/virtual-event-lq/" target="_blank"><img src="images/img_sp_en.jpg" alt="Mobile Version"></a></li>
+</ul>
+</div>
+
+<p class="mb50"><img src="images/img_live_survey.jpg" alt="ã¢ã³ã±ã¼ãã«ç­ãã¦è±ªè¯ãã¬ã¼ã³ããã²ããï¼ï¼"></p>
+	
+<p><a href="https://special.goodsmile.info/whg_2020_autumn/gallery/" target="_blank"><img src="images/img_photo.jpg" alt="ã¯ã³ããã®ã£ã©ãªã¼2020AUTUMN æ°ä½å±ç¤ºãã©ãã®ã£ã©ãªã¼ ãã¹ã¦ã®æ°ä½ååãæ²è¼ä¸­ï¼"></a></p>
+
+</div>
+</div>
+
+<div class="real cf" id="real">
+<div class="real_inner">
+<h4><img src="images/img_h3_txt_02.png" alt="ãªã¢ã«å±ç¤º"></h4>
+<ul>
+<li><strong>æéï¼</strong>2020å¹´10æ17æ¥ï¼åï¼ï½18æ¥ï¼æ¥ï¼</li>
+<li><strong>ä¼æï¼</strong>10æ17æ¥ï¼åï¼12:00ï½19:30<br>ããã10æ18æ¥ï¼æ¥ï¼12:00ï½18:30</li>
+<li><strong>å ´æï¼</strong>ã¢ã­ãCOã®ã£ã©ãªã¼ï¼å¥å ´ç¡æã»å¥å ´å¶éæï¼</li>
+<li><strong>ä½æï¼</strong>101-0021 æ±äº¬é½åä»£ç°åºå¤ç¥ç°3-16-12 ã¢ã­ãCOãã«1F</li>
+<li><strong>å°å³ãªã³ã¯ï¼</strong><a href="https://goodsmile.link/2YPWzQQ" target="_blank">https://goodsmile.link/2YPWzQQ</a></li>
+</ul>
+
+<hr>
+
+<p class="date">å¥å ´æ¹æ³</p>
+
+<div class="cf">
+
+<table class="first">
+<tbody>
+<tr>
+<td class="day" colspan="3">10æ17æ¥ï¼åï¼</td>
+</tr>
+<tr>
+<td>1é¨</td>
+<td>12:00ï½12:45</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>2é¨</td>
+<td>12:50ï½13:35</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>3é¨</td>
+<td>13:40ï½14:25</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>4é¨</td>
+<td>14:30ï½15:05</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>èªç±å¥å ´</td>
+<td>15:10ï½19:30</td>
+<td>å¥å ´è¦å¶ãã</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td class="day" colspan="3">10æ18æ¥ï¼æ¥ï¼</td>
+</tr>
+<tr>
+<td>1é¨</td>
+<td>12:00ï½12:45</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>2é¨</td>
+<td>12:50ï½13:35</td>
+<td>40äºº</td>
+</tr>
+<tr>
+<td>èªç±å¥å ´</td>
+<td>13:40ï½18:30</td>
+<td>å¥å ´è¦å¶ãã</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<p><strong>æ´çå¸éå¸æéï¼</strong><br>
+ç¬¬1é¨ã»ç¬¬2é¨ã11æ30åï½<br>
+ç¬¬3é¨ã»ç¬¬4é¨ã13æ00åï½ãâ»åææ¥ã®ã¿</p>
+<ul class="notice">
+<li>â»ãã²ã¨ãæ§1æã®éå¸ã¨ãªãã¾ãã</li>
+<li>â»æ´çå¸ã¯åçé ã¨ãªãã¾ãã</li>
+<li>â»éå¸æéä»¥å¤ã«å¨è¾ºã«å¾æ©ãåå½¢æããè¡çºã¯ãé æ®ãã ããã</li>
+<li>â»èªç±å¥å ´ã§ã¯ãä¼å ´åã®äººæ°ã40äººãè¶ããå ´åãå¥å ´è¦å¶ãããã¦ããã ãã¾ãã</li>
+</ul>
+
+<hr>
+
+<p class="date">æ°åã³ã­ãã¦ã¤ã«ã¹ææäºé²ã«ã¤ãã¦</p>
+
+<p>ã°ããã¹ãã¤ã«ã«ã³ããã¼ã¯ä¸è¨ã®ç¹ã«çæãã¦ã¾ããã¾ããä½åãçè§£ããååã®ç¨ãé¡ãç³ãä¸ãã¾ãã
+</p>
+
+<ul class="notice">
+<p><strong>â ãæ¥å ´åã«å¿ããç¢ºèªãã ãã</strong></p>
+<li>ã»ä½æ¸©ã37.5åº¦ä»¥ä¸ã®æ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+<li>ã»çºç±ãå³ããããã¿ãé¼»æ°´ãå¦æ æãå¨èº«çãä¸ç¢ãªã©ã®è«¸çç¶ãããæ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+<li>ã»æ¿åºãå¥å½å¶éãè¡ã£ã¦ããå½ãå°åããæ¥æ¬ã¸å¥å½ãããã®ã¡ã14æ¥éçµéãã¦ããªãæ¹ã¯ãæ¥å ´ããæ§ããã ããã</li>
+</ul>
+
+<ul class="notice">
+<p><strong>â ãå¥å ´æã«ã¤ãã¾ãã¦</strong></p>
+<li>ã»å¿ããã¹ã¯ã®çç¨ããé¡ããããã¾ãã</li>
+<li>ã»å¥å£ã«æ¶æ¯ç¨ã¢ã«ã³ã¼ã«ãè¨­ç½®ãããã¾ãããå¥å ´åã«å¿ãææã®æ¶æ¯ãè¡ã£ã¦ãã ããã</li>
+<li>ã»å¥å£ã«ã¦æ¤æ¸©ãè¡ãã¾ãã37.5åº¦ä»¥ä¸ã®çºç±ãç¢ºèªãããå ´åããå¥å ´ããæ­ãããã¦ããã ãã¾ãã</li>
+<li>ã»éè³ä¸­ãä½èª¿ãæªããªã£ãå ´åããè¿ãã®ã¹ã¿ããã«ãå£°ãããã ããã</li>
+<li>ã»ä¸ãä¸ããæ¥å ´ããã ãããå®¢æ§ã«ææãçºè¦ããå ´åãä¸æã¡ã¼ã«ã«ã¦ãé£çµ¡ãããã¦ããã ãã¾ããå¥å£ã«ã¦ã¡ã¼ã«ã¢ãã¬ã¹ã®ãè¨å¥ã«ãååãã ãããï¼ç¡è¨åå¼ï¼</li>
+<li>ã»æ··éæãå¨å²ã«å¾æ©åãã§ããå ´åãäºåãªãã¤ãã³ããä¸­æ­¢ããå ´åããããã¾ããäºããäºæ¿ãã ããã</li>
+<li>ã»éå ´åãæ´çå¸éå¸åã«ä¼å ´å¨è¾ºã«ã¦å¾æ©ããè¡çºã¯ãé æ®ãã ããã</li>
+</ul>
+
+<ul class="notice">
+<p><strong>â ãéè³ã«ã¤ãã¾ãã¦</strong></p>
+<li>ã»è¶³åã®ãµã¤ã³ï¼ç®å°ï¼ããè¦§ããã ããä»ã®ãå®¢æ§ã¨ã®ééãä¿ã¡ãéè³ãã ããã</li>
+<li>ã»å±ç¤ºã±ã¼ã¹ãä»å¨ã«ç´æ¥ãæãè§¦ããªããããé¡ããããã¾ãã</li>
+</ul>
+
+<hr>
+
+<ul class="notice">
+<li>â»æ°åã³ã­ãã¦ã£ã«ã¹ææçã®æµè¡ã«éãããæ¥å ´ã®ã¿ãªãã¾ã®å¥åº·ã¨å®å¨ãç¬¬ä¸ã«èãã<br class="pc">ãªã¢ã«å±ç¤ºã¯ç¶æ³ã«ããå»¶æã¾ãã¯ä¸­æ­¢ã«ãªãå ´åããããã¾ãã<br>
+ãã®éã¯ãã¡ãã®ãã¼ã¸ãããã¯å¬å¼Twitterã«ã¦åç¥ããã¦ããã ãã¾ãã</li>
+<li>â»ãªã¢ã«å±ç¤ºã®åå®¹ã¯ããªã³ã©ã¤ã³å±ç¤ºã¨ä¸é¨ç°ãªãã¾ãã</li>
+<li>â»URLãå¥å ´æ¹æ³ãªã©è©³ç´°ã«é¢ãã¦ã¯ãå¾æ¥ãã¡ãã®ãã¼ã¸ã«ã¦ãæ¡åãããã¾ãã</li>
+<li>â»ã¤ãã³ãåå®¹ã¯äºåãªãå¤æ´ã«ãªãå ´åããããã¾ãã</li>
+</ul>
+
+</div>
+</div>
+
+<div class="live cf" id="live">
+<div class="live_inner">
+<h4><img src="images/img_h3_txt_03.png" alt="çæ¾éæå ±"></h4>
+
+<p class="live_date">10/16ï¼éï¼ 18:30~</p>	
+<p class="date">#çãã£ã®ã¥ã¢æ¾éä¸­ ã·ã¡<br>
+<small>ï½ãã¯ã³ããGãéå¬è¨å¿µï¼ãªã³ã©ã¤ã³éå®è²©å£²ãã£ã¡ããã¾ãï¼ï¼ï½</small></p>
+<p><a href="https://youtu.be/5ehkxUpg-60" target="_blank"><img src="images/img_live_01.jpg" alt=""></a></p>
+<p><strong>æ¾éæ¥æï¼</strong>2020å¹´10æ16æ¥ï¼éï¼18:30ï½ äºå®<br>
+<strong>çæ¾éURLï¼</strong><a href="https://youtu.be/5ehkxUpg-60" target="_blank">https://youtu.be/5ehkxUpg-60</a><br>
+YouTubeã©ã¤ãã«ã¦æ¾éäºå®</p>
+<p>ã#çãã£ã®ã¥ã¢æ¾éä¸­ã·ã¡ãç·æ¥çæ¾éæ±ºå®ï¼ï¼<br>
+æ¾éä¸­ã«ã°ãã¹ããªã³ã©ã¤ã³éå®ã¢ã¤ãã ãçºè¡¨ããã¦äºç´éå§ï¼ï¼<br><br>
+17æ¥(å)ããè²©å£²éå§ãã<br>
+ã<a href="https://www.goodsmile.info/ja/product/10159/" target="_blank">ã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½</a>ã(æ°ééå®ã»åè¡è²©å£²)<br>
+ã<a href="https://www.goodsmile.info/ja/product/9952/" target="_blank">PLAMAX MS-02G é¾ç¥ä¸¸ ã´ã¼ã«ãã¡ãã­Ver.</a>ã(æ°ééå®è²©å£²)<br>
+ã³ãã©ãä¸è¶³åã«ãç´¹ä»ï¼
+</p>
+
+<hr>
+
+<p class="live_date">10/17ï¼åï¼ 14:00~</p>
+<p class="date">#çãã£ã®ã¥ã¢æ¾éä¸­<br>
+<small>ï½ã°ãã¹ããåã³ãªã³ã©ã¤ã³å±ç¤ºä¼ãã£ã¦ã¾ãï½</small></p>
+<p><a href="https://youtu.be/gyiDnc0Pmu4" target="_blank"><img src="images/img_live_02.jpg" alt=""></a></p>
+<p><strong>æ¾éæ¥æï¼</strong>2020å¹´10æ17æ¥ï¼åï¼14:00ï½ äºå®<br>
+<strong>çæ¾éURLï¼</strong><a href="https://youtu.be/gyiDnc0Pmu4" target="_blank">https://youtu.be/gyiDnc0Pmu4</a><br>
+YouTubeã©ã¤ãã«ã¦æ¾éäºå®<br></p>
+
+<table class="live_schedule">
+<tbody>
+<tr>
+<td colspan="3" class="time">14:00ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_01.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãªã¼ããã³ã°/ã¯ã³ããGãªã³ã©ã¤ã³ãã£ã¦ã¿ããï¼</td>
+</tr>
+<tr>
+<td colspan="2">åæéå¬ä¸­ã®ã¯ã³ããGãªã³ã©ã¤ã³ãå®éã«ãã¬ã¤ãã¦ãç´¹ä»ï¼</td>
+</tr>
+<tr>
+<td colspan="3" class="time">14:35ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_05.jpg" alt=""></td>
+<td colspan="2" class="l-title">âèªç¤¾ä»ç¤¾åããï¼æ°ä½ç´¹ä»3åãã£ã¬ã³ã¸ï¼åç·¨/å¾ç·¨)</td>
+</tr>
+<tr>
+<td colspan="2">åã¡ã¼ã«ã¼ãèªæ¢ã®æ°ä½ã3åéã§ç´¹ä»ï¼ï¼<br>
+<small>åå ã¡ã¼ã«ã¼ï¼ã°ããã¹ãã¤ã«ã«ã³ããã¼/ããã¯ã¹ãã¡ã¯ããªã¼/ã¸ã¥ã¦ã­ã¯ãã¦ã¤/Phat!/ANIPLEX/ã­ã£ã©ã¢ã</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">15:50ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_03.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãchitocerium(ããã»ãªã¦ã )ãã³ã¼ãã¼</td>
+</tr>
+<tr>
+<td colspan="2">æµäºçç´ÃhukeÃGOOD SMILE COMPANYãéããã©ã¹ããã¯ã¢ãã«ã·ãªã¼ãºãchitoceriumãã«ã¤ãã¦ã®ãã¼ã¯ããå±ããã¾ãã<br>
+<small>ã²ã¹ãï¼æµäºçç´ãhuke(å¤©ã®å£°)</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">16:25ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_02.jpg" alt=""></td>
+<td colspan="2" class="l-title">âå£°åªã»æ³°åæ°ããã¨ãMODEROIDããèªããï¼</td>
+</tr>
+<tr>
+<td colspan="2">ã¢ãã©ã¼ã¨ãã¦ãæ´»èºä¸­ã®ç§¦åæ°ããããMODEROIDãã«ã¤ãã¦ç±ãèªãï¼ãè¦éããªãï¼<br>
+<small>ã²ã¹ãï¼ç§¦åæ°</small></td>
+</tr>
+<tr>
+<td colspan="3" class="time">17:00ï½ï¼äºå®ï¼</td>
+</tr>
+<tr>
+<td rowspan="2" class="l-img"><img src="images/img_live_schedule_04.jpg" alt=""></td>
+<td colspan="2" class="l-title">âãã®å ´ã§"ç"åç­ï¼ï¼ï½ã°ãã¹ãQ&Aï½</td>
+</tr>
+<tr>
+<td colspan="2">Twitterã§äºåã«åéããã¢ã³ã±ã¼ãçµæã«å ããã°ãã¹ãã¹ã¿ãããçã§ãè³ªåã«ãç­ããã¾ãï¼</td>
+</tr>
+</tbody>
+</table>
+<p>â»æéã¯åå¾ããå ´åããããã¾ãã</p>
+</div>
+</div>
+
+<div class="product cf" id="product">
+<div class="product_inner cf">
+<h4><img src="images/img_h3_txt_04.png" alt="è²©å£²åå"></h4>
+<p>æ³¨ç®ååããã¯ã³ããã®ã£ã©ãªã¼ 2020 AUTUMN ï½ONLINEï½ãã«ã¦æ°ééå®ã§è²©å£²ãããã¾ãï¼<br><small>â»ãã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½ãã«é¢ãã¦ã¯å¾æ¥åæ³¨è²©å£²ãå¥éè¡ãã¾ãã</small></p>
+
+<ul class="p_list cf">
+<li class="matchHeight">
+<p class="p_img"><img src="images/img_product_01.jpg" alt=""></p>
+<p class="p_title">åå ´çãFate/stay night [Heaven's Feel]ã</p>
+<p class="p_name">ã­ãã©ããã© éæ¡æ¡<br><small>ï½ãã­ãªã®æ¯ï½</small></p>
+<p class="p_btn"><a href="https://www.goodsmile.info/ja/product/10159/" target="_blank"><img src="images/img_btn_product.png" alt="ååè©³ç´°ã¯ãã¡ã GOOD SMILE COMPANYå¬å¼ãµã¤ã"></a></p>
+<table>
+<tbody>
+<tr>
+</tr>
+<tr>
+<td>åè¡è²©å£²</td>
+<td colspan="2">2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br>2020å¹´10æ23æ¥ï¼éï¼17:00<br><small>ï¼ãã²ã¨ããã¾2åã¾ã§ã»äºå®æ°éã«éãæ¬¡ç¬¬çµäºï¼</small></td>
+</tr>
+<tr>
+<td>åæ³¨è²©å£²</td>
+<td colspan="2">2020å¹´10æ23æ¥ï¼éï¼18:00ï½<br>2020å¹´11æ29æ¥ï¼æ¥ï¼21:00</td>
+</tr>
+</tbody>
+</table>
+</li>
+
+<li class="matchHeight">
+<p class="p_img"><img src="images/img_product_02.jpg" alt=""></p>
+<p class="p_title">é­ç¥è±éä¼ã¯ã¿ã«</p>
+<p class="p_name">PLAMAX MS-02G é¾ç¥ä¸¸<br><small>ã´ã¼ã«ãã¡ãã­Ver.</small></p>
+<p class="p_btn"><a href="https://www.goodsmile.info/ja/product/9952/" target="_blank"><img src="images/img_btn_product.png" alt="ååè©³ç´°ã¯ãã¡ã GOOD SMILE COMPANYå¬å¼ãµã¤ã"></a></p>
+<table>
+<tbody>
+<tr>
+</tr>
+<tr>
+<td>éå®è²©å£²</td>
+<td colspan="2">2020å¹´10æ17æ¥ï¼åï¼10:00ï½<br>ç¡ããªãæ¬¡ç¬¬çµäº<br><small>ï¼ãã²ã¨ããã¾2åã¾ã§ã»äºå®æ°éã«éãæ¬¡ç¬¬çµäºï¼</small></td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+
+<div class="del">
+<p class="hedding">ããå±ãã«ã¤ãã¦ã</p>
+<hr>
+<p>ãã­ãã©ããã© éæ¡æ¡ï½ãã­ãªã®æ¯ï½ã<br><br>
+<strong>åè¡è²©å£²ã«ã¦ãè²·ãä¸ãã®å ´åï¼</strong><br class="sp">2020å¹´12æçºå£²äºå®<br>
+<strong>åæ³¨è²©å£²ã«ã¦ãè²·ãä¸ãã®å ´åï¼</strong><br class="sp">2021å¹´6æä»¥éçºå£²äºå®</p>
+<hr>
+<p>ãPLAMAX MS-02G é¾ç¥ä¸¸ ã´ã¼ã«ãã¡ãã­Ver.ã<br><br>
+2020å¹´10æ29æ¥ï¼æ¨ï¼ããé æ¬¡çºéäºå®</p>
+</div>
+
+<ul class="notice">
+<li>â»æ¬ååã¯å½åå¤ã®ã¤ãã³ããå¬äºç­ã§è²©å£²ããå ´åããããã¾ãã</li>
+<li>â»ãªã¢ã«å±ç¤ºä¼å ´ã§ã®è²©å£²ã¯ãããã¾ããã</li>
+</ul>
+
+</div>
+</div>
+
+<div class="copy">
+<p class="copy_inner">&copy;2019 ä¸¸æ¸å²æã»æ·±å´æ®äººã»KADOKAWA ãã¡ã³ã¿ã¸ã¢æåº«åï¼æ ç»ãå´ããªãè£½ä½å§å¡ä¼ &copy;TYPE-MOON / FGO PROJECT Â©TYPE-MOONã»ufotableã»FSNPC Â©TYPE-MOON &copy;SUNRISEã»R ATLUS CD PROJEKTÂ®, CyberpunkÂ®, Cyberpunk 2077Â® are registered trademarks of CD PROJEKT S.A. &copy; 2020
+CD PROJEKT S.A. All rights reserved. All other copyrights and trademarks are the property of their
+respective owners. &copy; 2017 SQUARE ENIX CO., LTD. All Rights Reserved. Developed by PlatinumGames Inc. &copy;SEGA All rights reserved. &copy;MAX FACTORY &copy; GOOD SMILE COMPANY</p>
+</div>
+
+</div>
+</div>
+</div>
+
+<!------ contents_area_end ---------->	
+
+<!-------- fooder_area ----------->
+
+<footer>
+<div class="footer-inneer cf">
+<p class="left"><a href="https://www.goodsmile.info/" target="_blank"><img src="images/img_footer_logo_gsc.png" alt="GOOD SMILE COMPANY"></a></p>
+<p class="right"><a href="https://www.maxfactory.jp/ja/mxf/" target="_blank"><img src="images/img_footer_logo_mxf.png" alt="MAX FACTORY"></a></p>
+</div>
+</footer>
+
+<!-------- fooder_area_end -------->
+
+</body>
+
+<script src="scripts/jquery.min.js" type="text/javascript"></script>
+<script src="scripts/html5shiv.js" type="text/javascript"></script>
+<script src="scripts/final.js" type="text/javascript"></script>
+<script src="scripts/jquery.matchHeight.js" type="text/javascript"></script>
+<script>
+$(function(){
+$('.matchHeight').matchHeight();
+});
+</script>
+
+</html>

@@ -1,0 +1,807 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		 
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="content-script-type" content="text/javascript">
+	<meta http-equiv="content-style-type"  content="text/css">
+	<meta name="keywords" content="高知県高知市,小動物管理センター,野犬等の保護・収容,譲渡犬情報,譲渡会,野良猫,犬・ネコの適正な飼養管理,株式会社田邊工務店,ペット譲渡会,迷子犬情報">
+		<meta name="description" content="こちらには、このホームページについての簡単な説明文を記入します。検索エンジンでどういったキーワードからヒットさせたいのかを考えつつ、文章を組み立てましょう。">
+
+	<meta name="robots" content="index,follow">
+
+	
+
+	<!-- Css -->
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/default.css" >
+	<link rel="stylesheet" type="text/css" href="/system_files/layout/6/style.css" >
+	<!-- #588 -->
+			<link rel="stylesheet" type="text/css" href="/files/design/tmplate/10/css/design.css?cashe=" >
+	
+	
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/page.css" >
+
+			<!-- PJX2 2013-02-04 matuuchi 下書き設定 -->
+				
+		<title>小動物管理センター｜野犬等の保護・収容及び巡回活動｜犬・ネコの収容及び応急措置｜譲渡会の実施｜犬・ネコの適正な飼養管理の啓発活動</title>
+			<link rel="stylesheet" type="text/css" href="/css/js/jquery/sexy_alert/sexyalertbox.css" >
+
+    <script type="text/javascript">
+    <!--
+        var BaseUrl = '/';
+        //kondo ua_log
+        var Serial = "0bdd6fc68d680bc0e70ea5bb041d6772";
+        var closeUserName  = "";
+        var closeUserId    = "";
+        var public_uuid    = "";
+        
+        var UserActionObject = {};
+        
+        var $jq = '';
+
+            -->
+    </script>
+
+    <!-- Jquery関連 -->
+	<script type="text/javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery/jquery-ui-1.8.6.custom.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.cookie.js"></script>
+
+                <script type="text/javascript" src="/js/jquery/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript">
+        <!--
+            // jQuery 2.1.1に対してエイリアスを設定
+            $jq = jQuery.noConflict(true);
+        -->
+        </script>
+        <script type="text/JavaScript">
+	<!--
+    
+    //uuid取得
+    var $cookie = $.cookie('__ds_uuid');
+    public_uuid = $cookie;
+
+    //CS
+    //異なるバージョンでつけたイベントが取得できないため、ua_logではなくget_uuidに記述
+    $(window).load(function(){
+        setTimeout(function(){
+            $('div,img').each(function(index){
+                var events = $(this).data("events");
+                if(events !== undefined && events !== null){
+                    if(events.click !== undefined){
+                        $(this).bind('click tap',function(e){
+                            if(typeof $jq.getClick == 'function'){
+                                $jq.getClick(e);
+                            }
+                        });
+                    }
+                }
+            });
+        }, 500);
+    });
+    
+    if($cookie == undefined) {
+
+        var ua  = window.navigator.userAgent;
+
+        //ios8のsafariでクロスドメインエラーになるため、自身で生成する
+        if(ua.match(/OS\s8\_/) && ua.match(/Safari/)) {
+
+            // 生成する文字列の長さ
+            var l = 9;
+
+            // 生成する文字列に含める文字セット
+            var c = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            var cl = c.length;
+            var r = "";
+            for(var i=0; i<l; i++) {
+             r += c[Math.floor(Math.random()*cl)];
+            }
+            //DS
+            //var rep_uuid = "ios8safari" + r + $.now();
+            //CS
+            var date = new Date();
+            var time = date.getTime() ;
+
+            var rep_uuid = "ios8safari" + r + time;
+
+            $.cookie("__ds_uuid",rep_uuid, {
+                expires:730,
+                //path: '/',
+                path : BaseUrl
+            });
+
+            $cookie = $.cookie('__ds_uuid');
+            public_uuid = $cookie;
+
+        }else{
+
+            $.ajax( {
+                type: 'GET',
+                url : 'https://9e2xkh9f1e.execute-api.ap-northeast-1.amazonaws.com/v1/getUniqueUserId',
+                crossDomain:true,
+                async:false,
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function(data) {
+                    var uuid = JSON.stringify(data['body']['uuid']);
+
+                    var rep_uuid = uuid.replace(/\"/g,'');
+
+                    $.cookie("__ds_uuid",rep_uuid, {
+                        expires:730,
+                        //path: '/',
+                        path : BaseUrl
+                    });
+
+                    $cookie = $.cookie('__ds_uuid');
+                    public_uuid = $cookie;
+                },
+                error:function(data) {
+                    
+                }
+            });
+
+        }
+    }
+    
+-->
+</script>
+                    <script type="text/javascript" src="/js/my_js/ua_log.js"></script>
+            
+	<script type="text/javascript">
+	<!--
+		
+		//#1207
+					var FullUrl = 'http://tanabe-animal.jp/';
+		
+		var google = "";
+		var site_lang = '';
+		var lang_dir = '';
+		
+		window.onload = function() {
+			$('a[href^="tel:"]').bind('click', function() {
+				if(typeof gtag !== "undefined") {
+					gtag('event', 'tap', {
+						'event_category': "mobile",
+						'event_label': "tel"
+					});
+				}
+
+				if(typeof ga !== "undefined") {
+					ga('send', 'event', "mobile", "tap", "tel");
+				}
+
+				if(typeof _gaq !== "undefined") {
+					_gaq.push(['_trackEvent', 'mobile', 'tap', 'tel']);
+				}
+			});
+		};
+		
+	-->
+	</script>
+
+	<!-- #1208 -->
+			<link rel="stylesheet" type="text/css" href="/css/public/pc/font01.css" >
+	
+	<!-- ブロックタイプ別 JS & CSS 読み込み -->
+	
+
+
+<link rel="stylesheet" type="text/css" href="/css/public/parts/header_slide/pc.css" ><script type="text/javascript" src="/js/jquery/thickbox/thickbox.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/thickbox/thickbox.css" >
+<script type="text/javascript" src="/js/jquery/cycle/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/js/jquery/jcarousel/jquery.jcarousel.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/jcarousel/tango/skin.css" >
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/jcarousel/tango/jquery.jcarousel.css" >
+<script type="text/javascript" src="/js/jquery/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/js/jquery/imgpreview/imgpreview.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/public/contents_type/data/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/image/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/text/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/banner/pc.css" >
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/.css" >
+
+	<!--  ファビコン  -->
+			<link rel="shortcut icon" href="/files/favicon.ico?cache=">
+	
+
+    
+					<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	
+	
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7069798-26");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<meta name="google-site-verification" content="rsqQsWlmMCuVayXxv8vYGCeQY10RGkBIlCTydCyURus" />
+
+	    	
+    
+
+					<link rel="canonical" href="">
+		<!-- #1328 -->
+			<div id="fadepanel" style="position:absolute;top:0px;left:0px;background:#FFF;width:100%;height:100%;z-index:9999;"></div>
+					
+				<script type="text/javascript">
+				<!--
+					$(function(){
+						$('#fadepanel').height($("body").height()).fadeOut(2000,function(){
+							$(this).hide();
+						});
+					});
+				  -->
+				</script>
+			
+			</head>
+
+<body class="ja" data-page-id="1">
+
+
+
+
+<!-- #835 2013/06/26 y-ichinose -->
+	
+
+			
+			<div id="fb-root"></div>
+		
+		<!-- #898 2013/10/17 M-Egawa -->
+				
+	<script type="text/javascript">
+		<!--
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			// #754 2013/05/09 M-Egawa
+			js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		-->
+	</script>
+			
+		
+		
+	<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+		
+	
+	
+	<div id="Wrapper">
+		
+		<div id="MainPanel">
+			<div id="LeftArea"></div>
+			<div id="CenterArea">
+				<div id="MainArea" style="margin:0px;padding:0px;">
+					<div id="ContentsArea" style="float:none;height:auto;width:100%;padding:0px;margin:0px;">
+						
+<style type="text/css">
+	body{
+		background-image:none;
+		background-color:#FFF;
+	
+	}
+</style>		
+
+
+<div style="width:100%;text-align:center;background:#FFF;color:#333;">
+	<div style="width:700px;margin:auto;text-align:left;">
+		<br />
+		<br />
+		<div style="margin-bottom:10px;">
+			<img src="/css/public/image/error-trans.png" alt="error-trans.png" >
+		</div>
+
+		<div style="margin-bottom:10px;">
+			<div>お探しのページは、削除されたか、名前が変更された可能性があります。<br />
+アドレスバーに直接アドレスを入力された場合は、アドレスが正しく入力されているかもう一度ご確認下さい。<br />
+ブラウザの再読込みを行ってもこのページが表示される場合は、下記サイトマップからお求めのページをお探し下さい。</div>
+
+		</div>
+
+		<link rel="stylesheet" type="text/css" href="/css/public/contents_type/etc/pc.css" >
+					<div class="type023sitemap clear">
+				<ul class='normal clear'><li><a href='/publics/index/1'><span style='display:block;margin-left:0px;'>ト&#x200B;ッ&#x200B;プ&#x200B;ペ&#x200B;ー&#x200B;ジ&#x200B;</span></a></li><li style='margin-right:0%;'><a href='/publics/index/180'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/17'><span style='display:block;margin-left:15px;'>・中&#x200B;央&#x200B;譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a></li><li><a href='/publics/index/82'><span style='display:block;margin-left:15px;'>・中&#x200B;村&#x200B;譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/104'><span style='display:block;margin-left:0px;'>ア&#x200B;ニ&#x200B;マ&#x200B;ル&#x200B;ス&#x200B;テ&#x200B;ー&#x200B;シ&#x200B;ョ&#x200B;ン&#x200B;</span></a></li><li style='margin-right:0%;'><a href='/publics/index/67'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;犬&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/164'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;犬&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/112'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;猫&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/166'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;猫&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/68'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;犬&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/172'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/121'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;猫&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/173'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/80'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;犬&#x200B;情&#x200B;報&#x200B;（&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/168'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;犬&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/114'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;猫&#x200B;情&#x200B;報&#x200B;（&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/170'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;猫&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/81'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;犬&#x200B;情&#x200B;報&#x200B;(&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/174'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/107'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;猫&#x200B;情&#x200B;報&#x200B;(&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/175'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li></ul>
+			</div>
+				
+		<div class="line_dashed" style="margin:20px 0px;"></div>
+		<div>
+			<div><b>中央小動物管理センター</b></div>
+			<div>〒780-8021 高知県高知市孕東町56-2 </div>
+			<div>TEL：088-831-7939　FAX：088-831-7953</div>
+		</div>
+		<br />
+		<br />
+	</div>
+</div>
+
+					</div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+			<div id="RiteArea"></div>
+			
+			<div style="clear:both;"></div>
+		</div>
+							<div id="caria_change_bar" style="display:none;">
+					<!-- #621 -->
+					<span>表示：</span>
+					<span><a href="/%0_a/smart_recirect/">スマートフォン</a></span>
+					<span>|</span>
+					<span><b>パソコン</b></span>
+				</div>
+					</div>
+		<div id="AddEventDiv">
+			<input id="admin_flg" type="hidden" value="">
+			<input id="design_flg" type="hidden" value="0">
+			<input id="caria" type="hidden" value="pc">
+			
+													<input id="title_corner_type" type="hidden" value="round">
+			<input id="img_preserve_flg" type="hidden" value="0">
+
+			<script type="text/javascript" src="/js/jquery/marquee.js"></script>
+			<script type="text/javascript" src="/js/jquery/jquery.corner.js"></script>
+			
+												<script type="text/javascript" src="/js/my_js/pc_onload.js"></script>
+								
+				
+			
+			<!--[if lt IE 7]>
+				<script type="text/javascript" src="/js/pngfix/jquery.pngfix.js"></script>					
+			<![endif]-->
+		</div>
+		
+				
+		
+		
+		
+		<script type="text/javascript" src="/js/my_js/twitter.fix.js"></script>
+
+		<!-- #1209 2014/01/28 M-Egawa -->
+					
+				<script type="text/javascript">
+				
+					var login = "";
+				
+				<!--
+					$(
+						function ()
+						{
+							if(login == "true") {
+							} else {
+								if(navigator.cookieEnabled) {
+
+									// 非同期通信処理
+									//#1247 2014-03-04 y-ichinose
+									$.ajax
+									({
+										type       : 'GET',
+										url        : FullUrl + 'publics/AddCount/'
+									});
+								}
+							}
+						}
+					);
+				//-->
+				</script>
+			
+		
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		 
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="content-script-type" content="text/javascript">
+	<meta http-equiv="content-style-type"  content="text/css">
+	<meta name="keywords" content="高知県高知市,小動物管理センター,野犬等の保護・収容,譲渡犬情報,譲渡会,野良猫,犬・ネコの適正な飼養管理,株式会社田邊工務店,ペット譲渡会,迷子犬情報">
+		<meta name="description" content="こちらには、このホームページについての簡単な説明文を記入します。検索エンジンでどういったキーワードからヒットさせたいのかを考えつつ、文章を組み立てましょう。">
+
+	<meta name="robots" content="index,follow">
+
+	
+
+	<!-- Css -->
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/default.css" >
+	<link rel="stylesheet" type="text/css" href="/system_files/layout/6/style.css" >
+	<!-- #588 -->
+			<link rel="stylesheet" type="text/css" href="/files/design/tmplate/10/css/design.css?cashe=" >
+	
+	
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/page.css" >
+
+			<!-- PJX2 2013-02-04 matuuchi 下書き設定 -->
+				
+		<title>小動物管理センター｜野犬等の保護・収容及び巡回活動｜犬・ネコの収容及び応急措置｜譲渡会の実施｜犬・ネコの適正な飼養管理の啓発活動</title>
+			<link rel="stylesheet" type="text/css" href="/css/js/jquery/sexy_alert/sexyalertbox.css" >
+
+    <script type="text/javascript">
+    <!--
+        var BaseUrl = '/';
+        //kondo ua_log
+        var Serial = "0bdd6fc68d680bc0e70ea5bb041d6772";
+        var closeUserName  = "";
+        var closeUserId    = "";
+        var public_uuid    = "";
+        
+        var UserActionObject = {};
+        
+        var $jq = '';
+
+            -->
+    </script>
+
+    <!-- Jquery関連 -->
+	<script type="text/javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery/jquery-ui-1.8.6.custom.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.cookie.js"></script>
+
+                <script type="text/javascript" src="/js/jquery/jquery-2.1.1.min.js"></script>
+        <script type="text/javascript">
+        <!--
+            // jQuery 2.1.1に対してエイリアスを設定
+            $jq = jQuery.noConflict(true);
+        -->
+        </script>
+        <script type="text/JavaScript">
+	<!--
+    
+    //uuid取得
+    var $cookie = $.cookie('__ds_uuid');
+    public_uuid = $cookie;
+
+    //CS
+    //異なるバージョンでつけたイベントが取得できないため、ua_logではなくget_uuidに記述
+    $(window).load(function(){
+        setTimeout(function(){
+            $('div,img').each(function(index){
+                var events = $(this).data("events");
+                if(events !== undefined && events !== null){
+                    if(events.click !== undefined){
+                        $(this).bind('click tap',function(e){
+                            if(typeof $jq.getClick == 'function'){
+                                $jq.getClick(e);
+                            }
+                        });
+                    }
+                }
+            });
+        }, 500);
+    });
+    
+    if($cookie == undefined) {
+
+        var ua  = window.navigator.userAgent;
+
+        //ios8のsafariでクロスドメインエラーになるため、自身で生成する
+        if(ua.match(/OS\s8\_/) && ua.match(/Safari/)) {
+
+            // 生成する文字列の長さ
+            var l = 9;
+
+            // 生成する文字列に含める文字セット
+            var c = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            var cl = c.length;
+            var r = "";
+            for(var i=0; i<l; i++) {
+             r += c[Math.floor(Math.random()*cl)];
+            }
+            //DS
+            //var rep_uuid = "ios8safari" + r + $.now();
+            //CS
+            var date = new Date();
+            var time = date.getTime() ;
+
+            var rep_uuid = "ios8safari" + r + time;
+
+            $.cookie("__ds_uuid",rep_uuid, {
+                expires:730,
+                //path: '/',
+                path : BaseUrl
+            });
+
+            $cookie = $.cookie('__ds_uuid');
+            public_uuid = $cookie;
+
+        }else{
+
+            $.ajax( {
+                type: 'GET',
+                url : 'https://9e2xkh9f1e.execute-api.ap-northeast-1.amazonaws.com/v1/getUniqueUserId',
+                crossDomain:true,
+                async:false,
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function(data) {
+                    var uuid = JSON.stringify(data['body']['uuid']);
+
+                    var rep_uuid = uuid.replace(/\"/g,'');
+
+                    $.cookie("__ds_uuid",rep_uuid, {
+                        expires:730,
+                        //path: '/',
+                        path : BaseUrl
+                    });
+
+                    $cookie = $.cookie('__ds_uuid');
+                    public_uuid = $cookie;
+                },
+                error:function(data) {
+                    
+                }
+            });
+
+        }
+    }
+    
+-->
+</script>
+                    <script type="text/javascript" src="/js/my_js/ua_log.js"></script>
+            
+	<script type="text/javascript">
+	<!--
+		
+		//#1207
+					var FullUrl = 'http://tanabe-animal.jp/';
+		
+		var google = "";
+		var site_lang = '';
+		var lang_dir = '';
+		
+		window.onload = function() {
+			$('a[href^="tel:"]').bind('click', function() {
+				if(typeof gtag !== "undefined") {
+					gtag('event', 'tap', {
+						'event_category': "mobile",
+						'event_label': "tel"
+					});
+				}
+
+				if(typeof ga !== "undefined") {
+					ga('send', 'event', "mobile", "tap", "tel");
+				}
+
+				if(typeof _gaq !== "undefined") {
+					_gaq.push(['_trackEvent', 'mobile', 'tap', 'tel']);
+				}
+			});
+		};
+		
+	-->
+	</script>
+
+	<!-- #1208 -->
+			<link rel="stylesheet" type="text/css" href="/css/public/pc/font01.css" >
+	
+	<!-- ブロックタイプ別 JS & CSS 読み込み -->
+	
+
+
+<link rel="stylesheet" type="text/css" href="/css/public/parts/header_slide/pc.css" ><script type="text/javascript" src="/js/jquery/thickbox/thickbox.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/thickbox/thickbox.css" >
+<script type="text/javascript" src="/js/jquery/cycle/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/js/jquery/jcarousel/jquery.jcarousel.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/jcarousel/tango/skin.css" >
+<link rel="stylesheet" type="text/css" href="/css/js/jquery/jcarousel/tango/jquery.jcarousel.css" >
+<script type="text/javascript" src="/js/jquery/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/js/jquery/imgpreview/imgpreview.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/public/contents_type/data/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/image/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/text/pc.css" ><link rel="stylesheet" type="text/css" href="/css/public/contents_type/banner/pc.css" >
+	<link rel="stylesheet" type="text/css" href="/css/public/pc/.css" >
+
+	<!--  ファビコン  -->
+			<link rel="shortcut icon" href="/files/favicon.ico?cache=">
+	
+
+    
+					<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	
+	
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7069798-26");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<meta name="google-site-verification" content="rsqQsWlmMCuVayXxv8vYGCeQY10RGkBIlCTydCyURus" />
+
+	    	
+    
+
+					<link rel="canonical" href="">
+		<!-- #1328 -->
+			<div id="fadepanel" style="position:absolute;top:0px;left:0px;background:#FFF;width:100%;height:100%;z-index:9999;"></div>
+					
+				<script type="text/javascript">
+				<!--
+					$(function(){
+						$('#fadepanel').height($("body").height()).fadeOut(2000,function(){
+							$(this).hide();
+						});
+					});
+				  -->
+				</script>
+			
+			</head>
+
+<body class="ja" data-page-id="1">
+
+
+
+
+<!-- #835 2013/06/26 y-ichinose -->
+	
+
+			
+			<div id="fb-root"></div>
+		
+		<!-- #898 2013/10/17 M-Egawa -->
+				
+	<script type="text/javascript">
+		<!--
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			// #754 2013/05/09 M-Egawa
+			js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		-->
+	</script>
+			
+		
+		
+	<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+		
+	
+	
+	<div id="Wrapper">
+		
+		<div id="MainPanel">
+			<div id="LeftArea"></div>
+			<div id="CenterArea">
+				<div id="MainArea" style="margin:0px;padding:0px;">
+					<div id="ContentsArea" style="float:none;height:auto;width:100%;padding:0px;margin:0px;">
+						
+<style type="text/css">
+	body{
+		background-image:none;
+		background-color:#FFF;
+	
+	}
+</style>		
+
+
+<div style="width:100%;text-align:center;background:#FFF;color:#333;">
+	<div style="width:700px;margin:auto;text-align:left;">
+		<br />
+		<br />
+		<div style="margin-bottom:10px;">
+			<img src="/css/public/image/error-trans.png" alt="error-trans.png" >
+		</div>
+
+		<div style="margin-bottom:10px;">
+			<div>お探しのページは、削除されたか、名前が変更された可能性があります。<br />
+アドレスバーに直接アドレスを入力された場合は、アドレスが正しく入力されているかもう一度ご確認下さい。<br />
+ブラウザの再読込みを行ってもこのページが表示される場合は、下記サイトマップからお求めのページをお探し下さい。</div>
+
+		</div>
+
+		<link rel="stylesheet" type="text/css" href="/css/public/contents_type/etc/pc.css" >
+					<div class="type023sitemap clear">
+				<ul class='normal clear'><li><a href='/publics/index/1'><span style='display:block;margin-left:0px;'>ト&#x200B;ッ&#x200B;プ&#x200B;ペ&#x200B;ー&#x200B;ジ&#x200B;</span></a></li><li style='margin-right:0%;'><a href='/publics/index/180'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/17'><span style='display:block;margin-left:15px;'>・中&#x200B;央&#x200B;譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a></li><li><a href='/publics/index/82'><span style='display:block;margin-left:15px;'>・中&#x200B;村&#x200B;譲&#x200B;渡&#x200B;決&#x200B;定&#x200B;情&#x200B;報&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/104'><span style='display:block;margin-left:0px;'>ア&#x200B;ニ&#x200B;マ&#x200B;ル&#x200B;ス&#x200B;テ&#x200B;ー&#x200B;シ&#x200B;ョ&#x200B;ン&#x200B;</span></a></li><li style='margin-right:0%;'><a href='/publics/index/67'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;犬&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/164'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;犬&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/112'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;猫&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/166'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;猫&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/68'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;犬&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/172'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/121'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;猫&#x200B;情&#x200B;報&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/173'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/80'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;犬&#x200B;情&#x200B;報&#x200B;（&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/168'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;犬&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/114'><span style='display:block;margin-left:0px;'>収&#x200B;容&#x200B;猫&#x200B;情&#x200B;報&#x200B;（&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/170'><span style='display:block;margin-left:15px;'>・引&#x200B;取&#x200B;猫&#x200B;</span></a></li></ul></li><li style='margin-right:0%;'><a href='/publics/index/81'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;犬&#x200B;情&#x200B;報&#x200B;(&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/174'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li><div style='clear:both;' class='nottag'><span>&nbsp;</span></div><li><a href='/publics/index/107'><span style='display:block;margin-left:0px;'>譲&#x200B;渡&#x200B;対&#x200B;象&#x200B;猫&#x200B;情&#x200B;報&#x200B;(&#x200B;中&#x200B;村&#x200B;）&#x200B;</span></a><ul class='sub_normal clear clear'><li><a href='/publics/index/175'><span style='display:block;margin-left:15px;'>・条&#x200B;件&#x200B;付&#x200B;き&#x200B;譲&#x200B;渡&#x200B;</span></a></li></ul></li></ul>
+			</div>
+				
+		<div class="line_dashed" style="margin:20px 0px;"></div>
+		<div>
+			<div><b>中央小動物管理センター</b></div>
+			<div>〒780-8021 高知県高知市孕東町56-2 </div>
+			<div>TEL：088-831-7939　FAX：088-831-7953</div>
+		</div>
+		<br />
+		<br />
+	</div>
+</div>
+
+					</div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+			<div id="RiteArea"></div>
+			
+			<div style="clear:both;"></div>
+		</div>
+							<div id="caria_change_bar" style="display:none;">
+					<!-- #621 -->
+					<span>表示：</span>
+					<span><a href="/%0_a/smart_recirect/">スマートフォン</a></span>
+					<span>|</span>
+					<span><b>パソコン</b></span>
+				</div>
+					</div>
+		<div id="AddEventDiv">
+			<input id="admin_flg" type="hidden" value="">
+			<input id="design_flg" type="hidden" value="0">
+			<input id="caria" type="hidden" value="pc">
+			
+													<input id="title_corner_type" type="hidden" value="round">
+			<input id="img_preserve_flg" type="hidden" value="0">
+
+			<script type="text/javascript" src="/js/jquery/marquee.js"></script>
+			<script type="text/javascript" src="/js/jquery/jquery.corner.js"></script>
+			
+												<script type="text/javascript" src="/js/my_js/pc_onload.js"></script>
+								
+				
+			
+			<!--[if lt IE 7]>
+				<script type="text/javascript" src="/js/pngfix/jquery.pngfix.js"></script>					
+			<![endif]-->
+		</div>
+		
+				
+		
+		
+		
+		<script type="text/javascript" src="/js/my_js/twitter.fix.js"></script>
+
+		<!-- #1209 2014/01/28 M-Egawa -->
+					
+				<script type="text/javascript">
+				
+					var login = "";
+				
+				<!--
+					$(
+						function ()
+						{
+							if(login == "true") {
+							} else {
+								if(navigator.cookieEnabled) {
+
+									// 非同期通信処理
+									//#1247 2014-03-04 y-ichinose
+									$.ajax
+									({
+										type       : 'GET',
+										url        : FullUrl + 'publics/AddCount/'
+									});
+								}
+							}
+						}
+					);
+				//-->
+				</script>
+			
+		
+	</body>
+
+</html>

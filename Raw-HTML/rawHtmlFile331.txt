@@ -1,0 +1,753 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>404 - page not found</title>
+<link rel='canonical' href='https://www.idausa.org/about/404-page-not-found/'>
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="" />
+<meta property="og:title" content="404 - page not found" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.idausa.org/about/404-page-not-found/">
+<meta property="og:site_name" content="IDA USA" />
+<meta name="twitter:title" content="404 - page not found" />
+<meta name="twitter:site" content="@IDAUSA" />
+<meta name="twitter:creator" content="@IDAUSA" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="https://www.idausa.org/about/404-page-not-found/">
+
+<link rel="stylesheet" href="https://idausa.lattecdn.com/assets/css/app.css">
+<link rel="stylesheet" href="https://idausa.lattecdn.com/assets/css/page.css">
+
+<link rel="shortcut icon" href="https://idausa.lattecdn.com/assets/images/favicon.ico" />
+
+<base href="https://www.idausa.org/" />
+
+<style>
+	/* special rules to revert order in donation page for mobile */
+	@media screen and (max-width: 44.9375em) {
+	    .donation-content .row{
+	        display: flex;
+	        flex-direction: column-reverse;
+	    }
+	    .donation-content .donation-content__sidebar {
+	        margin-top: 0;
+	        margin-bottom: 2rem;
+	    }
+	    .donation-content .donation-box {
+	        margin-top: 1rem;
+	    }
+	}
+	
+	#survey-errors {
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+	    color: #FA886B;
+	    font-weight: 700;
+	}
+</style>
+<style>
+	/*
+	.post-box__content a{
+		color: #fff;
+	}
+	.post-box__content a:hover{
+		color: #2D2378;
+	}
+	*/
+	a .blog-list-full__text{
+		color: #444;
+	}
+	
+	@media print{
+		a[href]:after {
+	    	content: " ";
+		}
+		.main-menu-fixed{
+			position: relative;
+		}
+		.header-campaign__data h1{
+			position: relative;
+		    color: #FFFFFF;
+		    margin-top: 6rem;
+		    margin-left: 2rem;
+		    width: 28rem;
+		    left: 0;
+		}
+		.header-menu-third__title{
+			padding-left: 2rem;
+		}
+	}
+	
+</style>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '199179424249915'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=199179424249915&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Hotjar Tracking Code -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1645044,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 942723332 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-942723332"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-942723332');
+</script>
+
+
+
+	    <style>
+	    	.header-menu-third__title a {
+			    color: #fff;
+			}
+	    </style>
+    </head>
+    <body>
+        
+<div class="top-bar-mobile hide-for-medium" data-responsive-toggle="main-menu" data-hide-for="medium">
+	<div class="top-bar-mobile__first">
+		<form id="search_form_id" action="https://www.idausa.org/search-result/" method="get">
+	<input id="searchField" type="text" placeholder="Search" name="search_field" value="">
+	<input type="hidden" name="id" value="2433" />
+	<button type="submit" class="search-button">&nbsp;</button>
+	<div class="forceclear">&nbsp;</div>    
+</form>		
+	</div>
+	<div class="top-bar-mobile__second">
+		<a class="mobile-menu-logo" href="https://www.idausa.org/"><img src="https://idausa.lattecdn.com/assets/images/logo-header-mobile.png" /></a>
+		<a class="mobile-menu-donate" href="https://www.idausa.org/about/donation/" target="_blank">DONATE</a>
+		<button class="mobile-menu-icon" type="button" data-toggle>&nbsp;</button>
+		<div class="forceclear">&nbsp;</div>
+	</div>
+</div>
+<div id="top"></div>
+        <div id="main-menu" class="main-menu-fixed">
+	<div class="header-menu">
+		<div class="top-bar row column">
+			<div class="top-bar-left">
+	<a href="https://www.idausa.org/" class="top-bar__logo"><img src="https://idausa.lattecdn.com/assets/images/ida-logo.svg" /></a>
+</div>
+<div class="top-bar-right">
+	<ul class="vertical medium-horizontal menu">
+		<li class="">
+			<a href="https://www.idausa.org/" style="font-size: 14px">Home</a>
+		</li>
+		<li class="current">
+			<a href="https://www.idausa.org/about/" style="font-size: 14px">About</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/campaign/" style="font-size: 14px">Campaigns</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/sanctuaries/" style="font-size: 14px">Sanctuaries</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/news/" style="font-size: 14px">News</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/take-action/" style="font-size: 14px">Take Action</a>
+		</li>		
+		<li><a href="http://shop.idausa.org" target="_blank" style="font-size: 14px">Shop</a></li>
+	</ul>
+	<!--a href="https://secure2.convio.net/ida/site/Donation2?df_id=5081&5081.donation=form1" class="top-bar__donate">DONATE</a-->
+	<a href="https://www.idausa.org/about/donation/" class="top-bar__donate">DONATE</a>
+	<a href="#" class="search-button js-show-search-bar"></a>
+</div>
+		</div>
+		<div class="search-bar-desktop header-menu-search">
+			<div class="row column">
+				<form id="search_form_id" action="https://www.idausa.org/search-result/" method="get">
+	<button type="submit" class="search-button">&nbsp;</button>
+	<input id="searchField" class="dekstop_search_field" type="text" placeholder="Search" name="search_field" value="">
+	<input type="hidden" name="id" value="2433" />
+	<div class="forceclear">&nbsp;</div>    
+</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="main-menu-fixed-gap">&nbsp;</div>
+
+
+
+        
+		
+		
+		
+		<div class="header-menu-sub">
+			<div class="header-menu-sub__inner">
+				
+					<ul class="menu menu-slider-lt"><li class="first"><a href="about-ida/" title="About" >About</a></li>
+<li><a href="about/support-ida/" title="Support" >Support</a></li>
+<li><a href="about/contacts/" title="Contact Us" >Contact Us</a></li>
+<li><a href="about/financial-statements/" title="Financial Statements" >Financial Statements</a></li>
+<li><a href="about/intern/" title="Intern" >Intern</a></li>
+<li><a href="about/volunteer/" title="Volunteer" >Volunteer</a></li>
+<li><a href="about/employment/" title="employment" >employment</a></li>
+<li><a href="about/team/" title="Team" >Team</a></li>
+<li class="last"><a href="about/board-of-directors/" title="Board" >Board</a></li>
+</ul>
+				
+				
+			</div>
+		</div>
+        
+        <div class="page-content row-padding--large">
+	<div class="row column">
+	<h1>Page not found...</h1>
+<p>We're sorry, but we can't find the page you're looking for.</p>
+<p>Try the search bar above, or start from our <a href="http://www.idausa.org/"><strong>home​page</strong></a>​.</p>
+<p>Please&nbsp;<strong><a href="mailto:webtech@idausa.org?subject=Website Issue">click here to report an issue</a></strong></p>
+<p>&nbsp;</p>
+	</div>
+</div>
+        
+		
+		<div class="footer-box">
+	<div class="row row-padding--small">
+		<div class="column large-8">
+			<ul class="vertical medium-horizontal menu">
+				<li><a href="https://www.idausa.org/about/contacts/">Contacts</a></li>
+				<li><a href="https://www.idausa.org/about/privacy-policy/">Privacy</a></li>
+				<li><a href="https://www.idausa.org/about/privacy-policy/">Terms of Use</a></li>
+			</ul>
+		</div>
+		<div class="column large-3 large-offset-1">
+			<div class="footer-box__support">
+				<p>ANIMAL ACTIVIST SUPPORT LINE</p>
+				<p class="font-color--yellow">
+					1 800 705 0425
+				</p>
+				<p>
+					<a href="http://www.idausa.org/campaign/sustainable-activism/animal-activist-helpline/" class="button--yellow">ASK FOR CARE</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="row row-padding--small">
+		<div class="footer-box__social column large-4 medium-12 large-push-4 text-center">
+			<a href="https://www.facebook.com/indefenseofanimals/" target="_blank"><div class="social-icon social--facebook"></div></a>
+			<a href="https://twitter.com/IDAUSA" target="_blank"><div class="social-icon social--twitter"></div></a>
+			<a href="https://www.instagram.com/ida_international/" target="_blank"><div class="social-icon social--instagram"></div></a>
+			<!--
+			<a href="https://www.youtube.com/user/IDAUSAVideo" target="_blank"><div class="social-icon social--youtube"></div></a>
+			<a href="https://plus.google.com/100339412528187685718/posts" target="_blank"><div class="social-icon social--googleplus"></div></a>
+			//-->
+		</div>
+		
+		<div class="footer-box__copy column large-4 large-pull-4 medium-6">
+			<p class="footer__address">
+				IN DEFENSE OF ANIMALS<br />
+				3010 KERNER BLVD<br />
+				SAN RAFAEL<br />
+				CA 94901<br />
+				415-448-0048
+			</p>
+			<p class="">&copy; 2019 In defense of animals</p>
+		</div>
+		<div class="footer-box__credits column large-4 medium-6">
+			<a href="http://www.lattecreative.com/?utm_source=idausa&utm_medium=site&utm_campaign=directlink" class="sign_latte" target="_blank"></a><br />
+			<a href="https://www.idausa.org/about/404-page-not-found/#top" style="font-size: 15px">Return to top</a>
+		</div>
+	</div>
+</div>
+
+<div class="global-popup" onclick="closePopup();"></div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51146141-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="https://idausa.lattecdn.com/assets/js/app.js"></script>
+<!--
+<script src="/assets/js/luminateExtend.js?1520846365"></script>
+<script src="/assets/js/luminateExtend-idausa.js?1583332469"></script>
+-->
+
+<script>
+/*
+	// form variables name
+
+	form_input = {};
+	form_input.email = 'Email';
+	form_input.first_name = 'First Name';
+	form_input.last_name = 'Last Name';
+	form_input.street1 = 'Address';
+	form_input.city = 'City';
+	form_input.phone = 'Phone Number';
+	form_input.zip = 'Zip / Postal code';
+	form_input.thanks_message = 'Thanks for joining. You should receive your first issue of the e-newsletter shortly.';
+
+	// create social networking pop-ups
+	(function() {
+		// link selector and pop-up window size
+		var Config = {
+			Link: "a.social-js",
+			Width: 500,
+			Height: 500
+		};
+	
+		// add handler links
+	
+		$('a.js-social-share').click(function(e){
+	
+			e = (e ? e : window.event);
+			var t = (e.currentTarget ? e.currentTarget : $(e).closest('a'));
+	
+	
+			// popup position
+			var
+				px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
+				py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+	
+			// open popup
+			var popup = window.open(t.href, "social",
+				"width="+Config.Width+",height="+Config.Height+
+				",left="+px+",top="+py+
+				",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+			if (popup) {
+				popup.focus();
+				if (e.preventDefault) e.preventDefault();
+				e.returnValue = false;
+			}
+	
+			return !!popup;
+	
+		});
+	
+	
+	}());
+
+	
+*/
+</script>
+
+
+		
+		<div class="generic-share">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.idausa.org/about/404-page-not-found/" target="_blank" class="js-social-share"><div class="share-icon share--facebook"></div></a>
+<a href="https://twitter.com/intent/tweet?url=https://www.idausa.org/about/404-page-not-found/&text=" target="_blank" class="js-social-share"><div class="share-icon share--twitter"></div></a>
+<!--<a href="https://plus.google.com/share?url=https://www.idausa.org/about/404-page-not-found/" target="_blank" class="js-social-share"><div class="share-icon share--googleplus"></div></a>//-->
+
+</div>
+
+		
+	</body>
+</html>
+				    <!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>404 - page not found</title>
+<link rel='canonical' href='https://www.idausa.org/about/404-page-not-found/'>
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="" />
+<meta property="og:title" content="404 - page not found" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.idausa.org/about/404-page-not-found/">
+<meta property="og:site_name" content="IDA USA" />
+<meta name="twitter:title" content="404 - page not found" />
+<meta name="twitter:site" content="@IDAUSA" />
+<meta name="twitter:creator" content="@IDAUSA" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:url" content="https://www.idausa.org/about/404-page-not-found/">
+
+<link rel="stylesheet" href="https://idausa.lattecdn.com/assets/css/app.css">
+<link rel="stylesheet" href="https://idausa.lattecdn.com/assets/css/page.css">
+
+<link rel="shortcut icon" href="https://idausa.lattecdn.com/assets/images/favicon.ico" />
+
+<base href="https://www.idausa.org/" />
+
+<style>
+	/* special rules to revert order in donation page for mobile */
+	@media screen and (max-width: 44.9375em) {
+	    .donation-content .row{
+	        display: flex;
+	        flex-direction: column-reverse;
+	    }
+	    .donation-content .donation-content__sidebar {
+	        margin-top: 0;
+	        margin-bottom: 2rem;
+	    }
+	    .donation-content .donation-box {
+	        margin-top: 1rem;
+	    }
+	}
+	
+	#survey-errors {
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+	    color: #FA886B;
+	    font-weight: 700;
+	}
+</style>
+<style>
+	/*
+	.post-box__content a{
+		color: #fff;
+	}
+	.post-box__content a:hover{
+		color: #2D2378;
+	}
+	*/
+	a .blog-list-full__text{
+		color: #444;
+	}
+	
+	@media print{
+		a[href]:after {
+	    	content: " ";
+		}
+		.main-menu-fixed{
+			position: relative;
+		}
+		.header-campaign__data h1{
+			position: relative;
+		    color: #FFFFFF;
+		    margin-top: 6rem;
+		    margin-left: 2rem;
+		    width: 28rem;
+		    left: 0;
+		}
+		.header-menu-third__title{
+			padding-left: 2rem;
+		}
+	}
+	
+</style>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '199179424249915'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=199179424249915&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Hotjar Tracking Code -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1645044,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 942723332 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-942723332"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-942723332');
+</script>
+
+
+
+	    <style>
+	    	.header-menu-third__title a {
+			    color: #fff;
+			}
+	    </style>
+    </head>
+    <body>
+        
+<div class="top-bar-mobile hide-for-medium" data-responsive-toggle="main-menu" data-hide-for="medium">
+	<div class="top-bar-mobile__first">
+		<form id="search_form_id" action="https://www.idausa.org/search-result/" method="get">
+	<input id="searchField" type="text" placeholder="Search" name="search_field" value="">
+	<input type="hidden" name="id" value="2433" />
+	<button type="submit" class="search-button">&nbsp;</button>
+	<div class="forceclear">&nbsp;</div>    
+</form>		
+	</div>
+	<div class="top-bar-mobile__second">
+		<a class="mobile-menu-logo" href="https://www.idausa.org/"><img src="https://idausa.lattecdn.com/assets/images/logo-header-mobile.png" /></a>
+		<a class="mobile-menu-donate" href="https://www.idausa.org/about/donation/" target="_blank">DONATE</a>
+		<button class="mobile-menu-icon" type="button" data-toggle>&nbsp;</button>
+		<div class="forceclear">&nbsp;</div>
+	</div>
+</div>
+<div id="top"></div>
+        <div id="main-menu" class="main-menu-fixed">
+	<div class="header-menu">
+		<div class="top-bar row column">
+			<div class="top-bar-left">
+	<a href="https://www.idausa.org/" class="top-bar__logo"><img src="https://idausa.lattecdn.com/assets/images/ida-logo.svg" /></a>
+</div>
+<div class="top-bar-right">
+	<ul class="vertical medium-horizontal menu">
+		<li class="">
+			<a href="https://www.idausa.org/" style="font-size: 14px">Home</a>
+		</li>
+		<li class="current">
+			<a href="https://www.idausa.org/about/" style="font-size: 14px">About</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/campaign/" style="font-size: 14px">Campaigns</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/sanctuaries/" style="font-size: 14px">Sanctuaries</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/news/" style="font-size: 14px">News</a>
+		</li>
+		<li class="">
+			<a href="https://www.idausa.org/take-action/" style="font-size: 14px">Take Action</a>
+		</li>		
+		<li><a href="http://shop.idausa.org" target="_blank" style="font-size: 14px">Shop</a></li>
+	</ul>
+	<!--a href="https://secure2.convio.net/ida/site/Donation2?df_id=5081&5081.donation=form1" class="top-bar__donate">DONATE</a-->
+	<a href="https://www.idausa.org/about/donation/" class="top-bar__donate">DONATE</a>
+	<a href="#" class="search-button js-show-search-bar"></a>
+</div>
+		</div>
+		<div class="search-bar-desktop header-menu-search">
+			<div class="row column">
+				<form id="search_form_id" action="https://www.idausa.org/search-result/" method="get">
+	<button type="submit" class="search-button">&nbsp;</button>
+	<input id="searchField" class="dekstop_search_field" type="text" placeholder="Search" name="search_field" value="">
+	<input type="hidden" name="id" value="2433" />
+	<div class="forceclear">&nbsp;</div>    
+</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="main-menu-fixed-gap">&nbsp;</div>
+
+
+
+        
+		
+		
+		
+		<div class="header-menu-sub">
+			<div class="header-menu-sub__inner">
+				
+					<ul class="menu menu-slider-lt"><li class="first"><a href="about-ida/" title="About" >About</a></li>
+<li><a href="about/support-ida/" title="Support" >Support</a></li>
+<li><a href="about/contacts/" title="Contact Us" >Contact Us</a></li>
+<li><a href="about/financial-statements/" title="Financial Statements" >Financial Statements</a></li>
+<li><a href="about/intern/" title="Intern" >Intern</a></li>
+<li><a href="about/volunteer/" title="Volunteer" >Volunteer</a></li>
+<li><a href="about/employment/" title="employment" >employment</a></li>
+<li><a href="about/team/" title="Team" >Team</a></li>
+<li class="last"><a href="about/board-of-directors/" title="Board" >Board</a></li>
+</ul>
+				
+				
+			</div>
+		</div>
+        
+        <div class="page-content row-padding--large">
+	<div class="row column">
+	<h1>Page not found...</h1>
+<p>We're sorry, but we can't find the page you're looking for.</p>
+<p>Try the search bar above, or start from our <a href="http://www.idausa.org/"><strong>home​page</strong></a>​.</p>
+<p>Please&nbsp;<strong><a href="mailto:webtech@idausa.org?subject=Website Issue">click here to report an issue</a></strong></p>
+<p>&nbsp;</p>
+	</div>
+</div>
+        
+		
+		<div class="footer-box">
+	<div class="row row-padding--small">
+		<div class="column large-8">
+			<ul class="vertical medium-horizontal menu">
+				<li><a href="https://www.idausa.org/about/contacts/">Contacts</a></li>
+				<li><a href="https://www.idausa.org/about/privacy-policy/">Privacy</a></li>
+				<li><a href="https://www.idausa.org/about/privacy-policy/">Terms of Use</a></li>
+			</ul>
+		</div>
+		<div class="column large-3 large-offset-1">
+			<div class="footer-box__support">
+				<p>ANIMAL ACTIVIST SUPPORT LINE</p>
+				<p class="font-color--yellow">
+					1 800 705 0425
+				</p>
+				<p>
+					<a href="http://www.idausa.org/campaign/sustainable-activism/animal-activist-helpline/" class="button--yellow">ASK FOR CARE</a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="row row-padding--small">
+		<div class="footer-box__social column large-4 medium-12 large-push-4 text-center">
+			<a href="https://www.facebook.com/indefenseofanimals/" target="_blank"><div class="social-icon social--facebook"></div></a>
+			<a href="https://twitter.com/IDAUSA" target="_blank"><div class="social-icon social--twitter"></div></a>
+			<a href="https://www.instagram.com/ida_international/" target="_blank"><div class="social-icon social--instagram"></div></a>
+			<!--
+			<a href="https://www.youtube.com/user/IDAUSAVideo" target="_blank"><div class="social-icon social--youtube"></div></a>
+			<a href="https://plus.google.com/100339412528187685718/posts" target="_blank"><div class="social-icon social--googleplus"></div></a>
+			//-->
+		</div>
+		
+		<div class="footer-box__copy column large-4 large-pull-4 medium-6">
+			<p class="footer__address">
+				IN DEFENSE OF ANIMALS<br />
+				3010 KERNER BLVD<br />
+				SAN RAFAEL<br />
+				CA 94901<br />
+				415-448-0048
+			</p>
+			<p class="">&copy; 2019 In defense of animals</p>
+		</div>
+		<div class="footer-box__credits column large-4 medium-6">
+			<a href="http://www.lattecreative.com/?utm_source=idausa&utm_medium=site&utm_campaign=directlink" class="sign_latte" target="_blank"></a><br />
+			<a href="https://www.idausa.org/about/404-page-not-found/#top" style="font-size: 15px">Return to top</a>
+		</div>
+	</div>
+</div>
+
+<div class="global-popup" onclick="closePopup();"></div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51146141-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="https://idausa.lattecdn.com/assets/js/app.js"></script>
+<!--
+<script src="/assets/js/luminateExtend.js?1520846365"></script>
+<script src="/assets/js/luminateExtend-idausa.js?1583332469"></script>
+-->
+
+<script>
+/*
+	// form variables name
+
+	form_input = {};
+	form_input.email = 'Email';
+	form_input.first_name = 'First Name';
+	form_input.last_name = 'Last Name';
+	form_input.street1 = 'Address';
+	form_input.city = 'City';
+	form_input.phone = 'Phone Number';
+	form_input.zip = 'Zip / Postal code';
+	form_input.thanks_message = 'Thanks for joining. You should receive your first issue of the e-newsletter shortly.';
+
+	// create social networking pop-ups
+	(function() {
+		// link selector and pop-up window size
+		var Config = {
+			Link: "a.social-js",
+			Width: 500,
+			Height: 500
+		};
+	
+		// add handler links
+	
+		$('a.js-social-share').click(function(e){
+	
+			e = (e ? e : window.event);
+			var t = (e.currentTarget ? e.currentTarget : $(e).closest('a'));
+	
+	
+			// popup position
+			var
+				px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
+				py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+	
+			// open popup
+			var popup = window.open(t.href, "social",
+				"width="+Config.Width+",height="+Config.Height+
+				",left="+px+",top="+py+
+				",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+			if (popup) {
+				popup.focus();
+				if (e.preventDefault) e.preventDefault();
+				e.returnValue = false;
+			}
+	
+			return !!popup;
+	
+		});
+	
+	
+	}());
+
+	
+*/
+</script>
+
+
+		
+		<div class="generic-share">
+	<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.idausa.org/about/404-page-not-found/" target="_blank" class="js-social-share"><div class="share-icon share--facebook"></div></a>
+<a href="https://twitter.com/intent/tweet?url=https://www.idausa.org/about/404-page-not-found/&text=" target="_blank" class="js-social-share"><div class="share-icon share--twitter"></div></a>
+<!--<a href="https://plus.google.com/share?url=https://www.idausa.org/about/404-page-not-found/" target="_blank" class="js-social-share"><div class="share-icon share--googleplus"></div></a>//-->
+
+</div>
+
+		
+	</body>
+</html>
+				    

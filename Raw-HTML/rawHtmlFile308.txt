@@ -1,0 +1,2017 @@
+<!DOCTYPE html>
+<html lang="es-ES"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Versus - ">
+<meta name="msvalidate.01" content="8E7677E2D2FF662960583BB93AAB6DFD" />
+<meta name="yandex-verification" content="a9925fb0d78380c4" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://versus.lanacion.com.py/xmlrpc.php">
+<title>Versus / El exclusivo regalo de Luis Suárez para Diego Churín</title>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta property="og:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#039;charrúa&#039; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#039;Popi&#039; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas Eliminatorias Sudamericanas. Por si todo eso fuera poco, la camiseta está autografiada por &#039;Lucho&#039;. &#039;Para Diego Churín, con cariño: Luis Suárez&#039;, escribió el jugador actualmente en el Atlético de Madrid. &#039;¿Me dejás presumir &#039;Popi&#039; Muñoz? Muchas gracias por esto y tantas cosas más amigo&#039;, indicó" />
+<meta property="og:url" content="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:site_name" content="Versus" />
+<meta property="article:tag" content="Destacados" />
+<meta property="article:section" content="Curiosidades" />
+<meta property="article:published_time" content="2020-10-16T18:24:12-03:00" />
+<meta property="article:modified_time" content="2020-10-16T18:28:13-03:00" />
+<meta property="og:updated_time" content="2020-10-16T18:28:13-03:00" />
+<meta property="og:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Versus / El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta property="og:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas [...]Leer más..." />
+<meta property="og:url" content="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:site_name" content="Versus" />
+<meta property="article:tag" content="Destacados" />
+<meta property="article:section" content="Curiosidades" />
+<meta property="article:published_time" content="2020-10-16T21:24:12-03:00" />
+<meta property="article:modified_time" content="2020-10-16T21:28:13-03:00" />
+<meta property="og:updated_time" content="2020-10-16T21:28:13-03:00" />
+<meta property="og:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<meta property="og:image:secure_url" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<meta property="og:image:width" content="1266" />
+<meta property="og:image:height" content="905" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas [...]Leer más..." />
+<meta name="twitter:title" content="Versus / El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta name="twitter:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://versus.lanacion.com.py/#organization","name":"","url":"https://versus.lanacion.com.py/","sameAs":[]},{"@type":"WebSite","@id":"https://versus.lanacion.com.py/#website","url":"https://versus.lanacion.com.py/","name":"Versus","publisher":{"@id":"https://versus.lanacion.com.py/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://versus.lanacion.com.py/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage","url":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/","inLanguage":"es-ES","name":"Versus / El exclusivo regalo de Luis Su\u00e1rez para Diego Chur\u00edn","isPartOf":{"@id":"https://versus.lanacion.com.py/#website"},"image":{"@type":"ImageObject","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage","url":"https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg","width":1266,"height":905},"primaryImageOfPage":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage"},"datePublished":"2020-10-16T21:24:12-03:00","dateModified":"2020-10-16T21:28:13-03:00"},{"@type":"Article","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#article","isPartOf":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage"},"author":{"@id":"https://versus.lanacion.com.py/versus/author/daniel/#author"},"headline":"El exclusivo regalo de Luis Su\u00e1rez para Diego Chur\u00edn","datePublished":"2020-10-16T21:24:12-03:00","dateModified":"2020-10-16T21:28:13-03:00","commentCount":0,"mainEntityOfPage":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage","publisher":{"@id":"https://versus.lanacion.com.py/#organization"},"image":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage"},"keywords":"Destacados","articleSection":"Curiosidades"},{"@type":["Person"],"@id":"https://versus.lanacion.com.py/versus/author/daniel/#author","name":"Daniel Miranda","image":{"@type":"ImageObject","@id":"https://versus.lanacion.com.py/#authorlogo","url":"https://secure.gravatar.com/avatar/d023026f5aaa65921cdcf727e195f244?s=96&d=mm&r=g","caption":"Daniel Miranda"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; Feed" href="https://versus.lanacion.com.py/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; RSS de los comentarios" href="https://versus.lanacion.com.py/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; El exclusivo regalo de Luis Suárez para Diego Churín RSS de los comentarios" href="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/versus.lanacion.com.py\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='understrap-styles-css'  href='https://versus.lanacion.com.py/wp-content/themes/versus/css/theme.css?1602983588' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aamLocal = {"nonce":"d88a54a9bb","ajaxurl":"https:\/\/versus.lanacion.com.py\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//versus.lanacion.com.py/wp-content/plugins/advanced-access-manager/media/js/aam-login.js'></script>
+<link rel='https://api.w.org/' href='https://versus.lanacion.com.py/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://versus.lanacion.com.py/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://versus.lanacion.com.py/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://versus.lanacion.com.py/?p=101843' />
+<link rel="alternate" type="application/json+oembed" href="https://versus.lanacion.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://versus.lanacion.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F&#038;format=xml" />
+<meta property="fb:app_id" content="200541930779835"/>
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/versus.lanacion.com.py\/wp-admin\/admin-ajax.php","essb3_nonce":"34cdc86e05","essb3_plugin_url":"https:\/\/versus.lanacion.com.py\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","blog_url":"https:\/\/versus.lanacion.com.py\/","essb3_postfloat_stay":false,"post_id":101843};</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://versus.lanacion.com.py/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-180x180.png" />
+<meta name="msapplication-TileImage" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><link href="https://fonts.googleapis.com/css?family=Kanit:500" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/owl.carousel.min.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/magnific-popup.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/radio-player.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/responsive.css?1602983588" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74288839-7"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>var listenScores;</script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-74288839-3');
+gtag('config', 'UA-74288839-7');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '579883549586526');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=579883549586526&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function() {
+    window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#ffffff",
+                "text": "#000000"
+            },
+            "button": {
+                "background": "#000000",
+                "text": "#ffffff"
+            }
+        },
+        "content": {
+            "message": "Este sitio utiliza cookies para garantizar que obtenga la mejor experiencia en nuestra web.",
+            "dismiss": "Ok",
+            "link": "Leer más",
+            "href": "https://versus.lanacion.com.py/politica-de-privacidad/"
+        },
+        location: {
+            serviceDefinitions: {
+                mynewservice: function(options) {
+                    return {
+                        url: 'https://apps.gruponacion.com.py/country-by-ip/index.php',
+                        callback: function(done, response) {
+                            try {
+                                var json = JSON.parse(response);
+                                if (json.countryCode) {
+                                    return {code: json.countryCode}
+                                }
+                                throw 'Could not find a country code in the response';
+                            } catch (err) {
+                                return new Error('Invalid response (' + err + ')');
+                            }
+                        },
+                    };
+                },
+            },
+            services: [
+                'mynewservice'
+            ]
+        }
+
+    })});
+</script>
+
+
+
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({home:'auto'});
+!function (e, f, u, i) {
+    if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+    }
+}(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/embimedia-versus/loader.js',
+    'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-101843 single-format-standard group-blog wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+
+<div class="ad-holder">
+    <script>
+googletag.cmd.push(function() {
+  var VS_Nota_A_970x90 = googletag.sizeMapping().
+  addSize([985, 600], [970, 90]).
+    addSize([739, 460], [728, 90]).
+    addSize([1, 1], [300, 75]).
+    build();
+    
+
+  googletag.defineSlot('/56210683/VS_Nota_A_970x90', [[970, 90], [728, 90], [300, 75]], 'div-gpt-ad-1560267277194-0').
+  defineSizeMapping(VS_Nota_A_970x90).
+  setCollapseEmptyDiv(true).
+  addService(googletag.pubads());
+  
+    googletag.enableServices();
+});
+</script>
+
+<!-- /56210683/VS_Nota_A_970x90 -->
+<div id='div-gpt-ad-1560267277194-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560267277194-0'); });
+</script>
+</div>
+        </div>
+<div class="hfeed site" id="page">
+
+	<!-- ******************* The Navbar Area ******************* -->
+	<div id="wrapper-navbar" itemscope itemtype="http://schema.org/WebSite">
+
+		<a class="skip-link screen-reader-text sr-only" href="#content">Saltar al contenido</a>
+
+		<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+
+					<div class="container" >
+		
+					<!-- Your site title as branding in the menu -->
+					
+						
+                          		<h2 class = "easylogo" ><a href="https://versus.lanacion.com.py" title="Versus">
+			<span style = "line-height:0" class = "none">
+			<img src="https://www.versus.com.py/wp-content/uploads/2018/07/logo.png" alt="Versus"
+			 />
+			</span></a></h2>
+						
+
+					<!-- end custom logo -->
+
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<!-- The WordPress Menu goes here -->
+				<div id="navbarNavDropdown" class="collapse navbar-collapse"><ul id="main-menu" class="navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-39948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-39948 nav-item"><a title="Inicio" href="https://versus.lanacion.com.py/" class="nav-link">Inicio</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7247 nav-item"><a title="Fútbol Paraguayo" href="https://versus.lanacion.com.py/versus/category/futbol-paraguayo/" class="nav-link">Fútbol Paraguayo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7256 nav-item"><a title="Fútbol Internacional" href="https://versus.lanacion.com.py/versus/category/futbol-internacional/" class="nav-link">Fútbol Internacional</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-64714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64714 nav-item"><a title="Paraguayos en el exterior" href="https://versus.lanacion.com.py/versus/category/paraguayos-en-el-exterior/" class="nav-link">Paraguayos en el exterior</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7308 nav-item"><a title="Polideportivo" href="https://versus.lanacion.com.py/versus/category/polideportivo/" class="nav-link">Polideportivo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7258" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-7258 nav-item"><a title="Especiales" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-7258">Especiales</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-7258" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8207 nav-item"><a title="Notas" href="https://versus.lanacion.com.py/versus/category/especiales/notas/" class="dropdown-item">Notas</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8206 nav-item"><a title="Esta es mi historia" href="https://versus.lanacion.com.py/versus/category/especiales/esta-es-mi-historia/" class="dropdown-item">Esta es mi historia</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7307 nav-item"><a title="Opinión" href="https://versus.lanacion.com.py/versus/category/opinion/" class="dropdown-item">Opinión</a></li>
+</ul>
+</li>
+</ul></div>                <div class="social-navbar">
+                    <a href="https://www.facebook.com/versusparaguay" class="fa fa-facebook" target="_blank"></a>
+                    <a href="https://twitter.com/versusparaguay" class="fa fa-twitter" target="_blank"></a>
+                    <a href="https://www.instagram.com/versuspy" class="fa fa-instagram" target="_blank"></a>
+                </div>
+                <div id="open-modal-menu" href="#mainNav" data-toggle="modal" class="main-nav">
+                    <span class="navbar-toggler-icon"></span>
+                </div>
+
+                			</div><!-- .container -->
+			
+		</nav><!-- .site-navigation -->
+
+	</div><!-- #wrapper-navbar end -->
+    <div class="versus-flex align-items-center justify-content-between">
+    <div class="versus-teams">          <a href="https://versus.lanacion.com.py/versus/equipo/12-de-octubre/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/15114542/logo-club-12-de-octubre-png-02-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/cerro-porteno/">
+            <div class="versus-team-logo">
+                <img src="https://versus.lanacion.com.py/wp-content/uploads/2018/07/cerro-porteno-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/gral-diaz/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/08/27165311/201804121135065acf6e9ac0364-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/guairena/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/15114522/200px-Guairen%CC%83a_F._C-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/guarani/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/24175302/guarani-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/libertad/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27153745/libertad-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/luqueno/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27163606/luqueno-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/nacional/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27154027/nacional-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/olimpia/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27154916/olimpia-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/river-plate/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2019/01/02125413/Escudo_River_de_Paraguay-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/san-lorenzo/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/09/23062237/Escudo_Sportivo_San_Lorenzo-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/sol-de-america/">
+            <div class="versus-team-logo">
+                <img src="https://versus.lanacion.com.py/wp-content/uploads/2018/07/SOL-150x150.png" alt="" title="">
+            </div>
+          </a>    </div>
+    <div class="publicitar d-lg-block d-md-none d-sm-none d-none">
+        <a href="https://versus.lanacion.com.py/publicitar-en-versus">Publicitar en VERSUS</a>
+    </div>
+</div>
+<div class="wrapper single-wrapper">
+
+	<div class="container" id="content" tabindex="-1">
+
+		<div class="row row-grid row-grid-small">
+
+			<!-- Do the left sidebar check -->
+			
+
+
+<div class="col-xl-9 col-lg-8 content-area" id="primary">
+			<main class="site-main" id="main">
+
+				
+					<article class="post-101843 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades tag-destacados" id="post-101843">
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin-1024x732.jpeg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin-1024x732.jpeg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Curiosidades</span>
+                <h1 class="entry-title">El exclusivo regalo de Luis Suárez para Diego Churín</h1>                <div class="fecha">
+                                        <span>16 Oct 18:24</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Curiosidades</span>
+            <h1 class="entry-title">El exclusivo regalo de Luis Suárez para Diego Churín</h1>            <div class="fecha">
+                16 Oct 18:24            </div>
+        </div>
+                <p>El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido.</p>
+<p>Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas Eliminatorias Sudamericanas. Por si todo eso fuera poco, la camiseta está autografiada por &#8220;Lucho&#8221;.</p>
+<p>&#8220;Para Diego Churín, con cariño: Luis Suárez&#8221;, escribió el jugador actualmente en el Atlético de Madrid.</p>
+<p>&#8220;¿Me dejás presumir &#8216;Popi&#8217; Muñoz? Muchas gracias por esto y tantas cosas más amigo&#8221;, indicó Churín en su Instagram, haciendo referencia a que esto fue posible gracias a la convocatoria del arquero azulgrana a la selección uruguaya y en donde coincidió con el ex Liverpool y Barcelona, entre otros clubes.</p>
+<p>&#8220;Admiración y respeto al mayor goleador de las eliminatorias, Luis Suárez&#8221;, expresó Diego.</p>
+<figure id="attachment_101845" style="width: 713px" class="wp-caption alignnone"><img class="wp-image-101845 size-full" src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez.jpeg" alt="" width="713" height="1164" srcset="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez.jpeg 713w, https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez-184x300.jpeg 184w, https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez-627x1024.jpeg 627w" sizes="(max-width: 713px) 100vw, 713px" /><figcaption class="wp-caption-text">Foto: Captura de pantalla.</figcaption></figure>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_574054444 print-no" id="essb_displayed_bottom_574054444" data-essb-postid="101843" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-essb-instance="574054444"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&t=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&t=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn&#39;,&#39;facebook&#39;,&#39;574054444&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&#39;,&#39;twitter&#39;,&#39;574054444&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=El%20exclusivo%20regalo%20de%20Luis%20Suárez%20para%20Diego%20Churín%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '574054444', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <div class="vs-relacionados">
+        <h2 class="vs-title">Noticias relacionadas</h2>
+        <div class="row no-gutters">
+                            <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/11/edwin-van-der-sar-elogio-a-chilavert-y-el-le-dio-una-inesperada-respuesta/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2019/02/26150902/Chilavert2-150x150.jpg"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/11/edwin-van-der-sar-elogio-a-chilavert-y-el-le-dio-una-inesperada-respuesta/">Chilavert &#8220;cruzó&#8221; sin piedad a un ex arquero del Manchester United</a>
+                            </h3>
+                            <span class="fecha">hace 6 días</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/11/espinola-y-su-bautismo-en-la-seleccion-cantando-emblematica-cancion/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/10231943/Captura-de-pantalla-2020-10-11-a-las-02.17.531-150x150.png"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/11/espinola-y-su-bautismo-en-la-seleccion-cantando-emblematica-cancion/">Espínola y su &#8220;bautismo&#8221; en la selección cantando emblemática canción</a>
+                            </h3>
+                            <span class="fecha">hace 6 días</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/07/los-particulares-festejos-de-los-albirrojos-en-la-sesion-de-fotos/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/07145749/Raul-Bobadilla-paraguay-albirroja-seleccion-150x150.png"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/07/los-particulares-festejos-de-los-albirrojos-en-la-sesion-de-fotos/">Los particulares festejos de los albirrojos en la sesión de fotos</a>
+                            </h3>
+                            <span class="fecha">hace 1 semana</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/09/24/nestor-pitana-uso-el-dulce-idioma-guarani-para-dirigirse-a-los-jugadores/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/09/24141959/Nestor-Pitana-Guarani-150x150.jpeg"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/09/24/nestor-pitana-uso-el-dulce-idioma-guarani-para-dirigirse-a-los-jugadores/">Néstor Pitana usó el dulce idioma guaraní para dirigirse a los jugadores</a>
+                            </h3>
+                            <span class="fecha">hace 3 semanas</span>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+    </div>
+        <div class="anchor" data-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-path="/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-title="Versus / Sergio Bareiro, ¿pasa a un grande en el Clausura?" data-viewed="0"></div>
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/03/01164633/WhatsApp-Image-2020-03-01-at-19.43.57-1024x620.jpeg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/03/01164633/WhatsApp-Image-2020-03-01-at-19.43.57-1024x620.jpeg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Fútbol Paraguayo</span>
+                <h1 class="entry-title">Sergio Bareiro, ¿pasa a un grande en el Clausura?</h1>                <div class="fecha">
+                                            <span>Sergio Bareiro, el goleador de General Díaz. Foto: Fernando Riveros.  |</span>
+                                        <span>16 Oct 21:20</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                                    <span>Sergio Bareiro, el goleador de General Díaz. Foto: Fernando Riveros. </span>
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Fútbol Paraguayo</span>
+            <h1 class="entry-title">Sergio Bareiro, ¿pasa a un grande en el Clausura?</h1>            <div class="fecha">
+                16 Oct 21:20            </div>
+        </div>
+                <p>El delantero de General Díaz, Sergio Bareiro, estaba listo para formar parte del partido ante San Lorenzo en el inicio del torneo Clausura. Estaba anunciado en el equipo titular en la previa, pero una hora antes del inicio, cuando se dieron a conocer las alineaciones, el atacante ni siquiera estaba en el banco de suplentes.</p>
+<p>Algunas fuentes provenientes del club de la ciudad de Luque, habían dicho que Bareiro tuvo un cuadro de gastroenteritis y por eso tuvo que ser dado de baja del partido ante el &#8220;Rayadito&#8221;.</p>
+<p>Pero tras el final del partido, en la conferencia de prensa del entrenador Julio Javier Doldán, esta versión cambió y la incógnita surgió. Tras ser consultado sobre la situación del atacante, Doldán dijo: &#8220;Sergio Bareiro creo que tiene una oferta importante de un club local&#8221;.</p>
+<p>Este club local, sería Cerro Porteño. El azulgrana comienza a mirar esta oportunidad, intentando &#8220;cubrirse&#8221; ante una posible salida de Diego Churín, quien está siendo sondeado por el Gremio de Porto Alegre.</p>
+<p>Cabe recordar que Bareiro ya fue vendido al Necaxa de México y si deja General Díaz ahora, lo hará solo por el torneo Clausura. Desde enero, deberá acoplarse a su nuevo club.</p>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_1097710204 print-no" id="essb_displayed_bottom_1097710204" data-essb-postid="101859" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-essb-instance="1097710204"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&t=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&t=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F&#39;,&#39;facebook&#39;,&#39;1097710204&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&#39;,&#39;twitter&#39;,&#39;1097710204&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Sergio%20Bareiro%2C%20¿pasa%20a%20un%20grande%20en%20el%20Clausura%3F%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fsergio-bareiro-pasa-a-un-grande-en-el-clausura%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '1097710204', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <div class="anchor" data-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-path="/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-title="Versus / Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección" data-viewed="0"></div>
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16172244/SANTIAGO-SALCEDO--1024x706.jpg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16172244/SANTIAGO-SALCEDO--1024x706.jpg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Fútbol Paraguayo</span>
+                <h1 class="entry-title">Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección</h1>                <div class="fecha">
+                                            <span>Foto: Alberto Jara. |</span>
+                                        <span>16 Oct 20:23</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                                    <span>Foto: Alberto Jara.</span>
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Fútbol Paraguayo</span>
+            <h1 class="entry-title">Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección</h1>            <div class="fecha">
+                16 Oct 20:23            </div>
+        </div>
+                <p>Santiago Salcedo alcanzó su cifra tan esperada. Lo había buscado con la camiseta de Guaireña, pero quedó a tiro y se le dio en su debut con el &#8220;Rayadito&#8221;, al que además le regaló un triunfo clave en la lucha por la permanencia.</p>
+<p>Tras el final del partido, &#8220;Sasá&#8221; aseguró que ya no tiene una cifra en mente a la cual perseguir, sino que ahora su objetivo es volver a la selección paraguaya de fútbol. &#8220;Ya no tengo un número que quiero alcanzar. Ahora vuelvo a estar mirando a la selección. Voy a seguir intentando marcar goles para poder ser llamado a la selección&#8221;, manifestó a la cadena que tiene los derechos de transmisión del fútbol.</p>
+<p>&#8220;Pero el objetivo principal es San Lorenzo y permanecer en primera. Lo que conseguimos hoy es demasiado importante, por el &#8216;mini torneo&#8217; que tenemos&#8221;, agregó.</p>
+<p>Salcedo ha marcado 49 goles con Libertad, 42 con Cerro Porteño, 30 con Sol de América, 23 con Capiatá, 5 con Guaireña y ahora 1 con San Lorenzo, llegando así a la histórica cifra de 150 goles en el fútbol paraguayo.</p>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_1107735209 print-no" id="essb_displayed_bottom_1107735209" data-essb-postid="101851" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-essb-instance="1107735209"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&t=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&t=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n&#39;,&#39;facebook&#39;,&#39;1107735209&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&#39;,&#39;twitter&#39;,&#39;1107735209&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Tras%20su%20gol%20150%2C%20%22Sasá%22%20asegura%20que%20quiere%20volver%20a%20la%20selección%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Ftras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '1107735209', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <footer class="entry-footer">
+        <div id="taboola-below-article-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+    </footer>
+    <script>
+    var $ = jQuery;
+    $(function() {
+        $(window).scroll(function() {
+            $('.anchor').each(function() {
+                if($(window).scrollTop() > $(this).offset().top - $(window).height() / 2) {
+                    if($(this).attr('data-viewed') == 0) {
+                        window.history.pushState("page", $(this).data('title'), $(this).data('url'));
+                        $('title').text($(this).data('title'));
+                        gtag('config', 'UA-74288839-3', {
+                            'page_title': $(this).data('title'),
+                            'page_path': $(this).data('path')
+                        });
+                        gtag('config', 'UA-74288839-7', {
+                            'page_title': $(this).data('title'),
+                            'page_path': $(this).data('path')
+                        });
+                    }
+                    $(this).attr('data-viewed', 1);
+                }
+            });
+        });
+
+        $('iframe[src*="youtube.com/embed"]').each(function() {
+            var $src = $(this).attr('src');
+
+            $(this).replaceWith('<div class="embed-responsive embed-responsive-16by9"><iframe class="cover" src="' + $src + '"></iframe></div>');
+        });
+    });
+    </script>
+</article>
+					
+				
+			</main><!-- #main -->
+
+		<!-- Do the right sidebar check -->
+		
+</div><!-- #closing the primary container from /global-templates/left-sidebar-check.php -->
+
+
+
+  
+<div class="col-xl-3 col-lg-4" id="right-sidebar" role="complementary">
+    <div class="widget-area">
+	<aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/56210683/VS_Nota_D_300x250', [300, 250], 'div-gpt-ad-1560273719857-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /56210683/VS_Nota_D_300x250 -->
+<div class="ad-holder ad-holder-single ad-holder-light">
+<div id='div-gpt-ad-1560273719857-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560273719857-0'); });
+</script>
+</div>
+</div>
+<style>
+.postid-53109 #div-gpt-ad-1560273719857-0, .postid-53109 #div-gpt-ad-1560273757983-0 {
+		display: none !important;
+}
+</style></div></aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Lo más leído</h3>			<div class="textwidget"><div class="vs-layout-1"><div class="row row-grid row-grid-small">            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/16/con-el-var-como-protagonista-olimpia-y-nacional-igualaron-en-el-bosque/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16193323/OLIMPIA-NACIONAL-150x150.jpg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/16/con-el-var-como-protagonista-olimpia-y-nacional-igualaron-en-el-bosque/">Con el VAR como protagonista, Olimpia y Nacional igualaron en el &#8220;Bosque&#8221;</a>
+                        </h3>
+                        <span class="fecha">hace 23 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/16/garnero-sobre-el-arbitraje-el-unico-perjudicado-es-el-futbol-paraguayo/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/09/19180737/DANIEL-GARNERO-OLIMPIA-150x150.jpg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/16/garnero-sobre-el-arbitraje-el-unico-perjudicado-es-el-futbol-paraguayo/">Garnero, sobre el arbitraje: &#8220;El único perjudicado es el fútbol paraguayo&#8221;</a>
+                        </h3>
+                        <span class="fecha">hace 23 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-12">
+                <div class="ad-holder">
+                    <!-- /56210683/VS_HOME_MKT -->
+                    <div id='div-gpt-ad-1559934096179-0' style='height:100px; width:300px;'>
+                        <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559934096179-0'); });
+                        </script>
+                    </div>
+    
+                    <script>
+                      googletag.cmd.push(function() {
+                        googletag.defineSlot('/56210683/VS_HOME_MKT', [300, 100], 'div-gpt-ad-1559934096179-0').addService(googletag.pubads());
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.enableServices();
+                      });
+                    </script>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/la-condicion-de-cerro-para-fichar-al-delantero-sergio-bareiro/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/03155808/Sergio-Bareiro-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/la-condicion-de-cerro-para-fichar-al-delantero-sergio-bareiro/">La condición de Cerro para fichar al delantero Sergio Bareiro</a>
+                        </h3>
+                        <span class="fecha">hace 11 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/hernan-novick-dejo-sol-y-esta-para-ir-a-un-poderoso-de-sudamerica/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/08/10055553/Novick-3-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/hernan-novick-dejo-sol-y-esta-para-ir-a-un-poderoso-de-sudamerica/">Hernán Novick dejó Sol y está para volver a Peñarol</a>
+                        </h3>
+                        <span class="fecha">hace 8 horas</span>
+                    </div>
+                </div>
+            </div></div></div>
+</div>
+		</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Últimas noticias</h3>			<div class="textwidget"><div class="vs-layout-1"><div class="row row-grid row-grid-small">            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-renovado-sol-de-america-se-hace-respetar-y-vence-a-guarani/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17171041/Sol-de-america1-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-renovado-sol-de-america-se-hace-respetar-y-vence-a-guarani/">El renovado Sol de América se hace respetar y vence a Guaraní</a>
+                        </h3>
+                        <span class="fecha">hace 2 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-multicampeon-falcao-observo-el-entrenamiento-de-dos-paraguayas/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17155032/Falcao-y-dos-paraguayas-futsal-fifa1-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Polideportivo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-multicampeon-falcao-observo-el-entrenamiento-de-dos-paraguayas/">El multicampeón &#8220;Falcao&#8221; observó el entrenamiento de dos paraguayas</a>
+                        </h3>
+                        <span class="fecha">hace 3 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-almiron-en-el-ultimo-tramo-newcastle-cayo-ante-el-manchester/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17152905/Ekj1-yoXUAEQJSW-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Paraguayos en el exterior</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-almiron-en-el-ultimo-tramo-newcastle-cayo-ante-el-manchester/">Con Almirón en el último tramo, Newcastle cayó ante el Manchester</a>
+                        </h3>
+                        <span class="fecha">hace 3 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/un-campeon-ever-hugo-almeida-vencio-al-covid-19-y-fue-dado-de-alta/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17142730/Ever-Hugo-Almeida-vencio-coronavirus-covid19-150x150.png" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Deporte y más</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/un-campeon-ever-hugo-almeida-vencio-al-covid-19-y-fue-dado-de-alta/">Un campeón: Éver Hugo Almeida venció al COVID-19 y fue dado de alta</a>
+                        </h3>
+                        <span class="fecha">hace 4 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/debuto-en-olimpia-quedo-libre-y-ahora-integra-la-nomina-de-cerro/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17140741/50699252_2091340910934688_7528507783562395648_n-150x150.jpg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/debuto-en-olimpia-quedo-libre-y-ahora-integra-la-nomina-de-cerro/">Debutó en Olimpia, quedó libre y ahora integra la nómina de Cerro</a>
+                        </h3>
+                        <span class="fecha">hace 5 horas</span>
+                    </div>
+                </div>
+            </div></div></div>
+</div>
+		</aside><aside id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/56210683/VS_Nota_E_300x250', [300, 250], 'div-gpt-ad-1560273757983-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- /56210683/VS_Nota_E_300x250 -->
+<div class="ad-holder ad-holder-single ad-holder-light">
+<div id='div-gpt-ad-1560273757983-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560273757983-0'); });
+</script>
+</div>
+</div>
+</div></aside></div><!-- #right-sidebar -->
+</div>
+
+
+	</div><!-- .row -->
+
+</div><!-- Container end -->
+
+</div><!-- Wrapper end -->
+
+
+
+
+<div class="wrapper" id="wrapper-footer">
+
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-md-12">
+
+				<footer class="site-footer" id="colophon">
+
+				    <span>&copy; 2020 Grupo Nación</span>
+
+				</footer><!-- #colophon -->
+
+			</div><!--col end -->
+
+		</div><!-- row end -->
+
+	</div><!-- container end -->
+
+</div><!-- wrapper end -->
+
+</div><!-- #page we need this extra closing tag here -->
+<div class="modal fade" id="mainNav" tabindex="-1" role="dialog" aria-labelledby="mainNavLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mainNavLabel">Menú</h4>
+            </div>
+            <div class="modal-body">
+                <nav>
+
+                  <div class="menu-modal-menu-container"><ul id="menu-modal-menu" class="menu"><li id="menu-item-39946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-39946"><a href="https://versus.lanacion.com.py/">Inicio</a></li>
+<li id="menu-item-7467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7467"><a href="https://versus.lanacion.com.py/versus/category/futbol-paraguayo/">Fútbol Paraguayo</a></li>
+<li id="menu-item-7595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7595"><a href="https://versus.lanacion.com.py/versus/category/futbol-internacional/">Fútbol Internacional</a></li>
+<li id="menu-item-7471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7471"><a href="https://versus.lanacion.com.py/versus/category/especiales/">Especiales</a></li>
+<li id="menu-item-7468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7468"><a href="https://versus.lanacion.com.py/versus/category/polideportivo/">Polideportivo</a></li>
+<li id="menu-item-7472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7472"><a href="https://versus.lanacion.com.py/versus/category/paraguayos-en-el-exterior/">Paraguayos en el exterior</a></li>
+<li id="menu-item-85300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85300"><a href="https://versus.lanacion.com.py/versus/category/deporte-y-mas/">Deporte y más</a></li>
+</ul></div>
+                </nav>
+            </div>
+            <div class="modal-menu-logo modal-footer">
+              <form method="get" id="searchform" action="https://versus.lanacion.com.py/" role="search">
+	<label class="assistive-text" for="s">Buscar</label>
+	<div class="input-group">
+		<input class="field form-control" id="s" name="s" type="text"
+			placeholder="Buscar &hellip;" value="">
+		<span class="input-group-append">
+			<input class="submit btn btn-primary" id="searchsubmit" name="submit" type="submit"
+			value="Buscar">
+	</span>
+	</div>
+</form>
+              		<h2 class = "easylogo" ><a href="https://versus.lanacion.com.py" title="Versus">
+			<span style = "line-height:0" class = "none">
+			<img src="https://www.versus.com.py/wp-content/uploads/2018/07/logo.png" alt="Versus"
+			 />
+			</span></a></h2>            </div>
+        </div>
+    </div>
+</div>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/app/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:'8347839393769788a7b2febc606bf4d8'})})</script><script type='text/javascript' src='https://versus.lanacion.com.py/wp-content/themes/versus/js/popper.min.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-content/themes/versus/js/theme.min.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/wp-embed.min.js'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&appId=200541930779835&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<link rel="stylesheet" id="essb-cct-style"  href="https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all" /><script type="text/javascript">
+				(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+				po.src = 'https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();</script><script type="text/javascript"></script><script src="https://versus.lanacion.com.py/wp-content/themes/versus/js/owl.carousel.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/js/jquery.magnific-popup.min.js"></script>
+<script>
+var $ = jQuery;
+$(function() {
+    $('.galeria').owlCarousel({
+        lazyLoad: true,
+        loop: true,
+        nav: true,
+        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        dots: false,
+        responsive: {
+          0: {
+              items: 2,
+          },
+          768: {
+              items: 3,
+          },
+          992: {
+              items: 4,
+          },
+          1200: {
+              items: 5,
+          },
+          1600: {
+              items: 6,
+          },
+        }
+    });
+
+    $('.versus-marcadores').owlCarousel({
+        nav: true,
+        navText: ['<i class="fa fa-angle-left marcadores-prev"></i>', '<i class="fa fa-angle-right ' +
+        'marcadores-next"></i>'],
+        dots: false,
+        responsive: {
+          0: {
+              items: 1,
+          },
+          576: {
+              items: 2,
+          },
+          768: {
+              items: 3,
+          },
+          992: {
+              items: 4,
+          },
+          1200: {
+              items: 5,
+          },
+          1600: {
+              items: 6,
+          },
+        },
+        startPosition: $('.item.current').first().index()
+    });
+
+    $('.galeria .owl-item:not(.cloned) .zoom').magnificPopup({
+        type: 'image',
+        tLoading: 'Cargando #%curr%...',
+        mainClass: 'mfp-fade',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            tPrev: 'Anterior (Flecha izquierda)',
+            tNext: 'Siguiente (Flecha derecha)',
+            tCounter: '%curr% de %total%'
+        },
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('.single-galeria .zoom').magnificPopup({
+        type: 'image',
+        tLoading: 'Cargando #%curr%...',
+        mainClass: 'mfp-fade',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            tPrev: 'Anterior (Flecha izquierda)',
+            tNext: 'Siguiente (Flecha derecha)',
+            tCounter: '%curr% de %total%'
+        },
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('body').magnificPopup({
+        delegate: '.magic-zoom',
+        type: 'image',
+        tLoading: 'Cargando imagen',
+        mainClass: 'mfp-fade',
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('.load-more').on('click', function() {
+        $('.versus-videos .row > *').fadeIn();
+        $(this).remove();
+        return false;
+    });
+
+    $('#versus-buscador').on('submit', function(e) {
+        e.preventDefault();
+        $.post('/buscador/ajax.php', $('#versus-buscador').serialize(), function(response) {
+            var data = JSON.parse(response);
+            $('#alert').removeClass().addClass(data.class).html(data.message);
+            $('#response .data').html(data.data);
+            $('#response').addClass('visible');
+        });
+    });
+
+    var wheeling = false;
+    if($(window).width() > 992) {
+        $('.selecciones-slider').addClass('owl-carousel');
+        var owl = $('.selecciones-slider').owlCarousel({
+            items: 1,
+            nav: false,
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
+            loop: true,
+            mouseDrag: false,
+            touchDrag: false,
+            autoHeight: true,
+            onInitialized: function(e) {
+                $('body').removeClass('overflow-hidden');
+            },
+            onTranslated: function(e) {
+                wheeling = false;
+            }
+        });
+    } else {
+        $('.selecciones-slider .item').addClass('visible');
+    }
+
+    // owl.on('mousewheel', '.owl-stage', function (e) {
+    //     if(!wheeling) {
+    //         wheeling = true;
+    //         if(e.deltaY < 0) {
+    //             owl.trigger('next.owl');
+    //         } else {
+    //             owl.trigger('prev.owl');
+    //         }
+    //         e.preventDefault();
+    //     }
+    // });
+
+    if($('.live-scores').length > 0) {
+        liveScores();
+        listenScores = setInterval(liveScores, 60000);
+    }
+});
+</script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/flowplayer/flowplayer.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/flowplayer/flowplayer.hlsjs.light.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/radio-player.js"></script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+    if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+    }
+}(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/embimedia-versus/loader.js',
+    'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+</body>
+</html><!DOCTYPE html>
+<html lang="es-ES"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Versus - ">
+<meta name="msvalidate.01" content="8E7677E2D2FF662960583BB93AAB6DFD" />
+<meta name="yandex-verification" content="a9925fb0d78380c4" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://versus.lanacion.com.py/xmlrpc.php">
+<title>Versus / El exclusivo regalo de Luis Suárez para Diego Churín</title>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta property="og:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#039;charrúa&#039; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#039;Popi&#039; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas Eliminatorias Sudamericanas. Por si todo eso fuera poco, la camiseta está autografiada por &#039;Lucho&#039;. &#039;Para Diego Churín, con cariño: Luis Suárez&#039;, escribió el jugador actualmente en el Atlético de Madrid. &#039;¿Me dejás presumir &#039;Popi&#039; Muñoz? Muchas gracias por esto y tantas cosas más amigo&#039;, indicó" />
+<meta property="og:url" content="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:site_name" content="Versus" />
+<meta property="article:tag" content="Destacados" />
+<meta property="article:section" content="Curiosidades" />
+<meta property="article:published_time" content="2020-10-16T18:24:12-03:00" />
+<meta property="article:modified_time" content="2020-10-16T18:28:13-03:00" />
+<meta property="og:updated_time" content="2020-10-16T18:28:13-03:00" />
+<meta property="og:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Versus / El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta property="og:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas [...]Leer más..." />
+<meta property="og:url" content="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" />
+<meta property="og:site_name" content="Versus" />
+<meta property="article:tag" content="Destacados" />
+<meta property="article:section" content="Curiosidades" />
+<meta property="article:published_time" content="2020-10-16T21:24:12-03:00" />
+<meta property="article:modified_time" content="2020-10-16T21:28:13-03:00" />
+<meta property="og:updated_time" content="2020-10-16T21:28:13-03:00" />
+<meta property="og:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<meta property="og:image:secure_url" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<meta property="og:image:width" content="1266" />
+<meta property="og:image:height" content="905" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido. Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas [...]Leer más..." />
+<meta name="twitter:title" content="Versus / El exclusivo regalo de Luis Suárez para Diego Churín" />
+<meta name="twitter:image" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://versus.lanacion.com.py/#organization","name":"","url":"https://versus.lanacion.com.py/","sameAs":[]},{"@type":"WebSite","@id":"https://versus.lanacion.com.py/#website","url":"https://versus.lanacion.com.py/","name":"Versus","publisher":{"@id":"https://versus.lanacion.com.py/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://versus.lanacion.com.py/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage","url":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/","inLanguage":"es-ES","name":"Versus / El exclusivo regalo de Luis Su\u00e1rez para Diego Chur\u00edn","isPartOf":{"@id":"https://versus.lanacion.com.py/#website"},"image":{"@type":"ImageObject","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage","url":"https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin.jpeg","width":1266,"height":905},"primaryImageOfPage":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage"},"datePublished":"2020-10-16T21:24:12-03:00","dateModified":"2020-10-16T21:28:13-03:00"},{"@type":"Article","@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#article","isPartOf":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage"},"author":{"@id":"https://versus.lanacion.com.py/versus/author/daniel/#author"},"headline":"El exclusivo regalo de Luis Su\u00e1rez para Diego Chur\u00edn","datePublished":"2020-10-16T21:24:12-03:00","dateModified":"2020-10-16T21:28:13-03:00","commentCount":0,"mainEntityOfPage":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#webpage","publisher":{"@id":"https://versus.lanacion.com.py/#organization"},"image":{"@id":"https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/#primaryimage"},"keywords":"Destacados","articleSection":"Curiosidades"},{"@type":["Person"],"@id":"https://versus.lanacion.com.py/versus/author/daniel/#author","name":"Daniel Miranda","image":{"@type":"ImageObject","@id":"https://versus.lanacion.com.py/#authorlogo","url":"https://secure.gravatar.com/avatar/d023026f5aaa65921cdcf727e195f244?s=96&d=mm&r=g","caption":"Daniel Miranda"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; Feed" href="https://versus.lanacion.com.py/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; RSS de los comentarios" href="https://versus.lanacion.com.py/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Versus &raquo; El exclusivo regalo de Luis Suárez para Diego Churín RSS de los comentarios" href="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/versus.lanacion.com.py\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='understrap-styles-css'  href='https://versus.lanacion.com.py/wp-content/themes/versus/css/theme.css?1602985022' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css'  href='https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aamLocal = {"nonce":"d88a54a9bb","ajaxurl":"https:\/\/versus.lanacion.com.py\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//versus.lanacion.com.py/wp-content/plugins/advanced-access-manager/media/js/aam-login.js'></script>
+<link rel='https://api.w.org/' href='https://versus.lanacion.com.py/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://versus.lanacion.com.py/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://versus.lanacion.com.py/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://versus.lanacion.com.py/?p=101843' />
+<link rel="alternate" type="application/json+oembed" href="https://versus.lanacion.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://versus.lanacion.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F&#038;format=xml" />
+<meta property="fb:app_id" content="200541930779835"/>
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/versus.lanacion.com.py\/wp-admin\/admin-ajax.php","essb3_nonce":"34cdc86e05","essb3_plugin_url":"https:\/\/versus.lanacion.com.py\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","blog_url":"https:\/\/versus.lanacion.com.py\/","essb3_postfloat_stay":false,"post_id":101843};</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://versus.lanacion.com.py/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-180x180.png" />
+<meta name="msapplication-TileImage" content="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/06/01111625/cropped-favicon-96x96-270x270.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><link href="https://fonts.googleapis.com/css?family=Kanit:500" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/owl.carousel.min.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/magnific-popup.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/radio-player.css" rel="stylesheet">
+<link href="https://versus.lanacion.com.py/wp-content/themes/versus/css/responsive.css?1602985022" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74288839-7"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>var listenScores;</script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-74288839-3');
+gtag('config', 'UA-74288839-7');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '579883549586526');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=579883549586526&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function() {
+    window.cookieconsent.initialise({
+        "palette": {
+            "popup": {
+                "background": "#ffffff",
+                "text": "#000000"
+            },
+            "button": {
+                "background": "#000000",
+                "text": "#ffffff"
+            }
+        },
+        "content": {
+            "message": "Este sitio utiliza cookies para garantizar que obtenga la mejor experiencia en nuestra web.",
+            "dismiss": "Ok",
+            "link": "Leer más",
+            "href": "https://versus.lanacion.com.py/politica-de-privacidad/"
+        },
+        location: {
+            serviceDefinitions: {
+                mynewservice: function(options) {
+                    return {
+                        url: 'https://apps.gruponacion.com.py/country-by-ip/index.php',
+                        callback: function(done, response) {
+                            try {
+                                var json = JSON.parse(response);
+                                if (json.countryCode) {
+                                    return {code: json.countryCode}
+                                }
+                                throw 'Could not find a country code in the response';
+                            } catch (err) {
+                                return new Error('Invalid response (' + err + ')');
+                            }
+                        },
+                    };
+                },
+            },
+            services: [
+                'mynewservice'
+            ]
+        }
+
+    })});
+</script>
+
+
+
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({home:'auto'});
+!function (e, f, u, i) {
+    if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+    }
+}(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/embimedia-versus/loader.js',
+    'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-101843 single-format-standard group-blog wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+
+<div class="ad-holder">
+    <script>
+googletag.cmd.push(function() {
+  var VS_Nota_A_970x90 = googletag.sizeMapping().
+  addSize([985, 600], [970, 90]).
+    addSize([739, 460], [728, 90]).
+    addSize([1, 1], [300, 75]).
+    build();
+    
+
+  googletag.defineSlot('/56210683/VS_Nota_A_970x90', [[970, 90], [728, 90], [300, 75]], 'div-gpt-ad-1560267277194-0').
+  defineSizeMapping(VS_Nota_A_970x90).
+  setCollapseEmptyDiv(true).
+  addService(googletag.pubads());
+  
+    googletag.enableServices();
+});
+</script>
+
+<!-- /56210683/VS_Nota_A_970x90 -->
+<div id='div-gpt-ad-1560267277194-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560267277194-0'); });
+</script>
+</div>
+        </div>
+<div class="hfeed site" id="page">
+
+	<!-- ******************* The Navbar Area ******************* -->
+	<div id="wrapper-navbar" itemscope itemtype="http://schema.org/WebSite">
+
+		<a class="skip-link screen-reader-text sr-only" href="#content">Saltar al contenido</a>
+
+		<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+
+					<div class="container" >
+		
+					<!-- Your site title as branding in the menu -->
+					
+						
+                          		<h2 class = "easylogo" ><a href="https://versus.lanacion.com.py" title="Versus">
+			<span style = "line-height:0" class = "none">
+			<img src="https://www.versus.com.py/wp-content/uploads/2018/07/logo.png" alt="Versus"
+			 />
+			</span></a></h2>
+						
+
+					<!-- end custom logo -->
+
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<!-- The WordPress Menu goes here -->
+				<div id="navbarNavDropdown" class="collapse navbar-collapse"><ul id="main-menu" class="navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-39948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-39948 nav-item"><a title="Inicio" href="https://versus.lanacion.com.py/" class="nav-link">Inicio</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7247 nav-item"><a title="Fútbol Paraguayo" href="https://versus.lanacion.com.py/versus/category/futbol-paraguayo/" class="nav-link">Fútbol Paraguayo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7256 nav-item"><a title="Fútbol Internacional" href="https://versus.lanacion.com.py/versus/category/futbol-internacional/" class="nav-link">Fútbol Internacional</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-64714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64714 nav-item"><a title="Paraguayos en el exterior" href="https://versus.lanacion.com.py/versus/category/paraguayos-en-el-exterior/" class="nav-link">Paraguayos en el exterior</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7308 nav-item"><a title="Polideportivo" href="https://versus.lanacion.com.py/versus/category/polideportivo/" class="nav-link">Polideportivo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7258" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown menu-item-7258 nav-item"><a title="Especiales" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-7258">Especiales</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-7258" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8207 nav-item"><a title="Notas" href="https://versus.lanacion.com.py/versus/category/especiales/notas/" class="dropdown-item">Notas</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8206 nav-item"><a title="Esta es mi historia" href="https://versus.lanacion.com.py/versus/category/especiales/esta-es-mi-historia/" class="dropdown-item">Esta es mi historia</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7307 nav-item"><a title="Opinión" href="https://versus.lanacion.com.py/versus/category/opinion/" class="dropdown-item">Opinión</a></li>
+</ul>
+</li>
+</ul></div>                <div class="social-navbar">
+                    <a href="https://www.facebook.com/versusparaguay" class="fa fa-facebook" target="_blank"></a>
+                    <a href="https://twitter.com/versusparaguay" class="fa fa-twitter" target="_blank"></a>
+                    <a href="https://www.instagram.com/versuspy" class="fa fa-instagram" target="_blank"></a>
+                </div>
+                <div id="open-modal-menu" href="#mainNav" data-toggle="modal" class="main-nav">
+                    <span class="navbar-toggler-icon"></span>
+                </div>
+
+                			</div><!-- .container -->
+			
+		</nav><!-- .site-navigation -->
+
+	</div><!-- #wrapper-navbar end -->
+    <div class="versus-flex align-items-center justify-content-between">
+    <div class="versus-teams">          <a href="https://versus.lanacion.com.py/versus/equipo/12-de-octubre/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/15114542/logo-club-12-de-octubre-png-02-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/cerro-porteno/">
+            <div class="versus-team-logo">
+                <img src="https://versus.lanacion.com.py/wp-content/uploads/2018/07/cerro-porteno-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/gral-diaz/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/08/27165311/201804121135065acf6e9ac0364-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/guairena/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/15114522/200px-Guairen%CC%83a_F._C-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/guarani/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/24175302/guarani-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/libertad/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27153745/libertad-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/luqueno/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27163606/luqueno-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/nacional/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27154027/nacional-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/olimpia/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/07/27154916/olimpia-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/river-plate/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2019/01/02125413/Escudo_River_de_Paraguay-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/san-lorenzo/">
+            <div class="versus-team-logo">
+                <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2018/09/23062237/Escudo_Sportivo_San_Lorenzo-150x150.png" alt="" title="">
+            </div>
+          </a>          <a href="https://versus.lanacion.com.py/versus/equipo/sol-de-america/">
+            <div class="versus-team-logo">
+                <img src="https://versus.lanacion.com.py/wp-content/uploads/2018/07/SOL-150x150.png" alt="" title="">
+            </div>
+          </a>    </div>
+    <div class="publicitar d-lg-block d-md-none d-sm-none d-none">
+        <a href="https://versus.lanacion.com.py/publicitar-en-versus">Publicitar en VERSUS</a>
+    </div>
+</div>
+<div class="wrapper single-wrapper">
+
+	<div class="container" id="content" tabindex="-1">
+
+		<div class="row row-grid row-grid-small">
+
+			<!-- Do the left sidebar check -->
+			
+
+
+<div class="col-xl-9 col-lg-8 content-area" id="primary">
+			<main class="site-main" id="main">
+
+				
+					<article class="post-101843 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades tag-destacados" id="post-101843">
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin-1024x732.jpeg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16152350/Luis-Suarez-y-Diego-Churin-1024x732.jpeg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Curiosidades</span>
+                <h1 class="entry-title">El exclusivo regalo de Luis Suárez para Diego Churín</h1>                <div class="fecha">
+                                        <span>16 Oct 18:24</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Curiosidades</span>
+            <h1 class="entry-title">El exclusivo regalo de Luis Suárez para Diego Churín</h1>            <div class="fecha">
+                16 Oct 18:24            </div>
+        </div>
+                <p>El crack uruguayo Luis Suárez, le mandó un exclusivo regalo al goleador de Cerro Porteño, Diego Churín. El artillero argentino agradeció la gentileza del &#8220;charrúa&#8221; y mostró el obsequio recibido.</p>
+<p>Fue por intermedio de Rodrigo &#8220;Popi&#8221; Muñoz que Suárez le hizo llegar nada más y nada menos que una camiseta suya que usó en estas Eliminatorias Sudamericanas. Por si todo eso fuera poco, la camiseta está autografiada por &#8220;Lucho&#8221;.</p>
+<p>&#8220;Para Diego Churín, con cariño: Luis Suárez&#8221;, escribió el jugador actualmente en el Atlético de Madrid.</p>
+<p>&#8220;¿Me dejás presumir &#8216;Popi&#8217; Muñoz? Muchas gracias por esto y tantas cosas más amigo&#8221;, indicó Churín en su Instagram, haciendo referencia a que esto fue posible gracias a la convocatoria del arquero azulgrana a la selección uruguaya y en donde coincidió con el ex Liverpool y Barcelona, entre otros clubes.</p>
+<p>&#8220;Admiración y respeto al mayor goleador de las eliminatorias, Luis Suárez&#8221;, expresó Diego.</p>
+<figure id="attachment_101845" style="width: 713px" class="wp-caption alignnone"><img class="wp-image-101845 size-full" src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez.jpeg" alt="" width="713" height="1164" srcset="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez.jpeg 713w, https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez-184x300.jpeg 184w, https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16150847/Diego-Churin-uruguay-regalo-Suarez-627x1024.jpeg 627w" sizes="(max-width: 713px) 100vw, 713px" /><figcaption class="wp-caption-text">Foto: Captura de pantalla.</figcaption></figure>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_1859051212 print-no" id="essb_displayed_bottom_1859051212" data-essb-postid="101843" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-essb-instance="1859051212"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&t=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&t=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn&#39;,&#39;facebook&#39;,&#39;1859051212&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=El+exclusivo+regalo+de+Luis+Su%C3%A1rez+para+Diego+Chur%C3%ADn&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/&#39;,&#39;twitter&#39;,&#39;1859051212&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=El%20exclusivo%20regalo%20de%20Luis%20Suárez%20para%20Diego%20Churín%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fel-exclusivo-regalo-de-luis-suarez-para-diego-churin%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '1859051212', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/el-exclusivo-regalo-de-luis-suarez-para-diego-churin/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <div class="vs-relacionados">
+        <h2 class="vs-title">Noticias relacionadas</h2>
+        <div class="row no-gutters">
+                            <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/11/edwin-van-der-sar-elogio-a-chilavert-y-el-le-dio-una-inesperada-respuesta/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2019/02/26150902/Chilavert2-150x150.jpg"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/11/edwin-van-der-sar-elogio-a-chilavert-y-el-le-dio-una-inesperada-respuesta/">Chilavert &#8220;cruzó&#8221; sin piedad a un ex arquero del Manchester United</a>
+                            </h3>
+                            <span class="fecha">hace 6 días</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/11/espinola-y-su-bautismo-en-la-seleccion-cantando-emblematica-cancion/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/10231943/Captura-de-pantalla-2020-10-11-a-las-02.17.531-150x150.png"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/11/espinola-y-su-bautismo-en-la-seleccion-cantando-emblematica-cancion/">Espínola y su &#8220;bautismo&#8221; en la selección cantando emblemática canción</a>
+                            </h3>
+                            <span class="fecha">hace 6 días</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/10/07/los-particulares-festejos-de-los-albirrojos-en-la-sesion-de-fotos/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/07145749/Raul-Bobadilla-paraguay-albirroja-seleccion-150x150.png"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/10/07/los-particulares-festejos-de-los-albirrojos-en-la-sesion-de-fotos/">Los particulares festejos de los albirrojos en la sesión de fotos</a>
+                            </h3>
+                            <span class="fecha">hace 1 semana</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-xl-3 col-sm-6 col-12">
+                    <div class="inner-container">
+                        <a href="https://versus.lanacion.com.py/versus/2020/09/24/nestor-pitana-uso-el-dulce-idioma-guarani-para-dirigirse-a-los-jugadores/">
+                            <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/09/24141959/Nestor-Pitana-Guarani-150x150.jpeg"alt="" class="cover">
+                        </a>
+                        <div>
+                            <h3>
+                                <a href="https://versus.lanacion.com.py/versus/2020/09/24/nestor-pitana-uso-el-dulce-idioma-guarani-para-dirigirse-a-los-jugadores/">Néstor Pitana usó el dulce idioma guaraní para dirigirse a los jugadores</a>
+                            </h3>
+                            <span class="fecha">hace 3 semanas</span>
+                        </div>
+                    </div>
+                </div>
+                        </div>
+    </div>
+        <div class="anchor" data-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-path="/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-title="Versus / Sergio Bareiro, ¿pasa a un grande en el Clausura?" data-viewed="0"></div>
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/03/01164633/WhatsApp-Image-2020-03-01-at-19.43.57-1024x620.jpeg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/03/01164633/WhatsApp-Image-2020-03-01-at-19.43.57-1024x620.jpeg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Fútbol Paraguayo</span>
+                <h1 class="entry-title">Sergio Bareiro, ¿pasa a un grande en el Clausura?</h1>                <div class="fecha">
+                                            <span>Sergio Bareiro, el goleador de General Díaz. Foto: Fernando Riveros.  |</span>
+                                        <span>16 Oct 21:20</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                                    <span>Sergio Bareiro, el goleador de General Díaz. Foto: Fernando Riveros. </span>
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Fútbol Paraguayo</span>
+            <h1 class="entry-title">Sergio Bareiro, ¿pasa a un grande en el Clausura?</h1>            <div class="fecha">
+                16 Oct 21:20            </div>
+        </div>
+                <p>El delantero de General Díaz, Sergio Bareiro, estaba listo para formar parte del partido ante San Lorenzo en el inicio del torneo Clausura. Estaba anunciado en el equipo titular en la previa, pero una hora antes del inicio, cuando se dieron a conocer las alineaciones, el atacante ni siquiera estaba en el banco de suplentes.</p>
+<p>Algunas fuentes provenientes del club de la ciudad de Luque, habían dicho que Bareiro tuvo un cuadro de gastroenteritis y por eso tuvo que ser dado de baja del partido ante el &#8220;Rayadito&#8221;.</p>
+<p>Pero tras el final del partido, en la conferencia de prensa del entrenador Julio Javier Doldán, esta versión cambió y la incógnita surgió. Tras ser consultado sobre la situación del atacante, Doldán dijo: &#8220;Sergio Bareiro creo que tiene una oferta importante de un club local&#8221;.</p>
+<p>Este club local, sería Cerro Porteño. El azulgrana comienza a mirar esta oportunidad, intentando &#8220;cubrirse&#8221; ante una posible salida de Diego Churín, quien está siendo sondeado por el Gremio de Porto Alegre.</p>
+<p>Cabe recordar que Bareiro ya fue vendido al Necaxa de México y si deja General Díaz ahora, lo hará solo por el torneo Clausura. Desde enero, deberá acoplarse a su nuevo club.</p>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_1188193386 print-no" id="essb_displayed_bottom_1188193386" data-essb-postid="101859" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-essb-instance="1188193386"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&t=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&t=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F&#39;,&#39;facebook&#39;,&#39;1188193386&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Sergio+Bareiro%2C+%C2%BFpasa+a+un+grande+en+el+Clausura%3F&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/&#39;,&#39;twitter&#39;,&#39;1188193386&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Sergio%20Bareiro%2C%20¿pasa%20a%20un%20grande%20en%20el%20Clausura%3F%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Fsergio-bareiro-pasa-a-un-grande-en-el-clausura%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '1188193386', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/sergio-bareiro-pasa-a-un-grande-en-el-clausura/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <div class="anchor" data-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-path="/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-title="Versus / Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección" data-viewed="0"></div>
+    <header class="entry-header">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16172244/SANTIAGO-SALCEDO--1024x706.jpg" class="cover">
+        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/16172244/SANTIAGO-SALCEDO--1024x706.jpg" class="entry-image">
+        <div class="caption">
+            <div class="d-none d-sm-block">
+                <span>Fútbol Paraguayo</span>
+                <h1 class="entry-title">Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección</h1>                <div class="fecha">
+                                            <span>Foto: Alberto Jara. |</span>
+                                        <span>16 Oct 20:23</span>
+                </div>
+            </div>
+            <div class="d-block d-sm-none">
+                                    <span>Foto: Alberto Jara.</span>
+                            </div>
+        </div>
+    </header>
+    <div class="entry-content">
+        <div class="d-block d-sm-none entry-caption">
+            <span>Fútbol Paraguayo</span>
+            <h1 class="entry-title">Tras su gol 150, &#8220;Sasá&#8221; asegura que quiere volver a la selección</h1>            <div class="fecha">
+                16 Oct 20:23            </div>
+        </div>
+                <p>Santiago Salcedo alcanzó su cifra tan esperada. Lo había buscado con la camiseta de Guaireña, pero quedó a tiro y se le dio en su debut con el &#8220;Rayadito&#8221;, al que además le regaló un triunfo clave en la lucha por la permanencia.</p>
+<p>Tras el final del partido, &#8220;Sasá&#8221; aseguró que ya no tiene una cifra en mente a la cual perseguir, sino que ahora su objetivo es volver a la selección paraguaya de fútbol. &#8220;Ya no tengo un número que quiero alcanzar. Ahora vuelvo a estar mirando a la selección. Voy a seguir intentando marcar goles para poder ser llamado a la selección&#8221;, manifestó a la cadena que tiene los derechos de transmisión del fútbol.</p>
+<p>&#8220;Pero el objetivo principal es San Lorenzo y permanecer en primera. Lo que conseguimos hoy es demasiado importante, por el &#8216;mini torneo&#8217; que tenemos&#8221;, agregó.</p>
+<p>Salcedo ha marcado 49 goles con Libertad, 42 con Cerro Porteño, 30 con Sol de América, 23 con Capiatá, 5 con Guaireña y ahora 1 con San Lorenzo, llegando así a la histórica cifra de 150 goles en el fútbol paraguayo.</p>
+<div class="essb_links essb_displayed_bottom essb_share essb_template_default4-retina essb_751704510 print-no" id="essb_displayed_bottom_751704510" data-essb-postid="101851" data-essb-position="bottom" data-essb-button-style="button" data-essb-template="default4-retina" data-essb-counter-pos="hidden" data-essb-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-essb-twitter-url="https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-essb-instance="751704510"><ul class="essb_links_list"><li class="essb_item essb_link_facebook nolightbox"> <a href="https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&t=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n" title="" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&t=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n&#39;,&#39;facebook&#39;,&#39;751704510&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_facebook"></span><span class="essb_network_name">Facebook</span></a></li><li class="essb_item essb_link_twitter nolightbox"> <a href="#" title="" onclick="essb.window(&#39;https://twitter.com/intent/tweet?text=Tras+su+gol+150%2C+%22Sas%C3%A1%22+asegura+que+quiere+volver+a+la+selecci%C3%B3n&amp;url=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&amp;counturl=https://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/&#39;,&#39;twitter&#39;,&#39;751704510&#39;); return false;" target="_blank" rel="nofollow" ><span class="essb_icon essb_icon_twitter"></span><span class="essb_network_name">Twitter</span></a></li><li class="essb_item essb_link_whatsapp nolightbox"> <a href="whatsapp://send?text=Tras%20su%20gol%20150%2C%20%22Sasá%22%20asegura%20que%20quiere%20volver%20a%20la%20selección%20https%3A%2F%2Fversus.lanacion.com.py%2Fversus%2F2020%2F10%2F16%2Ftras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion%2F" title="" onclick="essb.tracking_only('', 'whatsapp', '751704510', true);" target="_self" rel="nofollow" ><span class="essb_icon essb_icon_whatsapp"></span><span class="essb_network_name">WhatsApp</span></a></li></ul></div><!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3 class="versus-title">Comentarios</h3><div class="fb-comments" data-href="http://versus.lanacion.com.py/versus/2020/10/16/tras-su-gol-150-sasa-asegura-que-quiere-volver-a-la-seleccion/" data-numposts="5" data-width="100%" data-colorscheme="light"></div>        <div class="tags-container"><div class="tags"><a href="https://versus.lanacion.com.py/versus/tag/destacados/" rel="tag">Destacados</a></div></div>    </div>
+        <footer class="entry-footer">
+        <div id="taboola-below-article-thumbnails"></div>
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+            });
+        </script>
+    </footer>
+    <script>
+    var $ = jQuery;
+    $(function() {
+        $(window).scroll(function() {
+            $('.anchor').each(function() {
+                if($(window).scrollTop() > $(this).offset().top - $(window).height() / 2) {
+                    if($(this).attr('data-viewed') == 0) {
+                        window.history.pushState("page", $(this).data('title'), $(this).data('url'));
+                        $('title').text($(this).data('title'));
+                        gtag('config', 'UA-74288839-3', {
+                            'page_title': $(this).data('title'),
+                            'page_path': $(this).data('path')
+                        });
+                        gtag('config', 'UA-74288839-7', {
+                            'page_title': $(this).data('title'),
+                            'page_path': $(this).data('path')
+                        });
+                    }
+                    $(this).attr('data-viewed', 1);
+                }
+            });
+        });
+
+        $('iframe[src*="youtube.com/embed"]').each(function() {
+            var $src = $(this).attr('src');
+
+            $(this).replaceWith('<div class="embed-responsive embed-responsive-16by9"><iframe class="cover" src="' + $src + '"></iframe></div>');
+        });
+    });
+    </script>
+</article>
+					
+				
+			</main><!-- #main -->
+
+		<!-- Do the right sidebar check -->
+		
+</div><!-- #closing the primary container from /global-templates/left-sidebar-check.php -->
+
+
+
+  
+<div class="col-xl-3 col-lg-4" id="right-sidebar" role="complementary">
+    <div class="widget-area">
+	<aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/56210683/VS_Nota_D_300x250', [300, 250], 'div-gpt-ad-1560273719857-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /56210683/VS_Nota_D_300x250 -->
+<div class="ad-holder ad-holder-single ad-holder-light">
+<div id='div-gpt-ad-1560273719857-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560273719857-0'); });
+</script>
+</div>
+</div>
+<style>
+.postid-53109 #div-gpt-ad-1560273719857-0, .postid-53109 #div-gpt-ad-1560273757983-0 {
+		display: none !important;
+}
+</style></div></aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Lo más leído</h3>			<div class="textwidget"><div class="vs-layout-1"><div class="row row-grid row-grid-small">            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/16/garnero-sobre-el-arbitraje-el-unico-perjudicado-es-el-futbol-paraguayo/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/09/19180737/DANIEL-GARNERO-OLIMPIA-150x150.jpg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/16/garnero-sobre-el-arbitraje-el-unico-perjudicado-es-el-futbol-paraguayo/">Garnero, sobre el arbitraje: &#8220;El único perjudicado es el fútbol paraguayo&#8221;</a>
+                        </h3>
+                        <span class="fecha">hace 23 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/la-condicion-de-cerro-para-fichar-al-delantero-sergio-bareiro/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/01/03155808/Sergio-Bareiro-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/la-condicion-de-cerro-para-fichar-al-delantero-sergio-bareiro/">La condición de Cerro para fichar al delantero Sergio Bareiro</a>
+                        </h3>
+                        <span class="fecha">hace 12 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-12">
+                <div class="ad-holder">
+                    <!-- /56210683/VS_HOME_MKT -->
+                    <div id='div-gpt-ad-1559934096179-0' style='height:100px; width:300px;'>
+                        <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1559934096179-0'); });
+                        </script>
+                    </div>
+    
+                    <script>
+                      googletag.cmd.push(function() {
+                        googletag.defineSlot('/56210683/VS_HOME_MKT', [300, 100], 'div-gpt-ad-1559934096179-0').addService(googletag.pubads());
+                        googletag.pubads().enableSingleRequest();
+                        googletag.pubads().collapseEmptyDivs();
+                        googletag.enableServices();
+                      });
+                    </script>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/hernan-novick-dejo-sol-y-esta-para-ir-a-un-poderoso-de-sudamerica/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/08/10055553/Novick-3-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/hernan-novick-dejo-sol-y-esta-para-ir-a-un-poderoso-de-sudamerica/">Hernán Novick dejó Sol y está para volver a Peñarol</a>
+                        </h3>
+                        <span class="fecha">hace 8 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-xl-12 col-sm-6 col-12">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/gimenez-el-elogio-a-beto-el-himno-y-sus-comidas-paraguayas-preferidas/" class="flex-basis">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/13175802/EkP1nP0XkAQrlK-1-e1602633514349-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Albirroja</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/gimenez-el-elogio-a-beto-el-himno-y-sus-comidas-paraguayas-preferidas/">Giménez: El elogio a “Beto”, el himno y sus comidas paraguayas preferidas</a>
+                        </h3>
+                        <span class="fecha">hace 8 horas</span>
+                    </div>
+                </div>
+            </div></div></div>
+</div>
+		</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Últimas noticias</h3>			<div class="textwidget"><div class="vs-layout-1"><div class="row row-grid row-grid-small">            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-sebas-ferreira-como-gran-figura-libertad-golea-a-guairena/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17190551/Sebastian-Ferreira-Libertad-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-sebas-ferreira-como-gran-figura-libertad-golea-a-guairena/">Con &#8220;Sebas&#8221; Ferreira como gran figura, Libertad golea a Guaireña</a>
+                        </h3>
+                        <span class="fecha">hace 18 minutos</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-renovado-sol-de-america-se-hace-respetar-y-vence-a-guarani/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17171041/Sol-de-america1-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Fútbol Paraguayo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-renovado-sol-de-america-se-hace-respetar-y-vence-a-guarani/">El renovado Sol de América se hace respetar y vence a Guaraní</a>
+                        </h3>
+                        <span class="fecha">hace 2 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-multicampeon-falcao-observo-el-entrenamiento-de-dos-paraguayas/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17155032/Falcao-y-dos-paraguayas-futsal-fifa1-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Polideportivo</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/el-multicampeon-falcao-observo-el-entrenamiento-de-dos-paraguayas/">El multicampeón &#8220;Falcao&#8221; observó el entrenamiento de dos paraguayas</a>
+                        </h3>
+                        <span class="fecha">hace 3 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-almiron-en-el-ultimo-tramo-newcastle-cayo-ante-el-manchester/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17152905/Ekj1-yoXUAEQJSW-150x150.jpeg" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Paraguayos en el exterior</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/con-almiron-en-el-ultimo-tramo-newcastle-cayo-ante-el-manchester/">Con Almirón en el último tramo, Newcastle cayó ante el Manchester</a>
+                        </h3>
+                        <span class="fecha">hace 4 horas</span>
+                    </div>
+                </div>
+            </div>            <div class="col-lg-12 col-sm-6">
+                <div class="vs-layout-1-row">
+                    <a href="https://versus.lanacion.com.py/versus/2020/10/17/un-campeon-ever-hugo-almeida-vencio-al-covid-19-y-fue-dado-de-alta/">
+                        <img src="https://versuspy.sfo2.digitaloceanspaces.com/versus/wp-content/uploads/2020/10/17142730/Ever-Hugo-Almeida-vencio-coronavirus-covid19-150x150.png" alt="">
+                    </a>
+                    <div class="vs-text">
+                        <span class="categoria">Deporte y más</span>
+                        <h3>
+                            <a href="https://versus.lanacion.com.py/versus/2020/10/17/un-campeon-ever-hugo-almeida-vencio-al-covid-19-y-fue-dado-de-alta/">Un campeón: Éver Hugo Almeida venció al COVID-19 y fue dado de alta</a>
+                        </h3>
+                        <span class="fecha">hace 5 horas</span>
+                    </div>
+                </div>
+            </div></div></div>
+</div>
+		</aside><aside id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/56210683/VS_Nota_E_300x250', [300, 250], 'div-gpt-ad-1560273757983-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- /56210683/VS_Nota_E_300x250 -->
+<div class="ad-holder ad-holder-single ad-holder-light">
+<div id='div-gpt-ad-1560273757983-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1560273757983-0'); });
+</script>
+</div>
+</div>
+</div></aside></div><!-- #right-sidebar -->
+</div>
+
+
+	</div><!-- .row -->
+
+</div><!-- Container end -->
+
+</div><!-- Wrapper end -->
+
+
+
+
+<div class="wrapper" id="wrapper-footer">
+
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-md-12">
+
+				<footer class="site-footer" id="colophon">
+
+				    <span>&copy; 2020 Grupo Nación</span>
+
+				</footer><!-- #colophon -->
+
+			</div><!--col end -->
+
+		</div><!-- row end -->
+
+	</div><!-- container end -->
+
+</div><!-- wrapper end -->
+
+</div><!-- #page we need this extra closing tag here -->
+<div class="modal fade" id="mainNav" tabindex="-1" role="dialog" aria-labelledby="mainNavLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="mainNavLabel">Menú</h4>
+            </div>
+            <div class="modal-body">
+                <nav>
+
+                  <div class="menu-modal-menu-container"><ul id="menu-modal-menu" class="menu"><li id="menu-item-39946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-39946"><a href="https://versus.lanacion.com.py/">Inicio</a></li>
+<li id="menu-item-7467" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7467"><a href="https://versus.lanacion.com.py/versus/category/futbol-paraguayo/">Fútbol Paraguayo</a></li>
+<li id="menu-item-7595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7595"><a href="https://versus.lanacion.com.py/versus/category/futbol-internacional/">Fútbol Internacional</a></li>
+<li id="menu-item-7471" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7471"><a href="https://versus.lanacion.com.py/versus/category/especiales/">Especiales</a></li>
+<li id="menu-item-7468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7468"><a href="https://versus.lanacion.com.py/versus/category/polideportivo/">Polideportivo</a></li>
+<li id="menu-item-7472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7472"><a href="https://versus.lanacion.com.py/versus/category/paraguayos-en-el-exterior/">Paraguayos en el exterior</a></li>
+<li id="menu-item-85300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85300"><a href="https://versus.lanacion.com.py/versus/category/deporte-y-mas/">Deporte y más</a></li>
+</ul></div>
+                </nav>
+            </div>
+            <div class="modal-menu-logo modal-footer">
+              <form method="get" id="searchform" action="https://versus.lanacion.com.py/" role="search">
+	<label class="assistive-text" for="s">Buscar</label>
+	<div class="input-group">
+		<input class="field form-control" id="s" name="s" type="text"
+			placeholder="Buscar &hellip;" value="">
+		<span class="input-group-append">
+			<input class="submit btn btn-primary" id="searchsubmit" name="submit" type="submit"
+			value="Buscar">
+	</span>
+	</div>
+</form>
+              		<h2 class = "easylogo" ><a href="https://versus.lanacion.com.py" title="Versus">
+			<span style = "line-height:0" class = "none">
+			<img src="https://www.versus.com.py/wp-content/uploads/2018/07/logo.png" alt="Versus"
+			 />
+			</span></a></h2>            </div>
+        </div>
+    </div>
+</div>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/app/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:'8347839393769788a7b2febc606bf4d8'})})</script><script type='text/javascript' src='https://versus.lanacion.com.py/wp-content/themes/versus/js/popper.min.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-content/themes/versus/js/theme.min.js'></script>
+<script type='text/javascript' src='https://versus.lanacion.com.py/wp-includes/js/wp-embed.min.js'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&appId=200541930779835&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<link rel="stylesheet" id="essb-cct-style"  href="https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/lib/modules/click-to-tweet/assets/css/styles.css" type="text/css" media="all" /><script type="text/javascript">
+				(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+				po.src = 'https://versus.lanacion.com.py/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();</script><script type="text/javascript"></script><script src="https://versus.lanacion.com.py/wp-content/themes/versus/js/owl.carousel.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/js/jquery.magnific-popup.min.js"></script>
+<script>
+var $ = jQuery;
+$(function() {
+    $('.galeria').owlCarousel({
+        lazyLoad: true,
+        loop: true,
+        nav: true,
+        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+        dots: false,
+        responsive: {
+          0: {
+              items: 2,
+          },
+          768: {
+              items: 3,
+          },
+          992: {
+              items: 4,
+          },
+          1200: {
+              items: 5,
+          },
+          1600: {
+              items: 6,
+          },
+        }
+    });
+
+    $('.versus-marcadores').owlCarousel({
+        nav: true,
+        navText: ['<i class="fa fa-angle-left marcadores-prev"></i>', '<i class="fa fa-angle-right ' +
+        'marcadores-next"></i>'],
+        dots: false,
+        responsive: {
+          0: {
+              items: 1,
+          },
+          576: {
+              items: 2,
+          },
+          768: {
+              items: 3,
+          },
+          992: {
+              items: 4,
+          },
+          1200: {
+              items: 5,
+          },
+          1600: {
+              items: 6,
+          },
+        },
+        startPosition: $('.item.current').first().index()
+    });
+
+    $('.galeria .owl-item:not(.cloned) .zoom').magnificPopup({
+        type: 'image',
+        tLoading: 'Cargando #%curr%...',
+        mainClass: 'mfp-fade',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            tPrev: 'Anterior (Flecha izquierda)',
+            tNext: 'Siguiente (Flecha derecha)',
+            tCounter: '%curr% de %total%'
+        },
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('.single-galeria .zoom').magnificPopup({
+        type: 'image',
+        tLoading: 'Cargando #%curr%...',
+        mainClass: 'mfp-fade',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            tPrev: 'Anterior (Flecha izquierda)',
+            tNext: 'Siguiente (Flecha derecha)',
+            tCounter: '%curr% de %total%'
+        },
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('body').magnificPopup({
+        delegate: '.magic-zoom',
+        type: 'image',
+        tLoading: 'Cargando imagen',
+        mainClass: 'mfp-fade',
+        image: {
+            tError: '<a href="%url%">La imagen #%curr%</a> no se ha podido cargar.',
+        }
+    });
+
+    $('.load-more').on('click', function() {
+        $('.versus-videos .row > *').fadeIn();
+        $(this).remove();
+        return false;
+    });
+
+    $('#versus-buscador').on('submit', function(e) {
+        e.preventDefault();
+        $.post('/buscador/ajax.php', $('#versus-buscador').serialize(), function(response) {
+            var data = JSON.parse(response);
+            $('#alert').removeClass().addClass(data.class).html(data.message);
+            $('#response .data').html(data.data);
+            $('#response').addClass('visible');
+        });
+    });
+
+    var wheeling = false;
+    if($(window).width() > 992) {
+        $('.selecciones-slider').addClass('owl-carousel');
+        var owl = $('.selecciones-slider').owlCarousel({
+            items: 1,
+            nav: false,
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
+            loop: true,
+            mouseDrag: false,
+            touchDrag: false,
+            autoHeight: true,
+            onInitialized: function(e) {
+                $('body').removeClass('overflow-hidden');
+            },
+            onTranslated: function(e) {
+                wheeling = false;
+            }
+        });
+    } else {
+        $('.selecciones-slider .item').addClass('visible');
+    }
+
+    // owl.on('mousewheel', '.owl-stage', function (e) {
+    //     if(!wheeling) {
+    //         wheeling = true;
+    //         if(e.deltaY < 0) {
+    //             owl.trigger('next.owl');
+    //         } else {
+    //             owl.trigger('prev.owl');
+    //         }
+    //         e.preventDefault();
+    //     }
+    // });
+
+    if($('.live-scores').length > 0) {
+        liveScores();
+        listenScores = setInterval(liveScores, 60000);
+    }
+});
+</script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/flowplayer/flowplayer.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/flowplayer/flowplayer.hlsjs.light.min.js"></script>
+<script src="https://versus.lanacion.com.py/wp-content/themes/versus/radio/js/radio-player.js"></script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+    if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+    }
+}(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/embimedia-versus/loader.js',
+    'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
+</script>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+</script>
+</body>
+</html>
