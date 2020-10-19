@@ -1,0 +1,115 @@
+October 16, 2020 4:47 pm
+minute read
+Write a comment
+Share this article:
+The two important-severity flaws in Microsoft Windows Codecs Library and Visual Studio Code could enable remote code execution.
+Microsoft has issued out-of-band patches for two “important” severity vulnerabilities, which if exploited could allow for remote code execution.
+One flaw (CVE-2020-17023) exists in Microsoft’s Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. The other (CVE-2020-17022) is in the Microsoft Windows Codecs Library; the codecs module provides stream and file interfaces for transcoding data in Windows programs.
+“Microsoft has released security updates to address remote code execution vulnerabilities affecting Windows Codecs Library and Visual Studio Code,” according to a Friday CISA alert on the patches . “An attacker could exploit these vulnerabilities to take control of an affected system.”
+According to Microsoft, one “important” severity flaw ( CVE-2020-17022 ) stems from the way that Microsoft Windows Codecs Library handles objects in memory. This vulnerability has a CVSS score of 7.8 out of 10.
+An attacker who successfully exploited the vulnerability could execute arbitrary code, according to Microsoft. While an attacker could be remote to launch the attack, exploitation requires that a program process a specially crafted image file.
+Only customers who have installed the optional HEVC or “HEVC from Device Manufacturer” media codecs from Microsoft Store may be vulnerable.  The secure Microsoft installed packed versions are 1.0.32762.0, 1.0.32763.0, and later.
+“The update addresses the vulnerability by correcting how Microsoft Windows Codecs Library handles objects in memory,” according to Microsoft.
+The other “important” severity flaw (which also has a CVSS score of 7.8 out of 10) exists in Visual Studio Code, when a user is tricked into opening a malicious ‘package.json’ file.
+According to Microsoft, an attacker who successfully exploited this flaw ( CVE-2020-17023 ) could run arbitrary code in the context of the current user. An attacker would first need to convince a target to clone a repository and open it in Visual Studio Code (via social engineering or otherwise). The attacker’s malicious code would execute when the target opens the malicious ‘package.json’ file.
+“If the current user is logged on with administrative user rights, an attacker could take control of the affected system,” said Microsoft. “An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.”
+Microsoft’s update addresses the vulnerability by modifying the way Visual Studio Code handles JSON files.
+In a Twitter thread, Justin Steven, who reported the flaw, said that the issue stems from a bypass of a previously deployed patch for an RCE flaw in Visual Studio Code (CVE-2020-16881).
+Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a "remote code execution" vulnerability regarding "malicious package.json files". The patch can be trivially bypassed.  A thread 🧵
+— GNU/JUSTIN (@justinsteven) October 2, 2020
+Neither flaw has been observed being exploited in the wild according to Microsoft. Microsoft also did not offer mitigations or workarounds for other flaws – but updates will be automatically installed for users.
+“Affected customers will be automatically updated by Microsoft Store,” according to Microsoft. “Customers do not need to take any action to receive the update.”
+The fixes come days after Microsoft’s October Patch Tuesday updates , during which it released fixes for 87 security vulnerabilities, 11 of them critical – and one potentially wormable.
+In the case of these bugs, “servicing for store apps/components does not follow the monthly ‘Update Tuesday’ cadence, but are offered whenever necessary,” according to Microsoft.
+October 16, 2020 4:47 pm
+minute read
+Write a comment
+Share this article:
+The two important-severity flaws in Microsoft Windows Codecs Library and Visual Studio Code could enable remote code execution.
+Microsoft has issued out-of-band patches for two “important” severity vulnerabilities, which if exploited could allow for remote code execution.
+One flaw (CVE-2020-17023) exists in Microsoft’s Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. The other (CVE-2020-17022) is in the Microsoft Windows Codecs Library; the codecs module provides stream and file interfaces for transcoding data in Windows programs.
+“Microsoft has released security updates to address remote code execution vulnerabilities affecting Windows Codecs Library and Visual Studio Code,” according to a Friday CISA alert on the patches . “An attacker could exploit these vulnerabilities to take control of an affected system.”
+According to Microsoft, one “important” severity flaw ( CVE-2020-17022 ) stems from the way that Microsoft Windows Codecs Library handles objects in memory. This vulnerability has a CVSS score of 7.8 out of 10.
+An attacker who successfully exploited the vulnerability could execute arbitrary code, according to Microsoft. While an attacker could be remote to launch the attack, exploitation requires that a program process a specially crafted image file.
+Only customers who have installed the optional HEVC or “HEVC from Device Manufacturer” media codecs from Microsoft Store may be vulnerable.  The secure Microsoft installed packed versions are 1.0.32762.0, 1.0.32763.0, and later.
+“The update addresses the vulnerability by correcting how Microsoft Windows Codecs Library handles objects in memory,” according to Microsoft.
+The other “important” severity flaw (which also has a CVSS score of 7.8 out of 10) exists in Visual Studio Code, when a user is tricked into opening a malicious ‘package.json’ file.
+According to Microsoft, an attacker who successfully exploited this flaw ( CVE-2020-17023 ) could run arbitrary code in the context of the current user. An attacker would first need to convince a target to clone a repository and open it in Visual Studio Code (via social engineering or otherwise). The attacker’s malicious code would execute when the target opens the malicious ‘package.json’ file.
+“If the current user is logged on with administrative user rights, an attacker could take control of the affected system,” said Microsoft. “An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.”
+Microsoft’s update addresses the vulnerability by modifying the way Visual Studio Code handles JSON files.
+In a Twitter thread, Justin Steven, who reported the flaw, said that the issue stems from a bypass of a previously deployed patch for an RCE flaw in Visual Studio Code (CVE-2020-16881).
+Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a "remote code execution" vulnerability regarding "malicious package.json files". The patch can be trivially bypassed.  A thread 🧵
+— GNU/JUSTIN (@justinsteven) October 2, 2020
+Neither flaw has been observed being exploited in the wild according to Microsoft. Microsoft also did not offer mitigations or workarounds for other flaws – but updates will be automatically installed for users.
+“Affected customers will be automatically updated by Microsoft Store,” according to Microsoft. “Customers do not need to take any action to receive the update.”
+The fixes come days after Microsoft’s October Patch Tuesday updates , during which it released fixes for 87 security vulnerabilities, 11 of them critical – and one potentially wormable.
+In the case of these bugs, “servicing for store apps/components does not follow the monthly ‘Update Tuesday’ cadence, but are offered whenever necessary,” according to Microsoft.
+October 16, 2020 4:47 pm
+minute read
+Write a comment
+Share this article:
+The two important-severity flaws in Microsoft Windows Codecs Library and Visual Studio Code could enable remote code execution.
+Microsoft has issued out-of-band patches for two “important” severity vulnerabilities, which if exploited could allow for remote code execution.
+One flaw (CVE-2020-17023) exists in Microsoft’s Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. The other (CVE-2020-17022) is in the Microsoft Windows Codecs Library; the codecs module provides stream and file interfaces for transcoding data in Windows programs.
+“Microsoft has released security updates to address remote code execution vulnerabilities affecting Windows Codecs Library and Visual Studio Code,” according to a Friday CISA alert on the patches . “An attacker could exploit these vulnerabilities to take control of an affected system.”
+According to Microsoft, one “important” severity flaw ( CVE-2020-17022 ) stems from the way that Microsoft Windows Codecs Library handles objects in memory. This vulnerability has a CVSS score of 7.8 out of 10.
+An attacker who successfully exploited the vulnerability could execute arbitrary code, according to Microsoft. While an attacker could be remote to launch the attack, exploitation requires that a program process a specially crafted image file.
+Only customers who have installed the optional HEVC or “HEVC from Device Manufacturer” media codecs from Microsoft Store may be vulnerable.  The secure Microsoft installed packed versions are 1.0.32762.0, 1.0.32763.0, and later.
+“The update addresses the vulnerability by correcting how Microsoft Windows Codecs Library handles objects in memory,” according to Microsoft.
+The other “important” severity flaw (which also has a CVSS score of 7.8 out of 10) exists in Visual Studio Code, when a user is tricked into opening a malicious ‘package.json’ file.
+According to Microsoft, an attacker who successfully exploited this flaw ( CVE-2020-17023 ) could run arbitrary code in the context of the current user. An attacker would first need to convince a target to clone a repository and open it in Visual Studio Code (via social engineering or otherwise). The attacker’s malicious code would execute when the target opens the malicious ‘package.json’ file.
+“If the current user is logged on with administrative user rights, an attacker could take control of the affected system,” said Microsoft. “An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.”
+Microsoft’s update addresses the vulnerability by modifying the way Visual Studio Code handles JSON files.
+In a Twitter thread, Justin Steven, who reported the flaw, said that the issue stems from a bypass of a previously deployed patch for an RCE flaw in Visual Studio Code (CVE-2020-16881).
+Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a "remote code execution" vulnerability regarding "malicious package.json files". The patch can be trivially bypassed.  A thread 🧵
+— GNU/JUSTIN (@justinsteven) October 2, 2020
+Neither flaw has been observed being exploited in the wild according to Microsoft. Microsoft also did not offer mitigations or workarounds for other flaws – but updates will be automatically installed for users.
+“Affected customers will be automatically updated by Microsoft Store,” according to Microsoft. “Customers do not need to take any action to receive the update.”
+The fixes come days after Microsoft’s October Patch Tuesday updates , during which it released fixes for 87 security vulnerabilities, 11 of them critical – and one potentially wormable.
+In the case of these bugs, “servicing for store apps/components does not follow the monthly ‘Update Tuesday’ cadence, but are offered whenever necessary,” according to Microsoft.
+October 16, 2020 4:47 pm
+minute read
+Write a comment
+Share this article:
+The two important-severity flaws in Microsoft Windows Codecs Library and Visual Studio Code could enable remote code execution.
+Microsoft has issued out-of-band patches for two “important” severity vulnerabilities, which if exploited could allow for remote code execution.
+One flaw (CVE-2020-17023) exists in Microsoft’s Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. The other (CVE-2020-17022) is in the Microsoft Windows Codecs Library; the codecs module provides stream and file interfaces for transcoding data in Windows programs.
+“Microsoft has released security updates to address remote code execution vulnerabilities affecting Windows Codecs Library and Visual Studio Code,” according to a Friday CISA alert on the patches . “An attacker could exploit these vulnerabilities to take control of an affected system.”
+According to Microsoft, one “important” severity flaw ( CVE-2020-17022 ) stems from the way that Microsoft Windows Codecs Library handles objects in memory. This vulnerability has a CVSS score of 7.8 out of 10.
+An attacker who successfully exploited the vulnerability could execute arbitrary code, according to Microsoft. While an attacker could be remote to launch the attack, exploitation requires that a program process a specially crafted image file.
+Only customers who have installed the optional HEVC or “HEVC from Device Manufacturer” media codecs from Microsoft Store may be vulnerable.  The secure Microsoft installed packed versions are 1.0.32762.0, 1.0.32763.0, and later.
+“The update addresses the vulnerability by correcting how Microsoft Windows Codecs Library handles objects in memory,” according to Microsoft.
+The other “important” severity flaw (which also has a CVSS score of 7.8 out of 10) exists in Visual Studio Code, when a user is tricked into opening a malicious ‘package.json’ file.
+According to Microsoft, an attacker who successfully exploited this flaw ( CVE-2020-17023 ) could run arbitrary code in the context of the current user. An attacker would first need to convince a target to clone a repository and open it in Visual Studio Code (via social engineering or otherwise). The attacker’s malicious code would execute when the target opens the malicious ‘package.json’ file.
+“If the current user is logged on with administrative user rights, an attacker could take control of the affected system,” said Microsoft. “An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.”
+Microsoft’s update addresses the vulnerability by modifying the way Visual Studio Code handles JSON files.
+In a Twitter thread, Justin Steven, who reported the flaw, said that the issue stems from a bypass of a previously deployed patch for an RCE flaw in Visual Studio Code (CVE-2020-16881).
+Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a "remote code execution" vulnerability regarding "malicious package.json files". The patch can be trivially bypassed.  A thread 🧵
+— GNU/JUSTIN (@justinsteven) October 2, 2020
+Neither flaw has been observed being exploited in the wild according to Microsoft. Microsoft also did not offer mitigations or workarounds for other flaws – but updates will be automatically installed for users.
+“Affected customers will be automatically updated by Microsoft Store,” according to Microsoft. “Customers do not need to take any action to receive the update.”
+The fixes come days after Microsoft’s October Patch Tuesday updates , during which it released fixes for 87 security vulnerabilities, 11 of them critical – and one potentially wormable.
+In the case of these bugs, “servicing for store apps/components does not follow the monthly ‘Update Tuesday’ cadence, but are offered whenever necessary,” according to Microsoft.
+October 16, 2020 4:47 pm
+minute read
+Write a comment
+Share this article:
+The two important-severity flaws in Microsoft Windows Codecs Library and Visual Studio Code could enable remote code execution.
+Microsoft has issued out-of-band patches for two “important” severity vulnerabilities, which if exploited could allow for remote code execution.
+One flaw (CVE-2020-17023) exists in Microsoft’s Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. The other (CVE-2020-17022) is in the Microsoft Windows Codecs Library; the codecs module provides stream and file interfaces for transcoding data in Windows programs.
+“Microsoft has released security updates to address remote code execution vulnerabilities affecting Windows Codecs Library and Visual Studio Code,” according to a Friday CISA alert on the patches . “An attacker could exploit these vulnerabilities to take control of an affected system.”
+According to Microsoft, one “important” severity flaw ( CVE-2020-17022 ) stems from the way that Microsoft Windows Codecs Library handles objects in memory. This vulnerability has a CVSS score of 7.8 out of 10.
+An attacker who successfully exploited the vulnerability could execute arbitrary code, according to Microsoft. While an attacker could be remote to launch the attack, exploitation requires that a program process a specially crafted image file.
+Only customers who have installed the optional HEVC or “HEVC from Device Manufacturer” media codecs from Microsoft Store may be vulnerable.  The secure Microsoft installed packed versions are 1.0.32762.0, 1.0.32763.0, and later.
+“The update addresses the vulnerability by correcting how Microsoft Windows Codecs Library handles objects in memory,” according to Microsoft.
+The other “important” severity flaw (which also has a CVSS score of 7.8 out of 10) exists in Visual Studio Code, when a user is tricked into opening a malicious ‘package.json’ file.
+According to Microsoft, an attacker who successfully exploited this flaw ( CVE-2020-17023 ) could run arbitrary code in the context of the current user. An attacker would first need to convince a target to clone a repository and open it in Visual Studio Code (via social engineering or otherwise). The attacker’s malicious code would execute when the target opens the malicious ‘package.json’ file.
+“If the current user is logged on with administrative user rights, an attacker could take control of the affected system,” said Microsoft. “An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.”
+Microsoft’s update addresses the vulnerability by modifying the way Visual Studio Code handles JSON files.
+In a Twitter thread, Justin Steven, who reported the flaw, said that the issue stems from a bypass of a previously deployed patch for an RCE flaw in Visual Studio Code (CVE-2020-16881).
+Microsoft Visual Studio Code seems to have botched the fix for CVE-2020-16881, a "remote code execution" vulnerability regarding "malicious package.json files". The patch can be trivially bypassed.  A thread 🧵
+— GNU/JUSTIN (@justinsteven) October 2, 2020
+Neither flaw has been observed being exploited in the wild according to Microsoft. Microsoft also did not offer mitigations or workarounds for other flaws – but updates will be automatically installed for users.
+“Affected customers will be automatically updated by Microsoft Store,” according to Microsoft. “Customers do not need to take any action to receive the update.”
+The fixes come days after Microsoft’s October Patch Tuesday updates , during which it released fixes for 87 security vulnerabilities, 11 of them critical – and one potentially wormable.
+In the case of these bugs, “servicing for store apps/components does not follow the monthly ‘Update Tuesday’ cadence, but are offered whenever necessary,” according to Microsoft.
