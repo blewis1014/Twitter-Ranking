@@ -1,0 +1,10 @@
+{'uri': 'https://www.theverge.com/2020/10/15/21517293/xbox-series-x-s-dashboard-ui-october-update-release?_lrsc=f9510bb1-a7e2-43c8-9e49-761f32bbdc52', 'TF': 0.031, 'IDF': 32.357, 'TF-IDF': 1.003}
+{'uri': 'https://g1.globo.com/pop-arte/games/noticia/2020/10/16/microsoft-demite-apresentadora-do-xbox-br-que-sofreu-ameacas.ghtml?utm_source=twitter&utm_medium=social&utm_campaign=g1', 'TF': 0.025, 'IDF': 32.357, 'TF-IDF': 0.809}
+{'uri': 'https://tictechbuzz.com/remembering-the-classics-the-xbox-podcast-featuring-tim-schafer/', 'TF': 0.023, 'IDF': 32.357, 'TF-IDF': 0.744}
+{'uri': 'https://www.exophase.com/user/toniazzo/?1602892894', 'TF': 0.021, 'IDF': 32.357, 'TF-IDF': 0.679}
+{'uri': 'https://www.resetera.com/threads/xbox-brasil-dismisses-new-host-after-she-was-the-victim-of-death-and-rape-threats.307873/', 'TF': 0.019, 'IDF': 32.357, 'TF-IDF': 0.615}
+{'uri': 'https://www.ign.com/articles/phil-spencer-xbox-bethesda-ps5?utm_source=dlvr.it&utm_medium=twitter', 'TF': 0.019, 'IDF': 32.357, 'TF-IDF': 0.615}
+{'uri': 'https://www.engadget.com/lucasarts-double-fine-remasters-game-pass-235238100.html', 'TF': 0.018, 'IDF': 32.357, 'TF-IDF': 0.582}
+{'uri': 'https://www.gamespot.com/articles/marvels-avengers-ps5-and-xbox-series-x-s-versions-delayed-to-2021/1100-6483398/', 'TF': 0.012, 'IDF': 32.357, 'TF-IDF': 0.388}
+{'uri': 'https://www.gamespot.com/articles/future-bethesda-titles-dont-need-to-be-on-ps5-says-xboxs-phil-spencer/1100-6483415/', 'TF': 0.01, 'IDF': 32.357, 'TF-IDF': 0.324}
+{'uri': 'https://newszoneweb.com/?p=5809', 'TF': 0.001, 'IDF': 32.357, 'TF-IDF': 0.032}

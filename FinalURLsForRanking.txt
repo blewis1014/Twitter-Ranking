@@ -1,0 +1,10 @@
+{'file': 'processedHtmlFile1.txt', 'uri': 'https://www.resetera.com/threads/xbox-brasil-dismisses-new-host-after-she-was-the-victim-of-death-and-rape-threats.307873/', 'words': 412, 'occurences': 8}
+{'file': 'processedHtmlFile103.txt', 'uri': 'https://www.theverge.com/2020/10/15/21517293/xbox-series-x-s-dashboard-ui-october-update-release?_lrsc=f9510bb1-a7e2-43c8-9e49-761f32bbdc52', 'words': 256, 'occurences': 8}
+{'file': 'processedHtmlFile2.txt', 'uri': 'https://www.exophase.com/user/toniazzo/?1602892894', 'words': 48, 'occurences': 1}
+{'file': 'processedHtmlFile194.txt', 'uri': 'https://newszoneweb.com/?p=5809','words': 1247, 'occurences': 1}
+{'file': 'processedHtmlFile106.txt', 'uri': 'https://www.gamespot.com/articles/future-bethesda-titles-dont-need-to-be-on-ps5-says-xboxs-phil-spencer/1100-6483415/', 'words': 407, 'occurences': 4}
+{'file': 'processedHtmlFile740.txt', 'uri': 'https://www.gamespot.com/articles/marvels-avengers-ps5-and-xbox-series-x-s-versions-delayed-to-2021/1100-6483398/', 'words': 323, 'occurences': 4}
+{'file': 'processedHtmlFile12.txt', 'uri': 'https://tictechbuzz.com/remembering-the-classics-the-xbox-podcast-featuring-tim-schafer/', 'words': 481, 'occurences': 11}
+{'file': 'processedHtmlFile8.txt', 'uri': 'https://g1.globo.com/pop-arte/games/noticia/2020/10/16/microsoft-demite-apresentadora-do-xbox-br-que-sofreu-ameacas.ghtml?utm_source=twitter&utm_medium=social&utm_campaign=g1', 'words': 276, 'occurences': 7}
+{'file': 'processedHtmlFile13.txt', 'uri': 'https://www.engadget.com/lucasarts-double-fine-remasters-game-pass-235238100.html', 'words': 225, 'occurences': 4}
+{'file': 'processedHtmlFile119.txt', 'uri': 'https://www.ign.com/articles/phil-spencer-xbox-bethesda-ps5?utm_source=dlvr.it&utm_medium=twitter', 'words': 587, 'occurences': 11}
